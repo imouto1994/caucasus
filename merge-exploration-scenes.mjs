@@ -48,10 +48,14 @@ const PREFIX_PATTERN = /^([A-Z]\d{2})_(.+)\.txt$/;
 const SEPARATOR = Buffer.from("\n--------------------\n");
 
 async function main() {
+  // Step 1: Discover all .txt script files under the original/ directory.
   const files = await glob(`${ORIGINAL_DIR}/*.txt`);
 
-  // Group exploration files by their shared prefix.
-  // e.g. { "F01" => ["original/F01_map.txt", "original/F01_room.txt", ...] }
+  // Step 2: Group exploration files by their shared prefix.
+  // Only files matching PREFIX_PATTERN are exploration scenes; the rest
+  // (e.g. "01_1600.txt", "start.txt") are regular story scripts and are
+  // skipped.
+  // Result: { "F01" => ["original/F01_map.txt", ...], "L01" => [...], ... }
   const groups = new Map();
   for (const filePath of files) {
     const filename = path.basename(filePath);
@@ -65,25 +69,30 @@ async function main() {
     groups.get(prefix).push(filePath);
   }
 
+  // Step 3: Ensure the output directory exists.
   await mkdir(OUTPUT_DIR, { recursive: true });
 
+  // Step 4: For each prefix group, merge all scene files into a single
+  // output file. Files within each group are sorted alphabetically so the
+  // merged output has a deterministic order.
   const sortedPrefixes = [...groups.keys()].sort();
 
   for (const prefix of sortedPrefixes) {
     const filePaths = groups.get(prefix).sort();
     const buffers = [];
 
+    // Step 4a: Build the merged content as a list of Buffers.
+    // Header and content are kept as raw buffers to preserve the original
+    // Shift-JIS encoding from the source files.
     for (let i = 0; i < filePaths.length; i++) {
       if (i > 0) buffers.push(SEPARATOR);
 
       const filename = path.basename(filePaths[i]);
-
-      // Header and content are kept as raw buffers to preserve Shift-JIS
-      // encoding from the source files.
       buffers.push(Buffer.from(`${filename}\n********************\n`));
       buffers.push(await readFile(filePaths[i]));
     }
 
+    // Step 4b: Write the concatenated buffers to the output file.
     const outputPath = path.join(OUTPUT_DIR, `${prefix}.txt`);
     await writeFile(outputPath, Buffer.concat(buffers));
 
