@@ -1,0 +1,6 @@
+{
+  "name": "caucasus",
+  "dependencies": {
+    "glob": "^13.0.6"
+  }
+}
