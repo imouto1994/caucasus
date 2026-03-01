@@ -1,13 +1,21 @@
 /**
  * Detect Vertical-Style Scripts
  *
- * Japanese text set in vertical (tategumi) style is typically indented with a
- * fullwidth space (　, U+3000) at the start of every line. In Shift-JIS that
- * character is encoded as the two-byte sequence 0x81 0x40.
+ * Japanese text set in vertical (tategumi) style starts every line with one
+ * of two characters:
+ *   - 　 (fullwidth space, U+3000) — indent for narration lines
+ *   - 「 (left corner bracket, U+300C) — opening of a dialogue line
+ *
+ * In Shift-JIS these are encoded as:
+ *   　 → 0x81 0x40
+ *   「 → 0x81 0x42
+ *
+ * Both share the lead byte 0x81, so the check only needs to branch on the
+ * second byte.
  *
  * This script scans every .txt file in `original/`, reads each one as a raw
  * buffer (preserving Shift-JIS bytes), and flags any file where ALL non-empty
- * lines begin with the 0x81 0x40 byte pair.
+ * lines begin with one of those two byte pairs.
  *
  * Usage:
  *   node detect-vertical-scripts.mjs
@@ -19,13 +27,16 @@ import path from "path";
 
 const ORIGINAL_DIR = "original";
 
-// Shift-JIS encoding of the fullwidth space (　, U+3000).
-const SJIS_FULLWIDTH_SPACE_B0 = 0x81;
-const SJIS_FULLWIDTH_SPACE_B1 = 0x40;
+// Both vertical-style line starters share the Shift-JIS lead byte 0x81.
+const SJIS_LEAD_BYTE = 0x81;
+// 　 (fullwidth space, U+3000) → 0x81 0x40
+const SJIS_FULLWIDTH_SPACE = 0x40;
+// 「 (left corner bracket, U+300C) → 0x81 0x75
+const SJIS_LEFT_CORNER_BRACKET = 0x75;
 
 /**
  * Returns true when every non-empty line in the buffer starts with the
- * Shift-JIS fullwidth-space byte pair (0x81 0x40).
+ * Shift-JIS encoding of either 　 (0x81 0x40) or 「 (0x81 0x42).
  */
 function isVertical(buf) {
   let pos = 0;
@@ -42,12 +53,13 @@ function isVertical(buf) {
 
     if (lineLen > 0) {
       hasContent = true;
-      // Fail fast: the moment any non-empty line doesn't open with the
-      // fullwidth-space bytes the file is not uniformly vertical.
+      // Fail fast: the moment any non-empty line doesn't open with either
+      // vertical-style starter the file is not uniformly vertical.
       if (
         lineLen < 2 ||
-        buf[pos] !== SJIS_FULLWIDTH_SPACE_B0 ||
-        buf[pos + 1] !== SJIS_FULLWIDTH_SPACE_B1
+        buf[pos] !== SJIS_LEAD_BYTE ||
+        (buf[pos + 1] !== SJIS_FULLWIDTH_SPACE &&
+          buf[pos + 1] !== SJIS_LEFT_CORNER_BRACKET)
       ) {
         return false;
       }
