@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "So that was Shion-san's room... She’s the only one living out there in the annex, isn't she?"
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Maya
+＃Maya
 "That is the room of my youngest daughter, Shion. Her health is delicate, so we have her stay in the annex."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Ai
+＃Ai
 "...Yes, that is Shion's room. Because her body is weak, she has lived there for a very long time."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Benio
+＃Benio
 "If you want to get to the tower, your only option is to go through the door at the back of the office."
-#Protagonist
+＃Protagonist
 "I see."
-#Tsujimura
+＃Tsujimura
 "With all this snow, I shall have to do some shoveling myself. It would be a disaster if Lady Shion were to trip and fall."
-#Protagonist
+＃Protagonist
 "You're right."
-#Takamine
+＃Takamine
 "...I’ve heard that Shion-kun has lived in that tower since long ago."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Mikanagi
+＃Mikanagi
 "I’m told Shion-san lives in the annex due to her poor health... but it’s possible my father was the one who gave those instructions..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I’m the one who brings Lady Shion her meals, though she usually eats them in the office."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Narumi
+＃Narumi
 "Only Lady Shion lives out in the annex... It’s a bit strange, isn't it?"
-#Protagonist
+＃Protagonist
 "It is..."

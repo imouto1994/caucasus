@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "I'm not really sure... I went to bed early last night."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "I wouldn't know; I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I don't know... I was sleeping in my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "I was resting in my room all last night..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Last night... well, you were there, after all..."
-#Protagonist
+＃Protagonist
 "...Ah, that's right."
-#Tsujimura
+＃Tsujimura
 "...I went to sleep early last night myself, you see..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know anything about what happens outside my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "...I am sorry, but I really don't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Weren't they sleeping in their room? I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see."

@@ -10,24 +10,24 @@ Hardly any dirt can be seen, likely because it isn't used much.
 This is the coffin Shion-san was sleeping in.
 I try to lift the lid, but it's incredibly heavy.
 There’s no way... Shion-san could have done this alone...
-#Protagonist
+＃Protagonist
 "Hm, is this... hair?"
 I noticed it when I looked down at the floor near the coffin.
 Long, white strands of hair are scattered on the floor.
 They looked damaged, frizzy as if they had been torn out.
-#Protagonist
+＃Protagonist
 "It must be... Shion-san's..."
 I don't know anyone else in the manor with white hair but her.
 Did something happen here...?
 There don't seem to be any problems with the coffin, but what could this hair mean...?
-#Protagonist
+＃Protagonist
 "This is..."
 Yellow powder was scattered across the carpet.
 It looks like things really are a bit dirty.
 I should clean this up properly.
 It looks like pollen.
 When I peeked under a bench, I found a slightly larger clump lying there.
-#Protagonist
+＃Protagonist
 "Snowdrop..."
 The flower that had fallen near Isamu-san's body was missing one stamen.
 If this happened to be that stamen...

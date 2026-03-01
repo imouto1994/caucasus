@@ -1,113 +1,113 @@
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Souko-san staring at the blood-written message on the wall.
-#Protagonist
+＃Protagonist
 "Souko-san."
-#Souko
+＃Souko
 "...Oh, it's you."
 A slight smile flickers across Souko-san's face.
-#Protagonist
+＃Protagonist
 "Were you investigating?"
-#Souko
+＃Souko
 "In a way. It's hard not to be curious about this."
-#Protagonist
+＃Protagonist
 "That's for sure..."
-#Souko
+＃Souko
 "Did you need something?"
-#Protagonist
+＃Protagonist
 "Uh, well..."
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Souko-san staring at the blood-written message on the wall.
-#Protagonist
+＃Protagonist
 "Souko-san."
-#Souko
+＃Souko
 "...Oh, it's you. Do you need something again?"
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Benio-san staring at the blood-written message on the wall with a grim expression.
-#Protagonist
+＃Protagonist
 "Ah, Benio-san."
-#Benio
+＃Benio
 "Hm... It's you."
-#Protagonist
+＃Protagonist
 "Were you investigating?"
-#Benio
+＃Benio
 "Yes. It was bothering me a bit."
 Benio-san touched the writing on the wall.
-#Benio
+＃Benio
 "...I wonder who wrote this."
-#Protagonist
+＃Protagonist
 "Isn't it... obviously the killer?"
-#Benio
+＃Benio
 "...If so, why send something like this to her?"
-#Protagonist
+＃Protagonist
 "...Maybe because she was investigating the case?"
-#Benio
+＃Benio
 "You've been investigating as well, haven't you?"
-#Protagonist
+＃Protagonist
 "Maybe she was closer to the truth than I am..."
-#Benio
+＃Benio
 "Hmm..."
 Benio-san falls silent.
-#Benio
+＃Benio
 "...Perhaps they're getting impatient because things aren't going as planned."
-#Protagonist
+＃Protagonist
 "Impatient? You mean the killer?"
-#Benio
+＃Benio
 "Yes."
-#Protagonist
+＃Protagonist
 "Why would they be?"
-#Benio
+＃Benio
 "Because I'm still alive after being attacked. Naturally, I haven't let my guard down since then. It's only natural the target would shift to her, as she's digging quite deep."
-#Protagonist
+＃Protagonist
 "...I'll go tell her to be careful."
-#Benio
+＃Benio
 "Yes, that would be wise."
 I decided to leave the room in a hurry.
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Benio-san was in the room.
-#Benio
+＃Benio
 "Oh, what is it this time?"
 I've arrived at the room Souko-san had been using.
 I knock lightly on the door.
-#Protagonist
+＃Protagonist
 "Oh... is no one here?"
 She probably has no more business here.
 I decided to go somewhere else.
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Takamine-san.
-#Protagonist
+＃Protagonist
 "Oh... Takamine-san."
-#Takamine
+＃Takamine
 "...It's you."
-#Protagonist
+＃Protagonist
 "Are you investigating?"
-#Takamine
+＃Takamine
 "Yes."
 Answering with few words, Takamine-san stared at the blood-written message on the wall.
-#Protagonist
+＃Protagonist
 "Can you tell anything from it?"
-#Takamine
+＃Takamine
 "...It's all Greek to a layman like me."
-#Protagonist
+＃Protagonist
 "The killer wrote this, right?"
-#Takamine
+＃Takamine
 "I can't imagine anyone else having such twisted taste."
-#Protagonist
+＃Protagonist
 "True..."
-#Takamine
+＃Takamine
 "Do you need something?"
-#Protagonist
+＃Protagonist
 "Ah, uh..."
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Takamine-san.
-#Protagonist
+＃Protagonist
 "Oh, Takamine-san."
-#Takamine
+＃Takamine
 "You again. Do you need something?"
-#Protagonist
+＃Protagonist
 "Ah, uh..."

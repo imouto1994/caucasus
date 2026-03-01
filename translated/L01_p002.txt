@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "Maya-san, huh... I don't see a motive for the crime at all. If you consider that she could get rid of Shion-san, her adopted daughter, the possibility is exactly zero."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "Last night? I returned to my room and went straight to sleep after the ceremony... Why do you ask?"
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "Mother? Last night, she returned to her room with us..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "I don't think Mother has any reason to kill Rokuyou. She values the family name far too much to do anything that would drag it through the mud."
-#Protagonist
+＃Protagonist
 "...I see."
-#Shion
+＃Shion
 "Is something wrong... with Mother?"
-#Protagonist
+＃Protagonist
 "...No, it's nothing."
-#Tsujimura
+＃Tsujimura
 "The Mistress? She seemed quite pleased about the marriage, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "Maya-san? It sounds nice to say she was happy for her daughter's departure, but in reality, it was just good riddance. It's hard to say."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Maya-san, right... There shouldn't have been any particular falling out between her and Isamu."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "The Mistress? She should have gone straight back to her room after the ceremony last night..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "The Mistress? I don't think anything happened between her and Rokuyou-san, but men and women being what they are... you never know."
-#Protagonist
+＃Protagonist
 "I... I see."

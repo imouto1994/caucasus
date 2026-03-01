@@ -1,30 +1,30 @@
-#Souko
+＃Souko
 "So the killer remains a mystery after all..."
 Souko-san muttered to herself.
-#Protagonist
+＃Protagonist
 "It seems so..."
-#Souko
+＃Souko
 "We should probably re-examine everything and try to narrow down our list of suspects to some extent."
-#Protagonist
+＃Protagonist
 "Will that really help anything?"
-#Souko
+＃Souko
 "...Think about it. The suspension bridge was cut, wasn't it? If the phone lines were severed to delay us from reporting the crime... then there’s a high possibility this isn't over yet."
-#Protagonist
+＃Protagonist
 "No... but why? For what purpose...?"
-#Souko
+＃Souko
 "How should I know? I'm simply discussing the possibilities."
-#Protagonist
+＃Protagonist
 "...Are you saying Rokuyou-san’s murder was just a precursor for something else?"
-#Souko
+＃Souko
 "It's just a possibility."
 Souko-san stood up.
-#Souko
+＃Souko
 "As long as a killer is still loose in this house, we can't afford to let our guard down. I’ll make sure to warn everyone else about this."
-#Protagonist
+＃Protagonist
 "Right. Please do."
-#Souko
+＃Souko
 "And you, make sure you stay alert. The thing a killer fears most is the person who's trying to unmask them."
-#Protagonist
+＃Protagonist
 "Yeah... I’ll keep that in mind."
 Souko-san left the room.
 What should I do now...?

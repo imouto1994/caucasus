@@ -2,32 +2,32 @@ Opposite Benio-san's room.
 This room, which used to be vacant, is now Souko-san's room.
 I wonder if she's there...
 The door opened before I could even knock.
-#Narumi
+＃Narumi
 "Oh... what's up?"
 It was Narumi-san who came out.
-#Protagonist
+＃Protagonist
 "And what are *you* doing here, Narumi-san?"
-#Narumi
+＃Narumi
 "Kirihara-san is changing rooms, so I was tidying up."
-#Protagonist
+＃Protagonist
 "...You weren't rummaging through her things, were you?"
-#Narumi
+＃Narumi
 "I'd never do something as vulgar as sifting through a guest's luggage."
 I feel like I'm being told something that doesn't quite sit right...
-#Narumi
+＃Narumi
 "If it's Kirihara-san you're looking for, she's probably in the room she was using before."
-#Protagonist
+＃Protagonist
 "I see. Thank you."
 I'll go check things out for a bit.
 Opposite Benio-san's room.
 This room, which used to be vacant, is now Souko-san's room.
 I wonder if she's there...
-#Protagonist
+＃Protagonist
 "Souko-san, it's me."
 The person who appeared from behind the door was Narumi-san.
-#Narumi
+＃Narumi
 "Kirihara-san hasn't come back yet."
-#Protagonist
+＃Protagonist
 "Ah... I see."
 It can't be helped, I'll come back later.
 Opposite Benio-san's room.
@@ -39,32 +39,32 @@ It can't be helped, I'll go somewhere else.
 Opposite Benio-san's room.
 This room, which used to be vacant, is now Souko-san's room.
 I wonder if she's there...
-#Protagonist
+＃Protagonist
 "Souko-san, it's me."
-#Souko
+＃Souko
 "Oh, what's up?"
 Souko-san showed her face.
-#Protagonist
+＃Protagonist
 "Do you have a moment?"
-#Souko
+＃Souko
 "I suppose so."
 With that, Souko-san invited me into the room.
-#Souko
+＃Souko
 "So, what do you need?"
-#Protagonist
+＃Protagonist
 "Uh, well..."
 Souko-san's room, which moved to opposite Benio-san's room.
 I wonder if she's there...
-#Protagonist
+＃Protagonist
 "Souko-san, it's me."
-#Souko
+＃Souko
 "Oh, it's you again. What's up?"
-#Protagonist
+＃Protagonist
 "Can we talk for a bit?"
-#Souko
+＃Souko
 "Yeah, sure."
 With that, Souko-san invited me into the room.
-#Souko
+＃Souko
 "What is it this time?"
-#Protagonist
+＃Protagonist
 "Uh, well..."

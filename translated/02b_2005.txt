@@ -1,5 +1,5 @@
 When I reached the top of the stairs, I heard the sound of a guitar from somewhere.
-#Protagonist
+＃Protagonist
 "Hmm……?"
 I turn my head and look in the direction of the sound.
 It's coming from toward Souko-san's room.
@@ -12,70 +12,70 @@ As I thought, the sound of the guitar is coming from there.
 I wonder who it is……
 I quietly peek inside through the gap in the door.
 ……Souko-san is sitting by the window with a guitar.
-#Souko
+＃Souko
 "……Oh, it's just you."
 Souko-san turns her gaze toward me and lets out a sigh of relief.
-#Protagonist
+＃Protagonist
 "……It's dangerous to be in a place like this all by yourself."
-#Souko
+＃Souko
 "I know. That's why I kept the lights dim, but……"
-#Protagonist
+＃Protagonist
 "Light was leaking into the hallway. And if the sound is leaking out too, there's no point."
-#Souko
+＃Souko
 "……Maybe so."
 Souko-san lets out a wry smile.
-#Protagonist
+＃Protagonist
 "……Souko-san, aren't you exhausted?"
-#Souko
+＃Souko
 "……I might be. With everything that's happened, it's only natural……"
 She lightly strums the guitar.
 My eyes are drawn to the knot of the bandage wrapped around her finger.
-#Souko
+＃Souko
 "That's why I was playing a little to clear my head."
-#Protagonist
+＃Protagonist
 "It's a nice song."
-#Souko
+＃Souko
 "Thanks."
-#Protagonist
+＃Protagonist
 "Could you let me hear a bit more?"
-#Souko
+＃Souko
 "……Then I'll play a different one."
 Saying so, Souko-san adjusts her guitar.
 She begins to play.
 It's a very beautiful melody.
-#Protagonist
+＃Protagonist
 "Eh……?"
 The sound of a bell mingles in.
 I see the black cat has entered the music room.
-#Protagonist
+＃Protagonist
 "Love……?"
 Letting out a soft meow, the black cat heads back toward the door.
-#Benio
+＃Benio
 "So this is where you were."
 Benio-san enters.
-#Protagonist
+＃Protagonist
 "Benio-san…… were you looking for Love?"
-#Benio
+＃Benio
 "Yeah."
 The black cat gives one meow and runs toward the piano at the back of the room.
-#Souko
+＃Souko
 "Oh……?"
 Souko-san stops playing the guitar.
-#Benio
+＃Benio
 "What is it, do you want me to play?"
-#Benio
+＃Benio
 "Alright, alright."
 Benio-san heads to the piano.
-#Souko
+＃Souko
 "Well then, shall we play together?"
 At Souko-san's signal, they begin to play in unison.
 The sounds of the piano and guitar blend together.
 Even though this must be their first time playing together, it's so magnificent that it doesn't feel like it at all.
 The black cat, lying near the piano, is also listening contentedly.
 It's a sound that feels more like kindness than loneliness.
-#Benio
+＃Benio
 "——Not bad."
-#Souko
+＃Souko
 "You too."
 The two of them look at each other.
 At times like this, I wish I could play an instrument too.
@@ -83,130 +83,130 @@ Though I suppose not getting in the way is for the best.
 If only Shion-san's singing voice were added to this——
 It would surely be a truly wonderful session.
 The sound of applause echoes from the door.
-#Narumi
+＃Narumi
 "Incredible, incredible, you two are perfectly in sync."
-#Protagonist
+＃Protagonist
 "Narumi-san……?"
-#Narumi
+＃Narumi
 "I brought dinner, but the young lady wasn't in her room, so I was looking for her."
-#Benio
+＃Benio
 "Ah, sorry. I was looking for Love."
-#Narumi
+＃Narumi
 "Haa…… well then, are you going to eat?"
-#Benio
+＃Benio
 "Of course. What about you two?"
 Benio-san looks at us.
-#Protagonist
+＃Protagonist
 "Well, I mean…… I am hungry."
-#Souko
+＃Souko
 "I didn't even think about food."
-#Narumi
+＃Narumi
 "Yes, yes, I've got enough for everyone, so don't worry."
 Narumi-san brings a cart in from the hallway.
-#Narumi
+＃Narumi
 "It's just rice balls and tea, but better than nothing, right?"
-#Souko
+＃Souko
 "Yes, of course."
 We spread a mat on the floor and sit in a circle.
-#Narumi
+＃Narumi
 "Don't worry, there's no poison in them."
-#Protagonist
+＃Protagonist
 "I'd never even think you'd put any in."
 I stuff my mouth with a salty rice ball.
-#Benio
+＃Benio
 "Is it good?"
-#Protagonist
+＃Protagonist
 "Yeah, of course."
-#Benio
+＃Benio
 "……Hmm, it seems to be fine then."
-#Protagonist
+＃Protagonist
 "……Did you just use me as a poison tester?"
-#Narumi
+＃Narumi
 "I told you not to worry, didn't I?"
 Narumi-san pouts.
-#Souko
+＃Souko
 "I don't think we have to worry much about poison."
 Souko-san says as she drinks her tea.
-#Protagonist
+＃Protagonist
 "Why's that?"
-#Souko
+＃Souko
 "The culprit is human too. They wouldn't put poison in something they might eat themselves."
-#Benio
+＃Benio
 "Besides, avoiding the non-poisoned ones would only strengthen everyone's suspicions."
-#Narumi
+＃Narumi
 "Please don't talk about things that make the food taste bad."
-#Benio
+＃Benio
 "I suppose you're right."
-#Souko
+＃Souko
 "Benio-san, did you learn piano from Mr. Kousei?"
 Souko-san changes the subject.
-#Benio
+＃Benio
 "No, from Tsujimura."
-#Protagonist
+＃Protagonist
 "Eh, is that so?"
 I thought Tsujimura-san was a painter……
-#Benio
+＃Benio
 "Including my father, the Tsujimura family was a family of musicians, after all. My father's music was difficult, so it was easier to have Tsujimura teach me."
-#Narumi
+＃Narumi
 "The sheet music the master wrote still trades for high prices even today, after all."
-#Benio
+＃Benio
 "I can't even play them properly just by looking at them."
-#Souko
+＃Souko
 "It'd be impossible unless you're a professional."
 The conversation continues with topics I can't follow at all.
-#Protagonist
+＃Protagonist
 "But…… is Mr. Kousei's inheritance really that substantial?"
 I ask Benio-san what’s been on my mind.
-#Benio
+＃Benio
 "I suppose it is? I don't know the exact amount, though."
-#Souko
+＃Souko
 "Is it because the Nanatsuki family has been prosperous for a long time?"
-#Benio
+＃Benio
 "Ah—— no, the Nanatsuki assets are negligible. At most, the mountain and this manor. My father's inheritance is what he earned from composing."
-#Protagonist
+＃Protagonist
 "I see……"
-#Benio
+＃Benio
 "Well, there's nothing good to be inherited from the Nanatsuki family anyway."
-#Souko
+＃Souko
 "……Are you talking about the curse?"
 Benio-san nods at Souko-san's question.
-#Benio
+＃Benio
 "Indeed. No one would ever want the 'Curse of Seven Possessions' if they could help it, would they?"
-#Protagonist
+＃Protagonist
 "I would have thought you'd be delighted by it, Benio-san."
-#Benio
+＃Benio
 "……A 'curse' is something created by humans. It's nothing mysterious."
-#Protagonist
+＃Protagonist
 "……You're surprisingly realistic, aren't you."
-#Benio
+＃Benio
 "Is that a problem?"
-#Souko
+＃Souko
 "It's not a problem. If what is called the 'Curse of Seven Possessions' is actually happening, then there must be human intent behind it."
-#Benio
+＃Benio
 "Precisely. There's a high probability that it's involved in this incident as well."
-#Narumi
+＃Narumi
 "Haa…… I wish you'd just give it a rest."
 Narumi-san lets out a sigh.
-#Narumi
+＃Narumi
 "I'm only working here because the money is good, but if things like this happen, it's just not worth it."
-#Benio
+＃Benio
 "……I suppose so. No matter how much money you make, it doesn't matter if you're dead."
-#Souko
+＃Souko
 "……Let's leave the gloomy talk at that."
 Souko-san stands up.
-#Protagonist
+＃Protagonist
 "……You're right."
 I really wanted to talk a little more, but I follow Souko-san and stand up.
-#Souko
+＃Souko
 "It's likely best to stay in our rooms tonight as much as possible."
-#Benio
+＃Benio
 "I suppose so. Though we can't force anyone. There are bound to be those who wander about no matter what."
 Saying so, Benio-san stares intently at me.
-#Protagonist
+＃Protagonist
 "Is that…… directed at me?"
-#Benio
+＃Benio
 "You were moving around quite a lot today, weren't you? I just had a feeling you'd do the same tonight."
-#Protagonist
+＃Protagonist
 "……I just feel like staying still won't solve anything."
-#Benio
+＃Benio
 "……Perhaps."

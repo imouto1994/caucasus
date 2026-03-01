@@ -1,28 +1,28 @@
-#Souko
+＃Souko
 "I don’t think Tsujimura-san would have a reason to kill him… besides, he didn't even go near Mikanagi-sensei’s room, did he?"
-#Protagonist
+＃Protagonist
 "True…"
-#Maya
+＃Maya
 "I wouldn't know, I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see…"
-#Ai
+＃Ai
 "I’m not sure… I was in my room the entire time."
-#Protagonist
+＃Protagonist
 "I see…"
-#Tsujimura
+＃Tsujimura
 "I was in the office… I had no idea what was happening until Mizukami-san arrived…"
-#Protagonist
+＃Protagonist
 "I see…"
-#Takamine
+＃Takamine
 "I wouldn’t know what was happening outside my room."
-#Protagonist
+＃Protagonist
 "I see…"
-#Akane
+＃Akane
 "I believe Tsujimura-san was in the office…"
-#Protagonist
+＃Protagonist
 "I see…"
-#Narumi
+＃Narumi
 "When I went to tell Tsujimura-san, he really seemed like he didn’t know a thing. Besides, I didn’t see him anywhere around the time of the murder…"
-#Protagonist
+＃Protagonist
 "I see…"

@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "I wonder if Shion-san could really set up such an elaborate mechanism? It's not impossible, of course... but I think it would be difficult."
-#Protagonist
+＃Protagonist
 "...True."
-#Benio
+＃Benio
 "Shion would have no reason to kill my sister. Those two are very close... almost abnormally so."
-#Protagonist
+＃Protagonist
 "True..."
-#Tsujimura
+＃Tsujimura
 "Lady Shion emerged from her room around noon. She should have been in the tower the entire time before that."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "Shion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that."
-#Protagonist
+＃Protagonist
 "Right."
-#Akane
+＃Akane
 "I believe Lady Shion was in her room the entire time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Lady Shion? I'm pretty sure she was in her room... though come to think of it, it seemed like Lady Ai was with her..."
-#Protagonist
+＃Protagonist
 "I see..."

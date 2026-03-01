@@ -1,46 +1,46 @@
 Eight o'clock arrived, so I made my way to the Great Hall.
 The residents of the estate were already gathering there, looking prepared.
-#Benio
+＃Benio
 "The guest of honor is late."
 Benio-san muttered to no one in particular.
-#Ai
+＃Ai
 "Now that you mention it, where is Isamu-san?"
-#Mikanagi
+＃Mikanagi
 "In his room, perhaps? I doubt he'd still be asleep, but..."
 Ai-san and Mikanagi-sensei exchanged glances.
-#Souko
+＃Souko
 "Come to think of it, I haven't seen Rokuyou-san either. How about you?"
-#Protagonist
+＃Protagonist
 "I haven't seen him."
 I'd spent the last thirty minutes wandering around, but I hadn't run into him.
-#Maya
+＃Maya
 "Tsujimura, what is the meaning of this?"
-#Tsujimura
+＃Tsujimura
 "It is quite strange..."
-#Maya
+＃Maya
 "It is already time. Go and fetch him at once."
-#Takamine
+＃Takamine
 "We can hardly begin without the groom present."
 Takamine-san joined the conversation between Maya-san and Tsujimura-san.
-#Narumi
+＃Narumi
 "We really need to let Shion-ojousama out of there soon, too."
 Narumi-san approached and spoke to us.
-#Protagonist
+＃Protagonist
 "Shion-san... is she still in that casket?"
-#Narumi
+＃Narumi
 "The ritual is mostly just for show these days, but tradition is tradition."
-#Akane
+＃Akane
 "I'm sure everything is fine, but..."
-#Tsujimura
+＃Tsujimura
 "What would you have me do, Madam? Could something have happened to Rokuyou-sama...?"
-#Maya
+＃Maya
 "...It cannot be helped. Tsujimura, use the spare key and check on him."
-#Tsujimura
+＃Tsujimura
 "As you wish."
 Tsujimura-san left the hall.
-#Souko
+＃Souko
 "Let's go too."
-#Protagonist
+＃Protagonist
 "...Right."
 I was uneasy.
 It wasn't so much about Rokuyou-san, but—about Shion-san, sleeping in that casket.

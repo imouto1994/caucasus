@@ -1,26 +1,26 @@
 I've come to the front of Ai-san's room.
 I knock lightly and wait.
-#Ai
+＃Ai
 "Oh... is something the matter?"
-#Protagonist
+＃Protagonist
 "Um, have you seen Souko-san?"
-#Ai
+＃Ai
 "Mistress Kirihara...? No, I've been in my room the whole time, so I wouldn't know..."
-#Protagonist
+＃Protagonist
 "I see... Thank you very much."
 I thanked her and left.
 I've come to the front of Ai-san's room.
 I knock lightly and wait.
-#Ai
+＃Ai
 "Oh... have you still not found Mistress Kirihara?"
-#Protagonist
+＃Protagonist
 "No... she's nowhere to be found."
-#Ai
+＃Ai
 "I see..."
 Ai-san's expression clouds over.
-#Protagonist
+＃Protagonist
 "Um, if anything happens, please let me know immediately."
-#Ai
+＃Ai
 "Yes, understood."
 I decided to go somewhere else.
 I've come to the front of Ai-san's room.

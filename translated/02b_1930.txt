@@ -4,54 +4,54 @@ Those are likely Shion-san's footprints.
 I step into the tower.
 Shion-san is on the second floor.
 I go up the stairs and knock on the door.
-#Shion
+＃Shion
 "Yes……?"
-#Protagonist
+＃Protagonist
 "Shion-san, it's me."
 After I call out, the door opens from the inside a moment later.
-#Shion
+＃Shion
 "Um…… is something the matter……?"
 Shion-san's eyes are moist.
 I wonder if she’s been crying……
-#Protagonist
+＃Protagonist
 "I came to make sure that everyone is alright."
-#Shion
+＃Shion
 "……I see."
 Shion-san looks down.
-#Protagonist
+＃Protagonist
 "Umm…… so——"
-#Shion
+＃Shion
 "Please, come in……"
 Shion-san opens the door and invites me inside.
-#Protagonist
+＃Protagonist
 "Ah…… excuse me."
-#Shion
+＃Shion
 "……Did you come here to watch me?"
-#Protagonist
+＃Protagonist
 "Eh…… no, that's not it at all?"
-#Shion
+＃Shion
 "Then…… why……?"
-#Protagonist
+＃Protagonist
 "……Because I'm worried about you, Shion-san."
 I voice my honest feelings.
-#Protagonist
+＃Protagonist
 "It's partly because Tsujimura-san asked me to…… but I can't just leave you be. Not someone living all alone in a place this far removed."
-#Protagonist
+＃Protagonist
 "Besides…… Ai-san has been murdered as well. You might be a target for the culprit too, Shion-san."
-#Shion
+＃Shion
 "But, I……"
-#Protagonist
+＃Protagonist
 "I'll definitely find the culprit. So…… until then, I'll make sure to protect you, Shion-san."
 Shion-san stays silent and looks down.
-#Protagonist
+＃Protagonist
 "Um…… was I being a nuisance, perhaps……?"
-#Shion
+＃Shion
 "……No, that's…… not the case."
 Shion-san shakes her head.
-#Protagonist
+＃Protagonist
 "Umm…… sorry, I guess I just got a bit ahead of myself……"
-#Shion
+＃Shion
 "No…… th-thank you very much."
-#Protagonist
+＃Protagonist
 "W-Well then, I'll be going……"
 In that awkward atmosphere, I bow and leave Shion-san's room.

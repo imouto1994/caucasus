@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "I wonder if Ai-san will be all right... I hope her airway wasn't completely obstructed..."
-#Protagonist
+＃Protagonist
 "True..."
-#Benio
+＃Benio
 "...To think my sister would be targeted. And by such a convoluted method, at that..."
-#Protagonist
+＃Protagonist
 "True..."
-#Tsujimura
+＃Tsujimura
 "...Is Lady Ai safe...? You mentioned her life was not in danger, but..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Takamine
+＃Takamine
 "So even Ai-kun was targeted... What on earth is the killer's intent!?"
-#Protagonist
+＃Protagonist
 "I... I don't know..."
-#Akane
+＃Akane
 "I've been searching for Lady Ai since around eleven-thirty. She wasn't in her room, so I went to the infirmary, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Lady Ai's mental state has been unstable since Master Rokuyou was murdered... I guess you could say she's in a state where she might do anything..."
-#Protagonist
+＃Protagonist
 "I see..."

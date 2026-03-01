@@ -1,118 +1,118 @@
 I returned to the first floor.
-#Protagonist
+＃Protagonist
 "Then I'll go to Shion-san's place."
-#Narumi
+＃Narumi
 "Will you be okay on your own?"
-#Protagonist
+＃Protagonist
 "Yeah... don't worry."
 I entered the office.
-#Benio
+＃Benio
 "Nn... what's up?"
 Benio-san was there.
-#Protagonist
+＃Protagonist
 "Oh, Benio-san... you're still awake?"
-#Benio
+＃Benio
 "I couldn't sleep. Want some?"
 She held up a cup of cocoa.
-#Protagonist
+＃Protagonist
 "No, I have things I need to confirm right now."
-#Benio
+＃Benio
 "...Shion?"
-#Protagonist
+＃Protagonist
 "...Yeah."
-#Benio
+＃Benio
 "...Did you find something out from the code Father left behind? But that was written a long time ago, wasn't it? It has nothing to do with the case—"
-#Protagonist
+＃Protagonist
 "It was related."
-#Benio
+＃Benio
 "What...?"
-#Protagonist
+＃Protagonist
 "...I heard that a woman named Akari Misono used to work here."
-#Benio
+＃Benio
 "Ah... she seemed to be close with the doctor... but she disappeared suddenly."
-#Protagonist
+＃Protagonist
 "Apparently, she was Akane-san's older sister."
-#Benio
+＃Benio
 "...Is that so... but does that matter now...? Even with Akane being missing..."
-#Protagonist
+＃Protagonist
 "It's Akari Misono-san. I asked you about her earlier, remember?"
-#Benio
+＃Benio
 "...Yeah. But why would she be here...?"
-#Protagonist
+＃Protagonist
 "...A short while ago, I confirmed a skeletal corpse in the basement that appears to be Akari-san."
-#Benio
+＃Benio
 "What—!? What do you mean!?"
-#Protagonist
+＃Protagonist
 "...She didn't disappear; she was murdered."
-#Benio
+＃Benio
 "That's impossible... then, who are you saying is the culprit...?"
-#Protagonist
+＃Protagonist
 "...I think you already know, Benio-san..."
-#Benio
+＃Benio
 "...Mother...? And the reason?"
 I handed Kousei-san's journal to Benio-san.
-#Benio
+＃Benio
 "This is..."
 Benio-san gasped lightly and then began to read in silence.
-#Protagonist
+＃Protagonist
 "...I am certain that what is written here is the truth."
-#Benio
+＃Benio
 "I don't want to believe it... but it's likely true."
 Benio-san let out a sigh.
-#Benio
+＃Benio
 "Still, to think... that Sister and I were not Father's children after all."
-#Protagonist
+＃Protagonist
 "Benio-san..."
-#Benio
+＃Benio
 "There's no point in saying anything now. ...I suppose this is why the inheritance was so skewed."
-#Protagonist
+＃Protagonist
 "You mean the fact that Shion-san inherits nothing."
-#Benio
+＃Benio
 "Father likely wanted to protect Shion. So he made sure she wouldn't be caught up in anything related to the inheritance."
-#Protagonist
+＃Protagonist
 "But... Rokuyou-san tried to marry Shion-san. Why was that?"
-#Mikanagi
+＃Mikanagi
 "—I'll speak to that."
-#Benio
+＃Benio
 "Doctor...?"
 Dr. Mikanagi was standing in the doorway of the office.
-#Mikanagi
+＃Mikanagi
 "I believe my father was involved. My father... was on bad terms with the Rokuyou family, who are also distant relatives of the Nanatsukis."
-#Protagonist
+＃Protagonist
 "Is that so?"
-#Mikanagi
+＃Mikanagi
 "It doesn't have much to do with our generation. But my father often grumbled about it. That it would be unforgivable for a member of the Rokuyou family to enter the Nanatsuki house."
-#Benio
+＃Benio
 "And so he recommended Shion to Rokuyou?"
-#Mikanagi
+＃Mikanagi
 "...I believe so. Although... it might have been that he couldn't forgive his own daughter marrying a member of the Rokuyou family even more."
-#Benio
+＃Benio
 "...I see."
-#Mikanagi
+＃Mikanagi
 "Besides, to work on a global scale, the name of the composer Kousei Tsujimura would be more useful."
-#Benio
+＃Benio
 "...The Nanatsuki name only carries weight in this region, after all. And Shion's mother's family is also famous, right?"
-#Mikanagi
+＃Mikanagi
 "I don't know if he knew that much. Plus, there might be rights to Mr. Kousei's musical compositions."
-#Benio
+＃Benio
 "Still, even so... that doesn't explain why Rokuyou was killed."
-#Protagonist
+＃Protagonist
 "Yeah... that's why I'm going to go talk to Shion-san now."
-#Benio
+＃Benio
 "Do you think Shion is the culprit?"
-#Protagonist
+＃Protagonist
 "...I think the possibility is high."
-#Protagonist
+＃Protagonist
 "...Yes, I have proof."
-#Benio
+＃Benio
 "I see... then let's go."
 Benio-san headed for the back door.
-#Protagonist
+＃Protagonist
 "Um... Dr. Mikanagi."
-#Mikanagi
+＃Mikanagi
 "Yes?"
-#Protagonist
+＃Protagonist
 "How long... were you listening to us?"
-#Mikanagi
+＃Mikanagi
 "...Akari's matter isn't something you should worry about. Thank you for finding her. Please guide me there later."
 Dr. Mikanagi lightly patted my head and then followed Benio-san outside.

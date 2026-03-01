@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "Tsujimura-san has it hard too. Despite being the brother of the late head, he's been put in a position where he's treated as a servant..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "If you have any inconveniences, please let Tsujimura know."
-#Protagonist
+＃Protagonist
 "Understood."
-#Benio
+＃Benio
 "If it's Tsujimura, wouldn't he be in the office?"
-#Protagonist
+＃Protagonist
 "I see."
-#Shion
+＃Shion
 "Seiji-san... he cares for me very much."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I couldn't make a living with my artistic skills, which were barely better than an amateur's... I'm grateful to be allowed to work here."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I hear Tsujimura-san has endured many hardships until now."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "If it's Tsujimura-san, he should be in the office. Otherwise, I expect he's back in his room."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "If anything happens, please tell Tsujimura-san. He manages almost everything in the house."
-#Protagonist
+＃Protagonist
 "I see."

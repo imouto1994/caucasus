@@ -1,14 +1,14 @@
 I arrive in front of the infirmary, knock lightly on the door, and open it.
-#Protagonist
+＃Protagonist
 "Excuse me. I've brought lunch."
 Dr. Mikanagi and Maya-san are in the infirmary.
-#Mikanagi
+＃Mikanagi
 "Ah, thank you."
-#Maya
+＃Maya
 "……Thank you very much."
-#Protagonist
+＃Protagonist
 "I'll leave it right here."
 I place the plate on Dr. Mikanagi's desk.
-#Protagonist
+＃Protagonist
 "……Well then, I'll be going."
 Unable to bear the somber atmosphere any longer, I leave the infirmary.

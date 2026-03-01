@@ -1,61 +1,61 @@
 I was jolted awake by the sound of someone pounding on the door.
-#Protagonist
+＃Protagonist
 "...Yes?"
-#Narumi
+＃Narumi
 "You awake?"
 Narumi-san stepped into the room.
-#Protagonist
+＃Protagonist
 "Yeah, more or less."
-#Narumi
+＃Narumi
 "Good. We’re picking up where we left off yesterday at eight, so make sure you're there."
 Narumi-san was speaking in a remarkably casual tone.
-#Protagonist
+＃Protagonist
 "Right, I understand."
 I gave a nod.
-#Narumi
+＃Narumi
 "Hey, are you actually awake?"
-#Protagonist
+＃Protagonist
 "I said I'm awake."
 My head was still a little foggy, though.
-#Narumi
+＃Narumi
 "If you say so."
-#Souko
+＃Souko
 "Good morning."
 Souko-san entered the room.
-#Narumi
+＃Narumi
 "Ah, good morning."
-#Souko
+＃Souko
 "It’s a hell of a blizzard out there this morning."
-#Protagonist
+＃Protagonist
 "What—"
 Startled, I looked out the window.
 Everything was a sheet of white; I couldn't make out a thing.
-#Narumi
+＃Narumi
 "It’s really coming down. The drifts behind the kitchen are so high we can’t even open the door to get out."
-#Protagonist
+＃Protagonist
 "In that case, we might not be able to head back down the mountain today..."
-#Souko
+＃Souko
 "Probably not..."
 Souko-san muttered gloomily.
-#Souko
+＃Souko
 "Anyway, quit lounging around in those blankets and get up."
-#Protagonist
+＃Protagonist
 "I’m getting up, I’m getting up..."
 I climbed out of bed.
 Even with the fireplace going all night, the air outside the covers was biting.
-#Narumi
+＃Narumi
 "Oh... I need to go wake Benio-ojousama too."
 Narumi-san spun around to leave.
-#Souko
+＃Souko
 "Is she still not up?"
-#Narumi
+＃Narumi
 "She’s not a morning person. Plus, it was a late night for her."
-#Protagonist
+＃Protagonist
 "Ah... that explains why she was in such a foul mood when I ran into her in the middle of the night."
-#Narumi
+＃Narumi
 "The middle of the night?"
-#Protagonist
+＃Protagonist
 "Yeah. I think she was headed to the restroom."
-#Souko
+＃Souko
 "Whatever. Let's go help wake her."
 For some reason, we ended up following Narumi-san.

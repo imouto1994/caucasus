@@ -1,20 +1,20 @@
-#Maya
+＃Maya
 "Ah… Even Mikanagi-sensei… why…?"
-#Protagonist
+＃Protagonist
 "Maya-san…"
-#Ai
+＃Ai
 "Not Mikanagi-sensei too… I can’t take any more of this…"
-#Protagonist
+＃Protagonist
 "I know what you mean…"
-#Tsujimura
+＃Tsujimura
 "To think that even Mikanagi-sensei would be taken from us… what on earth is happening here…?"
-#Protagonist
+＃Protagonist
 "I wish I knew…"
-#Takamine
+＃Takamine
 "Mikanagi-sensei as well, huh…? I’ve about had enough of this."
-#Protagonist
+＃Protagonist
 "Yeah…"
-#Narumi
+＃Narumi
 "…Only one person went in and out of that room during the time Mikanagi-sensei was likely killed. You realize that, right…?"
-#Protagonist
+＃Protagonist
 "…Yeah."

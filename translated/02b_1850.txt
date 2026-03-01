@@ -1,60 +1,60 @@
 I've returned to the hall.
 I turn my head at the sound of a bell.
 A black cat is looking down at me from halfway up the stairs.
-#Protagonist
+＃Protagonist
 "Love……?"
 It's not as if it responded to my call.
 The black cat is looking up toward the second floor.
 Benio-san is standing at the top of the stairs.
-#Benio
+＃Benio
 "So this is where you were."
 I wonder which of us those words were addressed to, me or the cat.
-#Benio
+＃Benio
 "Was Shion safe?"
 She speaks to me as she picks up the black cat and walks down the stairs.
-#Protagonist
+＃Protagonist
 "Yeah……"
-#Benio
+＃Benio
 "I see."
-#Protagonist
+＃Protagonist
 "It's dangerous for you too, Benio-san, so please stay quiet in your room."
-#Benio
+＃Benio
 "I know. But wouldn't it be safer if I were with you?"
-#Protagonist
+＃Protagonist
 "……Is that because you think I'm not the culprit?"
-#Benio
+＃Benio
 "There's no evidence that you aren't the culprit. But that's not it, I just feel at ease when you're nearby."
-#Protagonist
+＃Protagonist
 "……Are you serious?"
-#Benio
+＃Benio
 "Of course I am, don't you think?"
 Benio-san smiles.
 The door at the bottom of the stairs opens, and Tsujimura-san appears.
-#Tsujimura
+＃Tsujimura
 "Oh, Miss Benio."
-#Benio
+＃Benio
 "……Tsujimura, were you listening?"
-#Tsujimura
+＃Tsujimura
 "Whatever do you mean?"
 He doesn't look like he's feigning ignorance.
 He was likely tinkering with the generator in the basement.
-#Benio
+＃Benio
 "……Never mind, don't worry about it."
-#Tsujimura
+＃Tsujimura
 "As you wish."
 Tsujimura-san bows.
-#Benio
+＃Benio
 "I'm going back to my room."
 Leaving only those words, Benio-san heads back up the stairs holding the black cat.
-#Tsujimura
+＃Tsujimura
 "……Do you have a moment?"
-#Protagonist
+＃Protagonist
 "Eh, me?"
 Called out to suddenly, I turn to face Tsujimura-san.
-#Tsujimura
+＃Tsujimura
 "It wouldn't do to talk here, so shall we head to the office?"
-#Protagonist
+＃Protagonist
 "Eh, yeah. I don't mind."
-#Tsujimura
+＃Tsujimura
 "Then, this way."
 I follow Tsujimura-san to the office.

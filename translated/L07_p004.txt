@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "If she was killed in the music room, she should have passed right by my door, but I didn't notice a thing. If so, it must have been after midnight when I was asleep..."
-#Protagonist
+＃Protagonist
 "...I see."
-#Maya
+＃Maya
 "Why Benio too... for what reason...?"
-#Protagonist
+＃Protagonist
 "...That is what I am investigating right now."
-#Ai
+＃Ai
 "Why did Benio have to be killed!? Come on, tell me!"
-#Protagonist
+＃Protagonist
 "I don't... know yet..."
-#Shion
+＃Shion
 "Lady Benio... why...?"
-#Protagonist
+＃Protagonist
 "Shion-san..."
-#Tsujimura
+＃Tsujimura
 "Even Lady Benio... just what is going on...?"
-#Protagonist
+＃Protagonist
 "True..."
-#Takamine
+＃Takamine
 "If Benio-kun was killed during the night... I doubt there would be any witnesses or anything..."
-#Protagonist
+＃Protagonist
 "Maybe so..."
-#Mikanagi
+＃Mikanagi
 "...Considering Benio-san's body wasn't discovered until morning, it'll be difficult to find any witnesses from before the crime was committed..."
-#Protagonist
+＃Protagonist
 "True..."
-#Akane
+＃Akane
 "Just what could Lady Benio have possibly done...!?"
-#Protagonist
+＃Protagonist
 "I feel... exactly the same way..."
-#Narumi
+＃Narumi
 "To think even Lady Benio was targeted... I didn't think she was the type to die so easily..."
-#Protagonist
+＃Protagonist
 "True..."

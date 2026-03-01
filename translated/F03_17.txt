@@ -4,8 +4,8 @@ Naturally, no one is inside.
 Now, what should I do?
 The room at the far end of the first floor is vacant.
 I softly opened the door.
-#Akane
+＃Akane
 "...It seems Lady Ai isn't here."
-#Protagonist
+＃Protagonist
 "Looks like it..."
 I can't afford to lounge around here; let's go search elsewhere.

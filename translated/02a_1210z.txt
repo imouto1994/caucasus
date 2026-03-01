@@ -1,26 +1,26 @@
 I think I’ve seen enough.
-#Protagonist
+＃Protagonist
 "Is this sufficient?"
 I asked Souko-san.
-#Souko
+＃Souko
 "If you say it’s enough, then I suppose it is."
-#Protagonist
+＃Protagonist
 "It makes me a little uneasy when you put it like that..."
 [Keep investigating]
 [I’ve seen enough]
 Maybe I should look a bit more.
 I might have overlooked something.
 I think I’ve searched every corner.
-#Protagonist
+＃Protagonist
 "I think that’s everything."
-#Souko
+＃Souko
 "Alright, then it’s time to do some questioning. Everyone should be gathered in the Great Hall by now."
-#Protagonist
+＃Protagonist
 "...We should probably seal this room off too, shouldn't we?"
-#Souko
+＃Souko
 "We’ll ask Tsujimura-san to handle that later."
 We climbed down the ladder to the second floor.
-#Souko
+＃Souko
 "Well then, shall we head to the Great Hall?"
-#Protagonist
+＃Protagonist
 "Yeah."

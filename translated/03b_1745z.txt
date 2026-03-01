@@ -1,27 +1,27 @@
 Ai-san straightened her disheveled clothes and stood up.
-#Ai
+＃Ai
 "...Thank you very much."
-#Protagonist
+＃Protagonist
 "...Please, don't. I haven't done anything—I couldn't even save Benio-san."
-#Ai
+＃Ai
 "But... you saved my heart."
 Ai-san bowed her head deeply.
-#Ai
+＃Ai
 "Of course, the wound from losing Benio remains... but I feel like I can go on without being crushed by it."
-#Protagonist
+＃Protagonist
 "I see..."
 I didn't feel like I’d done anything special.
 Ai-san had simply made the decision to overcome Benio-san's death.
 But... no matter what happens from now on, I want to support Ai-san.
 First—I have to find a way to fix this ridiculous situation.
-#Protagonist
+＃Protagonist
 "...Ai-san, please stay cooped up in your room. Don't open the door for anyone, no matter who it is."
-#Ai
+＃Ai
 "You’re going, then...?"
-#Protagonist
+＃Protagonist
 "Yeah... if I don't move, I don't think I'll ever find the culprit."
-#Ai
+＃Ai
 "I see... please, be careful..."
-#Protagonist
+＃Protagonist
 "Yeah. ...Well then."
 I gave Ai-san a kiss and then left her room.

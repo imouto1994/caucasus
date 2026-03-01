@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "The possibility of Shion-san being the killer... I can't say it's zero."
-#Protagonist
+＃Protagonist
 "...True."
-#Maya
+＃Maya
 "Shion was inside the chapel all night. Although, I doubt there is anyone who can confirm that."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "Are you suggesting Shion killed Isamu-san!? That child couldn't possibly do such a thing!"
-#Protagonist
+＃Protagonist
 "Y-You're right..."
-#Benio
+＃Benio
 "Shion being forced into an unwanted marriage and killing Rokuyou... it's not entirely out of the question..."
-#Protagonist
+＃Protagonist
 "True..."
-#Shion
+＃Shion
 "I was... sleeping inside the coffin. I did not step outside."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "The idea of Lady Shion killing Master Rokuyou... it is unthinkable."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "The lid of the coffin used in the ritual has hinges, but it's far too heavy for someone with Shion-kun's strength to open."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "...Shion-san might not have been enthusiastic about the marriage to Isamu. Her own will wasn't exactly being respected, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I believe Lady Shion was in the coffin the entire time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Now that you mention it, I've never seen Lady Shion and Rokuyou-san talking. Of course, they must have spoken when I wasn't around."
-#Protagonist
+＃Protagonist
 "True..."

@@ -1,94 +1,94 @@
 Souko-san descended the stairs, still holding Maya-san.
-#Protagonist
+＃Protagonist
 "Where do you intend to go...?"
-#Souko
+＃Souko
 "Just over there."
 Souko-san used her free hand to open the door to the northern corridor.
-#Benio
+＃Benio
 "—The chapel."
-#Souko
+＃Souko
 "Bullseye. ...Would you mind waiting here? It'll be over soon."
-#Takamine
+＃Takamine
 "—That won't happen."
 Takamine-san stepped forward.
-#Takamine
+＃Takamine
 "If you are Kanon-kun—I must stop you at all costs."
-#Souko
+＃Souko
 "I'm grateful to you—Takamine-san. For saving me. ...But you see, I wish you'd saved my mother too while you were at it."
-#Takamine
+＃Takamine
 "That... was impossible. By the time I arrived, it was already—"
-#Souko
+＃Souko
 "Then don't say a word!"
 Souko-san screamed and made a shallow cut on Maya-san's neck.
-#Maya
+＃Maya
 "Ngh... T-Takamine-san, please step back..."
-#Takamine
+＃Takamine
 "B-But—"
-#Maya
+＃Maya
 "Step back...!"
 With Maya-san telling him again, Takamine-san took several steps back.
-#Souko
+＃Souko
 "...That's better."
 Souko-san whirled around and vanished behind the door.
-#Protagonist
+＃Protagonist
 "Souko-san—!"
 Benio-san grabbed my shoulder as I tried to follow.
-#Benio
+＃Benio
 "Don't provoke her. You too, Takamine."
-#Takamine
+＃Takamine
 "...I'm sorry."
-#Protagonist
+＃Protagonist
 "But... there's nowhere to run. It's a fact that Souko-san is cornered..."
-#Benio
+＃Benio
 "She said she wanted her to taste despair..."
-#Protagonist
+＃Protagonist
 "...If it's the same as with Marino-san—!!"
 That’s the only way—!!
 I dove into the northern corridor.
-#Benio
+＃Benio
 "Hey—!!"
-#Protagonist
+＃Protagonist
 "No, Souko-san!!"
 Behind the door at the very end of the hall.
 The moment I opened the door, flames scorched my skin for an instant.
-#Protagonist
+＃Protagonist
 "Whoa—!?"
-#Benio
+＃Benio
 "What—!?"
 Benio-san, who was about to dive into the chapel, also stumbled back several steps.
-#Protagonist
+＃Protagonist
 "Stop this madness, Souko-san!"
 I shouted toward Souko-san, who was near the altar behind the flames.
-#Souko
+＃Souko
 "...You see, I've lived my whole life for this. ...I'm sorry for the trouble I've caused you."
 With that.
 Souko-san poured the liquid from a large metal can on the floor over her head.
-#Souko
+＃Souko
 "...I'm sorry."
-#Protagonist
+＃Protagonist
 "Souko-san!!"
 The fire grew larger.
 The flames spread to the fallen Maya-san as well.
 Souko-san was as if—clad in garments of fire.
-#Protagonist
+＃Protagonist
 "Souko-san—"
-#Benio
+＃Benio
 "Stop!!"
 Benio-san grabbed my arm as I took a step toward Souko-san.
-#Benio
+＃Benio
 "Tsujimura! Takamine! Get the fire extinguishers!!"
-#Tsujimura
+＃Tsujimura
 "R-Right away—!"
 The two of them dashed away.
-#Benio
+＃Benio
 "Dammit—Mother...!"
 Maya-san's body was also engulfed in flames.
-#Mikanagi
+＃Mikanagi
 "...Let's back off for now. There's nothing we can do against the intensity of these flames."
-#Protagonist
+＃Protagonist
 "But still...!"
-#Narumi
+＃Narumi
 "Just come on...!"
 Benio-san was pulled back by Dr. Mikanagi, and I by Narumi-san.
-#Protagonist
+＃Protagonist
 "Souko-san—!!"

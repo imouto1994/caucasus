@@ -5,49 +5,49 @@ Is she not here?
 I gave up and decided to head elsewhere.
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-#Souko
+＃Souko
 "Yes... oh, it's you."
 A sleepy-looking Souko-san appeared.
-#Protagonist
+＃Protagonist
 "Were you sleeping?"
-#Souko
+＃Souko
 "Yeah. I guess I was more exhausted than I thought. More importantly, what's with this blackout? I woke up and tried to turn on the light, but nothing happened."
-#Protagonist
+＃Protagonist
 "I think the power will be restored soon..."
-#Souko
+＃Souko
 "Are you investigating it?"
-#Protagonist
+＃Protagonist
 "Yeah, well..."
-#Souko
+＃Souko
 "Be careful. At this point, nothing would surprise me anymore."
-#Protagonist
+＃Protagonist
 "You're right... you be careful too, Souko-san."
-#Souko
+＃Souko
 "I'm planning to stay in my room, so you don't need to worry too much about me."
-#Protagonist
+＃Protagonist
 "Understood. Then, please stay put until the electricity is fixed."
-#Souko
+＃Souko
 "Actually, I think now would be a better time to investigate various parts of this house."
-#Protagonist
+＃Protagonist
 "Please, just bear with it for now."
-#Souko
+＃Souko
 "I know. Well then, see you later."
-#Protagonist
+＃Protagonist
 "Yeah, see you."
 Souko-san returned to her room.
 Now then—I'll head somewhere else as well.
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-#Souko
+＃Souko
 "What is it this time?"
-#Protagonist
+＃Protagonist
 "No, I didn't really have any business, but I'm doing a quick patrol just in case."
-#Souko
+＃Souko
 "I see... just be careful you don't get attacked from the shadows, okay?"
-#Protagonist
+＃Protagonist
 "Please don't say scary things like that..."
-#Souko
+＃Souko
 "I'm joking. But... it's best to be careful."
-#Protagonist
+＃Protagonist
 "Yeah... I know."
 I bowed to Souko-san and decided to look around other areas.

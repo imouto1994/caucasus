@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "So this was around Ai-san's neck... It's remarkably sturdy. Doesn't look like it'd snap easily."
-#Protagonist
+＃Protagonist
 "True..."
-#Benio
+＃Benio
 "It was likely something left in the attic. I doubt it was brought in from elsewhere."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "This is... a spare wire for ringing the bell in the attic. It's quite noticeable as soon as you enter the room, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

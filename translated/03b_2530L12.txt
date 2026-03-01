@@ -1,13 +1,13 @@
 Everyone—everyone who had survived—was gathered in the main hall.
-#Protagonist
+＃Protagonist
 "...Where is Shion-san?"
-#Narumi
+＃Narumi
 "She's in her room. Surely after that... you can't expect to call her here, right?"
-#Protagonist
+＃Protagonist
 "...You're right."
 I'll listen to what she has to say later.
 No—I *must* hear her story.
 Conversely, questioning people here has almost no meaning.
 The important thing is simply to confirm the facts with a few individuals.
-#Souko
+＃Souko
 "Well... shall we begin?"

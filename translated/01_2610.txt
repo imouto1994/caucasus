@@ -2,10 +2,10 @@
 ......
 ......Hm?
 I heard a sound.
-#Protagonist
+＃Protagonist
 "Souko-san?"
 I sat up and looked at the bed.
-#Souko
+＃Souko
 "Mmn..."
 She seemed to still be asleep.
 Looking at the clock, it was just past 2:00 AM.
@@ -47,40 +47,40 @@ I went down the stairs and into the north hallway.
 It was deathly silent here as well.
 The large door straight ahead was closed.
 Nothing—nothing was out of the ordinary.
-#Protagonist
+＃Protagonist
 "—!?"
 I spun around at a noise.
-#Protagonist
+＃Protagonist
 "Eh...?"
 It looked like Benio-san's cat was nearby.
 It was so dark I couldn't tell where it was...
 The sound of its bell faded into the distance.
 It had given me a bit of a start, but...
-#???
+＃???
 "—Is something the matter?"
-#Protagonist
+＃Protagonist
 "—!?"
 A voice called out from behind me, and I spun around again, startled once more.
-#Protagonist
+＃Protagonist
 "Ah... Tsujimura-san. Um... I was just a bit worried about Shion-san..."
 I decided to tell the truth.
-#Tsujimura
+＃Tsujimura
 "The young lady...? Haha, there's no need to worry. The door is securely locked."
-#Protagonist
+＃Protagonist
 "Y-yeah, you're right."
 I wondered what exactly I was so worried about.
 Before I reached the stairs, I noticed someone in the hall.
 That was...
-#Tsujimura
+＃Tsujimura
 "Oh, are you still awake?"
-#Protagonist
+＃Protagonist
 "Tsujimura-san..."
 Tsujimura-san was looking up at me.
-#Protagonist
+＃Protagonist
 "I was just thinking of heading to the restroom."
 I told a lie.
-#Tsujimura
+＃Tsujimura
 "Ah, my apologies for stopping you."
-#Protagonist
+＃Protagonist
 "No, it's fine."
 I headed down the stairs.

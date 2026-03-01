@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "When the blackout happened, I was asleep in my room. I panicked when the lights wouldn't come on after I woke up, but I figured it was best not to move around blindly, so I stayed put."
-#Protagonist
+＃Protagonist
 "I see. And after that, you were with me repairing the generator..."
-#Maya
+＃Maya
 "I did not see Mistress Kirihara. After all, I was in my own room the entire time as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "I haven't seen her since evening, but wouldn't she have been in her room? Once we went to the basement, we were together the whole time..."
-#Protagonist
+＃Protagonist
 "True..."
-#Shion
+＃Shion
 "I am sorry, I do not really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I don't believe anything in particular happened..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I didn't see her during the blackout... If Ai-san's head was severed after the electrocution, weren't you with her?"
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Well... she wasn't in the grand hall..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Kirihara-san? I'd imagine she was in her room."
-#Protagonist
+＃Protagonist
 "I see."

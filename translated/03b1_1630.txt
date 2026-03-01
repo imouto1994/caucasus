@@ -1,38 +1,38 @@
 I returned to my own room.
 Now then... what should I do next?
-#Protagonist
+＃Protagonist
 "Oh..."
 It seemed someone had arrived.
-#Protagonist
+＃Protagonist
 "Who is it...?"
 I called out while opening the door.
-#Narumi
+＃Narumi
 "Ah, there you are."
 Narumi-san was standing in the corridor.
-#Protagonist
+＃Protagonist
 "What is the matter...?"
-#Narumi
+＃Narumi
 "I have something I need to talk to you about."
 With those words, she slipped inside the room.
-#Protagonist
+＃Protagonist
 "What is it...?"
-#Narumi
+＃Narumi
 "It's about Akane, just for a moment."
-#Protagonist
+＃Protagonist
 "Akane-san...?"
 Did she find something out?
-#Protagonist
+＃Protagonist
 "Was she found...?"
-#Narumi
+＃Narumi
 "...Not yet. I've searched all the places I was concerned about, but..."
-#Protagonist
+＃Protagonist
 "I doubt it, but... could she be the one who attacked Benio-san...?"
-#Narumi
+＃Narumi
 "I don't think so. There's no reason... probably."
-#Protagonist
+＃Protagonist
 "I see..."
 Even so, I couldn't just leave it be.
-#Protagonist
+＃Protagonist
 "I'll try searching a little more myself."
-#Narumi
+＃Narumi
 "Yes, I'm counting on you."

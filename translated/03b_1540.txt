@@ -2,57 +2,57 @@ Returning to the first floor, I stood before the kitchen.
 I wanted to investigate why this place had been targeted.
 I stepped into the soot-stained kitchen.
 What was the point of making this place unusable—
-#???
+＃???
 "What are you doing?"
 Turning at the voice, I saw Souko-san peering in from the entrance.
-#Protagonist
+＃Protagonist
 "Souko-san... No, I just thought I'd investigate this place a bit more..."
-#Souko
+＃Souko
 "Investigate, huh...?"
 Entering the room, Souko-san scanned the interior.
-#Souko
+＃Souko
 "There’s no doubt the culprit set a trap to trigger the explosion intentionally..."
-#Protagonist
+＃Protagonist
 "We can assume it was designed to blow up when someone tried to open the door, right?"
-#Souko
+＃Souko
 "Likely. There were traces of that kind of mechanism."
-#Protagonist
+＃Protagonist
 "In that case, the probability of whoever opened the door getting injured was high. But... it wasn't guaranteed who would open it."
-#Souko
+＃Souko
 "The most likely person would have been Narumi-san... but the one who got hurt was Akane-san."
-#Protagonist
+＃Protagonist
 "It must have been pure coincidence..."
-#Souko
+＃Souko
 "True. There’s no reason for those two to be targeted. So it’s natural to assume the place itself was the target."
-#Protagonist
+＃Protagonist
 "Exactly..."
 However, there was no evidence to prove exactly why the kitchen was targeted.
 Souko-san walked over to the wall and tried to pry open the oven lid.
-#Souko
+＃Souko
 "Maybe it warped from the blast... Hrrgh."
 No matter how hard she pulled, the oven lid wouldn't budge an inch.
-#Souko
+＃Souko
 "This looks unusable now, too."
-#Protagonist
+＃Protagonist
 "...I wonder about the outside."
 I wondered if the side entrance had any connection.
-#Protagonist
+＃Protagonist
 "Maybe to block off an exit, or something like—"
-#Souko
+＃Souko
 "With this snow, it doesn't look like anyone's going anywhere regardless."
-#Protagonist
+＃Protagonist
 "But there are other places to go in and out..."
 The more I thought about it, the more confused I became.
-#Protagonist
+＃Protagonist
 "...What do you think, Souko-san?"
-#Souko
+＃Souko
 "The reason for the explosion... as you mentioned, it might be a scorched-earth tactic."
-#Protagonist
+＃Protagonist
 "But the culprit is also in this mansion, so it would make things difficult for them as well, wouldn't it?"
-#Souko
+＃Souko
 "The goal isn't to starve everyone. Being trapped like this, if the food runs out, everyone will inevitably lose their cool, right?"
-#Protagonist
+＃Protagonist
 "To rob us of our calm judgment...?"
-#Souko
+＃Souko
 "...The fact that you realized that means you’re still keeping your head."
 Souko-san patted my shoulder and smiled.

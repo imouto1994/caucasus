@@ -1,44 +1,44 @@
-#Protagonist
+＃Protagonist
 "Excuse me."
 When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
 I wonder if he's gone somewhere else.
 I don't have anything in particular to do, so I'll head elsewhere.
-#Protagonist
+＃Protagonist
 "Excuse me."
 As I entered the infirmary, Dr. Mikanagi, who was sitting in a chair, looked up.
-#Mikanagi
+＃Mikanagi
 "Ah, it's you."
-#Protagonist
+＃Protagonist
 "Has anything unusual happened?"
-#Mikanagi
+＃Mikanagi
 "Let's see... only that it's pitch black and I can't even read a book."
-#Protagonist
+＃Protagonist
 "That's... well."
-#Mikanagi
+＃Mikanagi
 "I'm joking. For now, only that Maya-san said she was feeling a bit unwell. Also, I’m concerned about Shion-san's health, but there don't seem to be any problems yet."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I just hope the power is restored soon..."
-#Protagonist
+＃Protagonist
 "Yeah... I think it should be fixed soon."
-#Mikanagi
+＃Mikanagi
 "I see. Then I suppose I'll just have to bear with it a bit longer."
-#Protagonist
+＃Protagonist
 "I'm going to look around a bit more."
-#Mikanagi
+＃Mikanagi
 "Alright, I understand."
-#Protagonist
+＃Protagonist
 "Excuse me."
-#Mikanagi
+＃Mikanagi
 "Oh, what is it this time?"
-#Protagonist
+＃Protagonist
 "No, it's not really a matter of having any business, but..."
-#Mikanagi
+＃Mikanagi
 "Did you notice anything particularly strange while looking around?"
-#Protagonist
+＃Protagonist
 "No, not so far."
-#Mikanagi
+＃Mikanagi
 "I just hope everything passes without anything else happening..."
-#Protagonist
+＃Protagonist
 "Yeah... I hope so too."

@@ -1,28 +1,28 @@
 I’ve made my way to Souko-san's room.
 I give the door a light knock.
-#Souko
+＃Souko
 "Oh, it's you. What is it?"
-#Protagonist
+＃Protagonist
 "Do you have a second?"
-#Souko
+＃Souko
 "Well, I don't mind."
 With that, Souko-san invited me into the room.
-#Souko
+＃Souko
 "So, what's your business?"
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve come to Souko-san's room.
 I give the door a light knock.
-#Souko
+＃Souko
 "Oh, you again. What is it?"
-#Protagonist
+＃Protagonist
 "Do you have a moment to talk?"
-#Souko
+＃Souko
 "Sure, that's fine."
 With that, Souko-san invited me into the room.
-#Souko
+＃Souko
 "What is it this time?"
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve made my way to Souko-san's room.
 I give the door a light knock.

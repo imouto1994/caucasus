@@ -1,28 +1,28 @@
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-#Souko
+＃Souko
 "Oh, it's you. What is it?"
-#Protagonist
+＃Protagonist
 "Do you have a moment?"
-#Souko
+＃Souko
 "Yes, of course."
 With that, Souko-san guided me into the room.
-#Souko
+＃Souko
 "So, what's your business?"
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve come to Souko-san's room.
 I knock lightly on the door.
-#Souko
+＃Souko
 "Oh, it's you again. What's the matter?"
-#Protagonist
+＃Protagonist
 "Could I talk to you for a moment?"
-#Souko
+＃Souko
 "Yes, of course."
 With that, Souko-san guided me into the room.
-#Souko
+＃Souko
 "What is it this time?"
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
@@ -31,44 +31,44 @@ Is she not here?
 I gave up and decided to head elsewhere.
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-#Souko
+＃Souko
 "Oh, it's you. What is it? And Akane-san is with you too."
-#Akane
+＃Akane
 "Um, have you seen Lady Ai?"
-#Souko
+＃Souko
 "Ai-san? No, I haven't."
 Souko-san shakes her head.
-#Protagonist
+＃Protagonist
 "It seems she hasn't been seen for a while now."
-#Souko
+＃Souko
 "I see... I’m worried, especially after what happened..."
-#Akane
+＃Akane
 "Please let us know if you see her. We'll be looking around the other areas."
-#Souko
+＃Souko
 "Yes, I understand."
-#Protagonist
+＃Protagonist
 "Well then, we'll be going."
-#Akane
+＃Akane
 "Please excuse us."
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-#Souko
+＃Souko
 "...Oh, it's you two. Have you found her yet?"
-#Akane
+＃Akane
 "No..."
-#Souko
+＃Souko
 "I think I'll try looking around a few other places myself."
-#Protagonist
+＃Protagonist
 "Yes, could you please?"
-#Souko
+＃Souko
 "Of course."
-#Akane
+＃Akane
 "Then, we're counting on you."
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
 I wait for a while, but there was no response from inside.
-#Akane
+＃Akane
 "It seems she isn't here."
-#Protagonist
+＃Protagonist
 "So it seems."
 I gave up and decided to head elsewhere.

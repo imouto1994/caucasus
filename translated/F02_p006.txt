@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Tsujimura-san? He’s Kousei-shi's younger brother, yet he’s acting like a servant here... It’s a bit strange."
-#Protagonist
+＃Protagonist
 "Yeah."
-#Maya
+＃Maya
 "Tsujimura? He was my husband's younger brother, so we hired him here. He works very hard, and I am very grateful to him."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "Tsujimura-san? He is our uncle, and a very kind man."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Tsujimura has been doing things like babysitting me since long ago."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "About me...? No, I’ve done nothing I can speak of with pride."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "About Tsujimura-san? I hear he’s the younger brother of the previous head and now acts as the manager here."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "Tsujimura-san is the one handling all the clerical work for the Nanatsuki family. You could even call him a butler."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "Tsujimura-san? He’s usually working in the office."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Tsujimura-san? He’s a kind man. Though he can be a bit timid at times..."
-#Protagonist
+＃Protagonist
 "I see."

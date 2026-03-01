@@ -1,80 +1,80 @@
 I've come to the dining hall.
-#Protagonist
+＃Protagonist
 "Huh..."
 Nobody's here.
 I thought someone would usually be in the dining hall.
 What should I do...
 I've come to the dining hall.
-#Narumi
+＃Narumi
 "Ah, what's up?"
 Narumi-san spoke to me.
-#Protagonist
+＃Protagonist
 "I'm just doing some rounds for now."
-#Narumi
+＃Narumi
 "I see. Thanks for all the trouble."
-#Protagonist
+＃Protagonist
 "No, I'm just doing it on my own accord."
-#Narumi
+＃Narumi
 "You're quite dedicated..."
 Narumi-san let out a voice that sounded halfway between impressed and exasperated.
 I've come to the dining hall.
-#Narumi
+＃Narumi
 "Oh, what's wrong this time?"
 Narumi-san noticed me and spoke up.
-#Protagonist
+＃Protagonist
 "Uh, well..."
 I've come to the dining hall.
-#Narumi
+＃Narumi
 "Ah, what's up?"
 Narumi-san, who was sitting listlessly in a chair, spoke to me.
-#Protagonist
+＃Protagonist
 "I'm doing rounds. We still don't know what might happen."
-#Narumi
+＃Narumi
 "Ah... right. Thanks for the effort."
-#Protagonist
+＃Protagonist
 "No... I'm just doing it on my own accord."
 Despite checking around this much, I still haven't found Akane-san—
-#Narumi
+＃Narumi
 "Ah!?"
 Narumi-san suddenly let out a startled cry.
-#Protagonist
+＃Protagonist
 "Wh-What is it!?"
 I look in the direction Narumi-san is staring, but I can only see the corridor through the dining hall door.
-#Narumi
+＃Narumi
 "Just now... Akane was..."
-#Protagonist
+＃Protagonist
 "What!?"
 I step out into the corridor with Narumi-san.
 There's no sign of Akane-san anywhere.
-#Protagonist
+＃Protagonist
 "Do you know what she was doing?"
-#Narumi
+＃Narumi
 "She came out of Akane's room... and seemed to head for the hall..."
 While saying that, Narumi-san puts her hand on the door to Akane-san's room.
-#Narumi
+＃Narumi
 "It's locked... That's strange..."
 I try twisting the doorknob too, but it seems to be locked after all.
-#Protagonist
+＃Protagonist
 "Are you sure you didn't misidentify her?"
-#Narumi
+＃Narumi
 "Hmm... I only saw her from behind, so..."
-#Protagonist
+＃Protagonist
 "...I'll go look for her."
 It's better to take action than to stand here worrying.
-#Narumi
+＃Narumi
 "Ah, yeah. ...Be careful, you never know what might happen."
-#Protagonist
+＃Protagonist
 "...Yeah."
 I parted ways with Narumi-san.
 If Akane-san really was there, what on earth is she doing...?
 When I entered the dining hall, Narumi-san approached me with a worried expression.
-#Narumi
+＃Narumi
 "Did you find Akane?"
-#Protagonist
+＃Protagonist
 "No... I couldn't find her."
 I shake my head.
-#Narumi
+＃Narumi
 "I see..."
-#Protagonist
+＃Protagonist
 "Um, I'll try looking a little more."
 I turn on my heel and head back out into the corridor.

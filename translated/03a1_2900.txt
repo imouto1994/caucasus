@@ -2,174 +2,174 @@ The snow had stopped.
 The eastern sky was growing faintly bright.
 The freezing air bit at my skin.
 A trail of footprints led away across the deep, fresh snow.
-#Benio
+＃Benio
 "That way, huh?"
 Benio-san started to step forward, then looked back at me.
-#Benio
+＃Benio
 "...You should be the one to go first."
-#Protagonist
+＃Protagonist
 "You're right..."
 I needed to steel myself, and there was the matter of the heavy snow to consider.
 It's impossible to move quickly in drifts like these.
 Is that why Souko-san chose to go outside?
 It would be difficult to restrain her out here.
 What should I do...
-#Benio
+＃Benio
 "...There's no time for hesitation. Go, quickly... and save her."
-#Protagonist
+＃Protagonist
 "...Right."
 Souko-san was standing right by the edge of the severed suspension bridge.
-#Souko
+＃Souko
 "I wouldn't come any closer if I were you."
-#Benio
+＃Benio
 "...It would seem so. It wouldn't do to have Mother dropped into the abyss."
 Maya-san was right next to Souko-san—standing so close to the edge she looked ready to fall at any second.
-#Protagonist
+＃Protagonist
 "Souko-san—is this really because of me...?"
-#Souko
+＃Souko
 "...I suppose. At the very least, I didn't intend to kill this woman so easily. I wanted to make her suffer more—to leave her barely clinging to life on the brink of despair."
-#Benio
+＃Benio
 "...So you intended to kill everyone except for Mother?"
-#Souko
+＃Souko
 "That's right. Unfortunately... I wasn't able to kill you."
-#Protagonist
+＃Protagonist
 "Please stop this, Souko-san... The Souko-san I know isn't the kind of person who would do something like this..."
-#Souko
+＃Souko
 "...There's just a side of me that you don't know."
 I was silenced, pinned down by a gaze so cold it made my skin crawl.
-#Souko
+＃Souko
 "...Have you ever had a nightmare? Imagine being forced to watch your mother burn to death in front of you every single day. Every time it happens, the burn on my back throbs and I wake up screaming."
-#Souko
+＃Souko
 "It's impossible to sleep like that. And it's every day. Could you endure it? Every day this woman appears in my dreams and sets everything on fire."
-#Souko
+＃Souko
 "That's the only early memory I have. Even my mother is nothing more than charred flesh to me. And yet, this woman—"
-#Maya
+＃Maya
 "Uugh..."
 Grabbed by the collar, Maya-san let out a weak groan.
-#Souko
+＃Souko
 "...I'm just so tired now. That's why I came here to end it all."
-#Protagonist
+＃Protagonist
 "Even so... revenge is wrong."
-#Souko
+＃Souko
 "...Maybe. But... revenge isn't something you can talk about with logic. I told you, didn't I? I didn't intend to kill this woman. But—"
-#Souko
+＃Souko
 "You're the one who gave me the resolve to kill her. In that sense, I'm glad I brought you along."
-#Protagonist
+＃Protagonist
 "Souko-san!! I—I didn't come here to give you a push toward committing a crime!!"
-#Souko
+＃Souko
 "It just turned out that way. As a result of my decision—even if I die, it's not something you should trouble yourself over."
-#Protagonist
+＃Protagonist
 "How could I not—of course I'm going to care!? I don't want to lose someone precious to me either!!"
-#Souko
+＃Souko
 "—!"
 Souko-san froze.
-#Protagonist
+＃Protagonist
 "...Souko-san, you of all people should know the pain of losing someone precious. So you must understand the pain I'll have to carry after this, right?"
 I pleaded with Souko-san through my tears.
-#Protagonist
+＃Protagonist
 "So... if you've truly forgotten that, then there's nothing more I can do to stop you."
-#Souko
+＃Souko
 "That's..."
-#Protagonist
+＃Protagonist
 "That's it, isn't it...? If you'd forgotten, you wouldn't even be thinking about revenge... right...?"
-#Protagonist
+＃Protagonist
 "If you haven't forgotten... please, just listen to me for a little longer..."
-#Souko
+＃Souko
 "...What?"
-#Protagonist
+＃Protagonist
 "...Souko-san, please look at this."
 Souko-san shook her head sorrowfully.
-#Souko
+＃Souko
 "...Even if you show me something like that..."
-#Protagonist
+＃Protagonist
 "Eh—"
-#Souko
+＃Souko
 "I knew it... there's nothing you can do."
 Souko-san muttered under her breath.
-#Maya
+＃Maya
 "Ah—"
 She shoved Maya-san's body.
-#Benio
+＃Benio
 "Mother—!?"
-#Souko
+＃Souko
 "Goodbye."
 And then Souko-san followed.
-#Protagonist
+＃Protagonist
 "Souko-san—!!"
 The two figures vanished below the cliff.
 I... I made the most helpless choice possible...
-#Souko
+＃Souko
 "Sheet music...?"
-#Protagonist
+＃Protagonist
 "Yes. It's something Kousei-san left behind. On the cover, it says 'Dedicated to my dear Marino'."
-#Souko
+＃Souko
 "Mother...?"
-#Benio
+＃Benio
 "—May I see?"
 Benio-san peered at the music from beside me.
-#Benio
+＃Benio
 "Hmm... it seems to be one of Father's unpublished pieces. Wait, what's this...?"
-#Protagonist
+＃Protagonist
 "What is it...?"
 Benio-san pointed to a corner of the sheet music.
-#Protagonist
+＃Protagonist
 "...'And to Kanon and Shion. I leave this to my beloved daughters'."
-#Souko
+＃Souko
 "Daughters..."
-#Protagonist
+＃Protagonist
 "...Shion-san, could you... sing that song?"
-#Shion
+＃Shion
 "...Yes."
 If my hunch was right, the melody in this music was—
 Shion-san's singing voice echoed across the snowy field.
-#Souko
+＃Souko
 "—!?"
 Souko-san gasped.
-#Souko
+＃Souko
 "This song... Mother's lullaby...?"
-#Protagonist
+＃Protagonist
 "I thought so... when I heard you play the guitar, I felt like it was slightly familiar..."
-#Souko
+＃Souko
 "No... it's a lie..."
 Souko-san shook her head weakly.
-#Protagonist
+＃Protagonist
 "Souko-san... you realized it, didn't you? That Shion-san is your sister."
-#Souko
+＃Souko
 "I don't... remember anything... All I have is the name Nanatsuki Kanon..."
-#Protagonist
+＃Protagonist
 "...I think someone like you would have realized it just from the sound of her name. But... did you just not want to admit it?"
-#Souko
+＃Souko
 "Because—!! My memories are—!!"
 Tears streaming down her face, Souko-san screamed.
 But her voice was swallowed up by the pure white snow.
-#Protagonist
+＃Protagonist
 "...According to Kousei-san's journal, Kanon-san remained unconscious even after she was rescued. And Shion-san had lost all of her memories—"
-#Souko
+＃Souko
 "But... I was planning to kill her too... Shion...?"
 Souko-san slowly approached.
 Dr. Mikanagi and Tsujimura-san went over to Maya-san, who was some distance away.
-#Takamine
+＃Takamine
 "Shion-kun—"
 I stopped Takamine-san as he moved to protect Shion-san.
-#Protagonist
+＃Protagonist
 "I think... there's no need to worry."
-#Takamine
+＃Takamine
 "But..."
-#Protagonist
+＃Protagonist
 "Takamine-san... you want to protect them both too, don't you...? Then please, protect Souko-san—Kanon-san—as well."
-#Takamine
+＃Takamine
 "...!"
 While this was happening, Souko-san reached Shion-san's side.
 There was no longer a dark shadow on Souko-san's face.
 The two of them gazed at each other with peaceful expressions.
 The long night was finally over—
 For the first time in days, sunlight enveloped them.
-#Souko
+＃Souko
 "Shion..."
-#Shion
+＃Shion
 "Kanon-oneesama..."
 Shion-san smiled and reached out both hands.
-#Souko
+＃Souko
 "I'm so sorry... Shion..."
 The morning sun shone down on them.
 The light reflected off the deep snow, making everything look like it was sparkling.
@@ -190,14 +190,14 @@ When time has passed and they have finished making amends—
 Like the snowdrops that give their own color to the transparent snow, they will be able to live for the sake of others.
 Because that's surely what everyone wishes for—
 The world around us was now fully bright.
-#Benio
+＃Benio
 "—Hey."
 Benio-san looked down at a small flower peeking out from beneath her feet.
-#Benio
+＃Benio
 "Do you remember the language of flowers for the snowdrop?"
-#Protagonist
+＃Protagonist
 "...It was 'hope', wasn't it?"
-#Benio
+＃Benio
 "...Do you think there's hope for people like them, who have taken lives?"
-#Protagonist
+＃Protagonist
 "Isn't that obvious? Winter... is finally over."

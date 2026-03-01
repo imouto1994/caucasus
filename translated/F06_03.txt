@@ -1,19 +1,19 @@
 There was no one in the grand hall.
 Now... what should I do?
 Takamine-san was in the grand hall, drinking coffee alone.
-#Protagonist
+＃Protagonist
 "Oh, Takamine-san."
-#Takamine
+＃Takamine
 "What is it...?"
 He glared up at me with a sharp gaze.
-#Protagonist
+＃Protagonist
 "Um..."
 As I entered the grand hall, I locked eyes with Takamine-san.
-#Takamine
+＃Takamine
 "...What do you want?"
 Takamine-san and Dr. Mikanagi were in the grand hall.
-#Mikanagi
+＃Mikanagi
 "Hey, what's the matter?"
 He asked me while holding a coffee cup in one hand.
-#Protagonist
+＃Protagonist
 "Well..."

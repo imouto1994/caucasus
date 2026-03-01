@@ -1,53 +1,53 @@
-#Ai
+＃Ai
 "The west wing consists of the family's private quarters. My mother's room is at the end, mine is on the far left, and Benio's is next to it."
 After giving that brief explanation, Ai-san turned on her heel.
 Well, since no one was there, it was only natural.
 We circled around, looking down over the hall, and entered the opposite corridor.
-#Ai
+＃Ai
 "At the end of this hall is the music room. There's also a room for instrument storage and another for sheet music."
-#Souko
+＃Souko
 "Was it used by Kousei-shi?"
-#Ai
+＃Ai
 "Yes. But lately, Benio has been using it as well. There isn't anything particularly valuable inside, so feel free to use it as you like."
-#Protagonist
+＃Protagonist
 "I can't play a single instrument, though."
-#Souko
+＃Souko
 "You could always just sit there and bang a pair of castanets."
 Souko-san teased me as I scratched my head.
-#Ai
+＃Ai
 "Fufu... I'll have the vacant room on the front right prepared for you, Kirihara-san."
-#Souko
+＃Souko
 "Yes, thank you."
-#Ai
+＃Ai
 "That just leaves the north wing. There's another vacancy there, so I'll prepare that as your room."
-#Protagonist
+＃Protagonist
 "Sorry for all the trouble."
-#Ai
+＃Ai
 "Think nothing of it. This is the first time we've had such a surprise, but it's been quite fun."
 With a smile, Ai-san led the way into the north corridor.
-#Ai
+＃Ai
 "The room at the very end belonged to my father. On the far left is Mikanagi-sensei's room, across from that is the study, and next to it is the infirmary."
-#Protagonist
+＃Protagonist
 "So, will this be my room?"
 I asked, pointing to the door next to Mikanagi-sensei's.
-#Ai
+＃Ai
 "Yes, that's the one. Now, do you have any other questions?"
 Souko-san raised her hand in response to Ai-san's inquiry.
-#Souko
+＃Souko
 "Would it be alright if I had a look inside Kousei-san's room?"
-#Ai
+＃Ai
 "About that... it has been kept closed ever since my father passed away, so I'm afraid I must decline."
-#Protagonist
+＃Protagonist
 "A forbidden room...?"
-#Ai
+＃Ai
 "...I suppose you could call it that."
-#Souko
+＃Souko
 "One more thing—where are the baths?"
-#Ai
+＃Ai
 "Don't worry, each room has its own bathroom. We pump water up from underground, so hot water is available instantly."
-#Souko
+＃Souko
 "You've thought of everything."
-#Ai
+＃Ai
 "Since you must be chilled to the bone, please feel free to use it as soon as I've shown you to your rooms."
-#Souko
+＃Souko
 "Yes, thank you."

@@ -1,72 +1,72 @@
-#Souko
+＃Souko
 "If you're looking for Benio-san, she should be in the infirmary... but her life isn't in danger, so you can relax."
-#Protagonist
+＃Protagonist
 "I see..."
-#Souko
+＃Souko
 "To think even Benio-san would be murdered... the pool of victims and suspects is finally starting to narrow down..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Maya
+＃Maya
 "As for Benio... I don't want her getting involved in anything dangerous..."
-#Protagonist
+＃Protagonist
 "...I see."
-#Maya
+＃Maya
 "Why Benio too...? That's why I told her to stop this dangerous business..."
-#Protagonist
+＃Protagonist
 "Maya-san..."
-#Ai
+＃Ai
 "...As I feared, Benio was targeted as well... Why did it come to this..."
-#Protagonist
+＃Protagonist
 "I don't know..."
-#Ai
+＃Ai
 "Ah... Benio...! Why, why did you have to die...!!"
-#Protagonist
+＃Protagonist
 "Ai-san..."
-#Shion
+＃Shion
 "Lady Benio... is she going to be all right...?"
-#Protagonist
+＃Protagonist
 "She's just resting as a precaution for now. There's no need to worry."
-#Shion
+＃Shion
 "Lady Benio... why...?"
-#Protagonist
+＃Protagonist
 "Shion-san..."
-#Tsujimura
+＃Tsujimura
 "...At any rate, I am relieved that Lady Benio is safe."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Tsujimura
+＃Tsujimura
 "With Lady Benio gone as well... what will become of us now...?"
-#Protagonist
+＃Protagonist
 "...I don't know."
-#Takamine
+＃Takamine
 "So Benio-kun pulled through... but we can't let our guard down just yet."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Takamine
+＃Takamine
 "Even Benio-kun was killed... Hurry up and drag the killer out."
-#Protagonist
+＃Protagonist
 "Y-Yeah..."
-#Mikanagi
+＃Mikanagi
 "I'm having Benio-san rest in the infirmary for now."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "To think Benio-san would be murdered too... I don't want to think it's over an inheritance dispute, but..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Akane
+＃Akane
 "Lady Benio is resting in the infirmary."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Lady Benio... why did she have to be murdered...?"
-#Protagonist
+＃Protagonist
 "Akane-san..."
-#Narumi
+＃Narumi
 "The person who attacked Lady Benio, huh... it'd be best to ask the Lady herself, but..."
-#Protagonist
+＃Protagonist
 "True..."
-#Narumi
+＃Narumi
 "...With Lady Benio murdered as well, have you grasped the killer's intent even a little?"
-#Protagonist
+＃Protagonist
 "No... not yet."

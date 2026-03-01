@@ -1,63 +1,63 @@
 I’ve come to Benio-san's room on the second floor.
 I wonder if she's in.
 I knock on the door.
-#Benio
+＃Benio
 "Yes... oh, it's you."
-#Protagonist
+＃Protagonist
 "Hello, Benio-san. Do you have a moment?"
-#Benio
+＃Benio
 "I don't mind. Come in."
 Benio-san invited me into her room.
-#Benio
+＃Benio
 "So, what do you want?"
-#Protagonist
+＃Protagonist
 "Did you notice the explosion earlier?"
-#Benio
+＃Benio
 "Explosion...? Was there such a thing?"
-#Protagonist
+＃Protagonist
 "Yes, well... it seems something was rigged in the kitchen."
-#Benio
+＃Benio
 "Any injuries?"
-#Protagonist
+＃Protagonist
 "Narumi-san suffered a light injury."
-#Protagonist
+＃Protagonist
 "Akane-san suffered a light injury."
-#Benio
+＃Benio
 "I see... no threat to her life, then?"
-#Protagonist
+＃Protagonist
 "No."
-#Benio
+＃Benio
 "That’s good to hear. ...I think I’ll go take a look myself later."
-#Protagonist
+＃Protagonist
 "Please be careful."
-#Benio
+＃Benio
 "I know. Is that all?"
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve come to Benio-san's room on the second floor.
 I knock on the door and wait for a while.
-#Benio
+＃Benio
 "Who is it... oh, you again."
-#Protagonist
+＃Protagonist
 "Hello, Benio-san. Do you have a moment?"
-#Benio
+＃Benio
 "Well, I don't mind."
 Benio-san invited me into her room.
-#Benio
+＃Benio
 "So, what do you want?"
 Benio-san asks with a formal tone.
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve come to Benio-san's room on the second floor.
 I wonder if she's in.
 I knock on the door.
-#Protagonist
+＃Protagonist
 "Huh... I guess she's not in."
 No matter how long I wait, there is no response.
 She must be somewhere else.
 I decided to head for another location as well.
 I’ve come to Benio-san's room on the second floor.
 I have no more business here, but...
-#Protagonist
+＃Protagonist
 "...Let's head elsewhere."
 I offered a brief, silent prayer toward the door and decided to move on.

@@ -3,7 +3,7 @@ It’s incredibly cold.
 I guess coming out here so lightly dressed was a mistake after all.
 The area around the tower door had been properly cleared of snow.
 However...
-#Protagonist
+＃Protagonist
 "...It’s locked."
 I guess that’s only natural, since Shion-san is in the cathedral.
 Nothing for it; let's head back.

@@ -1,125 +1,125 @@
 When I entered the main hall with the now-changed Benio-san, Ai-san, who was sitting on the sofa, looked up.
-#Ai
+＃Ai
 "Good morning."
-#Protagonist
+＃Protagonist
 "Good morning, Ai-san. Were you able to sleep last night?"
-#Ai
+＃Ai
 "Yes, thanks to you."
 Ai-san bowed her head.
-#Benio
+＃Benio
 "Is it okay for you to be out here?"
-#Ai
+＃Ai
 "...If I stay cooped up in my room alone, I just end up feeling depressed."
 Ai-san managed a smile.
-#Ai
+＃Ai
 "I'll make some cocoa."
-#Protagonist
+＃Protagonist
 "Thank you."
 Almost as soon as Ai-san stood up, Narumi-san entered the hall.
 I arrived at the main hall with the now-changed Benio-san.
-#Benio
+＃Benio
 "Do you want some cocoa?"
 Benio-san asked me.
-#Protagonist
+＃Protagonist
 "Yeah."
-#Benio
+＃Benio
 "Wait a second."
 Almost as soon as Benio-san walked to the corner of the room, Narumi-san entered the hall.
-#Protagonist
+＃Protagonist
 "Oh, good morning."
-#Narumi
+＃Narumi
 "Morning. I've brought breakfast."
 Narumi-san pushed in a cart lined with sandwiches.
-#Souko
+＃Souko
 "Can I have some?"
 Souko-san, who followed them in, poked her head out.
-#Narumi
+＃Narumi
 "Go ahead. ...Well, if anyone doesn't want to eat, I won't force them."
 With that, Narumi-san shot a dangerous look at Lawyer Takamine, who was in the corner of the room.
-#Takamine
+＃Takamine
 "Hmph..."
-#Souko
+＃Souko
 "It's a waste, they're so delicious."
 Souko-san was munching on a sandwich, seemingly without a care in the world.
-#Protagonist
+＃Protagonist
 "...Souko-san, what's in that bag?"
 I noticed the bag Souko-san was carrying.
-#Souko
+＃Souko
 "Empty cola bottles. They were piling up in my room, so I thought I'd throw them away."
-#Narumi
+＃Narumi
 "Then I'll take them. I'll throw them out in the kitchen."
 Narumi-san took the empty bottles.
-#Souko
+＃Souko
 "Thanks, I appreciate it."
-#Protagonist
+＃Protagonist
 "Well then... I'll have some as well."
 With a polite word, I took a piece of sandwich.
 It had boiled egg inside.
-#Benio
+＃Benio
 "And my sister?"
 Benio-san asked Ai-san.
-#Ai
+＃Ai
 "I... don't really have much of an appetite yet."
-#Benio
+＃Benio
 "I see. It's best not to push yourself."
 The cocoa Ai-san made was placed in front of me.
-#Protagonist
+＃Protagonist
 "Ah, thank you."
-#Ai
+＃Ai
 "It's nothing..."
 The cocoa Benio-san made was placed in front of me.
-#Protagonist
+＃Protagonist
 "Ah, thank you."
-#Benio
+＃Benio
 "Don't mention it."
 The door opened, and Tsujimura-san and Shion-san entered.
-#Protagonist
+＃Protagonist
 "Good morning."
-#Tsujimura
+＃Tsujimura
 "Good morning, everyone."
 After exchanging greetings with Tsujimura-san, I stole a glance at Shion-san.
-#Shion
+＃Shion
 "............"
 She looked unwell.
-#Protagonist
+＃Protagonist
 "Shion-san...?"
-#Shion
+＃Shion
 "Ah, yes... what is it...?"
-#Protagonist
+＃Protagonist
 "You don't look very well..."
-#Shion
+＃Shion
 "Yes... I'm feeling a little under the weather..."
-#Souko
+＃Souko
 "Are you okay...?"
-#Benio
+＃Benio
 "Shion, can you manage some breakfast?"
-#Shion
+＃Shion
 "Yes..."
 Shion-san gave a small nod and picked up a sandwich.
-#Benio
+＃Benio
 "Tsujimura, why don't you eat something too?"
-#Tsujimura
+＃Tsujimura
 "Yes, I think I will."
 The door opened, and Dr. Mikanagi entered.
-#Mikanagi
+＃Mikanagi
 "It seems everyone is here."
-#Protagonist
+＃Protagonist
 "Good morning, Dr. Mikanagi."
-#Mikanagi
+＃Mikanagi
 "Good morning. Madam isn't feeling well and is resting in her room, so could someone bring her some food later?"
-#Narumi
+＃Narumi
 "Yes, I understand."
-#Souko
+＃Souko
 "Is she going to be alright?"
 Souko-san asked with concern.
-#Mikanagi
+＃Mikanagi
 "...It might be the strain. A lot happened yesterday alone."
-#Benio
+＃Benio
 "Well... it can't be helped. Mother has never been particularly strong."
-#Protagonist
+＃Protagonist
 "...I hope we can be released soon."
 Some people will surely start to find this confinement unbearable before long.
 Before we reach our limit, I have to find the culprit somehow and put everyone's mind at ease.
-#Souko
+＃Souko
 "...Don't put too much pressure on yourself."
 Souko-san muttered as she sipped her cola.

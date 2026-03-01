@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "A will, huh... I’m certainly curious about what kind of things were left in it..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "I am sorry... but that is not something I can easily discuss with an outsider..."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Ai
+＃Ai
 "A will? ...I don't know the specifics, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "You should ask Takamine about my father's will. He’s the one managing it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "...As far as that matter is concerned, there is nothing I can say."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Takamine
+＃Takamine
 "There’s no way I could discuss that with an outsider like you."
-#Protagonist
+＃Protagonist
 "Y-you're right..."
-#Mikanagi
+＃Mikanagi
 "That’s... not a matter I’m in any position to comment on."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Akane
+＃Akane
 "A will...? I wonder if the lawyer, Takamine-sama, might know something."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "A will, huh... I suppose it’s where the distribution of the inheritance and such is written... but naturally, I don't know the details."
-#Protagonist
+＃Protagonist
 "You're right."

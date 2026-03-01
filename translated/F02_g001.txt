@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "If you search for information on Nanatsuki Village, it's a story that comes up right away. Though I couldn't find any documents that go into great detail."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "...I am aware that such rumors are circulating in the village. However, I do not know the specifics."
-#Protagonist
+＃Protagonist
 "...I see."
-#Ai
+＃Ai
 "...I would prefer not to answer that question."
-#Protagonist
+＃Protagonist
 "I see... sorry about that."
-#Benio
+＃Benio
 "The 'Curse of the Seven Possessions', huh... well, I don't mind. First, 'Item One: The fact that all heads of the Nanatsuki family have died mysterious deaths.' 'Item Two: The fact that no males are ever born into the Nanatsuki family.'"
-#Benio
+＃Benio
 " 'Item Three: The mysterious disappearances in Nanatsuki Village.' 'Item Four: The fact that the mansion is painted entirely in jet black.' 'Item Five: The way massive numbers of crows cover the mansion.'"
-#Benio
+＃Benio
 " 'Item Six: The matter of the "Sacrifice of the Seven Possessions".' 'Item Seven: The ghost of the girl who was made a sacrifice wandering the mansion.' ...That’s all of them."
-#Protagonist
+＃Protagonist
 "Geez... thank you."
-#Tsujimura
+＃Tsujimura
 "I don't really... know much about such things..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I have no interest in such nonsense."
-#Protagonist
+＃Protagonist
 "O-oh, I see..."
-#Mikanagi
+＃Mikanagi
 "A curse? ...Ah, you mean those rumors? I think Lady Benio would be more knowledgeable about that sort of thing."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "A-a curse...? I know people say all sorts of things about it... but it’s quite scary, isn't it?"
-#Protagonist
+＃Protagonist
 "You're right..."
-#Narumi
+＃Narumi
 "A curse? I’ve heard they say a lot of things in town... but if you want details, why don't you try asking Lady Benio?"
-#Protagonist
+＃Protagonist
 "Good point."

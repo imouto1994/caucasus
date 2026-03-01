@@ -1,29 +1,29 @@
-#Souko
+＃Souko
 "It really is almost the same."
-#Tsujimura
+＃Tsujimura
 "Yes. ...However, since it hasn't been used in quite some time, please overlook any minor dust."
-#Souko
+＃Souko
 "That won't be a problem at all. Thank you very much."
-#Tsujimura
+＃Tsujimura
 "Well then, I shall take my leave."
 Tsujimura-san bowed and left the room.
-#Souko
+＃Souko
 "Whew..."
 Souko-san immediately opened a bottle of cola.
-#Protagonist
+＃Protagonist
 "...What are you going to do now?"
-#Souko
+＃Souko
 "Isn't it obvious? Find the culprit."
 She spoke while gazing out the window.
-#Souko
+＃Souko
 "I don't intend to fall for their provocation, but I can't just sit back and watch."
-#Protagonist
+＃Protagonist
 "You’re right."
 I think we’ll be able to leave tomorrow, but we can't just wait around until then.
 The culprit must know that they only have until tomorrow as well.
 They’ll definitely try something tonight.
-#Protagonist
+＃Protagonist
 "...Souko-san, I’m going to do another round of the mansion."
-#Souko
+＃Souko
 "Right... be careful out there."
 Leaving behind Souko-san's worried voice, I stepped out of the room.

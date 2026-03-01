@@ -4,15 +4,15 @@ It seems she's not here.
 It can't be helped, I'll go somewhere else.
 I've come to the front of Narumi-san's room.
 I knock lightly on the door and wait.
-#Narumi
+＃Narumi
 "Yes... Oh, it's you. What's up?"
-#Protagonist
+＃Protagonist
 "I just came to check on how things are going..."
-#Narumi
+＃Narumi
 "I see. Doing rounds must be tough, but hang in there."
-#Protagonist
+＃Protagonist
 "Yeah."
 I've come to the front of Narumi-san's room.
 I knock lightly on the door and wait.
-#Narumi
+＃Narumi
 "Yes... Oh, it's you again."

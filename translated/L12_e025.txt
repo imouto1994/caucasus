@@ -1,28 +1,28 @@
-#Souko
+＃Souko
 "…Since Shion-san touched the body, the bloodstains have spread quite a bit. It’s made it difficult to get a clear picture of what happened."
-#Protagonist
+＃Protagonist
 "I suppose so…"
-#Maya
+＃Maya
 "…I’m so sorry, I just don’t understand any of this."
-#Protagonist
+＃Protagonist
 "Is that so…?"
-#Ai
+＃Ai
 "…I’m sorry, I don’t really know."
-#Protagonist
+＃Protagonist
 "I see…"
-#Tsujimura
+＃Tsujimura
 "…Lady Shion’s clothes were also heavily stained with blood. She likely just wanted to confirm Mikanagi-sensei’s safety, but…"
-#Protagonist
+＃Protagonist
 "That makes sense…"
-#Takamine
+＃Takamine
 "Doesn't make a lick of sense to me."
-#Protagonist
+＃Protagonist
 "I see…"
-#Akane
+＃Akane
 "I don’t… I don’t know anything… Mikanagi-sensei… hng…"
-#Protagonist
+＃Protagonist
 "Akane-san…"
-#Narumi
+＃Narumi
 "…Lady Shion was covered in blood because she touched Mikanagi-sensei’s corpse, but… I wonder if that’s really all there was to it…"
-#Protagonist
+＃Protagonist
 "Who knows…"

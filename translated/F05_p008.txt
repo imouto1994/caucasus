@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "Dr. Mikanagi seems quite exhausted too... though I suppose it's to be expected..."
-#Protagonist
+＃Protagonist
 "...Right."
-#Maya
+＃Maya
 "Dr. Mikanagi prescribed me some medicine this morning... I feel much better thanks to him."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...The thought of Dr. Mikanagi not being in this house right now... it's terrifying."
-#Protagonist
+＃Protagonist
 "Right..."
-#Benio
+＃Benio
 "Hiroshi seems quite exhausted. He likely hasn't slept much."
-#Protagonist
+＃Protagonist
 "Right..."
-#Shion
+＃Shion
 "...I need to go get my medicine from Dr. Mikanagi later..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Having Dr. Mikanagi here was a help. We wouldn't know what to do ourselves..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "Dr. Mikanagi is usually in the infirmary. Other than that... he's often off performing checkups for Maya-san."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "...I'm truly exhausted. I haven't slept much, wanting to be ready for whatever might happen."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Dr. Mikanagi? I expect he's in the infirmary..."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Dr. Mikanagi? Wouldn't he be in the infirmary or with the Madam?"
-#Protagonist
+＃Protagonist
 "I see..."

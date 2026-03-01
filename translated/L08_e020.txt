@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "This is the same as the memo in the telephone room... This must be how Benio-san was lured out."
-#Protagonist
+＃Protagonist
 "Likely so..."
-#Souko
+＃Souko
 "The same method used to lure Ai-san... most likely."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "This is... the same paper as the one placed next to the telephone..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

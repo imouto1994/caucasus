@@ -1,18 +1,18 @@
 When I returned to the office, Maya-san was there, which was unusual.
-#Protagonist
+＃Protagonist
 "Ah... Maya-san..."
-#Maya
+＃Maya
 "Oh... were you with Shion?"
-#Protagonist
+＃Protagonist
 "Yes... there was something I absolutely had to confirm..."
-#Maya
+＃Maya
 "I see... By the way, did Shion take her medicine?"
-#Protagonist
+＃Protagonist
 "Ah... since Dr. Mikanagi passed away, she probably hasn't yet."
-#Maya
+＃Maya
 "I see... just as I thought... I'm glad I brought it then."
-#Protagonist
+＃Protagonist
 "Um... well, I'll be taking my leave now."
-#Maya
+＃Maya
 "Yes, good night to you."
 Leaving Maya-san behind, I stepped out of the office.

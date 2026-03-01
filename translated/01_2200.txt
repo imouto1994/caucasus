@@ -1,70 +1,70 @@
 I was walking across the upper level of the atrium on my way back to my room after taking care of business when Dr. Mikanagi stepped out of the door on the west wing.
-#Mikanagi
+＃Mikanagi
 "Oh, is something the matter?"
-#Protagonist
+＃Protagonist
 "No, I was just heading back to my room... How about you, Doctor?"
-#Mikanagi
+＃Mikanagi
 "Well... I was just checking on Maya-san since she hasn't been feeling particularly well."
 The doctor spoke with a look of exhaustion on his face.
-#Protagonist
+＃Protagonist
 "Is she going to be alright?"
-#Mikanagi
+＃Mikanagi
 "It might just be her nerves acting up before the ceremony, but... honestly, I wish she'd give me a break."
-#Protagonist
+＃Protagonist
 "That sounds rough."
 Working in a massive estate like this must be a mental strain.
-#Mikanagi
+＃Mikanagi
 "Well, I'm the attending physician, so I suppose I have no choice."
 As I watched Dr. Mikanagi, I got the distinct feeling that wasn't the only thing weighing on him.
-#Mikanagi
+＃Mikanagi
 "Anyway, I'll be off. I still have things to take care of."
-#Protagonist
+＃Protagonist
 "Oh, right. ...Take care of yourself."
-#Mikanagi
+＃Mikanagi
 "Haha... thanks."
 With a dry, hollow laugh, Dr. Mikanagi walked away.
 Just as I turned on my heel to head back to my room...
-#Akane
+＃Akane
 "Waaah!?"
 Akane-san came tumbling out from a blind spot in the corridor.
-#Protagonist
+＃Protagonist
 "...What are you doing, Akane-san?"
-#Akane
+＃Akane
 "A-ah, um, let's see, what was I doing again...?"
-#Protagonist
+＃Protagonist
 "...Don't ask me."
-#Akane
+＃Akane
 "A-ah, um, well... did you see Dr. Mikanagi...?"
 Akane-san asked me timidly.
-#Protagonist
+＃Protagonist
 "If you're looking for the doctor, I think he went back to his room. He seemed pretty tired."
-#Akane
+＃Akane
 "Aww... And I was waiting for him to come out all this time..."
 Her shoulders slumped in disappointment.
-#Protagonist
+＃Protagonist
 "Did you have some business with him?"
-#Akane
+＃Akane
 "N-no! It wasn't anything important at all!"
 Her face turned bright red as she shook her head frantically.
 ...She acted completely different than when she was working.
 Even someone as dense as me could tell why Akane-san was so flustered.
-#Protagonist
+＃Protagonist
 "Umm... Akane-san, do you... like the doctor?"
-#Akane
+＃Akane
 "Don't say it! Please, don't say it!"
 She grabbed my shoulders and started shaking me back and forth.
-#Protagonist
+＃Protagonist
 "O-okay, I get it, just let go of me..."
-#Akane
+＃Akane
 "Do you promise not to tell anyone!?"
-#Protagonist
+＃Protagonist
 "I-I won't tell a soul, I promise..."
-#Akane
+＃Akane
 "You better keep that promise, okay!?"
 After making sure I understood, Akane-san finally took her hands off my shoulders.
 Even if I didn't say anything, I'd only met her a few hours ago and I already noticed, so I figured everyone else probably knew too.
-#Akane
+＃Akane
 "Sigh... I'm going back to work..."
-#Protagonist
+＃Protagonist
 "Y-yeah... good luck."
 I called out to her as she headed down the stairs with slumped shoulders, and then I decided to return to my own room.

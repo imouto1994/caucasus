@@ -1,44 +1,44 @@
 I’ve arrived at the dining hall.
-#Akane
+＃Akane
 "Ah, good morning."
 Akane-san was there.
-#Protagonist
+＃Protagonist
 "Good morning, Akane-san."
-#Akane
+＃Akane
 "Are you here for breakfast?"
-#Protagonist
+＃Protagonist
 "Yes. Is there anything ready?"
-#Akane
+＃Akane
 "Of course. Please wait just a moment."
 With that, Akane-san headed off toward the kitchen.
 As I sat and waited, she soon returned with a tray.
-#Akane
+＃Akane
 "It's just toast and fried eggs, if that's alright?"
-#Protagonist
+＃Protagonist
 "Yes, thank you."
 I take a large bite of the golden-brown toast.
-#Protagonist
+＃Protagonist
 "Hay, Ah-kahn-ay-shahn."
-#Akane
+＃Akane
 "Please finish what's in your mouth before you try to speak."
 Akane-san scolds me with a laugh.
-#Protagonist
+＃Protagonist
 "Ngh... um, do you have a moment?"
-#Akane
+＃Akane
 "Yes? What is it?"
 I’ve returned to the dining hall.
-#Akane
+＃Akane
 "Oh, is something the matter?"
-#Protagonist
+＃Protagonist
 "Um..."
 I’ve arrived at the dining hall.
-#Benio
+＃Benio
 "Oh, it's you."
 Benio-san was eating breakfast alone.
 Akane-san was nearby, attending to her.
-#Benio
+＃Benio
 "Are you here for breakfast too?"
-#Protagonist
+＃Protagonist
 "No, I..."
 Right now, there's something I'd rather do than eat.
 Should I talk to Benio-san or Akane-san?

@@ -1,37 +1,37 @@
 I’ve arrived at the grand hall.
 Naturally, it remains pitch black in here too.
-#Akane
+＃Akane
 "Ah... are you alright?"
 Akane-san, who had been gazing anxiously out the window, turned around.
-#Protagonist
+＃Protagonist
 "Akane-san... what happened?"
-#Akane
+＃Akane
 "I'm not entirely sure myself... is it a power outage...?"
-#Protagonist
+＃Protagonist
 "It could be dangerous if something happens, so please try not to leave your room."
-#Akane
+＃Akane
 "Yes... I suppose so."
 Akane-san nodded.
-#Protagonist
+＃Protagonist
 "I'm going to look around the interior a bit more."
-#Akane
+＃Akane
 "Alright... please be careful."
 Seen off by Akane-san, I left the hall.
 I’ve returned to the grand hall.
 Akane-san was still in the room.
-#Protagonist
+＃Protagonist
 "Akane-san."
-#Akane
+＃Akane
 "Yes, what is it?"
-#Protagonist
+＃Protagonist
 "Has anything unusual happened?"
-#Akane
+＃Akane
 "No, nothing in particular... no one else has come by..."
-#Protagonist
+＃Protagonist
 "Perhaps everyone is staying cooped up in their rooms."
 Well, that’s probably for the best safety-wise.
-#Protagonist
+＃Protagonist
 "I'm going to look around the interior a bit more."
-#Akane
+＃Akane
 "Yes... please be careful."
 Seen off by Akane-san, I left the hall.

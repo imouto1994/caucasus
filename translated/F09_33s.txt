@@ -33,7 +33,7 @@ Scales and whatever else, I don't really get it.
 It's written that "Do-Re-Mi-Fa-Sol-La-Ti-Do" is "C-D-E-F-G-A-B-C" in English, and further "C-D-E-F-G-A-H-C" in German.
 I don't even want to remember my music grades...
 A music textbook is placed here.
-#Protagonist
+＃Protagonist
 "Hm...?"
 A scrap of paper wedged between the pages caught my eye.
 I wonder what it is...
@@ -41,7 +41,7 @@ I wonder what it is...
 My name is Kousei Nanatsuki. I am but a composer.
 I have decided to leave an account of a certain experience here. It was because it was an event too hideous to keep locked away in my own heart.
 Those who find this, read with caution. ~To be continued~
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 A scrap of paper titled "The Story of a Certain Man - Chapter 1" is wedged in there.
 A book titled "Deutsche Architektur" is placed here.

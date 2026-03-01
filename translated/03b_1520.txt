@@ -1,20 +1,20 @@
 When I returned to the dining room, Narumi-san was eating cabbage.
-#Narumi
+＃Narumi
 "Want some?"
-#Protagonist
+＃Protagonist
 "No... well, actually, I'll take a bit."
 It was just chopped cabbage sprinkled with salt.
 It was a poor match for the glittering dining room, but right now, I was just grateful to have anything to eat.
-#Narumi
+＃Narumi
 "Everything normal?"
-#Protagonist
+＃Protagonist
 "Yeah, well... I didn't confirm everyone myself, but... has Akane-san come back?"
-#Narumi
+＃Narumi
 "She hasn't returned yet... she went to Dr. Mikanagi's place, right?"
-#Protagonist
+＃Protagonist
 "Yeah... don't tell me..."
 Had something happened—
-#Protagonist
+＃Protagonist
 "...I'll go check."
-#Narumi
+＃Narumi
 "Right. Be careful."

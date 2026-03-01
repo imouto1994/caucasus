@@ -4,24 +4,24 @@ I hurry toward the tower, leaving fresh footprints on the narrow path.
 I step inside and brush off the snow.
 First, I have to confirm Shion-san's safety.
 I head up the stairs.
-#Protagonist
+＃Protagonist
 "Shion-san, it's me. Please open up."
 I call out and wait for a moment.
 The door opens, and Shion-san timidly peeks her face out.
-#Shion
+＃Shion
 "Ah……"
-#Protagonist
+＃Protagonist
 "Thank goodness…… Shion-san, it must have been dark, right?"
-#Shion
+＃Shion
 "No…… it's always dim here anyway……"
-#Protagonist
+＃Protagonist
 "Is that so…… at any rate, I'm glad you're safe."
-#Shion
+＃Shion
 "……I see."
 For some reason, Shion-san looks down as if dejected.
-#Protagonist
+＃Protagonist
 "Is something the matter……?"
-#Shion
+＃Shion
 "……No, it's nothing. Well then——"
 Shion-san bows and closes the door.
 I wanted to talk a little more, but…… it can't be helped, I'll head back to the manor.

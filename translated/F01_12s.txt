@@ -1,7 +1,7 @@
 It's pure white outside the window; I can't see a thing.
 The wind and snow seem to be getting stronger than they were this evening.
 The blizzard outside seems to be intensifying.
-#Protagonist
+＃Protagonist
 "Hm...?"
 A scrap of paper with something written on it is stuck to the toilet lid.
 What could it be...
@@ -13,7 +13,7 @@ I tried to refuse, but the man insisted there was no need for modesty and wouldn
 To be honest, I didn't want them.
 We continued that back-and-forth for a while, but finally worn down, I ended up accepting that forbidden thing.
 It was because I was tired after the performance and wanted to get it over with quickly. ~To be continued~
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 A scrap of paper titled "The Tale of a Certain Man - Chapter 3" is lying there.
 It's a locker where cleaning supplies and such are stored.

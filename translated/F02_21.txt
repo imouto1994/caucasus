@@ -1,35 +1,35 @@
 I’ve come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-#Benio
+＃Benio
 "Yes... oh, it's you."
-#Protagonist
+＃Protagonist
 "Hello, Benio-san. Do you have a moment?"
-#Benio
+＃Benio
 "I don't mind. Come in."
 Benio-san invited me into her room.
-#Benio
+＃Benio
 "So, what is it?"
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve come to Benio-san's room on the second floor.
 I knock on the door and wait for a while.
-#Benio
+＃Benio
 "Who is it... oh, you again."
-#Protagonist
+＃Protagonist
 "Hello, Benio-san. Do you have a moment?"
-#Benio
+＃Benio
 "Well, I suppose."
 Benio-san invited me into her room.
-#Benio
+＃Benio
 "So, what is it?"
 Benio-san asks, turning more serious.
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-#Protagonist
+＃Protagonist
 "Huh... I guess she's not here."
 There was no response no matter how long I waited.
 Nothing for it; let's try somewhere else.

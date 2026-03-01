@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "Apparently he was in his room... but no one can prove it..."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "I wouldn't know; I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "...I don't know. My room is in the annex, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I believe he was in his room... but I have not confirmed it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I was in my room the whole time. Though, I don't suppose anyone can prove it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "How could I possibly know? I was right there with you."
-#Protagonist
+＃Protagonist
 "True..."

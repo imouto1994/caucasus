@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Akane-san, huh... I can't really see a motive for her to target Ai-san."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "If it's Akane, I imagine she would have been preparing dinner or something around that time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "I don't see any reason for Akane to kill my sister, but... maybe we'll find something if we dig a bit..."
-#Protagonist
+＃Protagonist
 "True..."
-#Shion
+＃Shion
 "I believe Akane-san was in the grand hall..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "As for Mistress Hiyama, I believe she would have been preparing dinner around that time..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I don't know what Akane-san was doing..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "The lights went out while I was cleaning the grand hall, so I just stayed still without moving for a while..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "As for Akane, she was in the grand hall. Apparently, she didn't move an inch while the power was out."
-#Protagonist
+＃Protagonist
 "I see..."

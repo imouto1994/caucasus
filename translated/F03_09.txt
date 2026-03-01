@@ -1,69 +1,69 @@
 I’ve arrived at the kitchen.
-#Narumi
+＃Narumi
 "Oh, what's up?"
 Narumi-san was there.
-#Protagonist
+＃Protagonist
 "Are you preparing lunch?"
-#Narumi
+＃Narumi
 "Yeah, are you hungry?"
-#Protagonist
+＃Protagonist
 "Not quite yet."
-#Narumi
+＃Narumi
 "I'll have it ready so we can eat a bit after one."
-#Protagonist
+＃Protagonist
 "Understood."
-#Narumi
+＃Narumi
 "So, didn't you have some kind of business with me?"
-#Protagonist
+＃Protagonist
 "Um..."
 I’ve arrived at the kitchen again.
-#Narumi
+＃Narumi
 "Oh, do you need something else?"
-#Protagonist
+＃Protagonist
 "Um..."
 I’ve arrived at the kitchen.
 ...But no one is here.
 What should I do...?
 Narumi-san was in the kitchen.
-#Narumi
+＃Narumi
 "Oh, Akane, what's wrong?"
-#Akane
+＃Akane
 "Narumi-san, have you seen Lady Ai?"
-#Narumi
+＃Narumi
 "Lady Ai...? No, I haven't."
-#Protagonist
+＃Protagonist
 "I see..."
 It seems she hasn't come here either.
-#Akane
+＃Akane
 "Let's look somewhere else."
-#Protagonist
+＃Protagonist
 "...Alright."
 We decided to go somewhere else.
 Narumi-san was in the kitchen.
-#Narumi
+＃Narumi
 "Oh, still haven't found Lady Ai?"
-#Protagonist
+＃Protagonist
 "No... that's right."
-#Akane
+＃Akane
 "There should only be so many places she could go inside the manor..."
-#Narumi
+＃Narumi
 "Maybe you should try looking more thoroughly?"
-#Protagonist
+＃Protagonist
 "...I suppose so."
 We decided to go search elsewhere.
 I’ve arrived at the kitchen.
-#Akane
+＃Akane
 "Narumi-san isn't here."
 There's no one inside.
 Of course, that includes Ai-san.
-#Protagonist
+＃Protagonist
 "She wouldn't be... hiding somewhere, right?"
-#Akane
+＃Akane
 "I don't think so."
 Akane-san opens the service entrance leading to the back to check.
 Snow immediately blows inside.
-#Akane
+＃Akane
 "It's drifting quite a bit, but I don't see any footprints..."
-#Protagonist
+＃Protagonist
 "Let's look elsewhere."
 We decided to go to another location.

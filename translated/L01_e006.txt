@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "...The fire is out, but I didn't see any signs of anything other than firewood being burned."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Small wonder it's so cold. It's possible the killer extinguished it to avoid the risk of a fire breaking out."
-#Protagonist
+＃Protagonist
 "Is that so...?"
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "A fireplace doesn't just cause a fire if left alone... Master Rokuyou should have been well aware of that."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "The fact the fire was out should slow the decomposition of the remains..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

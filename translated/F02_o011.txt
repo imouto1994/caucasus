@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "I wonder if a line got cut somewhere."
-#Protagonist
+＃Protagonist
 "Maybe."
-#Maya
+＃Maya
 "Oh dear, the phones... that is quite a problem..."
-#Protagonist
+＃Protagonist
 "It is..."
-#Ai
+＃Ai
 "The phones aren't working? That will be a disaster if something happens..."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Benio
+＃Benio
 "The phones are out...? That’s a nuisance. It means we can't call for a carriage from the foot of the mountain."
-#Protagonist
+＃Protagonist
 "Right..."
-#Tsujimura
+＃Tsujimura
 "The phones are down... Perhaps the line was cut by last night's blizzard... I should investigate it as soon as possible."
-#Protagonist
+＃Protagonist
 "I agree."
-#Takamine
+＃Takamine
 "The phones... You should be telling Tsujimura-san that, not me."
-#Protagonist
+＃Protagonist
 "Y-you're right..."
-#Mikanagi
+＃Mikanagi
 "The phones aren't working...? That would be a problem if we had a medical emergency..."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Akane
+＃Akane
 "The phones are out...? That’s so inconvenient if something were to happen..."
-#Protagonist
+＃Protagonist
 "It is..."
-#Narumi
+＃Narumi
 "The phones are down? I wonder if the weight of the snow snapped the line..."
-#Protagonist
+＃Protagonist
 "Maybe so..."

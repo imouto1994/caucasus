@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "It was frozen shut; it didn't look like it was going to open."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Even the lock was frozen solid... At any rate, entering or exiting would be difficult."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "The snow is piled high outside; walking is out of the question. No paths have been cleared except for the one to Lady Shion's tower..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

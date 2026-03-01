@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "Around two o'clock? I was in your room then, wasn't I?"
-#Protagonist
+＃Protagonist
 "Ah, that's right."
-#Maya
+＃Maya
 "I feel terribly sorry that Mistress Kirihara has been dragged into such an ordeal."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...Is something the matter with Mistress Kirihara? She shouldn't have any connection to Isamu-san, but..."
-#Protagonist
+＃Protagonist
 "True..."
-#Benio
+＃Benio
 "...As someone with no ties to this house, I doubt anyone is better suited to play the role of detective than her."
-#Protagonist
+＃Protagonist
 "I-I see..."
-#Shion
+＃Shion
 "I don't really understand, but... I am sorry."
-#Protagonist
+＃Protagonist
 "Y-You're right..."
-#Tsujimura
+＃Tsujimura
 "I am deeply sorry for the terrible trouble we have caused Mistress Kirihara and her companion..."
-#Protagonist
+＃Protagonist
 "No, please don't let it worry you..."
-#Takamine
+＃Takamine
 "Normally one would be shaken after something like this, but she is remarkably composed."
-#Protagonist
+＃Protagonist
 "True..."
-#Mikanagi
+＃Mikanagi
 "Kirihara-san, huh... She seems strong, but you have to be the one to support her."
-#Protagonist
+＃Protagonist
 "Y-Yeah..."
-#Akane
+＃Akane
 "Mistress Kirihara? I don't see any particular problem with her..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Kirihara-san? Nothing seems strange about her."
-#Protagonist
+＃Protagonist
 "I see..."

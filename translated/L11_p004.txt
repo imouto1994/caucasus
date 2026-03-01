@@ -1,24 +1,24 @@
-#Ai
+＃Ai
 "...Benio seems strangely lively, even though she was attacked herself."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "The possibility of me being the killer? I won't say it's nonexistent, but I was resting in the infirmary the whole time, wasn't I?"
-#Protagonist
+＃Protagonist
 "That's true..."
-#Tsujimura
+＃Tsujimura
 "Lady Benio was resting in her room even before Mistress Kirihara's body was discovered. I do not believe she had recovered yet."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I don't think Benio-kun is the culprit... but weren't you right there with her?"
-#Protagonist
+＃Protagonist
 "True..."
-#Mikanagi
+＃Mikanagi
 "...I don't care what you two get up to, really, but I'd appreciate it if you kept it out of my workspace."
-#Protagonist
+＃Protagonist
 "I-I'm not sure what you mean..."
-#Narumi
+＃Narumi
 "There's almost no chance Lady Benio is the killer, right? She was asleep in the infirmary the whole time."
-#Protagonist
+＃Protagonist
 "True..."

@@ -9,7 +9,7 @@ The box itself seems like it would be quite valuable.
 It's a locked wooden box.
 It appears to be a toolbox.
 It contains a hammer and some rusted pliers.
-#Protagonist
+＃Protagonist
 "Ah, that reminds me..."
 The hardware on my bag had gotten a bit loose.
 I think I'll borrow these pliers to fix it.
@@ -32,7 +32,7 @@ I thought about that even as I wept.
 I told him honestly that it tasted awful. The man gave a satisfied smile and said:
 "Well, yeah. I'm still in training, so of course it's gonna be bad. Thanks for being honest, pops."
 I felt like I finally understood this man just a little bit. ~To be continued~
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 A scrap of paper titled 'A Certain Man's Story: Chapter Nine' is inside.
 I try opening the drawer, but there's nothing unusual inside.

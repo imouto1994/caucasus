@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Kousei-shi's old room, huh? I’m curious, but if it’s locked up tight, there’s not much we can do."
-#Protagonist
+＃Protagonist
 "I suppose you're right."
-#Maya
+＃Maya
 "That was my husband's room while he was alive. We’ve left it exactly as it was back then."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "That room belonged to my father. Even I have almost never set foot inside."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Father's room is strictly off-limits. Even I’ve hardly ever been allowed in there."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "That is the room the Master used to occupy, but it is kept locked now. I am the one in charge of the key."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "Kousei-shi's room is sealed off from everyone. It’s a place that has nothing to do with you people."
-#Protagonist
+＃Protagonist
 "Y-you're right..."
-#Mikanagi
+＃Mikanagi
 "I don't know much about that room myself. It belonged to the previous head of the house, apparently... but I doubt you'll get a look inside."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "That room...? I’ve never been inside it myself, so..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I heard they’re preserving that room exactly as it was when the Master was alive... but I doubt there’s anything particularly unusual in there."
-#Protagonist
+＃Protagonist
 "I see..."

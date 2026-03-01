@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "Mikanagi-sensei seems quite exhausted as well... though I suppose that's only natural..."
-#Protagonist
+＃Protagonist
 "...Yeah."
-#Maya
+＃Maya
 "Mikanagi-sensei seems to be tired as well... I don't wish to burden him further."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...If Mikanagi-sensei weren't in this house right now... it's a terrifying thought."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Benio
+＃Benio
 "Hiroshi seems quite exhausted too. He likely hasn't slept much."
-#Protagonist
+＃Protagonist
 "Yeah, probably..."
-#Shion
+＃Shion
 "Mikanagi-sensei... he also prescribes my medicine..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "It was a blessing that Mikanagi-sensei was here. We wouldn't have known what to do on our own..."
-#Protagonist
+＃Protagonist
 "True..."
-#Takamine
+＃Takamine
 "Mikanagi-sensei is usually in the infirmary. Otherwise... he's often away examining Maya-san."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "...I'm predictably exhausted. I've been staying ready for whatever might happen, so I haven't slept much."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Mikanagi-sensei... I wonder if he's getting any rest at all..."
-#Protagonist
+＃Protagonist
 "Hard to say..."
-#Narumi
+＃Narumi
 "Mikanagi-sensei? Isn't he in the infirmary?"
-#Protagonist
+＃Protagonist
 "I see..."

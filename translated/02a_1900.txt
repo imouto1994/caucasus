@@ -1,49 +1,49 @@
-#Protagonist
+＃Protagonist
 "Excuse me."
 When I entered the office, Tsujimura-san was sitting in a chair, staring blankly into space.
-#Protagonist
+＃Protagonist
 "Um... Tsujimura-san?"
-#Tsujimura
+＃Tsujimura
 "A-Ah... it was you. Is something the matter?"
 Tsujimura-san immediately straightened his posture and asked.
-#Protagonist
+＃Protagonist
 "I just thought I'd go check on Shion-san as well. ...Did something happen, Tsujimura-san?"
-#Tsujimura
+＃Tsujimura
 "No... so many things have happened that my mind is feeling a bit cluttered."
-#Protagonist
+＃Protagonist
 "That... goes for me too. I think everyone is feeling that way."
-#Tsujimura
+＃Tsujimura
 "...My apologies. For things to turn out like this..."
-#Protagonist
+＃Protagonist
 "It's not your fault, Tsujimura-san."
-#Tsujimura
+＃Tsujimura
 "However... with Mr. Rokuyou murdered and Miss Ai attacked... as the one responsible for managing this manor, I feel terribly sorry..."
 Tsujimura-san looked down.
 He looked so small.
-#Tsujimura
+＃Tsujimura
 "...In the past, something similar happened."
-#Protagonist
+＃Protagonist
 "Something similar...!?"
-#Tsujimura
+＃Tsujimura
 "No, naturally nobody died. However... because of my own incompetence, I once caused a great deal of trouble for the Madam and the others..."
 At Tsujimura-san's confession, I felt a slight sense of relief.
 I couldn't bear it if things like this happened all the time.
-#Tsujimura
+＃Tsujimura
 "Even now, I find myself thinking about it. I wonder if there was something more I could have done back then. It might be far too late for regrets now, though."
-#Protagonist
+＃Protagonist
 "Tsujimura-san..."
-#Tsujimura
+＃Tsujimura
 "I'm begging you. Even if it's only while you're here... could you please protect the young lady, Shion-ojousama...?"
-#Protagonist
+＃Protagonist
 "Well... of course. I want to protect everyone."
-#Tsujimura
+＃Tsujimura
 "Ah... thank you very much."
 Tsujimura-san bowed deeply.
-#Protagonist
+＃Protagonist
 "Shion-san is safe, isn't she?"
-#Tsujimura
+＃Tsujimura
 "Yes, of course. She is in her own room right now."
-#Protagonist
+＃Protagonist
 "I'll go check on her for a bit."
-#Tsujimura
+＃Tsujimura
 "Understood. I'm counting on you."

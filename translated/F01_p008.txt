@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "About Dr. Mikanagi? Hmm, he did treat my finger, but he feels a bit... flighty, I guess."
-#Protagonist
+＃Protagonist
 "...I suppose so."
-#Maya
+＃Maya
 "We were very much indebted to Dr. Mikanagi's father. I am only where I am today thanks to the Mikanagi family."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "Dr. Mikanagi often looks after us. Doctors won't come out to such a remote place, so it's a huge help."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Are you asking about Hiroshi? He's been here since long ago, so we're practically like family."
-#Protagonist
+＃Protagonist
 "I see."
-#Tsujimura
+＃Tsujimura
 "Dr. Mikanagi is indispensable here. The Mistress and Lady Shion aren't in the best of health, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Rokuyou
+＃Rokuyou
 "Hiroshi and I have been stuck with each other for years, so I know a lot. Even back in med school, he seemed to be breaking plenty of hearts."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "Dr. Mikanagi appears to be an excellent physician. He specializes in internal medicine, but I'm sure he could handle simple surgeries if needed."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "Me? My father is the true family doctor for the Nanatsuki. But he's getting on in years, so I've been staying here lately."
-#Protagonist
+＃Protagonist
 "Is that so?"
-#Akane
+＃Akane
 "Eh, Dr. Mikanagi!? Um, well... wouldn't he be in the infirmary...?"
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Dr. Mikanagi? He has a bit of a light air about him. Though he hardly ever says a word to me."
-#Protagonist
+＃Protagonist
 "I-I see..."

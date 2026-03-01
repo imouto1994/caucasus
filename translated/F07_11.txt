@@ -1,20 +1,20 @@
 I've come to the front of Narumi-san's room.
 I knock lightly on the door and wait.
-#Narumi
+＃Narumi
 "Yes... Oh, it's you. What's up?"
-#Protagonist
+＃Protagonist
 "I just came to check on how things are going..."
-#Narumi
+＃Narumi
 "Did something happen?"
-#Protagonist
+＃Protagonist
 "No, nothing yet."
-#Narumi
+＃Narumi
 "I see. Doing rounds must be tough, but hang in there."
-#Protagonist
+＃Protagonist
 "Yeah."
 I've come to the front of Narumi-san's room.
 I knock lightly on the door and wait.
-#Narumi
+＃Narumi
 "Yes... Oh, it's you again."
 I've come to the front of Narumi-san's room.
 I knock lightly on the door and wait for a while, but there's no response from inside.

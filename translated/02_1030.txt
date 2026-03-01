@@ -1,132 +1,132 @@
-#Protagonist
+＃Protagonist
 "I think we should stop here for now."
 We couldn't keep everyone tied up and keep fuel to the fire of their anxiety forever.
-#Souko
+＃Souko
 "As a precaution, please try to avoid acting alone."
 Souko-san addressed everyone.
-#Benio
+＃Benio
 "It would be best to either stay here or keep yourselves locked in your rooms."
-#Maya
+＃Maya
 "...Indeed. I shall return to my room. Akane, come with me."
-#Akane
+＃Akane
 "As you wish, Madam."
 Maya-san left the hall, accompanied by Akane-san.
-#Takamine
+＃Takamine
 "...I’ll do as I please."
 Takamine-san stood up.
-#Protagonist
+＃Protagonist
 "Takamine-san...?"
-#Takamine
+＃Takamine
 "The killer is among us, isn't that right? I refuse to sit around in a group with someone like that."
-#Benio
+＃Benio
 "It’s not as if we’ve decided who the culprit is yet."
-#Takamine
+＃Takamine
 "Which is exactly why it's dangerous."
-#Benio
+＃Benio
 "Staying alone will only play into the killer’s hands."
 A faint smile played on Benio-san’s lips.
-#Benio
+＃Benio
 "Though it’s not as if we know for certain this will lead to a string of murders."
-#Ai
+＃Ai
 "Stop it, Benio!!"
 Ai-san suddenly let out a shrill scream.
-#Ai
+＃Ai
 "You're always like this! Acting so composed and looking down on us! Always, always... who do you think you are!?"
-#Benio
+＃Benio
 "Calm down, Sister. You're troubling everyone."
 Benio-san tried to soothe Ai-san.
-#Ai
+＃Ai
 "I’m sure the killer is right here in this room!! I won't be killed! Absolutely not... and I'll protect Shion as well!!"
 Ai-san pulled Shion-san into a tight embrace.
-#Shion
+＃Shion
 "Ah..."
 For a moment, Shion-san’s expression stiffened.
-#Benio
+＃Benio
 "Sister..."
-#Ai
+＃Ai
 "Who is it... who was it that killed Isamu-san...!"
 With bloodshot eyes, Ai-san scanned the people around her.
-#Mikanagi
+＃Mikanagi
 "...I think it would be best if you didn't provoke the killer."
 Mikanagi-sensei gently chided Ai-san.
-#Protagonist
+＃Protagonist
 "You might be right. But... we can't just sit still and do nothing, either."
-#Takamine
+＃Takamine
 "...I’m going back to my room."
 Takamine-san left the Great Hall.
-#Protagonist
+＃Protagonist
 "What about you, Souko-san?"
-#Souko
+＃Souko
 "Me? ...Well, I think I'll head back to my room for a bit."
 After saying that, she leaned in and whispered into my ear.
-#Souko
+＃Souko
 "I'll come to your room later so we can organize what we've found."
-#Protagonist
+＃Protagonist
 "...Understood."
 Souko-san left as well.
-#Narumi
+＃Narumi
 "Well then, I guess I'll go get lunch ready."
 One by one, everyone began to leave the room.
 Even though Souko-san had just warned everyone that acting alone was dangerous.
-#Benio
+＃Benio
 "Paranoia is setting in."
 Benio-san said, sounding almost amused.
-#Mikanagi
+＃Mikanagi
 "It’s only natural, after something like that happened."
-#Benio
+＃Benio
 "Well, I’m the same way when it comes to not trusting those around me. ...Now then, I suppose I’ll head back to my room as well."
-#Protagonist
+＃Protagonist
 "You too, Benio-san?"
-#Benio
+＃Benio
 "I have a few things I’d like to think over as well."
-#Mikanagi
+＃Mikanagi
 "I’ll be returning to the infirmary."
 Benio-san and Mikanagi-sensei left as well.
 The only ones left were me, Shion-san, Ai-san, and Tsujimura-san.
-#Protagonist
+＃Protagonist
 "What do you plan to do now?"
 I asked Tsujimura-san.
-#Tsujimura
+＃Tsujimura
 "What else can we do? We have no choice but to wait... for someone from the base of the mountain to arrive."
-#Protagonist
+＃Protagonist
 "Do you have a radio or something?"
-#Tsujimura
+＃Tsujimura
 "If we did, I would have used it from the start."
-#Protagonist
+＃Protagonist
 "...Fair point."
-#Tsujimura
+＃Tsujimura
 "We have enough food and fuel to last for a while, so that’s not an issue, but..."
-#Ai
+＃Ai
 "Tsujimura-san."
 Ai-san spoke up.
 It was as if her earlier outburst had never happened.
-#Tsujimura
+＃Tsujimura
 "Ai-ojousama, is something the matter?"
-#Ai
+＃Ai
 "Shion... says her head hurts..."
 Shion-san was looking down, leaning against Ai-san for support.
-#Tsujimura
+＃Tsujimura
 "A-are you alright, Ojousama!?"
-#Shion
+＃Shion
 "Nnh..."
 Shion-san furrowed her brow in pain.
-#Protagonist
+＃Protagonist
 "Shouldn't we take her to the infirmary?"
-#Tsujimura
+＃Tsujimura
 "Y-yes..."
-#Protagonist
+＃Protagonist
 "I'll take her."
-#Tsujimura
+＃Tsujimura
 "No, that's... we can't trouble our guest with that."
-#Protagonist
+＃Protagonist
 "We should be cooperating right now. ...Shion-san, can you move...?"
-#Shion
+＃Shion
 "Y-yes..."
 With Ai-san’s support, Shion-san stood up.
-#Ai
+＃Ai
 "I'm coming too."
-#Tsujimura
+＃Tsujimura
 "I'll be in the office. Please call for me if anything happens."
-#Protagonist
+＃Protagonist
 "Yes, understood."
 I offered Shion-san my shoulder, opened the door, and stepped out into the hallway.

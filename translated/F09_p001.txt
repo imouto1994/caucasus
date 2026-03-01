@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "So they think they can threaten me? They're delusional if they think I'm backing down over something like this."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "We've caused you quite a bit of trouble... I'm terribly sorry."
-#Protagonist
+＃Protagonist
 "No, please don't let it worry you."
-#Ai
+＃Ai
 "Kirihara-san is remarkably composed, isn't she? Even in a situation like this..."
-#Protagonist
+＃Protagonist
 "She is..."
-#Benio
+＃Benio
 "Whether she's truly strong, just putting up a front, or if there's some other reason... it's hard to say."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Kirihara-san... she has a bit of a frightening aura about her, doesn't she?"
-#Protagonist
+＃Protagonist
 "Do you think so...?"
-#Tsujimura
+＃Tsujimura
 "We have moved Mistress Kirihara to a different room. She wouldn't be able to settle down in a place like that, after all."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "If she's hunting for the killer, I'd like her to find them and be done with it."
-#Protagonist
+＃Protagonist
 "Y-Yeah, I suppose so..."
-#Mikanagi
+＃Mikanagi
 "As for Kirihara-san, she seemed to be investigating her own room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "As for Mistress Kirihara, she appeared to be investigating her room..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Kirihara-san, huh? She seems to be looking into all sorts of things."
-#Protagonist
+＃Protagonist
 "I see..."

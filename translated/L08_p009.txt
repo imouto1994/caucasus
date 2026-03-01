@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "...I really don't know what she's been doing since she went to check on Mikanagi-sensei. Apparently she was in the infirmary the whole time, but..."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "I wouldn't know; I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "...I don't know. My room is in the annex, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I believe she was in the dining hall..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know anything about what happens outside my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I went to check on Mikanagi-sensei... and stayed in the infirmary for a while after that. There was no real reason for it, though..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I was on the first floor the whole time, but Akane never came back."
-#Protagonist
+＃Protagonist
 "I see..."

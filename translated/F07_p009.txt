@@ -1,68 +1,68 @@
-#Souko
+＃Souko
 "Akane-san hasn't been acting particularly strange, but we can't be too careful."
-#Protagonist
+＃Protagonist
 "Right..."
-#Souko
+＃Souko
 "I wonder why she disappeared..."
-#Protagonist
+＃Protagonist
 "...I don't know."
-#Maya
+＃Maya
 "Akane is a hard worker. She is very attentive to detail."
-#Protagonist
+＃Protagonist
 "I see."
-#Maya
+＃Maya
 "Akane has vanished... surely, that child couldn't be...?"
-#Protagonist
+＃Protagonist
 "...We don't know anything for certain yet."
-#Ai
+＃Ai
 "Akane-san? She's an excellent worker."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "The fact that Akane-san disappeared... surely that means..."
-#Protagonist
+＃Protagonist
 "...We don't know yet."
-#Shion
+＃Shion
 "Akane-san... she has always been kind to me."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Akane-san... where on earth did she go...?"
-#Protagonist
+＃Protagonist
 "...We don't know yet."
-#Tsujimura
+＃Tsujimura
 "...At any rate, I am glad Mistress Hiyama's injuries were not severe."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Tsujimura
+＃Tsujimura
 "Where on earth could Mistress Hiyama have gone...?"
-#Protagonist
+＃Protagonist
 "We don't know yet..."
-#Takamine
+＃Takamine
 "Whether Hiyama-kun being targeted is connected to you two being locked in the basement... you still don't know?"
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "There are only so many places one can go in this mansion... why can't she be found?"
-#Protagonist
+＃Protagonist
 "True..."
-#Mikanagi
+＃Mikanagi
 "I'm glad Akane-san's injuries were minor. ...I don't want to see any more victims, after all."
-#Protagonist
+＃Protagonist
 "Me neither..."
-#Mikanagi
+＃Mikanagi
 "I wonder if it's because of what happened yesterday... her hiding herself away like that."
-#Protagonist
+＃Protagonist
 "...Maybe."
-#Akane
+＃Akane
 "My injuries are fine now. For now, let's... think about other things instead."
-#Protagonist
+＃Protagonist
 "Right..."
-#Narumi
+＃Narumi
 "I don't think you need to worry about Akane's injuries."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "The reason she vanished, huh... She seemed to be looking into something, so maybe it's related to that... but it might be better not to jump to conclusions."
-#Protagonist
+＃Protagonist
 "I see..."

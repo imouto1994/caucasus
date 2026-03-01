@@ -1,24 +1,24 @@
 There was no one in the grand hall.
 Well... what should I do?
 When I entered the grand hall, Takamine-san was sitting on the sofa.
-#Protagonist
+＃Protagonist
 "Ah, Takamine-san."
-#Takamine
+＃Takamine
 "...Did something happen?"
 He gives me a sharp, sideways glare as he stands up.
-#Protagonist
+＃Protagonist
 "Souko-san—I mean, Kirihara's room was ransacked, and there was writing on the wall in what looks like blood."
-#Takamine
+＃Takamine
 "...That sounds ominous."
-#Protagonist
+＃Protagonist
 "Yeah... Did you see anyone acting strangely?"
-#Takamine
+＃Takamine
 "I don't pay much attention to what others are doing."
 Takamine-san answers flatly.
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "Was there something else?"
 Takamine-san was still in the grand hall.
-#Takamine
+＃Takamine
 "Do you still need something?"

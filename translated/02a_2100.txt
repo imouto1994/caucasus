@@ -1,5 +1,5 @@
 It happened when I arrived at the north hallway on my way back to my room.
-#Protagonist
+＃Protagonist
 "Hmm...?"
 Someone went into the study at the back.
 I wonder who it is at this hour...?
@@ -8,7 +8,7 @@ I guess I'll just have to wait for them to come out.
 I went back to my room and decided to watch the study by leaving my door slightly open.
 About twenty minutes must have passed just like that.
 The door to the study opened.
-#Protagonist
+＃Protagonist
 "Eh...?"
 The person who emerged from the study was Akane-san.
 She was looking around the hallway carefully, appearing restless.
@@ -16,36 +16,36 @@ Fortunately, she didn't seem to have noticed me watching her.
 I wonder what she was doing...
 I doubt it's—but maybe I should check.
 I stepped into the hallway and spoke to Akane-san.
-#Protagonist
+＃Protagonist
 "—Akane-san."
-#Akane
+＃Akane
 "Hyaah!?"
 Akane-san literally jumped.
-#Akane
+＃Akane
 "A-Ah, ugh... i-it was you..."
-#Protagonist
+＃Protagonist
 "A-Are you alright...?"
 I reached out to Akane-san, who had collapsed onto the floor.
-#Akane
+＃Akane
 "Th-Thank you very much..."
 Akane-san stood up unsteadily.
-#Protagonist
+＃Protagonist
 "Ah, you dropped something."
 I picked up a scrap of cloth that had fallen to the floor.
 Is it a handkerchief?
 The name "Akari·M" was embroidered on the edge.
-#Protagonist
+＃Protagonist
 "Akari...?"
-#Akane
+＃Akane
 "Ah, s-sorry!"
 As if snatching it away, Akane-san grabbed the handkerchief from my hand.
-#Protagonist
+＃Protagonist
 "That... is yours, right, Akane-san?"
-#Akane
+＃Akane
 "Y-Yes. I m-made a mistake when I was sewing the name..."
 Akane-san spoke incoherently.
 If she says so, then maybe that's it... but her panic seemed very strange for that.
-#Akane
+＃Akane
 "Th-Thank you! Well then!"
 With a bow, Akane-san immediately hurried away down the hallway.
 But what was she doing in the study?
@@ -56,20 +56,20 @@ I reached for the doorknob, but it was locked after all.
 What was she doing here...?
 Maybe... it has something to do with the things that have been happening...
 A door opened behind me.
-#Protagonist
+＃Protagonist
 "Eh... Dr. Mikanagi?"
 When I turned around, Dr. Mikanagi had emerged from his room.
-#Mikanagi
+＃Mikanagi
 "Was that... Akane-san just now?"
-#Protagonist
+＃Protagonist
 "Yes... she seemed to be doing something..."
-#Mikanagi
+＃Mikanagi
 "I knew it..."
 Dr. Mikanagi let out a sigh.
-#Protagonist
+＃Protagonist
 "Um, Dr. Mikanagi... Akane-san is..."
-#Mikanagi
+＃Mikanagi
 "—Let's talk in my room."
 Dr. Mikanagi opened his door wide.
-#Protagonist
+＃Protagonist
 "...Excuse me."

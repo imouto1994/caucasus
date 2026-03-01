@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "The body's head was missing. I wonder where on earth they've hidden it..."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "...The back of the corpse was slightly soiled. It looked like dust or something similar..."
-#Protagonist
+＃Protagonist
 "True..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I... don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "As I thought, without the head, we can't determine a detailed cause of death... I wonder if they hid it specifically because they didn't want that known..."
-#Protagonist
+＃Protagonist
 "Maybe so..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

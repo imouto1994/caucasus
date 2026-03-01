@@ -1,63 +1,63 @@
-#Protagonist
+＃Protagonist
 "Whew..."
 Emerging into the first-floor hall, I let out a long, heavy breath.
-#Narumi
+＃Narumi
 "That was a disaster, seriously..."
-#Protagonist
+＃Protagonist
 "In any case, we have to stop the culprit before they do anything else. Let’s patrol the mansion."
-#Narumi
+＃Narumi
 "Ah... h-hey..."
 As I turned to begin my search from the nearest area, Narumi-san held me back.
-#Protagonist
+＃Protagonist
 "What is it?"
-#Narumi
+＃Narumi
 "Aren't you going to suspect me? I mean... I'm a thief, you know?"
-#Protagonist
+＃Protagonist
 "...You might be a thief, Narumi-san, but you aren't a murderer, are you? Besides, there’d be no point in you being locked in here with me."
 If Narumi-san were the killer... she would have finished me off while we were trapped.
-#Narumi
+＃Narumi
 "I see..."
-#Protagonist
+＃Protagonist
 "Let's hurry, Narumi-san."
 Stepping into the eastern corridor, we ran right into Akane-san as she emerged from her room.
-#Protagonist
+＃Protagonist
 "Ah, Akane-san..."
-#Akane
+＃Akane
 "Is something the matter? You seem to be in a great hurry..."
-#Protagonist
+＃Protagonist
 "No, no particular reason..."
 It was probably for the best not to mention being locked in the basement by someone.
-#Protagonist
+＃Protagonist
 "By the way... Akane-san, is your injury okay now?"
-#Akane
+＃Akane
 "Ah, yes. I can't exactly afford to stay still at a time like this."
 Saying so, Akane-san waved her still-bandaged hand.
-#Akane
+＃Akane
 "Oh, that's right. Kirihara-sama was looking for you."
-#Protagonist
+＃Protagonist
 "Souko-san was?"
 I wondered if she’d been worried since I’d disappeared from sight.
-#Akane
+＃Akane
 "She’s still in the dining room..."
-#Protagonist
+＃Protagonist
 "Souko-san?"
 Peering into the dining room, I saw Souko-san sitting in a chair, sipping a cola.
-#Souko
+＃Souko
 "Ah, there you are. Where have you been?"
-#Protagonist
+＃Protagonist
 "Never mind 'where have I been.' It was a nightmare."
 I briefly explained to Souko-san that we’d been trapped in the basement storage.
-#Souko
+＃Souko
 "To think something like that happened..."
-#Protagonist
+＃Protagonist
 "The culprit might have been up to something while we were gone. I thought I should confirm everyone’s safety first..."
-#Souko
+＃Souko
 "That’s a good idea. In that case, can you go check on the people on the second floor?"
-#Akane
+＃Akane
 "Ah, I'll go check on Dr. Mikanagi."
 Before we could say another word, Akane-san blurted that out and dashed from the dining room.
-#Protagonist
+＃Protagonist
 "...Then I’ll go check on Maya-san and the others."
-#Souko
+＃Souko
 "Right, please do. I'll take a look around the first floor."
 Souko-san placed her empty cola bottle on the table and stood up.

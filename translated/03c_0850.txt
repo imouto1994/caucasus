@@ -1,21 +1,21 @@
 As I turned around, I ran into Narumi-san coming out of the chapel.
-#Protagonist
+＃Protagonist
 "Oh, Narumi-san."
-#Narumi
+＃Narumi
 "...She wasn't here either."
 Narumi-san shook her head.
-#Protagonist
+＃Protagonist
 "Did you unlock it?"
-#Narumi
+＃Narumi
 "I've checked almost all the locked rooms, not just this one, but she's nowhere to be found."
-#Protagonist
+＃Protagonist
 "Um... did you check Kousei-san's room on the second floor?"
-#Narumi
+＃Narumi
 "Ah... yes, just in case. But she wasn't there."
-#Protagonist
+＃Protagonist
 "I see..."
 Where on earth could she have gone...?
-#Narumi
+＃Narumi
 "...Let's head back for now."
-#Protagonist
+＃Protagonist
 "...Yeah. Benio-san is searching as well, so let's hear what she has to say."

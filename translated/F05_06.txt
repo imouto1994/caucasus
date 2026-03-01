@@ -1,31 +1,31 @@
 I’ve arrived at the reception room.
-#Shion
+＃Shion
 "Ah..."
 Shion-san was there.
-#Protagonist
+＃Protagonist
 "Shion-san, how are you feeling?"
-#Shion
+＃Shion
 "Still... not very well..."
-#Protagonist
+＃Protagonist
 "Don't you think it's better if you rest in your room?"
-#Shion
+＃Shion
 "Yes... perhaps. But... it's always like this..."
 Shion-san gave a weak smile.
-#Protagonist
+＃Protagonist
 "...Please don't push yourself."
-#Shion
+＃Shion
 "Yes, thank you. By the way... did you have business with me?"
 Shion-san was still in the reception room.
-#Shion
+＃Shion
 "Ah... what is it?"
-#Protagonist
+＃Protagonist
 "I’m just doing my rounds. I don't know what might happen yet, after all."
-#Shion
+＃Shion
 "Will... something else happen...?"
-#Protagonist
+＃Protagonist
 "I can't say for sure... but I intend to do my best to ensure nothing does."
-#Shion
+＃Shion
 "I see..."
 Shion-san looks exhausted as well.
-#Shion
+＃Shion
 "...Did you need anything else...?"

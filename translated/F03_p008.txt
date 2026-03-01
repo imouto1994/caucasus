@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "...He said he only had basic knowledge of forensic medicine, but I don't think he's said anything far off the mark."
-#Protagonist
+＃Protagonist
 "...Right."
-#Maya
+＃Maya
 "I'm always causing trouble for Dr. Mikanagi... I feel terribly sorry about it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "I feel I've done something wrong to Hiroshi. Even if he is a doctor, I made him examine the body of his friend."
-#Protagonist
+＃Protagonist
 "Right..."
-#Shion
+＃Shion
 "...Dr. Mikanagi always prescribes me headache medicine. It's a bit bitter, but it's for my own sake."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Having Dr. Mikanagi here was a help. We wouldn't know what to do ourselves..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "Dr. Mikanagi is usually in the infirmary. Other than that... he's often off performing checkups for Maya-san."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "...To think I would be the one to perform Isamu's autopsy. I've never cursed my being a doctor so much as I do now."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Dr. Mikanagi is often performing checkups for the Madam... but those two are suspicious, aren't they?"
-#Protagonist
+＃Protagonist
 "I-I see..."

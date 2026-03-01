@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "That's the cat Benio-san keeps, right? Lovecraft... what a niche name to give it..."
-#Protagonist
+＃Protagonist
 "Oh..."
-#Maya
+＃Maya
 "Benio takes care of that child. I... am not very fond of animals."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Love only takes to me... but it seems he's taken a liking to you too."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "...That's the cat Sister Benio keeps, isn't it? I'm sorry... I don't know much about it..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Lady Benio takes care of it. It seems he doesn't take to others very much..."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "A cat... I don't know the details, but Benio-kun keeps it, doesn't she?"
-#Protagonist
+＃Protagonist
 "It seems so."
-#Mikanagi
+＃Mikanagi
 "That's Benio-san's cat, right? I've seen Akane-san giving it food."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Lady Benio's cat? He often comes to the kitchen to steal bites while I'm cooking."
-#Protagonist
+＃Protagonist
 "I see."

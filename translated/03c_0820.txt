@@ -1,34 +1,34 @@
 Now then... what should I do?
 There was a knock on the door from outside.
-#Protagonist
+＃Protagonist
 "Yes...?"
 I sat up and went to the door.
-#Narumi
+＃Narumi
 "It's Mizumori."
-#Protagonist
+＃Protagonist
 "Narumi-san...?"
 I wonder what she wants.
-#Protagonist
+＃Protagonist
 "What's wrong?"
-#Narumi
+＃Narumi
 "Have you seen Akane?"
 Narumi-san asked as soon as she entered the room.
-#Protagonist
+＃Protagonist
 "Akane-san?"
 Now that she mentions it... I don't think I've seen her this morning.
-#Narumi
+＃Narumi
 "She's not in her room, so I'm looking for where she went..."
-#Protagonist
+＃Protagonist
 "But there are only so many places she can go in this mansion, right?"
-#Narumi
+＃Narumi
 "That's true..."
 Narumi-san looked worried.
 Well... given the situation, it’s only natural.
-#Protagonist
+＃Protagonist
 "Um, I'll help you look."
-#Narumi
+＃Narumi
 "Then could you go around and ask the others? I'll take a look at the other areas."
-#Protagonist
+＃Protagonist
 "Understood."
 Narumi-san left.
 Well, I’d better go around the mansion and search for Akane-san.

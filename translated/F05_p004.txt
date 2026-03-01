@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "...She really isn't a morning person, is she?"
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "As for Benio... I'd rather she not get involved in anything dangerous..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...Since I was targeted, I think there's a possibility the culprit might be after Benio too..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Benio
+＃Benio
 "It's unlikely that nothing will happen today. The target will be me, Shion... or perhaps someone else..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Shion
+＃Shion
 "Sister Benio... she's kind, but sometimes I don't know what she's thinking..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Lady Benio is also in danger, so I wish she would stay quiet... but I doubt she'll listen..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "I don't know what Benio-kun is thinking about this whole situation, but she seems to be investigating things."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Benio-san seems to be looking into various things as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Lady Benio? I expect she's in her room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Lady Benio never was a morning person. Usually, Tsujimura-san is the one who wakes her up."
-#Protagonist
+＃Protagonist
 "I see..."

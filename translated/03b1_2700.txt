@@ -5,25 +5,25 @@ But I hated the idea of just handing everything over to the police and saying go
 I'll end it—with my own hands.
 The tower was shrouded in silence.
 We were talking just a while ago, so I didn't think she'd be asleep yet, but...
-#Protagonist
+＃Protagonist
 "That's right—Maya-san."
 Maya-san had visited here just as I was leaving.
 She seemed to have brought medicine, but if my prediction was correct, Maya-san is the one in danger—
 I dashed up the stairs in one breath.
-#Protagonist
+＃Protagonist
 "Shion-san—!!"
 Maya-san was not in the room.
 Shion-san was lying on the bed alone.
-#Protagonist
+＃Protagonist
 "Eh... Shion-san...?"
 Her condition was clearly strange.
 She didn't look like she was simply sleeping at all.
-#Protagonist
+＃Protagonist
 "Shion-san!?"
 I rushed to her and shook her.
 There was no response.
 Her breathing... had also stopped.
-#Protagonist
+＃Protagonist
 "You're... joking, right...?"
 Why.
 Why Shion-san.
@@ -32,7 +32,7 @@ A cup was rolling on the floor.
 This is...
 I picked up the cup using a handkerchief to avoid touching it directly.
 A small amount of liquid remained inside.
-#Protagonist
+＃Protagonist
 "Poison...?"
 There wasn't a single external injury on Shion-san's remains.
 In that case, the cause of death would likely be poisoning, but—

@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "A will, huh... I'm certainly curious about what he left behind..."
-#Protagonist
+＃Protagonist
 "Me too..."
-#Maya
+＃Maya
 "I'm sorry, but... the contents are not something to be discussed lightly with an outsider..."
-#Protagonist
+＃Protagonist
 "Of course..."
-#Ai
+＃Ai
 "The will? I don't know the specific details, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "My father's will... if you wish to know its contents, why not ask Mr. Takamine?"
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "...Regarding that matter, there is nothing I can say from my position."
-#Protagonist
+＃Protagonist
 "I understand..."
-#Rokuyou
+＃Rokuyou
 "The previous head's will? ...Well, I know the contents, but it doesn't really concern me."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "There's no way I could speak of it to an outsider like you."
-#Protagonist
+＃Protagonist
 "Y-You're right..."
-#Mikanagi
+＃Mikanagi
 "That is... not a matter I am in a position to comment on."
-#Protagonist
+＃Protagonist
 "I understand..."
-#Akane
+＃Akane
 "The will...? I believe the lawyer, Mr. Takamine, might know something."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "A will, huh... I suppose it's about the distribution of the inheritance and such... but I don't know the fine details."
-#Protagonist
+＃Protagonist
 "Of course."

@@ -1,94 +1,94 @@
 I returned to my room.
-#Narumi
+＃Narumi
 "Ah, welcome back."
-#Protagonist
+＃Protagonist
 "Narumi-san...?"
 For some reason, Narumi-san was inside my room.
-#Protagonist
+＃Protagonist
 "What are you doing here...?"
-#Narumi
+＃Narumi
 "I needed to talk to you about something. I let myself in."
 Narumi-san began speaking as if there were nothing strange about it at all.
-#???
+＃???
 "Hey, wake up already!"
 A voice called out, and my body was shaken.
 When I slowly opened my eyes, Narumi-san was standing right in front of me.
-#Protagonist
+＃Protagonist
 "Eh... Narumi-san?"
-#Narumi
+＃Narumi
 "I came because I wanted to talk."
-#Protagonist
+＃Protagonist
 "...Right, whatever."
 I gave a half-hearted reply and pulled the covers over my head.
-#Narumi
+＃Narumi
 "...Hey."
-#Protagonist
+＃Protagonist
 "...It has nothing to do with me anymore."
 I didn't feel like doing anything.
-#Narumi
+＃Narumi
 "Listen, you... that's quite enough."
 Narumi-san's hand grabbed my collar.
-#Protagonist
+＃Protagonist
 "Eh—"
 Before I knew it, I was sprawling on the floor.
 My left cheek throbbed with pain.
-#Narumi
+＃Narumi
 "Stop moping around already! When you start acting all pathetic like this, it makes me feel like garbage too!"
 Narumi-san's hand grabbed my collar again.
-#Narumi
+＃Narumi
 "Do you think Kirihara-san will come back to life if you stay curled up in your blankets!? Don't screw around with me, and stop pretending to be the protagonist of some tragedy!!"
-#Protagonist
+＃Protagonist
 "That wasn't my intention..."
-#Narumi
+＃Narumi
 "Then pull yourself together! If you actually care about settling the score for her!"
-#Protagonist
+＃Protagonist
 "I... I want to catch the person who killed Souko-san..."
-#Narumi
+＃Narumi
 "You going to do it...?"
-#Protagonist
+＃Protagonist
 "...I will."
 Because I'm surely the only one who can.
-#Narumi
+＃Narumi
 "...Good. Then, let's talk business."
-#Protagonist
+＃Protagonist
 "Business...?"
-#Narumi
+＃Narumi
 "Do you know about the hidden inheritance?"
-#Protagonist
+＃Protagonist
 "Hidden inheritance... Takamine-san mentioned it. But we don't even know if it actually exists, right...?"
-#Narumi
+＃Narumi
 "My hunch says it definitely does. There was that code too, right?"
-#Protagonist
+＃Protagonist
 "Ah... right, there was."
 I showed the string of characters I had written down to Narumi-san.
-#Narumi
+＃Narumi
 "I'm sure this is the key to the hidden inheritance."
-#Protagonist
+＃Protagonist
 "...You're quite well-informed."
-#Narumi
+＃Narumi
 "Well, I've done a lot of digging. That lawyer is such a blockhead; I couldn't get my hands on this code no matter what I tried."
-#Protagonist
+＃Protagonist
 "...So that's why you knew about the photo in Takamine-san's room."
-#Narumi
+＃Narumi
 "Something like that."
-#Protagonist
+＃Protagonist
 "What does this actually mean?"
 The characters I'd copied onto the paper read: "1SO K H5 / 1SN KAMIN."
-#Narumi
+＃Narumi
 "Don't ask me. But... that last part looks like some kind of word..."
-#Protagonist
+＃Protagonist
 "Kamin... Carmin? It doesn't sound like English... maybe it's a language from a country Kousei-san had ties to..."
-#Narumi
+＃Narumi
 "Also, this can be split into two parts. '1SO K H5' and '1SN KAMIN'."
-#Protagonist
+＃Protagonist
 "They both start with '1S'... Including the 'O' and 'N' that follow, they likely have a similar meaning."
 Having finished copying the characters into her notebook, Narumi-san stood up.
-#Narumi
+＃Narumi
 "Well then, I'll head back to my room and think about it. Let's wait a bit longer before we start moving."
-#Protagonist
+＃Protagonist
 "Ah, right. Understood."
 Narumi-san left the room.
-#Protagonist
+＃Protagonist
 "Whew..."
 I had been somewhat overwhelmed by Narumi-san's assertiveness...
 But that was fine for now.

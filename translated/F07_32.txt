@@ -5,23 +5,23 @@ Maybe he's not there.
 I gave up and decided to go somewhere else.
 This is Mikanagi-sensei's room.
 I knock lightly on the door.
-#Protagonist
+＃Protagonist
 "Mikanagi-sensei, are you there?"
 The door opens, and Mikanagi-sensei peeks his head out.
-#Mikanagi
+＃Mikanagi
 "What is it?"
-#Protagonist
+＃Protagonist
 "Hello, Mikanagi-sensei. Could I have a moment of your time?"
-#Mikanagi
+＃Mikanagi
 "Sure, I don't mind, but what's up?"
 Now then, what should I do.
 This is Mikanagi-sensei's room.
 I knock lightly on the door.
 The door opens, and Mikanagi-sensei peeks his head out.
-#Mikanagi
+＃Mikanagi
 "Oh, what is it this time?"
-#Protagonist
+＃Protagonist
 "Hello, Mikanagi-sensei. Could I have a moment of your time?"
-#Mikanagi
+＃Mikanagi
 "Sure, I don't mind."
 Now then, what should I do.

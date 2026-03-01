@@ -1,39 +1,39 @@
 After parting with Benio-san, I went down the stairs.
 Should I consult with Tsujimura-san as well...?
-#Protagonist
+＃Protagonist
 "Tsujimura-san."
 I called out to Tsujimura-san, who was at his desk.
-#Tsujimura
+＃Tsujimura
 "Oh, is something the matter?"
-#Protagonist
+＃Protagonist
 "Did you see Akane-san? She's reportedly nowhere to be found this morning..."
-#Tsujimura
+＃Tsujimura
 "Hiyama-san? ...Now that you mention it, I haven't seen her..."
-#Protagonist
+＃Protagonist
 "...It's possible she disappeared during the night."
-#Tsujimura
+＃Tsujimura
 "What... what does that mean?"
-#Protagonist
+＃Protagonist
 "...I don't want to think about it too much, but she might have been caught by the killer, or..."
 Another possibility occurred to me, and I trailed off.
-#Tsujimura
+＃Tsujimura
 "Or... what?"
-#Protagonist
+＃Protagonist
 "Or... she fled from this mansion."
-#Tsujimura
+＃Tsujimura
 "Fled...? But with this snow, she wouldn't be able to go anywhere..."
-#Protagonist
+＃Protagonist
 "...Yesterday, when we went to see the suspension bridge, Takamine-san said it. If there was no snow, you could climb down to the stream and walk..."
-#Tsujimura
+＃Tsujimura
 "...It's not impossible. However, in this blizzard over the last few days, one would surely meet with an accident..."
-#Protagonist
+＃Protagonist
 "Layering inference upon inference might be meaningless, but if she did go outside, why would she have to go that far...?"
-#Tsujimura
+＃Tsujimura
 "To call the police... or maybe..."
-#Protagonist
+＃Protagonist
 "Or what?"
 This time, I was the one asking.
-#Tsujimura
+＃Tsujimura
 "Or..."
 Tsujimura-san simply went silent.
 I had a vague idea of what he wanted to say.
@@ -44,9 +44,9 @@ That's why he trailed off.
 If it hadn't been for last night, I wouldn't have even considered it.
 Akane-san, who was doing something in the study.
 Dr. Mikanagi said he didn't think she was doing anything wrong, but—in this situation, I might have no choice but to suspect her.
-#Protagonist
+＃Protagonist
 "...First, I'll search every corner of the mansion."
-#Tsujimura
+＃Tsujimura
 "Yes... that would be for the best..."
 If she still wasn't found after that, what would it mean?
 I didn't want to think about that yet.

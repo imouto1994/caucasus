@@ -1,24 +1,24 @@
-#Ai
+＃Ai
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "...I am not entirely convinced that is Kirihara-san. ...Do not give up hope just yet."
-#Protagonist
+＃Protagonist
 "...Alright."
-#Tsujimura
+＃Tsujimura
 "How utterly gruesome..."
-#Protagonist
+＃Protagonist
 "It really is..."
-#Takamine
+＃Takamine
 "I can't say for certain."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I believe it is Kirihara-san's body. The only deciding factor is the signs of a fracture... though there is a possibility it could be Akane-san."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I'm not really sure about that."
-#Protagonist
+＃Protagonist
 "I see..."

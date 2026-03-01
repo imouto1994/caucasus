@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "...At the very least, the killer has no intention of letting anyone escape from here."
-#Protagonist
+＃Protagonist
 "...Maybe not."
-#Maya
+＃Maya
 "Even the suspension bridge... We can't even call for help like this..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Ai
+＃Ai
 "We can't even go for help..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Benio
+＃Benio
 "There's no point in worrying about it now."
-#Protagonist
+＃Protagonist
 "I see."
-#Shion
+＃Shion
 "The suspension bridge... Who would do such a thing...?"
-#Protagonist
+＃Protagonist
 "The killer, most likely..."
-#Tsujimura
+＃Tsujimura
 "This is a problem... We can't possibly fix that bridge on our own..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "...The killer probably intends to increase the number of victims. Otherwise, there'd be no point in dropping the bridge."
-#Protagonist
+＃Protagonist
 "...You might be right."
-#Mikanagi
+＃Mikanagi
 "Without the bridge, you boys won't be able to go home... Though with everything that's happened, you might not be able to leave even if the police arrive."
-#Protagonist
+＃Protagonist
 "Right..."
-#Akane
+＃Akane
 "This place is surrounded by cliffs, so without the bridge, you can't go anywhere..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Even if the bridge is gone, we have plenty of food, so we'll be fine. ...Well, Kirihara-san will just have to give up on her cola, I guess."
-#Protagonist
+＃Protagonist
 "Right... I'll let her know."

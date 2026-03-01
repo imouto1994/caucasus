@@ -1,27 +1,27 @@
-#Tsujimura
+＃Tsujimura
 "Oh, is something the matter?"
 Tsujimura-san was in the office.
-#Protagonist
+＃Protagonist
 "Hello. Are you in the middle of work?"
-#Tsujimura
+＃Tsujimura
 "Not at all. Did you need something?"
-#Tsujimura
+＃Tsujimura
 "Oh, is something the matter again?"
 Tsujimura-san was still in the office.
-#Protagonist
+＃Protagonist
 "Excuse me."
 When I entered the office, Tsujimura-san and Shion-san were there.
-#Tsujimura
+＃Tsujimura
 "How can I help you?"
-#Protagonist
+＃Protagonist
 "I was just in the middle of doing a quick patrol..."
-#Shion
+＃Shion
 "Oh my... Thank you for your hard work."
-#Protagonist
+＃Protagonist
 "No, I'm just doing it on my own accord."
 Now then... what should I do?
 When I entered the office, Tsujimura-san and Shion-san were there.
-#Shion
+＃Shion
 "Oh... what is it this time?"
-#Protagonist
+＃Protagonist
 "Uh, well..."

@@ -1,10 +1,10 @@
 Dr. Mikanagi offered a silent prayer for Benio-san's remains.
-#Souko
+＃Souko
 "...Since we just found her, she must have been killed during the night."
-#Mikanagi
+＃Mikanagi
 "...Likely so. Judging from the rigor mortis and the dryness of the skin... I'd say she died about five to six hours ago... around 2:00 AM."
-#Protagonist
+＃Protagonist
 "...Let's finish checking the rest. And... we need to let Benio-san rest properly."
 I didn't want to leave Benio-san's body like this forever.
-#Souko
+＃Souko
 "Right... let's investigate."

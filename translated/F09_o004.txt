@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "So this is the room Kousei-san used to use. I'm curious, but if we can't get in, there's nothing for it."
-#Protagonist
+＃Protagonist
 "True."
-#Maya
+＃Maya
 "It is the room my husband used while he was alive. We have left it exactly as it was."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "That's the room Father used. I've hardly ever set foot in there myself."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Father's room is off-limits. I've hardly ever been in there myself, you know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Is it Father's room...? I don't really know much about it..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "It is the room the Master used to use, but it is locked now. I am in charge of the key."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "Kousei-san's room is set so that no one can enter. It's a place that has nothing to do with you all."
-#Protagonist
+＃Protagonist
 "Y-You're right..."
-#Mikanagi
+＃Mikanagi
 "I don't know much about that room myself. It was reportedly the previous head's room, but... I don't think you can see the inside."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "That room, is it... I've never been inside either, so..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I heard they've preserved that room exactly as it was when the Master was alive... but I don't think there's anything unusual in there."
-#Protagonist
+＃Protagonist
 "I see..."

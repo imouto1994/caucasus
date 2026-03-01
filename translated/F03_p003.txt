@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "...It's possible Ai-san was in love with Rokuyou-san."
-#Protagonist
+＃Protagonist
 "...That might be the case."
-#Maya
+＃Maya
 "Ai was on good terms with Isamu-san... she might be the one most in shock..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Sister's hobbies aligned with Rokuyou's. It's no wonder she'd be in shock if he was killed."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Sister Ai... she congratulated us on the marriage, but perhaps she was actually against it."
-#Protagonist
+＃Protagonist
 "Is that so...?"
-#Tsujimura
+＃Tsujimura
 "Lady Ai dotes on Lady Shion very much, so when she heard about the marriage, she likely felt very conflicted."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "Lady Ai was apparently close with Rokuyou-kun. She might be feeling quite depressed right now."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "As for Ai-san, she should have gone to her room after seeing Shion-san off."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Lady Ai? She's likely in her room."
-#Protagonist
+＃Protagonist
 "I see."

@@ -1,118 +1,118 @@
-#Souko
+＃Souko
 "They're certainly a lively bunch, aren't they?"
 Once we were back in the hall, Souko-san finally spoke up.
-#Benio
+＃Benio
 "Even so, they're both quite capable. Now then, let's head this way."
 Benio-san offered a small smile as she opened the door directly ahead.
 Beyond it was a hallway similar to the ones we had seen so far.
-#Benio
+＃Benio
 "The north wing contains the guest rooms and the chapel. The door at the far end is the chapel, where the wedding is scheduled to take place tonight."
-#Protagonist
+＃Protagonist
 "There's even a chapel here?"
-#Benio
+＃Benio
 "Yes. The Nanatsuki family has been Christian for generations."
-#Souko
+＃Souko
 "Will our rooms be in this wing as well?"
-#Benio
+＃Benio
 "Since most of these are occupied, I'll have yours prepared on the second floor. But first, allow me to introduce you to Takamine-san."
 Benio-san gave a light knock on the first door to the right.
-#Benio
+＃Benio
 "Takamine-san, are you in?"
 A few moments after she called out, the door creaked open with a groan.
-#???
+＃???
 "...Can I help you?"
 The man who appeared was a large, imposing figure wearing an eyepatch over one eye.
 If I met someone like him on the street, I'd make a point of never making eye contact.
 ...In fact, I still couldn't bring myself to look him in the eye even now.
-#Benio
+＃Benio
 "These are our new guests. Since they'll be staying the night, I thought I'd introduce them."
-#???
+＃???
 "I see."
-#Souko
+＃Souko
 "I'm Souko Kirihara. I apologize for the intrusion, but we'll be staying here for the night."
 As expected of Souko-san, she didn't seem even slightly rattled by the man's intimidating presence.
-#Protagonist
+＃Protagonist
 "Ah, I'm (NAME01) (NAME02)."
-#???
+＃???
 "I'm Jin Takamine, the legal counsel for this family. Pleasure."
-#Protagonist
+＃Protagonist
 "You're a lawyer?"
-#Takamine
+＃Takamine
 "...Is there a problem?"
 He fixed me with a piercing, icy glare that sent a shiver down my spine.
-#Protagonist
+＃Protagonist
 "N-no, nothing at all..."
-#Takamine
+＃Takamine
 "Hmph... is that all then?"
-#Benio
+＃Benio
 "Yes, that's all for now."
-#Takamine
+＃Takamine
 "...Very well. Until later."
 With a dull thud, the door was shut.
-#Protagonist
+＃Protagonist
 "Phew..."
-#Souko
+＃Souko
 "What an intense man."
 Souko-san voiced exactly what I was feeling.
-#Benio
+＃Benio
 "He's not a bad person. Takamine-san's father was the family's lawyer before him."
-#Souko
+＃Souko
 "There was a scar on his face... it looked like a burn."
-#Benio
+＃Benio
 "Yes, he apparently suffered it a long time ago, but I don't know the details."
 Benio-san shook her head.
-#Benio
+＃Benio
 "Now... across from Takamine-san's room is Isamu-sama—Rokuyou-sama's room, whom you met in the hall. Next to that is Tsujimura, who handles the management of the estate."
-#Souko
+＃Souko
 "There's an estate manager as well?"
-#Benio
+＃Benio
 "Tsujimura is my uncle. He used to be a painter, but now he serves as a sort of butler for us."
 Benio-san knocked on the door a few times, then tilted her head.
-#Benio
+＃Benio
 "Tsujimura, aren't you there? I'm coming in."
 Just when I thought her tone had become completely different from before, Benio-san opened the door without waiting for an answer.
-#Protagonist
+＃Protagonist
 "Wait, Benio-san?"
 Even I wasn't bold enough to just follow her inside.
-#Benio
+＃Benio
 "Hmph, he really isn't here."
 Benio-san stepped back out with a pout.
-#Protagonist
+＃Protagonist
 "B-Benio-san...?"
-#Benio
+＃Benio
 "What is it? ...I mean, is something the matter?"
 She corrected herself instantly, offering a sweet smile.
-#Protagonist
+＃Protagonist
 "Ah... n-no, it's nothing."
 I knew it...
-#???
+＃???
 "Did you need something, Benio-ojousama?"
 A voice came from behind us, and we turned around.
 A middle-aged man was standing by the large door at the end of the hall, looking at us.
-#Benio
+＃Benio
 "Were you in the chapel, Tsujimura?"
-#???
+＃???
 "Yes, I was preparing for tonight's ceremony. ...And these are the guests who were stranded?"
 The man called Tsujimura closed the heavy door and walked toward us.
-#???
+＃???
 "I'm Seiji Tsujimura, the manager of this estate."
-#Protagonist
+＃Protagonist
 "I'm (NAME01) (NAME02)."
-#Souko
+＃Souko
 "I'm Souko Kirihara. Um, Tsujimura-san, are you the Madam's brother?"
-#Tsujimura
+＃Tsujimura
 "No, I was the younger brother of the previous head. I used to paint, but I couldn't make a living at it... so I've been under the care of this house, I'm ashamed to say."
 With that, Tsujimura-san gave a deep bow.
-#Tsujimura
+＃Tsujimura
 "I still have preparations to attend to, so if you'll excuse me."
 After another deep bow, Tsujimura-san disappeared back inside the chapel doors.
-#Protagonist
+＃Protagonist
 "He seems like a kind person."
-#Benio
+＃Benio
 "He's just timid. Even though he could have inherited the Nanatsuki family line."
 Benio-san muttered with a sigh.
 However, despite her blunt language from a moment ago, she didn't seem to actually dislike him.
-#Benio
+＃Benio
 "Now then, let me show you the second floor."
 Regaining her composure, Benio-san spoke and opened the door back to the hall.
 We climbed the stairs from the hall.

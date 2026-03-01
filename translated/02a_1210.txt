@@ -1,23 +1,23 @@
 Dr. Mikanagi, Tsujimura-san, and Souko-san all climbed up into the attic along with Akane-san.
-#Mikanagi
+＃Mikanagi
 "...It seems her life is not in danger."
 After a brief examination, Dr. Mikanagi gave his diagnosis.
-#Protagonist
+＃Protagonist
 "Thank God..."
-#Mikanagi
+＃Mikanagi
 "Let's get her to the infirmary. Tsujimura-san, please give me a hand."
-#Tsujimura
+＃Tsujimura
 "Of course."
-#Protagonist
+＃Protagonist
 "Ah, I can help too."
-#Mikanagi
+＃Mikanagi
 "It's alright."
 I offered, but the doctor waved me off.
-#Mikanagi
+＃Mikanagi
 "It might be difficult to navigate the ladder while carrying someone, but I’d like you to stay here and examine the scene."
 With that, Dr. Mikanagi hoisted Ai-san onto his back and left the room.
 Souko-san and I were left alone in the attic.
-#Souko
+＃Souko
 "...Let’s look around. There must be some kind of clue left behind."
-#Protagonist
+＃Protagonist
 "...Right."

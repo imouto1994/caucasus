@@ -1,24 +1,24 @@
-#Ai
+＃Ai
 "I was in my room the entire time, however..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "I'm told my sister was also in her room the whole time... so it would be difficult for her."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I believe she was in her room... but I have not confirmed it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know anything about what happens outside my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I think she was in her room. She's hardly come out at all."
-#Protagonist
+＃Protagonist
 "True..."

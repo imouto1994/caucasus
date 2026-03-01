@@ -1,39 +1,39 @@
 I've come to the front of Tsujimura-san's room.
 I knock on the door.
-#Protagonist
+＃Protagonist
 "Tsujimura-san, it's me."
 The door opens, and Tsujimura-san peeks his head out.
-#Tsujimura
+＃Tsujimura
 "Is something the matter?"
-#Protagonist
+＃Protagonist
 "Do you have a moment?"
-#Tsujimura
+＃Tsujimura
 "Sure, I don't mind. Please, come in."
-#Protagonist
+＃Protagonist
 "Excuse me."
 I enter Tsujimura-san's room.
-#Tsujimura
+＃Tsujimura
 "So, how can I help you?"
 I've come to the front of Tsujimura-san's room again.
 I knock on the door.
-#Tsujimura
+＃Tsujimura
 "Yes, who is it?"
-#Protagonist
+＃Protagonist
 "Hello, Tsujimura-san."
-#Tsujimura
+＃Tsujimura
 "Ah, it's you. What is it this time?"
-#Protagonist
+＃Protagonist
 "Do you have a moment?"
-#Tsujimura
+＃Tsujimura
 "Sure, I don't mind. Please, come in."
-#Protagonist
+＃Protagonist
 "Excuse me."
 I enter Tsujimura-san's room.
-#Tsujimura
+＃Tsujimura
 "How can I help you?"
 I've come to the front of Tsujimura-san's room.
 I knock on the door.
-#Protagonist
+＃Protagonist
 "Oh... maybe he's not here."
 No matter how long I waited, there was no response.
 It can't be helped, I'll go somewhere else.

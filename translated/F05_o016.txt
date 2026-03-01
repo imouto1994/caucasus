@@ -1,72 +1,72 @@
-#Souko
+＃Souko
 "'Akane' and 'Akari', huh... I could understand other things, but I don't think anyone would mistake their own name..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "...I am sorry, I do not quite understand."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Isn't it strange to use 'M' as the initial for 'Hiyama'? If you made that many mistakes, you'd notice, and normally you'd just start over."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Mistakes can happen... for example, Lady Benio spells her name 'Venio' in Romaji."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I'm not really sure."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "...I'm sorry, but I really don't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "...That handkerchief from yesterday, right?"
-#Protagonist
+＃Protagonist
 "Akane-san said she made a mistake, but I don't think that's it. Who on earth is 'Akari M.'...?"
-#Mikanagi
+＃Mikanagi
 "...I know of one person with a name that matches."
-#Protagonist
+＃Protagonist
 "...The person in the photo in your room?"
-#Mikanagi
+＃Mikanagi
 "...So you saw it."
-#Protagonist
+＃Protagonist
 "...I'm sorry."
-#Mikanagi
+＃Mikanagi
 "There's no need to apologize. I was the one who sent you to get my bag, after all."
-#Protagonist
+＃Protagonist
 "So... is it her?"
-#Mikanagi
+＃Mikanagi
 "...She is Akari Misono, the person most precious to me."
-#Protagonist
+＃Protagonist
 "Was she someone who worked here?"
-#Mikanagi
+＃Mikanagi
 "...Until a short while ago, yes."
-#Protagonist
+＃Protagonist
 "But even if it's her... why would Akane-san have..."
-#Mikanagi
+＃Mikanagi
 "...It would be best to ask Akane-san about that. Besides, it's not certain that the embroidery on the handkerchief refers to her in the first place."
-#Protagonist
+＃Protagonist
 "Right... I understand."
-#Akane
+＃Akane
 "I-I told you yesterday, I just made a mistake...!"
-#Protagonist
+＃Protagonist
 "I-Is that so..."
-#Akane
+＃Akane
 "About that... I'm sorry, could you ask me later...?"
-#Protagonist
+＃Protagonist
 "I see... understood."
-#Narumi
+＃Narumi
 "...I don't think that girl can even embroider... I wonder if she really sewed it herself?"
-#Protagonist
+＃Protagonist
 "I wonder..."

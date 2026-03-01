@@ -1,28 +1,28 @@
 In the hall, I decided to ask Tsujimura-san about the noise I'd heard earlier.
-#Protagonist
+＃Protagonist
 "Tsujimura-san, did you hear a noise just now?"
-#Tsujimura
+＃Tsujimura
 "A noise...?"
 Tsujimura-san tilted his head.
-#Tsujimura
+＃Tsujimura
 "No, I didn't notice anything in particular... Could it have been the wind?"
-#Protagonist
+＃Protagonist
 "It felt different from the wind, though..."
-#Tsujimura
+＃Tsujimura
 "If that's the case... it might be the work of the mountain spirits."
-#Protagonist
+＃Protagonist
 "Mountain spirits?"
-#Tsujimura
+＃Tsujimura
 "Many such legends remain in this area. ...Though, much of it is likely rooted in the history of the Nanatsuki family."
-#Protagonist
+＃Protagonist
 "...The 'Curse of the Seven'?"
-#Tsujimura
+＃Tsujimura
 "That's what those with wagging tongues seem to call it."
-#Protagonist
+＃Protagonist
 "Ah... my apologies."
-#Tsujimura
+＃Tsujimura
 "No, don't worry about it. I think I'll be heading to bed now."
-#Protagonist
+＃Protagonist
 "Right... good night."
 I bowed and watched Tsujimura-san walk away toward the back of the first floor.
 There it was again—the 'Curse of the Seven.'

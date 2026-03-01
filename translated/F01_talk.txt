@@ -1,66 +1,66 @@
-#Souko
+＃Souko
 "Will this do?"
-#Protagonist
+＃Protagonist
 "Yes, thank you."
-#Souko
+＃Souko
 "Then keep up the good work with the investigation."
-#Protagonist
+＃Protagonist
 "I will."
 I decided to head somewhere else.
-#Maya
+＃Maya
 "Is that everything?"
-#Protagonist
+＃Protagonist
 "Yes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now."
 I bowed and decided to head somewhere else.
-#Ai
+＃Ai
 "Is that everything?"
-#Protagonist
+＃Protagonist
 "Yes, thank you very much. You seem busy, so I'll be going now."
 I bowed and decided to head somewhere else.
-#Benio
+＃Benio
 "Will this suffice?"
-#Protagonist
+＃Protagonist
 "Yes, thank you very much."
-#Benio
+＃Benio
 "If anything else comes up, please don't hesitate to ask."
-#Protagonist
+＃Protagonist
 "Yes, I'll do that."
 I decided to head somewhere else.
-#Tsujimura
+＃Tsujimura
 "Will this be enough for you?"
-#Protagonist
+＃Protagonist
 "Yes, thank you for your detailed help. You seem busy, so I'll take my leave now."
 I expressed my thanks and decided to head somewhere else.
-#Rokuyou
+＃Rokuyou
 "Is that everything?"
-#Protagonist
+＃Protagonist
 "Yes, thank you very much."
-#Rokuyou
+＃Rokuyou
 "If you need anything else, feel free to ask."
-#Protagonist
+＃Protagonist
 "Thank you. Well then, excuse me."
 I decided to head somewhere else.
-#Takamine
+＃Takamine
 "Will this do?"
-#Protagonist
+＃Protagonist
 "Y-Yes. Thank you. You seem busy, so I'll excuse myself now."
 I bowed and decided to head somewhere else.
-#Mikanagi
+＃Mikanagi
 "Will this be enough for you?"
-#Protagonist
+＃Protagonist
 "Yes, thank you very much. Excuse me."
 I decided to head somewhere else.
-#Akane
+＃Akane
 "Is that everything?"
-#Protagonist
+＃Protagonist
 "Yes, thank you. You still seem busy, so I'll take my leave now."
 I bowed and decided to head somewhere else.
-#Narumi
+＃Narumi
 "Alright then, I guess I'll get back to work too. What a pain."
 Narumi-san heads toward the kitchen.
-#Protagonist
+＃Protagonist
 "Well then, I'll be going now. Excuse me."
-#Narumi
+＃Narumi
 "See ya. Come back anytime."
 I decided to head somewhere else.
 Now then, what should I do next...

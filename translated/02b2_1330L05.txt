@@ -1,18 +1,18 @@
 We returned to the Great Hall.
-#Souko
+＃Souko
 "...There aren't many people here."
 It didn't seem like everyone in the manor had gathered.
-#Akane
+＃Akane
 "The Madam and Dr. Mikanagi are in the infirmary."
-#Protagonist
+＃Protagonist
 "Is Shion-san in her room?"
-#Tsujimura
+＃Tsujimura
 "Yes, she is."
-#Souko
+＃Souko
 "...I see."
 Souko-san looked somewhat dissatisfied.
-#Takamine
+＃Takamine
 "It shouldn't matter. Just get started already."
 Takamine-san said, making no effort to hide his displeasure.
-#Souko
+＃Souko
 "...It can't be helped. Well then, I'm going to start asking about things that are bothering me."

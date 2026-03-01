@@ -1,28 +1,28 @@
-#Souko
+＃Souko
 "I think this is probably… the murder weapon."
-#Protagonist
+＃Protagonist
 "It certainly looks that way…"
-#Maya
+＃Maya
 "…I’m so sorry, I just don’t understand."
-#Protagonist
+＃Protagonist
 "I see…"
-#Ai
+＃Ai
 "…I’m sorry, I don’t really know."
-#Protagonist
+＃Protagonist
 "I see…"
-#Tsujimura
+＃Tsujimura
 "I… don’t quite understand it either…"
-#Protagonist
+＃Protagonist
 "Is that so…?"
-#Takamine
+＃Takamine
 "Doesn't make a damn bit of sense to me."
-#Protagonist
+＃Protagonist
 "I see…"
-#Akane
+＃Akane
 "I’m sorry… I don’t really understand."
-#Protagonist
+＃Protagonist
 "I see…"
-#Narumi
+＃Narumi
 "I’m a little lost on this one myself."
-#Protagonist
+＃Protagonist
 "I see…"

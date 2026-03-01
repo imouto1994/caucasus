@@ -1,11 +1,11 @@
 People were gathering in the main hall.
 However... Souko-san, Ai-san, Rokuyou-san, and even Akane-san were now missing.
 However... Souko-san, Akane-san, and Rokuyou-san were gone.
-#Benio
+＃Benio
 "Where are Mother and Shion?"
-#Tsujimura
+＃Tsujimura
 "...They are resting in their rooms."
-#Protagonist
+＃Protagonist
 "...That’s understandable, I suppose."
-#Benio
+＃Benio
 "True. Well, let's start by talking to the people who are here."

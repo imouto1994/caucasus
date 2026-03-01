@@ -1,29 +1,29 @@
-#Protagonist
+＃Protagonist
 "Mikanagi-sensei, do you have any idea when Shion-san passed away?"
-#Mikanagi
+＃Mikanagi
 "Hard to say... I'd guess within the last hour, but I can't say for certain."
-#Protagonist
+＃Protagonist
 "I see..."
 Shion-san... why...
 A painting hangs on the wall.
 ...It’s Tsujimura-san’s work.
 The painting Tsujimura-san painted looked down upon Shion-san’s silent remains.
 A glass is rolling on the floor.
-#Protagonist
+＃Protagonist
 "...Is this how she drank the poison?"
-#Benio
+＃Benio
 "Better not touch it carelessly. There might be fingerprints left on it."
-#Protagonist
+＃Protagonist
 "Yeah, I understand."
 I take out a handkerchief, carefully wrap it, and pick it up.
-#Protagonist
+＃Protagonist
 "...There's a little bit of liquid left inside."
-#Mikanagi
+＃Mikanagi
 "Let me see it."
 I hand the glass to Mikanagi-sensei.
-#Mikanagi
+＃Mikanagi
 "Don't sniff it carelessly. If it's cyanide like I suspect, even the gas alone could be fatal."
-#Protagonist
+＃Protagonist
 "...Understood."
 How did it come to this...
 The snow seems to be letting up.

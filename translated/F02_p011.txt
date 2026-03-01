@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Rokuyou-san? Come to think of it, I haven't seen him yet this morning."
-#Protagonist
+＃Protagonist
 "You're right."
-#Maya
+＃Maya
 "It is almost time for the marriage to be officially established."
-#Protagonist
+＃Protagonist
 "It is."
-#Ai
+＃Ai
 "Isamu-san... He is a perfect match for Shion, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Rokuyou? ...The ceremony is about to resume, yet he hasn't made an appearance. I wonder if he's having trouble getting ready..."
-#Protagonist
+＃Protagonist
 "I see."
-#Tsujimura
+＃Tsujimura
 "Once the wedding is over, I intend to offer my greetings properly at breakfast..."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "Rokuyou-kun? He's likely preparing for the ceremony."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "Isamu isn't much of a morning person either, so he might still be asleep."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "Rokuyou-sama is... um, I believe he's still in his room."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "It's breakfast after the wedding, but I don't really want to eat anything heavy so early in the morning..."
-#Protagonist
+＃Protagonist
 "I suppose so..."

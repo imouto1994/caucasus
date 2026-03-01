@@ -1,8 +1,8 @@
-#Protagonist
+＃Protagonist
 "Tsujimura-san—"
 I returned to the office and called for Tsujimura-san first thing.
 However, he was not in the office.
-#Protagonist
+＃Protagonist
 "Wait—"
 Where could he have gone?
 We don't have time to be taking it easy.
@@ -11,147 +11,147 @@ I went out into the corridor.
 It seemed people were gathering in the main hall.
 At this hour... what happened?
 Tsujimura-san and Takamine-san were in the main hall.
-#Protagonist
+＃Protagonist
 "Um—Tsujimura-san, it's terrible. Shion-san... has passed away."
-#Tsujimura
+＃Tsujimura
 "Eh... is that truly the case...!?"
-#Protagonist
+＃Protagonist
 "Yes... in her room just now..."
-#Takamine
+＃Takamine
 "Dammit!"
 Takamine-san dashed away.
 Tsujimura-san seemed unable to move.
-#Tsujimura
+＃Tsujimura
 "...How can this be... even Shion-ojousama..."
 Tsujimura-san's shoulders slumped, and he looked down.
-#Protagonist
+＃Protagonist
 "Tsujimura-san..."
-#Tsujimura
+＃Tsujimura
 "Actually... a short while ago, I confirmed that Ai-ojousama has also passed away."
-#Protagonist
+＃Protagonist
 "Eh..."
 Ai-san too...?
-#Tsujimura
+＃Tsujimura
 "I... I no longer understand what is happening..."
-#Protagonist
+＃Protagonist
 "...Tsujimura-san, is Maya-san... safe?"
-#Tsujimura
+＃Tsujimura
 "The Madam... you say...?"
-#Protagonist
+＃Protagonist
 "Yes... I believe Maya-san is the culprit's true target."
-#Tsujimura
+＃Tsujimura
 "Who on earth... would do such a thing...?"
-#Protagonist
+＃Protagonist
 "That is..."
 Until just a moment ago, I thought Shion-san was the one doing it.
 But she is dead.
 In that case, I'd like to think Maya-san is safe now, but...
 Or—has it already been finished...?
-#Protagonist
+＃Protagonist
 "...Tsujimura-san, were you in the office the entire time?"
-#Tsujimura
+＃Tsujimura
 "No... I had returned to my own room."
 If that's the case, it's possible he came out before Shion-san died.
-#Protagonist
+＃Protagonist
 "...I understand. I'll go check on Maya-san."
-#Tsujimura
+＃Tsujimura
 "Y-Yes... I will go to Shion-ojousama's place..."
 Tsujimura-san left the main hall.
 I must hurry too.
 There's no guarantee Maya-san is safe, but—
 When I reached the hall, Narumi-san emerged from the corridor on the opposite side.
-#Protagonist
+＃Protagonist
 "Narumi-san, Shion-san has died."
 When I reached the hall, Narumi-san came down from the second floor.
-#Narumi
+＃Narumi
 "Ah—Ai-ojousama is..."
-#Protagonist
+＃Protagonist
 "...I just heard from Tsujimura-san."
-#Narumi
+＃Narumi
 "I... I see..."
-#Protagonist
+＃Protagonist
 "And... Shion-san has died as well."
-#Narumi
+＃Narumi
 "What—"
 Narumi-san gasped and was left speechless.
-#Protagonist
+＃Protagonist
 "...So, I'm going to go check on Maya-san..."
-#Narumi
+＃Narumi
 "...The Madam?"
-#Protagonist
+＃Protagonist
 "Maya-san visited the room before Shion-san died."
-#Narumi
+＃Narumi
 "Eh... that's never happened before...? For the Madam to go to that tower..."
-#Protagonist
+＃Protagonist
 "...If that's the case, was it something special...?"
-#Narumi
+＃Narumi
 "...Wait. What was Shion-ojousama's cause of death?"
-#Protagonist
+＃Protagonist
 "...Poison. I don't know if it was suicide or murder, but..."
-#Narumi
+＃Narumi
 "Is there a possibility the Madam planted it?"
-#Protagonist
+＃Protagonist
 "...There is. A significant one."
-#Narumi
+＃Narumi
 "I see. ...Shall we go?"
 Narumi-san climbed the stairs.
 The western corridor of the second floor.
 Maya-san, who has lost three daughters, is at the back of this hall.
 But... did she lose them, or did she kill them?
 Everything must be brought to light.
-#Narumi
+＃Narumi
 "Madam, how are you feeling?"
 Narumi-san called out to the inside.
 But there was no response.
-#Narumi
+＃Narumi
 "That's strange, I wonder if she's sleeping..."
 Narumi-san gently placed her hand on the doorknob.
-#Narumi
+＃Narumi
 "It's open...?"
-#Protagonist
+＃Protagonist
 "Let's go in."
-#Narumi
+＃Narumi
 "Eh, wait—"
 I pushed past Narumi-san and opened the door.
-#Protagonist
+＃Protagonist
 "Maya-san... excuse me."
 I called out.
 The person lying on the bed—was.
-#Narumi
+＃Narumi
 "You're... joking, right...?"
 Narumi-san gasped.
 The person lying there was.
-#Protagonist
+＃Protagonist
 "Maya-san...?"
 ...I knew instantly that she was dead.
 Maya-san's corpse lay upon the bloodied bed.
-#Protagonist
+＃Protagonist
 "...Who..."
 Did Shion-san do it?
 Then was Shion-san's death a suicide?
 But Maya-san went to Shion-san's room—
-#Narumi
+＃Narumi
 "What... is this...?"
 Narumi-san pointed to a piece of paper that had been placed beside Maya-san's body.
 ...It was written in blood.
-#Protagonist
+＃Protagonist
 "MY REVENGE IS COMPLETE. AKANE HIYAMA—"
-#Narumi
+＃Narumi
 "Akane...!?"
-#Protagonist
+＃Protagonist
 "...Don't tell me, Akane-san...?"
 Did she figure out that the Nanatsuki family was the reason Akari-san disappeared...?
 In that case, all our previous predictions are overturned.
 But it was also a fact that Akane-san had disappeared...
-#Narumi
+＃Narumi
 "Just what on earth is happening..."
 Narumi-san's clenched fist trembled.
-#Protagonist
+＃Protagonist
 "...I don't know either."
-#Narumi
+＃Narumi
 "...Let's go back. It's best if everyone stays in one place and waits until tomorrow."
-#Protagonist
+＃Protagonist
 "B-But... we should investigate..."
-#Narumi
+＃Narumi
 "Leave that to the police!"
 Narumi-san shouted at the top of her lungs, then grabbed my hand and pulled me out of the room.

@@ -1,163 +1,163 @@
 Souko-san and Tsujimura-san were in the devastated kitchen.
-#Protagonist
+＃Protagonist
 "Souko-san, how does it look?"
-#Souko
+＃Souko
 "...It seems the explosion was indeed caused intentionally."
 Souko-san was holding something that looked like a thin string.
-#Protagonist
+＃Protagonist
 "What's that...?"
-#Souko
+＃Souko
 "It looks like a lead wire. I found some charred batteries too, so they likely rigged the doorknob so that opening it would trigger a spark."
-#Tsujimura
+＃Tsujimura
 "But, who would do such a thing..."
-#Souko
+＃Souko
 "The culprit, obviously."
 Souko-san stated firmly.
-#Souko
+＃Souko
 "No one else would do something like this in a situation like this."
-#Protagonist
+＃Protagonist
 "But, why would they do this?"
 That was the question I just couldn't get out of my head.
-#Souko
+＃Souko
 "Well, clearly to kill someone else—"
 Souko-san stopped mid-sentence.
-#Protagonist
+＃Protagonist
 "It's strange. Setting a trap when you can't be sure who will get caught in it."
-#Souko
+＃Souko
 "You're right... indeed, the target was unspecified... meaning anyone would have done...?"
-#Protagonist
+＃Protagonist
 "...I wonder."
 I might need to investigate that part further.
-#Tsujimura
+＃Tsujimura
 "But... whatever shall we do now...?"
-#Souko
+＃Souko
 "Well... at the very least, it doesn't look like we'll be preparing meals here."
 Souko-san tried to open the lid of the kiln but quickly gave up.
-#Souko
+＃Souko
 "This is warped too..."
-#Tsujimura
+＃Tsujimura
 "It might be best to seal this area off for the time being."
-#Protagonist
+＃Protagonist
 "You're right..."
 I decided to leave the kitchen.
 Souko-san and Tsujimura-san were still in the kitchen.
-#Tsujimura
+＃Tsujimura
 "Oh, what's the matter?"
-#Protagonist
+＃Protagonist
 "Have you discovered anything else?"
-#Souko
+＃Souko
 "I'm still in the middle of investigating. If you want to know more, come back after a little more time has passed."
-#Protagonist
+＃Protagonist
 "Understood."
 It can't be helped; I'll head elsewhere.
 Souko-san was in the kitchen.
-#Souko
+＃Souko
 "Have you come to investigate too?"
-#Protagonist
+＃Protagonist
 "Yeah, have you found anything out?"
-#Souko
+＃Souko
 "Hmm... mostly that since the amount of accumulated gas was low, the explosion wasn't all that massive."
-#Protagonist
+＃Protagonist
 "Do you know when the gas started leaking?"
 Souko-san shook her head at my question.
-#Souko
+＃Souko
 "I can't say for sure because I don't know how far the gas valve was open or the exact volume at the time of the blast. But I don't think much time had passed."
-#Protagonist
+＃Protagonist
 "I see..."
 Determining the exact time seems impossible.
-#Souko
+＃Souko
 "...Regardless, this leaves a nasty taste in my mouth."
 Souko-san muttered under her breath.
-#Protagonist
+＃Protagonist
 "Souko-san?"
-#Souko
+＃Souko
 "...Fire consumes everything. Even a gas explosion is no different."
-#Protagonist
+＃Protagonist
 "Right... well, I'll go check some other places."
-#Souko
+＃Souko
 "...Yes, be careful."
 Souko-san was still in the kitchen.
-#Protagonist
+＃Protagonist
 "How is it going?"
-#Souko
+＃Souko
 "...I don't think I'm going to find much else."
 Souko-san let out a long breath.
-#Souko
+＃Souko
 "I don't want to stay too long in a place that reeks of soot like this."
-#Protagonist
+＃Protagonist
 "I suppose not..."
 I'll head somewhere else.
 I entered the kitchen, but no one was there.
 I took a look around, but the place had been left a mess by the explosion.
 Souko-san has likely finished her investigation, and I shouldn't go around disturbing the scene...
 When I entered the kitchen, Benio-san was looking around the room.
-#Protagonist
+＃Protagonist
 "Benio-san..."
-#Benio
+＃Benio
 "Oh, it's you."
-#Protagonist
+＃Protagonist
 "Are you investigating?"
-#Benio
+＃Benio
 "Yeah."
-#Protagonist
+＃Protagonist
 "I think Souko-san already checked this place earlier..."
-#Benio
+＃Benio
 "There might be something she overlooked, don't you think?"
-#Protagonist
+＃Protagonist
 "I doubt that would happen with Souko-san..."
-#Benio
+＃Benio
 "...You certainly take her side an awful lot."
-#Protagonist
+＃Protagonist
 "Eh? You think so?"
-#Benio
+＃Benio
 "You're not even aware of it... well, fine. How do you see this incident?"
-#Protagonist
+＃Protagonist
 "Me? ...Well, I don't think it was just an accident..."
 I stated exactly what I was thinking.
-#Benio
+＃Benio
 "Hmm... and if you believe it wasn't a simple accident, you must have a reason for that, naturally?"
-#Protagonist
+＃Protagonist
 "I don't have some perfectly plausible reason, but... it's just unthinkable that an accident like this would happen purely by chance."
-#Benio
+＃Benio
 "Most accidents happen by chance, don't they? Though in many cases, there is a human element behind the cause..."
-#Protagonist
+＃Protagonist
 "Well, explosions don't just happen if nobody does anything."
-#Benio
+＃Benio
 "In other words, someone did this intentionally. But why?"
-#Protagonist
+＃Protagonist
 "Why... indeed..."
 The reason for choosing this location.
 Who they were trying to kill in this place.
 That was the one thing I simply couldn't understand.
-#Benio
+＃Benio
 "If you intended to kill someone for a purpose, you wouldn't use a method like this. If the victim could have been anyone, it destroys all our previous assumptions."
-#Protagonist
+＃Protagonist
 "So a thrill-seeker...?"
-#Benio
+＃Benio
 "Or a thrill-killer. I find it hard to believe we have one of those among our lot... well, this is the Nanatsuki family, so I suppose anything is possible."
 Benio-san let out a self-deprecating laugh.
-#Benio
+＃Benio
 "...Or perhaps, they didn't intend to kill anyone at all."
-#Protagonist
+＃Protagonist
 "Eh... it's true that there were only injuries... but then for what purpose?"
-#Benio
+＃Benio
 "That's exactly what I've been asking you."
 Benio-san kicked the floor with her heel in irritation.
-#Protagonist
+＃Protagonist
 "If it wasn't a trap designed to kill someone..."
 Then why this place—?
 My thoughts were going in circles.
-#Benio
+＃Benio
 "Gah, damn it... there's definitely something here..."
 Benio-san kicked the lid of the kiln.
 The warped metal rang out with a dull, heavy thud.
 Benio-san was still in the kitchen.
-#Benio
+＃Benio
 "Did you find anything?"
-#Protagonist
+＃Protagonist
 "No, nothing in particular. How about you?"
-#Benio
+＃Benio
 "Same as before. The motive for blowing this place up remains a mystery."
-#Protagonist
+＃Protagonist
 "I see..."
 It can't be helped; I'll head elsewhere.

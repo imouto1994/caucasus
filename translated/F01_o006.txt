@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "To think there's even a chapel inside the building... the wealthy really are something else."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Maya
+＃Maya
 "I believe the chapel has been here since this building was first constructed."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Ai
+＃Ai
 "I've heard that chapel has always been used for the Nanatsuki family's weddings."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Benio
+＃Benio
 "You will be able to see the inside of the chapel later."
-#Protagonist
+＃Protagonist
 "True."
-#Tsujimura
+＃Tsujimura
 "Preparations for the ceremony are underway now, so you cannot see the inside."
-#Protagonist
+＃Protagonist
 "I see..."
-#Rokuyou
+＃Rokuyou
 "No need to rush; you'll be able to go inside later."
-#Protagonist
+＃Protagonist
 "You're right."
-#Takamine
+＃Takamine
 "They're preparing for the ceremony, so you can't go in."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Aren't they preparing for the wedding in the chapel right now?"
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "The chapel is quite a chore to clean. We don't use it normally, so it doesn't get very dirty, though."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "A chapel that's only used for weddings... it's a bit of a luxury, isn't it?"
-#Protagonist
+＃Protagonist
 "I suppose so..."

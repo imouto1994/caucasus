@@ -1,59 +1,59 @@
 We returned to Tokyo and went back to our peaceful daily lives.
 It was autumn, and I was walking down a moonlit path when a familiar person appeared before me.
-#Protagonist
+＃Protagonist
 "Eh...?"
-#???
+＃???
 "……Whoops."
-#Protagonist
+＃Protagonist
 "Narumi-san... right?"
-#Narumi
+＃Narumi
 "……M-might you have the wrong person?"
-#Protagonist
+＃Protagonist
 "……No, you're definitely Narumi-san. What are you doing?"
-#Narumi
+＃Narumi
 "I... I'm working."
-#Protagonist
+＃Protagonist
 "Working... you mean as a thief?"
-#Narumi
+＃Narumi
 "Shhh! You're being too loud!"
 Narumi-san pulled on my sleeve and led me to the edge of the path.
-#Narumi
+＃Narumi
 "……I wouldn't be a thief dressed like this."
-#Protagonist
+＃Protagonist
 "But still... you're likely infiltrating some inn or something, aren't you? Just like at the Nanatsuki mansion..."
-#Narumi
+＃Narumi
 "Ugh... well, yeah... I couldn't exactly make a decent profit there... hey, I've got an idea. Could you help me out for a bit?"
-#Protagonist
+＃Protagonist
 "Eh... no thanks."
-#Narumi
+＃Narumi
 "Don't be like that. We've survived death together, haven't we?"
-#Protagonist
+＃Protagonist
 "That's completely different from this."
-#Narumi
+＃Narumi
 "So, the restaurant where I'm working now gets a lot of big shots from major corporations. The other day, a guy from a motorcycle company came in——"
 Narumi-san started talking, ignoring my words.
-#Narumi
+＃Narumi
 "Apparently they're entering some kind of car race abroad, and I was thinking if there was some way I could steal the car they made for it."
-#Protagonist
+＃Protagonist
 "Don't be ridiculous... do you intend to go all the way abroad?"
-#Narumi
+＃Narumi
 "The thing is, there's a test car at a racetrack in Mie. Don't you think we could manage something with that?"
-#Protagonist
+＃Protagonist
 "No, I don't. Give it up."
-#Narumi
+＃Narumi
 "You're so mean... you could at least tag along for a bit."
-#Protagonist
+＃Protagonist
 "I want to live a stable life."
-#Narumi
+＃Narumi
 "Living life on a tightrope can be fun too, you know?"
-#Protagonist
+＃Protagonist
 "……Well, I suppose a little bit of that might——"
 As soon as I muttered that, she grabbed my arm firmly.
-#Narumi
+＃Narumi
 "Alright, it's decided! We're heading to Tokyo Station then. It's just a short ride to Nagoya on the Shinkansen."
-#Protagonist
+＃Protagonist
 "W-wait, I didn't mean——!?"
-#Narumi
+＃Narumi
 "It'll be fine!"
 And so, I was dragged away.
 Good grief... I really do prefer a quiet life.

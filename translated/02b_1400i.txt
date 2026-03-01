@@ -1,175 +1,175 @@
-#Souko
+＃Souko
 "Let's leave it at that for now."
 It turned two o'clock, and Souko-san wrapped things up.
-#Protagonist
+＃Protagonist
 "...Did you find anything out?"
-#Souko
+＃Souko
 "Asking that is my job, you know."
 Souko-san said with a wry smile.
-#Souko
+＃Souko
 "But well... if I were to give my own impression, there wasn't anything that would serve as decisive evidence."
-#Protagonist
+＃Protagonist
 "I see..."
-#Souko
+＃Souko
 "A time-delayed murder using the gears of the clock—nobody turned up who had an alibi for the time the mechanism was likely set. Including you and me."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Souko
+＃Souko
 "As a summary for this stage, it'll be difficult to find the culprit. So, let's start thinking about the motive."
-#Protagonist
+＃Protagonist
 "The motive... huh. The reason for killing Rokuyou-san and Ai-san..."
-#Benio
+＃Benio
 "—It's about the inheritance."
-#Protagonist
+＃Protagonist
 "Whoa!?"
 Benio-san suddenly cut in from behind me.
-#Benio
+＃Benio
 "Well, that would make me the most suspicious person, though."
 Benio-san chuckled.
-#Souko
+＃Souko
 "...Do you want the inheritance?"
-#Benio
+＃Benio
 "Didn't I say this morning that I wasn't interested?"
 Benio-san continued.
-#Benio
+＃Benio
 "Well, even if I'm not interested, if I'm eligible, the inheritance will come to me."
-#Souko
+＃Souko
 "...It seems best to keep in mind that this might be an incident related to the inheritance."
-#Protagonist
+＃Protagonist
 "But if that's the case—"
 I looked at Benio-san.
-#Benio
+＃Benio
 "What is it?"
-#Protagonist
+＃Protagonist
 "...I think the probability of you being the next victim increases, Benio-san."
-#Souko
+＃Souko
 "You're right... or perhaps Shion-san."
-#Benio
+＃Benio
 "Hmm... that's not a very pleasant thought."
 Benio-san crossed her arms.
-#Protagonist
+＃Protagonist
 "Please be extremely careful, Benio-san."
-#Benio
+＃Benio
 "I know."
-#Souko
+＃Souko
 "By the way, who do you think is the culprit so far?"
-#Protagonist
+＃Protagonist
 "Eh... me...?"
-#Souko
+＃Souko
 "Of course, you can't tell anyone else right now. I don't want to breed unnecessary suspicion. But... I want to confirm it."
-#Benio
+＃Benio
 "Hmm... true enough. Let's hear your brilliant reasoning. I don't mind if you point to me as the culprit."
-#Protagonist
+＃Protagonist
 "Umm... well..."
-#Souko
+＃Souko
 "Me? Why?"
-#Protagonist
+＃Protagonist
 "Please don't get angry, okay?"
-#Souko
+＃Souko
 "It's your opinion, so I won't get mad, but..."
-#Protagonist
+＃Protagonist
 "It's simply because you don't have an alibi..."
-#Souko
+＃Souko
 "Maya-san, huh... I wonder."
-#Benio
+＃Benio
 "...If it's about the inheritance, it's not unthinkable. If the number of heirs decreases, the share coming to oneself increases."
-#Protagonist
+＃Protagonist
 "...Though it doesn't feel very realistic."
-#Souko
+＃Souko
 "...Ai-san is dead, isn't she?"
-#Protagonist
+＃Protagonist
 "...I'm just saying that suicide is a possibility. If you catch the rope in the gears and put your neck through while it's loose..."
-#Benio
+＃Benio
 "...I see. It's not an impossible scenario... but what would be the cause of the suicide?"
-#Protagonist
+＃Protagonist
 "Perhaps... it's because Rokuyou-san died?"
-#Souko
+＃Souko
 "That would be convincing, but it's too hasty to jump to that conclusion."
-#Benio
+＃Benio
 "...Agreed."
-#Protagonist
+＃Protagonist
 "You're right... it would be dangerous to discard the possibility of homicide."
-#Benio
+＃Benio
 "No fool would call that situation a suicide."
-#Protagonist
+＃Protagonist
 "Y-You're right..."
-#Benio
+＃Benio
 "...Hmm, you're certainly right. If we consider the inheritance, the motive isn't entirely absent."
-#Protagonist
+＃Protagonist
 "I'm just stating possibilities, so please don't be angry."
-#Benio
+＃Benio
 "I'm not angry."
-#Protagonist
+＃Protagonist
 "You clearly are..."
-#Souko
+＃Souko
 "Shion-san, huh... they seemed to be on good terms, but I wonder..."
-#Benio
+＃Benio
 "There's no evidence... but there might be a motive, just as there is for me."
-#Protagonist
+＃Protagonist
 "That's true..."
-#Benio
+＃Benio
 "Tsujimura, huh... it wouldn't be impossible, but..."
-#Souko
+＃Souko
 "Since he's Mr. Kousei's brother, there's a possibility he could inherit, but... I doubt that man would think of something like this."
-#Benio
+＃Benio
 "I agree with that."
-#Protagonist
+＃Protagonist
 "I see..."
-#Souko
+＃Souko
 "...Look, Rokuyou-san is already dead."
-#Benio
+＃Benio
 "Are you trying to say he's come back from the grave?"
-#Protagonist
+＃Protagonist
 "No, I'm just saying it's a possibility."
-#Souko
+＃Souko
 "If that body isn't Rokuyou-san, then who on earth is it?"
-#Protagonist
+＃Protagonist
 "Well... sorry, I was wrong."
-#Benio
+＃Benio
 "Pull yourself together..."
-#Benio
+＃Benio
 "Takamine is the culprit... he did say he was confined to his room the whole time, but..."
-#Souko
+＃Souko
 "But there's no evidence. ...Seriously, I'm glad he isn't here right now."
-#Benio
+＃Benio
 "Truly. He'd have punched you if he'd heard that."
-#Protagonist
+＃Protagonist
 "You're probably right..."
-#Benio
+＃Benio
 "...If the Doctor were the culprit, it'd be tough. I wouldn't be able to believe in anything."
-#Souko
+＃Souko
 "...You're right. Forget about the autopsy, we wouldn't even be able to take medicine if we felt unwell."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Souko
+＃Souko
 "Wasn't Akane-san with you?"
-#Protagonist
+＃Protagonist
 "...Can't we consider that that might have been the excuse for creating an alibi?"
-#Souko
+＃Souko
 "You're free to think that, but... if that were the case, I don't think she would have guided you to where Ai-san was."
-#Benio
+＃Benio
 "Perhaps she was trying to incite a sense of urgency at the very last second... but it's difficult."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Souko
+＃Souko
 "Akane-san, huh... based on her usual behavior, it's hard to think so..."
-#Protagonist
+＃Protagonist
 "...But I think it's dangerous to easily remove her from the suspects."
-#Benio
+＃Benio
 "...Perhaps. Though, I think it's also a problem to suspect someone without any confirmation."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Benio
+＃Benio
 "If Narumi were the culprit, it'd be terrifying. We'd hardly be able to eat."
-#Souko
+＃Souko
 "That's true... so you won't be eating the food Narumi-san made?"
-#Protagonist
+＃Protagonist
 "Eh... why does it come to that?"
-#Benio
+＃Benio
 "There's a possibility it's been poisoned, isn't there? If you really hate it, you'll just have to cook for yourself."
-#Protagonist
+＃Protagonist
 "That'd be tough..."
-#Souko
+＃Souko
 "As long as the culprit isn't identified, the only measure we have is to defend ourselves."
-#Protagonist
+＃Protagonist
 "...You're right."

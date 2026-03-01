@@ -1,8 +1,8 @@
 I’ve reached the corridor in front of the kitchen.
 Or so I thought...
-#Narumi
+＃Narumi
 "This isn't it. There's no fireplace here."
-#Protagonist
+＃Protagonist
 "You're right... and it's quite dilapidated besides..."
-#Narumi
+＃Narumi
 "Let's try somewhere else."

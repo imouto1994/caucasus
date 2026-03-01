@@ -33,20 +33,20 @@ Various documents are stored here.
 I really shouldn't look at them without permission...
 It's probably best not to mess with them.
 In the bottom drawer, I found a pretty card.
-#Protagonist
+＃Protagonist
 "What's this...?"
 The card had the letter 'r' written on it.
 I'm a bit curious, so I'll hold onto it.
 There's another piece of paper inside.
 "Campaign in progress! Collect similar cards and answer the question! The response section on the survey postcard was meant for this!"
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 Well, I'm a little curious, so I'll hold onto this card.
 There's another piece of paper inside.
 "Now all the cards have been collected! As for the question you're wondering about... if you rearrange the letters so far, they'll form a certain word."
 "Answer with a Japanese translation appropriate for this work and send in the survey postcard!"
 "Deadline: Postmarked by January 11, 2010! 10 winners chosen by lottery will receive a small gift!"
-#Protagonist
+＃Protagonist
 "...I see."
 I kind of get it, but also not really...
 Nothing unusual is inside.

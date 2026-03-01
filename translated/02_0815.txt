@@ -1,33 +1,33 @@
 I ran into Tsujimura-san just as I reached the west corridor.
-#Protagonist
+＃Protagonist
 "Ah, Tsujimura-san."
-#Tsujimura
+＃Tsujimura
 "Is something wrong?"
-#Protagonist
+＃Protagonist
 "Souko-san—Kirihara-senpai asked if you could bring the chapel key as well."
-#Tsujimura
+＃Tsujimura
 "Ah—don't worry, I have it right here."
 Tsujimura-san showed me his ring of keys.
-#Tsujimura
+＃Tsujimura
 "I keep all the spare keys together."
-#Protagonist
+＃Protagonist
 "Oh, good. Let's get back, then."
-#Souko
+＃Souko
 "Tsujimura-san, let me see the chapel key."
 Souko-san called out as we returned.
-#Tsujimura
+＃Tsujimura
 "One moment, please."
 Tsujimura-san began sorting through the bundle.
-#Tsujimura
+＃Tsujimura
 "First, this is the key to Rokuyou-sama’s room."
 I took the key from him.
-#Protagonist
+＃Protagonist
 "It's okay for me to open it, right?"
-#Benio
+＃Benio
 "We brought the key to open it, didn't we?"
-#Protagonist
+＃Protagonist
 "...Right."
 I waited for Tsujimura-san to nod, then inserted the key into the lock.
-#Protagonist
+＃Protagonist
 "...Excuse me."
 I slowly pushed the door open.

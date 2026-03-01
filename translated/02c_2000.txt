@@ -1,22 +1,22 @@
-#Souko
+＃Souko
 "I suppose that's about it."
-#Protagonist
+＃Protagonist
 "Yeah……"
 In the end, I felt like I hadn't been able to ask anything that really got to the heart of the matter.
-#Benio
+＃Benio
 "Well then, shall we disperse? It's probably best not to leave our rooms too much tonight."
-#Souko
+＃Souko
 "You're right…… what should we do about dinner?"
-#Akane
+＃Akane
 "In that case, Narumi-san and I will bring it to everyone's rooms later."
-#Narumi
+＃Narumi
 "There shouldn't be a problem if the two of us carry it, right?"
 Saying so, Narumi-san glanced over at Lawyer Takamine.
-#Takamine
+＃Takamine
 "Hmph……"
-#Akane
+＃Akane
 "Then it's settled. Narumi-san, let's go."
-#Narumi
+＃Narumi
 "Right, right."
 The two of them left the Great Hall.
 Following their lead, one by one, everyone else left the room.

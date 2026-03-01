@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "About Ai-san? She really feels like the stereotypical 'young lady', doesn't she?"
-#Protagonist
+＃Protagonist
 "Yeah."
-#Maya
+＃Maya
 "Ai? She is a quiet child, always lost in her books."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "About me? Um... I don't really have anything interesting to tell you..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "My sister? She’s refined and ladylike, isn't she?"
-#Protagonist
+＃Protagonist
 "...She’s the polar opposite of you, Benio-san."
-#Benio
+＃Benio
 "Did you say something?"
-#Protagonist
+＃Protagonist
 "No, nothing."
-#Tsujimura
+＃Tsujimura
 "Lady Ai...? She is always reading her books."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "About Ai-kun? She’s been a quiet girl since she was small, but..."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "Ai-san, eh...? She occasionally has moments where her emotions are quite volatile."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Akane
+＃Akane
 "Lady Ai? I believe she was heading toward the Great Hall..."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Lady Ai? She’s often in the library reading books."
-#Protagonist
+＃Protagonist
 "I see."

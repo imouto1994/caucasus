@@ -1,44 +1,44 @@
 I returned to my own room.
-#Souko
+＃Souko
 "It looks like we'll have to ask the lawyer about the will."
-#Protagonist
+＃Protagonist
 "I'm not sure if he'll actually tell us anything, but... wait, Souko-san?"
-#Souko
+＃Souko
 "Hm, what is it?"
-#Protagonist
+＃Protagonist
 "What are you doing in my room?"
-#Souko
+＃Souko
 "I'm here to discuss what we're going to do starting tomorrow, obviously."
 Souko-san sat down on the edge of the bed.
-#Protagonist
+＃Protagonist
 "Tomorrow... well, if the snow has stopped, we're heading home, right?"
 I spoke aloud what was surely the least likely possibility.
-#Souko
+＃Souko
 "If the snow has stopped... we'll head into Nanatsuki Village and gather information."
-#Protagonist
+＃Protagonist
 "...So we really are going to keep going with this."
-#Souko
+＃Souko
 "Of course we are. That's why we came here in the first place."
 Souko-san let her body fall back onto the bed.
-#Souko
+＃Souko
 "Phew... but honestly, it doesn't look like it's going to stop."
-#Protagonist
+＃Protagonist
 "You think so?"
 I walked over to the window and looked outside.
 Just as when I had looked through the window in Dr. Mikanagi's room earlier, I could see the dark tower standing there.
 While the snow was still falling, it had weakened considerably.
-#Protagonist
+＃Protagonist
 "Well, with this much snow piled up, it looks like it would be a struggle just to walk."
 Souko-san didn't give me an answer.
 When I turned around, I saw her eyes were closed as she lay on my bed.
-#Protagonist
+＃Protagonist
 "...Souko-san?"
-#Souko
+＃Souko
 "Zzz..."
 ...She had fallen asleep.
-#Protagonist
+＃Protagonist
 "...Souko-san, you're going to catch a cold."
-#Souko
+＃Souko
 "...Mmn..."
 It was no use.
 Once she was like this, she wasn't going to wake up.

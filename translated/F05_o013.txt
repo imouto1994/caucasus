@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "Shion-san won't receive any inheritance... then why did Rokuyou-san want to marry her? It's not like they were particularly close..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "...That is a private matter of this house, not something for our guests to hear."
-#Protagonist
+＃Protagonist
 "Y-Yeah, you're right..."
-#Ai
+＃Ai
 "...I don't know much about the distribution of the estate. However, Father held many copyrights for his compositions and such..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "As for an inheritance... personal assets aside, the Nanatsuki estate is little more than this mansion and a family name. I have no need for such things."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "That's true..."
-#Tsujimura
+＃Tsujimura
 "...Regarding that matter, there is nothing I can say."
-#Protagonist
+＃Protagonist
 "That's true..."
-#Takamine
+＃Takamine
 "All I can say is that Shion-kun will not receive any inheritance whatsoever."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "That is... not a matter I can say anything about."
-#Protagonist
+＃Protagonist
 "That's true..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I've heard the Master's estate is quite substantial... even a third of it would be a staggering amount."
-#Protagonist
+＃Protagonist
 "I see..."

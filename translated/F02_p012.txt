@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "About the late Kousei-san? He was a famous musician. I'm familiar with a few of his pieces myself."
-#Protagonist
+＃Protagonist
 "I see."
-#Maya
+＃Maya
 "My husband was a great composer. It was his idea to build the music room in this mansion."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Ai
+＃Ai
 "Father? He was a kind man. When I was small, he used to read to me often."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Father? He was kind to everyone without exception."
-#Protagonist
+＃Protagonist
 "I see."
-#Tsujimura
+＃Tsujimura
 "The Master... He was my older brother. He hired me here when I had nowhere else to go. I am deeply grateful to him."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "My father was Kousei-shi's legal advisor. He seems to have made quite a fortune from his compositions."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "My father was Kousei-san's personal physician. That's why I'm here now."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "The Master? I didn't know him well, but I've heard he was a very good man."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "The Master? I never met him personally, so I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."

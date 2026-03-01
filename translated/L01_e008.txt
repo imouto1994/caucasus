@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "That door can only be opened with the key to Rokuyou-san's room... Which means it's highly unlikely the killer passed through there."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "The floor plans are mostly the same for all the rooms. My room also has a door connecting to my sister's, but it's been blocked off by furniture."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "That door is almost never used. I doubt you'd find anything even if you checked for fingerprints."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

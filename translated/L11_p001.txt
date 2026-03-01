@@ -1,24 +1,24 @@
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "...With her being killed, the killer's intentions have become a mystery once again. There must be a reason she was targeted, but..."
-#Protagonist
+＃Protagonist
 "True..."
-#Tsujimura
+＃Tsujimura
 "I had not seen Mistress Kirihara since around evening... but to think things would turn out like this..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "...Perhaps the explosion in the kitchen earlier today was carried out with this very outcome in mind."
-#Protagonist
+＃Protagonist
 "True..."
-#Mikanagi
+＃Mikanagi
 "...To be honest, the body is so badly damaged that it's hard to conclude it is Kirihara-san herself. The fracture on the finger is the only real evidence."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "The reason Kirihara-san was killed... I wonder if it was really to stop the investigation. After all, you're... much easier to manipulate, aren't you?"
-#Protagonist
+＃Protagonist
 "...I wouldn't know."

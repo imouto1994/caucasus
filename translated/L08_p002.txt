@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "It's certain she was in her room around two... but no one knows what she did after that..."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "Even after you and Benio came by at two, I remained in my room the entire time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "...I don't know. My room is in the annex, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I believe she was in her room... but I have not confirmed it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know anything about what happens outside my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I believe she was in her room the entire time, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I wouldn't know; I was on the first floor the whole time."
-#Protagonist
+＃Protagonist
 "I see..."

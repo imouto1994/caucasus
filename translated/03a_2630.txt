@@ -1,111 +1,111 @@
 We went down to the basement.
-#Protagonist
+＃Protagonist
 "It was at the back of this place, wasn't it...?"
-#Narumi
+＃Narumi
 "I never knew there was a door... I’ve never seen one, so it must be buried... right there."
 Narumi-san pointed at the wall.
 That spot alone looked as if it had been sealed up with a different kind of plaster.
-#Protagonist
+＃Protagonist
 "...Let’s break it."
 I picked up a crowbar that had been left nearby.
 Wasting time worrying about it was out of the question.
-#Narumi
+＃Narumi
 "Right."
 The wall crumbled easily.
 From behind it, a rugged steel door emerged.
-#Narumi
+＃Narumi
 "...It’s just as written. Is the evidence that the Madam is a vampire behind here?"
-#Protagonist
+＃Protagonist
 "...We’ll find out once we go in."
 I placed my hand on the door.
 It was a space of pure darkness.
 When I pointed the flashlight, a narrow corridor continued to the right of the door.
 An indescribable odor drifted through the air.
 It was a stagnant smell, as if the air hadn't moved for a long time.
-#Protagonist
+＃Protagonist
 "...It seems Maya-san would bring young women back into this place."
 I began to speak as I moved forward cautiously.
-#Protagonist
+＃Protagonist
 "Regardless of East or West, it has been said that special power resides within virgins. It wouldn't be strange if Maya-san craved that."
-#Narumi
+＃Narumi
 "...And the girls never came back out, did they?"
-#Protagonist
+＃Protagonist
 "So it seems... which means at the end of this..."
 In the darkness, I heard the sound of Narumi-san swallowing hard.
 After turning several corners and moving forward, another door appeared.
-#Protagonist
+＃Protagonist
 "...I’m opening it."
 ...That place was different from any other room.
 It was a room with stagnant air, as if every negative aspect of this 'Nanatsuki Mansion' had been concentrated there.
 Several bones were scattered on the floor.
 Skulls that were clearly human were also rolling about.
 In the corner of the room, a skeletal corpse with relatively intact form, still draped in clothing, remained.
-#Narumi
+＃Narumi
 "...She looks like a senior colleague to me and Akane."
 It was the same clothing Narumi-san was wearing.
 I did my best to suppress the urge to vomit.
 This body seemed recent.
 Of course, I only felt that way because it still retained its shape—
-#Protagonist
+＃Protagonist
 "Most likely... Maya-san did this..."
-#Narumi
+＃Narumi
 "If it’s as the Master wrote. I wonder if the Madam will admit to it..."
-#Protagonist
+＃Protagonist
 "...I wonder."
-#Narumi
+＃Narumi
 "...It’ll be difficult, I’m sure."
-#Protagonist
+＃Protagonist
 "Wait... she’s holding something."
 Where the corpse’s hand lay, there was a scrap of white cloth.
-#Narumi
+＃Narumi
 "Is it a handkerchief...?"
-#Protagonist
+＃Protagonist
 "...Excuse me."
 After offering a silent prayer, I picked up the cloth.
-#Protagonist
+＃Protagonist
 "...Akari·M..."
-#Narumi
+＃Narumi
 "Akari...?"
-#Protagonist
+＃Protagonist
 "...Akane-san had something similar. There must be some connection..."
-#Protagonist
+＃Protagonist
 "...It’s likely Akane-san’s sister, Akari-san. So she really was here..."
 She must have become a victim as well.
-#Protagonist
+＃Protagonist
 "...Akane-san was looking for her sister. But for it to end like this..."
-#Narumi
+＃Narumi
 "But... where has Akane gone...?"
-#Protagonist
+＃Protagonist
 "...Perhaps she found out about this."
-#Narumi
+＃Narumi
 "...She doesn't seem to have come here, so she must have heard it from someone."
-#Protagonist
+＃Protagonist
 "Wouldn't Tsujimura-san have known?"
-#Narumi
+＃Narumi
 "...It’s possible. Was it for his daughter’s treatment costs? He wouldn't have been able to report it if that was being held over him."
-#Protagonist
+＃Protagonist
 "...Let’s go back, Narumi-san. we can't let Akane-san layer any more sins."
-#Narumi
+＃Narumi
 "Eh—don't tell me!?"
-#Protagonist
+＃Protagonist
 "The reason Akane-san vanished—it’s likely to avenge Akari-san."
-#Narumi
+＃Narumi
 "...I wonder if we should tell Akane."
-#Protagonist
+＃Protagonist
 "I think she should be informed. But... right now, more than that, we have to settle the case currently in progress."
-#Narumi
+＃Narumi
 "Even if you say that, everything we’ve found is just about the Nanatsuki family’s past, isn't it?"
-#Protagonist
+＃Protagonist
 "I... believe that what happened here in the past triggered the current incident. So I need to... investigate just a little more."
-#Narumi
+＃Narumi
 "I see... so we’re going back?"
-#Protagonist
+＃Protagonist
 "...Yeah."
-#Protagonist
+＃Protagonist
 "...Let’s go back."
-#Narumi
+＃Narumi
 "Eh...?"
-#Protagonist
+＃Protagonist
 "There’s something that’s bothering me. Of course Akane-san’s whereabouts are important, but..."
-#Narumi
+＃Narumi
 "...Alright."

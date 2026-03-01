@@ -3,57 +3,57 @@ Search more
 That's enough
 I'll search a little more, as I might have missed something.
 This should be enough.
-#Protagonist
+＃Protagonist
 "...In the end, we still don't know if it was suicide or murder."
-#Benio
+＃Benio
 "No—"
 Benio-san grabbed my arm.
-#Protagonist
+＃Protagonist
 "Eh?"
-#Benio
+＃Benio
 "Clear proof that it was murder has come to light. This cup—it’s one from the kitchen."
 Benio-san used a handkerchief to pick up the cup that had been rolling on the floor.
 She likely drank the poison from it, but...
-#Protagonist
+＃Protagonist
 "Eh... True, if the cup shouldn't be here, the possibility of murder arises... but if Shion-san was the one who brought it—"
-#Benio
+＃Benio
 "When could Shion have taken it? The kitchen was trashed long ago."
-#Protagonist
+＃Protagonist
 "That... maybe before that..."
-#Benio
+＃Benio
 "Shion never brought anything to her room on her own. Besides—the kitchen shelves are too high for Shion to reach."
 Was... that true...?
-#Benio
+＃Benio
 "You should ask Narumi."
-#Protagonist
+＃Protagonist
 "But... then who..."
-#Benio
+＃Benio
 "Didn't you see someone using a cup exactly like this one before?"
-#Protagonist
+＃Protagonist
 "Even if you say that... there are plenty of cups, aren't they?"
-#Benio
+＃Benio
 "The time the kitchen exploded... just before noon. Narumi should have washed and put away everything used by breakfast."
-#Protagonist
+＃Protagonist
 "But... ah."
 Now that she mentions it—I feel like I saw this cup somewhere...
 But—
-#Benio
+＃Benio
 "...So you remember it."
-#Protagonist
+＃Protagonist
 "B-But... no way—"
-#Benio
+＃Benio
 "Of course, I can't say for certain yet. I don't know the motive either—no, maybe the reason is that...?"
 Benio-san pointed at Kousei-san's journal, which I was holding.
-#Protagonist
+＃Protagonist
 "This...?"
-#Benio
+＃Benio
 "It's too early to jump to conclusions, but... shall we set a trap?"
-#Protagonist
+＃Protagonist
 "A trap...?"
-#Benio
+＃Benio
 "Yes. —Doctor, sorry to ask, but please gather everyone in the main hall. First, we'll tell everyone that Shion has committed suicide."
-#Protagonist
+＃Protagonist
 "U-Understood."
-#Benio
+＃Benio
 "Follow my lead."
 After pulling the covers over Shion-san's remains, we returned to the office to discuss the plan.

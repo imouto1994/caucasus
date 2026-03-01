@@ -1,36 +1,36 @@
 On my way down to the first floor to find the hall, I spotted Souko-san in the telephone room.
-#Protagonist
+＃Protagonist
 "Souko-san...?"
 She was holding the receiver to her ear, tilting her head.
-#Souko
+＃Souko
 "I thought I’d try calling the university to let them know the situation... but it’s not connecting."
-#Protagonist
+＃Protagonist
 "What?"
 I took the receiver and pressed it to my ear.
 There was no sound at all.
-#Protagonist
+＃Protagonist
 "Do you think the line snapped somewhere?"
-#Souko
+＃Souko
 "Probably... with all this snow."
 I put the receiver back.
-#Protagonist
+＃Protagonist
 "We should probably let someone know, shouldn't we?"
-#Souko
+＃Souko
 "Yeah... Could you go tell Tsujimura-san for me?"
-#Protagonist
+＃Protagonist
 "Sure, I can do that."
-#Souko
+＃Souko
 "Narumi-san is getting breakfast ready, so she said to come to the dining hall if you want to eat."
-#Protagonist
+＃Protagonist
 "What about you, Souko-san?"
-#Souko
+＃Souko
 "I don't have much of an appetite in the morning. A cola will be enough for me."
-#Protagonist
+＃Protagonist
 "...Couldn't you at least say 'coffee' for once?"
-#Souko
+＃Souko
 "What's it to you what I drink in the morning?"
 Well, she wasn't wrong, but I still had a hard time wrapping my head around drinking such a sugary liquid first thing in the morning.
-#Souko
+＃Souko
 "Make sure you're at the Great Hall by eight."
-#Protagonist
+＃Protagonist
 "I know. See you later, Souko-san."

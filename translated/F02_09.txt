@@ -1,26 +1,26 @@
 I’ve come to the kitchen.
-#Narumi
+＃Narumi
 "Mornin'."
 Narumi-san was looking rather listless.
-#Protagonist
+＃Protagonist
 "Good morning, Narumi-san."
-#Narumi
+＃Narumi
 "You're looking energetic for this early..."
-#Protagonist
+＃Protagonist
 "Are you still sleepy?"
-#Narumi
+＃Narumi
 "Nah, I'm just feeling lazy and bored."
-#Protagonist
+＃Protagonist
 "Oh..."
-#Narumi
+＃Narumi
 "I mean, I have to make food for over ten people starting first thing in the morning, you know? It's a total pain in the ass."
 Wait, isn't that exactly why she's here...?
-#Narumi
+＃Narumi
 "So, did you need something?"
-#Protagonist
+＃Protagonist
 "Well..."
 I’ve returned to the kitchen.
-#Narumi
+＃Narumi
 "Oh, do you need something else?"
-#Protagonist
+＃Protagonist
 "Well..."

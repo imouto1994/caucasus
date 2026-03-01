@@ -2,20 +2,20 @@ I made it back to the room I had been assigned.
 The time was 10:30 PM.
 I should probably stay in my room and wait for a while.
 There was a knock at the door.
-#Protagonist
+＃Protagonist
 "Come in."
-#Narumi
+＃Narumi
 "Excuse me."
 It was Narumi-san.
-#Narumi
+＃Narumi
 "You probably heard this from Benio-ojousama already, but please stay in this room until midnight."
-#Protagonist
+＃Protagonist
 "Yeah, I know."
-#Narumi
+＃Narumi
 "I'm not gonna say 'don't you dare step a foot outside,' but it's not like you've got anything else to do anyway."
-#Protagonist
+＃Protagonist
 "Well, you're not wrong."
-#Narumi
+＃Narumi
 "So just stay put for a bit. I'll come and get you when it's time."
 Narumi-san emphasized the point before leaving the room.
 Stay put, huh...
@@ -25,116 +25,116 @@ The tower was barely visible through the swirling snow.
 I wondered if Shion-san was getting ready for the ceremony too.
 I flopped down onto the bed.
 Narumi-san was supposed to come get me around midnight, so I'd just sleep until then.
-#Souko
+＃Souko
 "Oh, were you sleeping?"
 Souko-san's sudden voice made me open my eyes just as I was drifting off.
-#Protagonist
+＃Protagonist
 "...I was just about to."
-#Souko
+＃Souko
 "Good. It would've been a pain if I had to wake you up again."
 Souko-san sat down on the edge of the bed.
-#Souko
+＃Souko
 "So, did you find anything out?"
-#Protagonist
+＃Protagonist
 "I got the details of the 'Curse of the Seven' from Benio-san."
-#Souko
+＃Souko
 "Oh, look at you. Care to share?"
-#Protagonist
+＃Protagonist
 "Alright, one by one. 'First, all heads of the Nanatsuki family have died mysterious deaths.'"
-#Souko
+＃Souko
 "They said Kousei-shi committed suicide. Does that mean every single head of the family has killed themselves?"
-#Protagonist
+＃Protagonist
 "Who knows... she didn't tell me that much. Next, 'Second, no males are ever born into the Nanatsuki family.'"
-#Souko
+＃Souko
 "No males... so that means every husband is married into the family. If that's the case, then the one carrying the Nanatsuki bloodline isn't Kousei-shi, but Maya-san..."
-#Protagonist
+＃Protagonist
 "Since Tsujimura-san is Kousei-san's younger brother, that seems very likely."
-#Souko
+＃Souko
 "And all the children are female too. What's next?"
-#Protagonist
+＃Protagonist
 " 'Third, the cases of spirited-away victims in Nanatsuki Village.'"
-#Souko
+＃Souko
 "Spirited away... I wonder if that's connected to the family too?"
-#Protagonist
+＃Protagonist
 "I don't know. She didn't tell me anything else about it."
-#Souko
+＃Souko
 "...Next?"
-#Protagonist
+＃Protagonist
 " 'Fourth, the mansion is painted entirely in pitch black.'"
-#Souko
+＃Souko
 "Well, that much is obvious. I'm sure there's some reason for it, though..."
-#Protagonist
+＃Protagonist
 " 'Fifth, a massive swarm of crows covers the mansion.'"
-#Souko
+＃Souko
 "Crows, huh... There's no way to confirm that in this blizzard."
-#Protagonist
+＃Protagonist
 " 'Sixth, the matter of the "Sacrifice of the Seven".'"
-#Souko
+＃Souko
 "If we take it literally, it means a human sacrifice... It sounds like it's closely related to the spirit-away cases. And the last one?"
-#Protagonist
+＃Protagonist
 " 'Seventh, the ghost of the sacrificed girl wanders the halls of the mansion.' ...That's all of them."
-#Souko
+＃Souko
 "...It suddenly got very suspicious at the end there."
 Souko-san muttered with a look of exasperation.
-#Protagonist
+＃Protagonist
 "Well, these kinds of 'Seven Mysteries' are always a bit far-fetched, aren't they?"
-#Souko
+＃Souko
 "True. Now we just need to dig deeper into these... though we can't exactly go around asking about it openly."
-#Protagonist
+＃Protagonist
 "I think Benio-san might be willing to cooperate."
-#Souko
+＃Souko
 "If she were really going to cooperate, wouldn't she have given you more details?"
-#Protagonist
+＃Protagonist
 "Well... maybe you're right."
-#Souko
+＃Souko
 "Keep investigating. But be subtle about it."
-#Protagonist
+＃Protagonist
 "What about you, Souko-san?"
-#Souko
+＃Souko
 "I've been looking into things myself, you know. Not that I've found a damn thing."
-#Protagonist
+＃Protagonist
 "No, nothing yet. How about you?"
-#Souko
+＃Souko
 "I've been doing plenty of research. Not that I've found a damn thing."
-#Protagonist
+＃Protagonist
 "...Are you sure you aren't just in your room drinking cola?"
-#Souko
+＃Souko
 "Of course not! I have a limited supply, so they'd be gone in no time."
-#Protagonist
+＃Protagonist
 "But you brought so many with you. Those full bottles were heavy, you know."
-#Souko
+＃Souko
 "I just heard the weather forecast on my portable radio. Apparently, this blizzard is going to last for quite a while longer."
-#Protagonist
+＃Protagonist
 "Wait... really?"
-#Souko
+＃Souko
 "Seems like a cold air mass is stalled right over us. We might be stuck here for a few days."
-#Protagonist
+＃Protagonist
 "A few days... huh."
 That's not good...
 It's not like I have to get back to Tokyo urgently, but we can't just keep imposing on them for days on end.
-#Protagonist
+＃Protagonist
 "Souko-san, what should we do?"
-#Souko
+＃Souko
 "Hmm... I'll have to ration my cola. But it's not very good once it goes flat..."
-#Protagonist
+＃Protagonist
 "That's not what I'm talking about!"
-#Souko
+＃Souko
 "Well, there's no other reason to hurry. Let's just take it easy."
 With that, Souko-san flopped down onto the bed.
-#Protagonist
+＃Protagonist
 "If you want to take it easy, go do it in your own room."
-#Souko
+＃Souko
 "What's the harm?"
-#Protagonist
+＃Protagonist
 "There's plenty of harm."
 I replied instantly.
-#Souko
+＃Souko
 "You're such a spoilsport."
 Souko-san gave up and got off the bed.
-#Souko
+＃Souko
 "Fine, fine. See you later, then."
 With a big yawn, Souko-san left the room.
 Sigh, good grief.
 I wish Souko-san would realize that she shouldn't be lounging around in a room belonging to a guy her age.
-#Protagonist
+＃Protagonist
 "...Time to sleep."

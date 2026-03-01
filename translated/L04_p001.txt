@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "I was in my room until just before noon. Then I headed to the dining hall."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "I remember her coming to the dining hall around noon, but I didn't notice anything strange."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I don't believe anything in particular happened..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "She was in the dining hall when I went to fetch her, though..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Kirihara-san? I don't remember clearly, but wasn't she in the dining hall? I was cooped up in the kitchen the whole time, so that's the impression I have."
-#Protagonist
+＃Protagonist
 "I see..."

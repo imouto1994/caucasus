@@ -1,62 +1,62 @@
 I've come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-#Protagonist
+＃Protagonist
 "Benio-san, it's me."
 The door opens, and Benio-san appears.
-#Benio
+＃Benio
 "What is it? Did something happen?"
-#Protagonist
+＃Protagonist
 "Souko-san is missing."
-#Benio
+＃Benio
 "What...? You mean she's nowhere to be found?"
-#Protagonist
+＃Protagonist
 "Yeah... her room was ransacked, and she's nowhere in sight..."
-#Benio
+＃Benio
 "...There aren't that many places in this mansion where one could hide."
 Benio-san murmurs with her arms crossed.
-#Benio
+＃Benio
 "Tsujimura likely manages the keys strictly, so she couldn't enter rooms that were locked to begin with. I think she'll be found if we search the house, but..."
-#Protagonist
+＃Protagonist
 "But... Akane-san hasn't been found yet either, you know?"
-#Benio
+＃Benio
 "I know. It's only natural to think the two disappearances share the same cause, but..."
-#Protagonist
+＃Protagonist
 "...I'll try looking a bit more."
-#Benio
+＃Benio
 "I'll go too."
-#Protagonist
+＃Protagonist
 "No. You're still recovering, aren't you?"
-#Benio
+＃Benio
 "But...! ...Fine. I'll behave myself for a while."
-#Protagonist
+＃Protagonist
 "Please do. Well, see you later."
-#Benio
+＃Benio
 "Ah... hey!"
-#Protagonist
+＃Protagonist
 "What is it?"
-#Benio
+＃Benio
 "...Be careful."
-#Protagonist
+＃Protagonist
 "Yeah. Of course."
 I've come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-#Protagonist
+＃Protagonist
 "Benio-san, it's me."
 The door opens, and Benio-san appears.
-#Benio
+＃Benio
 "Did you find her?"
-#Protagonist
+＃Protagonist
 "No... neither Souko-san nor Akane-san yet..."
-#Benio
+＃Benio
 "I see..."
-#Protagonist
+＃Protagonist
 "I'll try looking a bit more."
-#Benio
+＃Benio
 "Yeah, understood."
 I've come to Benio-san's room on the second floor.
 I don't have any business here anymore, but...
-#Protagonist
+＃Protagonist
 "...I'll go somewhere else."
 I offered a silent prayer toward the door for a moment before moving on.

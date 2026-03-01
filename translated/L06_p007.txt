@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Takamine-san, huh... He seemed to be moving around a lot during the blackout... but his intentions are a total mystery..."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "I am not quite sure what Takamine-san was doing."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Just as Shion and I were leaving the office, Takamine arrived. He seemed to be trying to grasp the situation, but..."
-#Protagonist
+＃Protagonist
 "...I see."
-#Shion
+＃Shion
 "I passed Master Takamine as Lady Benio and I were leaving the office..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "As for Master Takamine, it seems he arrived at the office just as I was heading back to my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I was sleeping in my room, but I noticed the lights wouldn't turn on, so I intended to go to the office to find out what was going on."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Takamine-san? He said he was resting in his room and didn't even notice the blackout..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Master Takamine? I believe I saw him coming out of the office around six o'clock..."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Takamine-san, huh... He claims he didn't notice the blackout, but I wonder if that's true..."
-#Protagonist
+＃Protagonist
 "I wonder..."

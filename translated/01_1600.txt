@@ -2,106 +2,106 @@ The snow that had been falling since just after noon quickly buried the traces o
 Looking back, only the intermittent trail of our own footprints remained.
 There was no one behind me.
 Far ahead of me walked Kirihara-senpai—Souko-san.
-#Protagonist
+＃Protagonist
 "Wait up, Souko-san."
-#Souko
+＃Souko
 "What is it~?"
-#Protagonist
+＃Protagonist
 "I said wait! I'm carrying your bags too, you know!"
-#Souko
+＃Souko
 "It can't be helped, can it? I *am* injured, after all."
 Souko-san walked back toward me.
-#Protagonist
+＃Protagonist
 "Calling it an injury is a bit much. You just bumped your hand against a tree when you slipped and fell."
-#Souko
+＃Souko
 "It hurts, and if it hurts, it hurts! There's nothing to be done about it."
 Souko-san clutched her right hand and groaned with exaggerated flair.
-#Protagonist
+＃Protagonist
 "Even so, you only hit your pinky. Surely you can at least carry your own rucksack?"
-#Souko
+＃Souko
 "Weren't you the one who said, 'Souko-san, if it's too difficult, shall I carry your luggage for you'?"
-#Protagonist
+＃Protagonist
 "Well, yeah, I did say that, but..."
-#Souko
+＃Souko
 "Then there's no problem, right?"
-#Protagonist
+＃Protagonist
 "But Souko-san, your rucksack is insanely heavy! It’s way heavier than mine."
-#Souko
+＃Souko
 "When a girl goes on a trip, she inevitably ends up with a lot of things to bring along."
-#Protagonist
+＃Protagonist
 "Normal girls don't carry around this much bottled cola. Exactly how many are in here?"
-#Souko
+＃Souko
 "I stocked up at the station at the foot of the mountain, so there should still be a dozen left, I think."
-#Protagonist
+＃Protagonist
 "Give me a break..."
 They'd been clinking and clanking noisily on my back for a while now.
-#Souko
+＃Souko
 "Once we find a place to settle down, I'll drink some, so it should get a bit lighter."
-#Protagonist
+＃Protagonist
 "Where on this snowy mountain do you expect us to 'settle down'?"
 I looked up and scanned our surroundings.
 A landscape of unbroken white.
 On one side, a steep slope stretched endlessly upward.
 As for the other side, a slope continued just as far down.
 We were on a narrow path, less than a meter wide, where one slip would send you tumbling down.
-#Protagonist
+＃Protagonist
 "Hey, Souko-san."
-#Souko
+＃Souko
 "Hmm?"
-#Protagonist
+＃Protagonist
 "Are you absolutely sure this is the right way?"
-#Souko
+＃Souko
 "...Of course it is."
-#Protagonist
+＃Protagonist
 "Why did you hesitate for a second?"
-#Souko
+＃Souko
 "There's no way I'd make a mistake."
-#Protagonist
+＃Protagonist
 "Well, I know you're famous at the university for being brilliant, so I'd like to think you wouldn't be wrong, but..."
-#Souko
+＃Souko
 "The direction is correct. I'm certain that if we keep going straight this way, we'll reach Nanatsuki Village."
 Souko-san pointed further down the path.
-#Protagonist
+＃Protagonist
 "Souko-san."
-#Souko
+＃Souko
 "What?"
-#Protagonist
+＃Protagonist
 "Have you ever heard the saying 'haste makes waste'?"
-#Souko
+＃Souko
 "Of course I have."
-#Protagonist
+＃Protagonist
 "I wish you'd consider taking a path that's actually easy to walk on."
-#Souko
+＃Souko
 "But I thought it was a shortcut."
-#Protagonist
+＃Protagonist
 "Please don't try to act cute all of a sudden."
-#Souko
+＃Souko
 "Yeah, that even felt a bit gross to me."
-#Protagonist
+＃Protagonist
 "Good grief... where's the map?"
-#Souko
+＃Souko
 "A map? I don't have one."
-#Protagonist
+＃Protagonist
 "Huh?"
-#Souko
+＃Souko
 "I memorized the terrain around here before we came. The river flowing through this valley we're walking in... if you follow it all the way down, it connects to the Kitakami River."
-#Protagonist
+＃Protagonist
 "But we're heading upstream right now."
-#Souko
+＃Souko
 "Exactly. And if you go upstream, you reach Nanatsuki Village."
-#Protagonist
+＃Protagonist
 "I can trust you on that, right?"
-#Souko
+＃Souko
 "Of course. If you really can't trust me, you're free to go home."
-#Protagonist
+＃Protagonist
 "Don't be ridiculous."
-#Souko
+＃Souko
 "It's a joke. I'd be in trouble if I lost my cola porter."
-#Protagonist
+＃Protagonist
 "So I'm just a cola mule now?"
-#Souko
+＃Souko
 "Well, you were the one who insisted on coming along for this investigation, weren't you?"
-#Protagonist
+＃Protagonist
 "Well, yeah, that's true, but..."
 It's no use.
 I simply can't win against this woman.
@@ -115,67 +115,67 @@ It's only natural for rumors to be embellished—or so Souko-san always says.
 Some theories even claim there are Western occult books brought back in secret by the Keicho Embassy, which Date Masamune dispatched under Hasekura Tsunenaga.
 It seems Souko-san wants to uncover the truth behind those stories during this investigation.
 However...
-#Protagonist
+＃Protagonist
 "Souko-san."
-#Souko
+＃Souko
 "What?"
-#Protagonist
+＃Protagonist
 "Is it just me, or are we actually stranded out here?"
 The wind and snow grew even more intense, until I could barely see a few meters ahead.
-#Souko
+＃Souko
 "You're imagining things."
 Souko-san, with snow even clinging to her eyebrows, looked away.
-#Protagonist
+＃Protagonist
 "You really ought to do something about that haphazard personality of yours."
-#Souko
+＃Souko
 "Oh, shut it. We're on a mountain in the snow; can't we just enjoy ourselves?"
-#Protagonist
+＃Protagonist
 "This feels less like a hike and more like a forced march through the snow."
 I tried to make a joke of it, but it might not have been a very funny one given the circumstances.
-#Souko
+＃Souko
 "Admittedly, this is getting a bit rough."
 Souko-san stopped at a level spot.
-#Protagonist
+＃Protagonist
 "Souko-san, is your hand okay?"
-#Souko
+＃Souko
 "Mm, I still have some sensation in it, at least."
 She breathed onto her gloved hands.
-#Protagonist
+＃Protagonist
 "I wish we could find somewhere to get out of the wind."
 It felt like even the inside of my nose was freezing over.
 I eventually slipped the rucksack off my shoulders and set it on the snow.
-#Souko
+＃Souko
 "Don't let the cola freeze. It'll taste awful."
-#Protagonist
+＃Protagonist
 "Can we at least worry about ourselves for a change?"
-#Souko
+＃Souko
 "My intuition tells me we should be reaching Nanatsuki Village soon... Hmm?"
-#Protagonist
+＃Protagonist
 "Is something wrong?"
-#Souko
+＃Souko
 "Did you hear something just now?"
-#Protagonist
+＃Protagonist
 "Huh?"
 At her words, I strained my ears to listen.
 I heard nothing but the howling wind.
-#Souko
+＃Souko
 "Was that an animal?"
 I still couldn't hear a thing.
-#Souko
+＃Souko
 "A horse... maybe?"
-#Protagonist
+＃Protagonist
 "Out here?"
-#Souko
+＃Souko
 "Oh, look. It's coming from over there."
 Souko-san pointed behind me.
 I turned my attention in that direction.
 From beyond the swirling blizzard, I heard the faint, distant neighing of a horse.
-#Protagonist
+＃Protagonist
 "It definitely is coming from that way... let's check it out."
 We pushed through the heavy snow.
 We emerged onto what looked like a road.
 In the distance, a gray shadow appeared.
-#Protagonist
+＃Protagonist
 "A carriage...?"
 What I’d taken for gray was only because it was obscured by the blowing snow.
 As it drew closer, I realized it was a carriage painted pitch black.
@@ -184,66 +184,66 @@ Between the stark colors and the mode of transport itself, it felt incredibly ou
 With a soft whinny, the horse came to a halt in front of us.
 The driver, reins in hand, looked down at us with a bewildered expression.
 Well, anyone would be puzzled to find two people turned into human snowmen in the middle of these mountains.
-#???
+＃???
 "Is something the matter?"
 The voice came from inside the carriage.
 A woman opened the window slightly, squinting against the biting wind as she looked at me.
-#Protagonist
+＃Protagonist
 "Ah, well... we seem to have lost our way..."
-#???
+＃???
 "Oh dear, that is quite a predicament."
 With those words, the woman opened the carriage door.
 The person who emerged was a young woman about the same age as me.
-#???
+＃???
 "Where were you intending to go?"
-#Protagonist
+＃Protagonist
 "A place called Nanatsuki Village, near here."
 I answered, flustered by her refined demeanor.
-#???
+＃???
 "Oh... whatever shall we do?"
 She touched her hand to her lips and looked back in the direction the carriage had come from.
-#???
+＃???
 "The center of the village is at least ten kilometers away from here."
-#Protagonist
+＃Protagonist
 "Ten kilometers..."
 Feeling a wave of dizziness, I glanced at Souko-san.
 She looked away.
-#???
+＃???
 "Do you have business in the village?"
-#Protagonist
+＃Protagonist
 "Yes, well... we're students from a university in Tokyo, researching folklore."
-#???
+＃???
 "Oh, so you're students?"
 Though she was likely around our age, her old-fashioned way of speaking made her seem much older.
-#Souko
+＃Souko
 "We're researching the legends of Nanatsuki Village."
 Souko-san chimed in.
-#???
+＃???
 "The village legends... In that case, I believe it would be better for you to come to my home rather than heading into the village proper."
-#Protagonist
+＃Protagonist
 "To your... home?"
-#???
+＃???
 "I've been remiss in introducing myself. I am Benio, the second daughter of the Nanatsuki family. It is a pleasure to meet you."
-#Protagonist
+＃Protagonist
 "The Nanatsuki family...?"
-#Souko
+＃Souko
 "The clan that has ruled Nanatsuki Village for generations."
-#Benio
+＃Benio
 "Oh my... 'ruled' is such a strong word. We have simply lived on this land since ancient times."
 Benio-san gave a light, melodic laugh.
 I suppose that was what they call a refined upbringing.
-#Souko
+＃Souko
 "But well, it might be for the best to accept your hospitality."
 Souko-san shrugged, clutching both hands in front of her chest as she spoke.
 I wondered if the hand she’d bumped earlier was still bothering her.
-#Protagonist
+＃Protagonist
 "Is it really alright?"
-#Benio
+＃Benio
 "Yes, I don't mind at all. The snow is supposed to get heavier, and you'll freeze if you stay out here."
 With that, she beckoned us inside.
-#Protagonist
+＃Protagonist
 "After you, Souko-san."
-#Souko
+＃Souko
 "Thank you."
 Souko-san brushed the snow off her winter gear and climbed into the carriage first.
 I handed both our bags to the driver, who had stepped down to help, and then I climbed into the carriage myself.

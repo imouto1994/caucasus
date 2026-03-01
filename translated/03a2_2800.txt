@@ -1,111 +1,111 @@
 Everyone was gathered in the main hall.
 I entered the room with Shion-san in tow.
-#Protagonist
+＃Protagonist
 "Sorry to keep you waiting."
-#Souko
+＃Souko
 "Did you figure it out?"
 I nodded in response to Souko-san's question.
-#Protagonist
+＃Protagonist
 "Yes... Shion-san—"
-#Shion
+＃Shion
 "I... I was the one who killed Rokuyou-sama."
 The room erupted into whispers at her confession.
-#Takamine
+＃Takamine
 "Wha... what do you mean? You mean Shion-kun killed Rokuyou-kun...?"
-#Tsujimura
+＃Tsujimura
 "Shion-ojousama..."
-#Shion
+＃Shion
 "...I mean exactly what I said. I killed Rokuyou-sama—"
-#Benio
+＃Benio
 "I assume you have proof to back this up?"
 Benio-san directed her question at me.
-#Protagonist
+＃Protagonist
 "...Yes. I plan to gather it all and hand it over to the police when they arrive."
-#Ai
+＃Ai
 "Why!? How!? Why would Shion do that to Isamu-san!?"
-#Shion
+＃Shion
 "Ai-oneesama... it was the only thing I could do..."
-#Ai
+＃Ai
 "But whyyy...!!"
 Ai-san clung to Shion-san, wailing and crying.
-#Mikanagi
+＃Mikanagi
 "Shion-san... have you been deceiving us all this time...?"
-#Shion
+＃Shion
 "That wasn't... my intention..."
-#Maya
+＃Maya
 "And yet, it is a fact that you were hiding it..."
-#Shion
+＃Shion
 "I am truly sorry..."
 Shion-san bowed her head, her eyes filling with tears.
-#Souko
+＃Souko
 "...Why did you kill Rokuyou-san?"
-#Shion
+＃Shion
 "—! T-That's..."
 Shion-san looked toward Tsujimura-san, flustered.
 It seemed she didn't want to talk about that part—
-#Protagonist
+＃Protagonist
 "...She says he attacked her in the middle of the night on the day of the wedding. She resisted, and killed him in the heat of the moment—"
-#Souko
+＃Souko
 "...I see."
 Souko-san said nothing in response to my attempt to help.
 She probably realized what was going on.
 She seemed to be watching Tsujimura-san's reaction.
-#Benio
+＃Benio
 "What did you do with Rokuyou's head?"
-#Shion
+＃Shion
 "I threw it out the window... I was worried that if it was nearby, he might come back..."
-#Benio
+＃Benio
 "Come back...? Did you think he was going to return to life?"
-#Shion
+＃Shion
 "That's..."
 Shion-san faltered.
-#Protagonist
+＃Protagonist
 "In any case, let's go find Rokuyou-san's head for now. The questioning of Shion-san is—"
 Benio-san cut me off.
-#Benio
+＃Benio
 "—Just one more thing. Shion... did you do all of it yourself?"
-#Shion
+＃Shion
 "Ye... yes, that's right..."
-#Benio
+＃Benio
 "...I see."
 Having seemingly reached some kind of conclusion, Benio-san backed off.
-#Souko
+＃Souko
 "Then... Tsujimura-san, please stay with Shion-san. You and Dr. Mikanagi, go find Rokuyou-san's head."
-#Mikanagi
+＃Mikanagi
 "Right..."
-#Protagonist
+＃Protagonist
 "Understood."
-#Benio
+＃Benio
 "I'm coming too."
 As we stepped into the hallway, Benio-san followed immediately.
-#Protagonist
+＃Protagonist
 "Benio-san...?"
-#Benio
+＃Benio
 "Hakase, go get a shovel from the storage room."
-#Mikanagi
+＃Mikanagi
 "Sure."
 Dr. Mikanagi went into the storage room.
-#Benio
+＃Benio
 "—Have you noticed?"
-#Protagonist
+＃Protagonist
 "Eh... noticed what?"
-#Benio
+＃Benio
 "Who is Shion protecting?"
-#Protagonist
+＃Protagonist
 "Eh—"
 Could she be talking about Tsujimura-san—?
-#Protagonist
+＃Protagonist
 "...What do you mean?"
 It would probably be best if the truth about Tsujimura-san didn't come from my mouth.
-#Benio
+＃Benio
 "...Shion hasn't said a word about attacking me or my sister."
-#Protagonist
+＃Protagonist
 "That's—"
-#Benio
+＃Benio
 "Whether she's too ashamed to speak of it or truly doesn't know—either way, it seems she doesn't want to cause any more trouble."
-#Protagonist
+＃Protagonist
 "...And who is it that feels that way?"
-#Benio
+＃Benio
 "Why, everyone here, of course."
 After making a rough estimate from the location of Rokuyou-san's room, I went outside and started digging through the snow.
 Before long, Rokuyou-san's frozen head was discovered.
@@ -114,94 +114,94 @@ I wanted to reunite it with the body, but worried that more problems might arise
 On the morning of the fourth day after our arrival, the driver coming from the foot of the mountain discovered the destroyed suspension bridge as scheduled.
 Benio-san, who had gone to check the opposite bank, spoke with him, and the driver returned to the base and brought back police and several laborers a little after noon.
 They hurriedly constructed scaffolding, and by the time they had managed to put up a bridge that a single person could cross and the police had made their way over, it was already evening.
-#Police Officer
+＃Police Officer
 "How shall we proceed, Madam...?"
-#Maya
+＃Maya
 "...Even if she is a daughter of the Nanatsuki family, the fact remains that she committed a crime. I ask that you judge her strictly according to the law."
-#Police Officer
+＃Police Officer
 "I-I see... however, the Chief also instructed me to ensure that no disrespect was shown..."
-#Protagonist
+＃Protagonist
 "The police are being awfully subservient..."
-#Souko
+＃Souko
 "It can't be helped, I suppose. In a rural place like this, the word of the powerful is law."
-#Benio
+＃Benio
 "Even so, this is a major incident. She won't be coming back for a while."
-#Mikanagi
+＃Mikanagi
 "I'm worried about her health if she's held for a long time... even more so if she's sentenced to prison."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Tsujimura
+＃Tsujimura
 "Sorry to keep you waiting."
 Tsujimura-san appeared, accompanied by Shion-san.
 Shion-san looked haggard, her eyes fixed on the ground.
-#Maya
+＃Maya
 "...Then, I leave her in your care."
-#Police Officer
+＃Police Officer
 "Understood, Madam."
 The officer gave a salute.
-#Tsujimura
+＃Tsujimura
 "...Let's go, Shion-ojousama."
-#Shion
+＃Shion
 "...Yes."
-#Souko
+＃Souko
 "...Well then, shall we get going too? They said they could give us a ride to the foot of the mountain."
 Souko-san picked up her luggage.
 It seemed much lighter now that the cola bottles were gone.
-#Protagonist
+＃Protagonist
 "You're right..."
-#Benio
+＃Benio
 "I'd like to say 'come again'... but that's a hard thing to say. Yeah... let's meet again someday."
-#Protagonist
+＃Protagonist
 "Yeah... definitely."
-#Souko
+＃Souko
 "Oh, that's right. Here, take this."
 Souko-san handed Benio-san a bottle of cola that hadn't been opened yet.
-#Protagonist
+＃Protagonist
 "You still had some left!?"
-#Souko
+＃Souko
 "...What's with that surprised look on your face?"
 Well, I was surprised, which is why I looked like that.
-#Benio
+＃Benio
 "Thank you. I'll be sure to savor it."
-#Protagonist
+＃Protagonist
 "...The carbonation will go flat, so you should drink it soon after you open it."
-#Ai
+＃Ai
 "Shion!!"
 As we were about to head out the front door, Ai-san ran up to Shion-san.
-#Shion
+＃Shion
 "Ai-oneesama..."
-#Ai
+＃Ai
 "Shion... Shion...!"
-#Shion
+＃Shion
 "Please don't cry, Ai-oneesama..."
 Shion-san gently stroked Ai-san's head.
 It was a scene that made it look like the order of the sisters had been reversed.
-#Benio
+＃Benio
 "...My sister loves Shion, after all."
 Benio-san muttered quietly.
-#Benio
+＃Benio
 "Sister, that's enough."
-#Ai
+＃Ai
 "But... but...!"
-#Shion
+＃Shion
 "Oneesama..."
-#Benio
+＃Benio
 "Don't worry, she'll be back soon. ...Right?"
-#Police Officer
+＃Police Officer
 "Y-Yes, that's correct, ma'am!"
 The officer replied while standing at attention.
-#Ai
+＃Ai
 "Shion... please take care of yourself."
-#Shion
+＃Shion
 "Yes..."
 Outside, the snow had completely stopped.
-#Souko
+＃Souko
 "They said there's a vehicle waiting on the other side of the bridge."
-#Protagonist
+＃Protagonist
 "It's not a carriage?"
-#Souko
+＃Souko
 "Apparently there's a four-wheel-drive truck that brought the materials."
-#Protagonist
+＃Protagonist
 "Well, as long as we can get back, anything is fine at this point."
-#Souko
+＃Souko
 "Exactly. Well then, shall we head home?"

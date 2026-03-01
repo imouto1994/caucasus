@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Narumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san."
-#Protagonist
+＃Protagonist
 "...True."
-#Maya
+＃Maya
 "If it's Narumi, I believe she would have been preparing dinner at that time..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Narumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "As for Narumi-san... I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Mistress Minakami is cooped up in the kitchen for most of this time. She has dinner to prepare, after all."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Now that you mention it, I didn't see Narumi-san during the blackout..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Narumi-san? I was in the grand hall, so I didn't see her..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Once the power went out, I was checking around here and there... but I didn't go as far as Lady Ai's room."
-#Protagonist
+＃Protagonist
 "I see..."

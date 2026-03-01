@@ -1,7 +1,7 @@
 It’s pure white outside the window; I can't see a thing.
 I wonder when this blizzard will let up...
 The blizzard outside seems to be getting stronger.
-#Protagonist
+＃Protagonist
 "Hm...?"
 There's a scrap of paper lying under a chair.
 What could this be...?
@@ -11,7 +11,7 @@ And those terrifying, clouded gray eyes... there is no doubt those were the eyes
 Furthermore, his gaze was complex, as if crying out for solitude, leaving me with an indescribably ominous and eerie impression.
 Looking back now, allowing that stall to operate near the venue was the beginning of everything.
 I had encountered that man with eyes full of both obsession and madness. ~To be continued~
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 A scrap of paper titled "Story of a Certain Man - Chapter 2" is lying here.
 An expensive-looking painting is on display.

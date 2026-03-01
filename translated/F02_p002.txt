@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Maya-san, huh... She really gives off that 'lady of the house' vibe. She seems kind enough, though."
-#Protagonist
+＃Protagonist
 "Yeah."
-#Maya
+＃Maya
 "About me...? It wouldn't be very interesting to learn about an old woman like myself, would it?"
-#Protagonist
+＃Protagonist
 "No... that isn't true at all..."
-#Ai
+＃Ai
 "Mother? She is a very kind person."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "About Mother? She’s a mild-mannered and gentle person. She lets me do as I please, after all."
-#Protagonist
+＃Protagonist
 "...I see."
-#Tsujimura
+＃Tsujimura
 "The Mistress? She is an exceptionally kind woman."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "Maya-san, eh...? Since Kousei-shi passed away, she seems to have been doing her best to manage things on her own."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "Maya-san... I believe she is a woman filled with affection."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "The Mistress? I believe she is likely in her room, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "The Mistress? She's a kind and good person."
-#Protagonist
+＃Protagonist
 "I see."

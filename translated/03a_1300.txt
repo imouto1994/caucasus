@@ -2,133 +2,133 @@ I was starting to get hungry, so I headed to the eastern side of the first floor
 The kitchen was out of commission.
 Still, if I asked Narumi-san, she’d probably find a way to help.
 I gave a light knock on Narumi-san's door.
-#Protagonist
+＃Protagonist
 "Narumi-san, it's me."
-#Narumi
+＃Narumi
 "Nnh, what is it?"
 Narumi-san came out.
-#Protagonist
+＃Protagonist
 "What are we doing for lunch? The kitchen is unusable now..."
-#Narumi
+＃Narumi
 "Ah... I was thinking of making a salad, is that alright?"
-#Protagonist
+＃Protagonist
 "Yeah, I don't mind, but..."
-#Narumi
+＃Narumi
 "Then it's settled. Come along."
 Narumi-san grabbed my arm and started walking.
-#Protagonist
+＃Protagonist
 "Eh... eh?"
 Unable to even resist, I was dragged along.
-#Narumi
+＃Narumi
 "There's vegetables in the basement storage. We can't use the ones in the kitchen anymore."
-#Protagonist
+＃Protagonist
 "Well, I suppose... but why me too?"
-#Narumi
+＃Narumi
 "To carry the bags, obviously."
 Narumi-san answered as if it were perfectly natural.
-#Protagonist
+＃Protagonist
 "Sigh..."
 Narumi-san surely has much more stamina than I do.
 With practiced hands, Narumi-san unlocked the door to the basement.
-#Narumi
+＃Narumi
 "Alright then."
 We went down to the basement.
 It was a different room from the one where I’d fixed the generator last night.
-#Narumi
+＃Narumi
 "Put the vegetables in that box."
 Narumi-san said, swinging a flashlight around.
-#Protagonist
+＃Protagonist
 "Any of them?"
 I asked, holding a potato in one hand.
-#Narumi
+＃Narumi
 "Choose things that don't need to be cooked."
-#Protagonist
+＃Protagonist
 "...Then I guess we don't need this."
 I put the potato back in the wooden box.
-#Narumi
+＃Narumi
 "Apples... we have those. And cabbage... was that buried in the snow outside? Dig that up for me later."
-#Protagonist
+＃Protagonist
 "Me?"
-#Narumi
+＃Narumi
 "Of course. I hate the cold."
-#Protagonist
+＃Protagonist
 "Sigh..."
 Well, we can't eat them if they aren't dug up...
-#Protagonist
+＃Protagonist
 "Can it wait until later?"
-#Narumi
+＃Narumi
 "Yeah, first I need you to take the things from here."
 Narumi-san placed a wooden box in front of me.
 It was stuffed with a large quantity of vegetables.
-#Protagonist
+＃Protagonist
 "Wait... do we really need this much?"
-#Narumi
+＃Narumi
 "There are a lot of people to feed, after all."
-#Protagonist
+＃Protagonist
 "...Can you eat eggplant raw?"
-#Narumi
+＃Narumi
 "If we can't, I'll drag out a charcoal stove and try roasting them."
 There was a sound like something falling over.
-#Protagonist
+＃Protagonist
 "Hmm...?"
 I turned my gaze toward the sound—the entrance to the storage room.
 The door was closed.
-#Narumi
+＃Narumi
 "Oh... I wonder who that is."
 Narumi-san approached the door.
-#Protagonist
+＃Protagonist
 "What's wrong?"
-#Narumi
+＃Narumi
 "Hmm..."
 Narumi-san groaned in front of the door and turned around.
-#Narumi
+＃Narumi
 "...It seems we've been locked in."
-#Protagonist
+＃Protagonist
 "...Eh?"
 Narumi-san was trying to move the door to open it.
-#Protagonist
+＃Protagonist
 "No way... did they lock it...?"
-#Narumi
+＃Narumi
 "It’s not locked, there’s a bar across it."
 I approached the door as well and looked out of the storage room through the grated window.
 I could see something like a rod at the edge of the sliding door.
 I tried to move the door, but it only budged a tiny bit.
-#Protagonist
+＃Protagonist
 "Um... what does this mean...?"
-#Narumi
+＃Narumi
 "It means we're trapped,"
 Narumi-san said simply.
-#Narumi
+＃Narumi
 "What on earth are they planning to do by locking us in here, honestly..."
 Narumi-san cursed and kicked the door, but it didn't budge an inch.
-#Protagonist
+＃Protagonist
 "The culprit did this, didn't they...?"
-#Narumi
+＃Narumi
 "Right? There’s no reason for anyone else to do something like this now."
 Narumi-san was reaching her arm through the gaps in the grate.
-#Narumi
+＃Narumi
 "...Aah, just a little more..."
-#Protagonist
+＃Protagonist
 "...You’re surprisingly calm."
 The thought suddenly occurred to me.
-#Narumi
+＃Narumi
 "...You think so?"
-#Protagonist
+＃Protagonist
 "Yeah... this is the kind of situation where you’d expect someone to panic a bit more."
-#Narumi
+＃Narumi
 "Well, even if you say that..."
 Narumi-san pulled her arm back from the grate.
-#Narumi
+＃Narumi
 "...Look, as long as we’re in here, our lives aren't in danger, right?"
-#Protagonist
+＃Protagonist
 "Are you sure...? If someone sets fire to this place, we’ll be in serious trouble."
-#Narumi
+＃Narumi
 "...You sure say some scary things so casually."
-#Protagonist
+＃Protagonist
 "It’s not an impossibility, after all."
 Even as I said it, I didn't think it would happen.
 Somehow... I didn't get the feeling the killer would do something like that.
-#Narumi
+＃Narumi
 "In any case, we need to find a way to escape."
-#Protagonist
+＃Protagonist
 "...Right."

@@ -1,58 +1,58 @@
 I’ve entered the Great Hall.
-#Ai
+＃Ai
 "Oh... good morning."
 It seems Ai-san had already arrived.
-#Protagonist
+＃Protagonist
 "Good morning, Ai-san."
-#Ai
+＃Ai
 "Would you like some tea?"
-#Protagonist
+＃Protagonist
 "Ah, yes, please."
-#Ai
+＃Ai
 "Please, have a seat."
 I settle onto the sofa as she suggested.
-#Ai
+＃Ai
 "Would you like yours straight or with milk?"
-#Protagonist
+＃Protagonist
 "Um... milk tea, please."
-#Ai
+＃Ai
 "Hehe... understood."
 With a soft smile, Ai-san brews the tea.
 A wonderful aroma begins to waft through the air.
-#Ai
+＃Ai
 "Here you go."
-#Protagonist
+＃Protagonist
 "Thank you."
 I wrap my hands around the warm cup.
-#Protagonist
+＃Protagonist
 "Say, Ai-san. Do you have a moment?"
-#Ai
+＃Ai
 "Yes, what is it?"
 I’ve entered the Great Hall.
-#Ai
+＃Ai
 "Oh, is something the matter?"
 Ai-san was enjoying some tea by herself.
-#Protagonist
+＃Protagonist
 "Hello, Ai-san. Do you have a moment right now?"
-#Ai
+＃Ai
 "Yes, what's on your mind?"
 When I entered the Great Hall, Takamine-san was there.
-#Protagonist
+＃Protagonist
 "Good morning."
-#Takamine
+＃Takamine
 "Hm? ...Oh, it's you. Morning."
 He seems as grumpy as ever.
-#Protagonist
+＃Protagonist
 "Um, do you have a second?"
-#Takamine
+＃Takamine
 "...What is it?"
 When I entered the Great Hall, Takamine-san was there.
-#Takamine
+＃Takamine
 "Hm? ...Oh, it's you."
 He seems as grumpy as ever.
-#Protagonist
+＃Protagonist
 "Um, do you have a second?"
-#Takamine
+＃Takamine
 "...What is it?"
 Souko-san had arrived in the Great Hall.
 She seems to be relaxing with Ai-san and Takamine-san.

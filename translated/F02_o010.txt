@@ -1,38 +1,38 @@
-#Souko
+＃Souko
 "...Now that you mention it, you were saying something like that in the middle of the night, too. So what was it in the end?"
-#Protagonist
+＃Protagonist
 "No, I still haven't figured anything out yet."
-#Souko
+＃Souko
 "Oh, I see."
-#Maya
+＃Maya
 "A noise...? This is quite an old house, so it may simply be creaking somewhere."
-#Protagonist
+＃Protagonist
 "That could be it."
-#Ai
+＃Ai
 "A noise in the middle of the night...? I’m sorry, I didn't hear a thing..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "You heard a noise in the middle of the night? Who has time to worry about every little sound?"
-#Protagonist
+＃Protagonist
 "I guess you're right..."
-#Tsujimura
+＃Tsujimura
 "Regarding last night? I was joking about it being a mountain spirit, but it is a very old building... even if the soundproofing is quite solid."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "A noise? No idea. I went straight to my room and fell asleep last night, so I didn't notice anything."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "A noise in the middle of the night, eh...? I didn't notice anything at all."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "A noise...? It was a blizzard last night, so the windows were rattling and groaning quite a bit."
-#Protagonist
+＃Protagonist
 "Right..."
-#Narumi
+＃Narumi
 "A noise in the middle of the night? Maybe it was a ghost?"
-#Protagonist
+＃Protagonist
 "...Well, it is the kind of building where one wouldn't be surprised if a ghost showed up."

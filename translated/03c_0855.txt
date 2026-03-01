@@ -1,68 +1,68 @@
 When I returned to the hall with Narumi-san, Benio-san and Souko-san were there.
-#Protagonist
+＃Protagonist
 "How was it...?"
-#Benio
+＃Benio
 "No good. I asked Mother and Shion too, but she's nowhere to be found."
 Benio-san shook her head.
-#Souko
+＃Souko
 "She might not even be inside the building..."
-#Protagonist
+＃Protagonist
 "But to go out in this snow..."
 I asked the opposite of what I’d told Tsujimura-san.
 I wanted Souko-san to solve that doubt.
-#Souko
+＃Souko
 "...Right. It's usually unthinkable, but... given the abnormal situation... I can't say the possibility is zero."
-#Protagonist
+＃Protagonist
 "No way... then we have to go out and search for her right now..."
-#Souko
+＃Souko
 "It's reckless. If she went out during the night, she's already far away. Besides, we can't risk a secondary accident."
-#Protagonist
+＃Protagonist
 "Then are you telling me to just give up!?"
-#Souko
+＃Souko
 "That's not it. ...Right now, we just have to believe."
-#Protagonist
+＃Protagonist
 "That might be true, but...!"
-#Benio
+＃Benio
 "Calm down, you idiot."
 Benio-san grabbed my arm.
-#Benio
+＃Benio
 "It hasn't been decided that she went outside yet."
-#Protagonist
+＃Protagonist
 "But... then why can't we find her no matter how much we search?"
-#Benio
+＃Benio
 "Either she's hiding of her own will—or she's being hidden by someone else's will."
-#Protagonist
+＃Protagonist
 "Being hidden...?"
-#Benio
+＃Benio
 "...The possibility that she's already been killed."
-#Souko
+＃Souko
 "...Right."
 Souko-san nodded at Benio-san's words.
-#Souko
+＃Souko
 "If she was caught by the killer... the possibility that she's still alive is extremely low."
-#Benio
+＃Benio
 "The question is why the killer targeted her..."
-#Souko
+＃Souko
 "Did she see something? For example, the killer's actions..."
-#Benio
+＃Benio
 "Hmm..."
-#Protagonist
+＃Protagonist
 "Um... is there no possibility that Akane-san is the killer?"
 I blurted it out before I could think.
-#Souko
+＃Souko
 "Akane-san? ...I wonder."
-#Benio
+＃Benio
 "I don't think she could pull off something so bold... what do you think?"
 With that, Benio-san directed the conversation to Narumi-san, who had been silent for a while.
-#Narumi
+＃Narumi
 "Even if you ask me what I think... well, she's not a bad girl, but..."
-#Souko
+＃Souko
 "...It seems we won't be able to reach a conclusion yet."
-#Benio
+＃Benio
 "I suppose so..."
 Souko-san and Benio-san nodded to each other.
-#Protagonist
+＃Protagonist
 "So all we can do is watch things play out...?"
-#Souko
+＃Souko
 "...That seems to be it."
 Souko-san nodded with a pained expression.

@@ -1,10 +1,10 @@
 Dr. Mikanagi and Souko-san returned.
-#Souko
+＃Souko
 "...Pull yourself together."
 Souko-san patted my shoulder.
-#Protagonist
+＃Protagonist
 "Souko-san..."
-#Souko
+＃Souko
 "We can't just leave Benio-san like this. We have to investigate quickly..."
-#Protagonist
+＃Protagonist
 "Yeah... I know..."

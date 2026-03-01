@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "...There's a high probability Rokuyou-san was killed at that time."
-#Protagonist
+＃Protagonist
 "...You're right."
-#Maya
+＃Maya
 "...Was Isamu-san killed around then...?"
-#Protagonist
+＃Protagonist
 "It's possible."
-#Benio
+＃Benio
 "...It was late at night. If Rokuyou was killed then, most people have no alibi..."
-#Protagonist
+＃Protagonist
 "That's true..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "...If I had taken your words to heart and checked properly at that time, we might not have fallen into such chaos..."
-#Protagonist
+＃Protagonist
 "That might be true, but..."
-#Takamine
+＃Takamine
 "...The walls here are thick. You wouldn't hear much across the corridor."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "...I expect yours was the only room where it could be heard. Isamu's room was directly below."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "To think that was the sound of a throat being cut..."
-#Protagonist
+＃Protagonist
 "Right..."

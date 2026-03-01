@@ -1,25 +1,25 @@
-#Benio
+＃Benio
 "—Hey."
 Benio-san suddenly called out to us, and we came to a stop.
-#Narumi
+＃Narumi
 "Lady Benio..."
-#Benio
+＃Benio
 "Everyone's on edge. Don't wander around the mansion too much."
-#Protagonist
+＃Protagonist
 "We were just investigating the cipher..."
-#Benio
+＃Benio
 "I know that, but stop for now. I can't relax with someone walking up and down the halls in the middle of the night."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "...I guess we have to give up for now."
-#Protagonist
+＃Protagonist
 "In that case... I'm going to go see Shion-san."
-#Narumi
+＃Narumi
 "Lady Shion? Did you think of something?"
-#Protagonist
+＃Protagonist
 "Just a little... I don't have any proof, though."
-#Narumi
+＃Narumi
 "...I see. Be careful."
-#Protagonist
+＃Protagonist
 "...Yeah."

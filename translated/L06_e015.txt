@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "I don't think it's anything special..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Isn't it just a piece of trash?"
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "It appears to be... garbage..."
-#Protagonist
+＃Protagonist
 "True..."
-#Takamine
+＃Takamine
 "Is there something wrong with that piece of trash?"
-#Protagonist
+＃Protagonist
 "No..."
-#Mikanagi
+＃Mikanagi
 "I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "It's just trash... right?"
-#Protagonist
+＃Protagonist
 "True..."
-#Narumi
+＃Narumi
 "Were you picking up trash?"
-#Protagonist
+＃Protagonist
 "It's not exactly like that, but..."

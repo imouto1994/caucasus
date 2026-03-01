@@ -1,96 +1,96 @@
-#Protagonist
+＃Protagonist
 "Dr. Mikanagi."
 Once we were back in the hall, I called out to Dr. Mikanagi.
-#Mikanagi
+＃Mikanagi
 "Yes?"
-#Protagonist
+＃Protagonist
 "I'd like to hear a bit more about what you mentioned during the ceremony."
 I just couldn't stop thinking about Shion-san.
-#Mikanagi
+＃Mikanagi
 "I see…… but not here. Come to my room later."
 Dr. Mikanagi said as he looked around.
 There were still other people in the hall.
-#Protagonist
+＃Protagonist
 "Alright, I'll see you then."
-#Mikanagi
+＃Mikanagi
 "Right."
 The doctor nodded and walked over toward Maya-san.
-#Souko
+＃Souko
 "Do you think he'll tell you anything?"
 Souko-san approached me in his place.
-#Protagonist
+＃Protagonist
 "I don't know how much detail he'll go into, though."
-#Souko
+＃Souko
 "Let's not get our hopes up too high. Sigh…… anyway, I'm so sleepy."
 Souko-san let out a yawn.
-#Protagonist
+＃Protagonist
 "It's already past 1:00 AM, after all."
-#Souko
+＃Souko
 "Let's get the info and get to bed quickly."
 With that, Souko-san headed up the stairs.
 I followed her into the second-floor hallway.
 Souko-san was standing in front of my room.
-#Souko
+＃Souko
 "Hey."
-#Protagonist
+＃Protagonist
 "What is it?"
-#Souko
+＃Souko
 "Don't you want to try getting into the room at the end?"
 Souko-san pointed to Kousei-shi's room at the far end of the hall.
-#Protagonist
+＃Protagonist
 "We can't do that. It's locked anyway, right?"
-#Souko
+＃Souko
 "Well, that's how it seemed, at least."
-#Protagonist
+＃Protagonist
 "You already tried it……?"
-#Mikanagi
+＃Mikanagi
 "Sorry to keep you waiting."
 Dr. Mikanagi arrived and unlocked the door to his room.
-#Mikanagi
+＃Mikanagi
 "Please, come in."
-#Protagonist
+＃Protagonist
 "Excuse us."
-#Mikanagi
+＃Mikanagi
 "I really shouldn't be talking about this as an outsider, but……"
-#Souko
+＃Souko
 "Whatever you're comfortable sharing is fine."
 I thought she was going to pester him for every little detail, but Souko-san nodded quite reasonably.
-#Protagonist
+＃Protagonist
 "What did you mean when you said Shion-san wasn't a true daughter?"
-#Mikanagi
+＃Mikanagi
 "Exactly what it sounds like. She's an adoptee."
-#Protagonist
+＃Protagonist
 "So it was true."
-#Mikanagi
+＃Mikanagi
 "Yes. And it seems Maya-san resents her for it. She isn't allowed to live in the mansion; she's kept all alone in that tower outside."
 Dr. Mikanagi turned around and looked out the window.
 Through the thinning snow, the tower was visible straight ahead.
 Of course, there were no lights on inside.
-#Mikanagi
+＃Mikanagi
 "So, they probably wanted to get her out of here as quickly as possible. And maybe Shion-san wanted that herself."
-#Mikanagi
+＃Mikanagi
 "That's why I was truly surprised when I heard Isamu was marrying Shion-san."
-#Souko
+＃Souko
 "Is that because of Ai-san?"
-#Mikanagi
+＃Mikanagi
 "That's part of it. But there's also no real benefit to marrying Shion-san."
-#Protagonist
+＃Protagonist
 "Because she's an adoptee of the Nanatsuki family?"
-#Souko
+＃Souko
 "I wonder if he took pity on her……"
-#Mikanagi
+＃Mikanagi
 "……Perhaps."
 The doctor gave a brief nod.
-#Souko
+＃Souko
 "What exactly was written in Kousei-shi's will?"
-#Mikanagi
+＃Mikanagi
 "……I'm an outsider, so I don't know the specifics. Takamine-san would be the one who knows."
-#Souko
+＃Souko
 "Hmm…… well, whatever."
 It seemed like Souko-san suspected Dr. Mikanagi might actually know what was in the will.
-#Souko
+＃Souko
 "Well, shall we head back? It's getting very late."
-#Protagonist
+＃Protagonist
 "Yeah. Dr. Mikanagi, thank you so much for your time."
-#Mikanagi
+＃Mikanagi
 "Of course. Good night."

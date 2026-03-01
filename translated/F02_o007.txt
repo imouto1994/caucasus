@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "A song...? I haven't heard anything, so I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see."
-#Maya
+＃Maya
 "A song...? It is likely Shion who is singing."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "That must be Shion singing. Her voice is truly beautiful."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Benio
+＃Benio
 "A song... Isn't it just Shion?"
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "That would likely be Lady Shion. She is often heard singing to herself."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "A song, eh...? Someone must be singing, then."
-#Protagonist
+＃Protagonist
 "Right."
-#Mikanagi
+＃Mikanagi
 "A song, you say... It’s probably Shion-san."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "A song...? It seems Lady Shion is often heard singing, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "The one singing all the time is probably Lady Shion. Though Lady Benio plays the piano as well."
-#Protagonist
+＃Protagonist
 "I see."

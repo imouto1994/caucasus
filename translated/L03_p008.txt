@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "Mikanagi-sensei, huh... Even if he were the killer, would he use such a convoluted method? He's a doctor; there should be plenty of other ways."
-#Protagonist
+＃Protagonist
 "...True."
-#Benio
+＃Benio
 "Hiroshi would have no reason to murder my sister. Inheritance has nothing to do with him."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "If it's Mikanagi-sensei, I believe he was in the infirmary..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Mikanagi-sensei was in the infirmary."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Mikanagi-sensei? He's usually in the infirmary."
-#Protagonist
+＃Protagonist
 "I see..."

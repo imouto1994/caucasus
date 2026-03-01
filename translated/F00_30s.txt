@@ -1,13 +1,13 @@
 I searched the area, but I couldn't find anything resembling a key.
 A bright red fire flickers within the hearth.
-#Protagonist
+＃Protagonist
 "Wait... this is impossible."
 It's far too hot to investigate.
-#Narumi
+＃Narumi
 "I don't think this is the fireplace the code meant, anyway..."
-#Protagonist
+＃Protagonist
 "If we can't find anything elsewhere, let's come back and check it again later."
-#Narumi
+＃Narumi
 "I think that's for the best."
 It's simply too hot to even attempt an investigation.
 There's a door on a different wall from the hallway side.

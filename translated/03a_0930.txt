@@ -6,75 +6,75 @@ I came to the northern part of the first floor because I had something I wanted 
 Now that Benio-san had been killed, it was becoming increasingly likely that it was a matter related to the inheritance.
 That’s why I desperately wanted to know the details of the will.
 I gave a light knock on Takamine-san's door.
-#Protagonist
+＃Protagonist
 "Takamine-san, are you there?"
 The door opened and Takamine-san peered out.
-#Takamine
+＃Takamine
 "It's you... what is it?"
-#Protagonist
+＃Protagonist
 "I’d like to talk to you for a moment..."
-#Takamine
+＃Takamine
 "...I see."
 Takamine-san nodded and opened the door wide.
-#Takamine
+＃Takamine
 "It’s about the will, isn't it?"
 Takamine-san spoke as soon as he closed the door.
-#Protagonist
+＃Protagonist
 "...You’re quick to catch on."
-#Takamine
+＃Takamine
 "I can't imagine you’d be coming to ask me about anything else at this point."
 Takamine-san let out a breath.
-#Takamine
+＃Takamine
 "...Now that Benio-kun has been killed, the destination of the inheritance has become limited."
-#Takamine
+＃Takamine
 "...How is Shion-kun doing?"
-#Protagonist
+＃Protagonist
 "I don't think her life is in danger."
-#Takamine
+＃Takamine
 "I see... that’s good, then..."
-#Protagonist
+＃Protagonist
 "...So, I’d like to ask for more details about the distribution of the inheritance..."
-#Takamine
+＃Takamine
 "As I said yesterday, the distribution is to be split equally among the three of them, excluding Shion-kun."
-#Protagonist
+＃Protagonist
 "Is there nothing else? For instance, some property that isn't publicly known..."
-#Takamine
+＃Takamine
 "Hidden assets... I haven't heard anything about that. Of course, there may be things that aren't disclosed to outsiders."
-#Protagonist
+＃Protagonist
 "But... you’re the Nanatsuki family’s legal counsel, Takamine-san. For you not to be told..."
-#Takamine
+＃Takamine
 "I simply took over from my father. Even my father likely didn't know everything about the Nanatsuki family."
-#Protagonist
+＃Protagonist
 "Is it... really that serious?"
-#Takamine
+＃Takamine
 "...Most of the rumors in the villages around here originate from the Nanatsuki family. It’s said that many of the successive heads of the family were eccentric."
-#Protagonist
+＃Protagonist
 "I wonder why that is..."
-#Takamine
+＃Takamine
 "Who knows. Mr. Kousei was said to be quite eccentric as well... Now that you mention it, there was a strange passage in the will."
 Takamine-san took several documents out of a shelf drawer.
-#Takamine
+＃Takamine
 "This is it."
 On the documents Takamine-san showed me, there was a strange string of characters.
-#Protagonist
+＃Protagonist
 "'1SO K H5 / 1SN KAMIN'... what is this?"
-#Takamine
+＃Takamine
 "If I knew, I wouldn't be telling you."
-#Protagonist
+＃Protagonist
 "T-True..."
-#Takamine
+＃Takamine
 "I believe it's a phrase that has some kind of meaning..."
-#Protagonist
+＃Protagonist
 "May I write this down?"
-#Takamine
+＃Takamine
 "...I’d appreciate it if you could look into it."
 With Takamine-san's permission, I copied the string of characters onto a piece of paper.
 I suppose it’s some kind of message from Mr. Kousei...
-#Protagonist
+＃Protagonist
 "Thank you very much. I'll see what I can find."
-#Takamine
+＃Takamine
 "...The person you really need to find right now is the culprit. Don't forget that."
 Takamine-san warned me.
-#Protagonist
+＃Protagonist
 "Yeah... I know. Well then, excuse me."
 I bowed and left Takamine-san's room.

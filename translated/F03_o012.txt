@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "...At the very least, the culprit has no intention of letting anyone escape from here."
-#Protagonist
+＃Protagonist
 "...It seems that way."
-#Maya
+＃Maya
 "Even the suspension bridge... Now we can't even call for help..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Benio
+＃Benio
 "...Unintentionally, it turned out exactly as I told you all yesterday. We're isolated and without aid, but we have supplies for a few days, so it shouldn't be a problem."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "The suspension bridge... Who would do such a thing...?"
-#Protagonist
+＃Protagonist
 "I expect it was the culprit..."
-#Tsujimura
+＃Tsujimura
 "This is a predicament... Since there's no way we can repair the bridge ourselves..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "...The culprit likely intends to increase the number of victims. Otherwise, there'd be no point in taking out the bridge."
-#Protagonist
+＃Protagonist
 "...That might be true."
-#Mikanagi
+＃Mikanagi
 "Without the bridge, you won't be able to go home... Though after an incident like this, you might not be able to leave even if the police arrive."
-#Protagonist
+＃Protagonist
 "Right..."
-#Narumi
+＃Narumi
 "Even without the bridge, we have plenty of food, so we'll be fine. ...Though Kirihara-san will have to give up on her cola."
-#Protagonist
+＃Protagonist
 "I see... I'll let her know."

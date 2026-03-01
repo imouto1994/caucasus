@@ -1,94 +1,94 @@
 I carried Benio-san to the clinic and returned immediately to the performance room.
 We had work to do here.
-#Souko
+＃Souko
 "Well then, let's investigate as much as we can."
-#Protagonist
+＃Protagonist
 "Right... I'd like to find the weapon if possible..."
 A quick scan of the room revealed nothing obvious.
 There was nothing lying around where Benio-san had fallen either.
-#Protagonist
+＃Protagonist
 "Ah—that's right."
 There was the thing Benio-san had handed me earlier.
 I pulled it out of my pants pocket.
-#Protagonist
+＃Protagonist
 "A piece of paper—?"
-#Souko
+＃Souko
 "Did you find something?"
 Souko-san peered at my hand.
-#Protagonist
+＃Protagonist
 "Yeah... Benio-san handed this to me earlier... it looks like a memo."
 I smoothed out the slightly wrinkled paper.
-#Protagonist
+＃Protagonist
 "This is—"
-#Souko
+＃Souko
 "...It's the same as the notepad sitting by the telephone."
 The same as the memo found in Ai-san's room—?
-#Protagonist
+＃Protagonist
 "It only says... 'Performance Room'."
 There was nothing else, even on the back.
-#Souko
+＃Souko
 "That's some hard-to-read handwriting..."
-#Protagonist
+＃Protagonist
 "...It looks like the culprit wrote it that way on purpose so their handwriting couldn't be identified."
-#Souko
+＃Souko
 "Benio-san saw this and was lured here...?"
-#Protagonist
+＃Protagonist
 "Asking her directly would be the best way to know, but... it was incredibly careless of her."
 Even though I'd told her to be careful.
 If she had consulted me for even a second—
-#Souko
+＃Souko
 "...There's no use regretting what's already done."
 Souko-san placed a hand on my shoulder.
-#Souko
+＃Souko
 "Also, about the weapon you mentioned earlier—"
 Souko-san pulled out an empty cola bottle wrapped in a handkerchief and held it out.
-#Protagonist
+＃Protagonist
 "Eh... that's...?"
-#Souko
+＃Souko
 "I found it in the instrument room. I didn't leave it in a place like that, so this is likely... the weapon."
-#Protagonist
+＃Protagonist
 "Wait, but—when was this bottle..."
 Then, I remembered.
-#Protagonist
+＃Protagonist
 "Souko-san, you were throwing away empty bottles this morning."
-#Souko
+＃Souko
 "Yes... Narumi-san said she'd leave them in the kitchen... but then that explosion happened."
-#Protagonist
+＃Protagonist
 "And they took it then...?"
-#Souko
+＃Souko
 "That's one possibility. They might have taken it directly from my room, too."
-#Protagonist
+＃Protagonist
 "...Can we get fingerprints?"
-#Souko
+＃Souko
 "That's why I brought it without touching it directly, but... it might have been a waste of time."
-#Protagonist
+＃Protagonist
 "Why?"
-#Souko
+＃Souko
 "Because my fingerprints will be on it. I'm the only one drinking cola, so that's a given."
-#Protagonist
+＃Protagonist
 "Are they on there?"
 I carefully examined the surface of the bottle.
 I looked at it under the light, changing the angle, but I couldn't see any fingerprint smudges.
-#Protagonist
+＃Protagonist
 "...They might have been wiped off."
-#Souko
+＃Souko
 "If that's the case, it's definitely the weapon."
-#Protagonist
+＃Protagonist
 "I suppose so..."
 No one wipes a bottle clean just to leave it lying around.
-#Protagonist
+＃Protagonist
 "So that means the culprit fled into the instrument room."
-#Souko
+＃Souko
 "Most likely. And then they slipped out through the corridor door before we could investigate."
-#Protagonist
+＃Protagonist
 "Was there time for that...?"
 From the moment I saw Benio-san fallen and entered this room, the front door had been open.
 Akane-san came, then Souko-san, then Dr. Mikanagi...
 Souko-san came, then Dr. Mikanagi...
 If someone had been acting suspicious, we should have noticed...
-#Souko
+＃Souko
 "...Let's ask everyone if they saw anyone acting strange around that time."
-#Protagonist
+＃Protagonist
 "Right..."
 Vaguely thinking about it here wasn't going to help.
 We should gather everyone and start questioning.

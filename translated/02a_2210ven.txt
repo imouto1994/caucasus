@@ -1,156 +1,156 @@
 I arrived at Benio-san's room.
 I knocked lightly on the door.
-#Benio
+＃Benio
 "...Who is it?"
-#Protagonist
+＃Protagonist
 "It's me."
 The door opened.
-#Benio
+＃Benio
 "What is it?"
-#Protagonist
+＃Protagonist
 "...Benio-san, is it alright if I stay in this room tonight?"
-#Benio
+＃Benio
 "...Begone, you fool."
-#Protagonist
+＃Protagonist
 "W-Wait! I don't mean anything strange by it at all!"
 I desperately tried to hold the door open as Benio-san tried to close it.
-#Benio
+＃Benio
 "...Then why?"
-#Protagonist
+＃Protagonist
 "I... I want to protect you, Benio-san."
-#Benio
+＃Benio
 "Wha... d-don't say such ridiculous things."
 Benio-san turned her face away.
-#Benio
+＃Benio
 "W-Well... if you insist that much, I suppose I could consider it."
-#Benio
+＃Benio
 "Why did you come to my place?"
-#Protagonist
+＃Protagonist
 "I think you're the one most likely to be targeted next, Benio-san. So I thought maybe if I was by your side, I could protect you..."
-#Benio
+＃Benio
 "Targeted... me? To eliminate a nuisance, you mean."
-#Protagonist
+＃Protagonist
 "I don't know what the culprit's intentions are. But... I don't want any more sacrifices."
-#Benio
+＃Benio
 "Hmm..."
-#Protagonist
+＃Protagonist
 "I might not be reliable, but even so... I'll prove that I can be useful."
-#Benio
+＃Benio
 "...Alright. Then I'll count on you."
-#Protagonist
+＃Protagonist
 "Leave it to me."
 I bowed to Benio-san and made a move to step out into the hallway.
-#Benio
+＃Benio
 "Hmm...? Where do you think you're going?"
-#Protagonist
+＃Protagonist
 "Eh... well, the hallway, of course. We can't exactly be in the same room, can we?"
-#Benio
+＃Benio
 "Ah... no, that might be true, but... it'll be cold in the hallway, won't it?"
-#Protagonist
+＃Protagonist
 "That's true too. Then I'll go and grab a blanket."
-#Benio
+＃Benio
 "...There's no need for that, you can just stay in the room, can't you?"
-#Protagonist
+＃Protagonist
 "But that's—"
-#Benio
+＃Benio
 "It's fine. ...I couldn't bear it if you caught a cold."
 Benio-san pulled on my arm and closed the door.
-#Protagonist
+＃Protagonist
 "W-Well then... I'll stay here."
 I leaned my back against the door and sat down on the floor.
-#Benio
+＃Benio
 "You didn't have to go that far..."
 Benio-san let out a breath, hands on her hips.
-#Benio
+＃Benio
 "You're quite stubborn, aren't you."
 Benio-san pulled a blanket off the bed and tossed it over to me.
-#Benio
+＃Benio
 "Tell me if you're cold. I'll get another one."
-#Protagonist
+＃Protagonist
 "No, I'm fine. Thank you."
-#Benio
+＃Benio
 "Hmph..."
 I wrapped myself in the blanket.
 At least if I'm here, nobody will be coming in from the outside.
 Besides, I'll also be able to tell what's going on in the hallway out front, if only a little.
 If something happens to Maya-san, I'll be able to notice.
 If something happens to Ai-san or Maya-san, I'll be able to notice.
-#Benio
+＃Benio
 "...Hey."
-#Protagonist
+＃Protagonist
 "Yes?"
-#Benio
+＃Benio
 "Don't people often tell you that you're a fool?"
-#Protagonist
+＃Protagonist
 "That's not true at all."
 I retorted a bit heatedly.
-#Protagonist
+＃Protagonist
 "Don't people often tell you that you're strange, Benio-san?"
-#Benio
+＃Benio
 "I've never been told that."
 She pufffed out her chest and lied straight to my face.
-#Protagonist
+＃Protagonist
 "Jeez... but you have all sorts of strange things in this room, don't you."
-#Benio
+＃Benio
 "What do you mean, 'strange'? How rude."
 Benio-san pulled a book from the bookshelf.
-#Benio
+＃Benio
 "This is a book recording the secret arts of the Kabbalah left behind by Agrippa. I studied German and Hebrew solely to read this, you know."
-#Protagonist
+＃Protagonist
 "I see..."
 I don't really get it.
-#Benio
+＃Benio
 "Thanks to that, my understanding of tarot has deepened considerably; shall I tell your fortune?"
-#Protagonist
+＃Protagonist
 "Is it accurate?"
-#Benio
+＃Benio
 "Of course it is. Who do you think I am?"
 ...I wonder where this confidence comes from.
 I wanted her to guess who the culprit in this case was, but I felt hesitant to ask.
 It'd be a disaster if she named the wrong person as the culprit.
 Besides... it seemed as though Benio-san was deliberately trying to steer the conversation away from the case right now.
 She must be anxious after all.
-#Benio
+＃Benio
 "Well then, shall I tell your fortune in love? Mind you, don't complain even if it comes out as hopeless."
 Benio-san began happily shuffling the cards.
 Wait, I didn't ask for that...
-#Protagonist
+＃Protagonist
 "...You're cute."
-#Benio
+＃Benio
 "Pfft—!?"
 Benio-san choked at my casual remark.
 The cards scattered across the bed.
-#Benio
+＃Benio
 "Wh-What are you saying, you bastard!?"
-#Protagonist
+＃Protagonist
 "No, it just felt... heartwarming, somehow."
-#Benio
+＃Benio
 "...Don't tease your elders, you fool."
-#Protagonist
+＃Protagonist
 "Weren't we the same age?"
-#Benio
+＃Benio
 "I am much more mature mentally."
 The way she gets all heated like that is what's heartwarming... I thought, but I didn't say it out loud.
 It wouldn't be strange if a fist came flying my way soon.
-#Benio
+＃Benio
 "...You really are a fool."
 Benio-san said that and showed me one of the scattered cards.
 It had 'THE FOOL' written on it.
-#Protagonist
+＃Protagonist
 "Haha... I guess so."
-#Benio
+＃Benio
 "He's a fool, but on the other hand, it can also be read as an unconventional genius. I look forward to seeing which one you become."
 Benio-san chuckled.
-#Benio
+＃Benio
 "Well... shall we get some sleep soon?"
-#Protagonist
+＃Protagonist
 "You're right."
 I re-wrapped myself in the blanket she’d given me.
-#Benio
+＃Benio
 "Well then, good night."
 The light went out.
 I heard the sound of Benio-san getting into bed.
-#Benio
+＃Benio
 "Phew..."
 After she let out a long breath, everything grew quiet.
 Still, the blizzard outside occasionally shook the window.

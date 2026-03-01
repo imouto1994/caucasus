@@ -1,55 +1,55 @@
 I grabbed Souko-san's bags along with my own and stepped into the hallway.
-#Akane
+＃Akane
 "Um... shall I help you with your luggage?"
-#Souko
+＃Souko
 "It's fine, we can manage this much."
 I wasn't sure why Souko-san was the one answering for us.
 Well, I'd been the pack mule for our entire mountain trek anyway, so I guess it was fine.
-#Akane
+＃Akane
 "Let's see... Kirihara-sama's room is in the east wing of the second floor. May I show her there first?"
-#Souko
+＃Souko
 "Yes, please."
 We climbed the stairs and headed to the east wing.
 Akane-san opened the first door on the right.
-#Akane
+＃Akane
 "This will be your room, Kirihara-sama. Please, make yourself at home."
-#Souko
+＃Souko
 "Yes, thank you. See you later."
 Souko-san took her bags from me and closed the door.
-#Akane
+＃Akane
 "Please follow me this way next. Your room is in the north wing."
 We reached the north wing, and Akane-san opened the door on the front left.
-#Akane
+＃Akane
 "After you."
-#Protagonist
+＃Protagonist
 "Excuse me."
 Stepping inside, I found myself momentarily speechless.
 I knew it would be spacious.
 I knew it would look expensive.
 But actually seeing it for myself, I realized just how easily a person can be left in a daze.
-#Akane
+＃Akane
 "Please feel free to use anything in the room. The bath is here, and towels are provided here as well... is something wrong?"
-#Protagonist
+＃Protagonist
 "Ah, no... I was just thinking that I've ended up in an incredible place."
-#Akane
+＃Akane
 "Fufu... I felt the same way when I first started working here. Even now, I still get so nervous whenever I have to carry the dishes."
-#Protagonist
+＃Protagonist
 "Y-yeah, I can imagine."
-#Akane
+＃Akane
 "Dinner will be served at eight, so please come down to the grand dining hall on the first floor when it's time."
-#Protagonist
+＃Protagonist
 "Understood."
-#Akane
+＃Akane
 "Then, if you'll excuse me."
 With a bow, Akane-san left the room.
-#Protagonist
+＃Protagonist
 "Phew..."
 I let out a long breath and looked up at the ceiling.
 It was obscenely high.
 In the apartment near campus where I lived, I could touch the ceiling without even standing on my tiptoes.
 The bed was also ridiculously large.
 My entire room back home could probably fit right on top of it.
-#Protagonist
+＃Protagonist
 "I'm never going to be able to relax here..."
 The sheets were so perfectly smooth and taut that I felt hesitant to even sit down and wrinkle them.
 I almost considered just sitting in a corner and hugging my knees instead.
@@ -60,30 +60,30 @@ Every now and then, it would let out a sharp pop.
 It was nice and warm, but I wondered what I was supposed to do with it when it was time to sleep.
 I'd have to ask later.
 I stood up and turned around.
-#Protagonist
+＃Protagonist
 "Ah, right."
 I pulled a notebook out of my bag.
 There was hardly anything written in it yet, but it might come in handy, so I'd better keep it on me.
 For now, I started jotting down notes about the people staying here at the Shichitsuki mansion.
-#Protagonist
+＃Protagonist
 "There, that should do it."
 I set my pencil down and caught a glimpse of the window.
 I couldn't see anything outside.
 I walked over to the glass and pressed my finger against it.
 The blizzard was still raging.
 My fingertip grew colder by the second.
-#Protagonist
+＃Protagonist
 "Hm...?"
 In the midst of the black-and-white landscape outside, I thought I saw something.
 I pressed my forehead against the glass and squinted into the dark.
-#Protagonist
+＃Protagonist
 "A light...?"
 Something was flickering not too far away.
 It was to the right of the window—the northwest direction.
 The building was shaped like a cross, and the private wing where Benio-san and her family stayed was to the southwest of this room, so it was definitely strange to see a light in the opposite direction.
 Was there something out there?
 The wind died down for just a moment.
-#Protagonist
+＃Protagonist
 "A tower...?"
 A tall, slender building emerged faintly from the darkness.
 Illuminated by the fallen snow, it gave off an indescribably eerie vibe.
@@ -95,93 +95,93 @@ The wind picked up again, and the swirling snow hid the view outside once more.
 I moved away from the window and collapsed onto the bed.
 It was soft and warm.
 Without even worrying about the wrinkles I was making in the sheets, I closed my eyes.
-#???
+＃???
 "...Hey, wake up. It's time... hurry..."
 ...I could hear a gentle voice.
 Yeah, I must be dreaming.
 I knew I had to get up soon, but the warmth of the blankets was just too comfortable.
 My body was exhausted, and even moving my eyelids felt like a monumental effort.
-#Protagonist
+＃Protagonist
 "Mmn... five more minutes..."
-#???
+＃???
 "Wake up, you idiot!"
-#Protagonist
+＃Protagonist
 "Ow! Hey, don't hit me in the head..."
-#Souko
+＃Souko
 "It's your own fault for not waking up."
 Souko-san was looming over me, looking very pleased with herself.
 Her right pinky finger was wrapped in a bandage.
 It looked like Mikanagi-sensei had treated it for her.
-#Protagonist
+＃Protagonist
 "I can't help it, I'm tired."
 I sat up and grumbled.
-#Souko
+＃Souko
 "They told us dinner was at eight in the dining hall, didn't they?"
-#Protagonist
+＃Protagonist
 "Still, I think there are better ways to wake someone up."
 I rubbed the spot where she'd hit me.
-#Souko
+＃Souko
 "And how was I supposed to wake you up?"
-#Protagonist
+＃Protagonist
 "Well, like you were doing at first—waking me up gently."
-#Souko
+＃Souko
 "Heeh... I see."
 A wicked grin spread across Souko-san's face.
-#Protagonist
+＃Protagonist
 "Wait, Sou... Souko-san?"
-#Souko
+＃Souko
 "...If that's what you want... then I'll be happy to oblige... Da-r-ling?"
 A chill ran down my spine.
-#Souko
+＃Souko
 "Darling, it's time to wake up~. If you don't get up right now, I'm going to pounce on you~!"
-#Protagonist
+＃Protagonist
 "Wait, Souko-san!? Why are you crawling into bed with me!?"
 I frantically held the blankets down from the outside.
-#Souko
+＃Souko
 "Oh come on~. You'd better get up fast, or else~!"
-#Protagonist
+＃Protagonist
 "Okay, okay! I'm getting up! I'm up!"
 I practically scrambled out of bed to get away from her.
-#Protagonist
+＃Protagonist
 "See? I'm awake!"
-#Souko
+＃Souko
 "What's with that? Are you really so unhappy about me pouncing on you?"
 Souko-san puffed out her cheeks in a pout.
 [I'm not unhappy]
 [I am unhappy]
 [Please calm down]
-#Protagonist
+＃Protagonist
 "No, it's not that I'm unhappy, it's just... look, we don't have much time, do we?"
-#Souko
+＃Souko
 "Well, I guess you're right."
 She still looked a little dissatisfied.
-#Souko
+＃Souko
 "Stop messing around and let's go. It's almost time."
 Souko-san grabbed my arm and started dragging me toward the hall.
-#Protagonist
+＃Protagonist
 "Honestly, I am unhappy."
 ...She punched me with everything she had.
-#Souko
+＃Souko
 "Stop being an idiot and let's go. We're out of time."
 Souko-san dragged me out of the room by my arm.
-#Protagonist
+＃Protagonist
 "Please, calm down, Souko-san."
-#Souko
+＃Souko
 "...When you try to change the subject like that, it makes me feel like the idiot."
-#Protagonist
+＃Protagonist
 "It's time, right? Come on, let's go."
 I took the hand of the still-pouting Souko-san and led her out of the room.
-#Souko
+＃Souko
 "Oh, could you hold this for me?"
 Once we were in the hallway, Souko-san handed me a bottle of cola.
-#Protagonist
+＃Protagonist
 "Why are you bringing this with you?"
-#Souko
+＃Souko
 "Because I'll want something to drink during dinner too."
-#Protagonist
+＃Protagonist
 "...I don't think a sweet drink really goes with dinner, though."
-#Souko
+＃Souko
 "That's not true at all. I'd even be fine with ochazuke—no, colazuke."
-#Protagonist
+＃Protagonist
 "...That would be incredibly embarrassing, so please, whatever you do, don't."
 ...I'd better make sure I guard that cola with my life until after the meal.

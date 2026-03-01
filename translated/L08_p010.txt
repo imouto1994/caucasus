@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "She's been on the first floor ever since you all came out of the basement... so it seems unlikely, doesn't it?"
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "I wouldn't know; I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "...I don't know. My room is in the annex, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "...I heard you were locked in the basement, if I recall?"
-#Protagonist
+＃Protagonist
 "Yes... that's right."
-#Takamine
+＃Takamine
 "I wouldn't know anything about what happens outside my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "It seems she was on the first floor the whole time after you got out of the basement..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I went back to my room after you returned. I thought it was best not to move around too much right now..."
-#Protagonist
+＃Protagonist
 "I see..."

@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Mikanagi-sensei, huh... If he were the killer, that cause of death he just gave might be total bullshit. If that's the case... we won't know anything for sure."
-#Protagonist
+＃Protagonist
 "...True."
-#Maya
+＃Maya
 "If it's Mikanagi-sensei, he came to my room immediately after the blackout. He stayed for about ten minutes before heading back to the infirmary..."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Hiroshi would have no reason to murder my sister. Inheritance has nothing to do with him."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "As for Mikanagi-sensei... I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "If it's Mikanagi-sensei, I believe he was in the infirmary..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "When the first blackout happened, I went to check on Maya-san first. After that, I went back to the infirmary to stand by. You never know what might happen, after all."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Mikanagi-sensei was in the infirmary."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Mikanagi-sensei? He was in the infirmary."
-#Protagonist
+＃Protagonist
 "I see..."

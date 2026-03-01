@@ -1,24 +1,24 @@
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Takamine, huh... He doesn't have an alibi... but he doesn't have a clear motive either. We'd need a reason for him to kill her—or a reason to kill Rokuyou."
-#Protagonist
+＃Protagonist
 "True..."
-#Tsujimura
+＃Tsujimura
 "I believe he was in his room... but I have not confirmed it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I was in my room the whole time. Though, I don't suppose anyone can prove it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "That man is shady, isn't he? Still, it's not like we can just suspect him blindly."
-#Protagonist
+＃Protagonist
 "True..."

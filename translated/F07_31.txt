@@ -1,71 +1,71 @@
-#Protagonist
+＃Protagonist
 "Excuse me."
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 I wonder if he's somewhere else.
 In that case, there's no point in staying here...
 What should I do?
-#Protagonist
+＃Protagonist
 "Excuse me."
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 Instead, Benio-san was lying in bed.
 I quietly approach her to see how she's doing.
-#Benio
+＃Benio
 "Nnn..."
 She seems to be asleep.
 I was worried, but it looks like she's okay.
 I decided to leave the infirmary so as not to disturb her.
-#Protagonist
+＃Protagonist
 "Hello, Mikanagi-sensei."
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-#Mikanagi
+＃Mikanagi
 "Ah, what is it?"
-#Protagonist
+＃Protagonist
 "Um... could I have a moment of your time?"
-#Mikanagi
+＃Mikanagi
 "I don't mind."
 Now then, what should I do?
-#Protagonist
+＃Protagonist
 "Excuse me."
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-#Mikanagi
+＃Mikanagi
 "Oh, what is it this time?"
-#Protagonist
+＃Protagonist
 "Could I have a moment of your time?"
-#Mikanagi
+＃Mikanagi
 "Yes, go ahead."
 Now then, what should I do?
-#Protagonist
+＃Protagonist
 "Excuse me."
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-#Mikanagi
+＃Mikanagi
 "What is it?"
-#Protagonist
+＃Protagonist
 "Where is Benio-san...?"
-#Mikanagi
+＃Mikanagi
 "She's sleeping over there."
 Mikanagi-sensei pointed toward the bed.
 Benio-san seems to be asleep.
-#Protagonist
+＃Protagonist
 "Is she going to be all right...?"
-#Mikanagi
+＃Mikanagi
 "There's no need to worry. It doesn't seem like she was hit with that much force."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Didn't you have some business with me?"
-#Protagonist
+＃Protagonist
 "Ah, no! I shouldn't bother Benio-san while she's resting, so I'll be going now."
-#Mikanagi
+＃Mikanagi
 "I see. Well, talk to you later."
 I bowed to Mikanagi-sensei and left the infirmary.
 When I peeked into the infirmary, Mikanagi-sensei was still there.
-#Mikanagi
+＃Mikanagi
 "Oh...?"
 Mikanagi-sensei noticed me and looked up.
-#Protagonist
+＃Protagonist
 "Um... around when do you think Benio-san will wake up?"
-#Mikanagi
+＃Mikanagi
 "She's just sleeping normally right now, so I think she'll wake up soon."
-#Protagonist
+＃Protagonist
 "I see. Well, talk to you later."
 I bowed and left the infirmary.

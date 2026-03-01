@@ -1,19 +1,19 @@
 I’ve come to the first-floor restroom.
 No one is here.
 What should I do...?
-#Akane
+＃Akane
 "Eh... where on earth do you think you're going!?"
-#Protagonist
+＃Protagonist
 "Where? To the restroom..."
-#Akane
+＃Akane
 "...Fine, I'll wait here, so please hurry up."
-#Protagonist
+＃Protagonist
 "Y-Yes..."
 I went into the restroom, but of course, no one was there.
 Naturally, Ai-san wasn't there either.
 I finished my business, washed my hands, and left the restroom.
-#Protagonist
+＃Protagonist
 "Sorry to keep you waiting."
-#Akane
+＃Akane
 "...Well then, let's go search elsewhere."
 I followed Akane-san and headed for another location.

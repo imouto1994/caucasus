@@ -1,7 +1,7 @@
 Narumi-san stops in front of the infirmary.
-#Narumi
+＃Narumi
 "...Mikanagi-sensei is in there."
-#Protagonist
+＃Protagonist
 "...In that case, it doesn't look like we'll be able to investigate..."
-#Narumi
+＃Narumi
 "Let's move on to another area."

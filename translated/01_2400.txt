@@ -1,28 +1,28 @@
 A bell was ringing somewhere.
 When I reached the first-floor hallway, Souko-san and Benio-san were there.
-#Souko
+＃Souko
 "Were you sleeping?"
-#Protagonist
+＃Protagonist
 "Just for a bit."
 I replied while rubbing my eyes.
-#Souko
+＃Souko
 "Do they always ring a bell at midnight?"
-#Benio
+＃Benio
 "Today is a special occasion. Normally, it only rings at noon."
-#Souko
+＃Souko
 "Well, there are no other houses nearby, so I suppose it won't bother anyone."
-#Benio
+＃Benio
 "We don't ring it late at night because people are sleeping."
-#Protagonist
+＃Protagonist
 "It would be pretty loud, after all."
-#Benio
+＃Benio
 "Well then, shall we go? Everyone else is already gathered."
 With that, Benio-san opened the door ahead.
 The space beyond was unlike anything else in the mansion.
 It was a chapel so grand and solemn that it made me wonder if it was really necessary for a private residence.
-#Souko
+＃Souko
 "Let's sit toward the back."
-#Protagonist
+＃Protagonist
 "Good idea."
 We're just outsiders, so we'd better stay quiet.
 Benio-san seemed to take a seat near the front.
@@ -35,16 +35,16 @@ In fact—it felt more like a funeral was about to begin.
 I'd never felt anything like this when I attended weddings for my relatives.
 I wonder why... perhaps it's because no one looks happy.
 I'm sure that's not the case, but still—
-#Takamine
+＃Takamine
 "—Then, let us begin."
 Takamine-san's voice echoed through the silent chapel.
-#Takamine
+＃Takamine
 "Entrance of the groom."
 The back door opened.
 Rokuyou-san entered.
 He walked down the central aisle with his chest held high.
 He stopped in front of Takamine-san, turned around, and gave us a bow.
-#Takamine
+＃Takamine
 "Next—entrance of the bride."
 At those words, I turned around and stared at the entrance.
 Akane-san and Narumi-san opened the doors.
@@ -52,58 +52,58 @@ A young girl dressed in a wedding gown stood there.
 So she is—Shion Nanatsuki.
 She looked incredibly small.
 She walked forward slowly, her head bowed.
-#Takamine
+＃Takamine
 "This way."
 Following Takamine-san's guidance, Shion-san came to a halt.
-#Takamine
+＃Takamine
 "Now then, the ceremony shall commence. All rise."
 Following the others' lead, we stood up and bowed our heads.
-#Takamine
+＃Takamine
 "Groom, Isamu Rokuyou. Bride, Shion Nanatsuki. We are gathered here to perform the rite of contract to formalize the union of these two."
 Takamine-san read from the document in his hand.
-#Takamine
+＃Takamine
 "Do you, the groom and the bride, promise to love, honor, and cherish each other, in sickness and in health, and to be faithful to each other for as long as you both shall live?"
-#Rokuyou
+＃Rokuyou
 "I do."
 Rokuyou-san nodded.
-#Takamine
+＃Takamine
 "And the bride?"
-#Shion
+＃Shion
 "……I do."
 I could faintly hear her say it in a tiny, fragile voice.
 She seemed to have no energy.
-#Takamine
+＃Takamine
 "……Then, please sign the marriage certificate."
 Takamine-san placed a piece of paper on the podium.
 Rokuyou-san took a fountain pen and began to sign his name.
-#Protagonist
+＃Protagonist
 "……Is this a Christian ceremony?"
 I whispered softly to Souko-san next to me.
-#Souko
+＃Souko
 "I imagine so. They wouldn't have a Shinto wedding in a place like this."
-#Protagonist
+＃Protagonist
 "Even so……"
 I lowered my voice even further.
-#Protagonist
+＃Protagonist
 "Shion-san…… was it? She doesn't seem very excited about getting married……"
-#Souko
+＃Souko
 "……She definitely has a gloomy look on her face."
-#Protagonist
+＃Protagonist
 "Doesn't she……"
-#Mikanagi
+＃Mikanagi
 "……She has a weak constitution, you see."
 Dr. Mikanagi, who was sitting in front of us, turned around.
-#Mikanagi
+＃Mikanagi
 "Well, she isn't a true daughter of the Nanatsuki family, so this might just be a convenient way to get rid of a nuisance."
-#Protagonist
+＃Protagonist
 "Eh……?"
 Not a true daughter……?
-#Mikanagi
+＃Mikanagi
 "……That's enough chatter for now. Maya-san is glaring at us."
 I looked up to see Maya-san, who was sitting near the front, staring right at us.
 Since she was such a beauty, her gaze was actually quite terrifying.
 I bowed my head and looked away.
-#Takamine
+＃Takamine
 "—Next, the exchange of rings."
 The ceremony seemed to be proceeding without a hitch.
 Rokuyou-san and Shion-san faced each other and exchanged rings.
@@ -117,70 +117,70 @@ I don't want to pry into other people's family business, but still.
 I stole a glance at Souko-san.
 I bet she's going to want to look into this…… saying it might be related to the 'Curse of the Seven' or something.
 And I'll probably be the one who ends up doing the investigating.
-#Takamine
+＃Takamine
 "—With this, today's ceremony is concluded."
 It looked like the wedding was over.
 But the air felt strangely heavy.
 It was clearly different from any other wedding.
 That was the feeling I had now.
-#Protagonist
+＃Protagonist
 "……Was a normal wedding supposed to feel like this?"
-#Souko
+＃Souko
 "Well, it is a bit unusual. For one thing, the lawyer is acting as the officiant, not a priest or a minister."
-#Protagonist
+＃Protagonist
 "……Marriage is a type of contract, after all, so I guess having a lawyer as a witness is fine too."
-#Souko
+＃Souko
 "Ah, that's true. ……But it certainly lacks any romantic flair."
-#Mikanagi
+＃Mikanagi
 "The ritual isn't over yet."
 Dr. Mikanagi turned around once more.
-#Protagonist
+＃Protagonist
 "Eh? But he said it was concluded……"
-#Mikanagi
+＃Mikanagi
 "For today, that is. There's one more thing to be done between now and morning. Though it's the first time I'll be seeing it myself."
-#Souko
+＃Souko
 "Is it a custom unique to the Nanatsuki family?"
-#Mikanagi
+＃Mikanagi
 "I imagine so. I've never heard of it anywhere else. Look—see that long, narrow box behind Takamine-san?"
 I looked where he was pointing.
 There was indeed something that looked like a pedestal.
 I wouldn't have realized it was a box if he hadn't said anything.
-#Souko
+＃Souko
 "A coffin……?"
-#Mikanagi
+＃Mikanagi
 "Yes. A person is going inside it, so perhaps 'casket' would be a better word. The bride will spend the entire night inside it."
-#Protagonist
+＃Protagonist
 "Why would they do such a thing……?"
-#Mikanagi
+＃Mikanagi
 "Who knows. Apparently, if the bride and groom can face each other the next morning without any trouble, then the marriage is successfully established."
-#Souko
+＃Souko
 "I'm sure there's some old tradition behind it…… but I don't really get it."
-#Mikanagi
+＃Mikanagi
 "None of us do. I'm sure they're just continuing it out of habit."
 Well, I suppose the original meaning behind most traditions has been lost over time.
-#Takamine
+＃Takamine
 "—Now then, the bride shall enter the casket."
-#Shion
+＃Shion
 "……Yes."
 Shion-san gave a small nod and stepped into the casket, the lid of which had been opened.
-#Rokuyou
+＃Rokuyou
 "I'll see you tomorrow morning, then."
 Rokuyou-san spoke to Shion-san inside the casket and closed the lid.
 Then he struck the lid with a wooden mallet.
-#Mikanagi
+＃Mikanagi
 "In the old days, they apparently used real nails to seal it. Nowadays, they just lock the chapel doors."
-#Souko
+＃Souko
 "Well, it would be a problem if there was an emergency."
-#Takamine
+＃Takamine
 "—Now then, everyone, please leave the room."
 Following Takamine-san's voice, we all stood up.
 We stepped out through the doors held open by Akane-san and Narumi-san.
 Finally, Takamine-san and Rokuyou-san came out and the doors were closed.
-#Takamine
+＃Takamine
 "Tsujimura-san, the key, please."
-#Tsujimura
+＃Tsujimura
 "Yes, of course."
 Tsujimura-san walked over to the doors and inserted a key into the lock.
-#Takamine
+＃Takamine
 "Now then, we shall gather here again at eight tomorrow morning."
 Takamine-san made the announcement, and the wedding ceremony came to an end.

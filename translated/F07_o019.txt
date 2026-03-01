@@ -1,36 +1,36 @@
-#Maya
+＃Maya
 "Oh dear... You mustn't enter rooms without permission."
-#Protagonist
+＃Protagonist
 "Y-You're right... I'm sorry."
-#Ai
+＃Ai
 "A wig...? I don't know much about Mother's things."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Mother's wig, huh... I don't know anything about it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "Right, of course..."
-#Tsujimura
+＃Tsujimura
 "Sigh... Regarding the Mistress's belongings, it would be better to ask the Mistress herself..."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Takamine
+＃Takamine
 "I can't really tell."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "That is... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

@@ -1,63 +1,63 @@
 I wonder how much time has passed.
 Reacting to the sound of someone descending the stairs in a hurry, I looked out through the grated window.
-#Protagonist
+＃Protagonist
 "Tsujimura-san...?"
-#Tsujimura
+＃Tsujimura
 "So this is where you were..."
-#Narumi
+＃Narumi
 "Did something happen?"
-#Tsujimura
+＃Tsujimura
 "W-Well... Benio-ojousama is..."
-#Protagonist
+＃Protagonist
 "Benio-san...? Did something happen to her...?"
 I gripped the grate tight.
-#Tsujimura
+＃Tsujimura
 "In... in the performance room..."
 Tsujimura-san removed the bar that had been stuck.
 I burst out immediately.
-#Tsujimura
+＃Tsujimura
 "Ah...!"
-#Protagonist
+＃Protagonist
 "Sorry!"
 After confirming that Narumi-san was supporting the staggering Tsujimura-san, I dashed up the stairs.
 The performance room.
 Benio-san is in the performance room—
 I wonder how long I’d been scraping away at the wall.
 Suddenly, a hole gaped open with a dull thud.
-#Protagonist
+＃Protagonist
 "It opened...?"
 I can see the room on the other side.
 It appears to be the machine room.
-#Narumi
+＃Narumi
 "Make the hole wider."
-#Protagonist
+＃Protagonist
 "I-I know."
 My energy returned now that an exit was in sight.
 I continued to frantically crumble the wall.
-#Narumi
+＃Narumi
 "Whew... we managed to get out."
-#Protagonist
+＃Protagonist
 "Yeah..."
 I stood up and stretched.
 We managed to get out, but...
 Suddenly the door opened, and Tsujimura-san appeared.
-#Protagonist
+＃Protagonist
 "Tsujimura-san...?"
-#Tsujimura
+＃Tsujimura
 "So this is where you were..."
-#Narumi
+＃Narumi
 "Did something happen?"
-#Tsujimura
+＃Tsujimura
 "W-Well... Benio-ojousama is..."
-#Protagonist
+＃Protagonist
 "Benio-san...? Did something happen to her...?"
 I asked with enough force to almost grab Tsujimura-san by the collar.
-#Tsujimura
+＃Tsujimura
 "In... in the performance room..."
 I burst out immediately.
-#Tsujimura
+＃Tsujimura
 "Ah...!"
-#Protagonist
+＃Protagonist
 "Sorry!"
 After confirming that Narumi-san was supporting the staggering Tsujimura-san, I dashed up the stairs.
 The performance room.

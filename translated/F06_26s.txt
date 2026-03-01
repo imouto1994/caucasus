@@ -26,7 +26,7 @@ It looks like musical reference material.
 Inside the desk drawer, there was some blank staff paper.
 A small piece of wood is placed on top as a paperweight.
 What is this...? It looks like a fragment of marquetry.
-#Protagonist
+＃Protagonist
 "...I suppose I'll hold onto it for now."
 Unused staff paper is stored here.
 It looks like a portrait.

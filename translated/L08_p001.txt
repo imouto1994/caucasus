@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "After confirming everyone was safe, I did as you said and returned to my room."
-#Protagonist
+＃Protagonist
 "I see."
-#Maya
+＃Maya
 "I wouldn't know; I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "...I don't know. My room is in the annex, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Before two o'clock, was it? She came to the office just as Lady Benio was leaving. She mentioned she was going to check if everyone was safe..."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "It was exactly two o'clock. She came to my room and said she was confirming everyone's safety."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "I caught a glimpse of her coming out of her room when I went to fetch Mikanagi-sensei..."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "I haven't seen her since past two... Wasn't she in her room?"
-#Protagonist
+＃Protagonist
 "I see."

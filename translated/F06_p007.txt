@@ -1,28 +1,28 @@
-#Souko
+＃Souko
 "Takamine-san is another one where you never know what he's thinking..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "Attorney Takamine can be a bit rough with his language, but he's not a bad person."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I hear Takamine-san used to come here since he was a child, brought along by his father."
-#Protagonist
+＃Protagonist
 "Was that so?"
-#Benio
+＃Benio
 "Takamine is difficult. He likely can't settle down in a situation like this."
-#Protagonist
+＃Protagonist
 "Is that so?"
-#Tsujimura
+＃Tsujimura
 "Takamine-sama is a serious person... He's someone who isn't afraid to have a differing opinion."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "What about me?"
-#Protagonist
+＃Protagonist
 "No, it's nothing..."
-#Mikanagi
+＃Mikanagi
 "Takamine-san is headstrong. Perhaps that's why he's suited to being an attorney."
-#Protagonist
+＃Protagonist
 "I see..."

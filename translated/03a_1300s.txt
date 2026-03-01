@@ -1,42 +1,42 @@
 There was a short piece of wood lying in the storage area.
-#Protagonist
+＃Protagonist
 "Couldn't we use this for something?"
-#Narumi
+＃Narumi
 "Isn't it a bit short?"
-#Protagonist
+＃Protagonist
 "Can even your arms not reach, Narumi-san?"
-#Narumi
+＃Narumi
 "I wonder... let me see it."
 Narumi-san took the piece of wood and reached her arm through the grate.
-#Narumi
+＃Narumi
 "Nnh... nn-ugh... it’s no good. I can't move it unless I can hook it onto something."
-#Protagonist
+＃Protagonist
 "I see..."
 No choice, then. I'll look for something else.
 It seems this stick alone won't be enough to move the bar.
 A piece of rope about a meter long came out of a box.
 I wonder if this could be used for something...
-#Protagonist
+＃Protagonist
 "Narumi-san, the thing blocking the door is a rod, right?"
-#Narumi
+＃Narumi
 "That’s what it looked like to me."
-#Protagonist
+＃Protagonist
 "Could we hook it with this rope?"
-#Narumi
+＃Narumi
 "I wonder... let me see it."
 Narumi-san took the rope and put her arm through the grate.
-#Narumi
+＃Narumi
 "Nnh... nope, it’s no good. It won't hook onto it."
-#Protagonist
+＃Protagonist
 "I guess it’s not going to be like fishing..."
 No choice, I'll look for something else.
 I should look for other potentially useful items.
 The large quantity of raw vegetables we gathered.
-#Protagonist
+＃Protagonist
 "...Could we use these for something?"
-#Narumi
+＃Narumi
 "They’ll fill our stomachs, and that’s about it."
-#Protagonist
+＃Protagonist
 "I guess so..."
 Sigh... I'll look for something else.
 Vegetables aren't going to be much help, after all.
@@ -49,20 +49,20 @@ It's too short to reach whatever is blocking the door, but it looks like it coul
 I should probably keep it just in case.
 There’s nothing else useful left in the cupboards.
 A box full of nails came out of the shelf where miscellaneous goods were stored.
-#Protagonist
+＃Protagonist
 "Could we use these nails?"
-#Narumi
+＃Narumi
 "Nails by themselves are useless."
-#Protagonist
+＃Protagonist
 "I feel like they could be used for something, though..."
 No choice, I'll take them and keep looking for something else.
 Nails alone aren't going to help.
 A box full of nails came out of the shelf where miscellaneous goods were stored.
-#Protagonist
+＃Protagonist
 "Could we use these nails?"
-#Narumi
+＃Narumi
 "Nails by themselves are useless."
-#Protagonist
+＃Protagonist
 "I feel like they could be used for something, though..."
 No choice, I'll take them and keep looking for something else.
 Nails alone aren't going to help.
@@ -71,23 +71,23 @@ I'll look elsewhere.
 There doesn't seem to be anything useful in here.
 I found a small spoon in a drawer.
 It was so tarnished I couldn't tell how long it had been left there, but it appeared to be silverware.
-#Protagonist
+＃Protagonist
 "Narumi-san, can we use this for something?"
-#Narumi
+＃Narumi
 "A spoon? It’s nowhere near long enough."
-#Protagonist
+＃Protagonist
 "I see..."
 I'll see if there's anything else.
 There doesn't seem to be anything useful in here.
 A plain wooden wall.
 When I touched it, there seemed to be quite a gap.
-#Protagonist
+＃Protagonist
 "Narumi-san... maybe we can break through here."
-#Narumi
+＃Narumi
 "Break through...? Isn't the wall sturdy?"
 Narumi-san peered at where my hand was.
-#Protagonist
+＃Protagonist
 "No... look, there's a gap here. If we peel off the wood, I think we’ll find dirt or some other fragile material..."
-#Narumi
+＃Narumi
 "...Worst comes to worst, we’ll have to make a hole here."
 It looks like we could break through... but I have no idea how long it would take...

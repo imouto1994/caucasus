@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "I wonder why Rokuyou-san had to be killed... That's the one thing I can't stop thinking about."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Maya
+＃Maya
 "...Why would someone like Isamu-san be murdered...?"
-#Protagonist
+＃Protagonist
 "You're right..."
-#Ai
+＃Ai
 "Isamu-san... why...?"
-#Protagonist
+＃Protagonist
 "Ai-san..."
-#Benio
+＃Benio
 "...I have my doubts about whether Rokuyou truly loved Shion. I never once saw them acting affectionately toward each other."
-#Protagonist
+＃Protagonist
 "Is that how it was...?"
-#Shion
+＃Shion
 "What on earth could have happened...?"
-#Protagonist
+＃Protagonist
 "...I'm currently in the middle of investigating that."
-#Tsujimura
+＃Tsujimura
 "We have placed Rokuyou-sama's remains in his room. We can't simply bury him without authorization, after all..."
-#Protagonist
+＃Protagonist
 "That's true..."
-#Takamine
+＃Takamine
 "It seems Rokuyou-kun was killed during the night... but there were no sounds of a struggle. It might be because the rooms are well soundproofed..."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Mikanagi
+＃Mikanagi
 "I never imagined Isamu would end up like this..."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Akane
+＃Akane
 "To think that Rokuyou-sama would pass away..."
-#Protagonist
+＃Protagonist
 "Akane-san..."
-#Narumi
+＃Narumi
 "...I thought it was strange when he didn't show his face this morning, but I never dreamed he'd been murdered..."
-#Protagonist
+＃Protagonist
 "You're right..."

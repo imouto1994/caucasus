@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Akane-san? She seems like a diligent, good girl."
-#Protagonist
+＃Protagonist
 "She does."
-#Maya
+＃Maya
 "Akane works very hard. She's very attentive to even the smallest details."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "Akane-san? She's a very hard worker."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "Akane? She works hard. Though she can be a bit of a scatterbrain at times."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Hiyama-san? She handles her duties properly, and I have no particular issues with her..."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "Hiyama-kun... I think she works remarkably hard for someone who came all the way out to these mountains."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "Akane-san? Perhaps she's just shy, but we haven't spoken much."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "E-eh, about me!? There's—there's nothing worth talking about!?"
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... Ah, don't tell anyone I said that, okay?"
-#Protagonist
+＃Protagonist
 "Right..."

@@ -27,7 +27,7 @@ It looks like musical reference material.
 Inside the desk drawer, I found some blank staff paper.
 A small wood fragment is being used as a paperweight.
 What is this...? It looks like a piece of parquetry.
-#Protagonist
+＃Protagonist
 "...I suppose I'll hang onto this for now."
 Unused staff paper is stored here.
 It looks like a portrait.

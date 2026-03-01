@@ -1,11 +1,11 @@
 Akane-san went to call people, and Souko-san, Dr. Mikanagi, and Tsujimura-san arrived.
-#Mikanagi
+＃Mikanagi
 "I'm sorry, but..."
 Dr. Mikanagi, who had checked Ai-san's pulse, shook his head.
-#Souko
+＃Souko
 "...What happened?"
 Souko-san asked.
-#Protagonist
+＃Protagonist
 "............"
 Unable to answer, I looked down.
 I couldn't save her.
@@ -13,32 +13,32 @@ She was right in front of me, but I couldn't save her.
 I'm filled with a regret I can't express.
 If only I had made a more sound judgment.
 If I had, Ai-san would still be alive.
-#Souko
+＃Souko
 "...Akane-san, could you tell me what happened?"
-#Akane
+＃Akane
 "Y-Yes..."
 Akane-san was talking to Souko-san.
 Even though Akane-san must be hurting too, she was answering bravely.
-#Souko
+＃Souko
 "I see... it must have been tough."
 Souko-san was comforting Akane-san.
-#Souko
+＃Souko
 "...We're going to investigate."
 Souko-san spoke to me.
-#Protagonist
+＃Protagonist
 "Eh...?"
-#Souko
+＃Souko
 "Don't 'Eh' me. We have to find the culprit somehow... otherwise the number of victims will only increase."
-#Protagonist
+＃Protagonist
 "How could this..."
-#Souko
+＃Souko
 "Don't just daze off, pull yourself together."
-#Protagonist
+＃Protagonist
 "...Yes."
 Rallied by Souko-san, I stood up.
 Right beside me was Ai-san's body.
 I offered a silent prayer for a moment, then turned back to Souko-san.
-#Protagonist
+＃Protagonist
 "...Let's investigate."
-#Souko
+＃Souko
 "Yes."

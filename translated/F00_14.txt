@@ -1,8 +1,8 @@
 I’ve come to the room Rokuyou-san was using.
 There's a fireplace here too, but...
-#Narumi
+＃Narumi
 "...Let's not."
-#Protagonist
+＃Protagonist
 "...Right."
 We'll only check here if we've searched everywhere else and found nothing.
 I didn't want to disturb his sleep.

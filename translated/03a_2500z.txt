@@ -1,27 +1,27 @@
-#Benio
+＃Benio
 "—What do you think you're doing?"
 Benio-san's voice came from behind us.
-#Narumi
+＃Narumi
 "B-Benio-ojousama..."
-#Benio
+＃Benio
 "...I believe the doctor told you not to do anything reckless?"
-#Protagonist
+＃Protagonist
 "Um... we haven't done anything reckless yet..."
-#Benio
+＃Benio
 "Don't make excuses, you idiot."
-#Protagonist
+＃Protagonist
 "I'm sorry..."
 We couldn't exactly break the piano, so I decided it was best to stop.
 I really thought we were close to finding something...
-#Narumi
+＃Narumi
 "...We'll just have to give up on this for now."
-#Protagonist
+＃Protagonist
 "Then... I'm going to go check on Shion-san."
-#Narumi
+＃Narumi
 "Shion-ojousama? Did you think of something?"
-#Protagonist
+＃Protagonist
 "Just a little... I don't have any proof, though."
-#Narumi
+＃Narumi
 "...I see. Be careful."
-#Protagonist
+＃Protagonist
 "...Right."

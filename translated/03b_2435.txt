@@ -1,32 +1,32 @@
 The first to arrive was Souko-san.
-#Souko
+＃Souko
 "Just what on earth happened...?"
-#Protagonist
+＃Protagonist
 "Dr. Mikanagi is..."
 I felt that the current situation, where you could know what happened just from that, was incredibly abnormal.
-#Souko
+＃Souko
 "Again...?"
 Souko-san peered into the room and was left speechless.
-#Protagonist
+＃Protagonist
 "...I was talking to Dr. Mikanagi just a short while ago. But... in just ten minutes or so..."
-#Souko
+＃Souko
 "...Did anyone go in or out?"
 Souko-san asked, pointing to the bloodstains on the floor.
-#Protagonist
+＃Protagonist
 "Shion-san was... the first to discover him. She was covered in blood... she's at the clinic now."
-#Souko
+＃Souko
 "...I see."
 Tsujimura-san and the others came running.
-#Tsujimura
+＃Tsujimura
 "U-Um, Dr. Mikanagi is..."
-#Protagonist
+＃Protagonist
 "Yes..."
-#Tsujimura
+＃Tsujimura
 "Oh... how can this be..."
-#Souko
+＃Souko
 "Tsujimura-san, Shion-san is in the clinic. Her clothes are also soiled, so..."
-#Tsujimura
+＃Tsujimura
 "Y-Yes..."
 Tsujimura-san trudged into the clinic.
-#Souko
+＃Souko
 "...Let's investigate the room. Although... there's no one left who can perform an autopsy."

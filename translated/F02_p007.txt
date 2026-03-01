@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Takamine-san? He’s quite a stern man, isn't he? He doesn't look like a lawyer... then again, he didn't look like a priest, either."
-#Protagonist
+＃Protagonist
 "Yeah."
-#Maya
+＃Maya
 "Attorney Takamine's father was also the legal advisor for the Nanatsuki family. He is very dedicated to his work."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I’ve heard Takamine-san has been coming here since he was a small child, brought along by his father."
-#Protagonist
+＃Protagonist
 "Is that so?"
-#Benio
+＃Benio
 "Takamine? I hear he’s been coming in and out of this place since before I was even born."
-#Protagonist
+＃Protagonist
 "Is that so?"
-#Tsujimura
+＃Tsujimura
 "We intend to have Attorney Takamine manage the Master's estate and other matters as well."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "...I have nothing to say to you."
-#Protagonist
+＃Protagonist
 "Y-you're right..."
-#Mikanagi
+＃Mikanagi
 "About Takamine-san? It seems his father was involved with this house as well, just like mine."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "Attorney Takamine...? I believe he’s likely in his room or the Great Hall..."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Takamine-san? ...He has a scary face, doesn't he? To think that man is a lawyer... you really can't judge people."
-#Protagonist
+＃Protagonist
 "Y-you're right..."

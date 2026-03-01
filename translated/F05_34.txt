@@ -3,7 +3,7 @@ It's incredibly cold.
 Maybe coming out in light clothing was a mistake after all.
 The area around the tower door had been thoroughly cleared of snow.
 But...
-#Protagonist
+＃Protagonist
 "...It's locked."
 I can't tell if anyone is inside from out here.
 It can't be helped; I'll head back.

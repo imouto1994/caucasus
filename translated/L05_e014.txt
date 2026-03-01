@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "There's no doubt that was used to sever Ai-san's neck..."
-#Protagonist
+＃Protagonist
 "True..."
-#Benio
+＃Benio
 "That axe... looked similar to the one found near Rokuyou."
-#Protagonist
+＃Protagonist
 "True..."
-#Tsujimura
+＃Tsujimura
 "That... was the item found in Master Rokuyou's room. I had returned it to the storage shed... I wonder if that was a mistake..."
-#Protagonist
+＃Protagonist
 "Is that what happened...?"
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

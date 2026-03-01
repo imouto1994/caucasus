@@ -1,28 +1,28 @@
-#Souko
+＃Souko
 "I noticed you were missing and looked for you for a while. To think you were in the basement all that time..."
-#Protagonist
+＃Protagonist
 "...True."
-#Maya
+＃Maya
 "I wouldn't know; I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "...I don't know. My room is in the annex, after all..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "...I was in the office, but around 1:30, Mistress Kirihara visited, saying you were nowhere to be found."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know anything about what happens outside my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "How could I possibly know? I was right there with you."
-#Protagonist
+＃Protagonist
 "True..."

@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "Ai-san's cause of death was asphyxiation due to neck compression. Mikanagi-sensei mentioned that blunt-force contusions are visible on the back of her head..."
-#Protagonist
+＃Protagonist
 "True..."
-#Benio
+＃Benio
 "I wonder if my sister suffered as she died... If she had lost consciousness first, perhaps it was a little easier for her..."
-#Protagonist
+＃Protagonist
 "True..."
-#Tsujimura
+＃Tsujimura
 "Lady Ai... How tragic..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Takamine
+＃Takamine
 "To think even Ai-kun would be killed... Just what on earth is happening here?"
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Akane
+＃Akane
 "Lady Ai... Why did it come to this...?"
-#Protagonist
+＃Protagonist
 "True..."
-#Narumi
+＃Narumi
 "...The fact that Lady Ai was murdered might mean that no one is safe... except for the killer."
-#Protagonist
+＃Protagonist
 "Maybe so..."

@@ -1,24 +1,24 @@
 I've arrived at the office, but it looks like Tsujimura-san isn't here.
 What should I do...
-#Tsujimura
+＃Tsujimura
 "Oh... it's you."
 Tsujimura-san was in the office.
-#Protagonist
+＃Protagonist
 "Tsujimura-san... has anything unusual happened?"
-#Tsujimura
+＃Tsujimura
 "No... nothing in particular..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Regarding the matter with Mistress Kirihara's room, I can't really say..."
-#Protagonist
+＃Protagonist
 "...I haven't found any clues myself yet."
-#Tsujimura
+＃Tsujimura
 "...Was there anything else?"
-#Protagonist
+＃Protagonist
 "Uh, well..."
-#Tsujimura
+＃Tsujimura
 "Oh, what is it this time?"
 Tsujimura-san was still in the office.
-#Protagonist
+＃Protagonist
 "Uh, well..."

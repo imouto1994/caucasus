@@ -1,24 +1,24 @@
-#Protagonist
+＃Protagonist
 "Hello, Mikanagi-sensei."
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-#Mikanagi
+＃Mikanagi
 "Ah, what is it?"
-#Protagonist
+＃Protagonist
 "Um... could I have a moment of your time?"
-#Mikanagi
+＃Mikanagi
 "I don't mind."
 Now then, what should I do?
-#Protagonist
+＃Protagonist
 "Excuse me."
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-#Mikanagi
+＃Mikanagi
 "Oh, what is it this time?"
-#Protagonist
+＃Protagonist
 "Could I have a moment of your time?"
-#Mikanagi
+＃Mikanagi
 "Yes, go ahead."
 Now then, what should I do?
-#Protagonist
+＃Protagonist
 "Excuse me."
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 I wonder if he's back in his room.

@@ -1,18 +1,18 @@
 We returned to the Great Hall.
-#Souko
+＃Souko
 "...There aren't many people here."
 It didn't look like everyone in the mansion had gathered.
-#Akane
+＃Akane
 "The Madam and Ai-ojousama are in the infirmary. Dr. Mikanagi is with them as well..."
-#Protagonist
+＃Protagonist
 "What about Shion-san?"
-#Tsujimura
+＃Tsujimura
 "Shion-ojousama is in her own room."
-#Souko
+＃Souko
 "...I see."
 Souko-san looked a bit dissatisfied.
-#Takamine
+＃Takamine
 "It hardly matters, does it? Just get on with it."
 Takamine-san spoke up, making no effort to hide his foul mood.
-#Souko
+＃Souko
 "...I suppose we have no choice. Alright, we're going to ask you about a few things that have been bothering us."

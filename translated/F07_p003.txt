@@ -1,70 +1,70 @@
-#Souko
+＃Souko
 "...She seems quite distressed, doesn't she?"
-#Protagonist
+＃Protagonist
 "...Yeah."
-#Souko
+＃Souko
 "If Ai-san being targeted is related to the inheritance, those left behind would be the most suspicious... but I don't think it's quite that simple."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "I'm glad Ai survived, but... why must this happen..."
-#Protagonist
+＃Protagonist
 "I don't know..."
-#Maya
+＃Maya
 "Why Ai, too...? Are you saying that child did something wrong...?"
-#Protagonist
+＃Protagonist
 "Maya-san..."
-#Ai
+＃Ai
 "...It feels like I can't shake this exhaustion... It's strange, isn't it? I should be in my own home..."
-#Protagonist
+＃Protagonist
 "Ai-san..."
-#Shion
+＃Shion
 "...I'm truly glad that Lady Ai is safe."
-#Protagonist
+＃Protagonist
 "Me too..."
-#Shion
+＃Shion
 "Why would someone do this to Lady Ai...?"
-#Protagonist
+＃Protagonist
 "Shion-san..."
-#Tsujimura
+＃Tsujimura
 "Lady Ai seems to be quite worn down. It's only natural after what happened, but..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Tsujimura
+＃Tsujimura
 "...Why did someone try to kill Lady Ai...?"
-#Protagonist
+＃Protagonist
 "I don't know..."
-#Takamine
+＃Takamine
 "...At any rate, I'm glad Ai-kun didn't lose her life."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Takamine
+＃Takamine
 "...So even Ai-kun was murdered..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Mikanagi
+＃Mikanagi
 "Ai-san should be back in her room. Given what happened yesterday, she ought to keep resting for now."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "What could the killer be aiming for...? What's to be gained by killing Isamu and Ai-san...?"
-#Protagonist
+＃Protagonist
 "And Benio-san as well..."
-#Protagonist
+＃Protagonist
 "True..."
-#Akane
+＃Akane
 "I believe Lady Ai is in her room, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "To think even Lady Ai would be murdered... what on earth is happening...?"
-#Protagonist
+＃Protagonist
 "I don't know..."
-#Narumi
+＃Narumi
 "Lady Ai hasn't been herself since yesterday... though I guess that's to be expected."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Narumi
+＃Narumi
 "The reason Lady Ai died, huh... only the killer knows that."
-#Protagonist
+＃Protagonist
 "True..."

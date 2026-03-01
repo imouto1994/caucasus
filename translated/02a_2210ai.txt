@@ -1,35 +1,35 @@
 I arrived in front of Ai-san's room.
-#Protagonist
+＃Protagonist
 "Ai-san, it's me."
 The door opened, and Ai-san emerged.
-#Ai
+＃Ai
 "Oh... did something happen?"
-#Protagonist
+＃Protagonist
 "Umm... it hasn't been confirmed that you're safe yet, so I thought I'd try to protect you somehow."
-#Ai
+＃Ai
 "Eh...?"
-#Protagonist
+＃Protagonist
 "Um... I'll stay in this room tonight to protect you."
-#Ai
+＃Ai
 "That's... um, I'm happy you'd offer, but..."
 Ai-san seems troubled.
-#Ai
+＃Ai
 "Well... Mother is right next door, and so is Benio..."
-#Protagonist
+＃Protagonist
 "No, no! I didn't come here with any illicit intentions!"
 I waved my hands in front of me to deny it.
-#Protagonist
+＃Protagonist
 "I just wanted to protect you, Ai-san..."
-#Ai
+＃Ai
 "I... thank you very much for that. But... well, spending the night in the same room is a bit..."
-#Protagonist
+＃Protagonist
 "Then I could stay in the hallway—"
-#Ai
+＃Ai
 "No. You'll catch a cold. I'll stay in my room with the door locked, so please get some rest in your own room too."
-#Protagonist
+＃Protagonist
 "I see... but please make sure not to let your guard down."
-#Ai
+＃Ai
 "Yes, I know. Thank you."
-#Protagonist
+＃Protagonist
 "...Phew."
 It can't be helped; I'll head back to my room and rest.

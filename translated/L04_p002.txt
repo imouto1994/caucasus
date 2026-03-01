@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "The possibility of Maya-san being the killer... I doubt it. ...Unless there was a will stating that the entire estate would be inherited by Ai-san, that is."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Mother would have no reason to kill my sister, would she? The inheritance doesn't concern her anyway."
-#Protagonist
+＃Protagonist
 "...I see."
-#Tsujimura
+＃Tsujimura
 "The Mistress? She should have been in her room the entire time..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "The Mistress has been resting in her room this whole time... the mental strain seems ceaseless."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "If it's the Mistress, I think she was in her room the whole time... but the possibility of her killing Lady Ai... well, I can't say it's zero, considering the distribution of the inheritance and all."
-#Protagonist
+＃Protagonist
 "...I see."

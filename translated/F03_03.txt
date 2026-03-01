@@ -2,91 +2,91 @@ I’ve made my way to the grand hall.
 ...But it seems no one is here.
 What should I do...?
 I’ve made my way to the grand hall.
-#Shion
+＃Shion
 "Ah..."
 Shion-san was there.
-#Protagonist
+＃Protagonist
 "Shion-san... It’s dangerous to be here all by yourself..."
-#Shion
+＃Shion
 "I'm sorry..."
 Shion-san looks down.
-#Protagonist
+＃Protagonist
 "Um, Shion-san. Do you have a moment?"
-#Shion
+＃Shion
 "Um... that is, I'm sorry, I..."
 Shion-san stood up.
-#Shion
+＃Shion
 "...Please excuse me."
 Shion-san bowed her head and hurried out of the room.
 ...It seems she dislikes me.
-#Protagonist
+＃Protagonist
 "...I guess it can't be helped."
 With slumped shoulders, I left the grand hall behind.
-#Shion
+＃Shion
 "What is it...?"
 I’ve made my way to the grand hall.
-#Shion
+＃Shion
 "Ah... is something the matter?"
-#Protagonist
+＃Protagonist
 "Hello, Shion-san. Do you have a moment?"
-#Shion
+＃Shion
 "Um... that is, I'm sorry, I..."
 Shion-san stood up.
-#Shion
+＃Shion
 "...Please excuse me."
 Shion-san bowed her head and hurried out of the room.
 ...It seems she dislikes me.
-#Protagonist
+＃Protagonist
 "...I guess it can't be helped."
 With slumped shoulders, I left the grand hall behind.
-#Shion
+＃Shion
 "Yes, what can I do for you?"
 I’ve made my way to the grand hall.
-#Akane
+＃Akane
 "Lady Ai doesn't seem to be here either..."
-#Protagonist
+＃Protagonist
 "You're right..."
 I wonder where on earth she could have gone.
-#Protagonist
+＃Protagonist
 "...Let's look somewhere else."
-#Akane
+＃Akane
 "Yes..."
 I’ve made my way to the grand hall.
-#Shion
+＃Shion
 "Ah..."
 Shion-san was there.
-#Protagonist
+＃Protagonist
 "Shion-san... It’s dangerous for you to be here alone."
-#Akane
+＃Akane
 "He's right, milady. There's no telling what might happen."
-#Shion
+＃Shion
 "I'm sorry..."
 Shion-san looks down.
-#Protagonist
+＃Protagonist
 "Have you seen Ai-san?"
-#Shion
+＃Shion
 "Sister Ai...?"
-#Akane
+＃Akane
 "Yes... she isn't in her room."
-#Shion
+＃Shion
 "I... don't know..."
 Shion-san shakes her head.
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Let's try looking somewhere else."
 We parted ways with Shion-san and decided to search another location.
 Shion-san was in the grand hall.
-#Shion
+＃Shion
 "Ah..."
-#Protagonist
+＃Protagonist
 "Shion-san, it seems you haven't... seen Ai-san around, have you?"
-#Shion
+＃Shion
 "...I'm sorry."
-#Protagonist
+＃Protagonist
 "No, it's not something you need to apologize for, Shion-san."
-#Akane
+＃Akane
 "Let's look elsewhere."
-#Protagonist
+＃Protagonist
 "Right..."
 We parted ways with Shion-san and decided to search another location.

@@ -1,61 +1,61 @@
 When I came down the stairs, I heard loud voices coming from the dining room.
-#Protagonist
+＃Protagonist
 "Sounds like it's over there."
-#Souko
+＃Souko
 "I wonder what happened..."
 As soon as we stepped into the eastern corridor, the smell of burning hit my nose.
-#Souko
+＃Souko
 "What... is this?"
 Souko-san muttered, covering her mouth.
-#Protagonist
+＃Protagonist
 "Narumi-san, what happened?"
 I called out to Narumi-san, who was in front of the kitchen.
-#Narumi
+＃Narumi
 "It seems... something suddenly exploded in the kitchen... and Akane..."
-#Protagonist
+＃Protagonist
 "Akane-san!?"
 I hurriedly peered into the kitchen.
-#Protagonist
+＃Protagonist
 "Ugh..."
 The inside of the kitchen was a total mess.
 Scorched marks were everywhere, and large shelves and cooking tables had been knocked over.
-#Souko
+＃Souko
 "This smell... was it a gas explosion...?"
 Souko-san muttered as she saw the scene.
-#Protagonist
+＃Protagonist
 "More importantly, where is Akane-san!?"
-#Narumi
+＃Narumi
 "Calm down. She wouldn't be okay if she were in here, would she?"
-#Protagonist
+＃Protagonist
 "Eh... is she safe...?"
-#Narumi
+＃Narumi
 "Tsujimura-san is looking at her in her room now. It seems like just minor burns and she hit her head."
-#Protagonist
+＃Protagonist
 "I... I see..."
 Thank goodness...
 If she had been caught in an explosion like this, she wouldn't have escaped unharmed.
-#Souko
+＃Souko
 "Do you know what happened?"
 Souko-san asked Narumi-san.
-#Narumi
+＃Narumi
 "I just ran here when I heard the explosion, so I don't know much, but it seems it happened when she tried to open the kitchen door."
-#Narumi
+＃Narumi
 "Akane was lying in the corridor, and the door was mangled."
 Narumi-san pointed to the kitchen door.
-#Souko
+＃Souko
 "So she wasn't directly caught in the explosion?"
-#Narumi
+＃Narumi
 "Yeah, most likely."
 The sound of footsteps running down the corridor approached.
-#Mikanagi
+＃Mikanagi
 "What happened!? Ugh..."
 Dr. Mikanagi frowned as he entered the kitchen.
-#Narumi
+＃Narumi
 "Doctor, Akane's been hurt. Please go to her room."
-#Mikanagi
+＃Mikanagi
 "A-Ah, right..."
 Dr. Mikanagi left.
-#Protagonist
+＃Protagonist
 "I'll go check on her too."
-#Souko
+＃Souko
 "Right. I'll stay here and look around a bit."

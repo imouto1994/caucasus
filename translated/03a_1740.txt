@@ -1,151 +1,151 @@
 I heard the sound of a bell from inside the room.
-#Protagonist
+＃Protagonist
 "Eh... Love?"
 The black cat had slipped into the room before I knew it.
 It was scratching at the door.
-#Protagonist
+＃Protagonist
 "Do you want to go out?"
 I wasn't sure, but that seemed to be it.
 When I opened the door, the black cat went straight into the clinic.
 I see... because Benio-san is still sleeping.
 I'll go check on her.
-#Protagonist
+＃Protagonist
 "Excuse me."
 When I entered the clinic, Dr. Mikanagi was just about to leave.
-#Protagonist
+＃Protagonist
 "Dr. Mikanagi, how is Benio-san...?"
-#Mikanagi
+＃Mikanagi
 "She's still sleeping. ...Actually, could you keep an eye on her? Maya-san just called for me."
-#Protagonist
+＃Protagonist
 "Sure, I don't mind..."
-#Mikanagi
+＃Mikanagi
 "Then I'll leave it to you."
 Dr. Mikanagi left the clinic.
 I pulled up a chair beside the bed and sat down.
 Benio-san seemed to be sleeping soundly.
 The black cat jumped onto my lap.
 Then it just sat there, staring intently at Benio-san.
-#Protagonist
+＃Protagonist
 "...You were worried too, weren't you?"
 I stroked its head.
 As if feeling affectionate, the black cat rubbed its face against my hand.
-#Benio
+＃Benio
 "...It's rare for that one to be so attached to someone."
-#Protagonist
+＃Protagonist
 "Ah... Benio-san."
 Benio-san had woken up and was sitting up.
-#Protagonist
+＃Protagonist
 "Are you okay...?"
-#Benio
+＃Benio
 "Yes, no problem. Though I've ended up with a bump."
 Benio-san laughed as she rubbed her head.
-#Protagonist
+＃Protagonist
 "Um... when you were hit, did you see the person's face?"
-#Benio
+＃Benio
 "...No, it was just a split second. I didn't see who it was. It felt like I was hit with something hard..."
-#Protagonist
+＃Protagonist
 "Was it an empty bottle?"
-#Benio
+＃Benio
 "...Might have been. I didn't see it, so I can't say for sure..."
-#Protagonist
+＃Protagonist
 "Did you notice anything else?"
-#Benio
+＃Benio
 "I gave you that note, didn't I? That's about it."
-#Protagonist
+＃Protagonist
 "The memo that said 'Performance Room'. When did you get that?"
-#Benio
+＃Benio
 "It looks like it was slipped under my door."
-#Benio
+＃Benio
 "You were patrolling around 2:00, right? It was there when I went back to my room afterward. They probably slid it under the door."
-#Protagonist
+＃Protagonist
 "Didn't you think it was dangerous?"
-#Benio
+＃Benio
 "I did... but I couldn't just leave it, could I?"
-#Protagonist
+＃Protagonist
 "But still..."
-#Benio
+＃Benio
 "My safety is important, but right now, putting an end to this ridiculous situation is more important."
-#Protagonist
+＃Protagonist
 "But there's no point if you put yourself in danger, Benio-san!"
-#Benio
+＃Benio
 "Hmm... you're right. I'll be more careful from now on."
-#Protagonist
+＃Protagonist
 "I'll protect you until Dr. Mikanagi gets back."
-#Benio
+＃Benio
 "...Right, I'm counting on you."
-#Benio
+＃Benio
 "...You seem awfully concerned about me."
 Benio-san muttered quietly.
-#Protagonist
+＃Protagonist
 "Well, of course. I don't want any more victims."
-#Benio
+＃Benio
 "Is that all...?"
-#Protagonist
+＃Protagonist
 "Eh...?"
-#Benio
+＃Benio
 "...No, it's nothing."
 Benio-san lowered her head.
 The black cat jumped onto the bed.
-#Benio
+＃Benio
 "...Love is so kind."
-#Protagonist
+＃Protagonist
 "Benio-san...?"
-#Benio
+＃Benio
 "...I'm fine now. You can go."
-#Protagonist
+＃Protagonist
 "But I can't just leave you."
-#Benio
+＃Benio
 "I told you I'm fine, didn't I? Or what? Are you staying here just because the doctor told you to?"
-#Protagonist
+＃Protagonist
 "That's not it!"
-#Benio
+＃Benio
 "—!?"
 I'd raised my voice without thinking.
 Benio-san flinched.
-#Protagonist
+＃Protagonist
 "...That's not it. I... I want to protect you, Benio-san."
-#Benio
+＃Benio
 "...Don't say such stupid things."
-#Protagonist
+＃Protagonist
 "I'm not joking. I—"
-#Benio
+＃Benio
 "...That's enough."
 Benio-san cut me off.
-#Benio
+＃Benio
 "That's enough. If you say any more... I'll just get weak."
-#Protagonist
+＃Protagonist
 "Benio-san...?"
-#Benio
+＃Benio
 "I don't want to rely on you. I... I'm fine on my own."
 The black cat looked up at Benio-san with concern.
-#Protagonist
+＃Protagonist
 "Right now... those of us left should be protecting each other."
-#Benio
+＃Benio
 "But there's a killer among us!?"
-#Protagonist
+＃Protagonist
 "I know. But... at the very least, I believe in you, Benio-san. So... please believe in me too."
-#Benio
+＃Benio
 "...You really are an idiot."
 Even as she spoke, Benio-san leaned her head against me.
-#Benio
+＃Benio
 "A massive idiot. But... it's not bad."
-#Protagonist
+＃Protagonist
 "...Do you believe in me?"
-#Benio
+＃Benio
 "Will you let me believe in you...?"
 Benio-san looked up, her eyes moist.
-#Protagonist
+＃Protagonist
 "Of course."
-#Benio
+＃Benio
 "...I see."
 Benio-san nodded and closed her eyes.
-#Benio
+＃Benio
 "Then... I'll choose to believe."
 I grabbed both of Benio-san's shoulders.
 Benio-san's body tensed up.
-#Protagonist
+＃Protagonist
 "...Is this okay?"
 I leaned in and asked softly.
-#Benio
+＃Benio
 "...I said I believe in you, didn't I?"
 With that, Benio-san was the one to close the distance and press her lips against mine.

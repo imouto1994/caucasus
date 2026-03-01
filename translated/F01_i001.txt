@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "Want to hear about Cola? Well, you know, I was the first person in Japan to ever drink it. Pretty impressive, right?"
-#Protagonist
+＃Protagonist
 "...I can tell that's a lie even without checking."
-#Maya
+＃Maya
 "Cola... is it. Unfortunately, I have never had the occasion to drink it."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "Cola? I have heard of it... that is what Kirihara-san was drinking, isn't it?"
-#Protagonist
+＃Protagonist
 "Yes, that's right."
-#Benio
+＃Benio
 "I am familiar with Cola. I often drink it when I go into town."
-#Protagonist
+＃Protagonist
 "Oh, is that so?"
-#Tsujimura
+＃Tsujimura
 "Cola, is it... I remember receiving some from the Occupation forces long ago. That was nearly twenty years ago, though..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Rokuyou
+＃Rokuyou
 "Cola, you say? Of course I like it. I always make sure to load a few bottles whenever I board a ship."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "Cola? I don't drink such things."
-#Protagonist
+＃Protagonist
 "I-I see..."
-#Mikanagi
+＃Mikanagi
 "Cola contains a lot of caffeine, you see. If you drink too much, you might find yourself unable to sleep, so you should be careful."
-#Protagonist
+＃Protagonist
 "I-I see..."
-#Akane
+＃Akane
 "Cola? ...I'm sorry, we haven't prepared any here, but..."
-#Protagonist
+＃Protagonist
 "Oh, no, it's fine. Souko-san brought plenty with her."
-#Narumi
+＃Narumi
 "Cola? ...Actually, I heard that stewing chicken in Cola makes it quite delicious."
-#Protagonist
+＃Protagonist
 "...Don't ask me, ask Souko-san."

@@ -1,114 +1,114 @@
 I returned to Tokyo and went back to our peaceful daily lives.
 It was spring, just as the cherry blossoms were beginning to fall.
-#???
+＃???
 "Um, excuse me..."
 A voice called out to me on the street, and I stopped.
 Turning around, I saw a petite woman in Western dress, looking down as she reached out a hand.
-#Protagonist
+＃Protagonist
 "Is something the matter...?"
-#???
+＃???
 "Um... could you tell me how to get to Ochanomizu...?"
-#Protagonist
+＃Protagonist
 "Ochanomizu is that way. It's a bit far, though."
 I pointed toward the north.
-#???
+＃???
 "……If you wouldn't mind, um, could you guide me there...?"
-#Protagonist
+＃Protagonist
 "Eh... um... well, if it's just that much, I don't mind..."
-#???
+＃???
 "Then——I would appreciate it."
-#Protagonist
+＃Protagonist
 "Yeah... me too."
-#???
+＃???
 "............"
-#Protagonist
+＃Protagonist
 "……? Um, something wrong?"
-#???
+＃???
 "……Why haven't you noticed?"
-#Protagonist
+＃Protagonist
 "Eh...?"
 Her tone had changed completely.
 That voice was——
-#Protagonist
+＃Protagonist
 "No way..."
-#Benio
+＃Benio
 "I'm asking why you haven't noticed me!!"
-#Protagonist
+＃Protagonist
 "Be... Benio-san!?"
-#Benio
+＃Benio
 "Honestly... are you an idiot?"
-#Protagonist
+＃Protagonist
 "Wait... what are you doing in Tokyo, Benio-san!?"
-#Benio
+＃Benio
 "Nn, ah... I thought I'd try going to university. I couldn't exactly commute from that mountain depths, after all."
-#Protagonist
+＃Protagonist
 "But still... there's Morioka or Sendai, you know?"
-#Benio
+＃Benio
 "Since I had the chance, I decided to choose the Red Gate."
-#Protagonist
+＃Protagonist
 "The Red Gate... isn't that the top academic institution in Japan!! How did you——"
-#Benio
+＃Benio
 "There are no problems when it comes to me, you know? ……What, is it not the place where you're studying?"
-#Protagonist
+＃Protagonist
 "Of course not..."
-#Benio
+＃Benio
 "Hmm... that's a problem, then——I was thinking of asking you to show me around..."
-#Protagonist
+＃Protagonist
 "……I can at least give you a tour of Tokyo, I guess."
-#Benio
+＃Benio
 "I see, then I'll count on you."
-#Protagonist
+＃Protagonist
 "……Well, I suppose it's fine."
 Suddenly, I heard the meow of a cat.
-#Protagonist
+＃Protagonist
 "Eh...?"
-#Protagonist
+＃Protagonist
 "Wait... Lovecraft?"
-#Benio
+＃Benio
 "Ah, that's right. ……Love, you can come out now."
 When Benio-san opened her bag, a familiar black cat peered out.
-#Benio
+＃Benio
 "Sorry about that, Love. You wouldn't want to get kicked off the train, would you?"
-#Protagonist
+＃Protagonist
 "You brought her all the way here...?"
-#Benio
+＃Benio
 "I couldn't exactly leave her in that mansion when I'm not there."
-#Benio
+＃Benio
 "Speaking of which, I heard some big festival is being held this year?"
-#Protagonist
+＃Protagonist
 "You mean the Olympics?"
-#Benio
+＃Benio
 "That's the one. What do they do?"
-#Protagonist
+＃Protagonist
 "Sports."
-#Benio
+＃Benio
 "……Oh, so just a glorified field day."
-#Protagonist
+＃Protagonist
 "……Well, on a global scale, it's a pretty big deal, I think..."
-#Benio
+＃Benio
 "Also... what about the Bullet Train? When can we ride it?"
-#Protagonist
+＃Protagonist
 "Bullet——the Shinkansen? That's in the autumn, too."
-#Benio
+＃Benio
 "……How boring."
-#Benio
+＃Benio
 "Hmm? What's wrong, Love? ……Ah, right. I heard there's a place near here where black mice appear——"
-#Protagonist
+＃Protagonist
 "There's no such strange place."
-#Benio
+＃Benio
 "Oh, there isn't...? Tokyo is unexpectedly dull, then."
-#Protagonist
+＃Protagonist
 "What were you expecting...?"
-#Benio
+＃Benio
 "Then how about that? Tokyo Tower is already built, right?"
-#Protagonist
+＃Protagonist
 "It was finished a long time ago. Do you want to go?"
-#Benio
+＃Benio
 "Yes!"
 With a strangely innocent nod, Benio-san pulled on my arm.
-#Benio
+＃Benio
 "Let's go, quickly. Is it this way?"
-#Protagonist
+＃Protagonist
 "That way is Asakusa. It's the complete opposite direction!"
 Honestly——
 It looks like I won't have any time to be depressed for a while——

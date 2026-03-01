@@ -1,28 +1,28 @@
-#Souko
+＃Souko
 "She was with you the whole time, wasn't she? There's no way she could have killed Mikanagi-sensei."
-#Protagonist
+＃Protagonist
 "You’re right…"
-#Maya
+＃Maya
 "I wouldn't know, I was resting in my room as well."
-#Protagonist
+＃Protagonist
 "I see…"
-#Ai
+＃Ai
 "I’m not sure… I was in my room the entire time."
-#Protagonist
+＃Protagonist
 "I see…"
-#Tsujimura
+＃Tsujimura
 "I heard that she was together with you…"
-#Protagonist
+＃Protagonist
 "Y-yeah, that’s right…"
-#Takamine
+＃Takamine
 "I wouldn’t know what was happening outside my room."
-#Protagonist
+＃Protagonist
 "I see…"
-#Akane
+＃Akane
 "Was she not together with you?"
-#Protagonist
+＃Protagonist
 "Y-yeah, she was…"
-#Narumi
+＃Narumi
 "I was with you the whole time. Given the situation, do you really think I could have killed Mikanagi-sensei?"
-#Protagonist
+＃Protagonist
 "…I guess that would be impossible."

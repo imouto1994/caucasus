@@ -1,36 +1,36 @@
-#Souko
+＃Souko
 "Benio-san, huh... We went to the basement together, and if the decapitation happened after the electrocution, she wouldn't have had the chance, right?"
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "Benio is always wandering about the house, so I couldn't tell you where she was."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "I went to the office to get a handle on the situation... after that, I was waiting in the hall with Shion. Once we went to the basement, I was with you, wasn't I?"
-#Protagonist
+＃Protagonist
 "True..."
-#Shion
+＃Shion
 "Lady Benio and I were together..."
-#Protagonist
+＃Protagonist
 "I see."
-#Tsujimura
+＃Tsujimura
 "Lady Benio came to the office to confirm what was happening. Afterward, she left with Lady Shion..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I saw her coming out of the office just as I was heading in."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I didn't see her during the blackout..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I believe she was in the office with Lady Shion... though probably not the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I caught a glimpse of her with Lady Shion."
-#Protagonist
+＃Protagonist
 "I see..."

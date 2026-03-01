@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "About Ai-san? She definitely feels like a proper young lady."
-#Protagonist
+＃Protagonist
 "Yeah."
-#Maya
+＃Maya
 "Ai? She's a quiet girl who's always lost in her books."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "About me? Um... I don't really have anything to talk about, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "My sister? She is a quiet and good elder sister."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Lady Ai? She's always reading her books."
-#Protagonist
+＃Protagonist
 "I see."
-#Rokuyou
+＃Rokuyou
 "About Ai? We're childhood friends, so I'd say we're on good terms."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "About Ai-kun? She's been a quiet girl since she was small, but..."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "Ai-san, huh... she has times where her emotions can be quite intense."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Akane
+＃Akane
 "Lady Ai? I believe she would be in her room right now."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "Lady Ai? She's often in the archive reading books."
-#Protagonist
+＃Protagonist
 "I see."

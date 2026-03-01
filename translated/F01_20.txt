@@ -1,26 +1,26 @@
 I've arrived in front of Ai-san's room.
 I tap lightly on the door and wait.
-#Ai
+＃Ai
 "Oh... did you need something?"
-#Protagonist
+＃Protagonist
 "Hello. Do you have a little bit of time?"
-#Ai
+＃Ai
 "Yes, I don't mind. Please, come in."
 With that, Ai-san led me into the room.
-#Ai
+＃Ai
 "So, what is it you need?"
-#Protagonist
+＃Protagonist
 "Uh... well..."
 I've arrived in front of Ai-san's room.
 I tap lightly on the door and wait.
-#Ai
+＃Ai
 "Oh... was there something else?"
-#Protagonist
+＃Protagonist
 "Hello. Do you have a little bit of time?"
-#Ai
+＃Ai
 "Yes, please."
 With that, Ai-san led me into the room.
-#Ai
+＃Ai
 "What's your business, I wonder?"
-#Protagonist
+＃Protagonist
 "Uh... well..."

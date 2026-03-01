@@ -1,81 +1,81 @@
 I returned to the dining room.
-#Protagonist
+＃Protagonist
 "Oh, where's Souko-san?"
 Souko-san was nowhere to be seen.
-#Benio
+＃Benio
 "It seems she went back to her room."
 Benio-san was relaxing while drinking cocoa.
 Tsujimura-san and Narumi-san weren't there either.
-#Benio
+＃Benio
 "I suppose she can't settle down in a place where a murderer might be right next door."
-#Protagonist
+＃Protagonist
 "How about you, Benio-san?"
-#Benio
+＃Benio
 "Me? ...Well, I suppose it's the same for me."
-#Protagonist
+＃Protagonist
 "...Are you actually feeling anxious?"
-#Benio
+＃Benio
 "I am a delicate maiden, after all."
 Benio-san blurted out something quite unexpected.
 No, she's right, of course, but she had an air about her that made it seem like she was somehow enjoying the situation.
-#Protagonist
+＃Protagonist
 "...I see."
 Of course, I couldn't say that to her face, so I stayed silent.
 With Rokuyou-san killed and Ai-san attacked, there's no telling when Benio-san might be targeted.
-#Protagonist
+＃Protagonist
 "...Please be careful too, Benio-san."
-#Benio
+＃Benio
 "What's this? Are you that worried about me?"
 The corners of Benio-san's mouth curled up.
-#Protagonist
+＃Protagonist
 "Of course I am."
-#Benio
+＃Benio
 "...I see."
 Benio-san suddenly crossed her arms as if lost in thought.
-#Benio
+＃Benio
 "...Hey, are you—"
 Benio-san's words were cut short by the sudden meowing of a cat.
-#Benio
+＃Benio
 "...Is Love worried too?"
-#Benio
+＃Benio
 "Hehe... I see."
 Benio-san picked up the cat.
-#Benio
+＃Benio
 "—I'll be heading back to my room as well."
-#Protagonist
+＃Protagonist
 "Is that so... Um, what you were about to say just now—"
-#Benio
+＃Benio
 "...It's nothing. Forget it."
 Benio-san turned her face away.
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Well then, see you later."
 Benio-san left the dining room.
 I wonder what she wanted to say...
-#???
+＃???
 "...Um, are you finished?"
-#Protagonist
+＃Protagonist
 "Whoa!?"
 Startled by the sudden voice, I turned around to find Akane-san standing there looking apologetic.
-#Protagonist
+＃Protagonist
 "A-Akane-san..."
-#Akane
+＃Akane
 "...I thought it would be rude to interrupt since the two of you seemed to be in your own little world..."
-#Protagonist
+＃Protagonist
 "...No, that wasn't the case at all..."
-#Akane
+＃Akane
 "I-Is that so...?"
 How should I put it... this person is quite unusual too...
-#Akane
+＃Akane
 "Oh, that's right."
 Akane-san brought over a plate piled with fried rice.
-#Akane
+＃Akane
 "Um, I'd like you to take this to Takamine-sama..."
-#Protagonist
+＃Protagonist
 "Eh? But Takamine-san said he didn't want any..."
-#Akane
+＃Akane
 "Even if he says that, he needs to eat. Please tell him that the poison test has been done, so he can rest easy."
-#Protagonist
+＃Protagonist
 "Understood."
 Well, it might be better for me to take it rather than Akane-san or the others from this house.

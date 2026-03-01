@@ -1,24 +1,24 @@
-#Ai
+＃Ai
 "I don't know... I've been in my room the whole time."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Since you were with me in the basement, I couldn't have been attacked. However... there is the possibility of multiple culprits."
-#Protagonist
+＃Protagonist
 "I... wonder about that..."
-#Tsujimura
+＃Tsujimura
 "As for Mistress Minakami... I do not know. She often slacks off and disappears to who knows where..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know anything about what happens outside my room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I'm not into anything as petty as murder."
-#Protagonist
+＃Protagonist
 "Y-Yeah, you're right..."

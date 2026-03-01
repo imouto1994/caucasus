@@ -20,12 +20,12 @@ A bright fire is crackling in the fireplace.
 It's likely been burning all day.
 A bright fire is crackling.
 It's an old-fashioned wall clock.
-#Protagonist
+＃Protagonist
 "Hm...?"
 Something has fallen into the space where the pendulum is.
 When I carefully opened the glass door and peeked inside, I found a small piece of wood.
 What is this...? It looks like a fragment of marquetry.
-#Protagonist
+＃Protagonist
 "...I suppose I'll hold onto it for now."
 An old-fashioned clock hangs on the wall.
 An expensive-looking painting is on display.

@@ -1,57 +1,57 @@
 The piano keys where Benio-san lay.
 Blood was splattered everywhere, staining them bright red.
-#Protagonist
+＃Protagonist
 "...There are scratches on the keys."
 Right next to the neck’s severed surface, there were scratches as if made by something.
-#Souko
+＃Souko
 "I wonder if they were made when the head was cut off..."
-#Mikanagi
+＃Mikanagi
 "That might be it. Since the neck was likely severed with a saw, the tip of the blade probably hit the keys."
-#Protagonist
+＃Protagonist
 "A saw...?"
 That would make it different from when Rokuyou-san was killed...
-#Souko
+＃Souko
 "If it had been an axe, it wouldn't have left such small scratches. The keys are broken."
-#Mikanagi
+＃Mikanagi
 "Judging from the amount of blood, there’s no doubt the decapitation occurred here."
-#Protagonist
+＃Protagonist
 "I see..."
 The head was likely severed with a saw.
 Fresh blood had splattered onto the black piano as well.
 Benio-san...
 Perhaps because she always kept it clean, no fingerprint-like smudges were visible.
-#Protagonist
+＃Protagonist
 "...A snowdrop."
 A single white flower had fallen onto the keys.
-#Protagonist
+＃Protagonist
 "Is it the same as with Rokuyou-san...?"
-#Souko
+＃Souko
 "Most likely..."
-#Protagonist
+＃Protagonist
 "Another snowdrop..."
 A single white flower had fallen onto the keys.
-#Protagonist
+＃Protagonist
 "Once again, just like with Rokuyou-san and Ai-san..."
-#Protagonist
+＃Protagonist
 "What is this flower...?"
 A single white flower had fallen onto the keys.
 Why in a place like this...
-#Souko
+＃Souko
 "It’s a snowdrop. There were some arranged in the hall... but the fact that only the flower part has fallen, I wonder if it’s a metaphor for a headless corpse..."
-#Protagonist
+＃Protagonist
 "...That’s a sickening thought."
 The snowdrop flower lay there.
 Benio-san’s corpse lay face down on the piano keys.
-#Protagonist
+＃Protagonist
 "Can you tell the cause of death...?"
-#Mikanagi
+＃Mikanagi
 "I wonder... other than the neck where the severed surface is jagged, no other damage is visible... either a blow to the head, or strangulation..."
-#Souko
+＃Souko
 "...What about the possibility of poison?"
-#Mikanagi
+＃Mikanagi
 "I can't say it’s impossible. Since there’s almost no livor mortis, it seems to be immediately after death..."
-#Souko
+＃Souko
 "I see... we can't perform an autopsy here, after all..."
-#Mikanagi
+＃Mikanagi
 "That sort of thing should be left to the police."
 Benio-san’s headless body lay face down on the piano.

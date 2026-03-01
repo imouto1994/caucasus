@@ -1,153 +1,153 @@
 As we stepped into the hallway, Akane-san came rushing toward us, her face pale and drawn.
-#Akane
+＃Akane
 "Tsujimura-san...!"
-#Tsujimura
+＃Tsujimura
 "Take Shion-ojousama to that room over there."
-#Akane
+＃Akane
 "Y-yes, sir."
 Akane-san led Shion-san toward the spare room.
-#Souko
+＃Souko
 "What do you plan to do now?"
-#Tsujimura
+＃Tsujimura
 "...We have to contact the police."
-#Protagonist
+＃Protagonist
 "Ah, but the phones don't seem to be working... I checked earlier, it looks like the line is dead somewhere..."
-#Tsujimura
+＃Tsujimura
 "Dead... In that case, someone will have to walk down to the station at the foot of the mountain..."
-#Souko
+＃Souko
 "...Let’s check the phone one more time."
 Souko-san took the lead and began walking.
-#Ai
+＃Ai
 "Let go of me! Let me go!!"
 As soon as we entered the west corridor, we heard Ai-san screaming.
-#Narumi
+＃Narumi
 "Ojousama! Please, calm down!"
 The tall Narumi-san was holding Ai-san back.
-#Ai
+＃Ai
 "But! Isamu-san is... Isamu-san is...!!"
-#Tsujimura
+＃Tsujimura
 "Ai-ojousama...!"
 Tsujimura-san hurried over to help restrain Ai-san.
-#Ai
+＃Ai
 "No, no! Let me go!!"
 Ai-san was struggling and sobbing hysterically.
-#Benio
+＃Benio
 "Elder Sister!"
 Benio-san burst out of the Great Hall and grabbed Ai-san by the shoulders.
-#Ai
+＃Ai
 "Let me go, Benio! Nooo!"
-#Benio
+＃Benio
 "Sister! Shion is safe, so please, pull yourself together!"
-#Ai
+＃Ai
 "Eh—"
 Ai-san stopped struggling instantly.
-#Ai
+＃Ai
 "Shion...?"
-#Tsujimura
+＃Tsujimura
 "Shion-ojousama is resting in another room now."
-#Ai
+＃Ai
 "Ah—"
 Ai-san slumped down onto the floor.
-#Ai
+＃Ai
 "Shion is safe...?"
-#Benio
+＃Benio
 "Of course she is. She has nothing to do with this."
-#Ai
+＃Ai
 "I see..."
 Ai-san suddenly became quiet.
-#Narumi
+＃Narumi
 "Ojousama, this way..."
 Narumi-san took Ai-san by the hand and led her back into the Great Hall.
-#Benio
+＃Benio
 "...Tsujimura, have you told Shion?"
-#Tsujimura
+＃Tsujimura
 "...No, not yet."
 Tsujimura-san looked down.
-#Benio
+＃Benio
 "I see... It’s probably better that way."
-#Tsujimura
+＃Tsujimura
 "What... what should I tell the others...?"
-#Benio
+＃Benio
 "I told them the truth. He was... murdered, wasn't he?"
-#Souko
+＃Souko
 "Most likely. His head was missing, after all."
-#Protagonist
+＃Protagonist
 "Who could have done such a thing...?"
-#Benio
+＃Benio
 "Who knows. The killer is likely somewhere in this mansion, but I’d rather not start suspecting my own family."
 With that, Benio-san stared directly into my eyes.
-#Benio
+＃Benio
 "Is it not possible that this happened because two outsiders arrived...?"
-#Protagonist
+＃Protagonist
 "What...?"
 Wait—is she suspecting us?
-#Souko
+＃Souko
 "An interesting theory. But from our perspective as outsiders, it seems more likely the cause lies within some family drama."
-#Benio
+＃Benio
 "To be honest, I’m inclined to agree."
 Benio-san immediately retracted her previous statement.
-#Benio
+＃Benio
 "We might find something if we examine the body."
-#Tsujimura
+＃Tsujimura
 "Benio-ojousama, first we must call the police..."
-#Benio
+＃Benio
 "I know. But the phones are dead, aren't they?"
-#Tsujimura
+＃Tsujimura
 "Yes..."
-#Benio
+＃Benio
 "I have Takamine-bengoshi checking them now, but... it’s likely futile."
-#Tsujimura
+＃Tsujimura
 "If only we knew where the line was broken..."
-#Souko
+＃Souko
 "...I get the feeling this was intentional."
 Souko-san muttered under her breath.
-#Benio
+＃Benio
 "You think someone cut the communications with malicious intent?"
-#Souko
+＃Souko
 "Yeah... When it wouldn't connect earlier, I thought it was just the snow, but now..."
 The door to the telephone room opened, and Takamine-san appeared.
-#Takamine
+＃Takamine
 "It’s no use. The break isn't on this end."
-#Tsujimura
+＃Tsujimura
 "I see..."
-#Protagonist
+＃Protagonist
 "...It looks like someone’s going to have to head down to the base of the mountain after all."
-#Souko
+＃Souko
 "Right. Good luck."
 Souko-san placed her hand on my shoulder.
-#Protagonist
+＃Protagonist
 "...Eh?"
-#Souko
+＃Souko
 "It’s still a blizzard out there, so you’d better borrow some proper winter gear."
-#Protagonist
+＃Protagonist
 "I’m the one going?"
-#Souko
+＃Souko
 "Well, you’re the one who brought it up. Besides—"
 Souko-san leaned in and whispered into my ear.
-#Souko
+＃Souko
 "If the killer goes out alone, they’re obviously going to just run away."
-#Protagonist
+＃Protagonist
 "Ah—"
-#Souko
+＃Souko
 "It’s just a possibility."
 Souko-san said as she pulled away from me.
-#Benio
+＃Benio
 "There's no need for conspicuous whispering, you know. I could hear you."
 Benio-san furrowed her brow.
-#Takamine
+＃Takamine
 "...If you have a guilty conscience yourself, you might be the one to just run off."
-#Souko
+＃Souko
 "Then why don't you send someone from your side along with him? He doesn't even know where the station is, anyway."
-#Takamine
+＃Takamine
 "That’s reasonable. I’ll go."
 It felt like things were progressing entirely without my input.
-#Takamine
+＃Takamine
 "I’ll go get my coat; wait for me at the entrance. And until I return, make sure no one enters Rokuyou-kun’s room."
-#Tsujimura
+＃Tsujimura
 "Yes, I understand."
 Tsujimura-san and Takamine-san left together.
-#Souko
+＃Souko
 "Go get your coat."
-#Protagonist
+＃Protagonist
 "Right."
 I nodded and headed back to my room for a moment.

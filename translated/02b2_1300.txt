@@ -1,10 +1,10 @@
-#Tsujimura
+＃Tsujimura
 "This way."
 We went up the stairs and proceeded along the passage surrounding the atrium.
 Beyond that, there was an inconspicuous door.
-#Tsujimura
+＃Tsujimura
 "There's a ladder inside that leads to the attic room above."
-#Protagonist
+＃Protagonist
 "...Let's go."
 I took the lead and stepped inside.
 I climbed the ladder, the sound of my footsteps echoing.
@@ -12,54 +12,54 @@ It was pitch black and I couldn't see a thing.
 When I reached the top, I could tell there was a door nearby.
 A tiny bit of light was filtering in through a small window in the door, perhaps from outside.
 I peeked inside.
-#Protagonist
+＃Protagonist
 "Eh..."
 I had opened the door before my mind could even process what I was looking at.
 A sharp smell of blood hung in the air.
 A human body, lying sprawled on the floor.
 Blood, soaking the floor.
 A hand axe, discarded.
-#Protagonist
+＃Protagonist
 "A... Ai-san...?"
-#Tsujimura
+＃Tsujimura
 "A... aahh, Miss Ai..."
 Tsujimura-san fell to his knees.
-#Souko
+＃Souko
 "This is... horrible."
 Frowning, Souko-san entered the attic room.
-#Souko
+＃Souko
 "...The clothes she's wearing are the same. But without a head... I can't be sure if it's really her."
-#Protagonist
+＃Protagonist
 "What do you mean... who else could it possibly be!?"
 It's undoubtedly Ai-san.
-#Souko
+＃Souko
 "Calm down. ...Tsujimura-san, could you go call Dr. Mikanagi?"
-#Tsujimura
+＃Tsujimura
 "Y-Yes... right away."
 Tsujimura-san stood up and left the room.
-#Souko
+＃Souko
 "...I think it's Ai-san too. But..."
 And then, Souko-san looked around.
-#Souko
+＃Souko
 "...Where's the head?"
-#Protagonist
+＃Protagonist
 "Eh..."
 I also looked around the room.
 A small attic room that was by no means spacious.
 Within my field of vision, Ai-san's head was nowhere to be found.
-#Protagonist
+＃Protagonist
 "...Is it the same... as with Rokuyou-san...?"
-#Souko
+＃Souko
 "Likely..."
 Souko-san bit her lower lip.
 I heard the sound of someone climbing the ladder from outside the room.
-#Mikanagi
+＃Mikanagi
 "............"
 Dr. Mikanagi, who had hurried into the room, let out a breath.
-#Mikanagi
+＃Mikanagi
 "So... it's come to this..."
 After we offered a silent prayer, Souko-san spoke up.
-#Souko
+＃Souko
 "...Let's investigate. We can't just leave her lying here forever."
-#Protagonist
+＃Protagonist
 "You're right..."

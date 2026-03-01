@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "There's a high probability this was used to strike Benio-san... Let's preserve as many fingerprints as we can."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "...I am sorry, I do not really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "...I'm sorry, I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "...I do not know anything regarding that."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "...I'm sure that's been sitting in the corner of the kitchen since this morning..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I left the empty bottle I got from Kirihara-san this morning in the kitchen..."
-#Protagonist
+＃Protagonist
 "I see..."

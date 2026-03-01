@@ -1,29 +1,29 @@
 I arrived at Narumi-san's room on the east side of the first floor.
-#Protagonist
+＃Protagonist
 "Narumi-san, it's me."
 The door opened, and Narumi-san emerged.
-#Narumi
+＃Narumi
 "What do you want at this hour...?"
-#Protagonist
+＃Protagonist
 "Narumi-san, I want to protect you tonight."
-#Narumi
+＃Narumi
 "...Ah, right."
 ...She replied in an incredibly cold voice.
-#Narumi
+＃Narumi
 "Protect me from what?"
-#Protagonist
+＃Protagonist
 "Well, from the culprit, of course."
-#Narumi
+＃Narumi
 "Why would I be targeted?"
-#Protagonist
+＃Protagonist
 "Well... I just had a feeling."
-#Narumi
+＃Narumi
 "...Look, there are dozens of other people who are more likely to be targeted."
-#Protagonist
+＃Protagonist
 "Th-That might be so, but..."
-#Narumi
+＃Narumi
 "Don't worry about me. You're a guest, so just get some rest in your room."
 With just that, Narumi-san went back into her room.
-#Protagonist
+＃Protagonist
 "...Phew."
 It can't be helped; I'll head back to my room and rest.

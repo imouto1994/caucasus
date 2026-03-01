@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "Maya-san seems quite exhausted as well... though I suppose that's only natural."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Maya
+＃Maya
 "...I'll be fine, thank you."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "I believe Mother is resting in her room..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Mother looks quite haggard. It's only natural, but..."
-#Protagonist
+＃Protagonist
 "...I see."
-#Shion
+＃Shion
 "Mother... she seems to be very tired."
-#Protagonist
+＃Protagonist
 "She does..."
-#Tsujimura
+＃Tsujimura
 "The Mistress has always been of delicate health... With incidents like these occurring, the mental strain must be ceaseless..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "It seems Maya-san has shut herself away in her room. Well, that's likely for the best..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Mikanagi
+＃Mikanagi
 "Maya-san hasn't been feeling well since last night, so I've asked her to rest in her room."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "I believe the Mistress is resting in her room, but..."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "The Mistress, huh... It seems her heart is breaking from all these incidents..."
-#Protagonist
+＃Protagonist
 "I see..."

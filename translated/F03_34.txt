@@ -3,7 +3,7 @@ It's incredibly cold.
 Maybe coming out in light clothing was a mistake after all.
 The area around the tower door had been thoroughly cleared of snow.
 But...
-#Protagonist
+＃Protagonist
 "...It's locked."
 I can't tell if anyone is inside from out here.
 It can't be helped; I'll head back.
@@ -11,14 +11,14 @@ Exiting from the back of the office, I shivered.
 No, no, it was firmly locked earlier, so there's no point in going any further.
 So, I immediately turned back inside.
 I exited through the door in the back of the office, walked through the garden where snow continued to fall, and approached the tower.
-#Akane
+＃Akane
 "It's cold, isn't it..."
-#Protagonist
+＃Protagonist
 "Yeah..."
 Maybe coming out in light clothing was a mistake after all.
 The area around the tower door had been thoroughly cleared of snow.
 But...
-#Akane
+＃Akane
 "...It's locked."
 I can't tell if anyone is inside from out here.
 It can't be helped; I'll head back.

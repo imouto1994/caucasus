@@ -1,72 +1,72 @@
-#Souko
+＃Souko
 "...She seems quite shaken up."
-#Protagonist
+＃Protagonist
 "...You're right."
-#Souko
+＃Souko
 "...I still can't grasp the culprit's intent. Why would they kill Ai-san...?"
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "I'm glad Ai was safe, but... why did something like this happen...?"
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "Why Ai too...? Are you saying that child did something wrong...?"
-#Protagonist
+＃Protagonist
 "Maya-san..."
-#Ai
+＃Ai
 "...I couldn't sleep well last night. I felt like I might be attacked again..."
-#Protagonist
+＃Protagonist
 "Ai-san..."
-#Benio
+＃Benio
 "I have a feeling that attack on my sister was carried out differently than the one on Rokuyou..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "...I don't think it will end with my sister being killed. Next will be me... or someone else."
-#Protagonist
+＃Protagonist
 "That might be true..."
-#Shion
+＃Shion
 "...Why Sister Ai... just who would..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Tsujimura
+＃Tsujimura
 "Lady Ai seems quite shaken. I suppose it's only natural after something like that..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Tsujimura
+＃Tsujimura
 "...Why did Lady Ai have to be killed...?"
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "...In any case, I'm glad Ai-kun didn't lose her life."
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "...Even Ai-kun was killed, but nothing happened last night... I wonder if it’s finally over..."
-#Protagonist
+＃Protagonist
 "Who knows..."
-#Mikanagi
+＃Mikanagi
 "As for Ai-san, I expect she's returned to her room. After what happened yesterday, it's better if she rests."
-#Protagonist
+＃Protagonist
 "I see."
-#Mikanagi
+＃Mikanagi
 "What is the culprit's aim...? What do they gain by killing Isamu and Ai-san...?"
-#Protagonist
+＃Protagonist
 "Right..."
-#Akane
+＃Akane
 "Lady Ai? She's in her room. She still doesn't seem to be feeling very well."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "Why Lady Ai...? She hasn't done anything wrong..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Narumi
+＃Narumi
 "Lady Ai? She's likely in her room."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "...If even Lady Ai was killed, it might not be over yet..."
-#Protagonist
+＃Protagonist
 "Right..."

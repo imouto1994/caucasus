@@ -1,28 +1,28 @@
 I've come to the front of Ai-san's room.
 I knock lightly and wait.
-#Ai
+＃Ai
 "Oh... is something the matter?"
-#Protagonist
+＃Protagonist
 "Hello. Could I have a little bit of your time?"
-#Ai
+＃Ai
 "Yes, of course. Please, come in."
 With that, Ai-san invited me into the room.
-#Ai
+＃Ai
 "So, what is it you need?"
-#Protagonist
+＃Protagonist
 "Uh, well..."
 I've come to the front of Ai-san's room.
 I knock lightly and wait.
-#Ai
+＃Ai
 "Oh... was there something else?"
-#Protagonist
+＃Protagonist
 "Hello. Could I have a little bit of your time?"
-#Ai
+＃Ai
 "Yes, go ahead."
 With that, Ai-san invited me into the room.
-#Ai
+＃Ai
 "What might your business be?"
-#Protagonist
+＃Protagonist
 "Uh, well..."
 I've come to the front of Ai-san's room.
 Ai-san's body is laid to rest here.

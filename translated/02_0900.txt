@@ -2,129 +2,129 @@ When we entered the Great Hall, almost everyone was already there.
 Shion-san and Narumi-san were missing.
 Everyone’s face was clouded with a similar expression.
 Maya-san and Ai-san looked particularly haggard.
-#Benio
+＃Benio
 "That was fast. Did something happen?"
 The ever-composed Benio-san asked.
-#Takamine
+＃Takamine
 "The ropes on the suspension bridge were cut and the bridge has been dropped."
-#Souko
+＃Souko
 "The bridge...? But didn't you say there was no other way... when we first got here?"
 Souko-san looked at Benio-san.
-#Benio
+＃Benio
 "...I suppose it’s turned out exactly as I said it would, hasn't it?"
 Benio-san bit her lip.
-#Ai
+＃Ai
 "What does that mean...? Hey, what about the police...?"
-#Benio
+＃Benio
 "...They won't be coming. And we can't call for any other help, either."
-#Ai
+＃Ai
 "Then what are we supposed to do!? I can't stay here! Not with someone who killed Isamu-san!!"
-#Benio
+＃Benio
 "...Sister, please. Calm down."
 Benio-san chided Ai-san, sounding a bit weary.
-#Ai
+＃Ai
 "But!!"
-#Benio
+＃Benio
 "...Akane, take my sister to Shion's room."
-#Akane
+＃Akane
 "Ah... yes, as you wish."
 Akane-san approached the agitated Ai-san.
-#Akane
+＃Akane
 "Ai-ojousama, let’s go to Shion-ojousama's room, shall we?"
-#Ai
+＃Ai
 "Shion's... oh, yes, you're right..."
 Mentioning Shion-san seemed to calm Ai-san down.
 She obediently followed Akane-san out of the room.
-#Maya
+＃Maya
 "What is to become of us..."
 Maya-san whispered.
-#Protagonist
+＃Protagonist
 "Yeah... what are we going to do...?"
 I asked Souko-san.
-#Souko
+＃Souko
 "Don't ask me. You should be asking the people who live here."
-#Benio
+＃Benio
 "...At the very least, there is no doubt that the person who cut his throat is right here in this room."
 Benio-san whispered something chilling.
-#Benio
+＃Benio
 "The question is how to smoke them out... Hakase!"
 Mikanagi-sensei, who was near Maya-san, was summoned over.
-#Mikanagi
+＃Mikanagi
 "Yes?"
-#Benio
+＃Benio
 "Hakase, can you determine the cause of death and such?"
-#Mikanagi
+＃Mikanagi
 "...My specialty is internal medicine. I only have a basic knowledge of forensic medicine."
-#Benio
+＃Benio
 "I see. Could you examine him anyway, and tell us whatever you can?"
-#Mikanagi
+＃Mikanagi
 "But..."
-#Benio
+＃Benio
 "The police can't get here. If we wait too long, it’ll be impossible to even determine the time of death, won't it?"
-#Mikanagi
+＃Mikanagi
 "That’s true, but... I need to see Isamu's body first. I haven't even seen it yet."
-#Benio
+＃Benio
 "Right... of course, my apologies. ...Tsujimura!"
-#Tsujimura
+＃Tsujimura
 "Yes, Ojousama?"
 Tsujimura-san approached.
-#Benio
+＃Benio
 "Let me see the key to Rokuyou's room."
-#Tsujimura
+＃Tsujimura
 "But... is it wise to disturb the scene on our own?"
-#Benio
+＃Benio
 "It's an emergency, we have no choice."
-#Souko
+＃Souko
 "She’s right. ...Just don't forget that the person who did that to him is still out there."
-#Benio
+＃Benio
 "...I know. But we can't do anything until we know the time of death."
-#Protagonist
+＃Protagonist
 "...Shouldn't we go and check one more time?"
 Talking about it here wasn't going to get us anywhere.
 And I’m sure Mikanagi-sensei wanted to go see the scene as soon as possible.
-#Benio
+＃Benio
 "You’re remarkably calm."
-#Protagonist
+＃Protagonist
 "I’m not calm at all; I’m terrified. That’s why I can't just stand around."
 That was my honest feeling.
-#Souko
+＃Souko
 "He’s always been good in a crisis."
-#Protagonist
+＃Protagonist
 "...Not really."
-#Benio
+＃Benio
 "Hmm... then let's do this. Would you be willing to investigate for us?"
-#Protagonist
+＃Protagonist
 "Eh... me?"
-#Benio
+＃Benio
 "To be honest, I don't trust my own family right now."
 Benio-san whispered under her breath.
-#Benio
+＃Benio
 "I still don't know why Rokuyou was killed, but I don't think it was for robbery. It was likely someone in the house—including me."
-#Souko
+＃Souko
 "...Do you have a reason to kill him?"
-#Benio
+＃Benio
 "Not really. I have no interest in the inheritance or anything else."
-#Protagonist
+＃Protagonist
 "In that case, wouldn't it be better if you investigated, Benio-san? This is your house, after all."
-#Benio
+＃Benio
 "Since the police can't get here, it would be better to have an outsider investigate as objectively as possible."
 I wasn't sure about being asked to take on such an important role...
-#Protagonist
+＃Protagonist
 "Then wouldn't Souko-san be a better choice?"
-#Souko
+＃Souko
 "Of course I’ll help. But you can be the one to take the lead, can't you?"
-#Protagonist
+＃Protagonist
 "I guess, as long as you're helping me..."
-#Benio
+＃Benio
 "Then it’s settled. I’ll give you the key to the scene."
 I took the key from Benio-san.
-#Benio
+＃Benio
 "Hakase, would you go examine him?"
-#Mikanagi
+＃Mikanagi
 "Yes, but could you stay with the Madam and the others? They seem quite distraught."
-#Benio
+＃Benio
 "...Understood."
 Benio-san headed over to Maya-san and the others.
-#Souko
+＃Souko
 "...Well then, shall we?"
 We made our way toward Rokuyou-san’s room.

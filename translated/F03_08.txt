@@ -1,187 +1,187 @@
 I’ve arrived at the dining hall.
-#Benio
+＃Benio
 "Hm, oh, it's just you."
 Benio-san was there.
-#Protagonist
+＃Protagonist
 "Benio-san, are you alone?"
-#Benio
+＃Benio
 "Can't you tell just by looking?"
-#Protagonist
+＃Protagonist
 "Well, yes, but... it's dangerous to be by yourself."
-#Benio
+＃Benio
 "Dangerous? You think someone is targeting me?"
-#Protagonist
+＃Protagonist
 "It's a possibility."
-#Benio
+＃Benio
 "Humph... I see."
 Nodding, Benio-san began to sink into thought.
-#Protagonist
+＃Protagonist
 "Um... do you have a moment right now?"
-#Benio
+＃Benio
 "Hm? Oh, I don't mind."
 I’ve arrived at the dining hall again.
-#Benio
+＃Benio
 "Hm, is something the matter?"
-#Protagonist
+＃Protagonist
 "Um..."
 When I entered the dining hall, Souko-san and Benio-san were there.
-#Souko
+＃Souko
 "Oh, what's wrong?"
-#Protagonist
+＃Protagonist
 "No, I don't really have any particular business, but..."
-#Benio
+＃Benio
 "Is it lunchtime?"
-#Protagonist
+＃Protagonist
 "Well, I am getting hungry."
-#Souko
+＃Souko
 "If you're looking for Narumi-san, she's in the kitchen."
 I should probably ask some questions rather than worry about lunch right now.
 Souko-san was in the dining hall.
-#Protagonist
+＃Protagonist
 "Oh, Souko-san, are you alone?"
-#Souko
+＃Souko
 "Yes, why? Are you hungry?"
-#Protagonist
+＃Protagonist
 "Well, there's that, but I actually have a bit of business with you, Souko-san."
-#Souko
+＃Souko
 "What is it?"
 Souko-san was still in the dining hall.
-#Souko
+＃Souko
 "Oh, do you still need something?"
-#Protagonist
+＃Protagonist
 "Yes, is that alright?"
 Souko-san and Narumi-san were in the dining hall.
-#Souko
+＃Souko
 "Oh, what's wrong?"
-#Protagonist
+＃Protagonist
 "No, well, I don't really have any particular business."
-#Narumi
+＃Narumi
 "Do you want something to eat?"
-#Protagonist
+＃Protagonist
 "I can wait a little longer."
-#Narumi
+＃Narumi
 "I see. I'm planning to have lunch ready a bit after one."
-#Protagonist
+＃Protagonist
 "Understood."
 Now then, what should I do next?
 Souko-san and Narumi-san were in the dining hall.
-#Souko
+＃Souko
 "Oh, do you still need something?"
-#Protagonist
+＃Protagonist
 "Yes, well."
 Now, which one should I talk to?
 I’ve arrived at the dining hall.
-#Benio
+＃Benio
 "Hm, oh, it's just you."
 Benio-san was there.
-#Akane
+＃Akane
 "Lady Benio, have you seen Lady Ai?"
-#Benio
+＃Benio
 "Sister? ...No, I haven't."
 Benio-san tilts her head curiously.
-#Protagonist
+＃Protagonist
 "It seems she hasn't been seen for a while now."
-#Benio
+＃Benio
 "Hmm... I wonder what she's up to."
-#Akane
+＃Akane
 "Please let us know if you see her."
-#Benio
+＃Benio
 "Yeah, I got it."
 We decided to search elsewhere.
 Benio-san was still in the dining hall.
-#Benio
+＃Benio
 "Did you find my sister?"
-#Protagonist
+＃Protagonist
 "No... not yet."
-#Akane
+＃Akane
 "Lady Benio, do you know anything at all?"
-#Benio
+＃Benio
 "Me? ...I wouldn't know. I'm not really interested in what my sister does in her spare time..."
-#Protagonist
+＃Protagonist
 "I see..."
 It can't be helped; let's go search somewhere else.
 When I entered the large dining hall, Souko-san and Benio-san were there.
-#Protagonist
+＃Protagonist
 "Souko-san, have you seen Ai-san?"
-#Souko
+＃Souko
 "Ai-san? No, I haven't, but did something happen?"
-#Akane
+＃Akane
 "She hasn't been seen for a while."
-#Souko
+＃Souko
 "I see... Benio-san, have you seen her?"
-#Benio
+＃Benio
 "No, I haven't seen her either."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Souko
+＃Souko
 "...I have a bad feeling about this."
 Souko-san mutters quietly.
-#Benio
+＃Benio
 "You're right. Go find her quickly."
-#Protagonist
+＃Protagonist
 "Yes, I know."
 Akane-san and I decided to go search elsewhere.
 When I entered the large dining hall, Souko-san and Benio-san were there.
-#Souko
+＃Souko
 "Did you find Ai-san?"
-#Protagonist
+＃Protagonist
 "The thing is... not yet."
-#Souko
+＃Souko
 "I see..."
-#Benio
+＃Benio
 "We should try looking for her as well."
-#Akane
+＃Akane
 "Yes. Thank you very much."
 Akane-san bows deeply.
 Let's go search somewhere else too.
 Souko-san was in the dining hall.
-#Souko
+＃Souko
 "Oh, what are you two up to?"
-#Protagonist
+＃Protagonist
 "Souko-san, have you seen Ai-san?"
-#Souko
+＃Souko
 "Ai-san...? I haven't."
-#Akane
+＃Akane
 "I see..."
 Akane-san's shoulders slump.
-#Protagonist
+＃Protagonist
 "Please let us know if you see her. We'll be looking elsewhere."
-#Souko
+＃Souko
 "Yes, I understand."
 We decided to go somewhere else.
 Souko-san was still in the dining hall.
-#Souko
+＃Souko
 "Did you find Ai-san?"
-#Akane
+＃Akane
 "The thing is... not yet."
-#Souko
+＃Souko
 "I see... It's strange that she can't be found within this building..."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Akane
+＃Akane
 "We'll try looking elsewhere."
 We decided to go somewhere else.
 Souko-san and Narumi-san were in the dining hall.
-#Souko
+＃Souko
 "Oh, what's the matter?"
-#Protagonist
+＃Protagonist
 "Souko-san, have you seen Ai-san?"
-#Souko
+＃Souko
 "Ai-san...? No, I haven't."
-#Narumi
+＃Narumi
 "She hasn't come here either."
-#Akane
+＃Akane
 "I see..."
-#Protagonist
+＃Protagonist
 "We'll try looking elsewhere."
 We decided to go somewhere else.
 Souko-san and Narumi-san were in the dining hall.
-#Souko
+＃Souko
 "Oh, are you still looking?"
-#Akane
+＃Akane
 "Yes..."
-#Narumi
+＃Narumi
 "Lady Ai, huh..."
-#Protagonist
+＃Protagonist
 "...We'll try somewhere else."
 We decided to search another location.

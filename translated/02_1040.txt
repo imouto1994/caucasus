@@ -1,31 +1,31 @@
-#Protagonist
+＃Protagonist
 "Mikanagi-sensei."
 I called out to Mikanagi-sensei as soon as we entered the infirmary.
-#Mikanagi
+＃Mikanagi
 "Oh, what is it? ...Shion-san?"
-#Ai
+＃Ai
 "Shion... says her head hurts..."
-#Mikanagi
+＃Mikanagi
 "...Please, lay her down on that bed over there."
 Following Mikanagi-sensei’s instructions, Ai-san and I helped Shion-san to the bed.
-#Mikanagi
+＃Mikanagi
 "I'll need Shion-san’s medicine, then..."
 Mikanagi-sensei pulled some medicine from the cabinet against the wall.
-#Protagonist
+＃Protagonist
 "Is that herbal medicine?"
 The shelves were lined with things that looked like tree roots.
-#Mikanagi
+＃Mikanagi
 "Yes. It’s more effective this way. It takes a little time to decoct, but since Shion-san’s headaches are chronic, I always have some ready."
 He poured the medicine into an earthenware pot and set it over the fire.
-#Mikanagi
+＃Mikanagi
 "I'm decocting kakkon, shakuyaku, keishi, bushi, and several others."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "It’ll take some time to reheat, so you can head back now."
-#Protagonist
+＃Protagonist
 "...Alright."
 It was true that there was no point in me staying here.
-#Protagonist
+＃Protagonist
 "Well then... take care, Shion-san."
 I spoke to her as she lay on the bed and left the infirmary.

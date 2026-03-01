@@ -5,30 +5,30 @@ I wonder where on earth Akane-san could be...
 It can't be helped; I'll head elsewhere.
 I’ve come to the front of Akane-san's room.
 I knock lightly on the door and wait for a while.
-#Narumi
+＃Narumi
 "Yes... oh, it's you."
-#Protagonist
+＃Protagonist
 "Narumi-san, how is Akane-san's condition?"
-#Narumi
+＃Narumi
 "No need to worry. She should be able to move around again soon."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Really, I'm just glad it wasn't more serious."
-#Protagonist
+＃Protagonist
 "Yeah, you're right. Well, I'll leave Akane-san in your hands."
-#Narumi
+＃Narumi
 "Got it."
 I bowed to Narumi-san and decided to head elsewhere.
 I’ve come to the front of Akane-san's room.
 I knock lightly on the door and wait for a while.
-#Narumi
+＃Narumi
 "Yes... oh, it's you again. What is it this time?"
-#Protagonist
+＃Protagonist
 "No, I don't really have any business, but..."
-#Narumi
+＃Narumi
 "Do you want to talk to Akane?"
 Narumi-san opened the door wide.
-#Protagonist
+＃Protagonist
 "Ah, no, as long as she's okay, that's enough."
 Akane-san looked well enough from the glimpse I caught, so I decided to leave.

@@ -1,32 +1,32 @@
-#Protagonist
+＃Protagonist
 "Souko-san, you're surprisingly calm in this situation."
-#Souko
+＃Souko
 "You're plenty calm yourself. Well, it's highly likely to be an internal dispute, so I figure it's unlikely to catch us in the crossfire."
-#Maya
+＃Maya
 "For things to turn out like this... I feel terribly sorry for our guests."
-#Protagonist
+＃Protagonist
 "N-No, please don't let it trouble you."
-#Benio
+＃Benio
 "It feels like someone who can finally hold their own against me has arrived."
-#Protagonist
+＃Protagonist
 "I-Is that so..."
-#Shion
+＃Shion
 "Kirihara-san... she has a somewhat frightening atmosphere about her..."
-#Protagonist
+＃Protagonist
 "Do you think so...?"
-#Tsujimura
+＃Tsujimura
 "I feel terribly sorry to Kirihara-sama and the others that things have turned out this way..."
-#Protagonist
+＃Protagonist
 "No, please don't worry about it..."
-#Takamine
+＃Takamine
 "It seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary."
-#Protagonist
+＃Protagonist
 "That might be true, but..."
-#Mikanagi
+＃Mikanagi
 "The swelling in Kirihara-san's finger hasn't gone down yet. It's possible... that it might be fractured."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "Kirihara-san? She seems to be investigating all sorts of things."
-#Protagonist
+＃Protagonist
 "Right."

@@ -4,12 +4,8 @@
  * Collects all unique speech source names from the original scripts and from
  * the translated scripts, then compares the two sets.
  *
- * Speech source lines:
- *   - Original (Shift-JIS): lines starting with ＃ (fullwidth hash)
- *   - Translated (UTF-8):   lines starting with #  (ASCII hash)
- *
- * The name is everything after the leading hash character. For originals the
- * fullwidth ＃ is stripped; for translations the ASCII # is stripped.
+ * Speech source lines use the fullwidth hash ＃ in both original and
+ * translated files. The name is everything after the ＃ prefix.
  *
  * Both `translated/` and `translated-vertical/` are scanned. Original files
  * are read as Shift-JIS bytes and decoded to Unicode.
@@ -77,7 +73,7 @@ async function main() {
     for (const fileName of fileNames) {
       const text = await readFile(path.join(dir, fileName), "utf-8");
       const lines = text.split("\n");
-      for (const name of extractSpeechSources(lines, "#")) {
+      for (const name of extractSpeechSources(lines, "＃")) {
         if (!translatedSources.has(name)) {
           translatedSources.set(name, new Set());
         }

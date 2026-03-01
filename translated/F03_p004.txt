@@ -1,32 +1,32 @@
-#Souko
+＃Souko
 "She's seriously trying to investigate the case too. It's encouraging."
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "As for Benio... I'd rather she not get involved in anything dangerous..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Being in a remote place like this makes one starve for stimulation. Doesn't something like this make you feel a bit of a thrill?"
-#Protagonist
+＃Protagonist
 "Oh..."
-#Shion
+＃Shion
 "Sister Benio... sometimes I don't know what she's thinking."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Lady Benio... I'd prefer if she stayed quiet, but... that's probably asking too much..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Takamine
+＃Takamine
 "Benio-kun is quick-witted. She seems to be thinking about Rokuyou-kun's case in various ways, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Benio-san is... she's not just a little—she's incredibly headstrong."
-#Protagonist
+＃Protagonist
 "Right..."
-#Narumi
+＃Narumi
 "Lady Benio seems quite enthusiastic."
-#Protagonist
+＃Protagonist
 "I see..."

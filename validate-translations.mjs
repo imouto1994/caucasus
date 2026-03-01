@@ -15,15 +15,16 @@
  *   3. Speech source names match the expected Japanese → English mapping.
  *
  * Line types:
- *   - Speech source  — ＃*** (original) / #*** (translated)
+ *   - Speech source  — ＃*** (both original and translated use fullwidth hash)
  *   - Speech content — 「***」or 『***』(original) / "***" (translated)
  *   - Normal line    — anything else
  *
  * Original files in `original/` are Shift-JIS encoded, so we read raw bytes
  * and decode with TextDecoder("shift_jis"). Translated files are UTF-8.
  *
- * Files that still use Japanese formatting (＃ and 「」/『』) are treated as
- * not-yet-translated and silently skipped.
+ * Files that still use Japanese speech content formatting (「」/『』) without
+ * any English speech content ("") are treated as not-yet-translated and
+ * silently skipped.
  *
  * Usage:
  *   node validate-translations.mjs
@@ -39,14 +40,15 @@ const ORIGINAL_DIR = "original";
 const TRANSLATED_DIR = "translated";
 const TRANSLATED_VERTICAL_DIR = "translated-vertical";
 
-// Line-type classifiers for original (Japanese) formatting.
-const isJpSpeechSource = (line) => line.startsWith("＃");
+// Speech source lines use the fullwidth hash (＃) in both original and
+// translated files.
+const isSpeechSource = (line) => line.startsWith("＃");
+
+// Speech content classifiers differ between original (Japanese brackets)
+// and translated (double quotes).
 const isJpSpeechContent = (line) =>
   (line.startsWith("「") && line.endsWith("」")) ||
   (line.startsWith("『") && line.endsWith("』"));
-
-// Line-type classifiers for translated (English) formatting.
-const isEnSpeechSource = (line) => line.startsWith("#");
 const isEnSpeechContent = (line) => line.startsWith('"') && line.endsWith('"');
 
 // Canonical Japanese → English speech source name mapping.
@@ -76,29 +78,25 @@ const LINE_TYPE = {
 
 function classifyOriginalLine(line, trim) {
   const target = trim ? line.trim() : line;
-  if (isJpSpeechSource(target)) return LINE_TYPE.SPEECH_SOURCE;
+  if (isSpeechSource(target)) return LINE_TYPE.SPEECH_SOURCE;
   if (isJpSpeechContent(target)) return LINE_TYPE.SPEECH_CONTENT;
   return LINE_TYPE.NORMAL;
 }
 
 function classifyTranslatedLine(line, trim) {
   const target = trim ? line.trim() : line;
-  if (isEnSpeechSource(target)) return LINE_TYPE.SPEECH_SOURCE;
+  if (isSpeechSource(target)) return LINE_TYPE.SPEECH_SOURCE;
   if (isEnSpeechContent(target)) return LINE_TYPE.SPEECH_CONTENT;
   return LINE_TYPE.NORMAL;
 }
 
-// A translated file that still uses Japanese line formatting hasn't been
-// translated yet. We detect this by checking whether it uses Japanese markers
-// (＃ / 「」/ 『』) without any English markers (# / "").
+// A translated file that still uses Japanese speech content formatting
+// hasn't been translated yet. We detect this by checking whether it uses
+// Japanese content markers (「」/『』) without any English content markers ("").
 function isUntranslated(translatedLines) {
-  const hasJpFormat = translatedLines.some(
-    (l) => isJpSpeechSource(l.trim()) || isJpSpeechContent(l.trim()),
-  );
-  const hasEnFormat = translatedLines.some(
-    (l) => isEnSpeechSource(l.trim()) || isEnSpeechContent(l.trim()),
-  );
-  return hasJpFormat && !hasEnFormat;
+  const hasJpContent = translatedLines.some((l) => isJpSpeechContent(l.trim()));
+  const hasEnContent = translatedLines.some((l) => isEnSpeechContent(l.trim()));
+  return hasJpContent && !hasEnContent;
 }
 
 /**
@@ -181,7 +179,9 @@ async function validateDirectory(translatedDir, trim) {
     const lineMismatches = [];
     for (let i = 0; i < originalLines.length; i++) {
       const origTrimmed = trim ? originalLines[i].trim() : originalLines[i];
-      const transTrimmed = trim ? translatedLines[i].trim() : translatedLines[i];
+      const transTrimmed = trim
+        ? translatedLines[i].trim()
+        : translatedLines[i];
       const origType = classifyOriginalLine(originalLines[i], trim);
       const transType = classifyTranslatedLine(translatedLines[i], trim);
 
@@ -196,7 +196,7 @@ async function validateDirectory(translatedDir, trim) {
         });
       } else if (origType === LINE_TYPE.SPEECH_SOURCE) {
         const jpName = origTrimmed.slice("＃".length);
-        const enName = transTrimmed.slice("#".length);
+        const enName = transTrimmed.slice("＃".length);
         const expectedEn = SPEAKER_MAP.get(jpName);
 
         if (expectedEn === undefined) {

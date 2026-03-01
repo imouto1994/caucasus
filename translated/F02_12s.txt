@@ -1,7 +1,7 @@
 The world outside is a wall of white; I can't see a thing.
 I wonder when this blizzard will finally let up...
 The storm outside seems to be growing even more violent.
-#Protagonist
+＃Protagonist
 "Hm...?"
 A scrap of paper with something written on it is stuck to the toilet lid.
 What could this be...?
@@ -13,7 +13,7 @@ I tried to refuse, but the man wouldn't listen, insisting that I didn't need to 
 To be honest, I didn't want them.
 We went back and forth like that for a while, but I eventually gave in and accepted that forbidden item.
 I just wanted to get it over with because I was exhausted after the performance. ~To be continued~
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 A scrap of paper titled 'A Certain Man's Story: Chapter Three' is lying here.
 It's a locker where cleaning supplies and such are kept.

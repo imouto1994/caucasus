@@ -1,24 +1,24 @@
-#Souko
+＃Souko
 "Benio-san was in the dining hall, but she left around 12:15. She said she was going back to her room."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "I was talking with Kirihara-san in the dining hall, but I went back to my room around 12:15."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I was in the office the entire time, so I did not happen to see Lady Benio..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I wouldn't know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "Lady Benio was in the dining hall. She was with Mistress Kirihara."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "As for Lady Benio, she seemed to be in the dining hall, but when I went there around 12:30, only Kirihara-san was there."
-#Protagonist
+＃Protagonist
 "I see..."

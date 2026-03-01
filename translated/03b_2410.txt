@@ -1,82 +1,82 @@
 I walked over to Narumi-san by the atrium.
-#Protagonist
+＃Protagonist
 "What are you doing here?"
-#Narumi
+＃Narumi
 "Just thinking. There’s the code from earlier, but... from here, I can see almost everyone’s movements."
-#Protagonist
+＃Protagonist
 "...True, you can see the entire second-floor corridor from here."
-#Narumi
+＃Narumi
 "I can see the first-floor hall too, so I can tell when people are moving around..."
-#Protagonist
+＃Protagonist
 "It might be a good idea to keep watch here tonight."
-#Narumi
+＃Narumi
 "...What about the search for the hidden inheritance?"
 Narumi-san asked in a low voice.
-#Protagonist
+＃Protagonist
 "Dr. Mikanagi just warned me. He said it’s best to stay quiet."
-#Narumi
+＃Narumi
 "I can see why he’d say that... but this is what I infiltrated this place for."
-#Protagonist
+＃Protagonist
 "Shouldn't you give up? The police will likely be here tomorrow."
-#Narumi
+＃Narumi
 "But look... I want the inheritance, but I also want to solve the mystery of that code, don't you?"
-#Protagonist
+＃Protagonist
 "Well, yes, but..."
 I was certainly curious about that mystery.
 But with no clues found so far, it would be difficult.
-#Narumi
+＃Narumi
 "If only we knew the meaning of that last word..."
-#Protagonist
+＃Protagonist
 "Let's just stop. Right now, let’s just pray there are no more victims."
-#Narumi
+＃Narumi
 "I suppose... hmm?"
 Narumi-san tilted her head as she looked downstairs.
-#Narumi
+＃Narumi
 "Shion-ojousama, is something the matter?"
-#Protagonist
+＃Protagonist
 "Eh... Shion-san?"
 Peering down, I made eye contact with Shion-san, who had just climbed the stairs.
-#Shion
+＃Shion
 "A... ah."
 Shion-san stopped at the top of the stairs.
-#Protagonist
+＃Protagonist
 "Is something wrong?"
-#Shion
+＃Shion
 "Um... I was going to get some medicine from Dr. Mikanagi..."
-#Protagonist
+＃Protagonist
 "Dr. Mikanagi has already returned to his room."
-#Shion
+＃Shion
 "Ah... I see..."
 She must have been feeling unwell; Shion-san's expression was grim.
-#Protagonist
+＃Protagonist
 "Should I go with you?"
-#Shion
+＃Shion
 "No... I'm fine."
 Shion-san shook her head, bowed, and walked down the corridor.
-#Protagonist
+＃Protagonist
 "...It’s no wonder she’s feeling unwell given the situation."
-#Narumi
+＃Narumi
 "Of course. Even the Madam’s appetite has decreased."
 Narumi-san muttered as she gazed down the western corridor.
 Only Maya-san was left on the west side.
 ...Given that Benio-san had died, it was no wonder.
 Only Maya-san and Souko-san were on the west side.
-#Protagonist
+＃Protagonist
 "...I just hope nothing else happens."
-#Narumi
+＃Narumi
 "...If I were the killer, I’d think tonight was the climax and try to make a move. Although if they’ve already achieved their goal, maybe not..."
-#Protagonist
+＃Protagonist
 "What do you think the killer's goal is?"
-#Narumi
+＃Narumi
 "Something other than money, surely. If it were truly an inheritance dispute, there’d be no point in killing Rokuyou-san first, and kicking out the competition wouldn't get you the money."
-#Protagonist
+＃Protagonist
 "True... the remaining person would just become the prime suspect..."
-#Narumi
+＃Narumi
 "Exactly. So I think the goal is something other than money—a grudge, or a crime of passion."
-#Protagonist
+＃Protagonist
 "A crime of passion, huh..."
 I wondered if there was something more to Rokuyou-san's murder as well.
 Since that was where it all began—
-#Narumi
+＃Narumi
 "Eh—Shion-ojousama!?"
 Narumi-san cried out as she looked down the northern corridor.

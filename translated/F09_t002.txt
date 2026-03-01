@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "...The fact the killer is losing their composure means we've likely cornered them. The suspects are narrowing down, and tonight will be the climax."
-#Protagonist
+＃Protagonist
 "True..."
-#Maya
+＃Maya
 "How terrifying... who could have done such a thing..."
-#Protagonist
+＃Protagonist
 "...I'm in the middle of investigating that right now."
-#Ai
+＃Ai
 "...Why did such a thing have to happen to Kirihara-san...?"
-#Protagonist
+＃Protagonist
 "I think it's because she was investigating..."
-#Benio
+＃Benio
 "The reason her room was targeted... if it's because she was snooping around, that would apply to you as well. So there must be something else..."
-#Protagonist
+＃Protagonist
 "I wonder..."
-#Shion
+＃Shion
 "Who could have done such a thing...?"
-#Protagonist
+＃Protagonist
 "We don't... know yet."
-#Tsujimura
+＃Tsujimura
 "...Would it be all right if I washed that off...?"
-#Protagonist
+＃Protagonist
 "I'm not sure... I'd certainly like to see it gone, though..."
-#Takamine
+＃Takamine
 "A warning...? It's far too late for that. I doubt it serves any real purpose."
-#Protagonist
+＃Protagonist
 "Is that so...?"
-#Mikanagi
+＃Mikanagi
 "...It's undoubtedly blood. Whether it's Isamu's... or the killer's own blood... we won't know without a proper appraisal."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "...The killer warned her because Mistress Kirihara is snooping around, right? I don't think doing something like that will have any effect, though..."
-#Protagonist
+＃Protagonist
 "True..."
-#Narumi
+＃Narumi
 "A warning written in blood, huh... the fact they'd go to the trouble of warning her means they're likely not done yet..."
-#Protagonist
+＃Protagonist
 "Maybe so..."

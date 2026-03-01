@@ -1,6 +1,6 @@
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-#Protagonist
+＃Protagonist
 "Huh... I guess he's not in."
 There was no response, no matter how long I waited.
 Oh well, I'll go somewhere else.

@@ -1,11 +1,11 @@
 I straightened my clothes and then turned toward Akane-san.
-#Protagonist
+＃Protagonist
 "Um, I'm going to go check on the kitchen, so I'll call Narumi-san to come look after you."
-#Akane
+＃Akane
 "Yes, I understand."
 Akane-san nodded.
-#Protagonist
+＃Protagonist
 "Well then, see you later."
-#Akane
+＃Akane
 "Yes... really, thank you very much."
 With Akane-san seeing me off, I left her room.

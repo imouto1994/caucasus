@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "The possibility of Mikanagi-sensei... I can't say it's zero, but in that case, we'd have to doubt the autopsy results as well..."
-#Protagonist
+＃Protagonist
 "...True."
-#Maya
+＃Maya
 "Mikanagi-sensei and Isamu-san were close in age, and I heard they used to play together often as children."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "If it's Mikanagi-sensei, he's usually in the infirmary."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "The possibility of Hiroshi being the killer... I wonder. You were in the room next door, didn't you notice anything?"
-#Protagonist
+＃Protagonist
 "No, nothing in particular..."
-#Shion
+＃Shion
 "Mikanagi-sensei... I'm sorry, I don't really know right now..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Mikanagi-sensei and Master Rokuyou have known each other for a long time, so his grief must be profound..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I heard Mikanagi-sensei and Rokuyou-kun were best friends. They likely had their squabbles... but I haven't heard of any definitive falling out."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Last night I went to sleep immediately after speaking with you all."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "What... are you actually suspecting Mikanagi-sensei!? Mikanagi-sensei would never do such a thing!"
-#Protagonist
+＃Protagonist
 "I... I understand, please calm down..."
-#Narumi
+＃Narumi
 "There was nothing strange about Mikanagi-sensei. He seemed like his usual self last night too."
-#Protagonist
+＃Protagonist
 "I see..."

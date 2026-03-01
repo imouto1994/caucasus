@@ -1,29 +1,29 @@
 I arrived in front of Maya-san's room at the far end of the west side of the second floor.
-#Protagonist
+＃Protagonist
 "Maya-san, are you awake?"
 The door opened, and Maya-san peeked her face out.
-#Maya
+＃Maya
 "Oh... what brings you here at this hour?"
-#Protagonist
+＃Protagonist
 "I thought I'd protect you here tonight, Maya-san."
-#Maya
+＃Maya
 "Oh my..."
-#Protagonist
+＃Protagonist
 "The one most likely to be targeted next is you, Maya-san. I want to prevent any further casualties somehow."
-#Maya
+＃Maya
 "But... I can't let a guest do such a thing."
-#Protagonist
+＃Protagonist
 "But I want to prevent any further victims from appearing."
-#Maya
+＃Maya
 "Hehe... thank you. But there's no need for worry. Besides... I can't let a gentleman stay in my room."
-#Protagonist
+＃Protagonist
 "Y-You're right, of course..."
-#Maya
+＃Maya
 "I'll make sure to lock the door and rest tonight. Thank you very much for your advice."
-#Protagonist
+＃Protagonist
 "No... I'm the one who should apologize for saying such a strange thing."
-#Maya
+＃Maya
 "Well then, good night."
-#Protagonist
+＃Protagonist
 "...Phew."
 It can't be helped; I'll head back to my room and rest.

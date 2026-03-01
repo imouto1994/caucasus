@@ -1,48 +1,48 @@
-#Souko
+＃Souko
 "There was an incident like this before...? But if no one died, it wouldn't be considered a similar incident. It seems Tsujimura-san is hiding something..."
-#Protagonist
+＃Protagonist
 "Maybe so..."
-#Maya
+＃Maya
 "A similar incident... No, I've never heard of such a thing..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "A similar incident... It would be a problem if things like this happened all the time."
-#Protagonist
+＃Protagonist
 "Right..."
-#Benio
+＃Benio
 "Something like this happened before... Is that what Tsujimura said? ...In that case, it must be something related to the 'Curse of the Seven Possessed'..."
-#Protagonist
+＃Protagonist
 "Maybe so..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "That was... well, it was a long time ago..."
-#Protagonist
+＃Protagonist
 "...Please tell me, Tsujimura-san. Even if it was a long time ago... what happened? It might be connected to what's happening now."
-#Tsujimura
+＃Tsujimura
 "B-But... I am sorry, I simply cannot..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "A similar incident, huh..."
-#Protagonist
+＃Protagonist
 "Do you know something?"
-#Takamine
+＃Takamine
 "...No, I don't."
-#Protagonist
+＃Protagonist
 "...I see."
-#Mikanagi
+＃Mikanagi
 "A similar incident... I can't really say."
-#Protagonist
+＃Protagonist
 "Right..."
-#Akane
+＃Akane
 "Similar... No, I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

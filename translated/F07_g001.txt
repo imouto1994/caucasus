@@ -1,44 +1,44 @@
-#Souko
+＃Souko
 "If you were looking into Nanatsuki Village, it's a story that would come up immediately. Although I couldn't find any literature that goes into detail."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "...I am aware that such rumors are circulating in the village. However, I do not know the details."
-#Protagonist
+＃Protagonist
 "...I see."
-#Ai
+＃Ai
 "...I do not wish to answer regarding that matter."
-#Protagonist
+＃Protagonist
 "I see... I'm sorry."
-#Benio
+＃Benio
 "The 'Curse of the Seven Possessed,' huh... well, fine. First, 'Item one: the case where the heads of the Nanatsuki family all die strange deaths.' 'Item two: the case where no males are born into the Nanatsuki family.'"
-#Benio
+＃Benio
 "'Item three: the case of the disappearances in Nanatsuki Village.' 'Item four: the case of the mansion being painted pitch black.' 'Item five: the case of a massive flock of crows covering the mansion.'"
-#Benio
+＃Benio
 "'Item six: the case of the "Sacrifice of the Seven Possessed."' 'Item seven: the case of the spirit of the girl used as a sacrifice wandering the mansion.' ...That is all."
-#Protagonist
+＃Protagonist
 "Wow... thank you very much."
-#Shion
+＃Shion
 "The Curse of the Seven Possessed... is it? ...I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "No, it's all right."
-#Tsujimura
+＃Tsujimura
 "I don't really know much about such things..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "I have no interest in such nonsense."
-#Protagonist
+＃Protagonist
 "I-I see..."
-#Mikanagi
+＃Mikanagi
 "A curse? ...Ah, it's probably just a rumor, right? I think Benio-san would know more about those kinds of stories."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "A-A curse, is it... I know there are all sorts of things being said... but it's scary, isn't it?"
-#Protagonist
+＃Protagonist
 "You're right..."
-#Narumi
+＃Narumi
 "A curse? It's true that they say all sorts of things in town... but if you want details, why don't you try asking Lady Benio?"
-#Protagonist
+＃Protagonist
 "Good idea."

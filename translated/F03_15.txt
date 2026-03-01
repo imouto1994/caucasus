@@ -1,86 +1,86 @@
 I’ve reached the front of Takamine-san's room.
 I wonder if he's in... feeling a bit nervous, I knock on the door.
-#Takamine
+＃Takamine
 "Who is it? Oh, you. What's the matter?"
-#Protagonist
+＃Protagonist
 "Um, could I talk to you for a moment?"
-#Takamine
+＃Takamine
 "Well, I don't mind..."
-#Protagonist
+＃Protagonist
 "Y-Yes..."
-#Takamine
+＃Takamine
 "So, what's your business?"
-#Protagonist
+＃Protagonist
 "Um..."
 I’ve reached the front of Takamine-san's room.
 I wonder if he's in... feeling a bit nervous, I knock on the door.
-#Takamine
+＃Takamine
 "...You again."
-#Protagonist
+＃Protagonist
 "U-Um, could I talk to you for a moment?"
-#Takamine
+＃Takamine
 "Fine, I suppose. Come in."
-#Protagonist
+＃Protagonist
 "Y-Yes..."
 He's still scary...
-#Takamine
+＃Takamine
 "What is it this time?"
-#Protagonist
+＃Protagonist
 "Well, you see..."
 I’ve reached the front of Takamine-san's room.
-#Protagonist
+＃Protagonist
 "Um, Akane-san."
-#Akane
+＃Akane
 "Yes?"
-#Protagonist
+＃Protagonist
 "Don't you find Takamine-san a bit... frightening?"
-#Akane
+＃Akane
 "Eh, really?"
 Akane-san looks blankly at me.
-#Akane
+＃Akane
 "He isn't very friendly, but he's a good person, you know?"
-#Protagonist
+＃Protagonist
 "I know he's not a bad person, but still."
 Even so, he's still a bit scary.
-#Akane
+＃Akane
 "Well then, I'll ask Takamine-sama about Lady Ai."
 With that, Akane-san knocks on the door.
-#Takamine
+＃Takamine
 "...What is it?"
 Takamine-san peeks out.
-#Akane
+＃Akane
 "Takamine-sama, have you seen Lady Ai around?"
-#Takamine
+＃Takamine
 "Ai-kun? ...No, I haven't."
-#Akane
+＃Akane
 "I see..."
-#Takamine
+＃Takamine
 "...Did something happen?"
-#Akane
+＃Akane
 "The thing is... she hasn't been seen for a while."
-#Takamine
+＃Takamine
 "Hmm..."
 Takamine-san seems to be lost in thought for a moment.
-#Protagonist
+＃Protagonist
 "Um, please let us know if you see Ai-san."
-#Takamine
+＃Takamine
 "...Understood. I'll look for her as well."
-#Akane
+＃Akane
 "Then, we'll be going. Please excuse us."
-#Protagonist
+＃Protagonist
 "Now, let's head elsewhere."
 We decided to move on.
 I’ve reached the front of Takamine-san's room again.
-#Protagonist
+＃Protagonist
 "...Akane-san, if you would."
-#Akane
+＃Akane
 "Yes, understood."
 Akane-san steps forward and knocks on the door.
-#Akane
+＃Akane
 "Oh... it seems he isn't in."
 We waited for a while, but there was no sign of Takamine-san coming out.
-#Protagonist
+＃Protagonist
 "I wonder if he's out searching for her."
-#Akane
+＃Akane
 "I'm sure that's it. Well then, let's go too."
 Prompted by Akane-san, I headed for another location.

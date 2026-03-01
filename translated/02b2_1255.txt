@@ -1,121 +1,121 @@
 As I stepped out into the hallway, I happened to run into Benio-san.
-#Benio
+＃Benio
 "Hello there."
-#Protagonist
+＃Protagonist
 "Hello."
-#Benio
+＃Benio
 "You're quite the lady-killer, aren't you."
-#Protagonist
+＃Protagonist
 "Eh?"
-#Benio
+＃Benio
 "You were walking Shion back, weren't you?"
-#Protagonist
+＃Protagonist
 "Were you watching...?"
 I let out a sigh.
-#Protagonist
+＃Protagonist
 "It's not anything like that."
-#Benio
+＃Benio
 "And what exactly is 'that'?"
-#Protagonist
+＃Protagonist
 "Shion-san just lost her husband—well, Rokuyou-san—didn't she?"
-#Benio
+＃Benio
 "The ceremony wasn't completed, so they never actually became husband and wife, did they?"
-#Benio
+＃Benio
 "...It's not as if they were in love, either."
-#Protagonist
+＃Protagonist
 "But still..."
-#Benio
+＃Benio
 "—I suppose anyone would have sufficed, so long as they were the one to liberate her from that tower."
 Benio-san murmured to herself.
-#Protagonist
+＃Protagonist
 "Benio-san—?"
-#Benio
+＃Benio
 "Setting that aside, has my sister been found yet?"
-#Protagonist
+＃Protagonist
 "Eh, no... not yet..."
-#Benio
+＃Benio
 "I see..."
-#Souko
+＃Souko
 "Oh, what are you two doing in a place like this?"
 Souko-san came walking over from the direction of the hall.
-#Protagonist
+＃Protagonist
 "Souko-san... Ai-san hasn't been found yet."
-#Souko
+＃Souko
 "I see..."
-#Benio
+＃Benio
 "There's no point in just talking here. Let's head to the hall for now and figure out our next move."
-#Protagonist
+＃Protagonist
 "...You're right."
 In the Great Hall were Maya-san and Dr. Mikanagi.
 Maya-san looked terribly haggard.
-#Maya
+＃Maya
 "Um... has Ai... been found...?"
 I silently shook my head.
-#Maya
+＃Maya
 "Is... that so..."
-#Mikanagi
+＃Mikanagi
 "Let's go to the infirmary."
 At Dr. Mikanagi's urging, Maya-san stood up.
-#Maya
+＃Maya
 "Please... find Ai..."
 After bowing to us, Maya-san left.
 Tsujimura-san entered as she was leaving.
-#Tsujimura
+＃Tsujimura
 "Where is the Madam...?"
-#Souko
+＃Souko
 "She doesn't seem to be feeling well."
-#Tsujimura
+＃Tsujimura
 "I see..."
 Tsujimura-san was also lacking energy.
-#Tsujimura
+＃Tsujimura
 "I've looked around the basement and other areas... but Miss Ai was nowhere to be found..."
-#Protagonist
+＃Protagonist
 "Is there anywhere we haven't looked yet?"
-#Tsujimura
+＃Tsujimura
 "Even if you say that... I cannot enter the guests' rooms..."
-#Souko
+＃Souko
 "Is there a possibility she went outside?"
 Tsujimura-san shook his head at Souko-san's question.
-#Tsujimura
+＃Tsujimura
 "There were no footprints at the front entrance or the back door. Though, since it's still snowing, any footprints might have been erased as time passed."
-#Protagonist
+＃Protagonist
 "The last time I saw Ai-san was just before eleven. That would be two hours ago now..."
-#Benio
+＃Benio
 "In two hours, unless it was a fierce blizzard like last night, footprints wouldn't completely disappear."
-#Souko
+＃Souko
 "If that's the case, then she's almost certainly still inside the building..."
-#Protagonist
+＃Protagonist
 "But—"
 And with that, I swallowed my words.
 But—if she still hasn't turned up after all this searching.
-#Benio
+＃Benio
 "—Tsujimura."
 Benio-san spoke up.
-#Tsujimura
+＃Tsujimura
 "Yes, what is it?"
-#Benio
+＃Benio
 "Did you check the attic?"
-#Tsujimura
+＃Tsujimura
 "—!"
 Tsujimura-san gasped.
-#Souko
+＃Souko
 "The attic?"
-#Benio
+＃Benio
 "Yes. Didn't the bell ring at midnight last night? There's a room where that machinery is kept."
-#Souko
+＃Souko
 "You said it usually only rings at noon. ...I wonder if it rang earlier?"
-#Protagonist
+＃Protagonist
 "Eh...?"
 Come to think of it... did I hear the sound of the bell?
-#Benio
+＃Benio
 "...I didn't really pay much attention to it."
-#Tsujimura
+＃Tsujimura
 "Yes... I'm ashamed to admit that I wasn't paying attention either."
-#Protagonist
+＃Protagonist
 "...Let's go. Maybe—"
 Ai-san might be there.
-#Souko
+＃Souko
 "...You're right. Tsujimura-san, please lead the way."
-#Tsujimura
+＃Tsujimura
 "Y-Yes... this way."
 Souko-san and I followed behind Tsujimura-san as we left the hall.

@@ -1,33 +1,33 @@
 I returned to my room.
-#Souko
+＃Souko
 "Did something happen...?"
 Souko-san was awake.
-#Protagonist
+＃Protagonist
 "Well, yeah... I heard some kind of noise."
-#Souko
+＃Souko
 "Noises happen all the time... honestly."
 She flopped back down onto the bed.
-#Protagonist
+＃Protagonist
 "Wait, Souko-san, if you're awake, then please go back to your own room."
-#Souko
+＃Souko
 "Mmn... fine, I hear you."
 Souko-san finally stood up.
-#Souko
+＃Souko
 "Was that noise from downstairs?"
-#Protagonist
+＃Protagonist
 "I think so... Tsujimura-san said it was a mountain spirit..."
-#Souko
+＃Souko
 "The 'Curse' again, perhaps?"
-#Protagonist
+＃Protagonist
 "Surely you're not... planning to investigate?"
-#Souko
+＃Souko
 "Of course not. I'm tired. If we do it, it'll be tomorrow."
-#Protagonist
+＃Protagonist
 "...Right."
 I suppose I didn't have to worry about being dragged around anymore tonight.
-#Souko
+＃Souko
 "Well then, good night. I've already warmed up the bed for you."
 With just those words, Souko-san left the room.
-#Protagonist
+＃Protagonist
 "...Guess I'll sleep."
 It wasn't that I'd been expecting it or anything, but as I crawled under the covers and felt the lingering warmth of Souko-san's body, I finally drifted off to sleep.

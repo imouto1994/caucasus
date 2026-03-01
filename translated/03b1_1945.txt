@@ -1,32 +1,32 @@
 Once I cut the search short and returned to the hall, Tsujimura-san and Takamine-san were there.
-#Takamine
+＃Takamine
 "Did you find her?"
 Noticing me, Takamine-san called out.
-#Protagonist
+＃Protagonist
 "No... I looked around most places, but..."
-#Tsujimura
+＃Tsujimura
 "I checked the rooms that were kept locked, but she was nowhere to be found."
-#Takamine
+＃Takamine
 "Honestly... it's because you people keep provoking the culprit."
-#Protagonist
+＃Protagonist
 "That's..."
-#Tsujimura
+＃Tsujimura
 "This is no time for such talk."
 Tsujimura-san interjected.
-#Tsujimura
+＃Tsujimura
 "Where on earth could she have gone...?"
-#Narumi
+＃Narumi
 "Ah... Tsujimura-san!"
 Narumi-san rushed into the hall from the eastern corridor.
-#Tsujimura
+＃Tsujimura
 "Has something happened...?"
-#Narumi
+＃Narumi
 "The kitchen smells like something's burning! Something... might still be on fire..."
-#Protagonist
+＃Protagonist
 "What...!?"
 The kitchen had been left as it was since the explosion at noon.
 It was unlikely that something would start burning now, but...
-#Protagonist
+＃Protagonist
 "...I'm going to take a look."
 What could it be?
 I had a tremendously bad premonition.

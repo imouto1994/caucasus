@@ -1,44 +1,44 @@
-#Souko
+＃Souko
 "Benio-san? ...Well, I still don't quite have a read on her. It feels like she’s putting on an act, though..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Maya
+＃Maya
 "Benio? She's a bit peculiar, but she's a good girl."
-#Protagonist
+＃Protagonist
 "I see."
-#Ai
+＃Ai
 "About Benio? She has her quirks, but she isn't a bad child."
-#Protagonist
+＃Protagonist
 "I see."
-#Benio
+＃Benio
 "About me? ...I don't really have much to tell you..."
-#Protagonist
+＃Protagonist
 "Is that so?"
-#Benio
+＃Benio
 "Yes, well..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "Lady Benio? ...I have nothing in particular to say on that matter..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Rokuyou
+＃Rokuyou
 "Benio? She's a very sweet girl. A bit eccentric, perhaps."
-#Protagonist
+＃Protagonist
 "...Is that right?"
-#Takamine
+＃Takamine
 "Benio-kun... well, she is certainly unconventional..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "Benio-san? She's an interesting one."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Akane
+＃Akane
 "Lady Benio? Wouldn't she be in her room?"
-#Protagonist
+＃Protagonist
 "Ah... I suppose so."
-#Narumi
+＃Narumi
 "Lady Benio? ...Well, it's not my place to say anything."
-#Protagonist
+＃Protagonist
 "I see..."

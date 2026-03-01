@@ -1,72 +1,72 @@
-#Souko
+＃Souko
 "I wonder if there's a connection between Shion-san being targeted and you two being locked in the basement..."
-#Protagonist
+＃Protagonist
 "I wonder..."
-#Souko
+＃Souko
 "...There's a good chance Shion-san will be targeted by the killer. We have to make sure she's careful..."
-#Protagonist
+＃Protagonist
 "Right..."
-#Maya
+＃Maya
 "To think even Shion was targeted..."
-#Protagonist
+＃Protagonist
 "Her life isn't in danger, so please don't worry."
-#Maya
+＃Maya
 "Shion is still safe, isn't she...?"
-#Protagonist
+＃Protagonist
 "Yes... there's no need to worry."
-#Ai
+＃Ai
 "Why even Shion... Why...!"
-#Protagonist
+＃Protagonist
 "...We don't know that yet."
-#Ai
+＃Ai
 "I'm glad it was me who was targeted... if it had been Shion..."
-#Protagonist
+＃Protagonist
 "Ai-san..."
-#Shion
+＃Shion
 "I'm... all right now. I'm sorry to have worried you."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "I... don't really understand what is happening... I am sorry..."
-#Protagonist
+＃Protagonist
 "No..."
-#Tsujimura
+＃Tsujimura
 "So even Lady Shion is not safe after all..."
-#Protagonist
+＃Protagonist
 "It seems so..."
-#Tsujimura
+＃Tsujimura
 "...Lady Shion seems to be quite depressed..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "...Shion-kun is safe, I assume?"
-#Protagonist
+＃Protagonist
 "Y-Yeah..."
-#Takamine
+＃Takamine
 "There's a possibility that danger could close in on Shion-kun as well. Keep an eye on her."
-#Protagonist
+＃Protagonist
 "Right..."
-#Mikanagi
+＃Mikanagi
 "Shion-san's condition has mostly recovered. It seems the poison was a very small dose, and she threw it up immediately."
-#Protagonist
+＃Protagonist
 "I see..."
-#Mikanagi
+＃Mikanagi
 "If you're looking for Shion-san, she's likely in her room or the office."
-#Protagonist
+＃Protagonist
 "I see."
-#Akane
+＃Akane
 "So even Lady Shion is being targeted... What on earth is the killer's objective...?"
-#Protagonist
+＃Protagonist
 "Good question..."
-#Akane
+＃Akane
 "Lady Shion? I believe she is likely in her room..."
-#Protagonist
+＃Protagonist
 "I see."
-#Narumi
+＃Narumi
 "I don't think you need to worry about Lady Shion's condition... but who could have done it..."
-#Protagonist
+＃Protagonist
 "Yeah..."
-#Narumi
+＃Narumi
 "If it's Lady Shion, she's probably in her room or the office, right?"
-#Protagonist
+＃Protagonist
 "I see."

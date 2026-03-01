@@ -14,7 +14,7 @@ It's Dr. Mikanagi's bed.
 It looks like there are a few wrinkles on it.
 If I'm going to take a break, I should head back to my own room.
 When I opened the bottom drawer, I found an aged leather bag inside.
-#Protagonist
+＃Protagonist
 "This must be it..."
 When I tried to lift it, it felt quite heavy.
 I don't know much about medical tools, but it seems to have things like a stethoscope inside.
@@ -23,7 +23,7 @@ A large gramophone is placed here.
 I wonder if Dr. Mikanagi likes music.
 A jazz record appears to be set on it.
 When I saw the photograph inside the drawer, I was a bit surprised.
-#Protagonist
+＃Protagonist
 "This is..."
 A woman in a maid's uniform.
 Who is she...? She looks different from Akane-san or Narumi-san.
@@ -31,7 +31,7 @@ But the clothes look the same as the ones Akane-san wears.
 Perhaps she's someone who worked here before?
 I'll keep that in the back of my mind.
 It's a photograph of a woman in a maid's uniform.
-#Protagonist
+＃Protagonist
 "Hm...?"
 A scrap of paper fell out from inside a book.
 What could this be...?
@@ -41,7 +41,7 @@ Fine, if you're going to go that far, I'll have some. With those words, I timidl
 A squelching, unpleasant sensation traveled through my fingertips. Suddenly, a thick, white liquid began to ooze from the gap between the dough and the toothpick.
 H-Eeeek! Startled, I reflexively dropped it.
 With a sickening thud, the object collided with the floor. ~To be continued~
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 A scrap of paper titled "Story of a Certain Man - Chapter 6" is tucked inside.
 I flip through the book, but there's nothing unusual about it.

@@ -2,10 +2,10 @@ I’ve arrived at the first-floor hall.
 It seems like no one is here.
 What should I do...?
 I’ve arrived at the first-floor hall.
-#Akane
+＃Akane
 "She isn't here either..."
 Ai-san is nowhere to be found.
-#Protagonist
+＃Protagonist
 "Let's look somewhere else."
-#Akane
+＃Akane
 "...Alright."

@@ -6,19 +6,19 @@ When I put my hand to the door, it opened easily.
 In other words, she must be in her room.
 I go inside, brush the snow off my body, and head up the stairs.
 I knock lightly on the door.
-#Protagonist
+＃Protagonist
 "Shion-san, it's me."
 The door opens, and Shion-san peeks her head out with an anxious look.
-#Shion
+＃Shion
 "Is something the matter...?"
-#Protagonist
+＃Protagonist
 "I'm doing rounds of the mansion. Shion-san, has anything unusual happened?"
-#Shion
+＃Shion
 "Anything unusual... no, nothing in particular, but..."
-#Protagonist
+＃Protagonist
 "I see. Well then—"
 I've come to the front of Shion-san's room.
-#Protagonist
+＃Protagonist
 "Shion-san, it's me."
-#Shion
+＃Shion
 "Um, was there something else...?"

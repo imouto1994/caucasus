@@ -1,6 +1,6 @@
 I've made it all the way to the kitchen.
 However...
-#Protagonist
+＃Protagonist
 "...Did they lock it?"
 Tsujimura-san probably locked it because it's dangerous.
 I feel like the smell of smoke is still hanging in the air.

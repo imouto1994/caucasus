@@ -1,40 +1,40 @@
-#Souko
+＃Souko
 "It wouldn't be strange at all for something like that to exist. The question is where it is... it seems like it'd be buried in the snow."
-#Protagonist
+＃Protagonist
 "You're right..."
-#Maya
+＃Maya
 "There are no assets that must be hidden. We pay our taxes properly."
-#Protagonist
+＃Protagonist
 "I see..."
-#Ai
+＃Ai
 "Hidden wealth, is it... I've never heard of it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Benio
+＃Benio
 "Hidden wealth? It would be interesting if it existed... but I haven't heard anything from Father either. But then, anything could happen in this house."
-#Protagonist
+＃Protagonist
 "I see..."
-#Shion
+＃Shion
 "Um... I'm sorry, I don't really know..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Tsujimura
+＃Tsujimura
 "I have never heard of such a thing existing... I think it would be useless to try and look for it."
-#Protagonist
+＃Protagonist
 "I see..."
-#Takamine
+＃Takamine
 "If possible, I'd rather people didn't spread rumors like that. It might cause an increase in incidents."
-#Protagonist
+＃Protagonist
 "...That might be true."
-#Mikanagi
+＃Mikanagi
 "Hidden wealth, huh... I haven't heard any stories about such a thing, but..."
-#Protagonist
+＃Protagonist
 "I see..."
-#Akane
+＃Akane
 "I'm sorry... I don't really know."
-#Protagonist
+＃Protagonist
 "I see..."
-#Narumi
+＃Narumi
 "I don't really know about that."
-#Protagonist
+＃Protagonist
 "I see..."

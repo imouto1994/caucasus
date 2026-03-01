@@ -1,56 +1,56 @@
-#Souko
+＃Souko
 "Narumi-san, huh... There are times when I honestly have no idea what's going on in that head of hers..."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Souko
+＃Souko
 "It looks like she was injured in that explosion earlier... I wonder if she's alright."
-#Protagonist
+＃Protagonist
 "I suppose so..."
-#Maya
+＃Maya
 "Narumi? Her talent for cooking is truly wonderful. However... I do wish she would take her other duties a bit more seriously..."
-#Protagonist
+＃Protagonist
 "...I see."
-#Maya
+＃Maya
 "The explosion in the kitchen... yes... I wonder if she is quite alright..."
-#Protagonist
+＃Protagonist
 "I believe she'll be fine, but..."
-#Ai
+＃Ai
 "Narumi-san... Her cooking is always delicious, but... well, her performance in her other tasks is a bit..."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Ai
+＃Ai
 "Narumi-san was caught in the explosion... Was she the target, I wonder..."
-#Protagonist
+＃Protagonist
 "Who knows..."
-#Benio
+＃Benio
 "Narumi? Her skills in the kitchen are top-tier, at least. As for everything else... well, you can imagine."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Benio
+＃Benio
 "...The kitchen explosion might have been an attempt on her life. However... it may be too hasty to conclude that just yet..."
-#Protagonist
+＃Protagonist
 "I wonder..."
-#Tsujimura
+＃Tsujimura
 "As for Mizumori-san... it would be a great help to me as well if she would work diligently at things other than just cooking..."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Tsujimura
+＃Tsujimura
 "Mizumori-san is currently resting in her room. Her injuries don't seem to be serious, but..."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Takamine
+＃Takamine
 "Mizumori-kun... I don't know her well. The food isn't bad, but..."
-#Protagonist
+＃Protagonist
 "I see."
-#Takamine
+＃Takamine
 "There's a possibility Mizumori-kun was targeted... but if so, why?"
-#Protagonist
+＃Protagonist
 "We don't know that yet..."
-#Mikanagi
+＃Mikanagi
 "Narumi-san? Her cooking is delicious. Everything else... I don't know much about."
-#Protagonist
+＃Protagonist
 "Is that so..."
-#Mikanagi
+＃Mikanagi
 "Narumi-san's injuries aren't an issue. It seems she managed to move away just in time."
-#Protagonist
+＃Protagonist
 "Is that so..."

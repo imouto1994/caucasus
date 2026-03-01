@@ -5,247 +5,247 @@ Unlike the exterior, it gave off a very calm impression.
 Perhaps it was due to the monochrome color scheme.
 Even so, to a commoner like me, the overwhelming feeling was that I had wandered into a place where I didn't belong.
 I hesitated, wondering if it was really alright to step on this carpet with shoes still wet from the snowy path.
-#Benio
+＃Benio
 "I'll have a room prepared for you shortly. In the meantime, please make yourselves at home in the drawing room."
-#Protagonist
+＃Protagonist
 "Thank you very much."
 It was just as I offered my thanks.
-#???
+＃???
 "Benio, are you back?"
 A voice called out from above.
-#Benio
+＃Benio
 "Ah, Sister. I've just returned."
 Benio-san looked up toward the second floor.
 Following her gaze, I saw a woman descending the staircase that led from the second floor.
-#???
+＃???
 "I'm glad you made it back before the snow got any worse. And who are our guests?"
 The woman looked at us and questioned Benio-san.
-#Benio
+＃Benio
 "Yes, they seemed to have lost their way in this snow. They intended to head for the village, but given the weather, I invited them here."
-#???
+＃???
 "I see... You must have had a difficult time."
-#Protagonist
+＃Protagonist
 "Thanks to her, we're safe."
-#???
+＃???
 "I am Ai, the eldest daughter of the Nanatsuki family."
-#Protagonist
+＃Protagonist
 "Ah, I'm Satoshi Kobayashi."
-#Souko
+＃Souko
 "I'm Souko Kirihara."
-#Benio
+＃Benio
 "Sister, let's not keep them standing. I'd like to show them to the drawing room."
-#Ai
+＃Ai
 "Yes, of course. This way, please."
 With that, Ai-san opened a door on the left.
 Beyond the door, another hallway stretched out.
 There were two doors on either side, and one large door at the very end.
 Ai-san opened the door at the far left.
-#Ai
+＃Ai
 "Please, come in."
-#Protagonist
+＃Protagonist
 "Pardon me."
 The room we were shown into appeared to be a drawing room.
 A fire burned brightly in the fireplace set into the wall.
-#Benio
+＃Benio
 "I shall go and prepare some hot tea."
 Benio-san left the room.
-#Ai
+＃Ai
 "Please, have a seat."
 I sat down on the sofa as instructed.
-#Ai
+＃Ai
 "There aren't any other houses in this area, so I'm truly glad you found us. The blizzard will only get worse from here on out."
-#Protagonist
+＃Protagonist
 "Is that so?"
-#Ai
+＃Ai
 "Yes. Every year at this time, without fail, a violent blizzard arrives that lasts for several days."
 Hearing that, I looked toward the window.
 Even though the sun should have set by now, it was a wall of white; I couldn't see a thing.
 Occasionally, the glass would creak and rattle.
-#Ai
+＃Ai
 "The local terrain likely plays a part, but some say it is the wrath of the mountain god."
-#Souko
+＃Souko
 "The god's wrath?"
-#Ai
+＃Ai
 "Yes... and some even call it a calamity brought upon the Nanatsuki family..."
-#Benio
+＃Benio
 "Sister, you'll frighten our guests speaking like that."
 Benio-san returned with a tray of cups.
-#Benio
+＃Benio
 "Here, please have some tea."
-#Protagonist
+＃Protagonist
 "Thank you."
 I cupped the tea in both hands.
 The warmth slowly seeped into my numb hands.
-#Souko
+＃Souko
 "Is this blizzard part of the 'Nanatsuki Curse' as well?"
-#Benio
+＃Benio
 "It may well be. After all, it is said that Father even mentioned the curse in his will."
-#Ai
+＃Ai
 "Stop it, Benio!"
 Ai-san scolded Benio-san with a sharp tone.
-#Benio
+＃Benio
 "It was a joke, Sister."
 Benio-san laughed, covering her mouth.
 It didn't sound like a joke at all to me...
 Souko-san must have felt the same; she was staring intently at Benio-san.
-#Souko
+＃Souko
 "By 'Father,' do you mean Kousei Nanatsuki, who passed away recently?"
-#Ai
+＃Ai
 "Yes. You are quite well-informed."
-#Benio
+＃Benio
 "It seems they are researching the legends of the Nanatsuki family."
-#Ai
+＃Ai
 "The legends... well..."
 Ai-san placed a hand to her mouth, looking troubled.
-#Ai
+＃Ai
 "Such matters aren't something to be spoken of lightly..."
-#Protagonist
+＃Protagonist
 "Ah, no, I'm sorry for prying like that."
 I apologized before Souko-san could cut in.
 A quick glance told me that, as expected, Souko-san looked displeased.
 I just didn't want to cause trouble for the people who had helped us...
 The door to the hallway opened.
-#Ai
+＃Ai
 "Ah... Mother."
 Ai-san stood up and straightened her posture.
 I instinctively started to stand as well, but the woman entering the room raised a hand slightly to stop me.
-#???
+＃???
 "Please, stay as you are."
 Her expression was gentle, yet she carried an unmistakable air of authority.
-#???
+＃???
 "I am Maya Nanatsuki, the current head of this house. I heard you were stranded nearby. You must have had a harrowing ordeal."
-#Protagonist
+＃Protagonist
 "No, it wasn't quite as dire as being 'stranded,' really."
 Although we certainly came close.
-#Maya
+＃Maya
 "I see. Please, do make yourselves comfortable here."
-#Souko
+＃Souko
 "Please, don't trouble yourself. I apologize for intruding so soon after the passing of Kousei-shi."
 For once, Souko-san gave a proper response and bowed her head.
 When she acts like this, she really seems like a cool, reliable senior.
-#Maya
+＃Maya
 "Oh? You were acquainted with my husband?"
-#Souko
+＃Souko
 "I've only had the pleasure of listening to some of his musical compositions."
-#Maya
+＃Maya
 "He would have been delighted to hear that."
 Maya-san lightly dabbed at the corners of her eyes.
-#Protagonist
+＃Protagonist
 "...Was he famous?"
-#Souko
+＃Souko
 "In a way. He's the kind of artist where those in the know really appreciate his work, though a boy like you probably wouldn't listen to it."
 I had assumed Souko-san just happened to pick up some trivia about him while looking into Nanatsuki Village.
-#Ai
+＃Ai
 "...In recent years, he became quite unable to compose music, and because of that...!"
 Ai-san bit her lip, cutting herself off.
-#Souko
+＃Souko
 "And because of that?"
-#Benio
+＃Benio
 "He committed suicide."
 Benio-san finished the sentence nonchalantly.
-#Ai
+＃Ai
 "Benio!"
 Ai-san grabbed Benio-san's sleeve.
-#Maya
+＃Maya
 "Let it be, Ai. It is simply the truth."
 Maya-san reproved Ai-san with a gentle voice.
-#Souko
+＃Souko
 "He took his own life?"
-#Maya
+＃Maya
 "...Yes. My husband was stricken with illness and did not have long to live. One morning, when I went to his room, he was already..."
-#Souko
+＃Souko
 "...I see. I'm sorry for asking."
-#Maya
+＃Maya
 "Don't be. ...By the way, how long do the two of you intend to stay with us?"
-#Protagonist
+＃Protagonist
 "Um... we plan to head out as soon as the blizzard lets up."
-#Benio
+＃Benio
 "I don't think it will stop for a while yet."
 Benio-san murmured while looking out the window.
-#Maya
+＃Maya
 "Indeed. ...I'll have rooms prepared for you, so please feel free to stay as long as you like."
-#Protagonist
+＃Protagonist
 "But... wouldn't we be a burden?"
 Even if she told me 'as long as I liked,' it was a bit overwhelming.
-#Maya
+＃Maya
 "Oh, I know. You both simply must attend the wedding ceremony."
-#Protagonist
+＃Protagonist
 "Eh!? A-A wedding...?"
 Being told that so out of the blue...
-#Ai
+＃Ai
 "It's not a formal affair by any means. It's more of a small ritual held only among relatives."
-#Protagonist
+＃Protagonist
 "But wouldn't it be an intrusion for us to be there?"
-#Benio
+＃Benio
 "Not at all. ...If you wish to research this place, I believe it's something you really should see."
 Benio-san whispered that into Souko-san's ear.
-#Souko
+＃Souko
 "Does it have something to do with our research?"
 Souko-san asked back with a dubious look.
-#Benio
+＃Benio
 "Of course. It's a very unusual custom."
-#Souko
+＃Souko
 "I see. ...In that case, would it be alright if we joined you? Ah, but our clothes are like this..."
 It seemed even Souko-san thought it would be bad form to attend a ceremony in everyday clothes.
-#Maya
+＃Maya
 "Hehe... I don't mind in the least."
-#Protagonist
+＃Protagonist
 "Eh, are you sure?"
-#Maya
+＃Maya
 "As long as you remain quiet during the ritual, there will be no problem."
-#Souko
+＃Souko
 "I understand. Thank you for having us."
 Souko-san bowed.
-#Ai
+＃Ai
 "The wedding rite begins at midnight, so please relax until then."
-#Protagonist
+＃Protagonist
 "Thank you very much."
-#Maya
+＃Maya
 "Now then, I have preparations to attend to. Ai, Benio, please show our guests around the interior."
-#Benio
+＃Benio
 "Understood, Mother."
 With a graceful bow, Maya-san left the room.
-#Protagonist
+＃Protagonist
 "She's a beautiful woman."
 I whispered softly to Souko-san beside me.
-#Souko
+＃Souko
 "Indeed. She looks so young, it's hard to believe she's the mother of these two... Oh, and whose wedding is it?"
 Souko-san asked the two sisters.
-#Ai
+＃Ai
 "Our youngest sister's."
-#Benio
+＃Benio
 "We are three sisters, you see."
-#Souko
+＃Souko
 "And where is she now?"
-#Ai
+＃Ai
 "Since it's before the ceremony, she should be waiting in her room. We'll introduce you later if there's a chance."
-#Benio
+＃Benio
 "Yes. But before that, we shall give you a tour of the mansion."
-#Protagonist
+＃Protagonist
 "Ah, right. Thank you."
-#Ai
+＃Ai
 "Should I or Benio show you around?"
 Hmm... who should I ask?
 Ask Ai
 Ask Benio
-#Protagonist
+＃Protagonist
 "Then, Ai-san, would you mind?"
-#Ai
+＃Ai
 "Certainly, I don't mind at all."
-#Benio
+＃Benio
 "I shall go and prepare for the ceremony. Until later, then."
 Benio-san left the room.
-#Ai
+＃Ai
 "Shall we go?"
 Following Ai-san, we stood up from the sofa and left the drawing room.
-#Protagonist
+＃Protagonist
 "In that case, Benio-san, if you please."
-#Benio
+＃Benio
 "Understood."
 Benio-san smiled.
-#Ai
+＃Ai
 "Then, I'll take my leave for now. See you later."
 Ai-san left the room.
-#Benio
+＃Benio
 "Shall we be off as well?"
 Guided by Benio-san, we departed from the drawing room.

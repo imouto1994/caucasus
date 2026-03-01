@@ -1,7 +1,7 @@
 The world outside the window is a wall of white; I can't see a thing.
 I wonder when this blizzard will finally let up...
 The storm outside seems to be growing even more violent.
-#Protagonist
+＃Protagonist
 "Hm...?"
 A scrap of paper has fallen under one of the chairs.
 What could this be...?
@@ -11,7 +11,7 @@ And those eyes... clouded with a terrifying grey... they were undoubtedly the ey
 Furthermore, he possessed a complex gaze that seemed to cry out from some profound loneliness; it left me with an indescribably ominous and eerie impression.
 Looking back now, I realize that allowing that stall to operate near the venue was the beginning of everything.
 I had crossed paths with a man whose eyes held both obsession and madness. ~To be continued~
-#Protagonist
+＃Protagonist
 "...What the hell is this?"
 A scrap of paper titled 'A Certain Man's Story: Chapter Two' lies on the floor.
 An incredibly expensive-looking painting is on display.
@@ -20,9 +20,9 @@ That really is a pricey-looking painting...
 The fire in the hearth has been extinguished.
 There should be no problem investigating it.
 I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
-#Protagonist
+＃Protagonist
 "...Doesn't look like it's here."
-#Narumi
+＃Narumi
 "So it seems. Let's search elsewhere."
 It appears that this is not the place.
 The tabletop has been cleared off neatly.

@@ -1,94 +1,94 @@
 When I reached the hall, I ran into Benio-san coming from the corridor on the opposite side.
-#Protagonist
+＃Protagonist
 "Oh, Benio-san."
-#Benio
+＃Benio
 "What is it?"
-#Protagonist
+＃Protagonist
 "Nothing, I just thought I should check to make sure everyone is safe..."
-#Benio
+＃Benio
 "...Did something happen?"
-#Protagonist
+＃Protagonist
 "Yeah, well..."
 I briefly explained that I’d been locked in the basement.
-#Benio
+＃Benio
 "Hmm... that is certainly a problem. It wouldn't be surprising if someone was up to something..."
-#Protagonist
+＃Protagonist
 "Was Tsujimura-san around?"
-#Benio
+＃Benio
 "Yes, he was in the office. Shion is likely in her room as well."
-#Protagonist
+＃Protagonist
 "I see. Then I'll go upstairs and check on Maya-san and the others."
-#Benio
+＃Benio
 "I'll go too."
 Benio-san and I climbed the stairs together.
 We reached Maya-san's room at the very end of the corridor.
 I knocked on the door.
-#Protagonist
+＃Protagonist
 "Maya-san, are you there?"
 The door opened, and a tired-looking Maya-san peered out.
-#Maya
+＃Maya
 "Is something the matter?"
-#Protagonist
+＃Protagonist
 "Has anything unusual happened?"
-#Maya
+＃Maya
 "No, nothing in particular..."
-#Benio
+＃Benio
 "Mother, please stay in your room for a while."
-#Maya
+＃Maya
 "Very well..."
 Though she looked suspicious, Maya-san returned to her room and closed the door.
-#Benio
+＃Benio
 "I don't want her hearing anything unnecessary."
-#Protagonist
+＃Protagonist
 "Right."
 Next was... Ai-san.
 I reached Ai-san's room and knocked.
-#Protagonist
+＃Protagonist
 "Ai-san, are you there?"
-#Ai
+＃Ai
 "Yes... what is it?"
 Ai-san peered out.
-#Benio
+＃Benio
 "Sister, has anything unusual happened?"
-#Ai
+＃Ai
 "Unusual... no, nothing?"
-#Protagonist
+＃Protagonist
 "I see. That's good."
-#Ai
+＃Ai
 "Did something happen?"
 Ai-san tilted her head.
-#Protagonist
+＃Protagonist
 "No, it's nothing major."
 I decided to keep the details hidden from Ai-san as well.
-#Ai
+＃Ai
 "I see..."
-#Benio
+＃Benio
 "We still don't know what might happen, so please stay alert, Sister."
-#Ai
+＃Ai
 "Yes, I understand."
 Ai-san went back into her room.
 Souko-san approached from the other end of the corridor.
-#Souko
+＃Souko
 "How is it here?"
-#Protagonist
+＃Protagonist
 "No problems here."
-#Souko
+＃Souko
 "Takamine-san was in his room too. Dr. Mikanagi... Akane-san went to check on him."
-#Benio
+＃Benio
 "It seems we can assume nothing has happened yet."
-#Souko
+＃Souko
 "Right... though we can't let our guard down."
-#Protagonist
+＃Protagonist
 "Yeah... so Benio-san, please wait in your room too."
-#Benio
+＃Benio
 "Hmm... that would probably be best."
-#Protagonist
+＃Protagonist
 "Souko-san, could you stay in your room as well? I'll call you when the food is ready."
-#Souko
+＃Souko
 "Sure, I understand. What about you?"
-#Protagonist
+＃Protagonist
 "I'm going back to the dining room. I need to talk to Akane-san too."
-#Benio
+＃Benio
 "I see. Bring some food by later, then."
-#Protagonist
+＃Protagonist
 "Understood."

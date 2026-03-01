@@ -1,24 +1,24 @@
 By the time we returned to the hall, a crowd had gathered.
-#Takamine
+＃Takamine
 "What happened?"
 Takamine-san asked.
-#Souko
+＃Souko
 "Yes... it seems the generator was tampered with."
-#Mikanagi
+＃Mikanagi
 "Whatever for...?"
-#Benio
+＃Benio
 "Doctor, first we're going to confirm everyone's safety."
 Benio-san cut Dr. Mikanagi off and spoke up.
-#Benio
+＃Benio
 "Lawyer Takamine and the Doctor are here. Where are Mother and the others?"
-#Mikanagi
+＃Mikanagi
 "Maya-san is in the drawing room. Narumi-san and Akane-san are there as well."
-#Benio
+＃Benio
 "...Where are my sister and Shion?"
-#Protagonist
+＃Protagonist
 "Ah, Ai-san is in my room."
-#Benio
+＃Benio
 "Why in your room... well, fine. Go check on her immediately."
-#Protagonist
+＃Protagonist
 "Yes, understood."
 Feeling the weight of Benio-san's suspicious gaze, I turned on my heel and headed up the stairs.

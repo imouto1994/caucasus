@@ -1,59 +1,59 @@
 While we waited in the corridor, Dr. Mikanagi came running.
-#Mikanagi
+＃Mikanagi
 "You say it was inside the oven?"
-#Protagonist
+＃Protagonist
 "Yes... it was being burned."
-#Mikanagi
+＃Mikanagi
 "In that case, identifying the body will be difficult... and the head is missing as well, isn't it?"
-#Tsujimura
+＃Tsujimura
 "Yes..."
-#Mikanagi
+＃Mikanagi
 "...I'll do everything I can."
 Dr. Mikanagi entered the kitchen.
-#Mikanagi
+＃Mikanagi
 "This is... horrible."
 Dr. Mikanagi grimaced upon seeing the corpse.
-#Mikanagi
+＃Mikanagi
 "Who is currently unaccounted for?"
-#Tsujimura
+＃Tsujimura
 "...The whereabouts of Hiyama-san and Kirihara-sama are unknown."
-#Mikanagi
+＃Mikanagi
 "So it's one of those two..."
-#Protagonist
+＃Protagonist
 "Um, is there a possibility that it's the body of Benio-san, Ai-san, or Rokuyou-san...?"
-#Mikanagi
+＃Mikanagi
 "...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Ai-san or Isamu."
-#Protagonist
+＃Protagonist
 "Um, is there a possibility that it's the body of Benio-san or Rokuyou-san...?"
-#Mikanagi
+＃Mikanagi
 "...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Isamu, but..."
-#Tsujimura
+＃Tsujimura
 "...I went to check Benio-ojousama's room, and her body was still there."
-#Protagonist
+＃Protagonist
 "I see..."
 So it really can only be Souko-san or Akane-san...
-#Mikanagi
+＃Mikanagi
 "If only there were some kind of clue... do you know of any physical characteristics of Kirihara-san's?"
-#Protagonist
+＃Protagonist
 "Characteristics...? Now that you mention it, she had injured her hand when coming here..."
-#Mikanagi
+＃Mikanagi
 "It was the pinky finger, if I recall..."
 Dr. Mikanagi began to examine what appeared to be the arm of the charred corpse.
-#Protagonist
+＃Protagonist
 "How is it...?"
-#Mikanagi
+＃Mikanagi
 "Wait a moment."
 Dr. Mikanagi's movements stopped.
-#Mikanagi
+＃Mikanagi
 "...It appears to be broken."
-#Protagonist
+＃Protagonist
 "Eh... then..."
-#Mikanagi
+＃Mikanagi
 "I can't say for certain, but it's most likely Kirihara-san."
-#Protagonist
+＃Protagonist
 "That's..."
 I slumped onto the kitchen floor.
-#Mikanagi
+＃Mikanagi
 "...I imagine the neck was severed before being burned. When it's been done to this extent, identification would be difficult even with the head, but..."
 Dr. Mikanagi's words no longer reached my ears.
 Why—

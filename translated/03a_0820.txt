@@ -1,161 +1,161 @@
 Now then... what should I do?
 There was a knock on the door from outside.
-#Protagonist
+＃Protagonist
 "Yes...?"
 I sat up and went to the door.
-#Akane
+＃Akane
 "Um, it's Hiyama."
-#Protagonist
+＃Protagonist
 "Akane-san...?"
 I wonder what she wants.
-#Akane
+＃Akane
 "Um... do you have a moment?"
-#Protagonist
+＃Protagonist
 "Yes, I don't mind... but what's wrong?"
 She looked troubled.
-#Akane
+＃Akane
 "Well... about last night."
-#Protagonist
+＃Protagonist
 "Last night? ...Ah."
 About her being in Mr. Kousei's study.
-#Akane
+＃Akane
 "Um... may I come in?"
-#Protagonist
+＃Protagonist
 "...Yes, please do."
 I let Akane-san into the room and closed the door.
 She probably doesn't want anyone to overhear.
-#Protagonist
+＃Protagonist
 "...Something about last night?"
-#Akane
+＃Akane
 "Yes... um, did you tell anyone about it...?"
-#Protagonist
+＃Protagonist
 "Well... I spoke with Dr. Mikanagi for a bit right after that."
-#Akane
+＃Akane
 "Eh..."
 The color drained from Akane-san's face.
-#Protagonist
+＃Protagonist
 "Dr. Mikanagi said he didn't think you were doing anything wrong, though... Akane-san?"
-#Akane
+＃Akane
 "Ah, no, um... did he say anything else...?"
-#Protagonist
+＃Protagonist
 "...No, not really."
-#Akane
+＃Akane
 "...I see."
 Was that a sigh of relief, or disappointment?
 She let out a very subtle sigh.
-#Akane
+＃Akane
 "Then... um, please keep what happened last night a secret."
-#Protagonist
+＃Protagonist
 "Yes, I understand."
-#Akane
+＃Akane
 "Well then... excuse me."
 Akane-san left the room.
 I don't know what she's trying to do, but I get the feeling it's at least not related to the current incident.
 If it is related... well, I'll deal with it then.
-#Protagonist
+＃Protagonist
 "That handkerchief... it was embroidered with 'Akari·M', wasn't it?"
-#Akane
+＃Akane
 "Ah, that..."
-#Protagonist
+＃Protagonist
 "Could it be... Akari Misono-san?"
-#Akane
+＃Akane
 "—!? H-How..."
-#Protagonist
+＃Protagonist
 "...I heard it from Dr. Mikanagi. He said she was someone precious to him."
-#Akane
+＃Akane
 "Someone precious..."
-#Protagonist
+＃Protagonist
 "...I think they might have been lovers."
-#Akane
+＃Akane
 "...I see."
-#Protagonist
+＃Protagonist
 "Um... Akane-san...?"
-#Akane
+＃Akane
 "...Akari Misono is my older sister."
-#Protagonist
+＃Protagonist
 "Eh..."
-#Akane
+＃Akane
 "She worked here at the Nanatsuki mansion. But... after some time, I suddenly stopped hearing from her."
-#Protagonist
+＃Protagonist
 "...There was no contact at all?"
 Akane-san shook her head at my question.
-#Akane
+＃Akane
 "...None. That's why I had to find out... I took my mother's surname and started working here."
-#Protagonist
+＃Protagonist
 "...Dr. Mikanagi said something similar."
-#Akane
+＃Akane
 "I see..."
 There were tears in Akane-san's voice.
-#Akane
+＃Akane
 "I've been looking for clues ever since I got here, but... I haven't found anything..."
-#Protagonist
+＃Protagonist
 "...Have you talked to anyone else about it?"
-#Akane
+＃Akane
 "...I couldn't. Because... I didn't know why she disappeared..."
-#Protagonist
+＃Protagonist
 "...You thought someone might have done something to her. ...Just like this time."
 It was a vague way of putting it, but Akane-san nodded.
-#Akane
+＃Akane
 "Everything I've heard is nothing more than rumors... I don't know what to do now..."
 Akane-san covered her face with both hands.
-#Protagonist
+＃Protagonist
 "...You can't give up."
 The words were out of my mouth before I could think.
-#Akane
+＃Akane
 "Eh...?"
 She looked up, her face wet with tears.
-#Protagonist
+＃Protagonist
 "I don't think you should give up. If there's something in this house... let's find out, together."
-#Akane
+＃Akane
 "I-I'm..."
 Akane-san started to cry and hugged me.
-#Akane
+＃Akane
 "I had... no one to turn to... it was so hard..."
-#Protagonist
+＃Protagonist
 "...It's all right now."
 I stroked Akane-san's hair for a while, comforting her.
-#Akane
+＃Akane
 "Ah..."
 Perhaps realizing her current situation, Akane-san suddenly pulled away from me.
-#Akane
+＃Akane
 "I-I'm sorry..."
-#Protagonist
+＃Protagonist
 "No... are you all right now?"
-#Akane
+＃Akane
 "Y-Yes, I'm fine now! Thank you so much for listening to me!"
 Akane-san bowed her head vigorously.
-#Protagonist
+＃Protagonist
 "Ah, no, the pleasure is mine."
-#Akane
+＃Akane
 "Well then, I'll get back to work."
 With the pitter-patter of footsteps, Akane-san left the room.
-#Akane
+＃Akane
 "U-Um..."
 Akane-san let out a small voice in my arms.
-#Protagonist
+＃Protagonist
 "Yes... ah, sorry..."
 In the heat of the moment, I'd ended up holding her tight.
 Embarrassed, I tried to pull away immediately, but Akane-san's hands held me back.
-#Protagonist
+＃Protagonist
 "Eh... Akane-san...?"
-#Akane
+＃Akane
 "P-Please... just a little longer."
-#Protagonist
+＃Protagonist
 "Y-Yes..."
 And so, I continued to hold Akane-san.
 When I did... I suddenly became very aware of her.
 The softness of her body, the faint, sweet scent...
-#Protagonist
+＃Protagonist
 "...A-Akane-san..."
 Her thigh was pressing against my crotch.
 Faced with such stimulation, and being a young man, the blood naturally started to pool.
-#Akane
+＃Akane
 "...It's okay."
 As if seeing right into my heart, Akane-san whispered in my ear.
-#Akane
+＃Akane
 "If you don't mind a woman as tainted as me..."
-#Protagonist
+＃Protagonist
 "...You aren't tainted, Akane-san."
 I pulled her body close and held her tight.
-#Akane
+＃Akane
 "...Thank you very much."

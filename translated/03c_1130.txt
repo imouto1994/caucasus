@@ -1,71 +1,71 @@
-#Protagonist
+＃Protagonist
 "Excuse me."
 Inside the room, Narumi-san was being treated by Dr. Mikanagi.
-#Protagonist
+＃Protagonist
 "How is it, Dr. Mikanagi?"
-#Mikanagi
+＃Mikanagi
 "It seems to be a minor burn. The explosion happened inside the kitchen, didn't it?"
-#Narumi
+＃Narumi
 "Yeah... fire burst out from the gap in the door, and then... oh right, I felt a kind of numbing sensation when I touched the knob."
-#Mikanagi
+＃Mikanagi
 "Static electricity, maybe... I see, there might have been a gas leak."
-#Protagonist
+＃Protagonist
 "A gas explosion... then."
-#Narumi
+＃Narumi
 "But I haven't done any cooking with fire today... and I'm sure I didn't forget to close the main valve."
-#Protagonist
+＃Protagonist
 "...Which means someone might have intentionally filled the kitchen with gas."
-#Narumi
+＃Narumi
 "For what purpose... to kill me or someone else?"
 Narumi-san said matter-of-factly.
-#Protagonist
+＃Protagonist
 "...Is there a reason for you to be targeted?"
-#Narumi
+＃Narumi
 "I don't think there is, at least not for me... but since we don't know who the killer is, it’s possible I’ve been resented without even knowing it."
-#Protagonist
+＃Protagonist
 "Is there anyone else besides you who enters the kitchen, Narumi-san?"
-#Narumi
+＃Narumi
 "Only Akane, besides me..."
-#Protagonist
+＃Protagonist
 "Akane-san..."
 Akane-san, who had suddenly vanished.
 Where on earth could she have gone...?
-#Mikanagi
+＃Mikanagi
 "Well then—"
 Dr. Mikanagi stood up.
-#Mikanagi
+＃Mikanagi
 "Please rest for a while."
-#Narumi
+＃Narumi
 "I know."
-#Mikanagi
+＃Mikanagi
 "Well then, I'll leave the rest to you."
 Dr. Mikanagi left the room.
-#Protagonist
+＃Protagonist
 "Um, I'm going to go check on the kitchen."
-#Narumi
+＃Narumi
 "Nnh, understood."
 Narumi-san nodded.
-#Protagonist
+＃Protagonist
 "See you later, then."
 I left her room.
-#Protagonist
+＃Protagonist
 "Narumi-san..."
-#Narumi
+＃Narumi
 "What?"
 I gently pulled Narumi-san's body, as she looked up, into an embrace.
-#Narumi
+＃Narumi
 "Wait—!?"
-#Protagonist
+＃Protagonist
 "Thank goodness... you're safe, Narumi-san."
-#Narumi
+＃Narumi
 "W-What are you saying...?"
 Narumi-san weakly moved her arms as if to pull away from me.
-#Protagonist
+＃Protagonist
 "...Didn't the doctor tell you to rest?"
-#Narumi
+＃Narumi
 "And who is it that isn't letting me rest...?"
-#Protagonist
+＃Protagonist
 "Well... that might be me, I suppose..."
-#Narumi
+＃Narumi
 "...Dummy."
 Narumi-san's lips were pressed against mine.
