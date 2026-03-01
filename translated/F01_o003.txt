@@ -1,40 +1,40 @@
 #Souko
 "That's the cat Benio-san keeps, right? Lovecraft... what a niche name to give it..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Maya
 "Benio looks after that child. I don't particularly... care for animals myself."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "The eye colors are different on each side, right? They call that 'odd eyes'."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "Love? Isn't he adorable? He is my most precious friend."
-#Satoshi
+#Protagonist
 "I see."
 #Tsujimura
 "Lady Benio looks after him. He doesn't seem to take well to others..."
-#Satoshi
+#Protagonist
 "I see."
 #Rokuyou
 "...Ah, the cat Benio keeps. I'm sorry, but I don't know much about it."
-#Satoshi
+#Protagonist
 "I see."
 #Takamine
 "A cat... I don't know the details, but I assume Benio-kun is keeping it?"
-#Satoshi
+#Protagonist
 "It seems so."
 #Mikanagi
 "Benio-san's cat, right? I've seen Akane-san giving it food."
-#Satoshi
+#Protagonist
 "I see."
 #Akane
 "Lady Benio keeps him. I am the one who feeds him."
-#Satoshi
+#Protagonist
 "I see."
 #Narumi
 "Lady Benio's cat? He often comes to the kitchen while I'm cooking to try and sneak a snack."
-#Satoshi
+#Protagonist
 "I see."

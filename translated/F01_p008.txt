@@ -1,40 +1,40 @@
 #Souko
 "About Dr. Mikanagi? Hmm, he did treat my finger, but he feels a bit... flighty, I guess."
-#Satoshi
+#Protagonist
 "...I suppose so."
 #Maya
 "We were very much indebted to Dr. Mikanagi's father. I am only where I am today thanks to the Mikanagi family."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "Dr. Mikanagi often looks after us. Doctors won't come out to such a remote place, so it's a huge help."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "Are you asking about Hiroshi? He's been here since long ago, so we're practically like family."
-#Satoshi
+#Protagonist
 "I see."
 #Tsujimura
 "Dr. Mikanagi is indispensable here. The Mistress and Lady Shion aren't in the best of health, after all..."
-#Satoshi
+#Protagonist
 "I see..."
 #Rokuyou
 "Hiroshi and I have been stuck with each other for years, so I know a lot. Even back in med school, he seemed to be breaking plenty of hearts."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Dr. Mikanagi appears to be an excellent physician. He specializes in internal medicine, but I'm sure he could handle simple surgeries if needed."
-#Satoshi
+#Protagonist
 "I see."
 #Mikanagi
 "Me? My father is the true family doctor for the Nanatsuki. But he's getting on in years, so I've been staying here lately."
-#Satoshi
+#Protagonist
 "Is that so?"
 #Akane
 "Eh, Dr. Mikanagi!? Um, well... wouldn't he be in the infirmary...?"
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Dr. Mikanagi? He has a bit of a light air about him. Though he hardly ever says a word to me."
-#Satoshi
+#Protagonist
 "I-I see..."

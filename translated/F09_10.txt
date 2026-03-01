@@ -1,22 +1,22 @@
 I've come to the front of Akane-san's room.
 I knock lightly on the door.
-#Satoshi
+#Protagonist
 "Akane-san, it's me."
 The door opens, and Akane-san pokes her head out.
 #Akane
 "Ah, is something the matter?"
-#Satoshi
+#Protagonist
 "I'm just doing rounds of the mansion right now... Has anything unusual happened?"
 #Akane
 "No, nothing in particular... Is there anything else?"
 I've come to the front of Akane-san's room.
 I knock lightly on the door.
-#Satoshi
+#Protagonist
 "Akane-san, it's me."
 The door opens, and Akane-san pokes her head out.
 #Akane
 "Oh, what is it this time?"
-#Satoshi
+#Protagonist
 "I'm still in the middle of doing rounds..."
 I've come to the front of Akane-san's room.
 I knock lightly on the door and wait for a while, but there's no response from inside.

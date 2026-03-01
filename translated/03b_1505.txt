@@ -1,64 +1,64 @@
 Reaching the hall, I ran into Tsujimura-san, who had just come from the corridor on the opposite side.
-#Main Character
+#Protagonist
 "Ah, Tsujimura-san."
 #Tsujimura
 "Is something the matter?"
-#Main Character
+#Protagonist
 "Nothing, I just thought I should check to make sure everyone is safe..."
 #Tsujimura
 "...Has something occurred?"
-#Main Character
+#Protagonist
 "Yeah, well..."
 I briefly told him about being locked in the basement.
 #Tsujimura
 "Good heavens... such a thing happened...?"
-#Main Character
+#Protagonist
 "Um, is Shion-san in her room?"
 #Tsujimura
 "Yes... she has not come out at all, however..."
-#Main Character
+#Protagonist
 "I see. Then I'll go upstairs and check on Maya-san and the others."
 #Tsujimura
 "I understand. I leave it in your hands."
 I climbed the stairs.
 To Maya-san's room at the very end of the corridor.
 I knocked on the door.
-#Main Character
+#Protagonist
 "Maya-san, are you there?"
 The door opened, and a weary-looking Maya-san peered out.
 #Maya
 "Is something the matter?"
-#Main Character
+#Protagonist
 "Has anything unusual happened?"
 #Maya
 "No, nothing in particular..."
-#Main Character
+#Protagonist
 "I see. I’m sorry to ask this, but would you mind staying in your room for a while?"
 #Maya
 "Yes... I don't mind..."
 Though she looked suspicious, Maya-san returned to her room and closed the door.
 Next was... Ai-san.
 I reached Ai-san's room and knocked.
-#Main Character
+#Protagonist
 "Ai-san, are you there?"
 #Ai
 "Yes... what is it?"
 Ai-san peered out.
-#Main Character
+#Protagonist
 "Has anything unusual happened?"
 #Ai
 "Unusual... no, nothing?"
-#Main Character
+#Protagonist
 "I see. That's good."
 #Ai
 "Did something happen?"
 Ai-san tilted her head.
-#Main Character
+#Protagonist
 "No, it's nothing major."
 I decided to keep the details hidden from Ai-san as well.
 #Ai
 "I see..."
-#Main Character
+#Protagonist
 "We still don't know what might happen, so please be careful and stay alert."
 #Ai
 "Yes, I understand."
@@ -66,18 +66,18 @@ Ai-san went back into her room.
 Souko-san approached from the other end of the corridor.
 #Souko
 "How are things on this side?"
-#Main Character
+#Protagonist
 "No problems here."
 #Souko
 "Takamine-san was in his room too. Dr. Mikanagi... Akane-san went to check on him."
-#Main Character
+#Protagonist
 "It seems we can assume nothing has happened yet."
 #Souko
 "Right... though we can't let our guard down."
-#Main Character
+#Protagonist
 "Souko-san, could you stay in your room as well? I'll call you when the food is ready."
 #Souko
 "Sure, I understand. What about you?"
-#Main Character
+#Protagonist
 "I'm going back to the dining room. I need to talk to Akane-san too."
 With that, I decided to head back down to the first floor.

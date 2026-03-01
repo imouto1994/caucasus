@@ -1,36 +1,36 @@
 #Souko
 "Shion-san, huh... She could have moved freely while we were down in the basement, I suppose..."
-#Satoshi
+#Protagonist
 "...True."
 #Maya
 "I believe Shion was in her room, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "Shion would have no reason to kill my sister. Besides, I was with her during the blackout."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "When all the lights went out at once, I thought it was strange and went to the office. Lady Benio was there, and that's when I learned about the power failure..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I believe Lady Shion was with Lady Benio..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Shion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that."
-#Satoshi
+#Protagonist
 "Right."
 #Mikanagi
 "I don't know what Shion-san was doing during the blackout... I didn't run into her."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "I believe Lady Shion was in the office with Lady Benio... though probably not the whole time."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Lady Shion? I saw her in the hall with Lady Benio."
-#Satoshi
+#Protagonist
 "I see..."

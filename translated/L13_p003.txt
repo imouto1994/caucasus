@@ -1,20 +1,20 @@
 #Maya
 "I wouldn't know, I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see…"
 #Ai
 "I was in my room the whole time…"
-#Satoshi
+#Protagonist
 "I see…"
 #Tsujimura
 "I believe she was in her room… but I haven't confirmed it."
-#Satoshi
+#Protagonist
 "I see…"
 #Takamine
 "I wouldn’t know what was happening outside my room."
-#Satoshi
+#Protagonist
 "I see…"
 #Narumi
 "…At the very least, Lady Ai didn’t leave her room while I was out here in the hallway."
-#Satoshi
+#Protagonist
 "…I see."

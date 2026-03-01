@@ -1,12 +1,12 @@
 Cooperating with Dr. Mikanagi, we carried Ai-san's body down to the second floor.
-#Satoshi
+#Protagonist
 "...We should probably block this place off too, right?"
 #Souko
 "Let's ask Tsujimura-san to do that later."
 #Mikanagi
 "Well then, I'll take Ai-san to her room."
 Dr. Mikanagi picked up Ai-san's body.
-#Satoshi
+#Protagonist
 "Please."
 #Souko
 "Let's head to the hall. Everyone should be gathered there."

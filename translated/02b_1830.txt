@@ -17,7 +17,7 @@ Benio-san cuts Dr. Mikanagi off and speaks up.
 "……What happened to Shion?"
 #Mikanagi
 "She's likely in her room, isn't she?"
-#Satoshi
+#Protagonist
 "I'll go check on her."
 I say that before I even think.
 #Benio

@@ -2,11 +2,11 @@ I've come to Maya-san's room, located at the far end of the west side on the sec
 I knock on the door and wait for a while.
 #Maya
 "Oh... is something the matter?"
-#Satoshi
+#Protagonist
 "Hello, Maya-san. Has anything unusual happened?"
 #Maya
 "No... nothing in particular... Is there anything else?"
-#Satoshi
+#Protagonist
 "Um, could I have a little bit of your time? Of course, if it's inconvenient, I'll leave immediately..."
 #Maya
 "It is no problem at all. What might it be?"
@@ -17,12 +17,12 @@ I've come to Maya-san's room, at the far end of the west side on the second floo
 I knock on the door and wait for a while.
 #Maya
 "Oh... what might it be this time?"
-#Satoshi
+#Protagonist
 "Um, could I have a little bit of your time?"
 #Maya
 "Yes, that's fine... Please, come inside."
 With that, Maya-san invited me into the room.
 #Maya
 "What might your business be?"
-#Satoshi
+#Protagonist
 "Uh, well..."

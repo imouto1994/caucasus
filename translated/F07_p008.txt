@@ -1,36 +1,36 @@
 #Souko
 "Mikanagi-sensei seems quite exhausted as well... though I suppose that's only natural..."
-#Satoshi
+#Protagonist
 "...Yeah."
 #Maya
 "Mikanagi-sensei seems to be tired as well... I don't wish to burden him further."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "...If Mikanagi-sensei weren't in this house right now... it's a terrifying thought."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Shion
 "Mikanagi-sensei... he also prescribes my medicine..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "It was a blessing that Mikanagi-sensei was here. We wouldn't have known what to do on our own..."
-#Satoshi
+#Protagonist
 "True..."
 #Takamine
 "Mikanagi-sensei is usually in the infirmary. Otherwise... he's often away examining Maya-san."
-#Satoshi
+#Protagonist
 "I see."
 #Mikanagi
 "...I'm predictably exhausted. I've never had to perform examinations on corpses before..."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Mikanagi-sensei... I wonder if he's getting any rest at all..."
-#Satoshi
+#Protagonist
 "Hard to say..."
 #Narumi
 "Mikanagi-sensei? Isn't he in the infirmary?"
-#Satoshi
+#Protagonist
 "I see..."

@@ -1,40 +1,40 @@
 #Souko
 "So that was Shion-san's room... She's the only one made to live out in the annex."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Maya
 "That is the room of my youngest daughter, Shion. Since she's frail, we have her live in the annex."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Ai
 "...Yes, that is Shion's room. She's always lived there because of her weak constitution."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Benio
 "The only way to get to the tower is through the door behind the office."
-#Satoshi
+#Protagonist
 "I see."
 #Shion
 "...Because it's my room."
-#Satoshi
+#Protagonist
 "...Right, of course."
 #Tsujimura
 "With this snow, I'll have to do some shoveling myself. It would be terrible if Lady Shion were to fall."
-#Satoshi
+#Protagonist
 "Good point."
 #Takamine
 "...I'm told Shion-kun has lived in that tower for a long time."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Mikanagi
 "I heard Shion-san lives in the annex because of her frail health... but perhaps my father was the one who gave those instructions..."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "I'm the one who brings Lady Shion her meals, but she usually eats them in the office."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Narumi
 "Only Lady Shion lives out in the annex, doesn't she... It's kind of strange."
-#Satoshi
+#Protagonist
 "Yeah, it is..."

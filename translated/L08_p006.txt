@@ -1,32 +1,32 @@
 #Souko
 "I confirmed he was in the office near two o'clock. It seems he was talking with Benio-san until then, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "I wouldn't know; I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "I don't know... I've been in my room the whole time."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "...I don't know. My room is in the annex, after all..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I was speaking with Lady Benio until about two o'clock. Mistress Kirihara showed up after that, however..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know anything about what happens outside my room."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "If it's Tsujimura-san, I believe he was in the office the entire time..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Wasn't Tsujimura-san in the office the whole time? I didn't see him, though."
-#Satoshi
+#Protagonist
 "I see..."

@@ -3,17 +3,17 @@ When we arrived in front of the kitchen, there was indeed a burnt smell drifting
 "What is burning?"
 #Tsujimura
 "I don't know..."
-#Main Character
+#Protagonist
 "Tsujimura-san, please open the door."
 The kitchen door was locked.
 #Tsujimura
 "The key... you say. I don't recall locking it, but..."
 While saying so, Tsujimura-san took out the key.
-#Main Character
+#Protagonist
 "Wasn't it you, Tsujimura-san?"
 #Tsujimura
 "Yes... wait, that's strange..."
-#Main Character
+#Protagonist
 "What's wrong?"
 #Tsujimura
 "The key won't turn. This should be the right one..."
@@ -22,16 +22,16 @@ While saying so, Tsujimura-san took out the key.
 Takamine-san peered into the keyhole.
 #Takamine
 "...It looks like something has been stuffed inside."
-#Main Character
+#Protagonist
 "...Narumi-san."
 I whispered into Narumi-san's ear in a low voice.
 #Narumi
 "What?"
-#Main Character
+#Protagonist
 "Did you see inside the kitchen?"
 #Narumi
 "No... I haven't checked it."
-#Main Character
+#Protagonist
 "Can you open it?"
 #Narumi
 "I think it's impossible."
@@ -43,25 +43,25 @@ Tsujimura-san left the corridor.
 #Takamine
 "However, this smell... is it meat?"
 Takamine-san's nose twitched.
-#Main Character
+#Protagonist
 "Meat... no way!?"
 I put my hand on the closed kitchen door.
 The smell drifting from the gaps.
 The thing being roasted on the other side is—
-#Main Character
+#Protagonist
 "Guh... dammit...!"
 I slid my fingers into the gap and tried to pry the door open, but it wouldn't budge.
 #Takamine
 "Calm down."
 Takamine-san grabbed my shoulder.
-#Main Character
+#Protagonist
 "But... this is the only place we haven't checked yet...!"
 #Takamine
 "I know. Just wait a little longer."
 I was forcibly pulled away from the door.
 #Narumi
 "Pull yourself together."
-#Main Character
+#Protagonist
 "...I know."
 I knew, but still...
 #Tsujimura
@@ -81,23 +81,23 @@ The door creaked.
 Takamine-san let out a deep breath and forced the door open.
 A stifling, heavy stench flooded out.
 I was the first to dive into the kitchen.
-#Main Character
+#Protagonist
 "Ugh..."
 The room was thick with clouds of smoke.
 The source was... it seemed to be the oven.
 Smoke was seeping out from the gaps of the iron door.
-#Main Character
+#Protagonist
 "Is it in here—"
 Benio-san grabbed my reaching arm.
 #Benio
 "Are you an idiot!? You'll get burned!"
-#Main Character
+#Protagonist
 "But... even so..."
 I have to check inside immediately...
 #Tsujimura
 "Please use this."
 Tsujimura-san handed over the crowbar he had used to open the door.
-#Main Character
+#Protagonist
 "Ngh...!"
 I unlatched the fastening on the door.
 The door opened.
@@ -108,7 +108,7 @@ It was unmistakably the smell of burning flesh.
 Takamine-san's voice sounded like he was suppressing his emotions.
 Using the crowbar I held, I hooked the tray that had been placed at the bottom of the oven.
 Along with the smoke and stench, the thing that emerged from the oven was.
-#Main Character
+#Protagonist
 "Eh..."
 I was speechless.
 #Takamine

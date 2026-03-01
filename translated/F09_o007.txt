@@ -1,42 +1,42 @@
 #Souko
 "Singing...? I haven't heard it, so I wouldn't know."
-#Satoshi
+#Protagonist
 "I see."
 #Maya
 "Singing, you say... It's likely Shion singing."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "That must be Shion singing. She has a very beautiful voice."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Benio
 "Singing... Isn't it Shion?"
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "I was indeed singing... Could you hear me...?"
-#Satoshi
+#Protagonist
 "Yeah... It was a beautiful singing voice."
 #Shion
 "Ah... Thank you very much..."
 #Tsujimura
 "That would likely be Lady Shion. She often sings to herself."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Singing, huh... I suppose someone must be."
-#Satoshi
+#Protagonist
 "Right."
 #Mikanagi
 "Singing... I'd guess it's Shion-san."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Singing, is it... Lady Shion seems to sing quite often..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "The one singing is probably Lady Shion. Lady Benio plays the piano sometimes, too."
-#Satoshi
+#Protagonist
 "I see."

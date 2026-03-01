@@ -7,7 +7,7 @@ They hurriedly constructed a scaffold, and by the time they had managed to span 
 "Yes. Due to the fear of infection, we have already cremated the remains here."
 #Police Officer
 "Understood. I will convey that to the Chief as well."
-#Main Character
+#Protagonist
 "...Is this really okay?"
 #Mikanagi
 "Of course it isn't. But you see, sometimes things like this are necessary."
@@ -21,12 +21,12 @@ As for Shion-san, she was now completely imprisoned within the tower.
 Benio-san approached me.
 #Benio
 "Are you leaving too?"
-#Main Character
+#Protagonist
 "Yeah... that's the plan, but..."
 #Benio
 "……With her?"
 Benio-san looked toward Souko-san.
-#Main Character
+#Protagonist
 "……Yes."
 My suspicion toward Souko-san.
 It wasn't suspicion anymore; it was a cold certainty.
@@ -38,19 +38,19 @@ I had lost my one and only chance.
 "Well then, shall we head home?"
 Souko-san said it with such brazen nonchalance.
 As if——truly nothing had ever happened.
-#Main Character
+#Protagonist
 "……I suppose so."
 I picked up only my own luggage.
 #Souko
 "Oh? You're not going to carry mine?"
-#Main Character
+#Protagonist
 "……That finger of yours isn't even broken, is it?"
 #Souko
 "Well, you're right about that."
 Souko-san casually unraveled the bandage wrapped around her finger.
 #Souko
 "But still, I don't think it's very nice to be so cold to a girl, you know?"
-#Main Character
+#Protagonist
 "I haven't——I haven't forgiven you."
 I started walking, following after Souko-san as she took the lead.
 #Souko

@@ -1,16 +1,16 @@
 When I came down the stairs, Takamine-san and Tsujimura-san were there.
-#Main Character
+#Protagonist
 "Tsujimura-san."
 #Tsujimura
 "Oh... is something wrong?"
 #Takamine
 "Did something happen?"
 Sensing something from my frantic expression, Takamine-san asked.
-#Main Character
+#Protagonist
 "Yes... where is everyone?"
 #Tsujimura
 "Most of them should be in the main hall... I don't think the Madam, Shion-ojousama, or Dr. Mikanagi are there."
-#Main Character
+#Protagonist
 "I see... I have something to tell you, so would you mind coming too?"
 #Takamine
 "...Understood."
@@ -21,14 +21,14 @@ Shion-san and Dr. Mikanagi couldn't be helped.
 Was Maya-san still not feeling well?
 #Benio
 "What on earth is going on?"
-#Main Character
+#Protagonist
 "Yes, about that... Shion-san has been targeted by the culprit."
 #Benio
 "What!?"
 #Ai
 "What do you mean!?"
 Ai-san, who had been sitting on the sofa, suddenly stood up and confronted me.
-#Main Character
+#Protagonist
 "W-Well..."
 #Ai
 "To think Shion would be attacked too! Why... why that child!?"
@@ -40,7 +40,7 @@ Benio-san intervened.
 #Benio
 "...What happened?"
 Benio-san asked.
-#Main Character
+#Protagonist
 "...I don't know the details."
 I was vague.
 #Benio
@@ -52,7 +52,7 @@ Souko-san asked me in a low voice, and I gave a small nod.
 It seemed Souko-san had picked up on my intention.
 #Benio
 "Hmm... I see... But Shion is safe, right?"
-#Main Character
+#Protagonist
 "Yes... she's resting in the clinic now. But she needs absolute rest, so I think it's best if no one visits her for now."
 I said this directed at Ai-san.
 #Ai
@@ -66,29 +66,29 @@ She didn't look convinced, but Ai-san managed to calm down.
 Truthfully, she wasn't in "absolute rest" condition, but I wanted to avoid things getting complicated by people meeting and talking.
 #Souko
 "Well then, about what we do next—"
-#Main Character
+#Protagonist
 "...We might have no choice but to carry on as we have been."
 #Souko
 "Right... We’ll just have to ask everyone to stay in their rooms as much as possible. Although we can't exactly force them..."
 #Benio
 "If you don't want to die... that's all we can say."
-#Main Character
+#Protagonist
 "Yeah..."
 In that case, Takamine-san’s decision to stay cooped up in his room might be the smartest move.
 #Souko
 "Are you going to keep investigating?"
-#Main Character
+#Protagonist
 "...Of course. Even Shion-san has been targeted."
 #Souko
 "...Right. I'll help as much as I can... but please, be careful."
 We arrived at the front of Souko-san's room.
 I gave a light knock on the door.
-#Main Character
+#Protagonist
 "Souko-san, it's me."
 The door opened and Souko-san peered out.
 #Souko
 "What is it?"
-#Main Character
+#Protagonist
 "I have something to tell you..."
 #Souko
 "...Come in."
@@ -96,74 +96,74 @@ Following Souko-san into the room.
 #Souko
 "Did something happen?"
 Souko-san asked, holding a bottle of cola.
-#Main Character
+#Protagonist
 "Yes... Shion-san was targeted by the culprit."
 #Souko
 "Eh... really?"
-#Main Character
+#Protagonist
 "It seems poison was used. We managed to avoid the worst, but..."
 #Souko
 "I see..."
 Souko-san placed the bottle on the table.
-#Main Character
+#Protagonist
 "I haven't told the others because I don't want to cause unnecessary panic..."
 #Souko
 "That's probably for the best. If they knew poison was being used, no one would be able to eat."
-#Main Character
+#Protagonist
 "Yeah..."
 #Souko
 "Even so... the method has changed..."
 Souko-san spoke as she fell into thought.
-#Main Character
+#Protagonist
 "True... Rokuyou-san was decapitated, and Ai-san was strangled..."
 #Souko
 "Right. To suddenly go for poisoning now... don't you think it's strange?"
-#Main Character
+#Protagonist
 "But Shion-san was suffering from the poison... I wonder if there’s something about the neck."
 #Souko
 "...It might be the same if the cause of death was respiratory failure... but..."
-#Main Character
+#Protagonist
 "...Perhaps the plan was to decapitate her after she died. Just like with Ai-san..."
 #Souko
 "...It's hard to say. Only Rokuyou-san was decapitated. I don't think there’s any chance the other two were meant to be decapitated as well."
-#Main Character
+#Protagonist
 "Is that so..."
 #Souko
 "Then let me ask, what would be the reason for decapitating them?"
-#Main Character
+#Protagonist
 "True, both Rokuyou-san and Ai-san were decapitated..."
 And Benio-san too...
 #Souko
 "Right. To suddenly go for poisoning now... don't you think it's strange?"
-#Main Character
+#Protagonist
 "...Perhaps the plan was to decapitate Shion-san after she died."
 #Souko
 "Given everything so far, that’s highly likely... but if that’s the case, what’s the reason for decapitating them?"
-#Main Character
+#Protagonist
 "True... both Rokuyou-san and Benio-san were decapitated..."
-#Main Character
+#Protagonist
 "True, Rokuyou-san was decapitated..."
 #Souko
 "And now an attempted poisoning... don't you think it's strange?"
-#Main Character
+#Protagonist
 "...Perhaps the plan was to decapitate Shion-san after she died."
 #Souko
 "That might be true... but if that’s the case, what’s the reason for decapitating them?"
-#Main Character
+#Protagonist
 "The reason... huh..."
 A headless corpse—what could it signify...?
-#Main Character
+#Protagonist
 "...I wonder if it has something to do with the 'Curse of the Nanatsuki'..."
 #Souko
 "...It might."
 Souko-san took a sip from her cola bottle.
 #Souko
 "...But it’s almost a miracle that she survived after taking poison."
-#Main Character
+#Protagonist
 "I assume the amount wasn't a lethal dose..."
 #Souko
 "But then... doesn't that mean there was no intention to actually kill her?"
-#Main Character
+#Protagonist
 "Eh... what do you mean by that...?"
 #Souko
 "I don't know the reason. But... I just get that feeling."

@@ -2,21 +2,21 @@ I arrived at Benio-san's room.
 I knocked lightly on the door.
 #Benio
 "...Who is it?"
-#Satoshi
+#Protagonist
 "It's me."
 The door opened.
 #Benio
 "What is it?"
-#Satoshi
+#Protagonist
 "...Benio-san, is it alright if I stay in this room tonight?"
 #Benio
 "...Begone, you fool."
-#Satoshi
+#Protagonist
 "W-Wait! I don't mean anything strange by it at all!"
 I desperately tried to hold the door open as Benio-san tried to close it.
 #Benio
 "...Then why?"
-#Satoshi
+#Protagonist
 "I... I want to protect you, Benio-san."
 #Benio
 "Wha... d-don't say such ridiculous things."
@@ -25,37 +25,37 @@ Benio-san turned her face away.
 "W-Well... if you insist that much, I suppose I could consider it."
 #Benio
 "Why did you come to my place?"
-#Satoshi
+#Protagonist
 "I think you're the one most likely to be targeted next, Benio-san. So I thought maybe if I was by your side, I could protect you..."
 #Benio
 "Targeted... me? To eliminate a nuisance, you mean."
-#Satoshi
+#Protagonist
 "I don't know what the culprit's intentions are. But... I don't want any more sacrifices."
 #Benio
 "Hmm..."
-#Satoshi
+#Protagonist
 "I might not be reliable, but even so... I'll prove that I can be useful."
 #Benio
 "...Alright. Then I'll count on you."
-#Satoshi
+#Protagonist
 "Leave it to me."
 I bowed to Benio-san and made a move to step out into the hallway.
 #Benio
 "Hmm...? Where do you think you're going?"
-#Satoshi
+#Protagonist
 "Eh... well, the hallway, of course. We can't exactly be in the same room, can we?"
 #Benio
 "Ah... no, that might be true, but... it'll be cold in the hallway, won't it?"
-#Satoshi
+#Protagonist
 "That's true too. Then I'll go and grab a blanket."
 #Benio
 "...There's no need for that, you can just stay in the room, can't you?"
-#Satoshi
+#Protagonist
 "But that's—"
 #Benio
 "It's fine. ...I couldn't bear it if you caught a cold."
 Benio-san pulled on my arm and closed the door.
-#Satoshi
+#Protagonist
 "W-Well then... I'll stay here."
 I leaned my back against the door and sat down on the floor.
 #Benio
@@ -66,7 +66,7 @@ Benio-san let out a breath, hands on her hips.
 Benio-san pulled a blanket off the bed and tossed it over to me.
 #Benio
 "Tell me if you're cold. I'll get another one."
-#Satoshi
+#Protagonist
 "No, I'm fine. Thank you."
 #Benio
 "Hmph..."
@@ -77,31 +77,31 @@ If something happens to Maya-san, I'll be able to notice.
 If something happens to Ai-san or Maya-san, I'll be able to notice.
 #Benio
 "...Hey."
-#Satoshi
+#Protagonist
 "Yes?"
 #Benio
 "Don't people often tell you that you're a fool?"
-#Satoshi
+#Protagonist
 "That's not true at all."
 I retorted a bit heatedly.
-#Satoshi
+#Protagonist
 "Don't people often tell you that you're strange, Benio-san?"
 #Benio
 "I've never been told that."
 She pufffed out her chest and lied straight to my face.
-#Satoshi
+#Protagonist
 "Jeez... but you have all sorts of strange things in this room, don't you."
 #Benio
 "What do you mean, 'strange'? How rude."
 Benio-san pulled a book from the bookshelf.
 #Benio
 "This is a book recording the secret arts of the Kabbalah left behind by Agrippa. I studied German and Hebrew solely to read this, you know."
-#Satoshi
+#Protagonist
 "I see..."
 I don't really get it.
 #Benio
 "Thanks to that, my understanding of tarot has deepened considerably; shall I tell your fortune?"
-#Satoshi
+#Protagonist
 "Is it accurate?"
 #Benio
 "Of course it is. Who do you think I am?"
@@ -114,7 +114,7 @@ She must be anxious after all.
 "Well then, shall I tell your fortune in love? Mind you, don't complain even if it comes out as hopeless."
 Benio-san began happily shuffling the cards.
 Wait, I didn't ask for that...
-#Satoshi
+#Protagonist
 "...You're cute."
 #Benio
 "Pfft—!?"
@@ -122,11 +122,11 @@ Benio-san choked at my casual remark.
 The cards scattered across the bed.
 #Benio
 "Wh-What are you saying, you bastard!?"
-#Satoshi
+#Protagonist
 "No, it just felt... heartwarming, somehow."
 #Benio
 "...Don't tease your elders, you fool."
-#Satoshi
+#Protagonist
 "Weren't we the same age?"
 #Benio
 "I am much more mature mentally."
@@ -136,14 +136,14 @@ It wouldn't be strange if a fist came flying my way soon.
 "...You really are a fool."
 Benio-san said that and showed me one of the scattered cards.
 It had 'THE FOOL' written on it.
-#Satoshi
+#Protagonist
 "Haha... I guess so."
 #Benio
 "He's a fool, but on the other hand, it can also be read as an unconventional genius. I look forward to seeing which one you become."
 Benio-san chuckled.
 #Benio
 "Well... shall we get some sleep soon?"
-#Satoshi
+#Protagonist
 "You're right."
 I re-wrapped myself in the blanket she’d given me.
 #Benio

@@ -1,19 +1,19 @@
 This is Mikanagi-sensei's room.
 I knock lightly on the door.
-#Satoshi
+#Protagonist
 "Mikanagi-sensei, are you there?"
 The door opens, and Mikanagi-sensei peeks his head out.
 #Mikanagi
 "Oh, it's you."
-#Satoshi
+#Protagonist
 "Hello, Mikanagi-sensei. Um... have you seen Kirihara?"
 #Mikanagi
 "I've been back in my room since I parted ways with you earlier. Before that... I saw her on the first floor after six."
-#Satoshi
+#Protagonist
 "And after that?"
 #Mikanagi
 "I predictably wouldn't know. There was nothing strange about her, though..."
-#Satoshi
+#Protagonist
 "I see... Thank you very much."
 I thanked him and decided to go somewhere else.
 This is Mikanagi-sensei's room.
@@ -21,11 +21,11 @@ I knock lightly on the door.
 The door opens, and Mikanagi-sensei peeks his head out.
 #Mikanagi
 "Oh... have you still not found Kirihara-san?"
-#Satoshi
+#Protagonist
 "No..."
 #Mikanagi
 "I wonder where on earth she could have gone..."
-#Satoshi
+#Protagonist
 "Um, I'll try looking a bit more."
 #Mikanagi
 "Yeah, be careful, you never know what might happen."

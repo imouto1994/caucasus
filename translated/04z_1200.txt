@@ -7,7 +7,7 @@ They hurriedly constructed a scaffold, and by the time they had managed to span 
 "……Even if she is a daughter of the Nanatsuki family, the fact remains that she committed a crime. I ask for a strict and just judgment."
 #Police Officer
 "I-I see... however, I have been instructed by the Chief to ensure that no discourtesy is shown..."
-#Main Character
+#Protagonist
 "The officer is being awfully subservient..."
 #Mikanagi
 "It can't be helped. There isn't a policeman alive who can stand up to the Nanatsuki family."
@@ -15,7 +15,7 @@ They hurriedly constructed a scaffold, and by the time they had managed to span 
 "I suppose it's inevitable. In a rural place like this, the word of the powerful is absolute."
 #Benio
 "Shion will likely be released without even a mention in the newspapers. They still have that much influence left."
-#Main Character
+#Protagonist
 "I... I don't know if that's a good thing or a bad thing..."
 #Mikanagi
 "Shion-san has continued to maintain her silence, after all..."
@@ -23,7 +23,7 @@ They hurriedly constructed a scaffold, and by the time they had managed to span 
 "Shion-san hasn't said a word since it happened, has she...?"
 #Benio
 "……That being said, we can't exactly act as if nothing happened. ……Shion will likely spend the rest of her life in confinement."
-#Main Character
+#Protagonist
 "That's..."
 #Mikanagi
 "……This family has always functioned that way."
@@ -49,23 +49,23 @@ The officer gave a salute.
 "……Well then, shall we get going too? They said they can give us a ride to the foot of the mountain."
 Souko-san picked up her luggage.
 It seemed much lighter now that the cola bottles were gone.
-#Main Character
+#Protagonist
 "You're right..."
 #Benio
 "I'd say 'come again'... but that's a hard thing to say. Yeah... let's meet again someday."
-#Main Character
+#Protagonist
 "Yeah... let's do that."
 #Souko
 "Oh, that's right. Here, take this."
 Souko-san handed a bottle of cola that hadn't been opened yet to Benio-san.
-#Main Character
+#Protagonist
 "You still had some left!?"
 #Souko
 "……What's with that surprised look on your face?"
 Well, I was surprised, which is why I looked like that.
 #Benio
 "Thank you. I shall drink it with care."
-#Main Character
+#Protagonist
 "……The carbonation will go flat, so you should probably drink it soon after you open it."
 #Ai
 "Shion!!"
@@ -99,25 +99,25 @@ The officer replied while standing at attention.
 Outside, the snow had completely stopped.
 #Souko
 "They said there's a vehicle waiting on the other side of the bridge."
-#Main Character
+#Protagonist
 "It's not a carriage?"
 #Souko
 "Apparently there's a four-wheel-drive truck that brought the materials."
-#Main Character
+#Protagonist
 "Well, as long as we can get back, anything is fine at this point."
 #Souko
 "Exactly. Well then, shall we head home?"
 #Benio
 "……You are going as well?"
-#Main Character
+#Protagonist
 "Yeah..."
 #Benio
 "……So I've been left all alone."
-#Main Character
+#Protagonist
 "Since Souko-san is gone as well..."
 #Benio
 "……Are you going to be okay?"
-#Main Character
+#Protagonist
 "……Yeah, don't worry about me."
 Outside, the snow had completely stopped.
 Apparently, a truck was waiting across the bridge.
@@ -125,5 +125,5 @@ Since we were told we could hitch a ride to the foot of the mountain, let's take
 After walking for a bit, I turned back.
 Beyond the black mansion, I could see a white sky.
 I will never forget the events of these past few days.
-#Main Character
+#Protagonist
 "Souko-san... goodbye."

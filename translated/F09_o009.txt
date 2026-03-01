@@ -1,40 +1,40 @@
 #Souko
 "The bell might not ring anymore."
-#Satoshi
+#Protagonist
 "You're right."
 #Maya
 "Since the clock has broken... and we can't have it repaired right away..."
-#Satoshi
+#Protagonist
 "I see."
 #Ai
 "I'd rather not talk about that place..."
-#Satoshi
+#Protagonist
 "Right..."
 #Benio
 "The gears are busted. It'll be useless for a while."
-#Satoshi
+#Protagonist
 "...I see."
 #Shion
 "Um... I'm sorry, I don't really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "The clock is broken, after all... I suppose we'll just have to leave it as it is for a while."
-#Satoshi
+#Protagonist
 "I see."
 #Takamine
 "The killer might have timed the bells to set their trap."
-#Satoshi
+#Protagonist
 "Yeah, maybe..."
 #Mikanagi
 "...The clock probably won't be usable for a while."
-#Satoshi
+#Protagonist
 "Right."
 #Akane
 "...Maybe the clock will just stay like that forever."
-#Satoshi
+#Protagonist
 "...I see."
 #Narumi
 "It's a clock no one looks at anyway. With the police investigation and everything, I'd bet it'll stay like that for a while."
-#Satoshi
+#Protagonist
 "...I see."

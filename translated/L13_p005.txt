@@ -1,20 +1,20 @@
 #Maya
 "I wouldn't know, I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see…"
 #Ai
 "I’m not sure… I was in my room the entire time."
-#Satoshi
+#Protagonist
 "I see…"
 #Tsujimura
 "…She came out of her room saying she wanted some medicine. She mentioned she was heading to see Mikanagi-sensei, but…"
-#Satoshi
+#Protagonist
 "I see…"
 #Takamine
 "I wouldn’t know what was happening outside my room."
-#Satoshi
+#Protagonist
 "I see…"
 #Narumi
 "…From what I could see, Lady Shion was the only one who entered that room. I don’t think… I missed anyone."
-#Satoshi
+#Protagonist
 "I see…"

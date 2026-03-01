@@ -2,76 +2,76 @@
 "Huh... there's even something like that."
 #Souko
 "So it was Shion-san's room... She's the only one made to live in the annex."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Maya
 "There is indeed a tower outside... is something wrong?"
-#Satoshi
+#Protagonist
 "Oh, no, it's nothing."
 #Maya
 "That is the room of my youngest daughter, Shion. Her constitution is weak, so we have her living in the annex."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Ai
 "Yes, there is a tower..."
 #Ai
 "...That is indeed Shion's room. Since she is physically weak, she has always lived there."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Benio
 "If you wish to go there, I believe you should speak to Tsujimura in the office."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "With this much snow, it would be impossible to reach the tower from anywhere but the office door."
-#Satoshi
+#Protagonist
 "You're right."
 #Tsujimura
 "Yes, you can reach the tower in the back from the office, but..."
-#Satoshi
+#Protagonist
 "Would it be alright if I went there?"
 #Tsujimura
 "I'm sorry, but that's a bit..."
-#Satoshi
+#Protagonist
 "I see..."
 It seems it's no use without a proper reason.
 #Tsujimura
 "In this snow, I'll have to do some shoveling myself. It would be a disaster if Lady Shion were to trip."
-#Satoshi
+#Protagonist
 "That's true."
 #Rokuyou
 "The tower where Shion is, right? There's a gatekeeper there, so you can't just approach it carelessly."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "The tower outside... if you want to see it, you should ask Mr. Tsujimura."
-#Satoshi
+#Protagonist
 "I see."
 #Takamine
 "...I hear Shion-kun has lived in that tower since a long time ago."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Mikanagi
 "The tower... you can get there through the back door in the office."
-#Satoshi
+#Protagonist
 "I see."
 #Mikanagi
 "I've heard Shion-san lives in the annex because she's physically weak... but it might have been my father who gave those instructions..."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "The tower outside? That is Lady Shion's room..."
-#Satoshi
+#Protagonist
 "I see."
 #Akane
 "I am the one who brings Lady Shion her meals, but she usually eats them in the office."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Narumi
 "The youngest daughter, Lady Shion, lives in that tower outside."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Narumi
 "Only Lady Shion lives in the annex... it's a bit strange, isn't it?"
-#Satoshi
+#Protagonist
 "I suppose so..."

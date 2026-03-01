@@ -1,40 +1,40 @@
 #Souko
 "...There's no doubt that this was used to sever Rokuyou-san's head. With a handle this long, I imagine anyone could have done it."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "The axe... as for where it was kept, you would have to ask Tsujimura."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "Is that the wood-chopping axe...? I believe Tsujimura-san usually uses it for the firewood..."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "It would be difficult to pull fingerprints from a rough wooden handle like that. Besides, the police can't get here, and such a task is beyond us."
-#Satoshi
+#Protagonist
 "True..."
 #Shion
 "An axe... Seiji-san was often using one to chop wood..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "That is the axe for firewood... It is normally kept in the storage shed near the office, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "...If that was used to take off a head, it must have made quite a racket... though I didn't hear a thing from where I was."
-#Satoshi
+#Protagonist
 "My room was directly above his, so I suppose that's why I was just barely able to hear it..."
 #Mikanagi
 "...Judging by the state of the remains, there's no question the cervical region was severed with an axe."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "...Isn't that the one Tsujimura-san uses for the firewood?"
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "We use the fireplaces here, you know. Tsujimura-san is always out there chopping wood for us."
-#Satoshi
+#Protagonist
 "Is that so..."

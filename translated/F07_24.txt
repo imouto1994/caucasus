@@ -1,18 +1,18 @@
 At the far end of the east side on the second floor.
 Souko-san was standing by the grand piano.
-#Satoshi
+#Protagonist
 "Souko-san."
 #Souko
 "Oh, what's up?"
-#Satoshi
+#Protagonist
 "And what about you, Souko-san... are you doing rounds?"
 #Souko
 "I thought I'd see if I could find any clues."
-#Satoshi
+#Protagonist
 "I wonder... we've already searched everything."
 #Souko
 "True. Since time has passed, even if something had been left behind, there's a chance the killer took it away."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Souko
 "By the way, did you need something?"

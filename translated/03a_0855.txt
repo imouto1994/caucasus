@@ -1,29 +1,29 @@
 Akane-san straightened her disheveled clothes.
-#Main Character
+#Protagonist
 "Um... Akane-san..."
 #Akane
 "...Do you despise me now?"
-#Main Character
+#Protagonist
 "No, of course not... never. It's not that... please, tell me more about your sister."
 #Akane
 "...They say 'spiritings' have been happening around here for a long time. Mostly young women going missing..."
-#Main Character
+#Protagonist
 "...There are many legends of that sort in the Tohoku region. Even the 'Tono Monogatari' has several entries on it."
 #Akane
 "But my sister disappeared only recently. From what I’ve found, even after the war, many young women went missing in this area."
-#Main Character
+#Protagonist
 "Is that right..."
 #Akane
 "Yes... Also, are you familiar with the 'Curse of the Nanatsuki'...?"
-#Main Character
+#Protagonist
 "...I don't know the specifics..."
-#Main Character
+#Protagonist
 "Yes... Benio-san told me about it. Now that you mention it, spiritings were part of it."
 #Akane
 "There are rumors of the 'Nanatsuki Sacrifice'... I thought it might be related somehow."
-#Main Character
+#Protagonist
 "I see... Understood. I'll look into it as much as I can. That's why I came here in the first place."
 #Akane
 "But, um... please, be careful."
-#Main Character
+#Protagonist
 "Yeah... I know."

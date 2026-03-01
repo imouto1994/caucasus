@@ -4,7 +4,7 @@ We returned to the Great Hall.
 It didn't seem like everyone in the manor had gathered.
 #Akane
 "The Madam and Dr. Mikanagi are in the infirmary."
-#Satoshi
+#Protagonist
 "Is Shion-san in her room?"
 #Tsujimura
 "Yes, she is."

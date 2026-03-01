@@ -1,15 +1,15 @@
 I've come to the front of Tsujimura-san's room.
 I knock on the door.
-#Satoshi
+#Protagonist
 "Tsujimura-san, it's me."
 The door opens, and Tsujimura-san peeks his head out.
 #Tsujimura
 "Is something the matter?"
-#Satoshi
+#Protagonist
 "Do you have a moment?"
 #Tsujimura
 "Sure, I don't mind. Please, come in."
-#Satoshi
+#Protagonist
 "Excuse me."
 I enter Tsujimura-san's room.
 #Tsujimura
@@ -18,22 +18,22 @@ I've come to the front of Tsujimura-san's room again.
 I knock on the door.
 #Tsujimura
 "Yes, who is it?"
-#Satoshi
+#Protagonist
 "Hello, Tsujimura-san."
 #Tsujimura
 "Ah, it's you. What is it this time?"
-#Satoshi
+#Protagonist
 "Do you have a moment?"
 #Tsujimura
 "Sure, I don't mind. Please, come in."
-#Satoshi
+#Protagonist
 "Excuse me."
 I enter Tsujimura-san's room.
 #Tsujimura
 "How can I help you?"
 I've come to the front of Tsujimura-san's room.
 I knock on the door.
-#Satoshi
+#Protagonist
 "Oh... maybe he's not here."
 No matter how long I waited, there was no response.
 It can't be helped, I'll go somewhere else.

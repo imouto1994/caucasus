@@ -1,7 +1,7 @@
 While we waited in the corridor, Dr. Mikanagi came running.
 #Mikanagi
 "You say it was inside the oven?"
-#Main Character
+#Protagonist
 "Yes... it was being burned."
 #Mikanagi
 "In that case, identifying the body will be difficult... and the head is missing as well, isn't it?"
@@ -19,38 +19,38 @@ Dr. Mikanagi grimaced upon seeing the corpse.
 "...The whereabouts of Hiyama-san and Kirihara-sama are unknown."
 #Mikanagi
 "So it's one of those two..."
-#Main Character
+#Protagonist
 "Um, is there a possibility that it's the body of Benio-san, Ai-san, or Rokuyou-san...?"
 #Mikanagi
 "...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Ai-san or Isamu."
-#Main Character
+#Protagonist
 "Um, is there a possibility that it's the body of Benio-san or Rokuyou-san...?"
 #Mikanagi
 "...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Isamu, but..."
 #Tsujimura
 "...I went to check Benio-ojousama's room, and her body was still there."
-#Main Character
+#Protagonist
 "I see..."
 So it really can only be Souko-san or Akane-san...
 #Mikanagi
 "If only there were some kind of clue... do you know of any physical characteristics of Kirihara-san's?"
-#Main Character
+#Protagonist
 "Characteristics...? Now that you mention it, she had injured her hand when coming here..."
 #Mikanagi
 "It was the pinky finger, if I recall..."
 Dr. Mikanagi began to examine what appeared to be the arm of the charred corpse.
-#Main Character
+#Protagonist
 "How is it...?"
 #Mikanagi
 "Wait a moment."
 Dr. Mikanagi's movements stopped.
 #Mikanagi
 "...It appears to be broken."
-#Main Character
+#Protagonist
 "Eh... then..."
 #Mikanagi
 "I can't say for certain, but it's most likely Kirihara-san."
-#Main Character
+#Protagonist
 "That's..."
 I slumped onto the kitchen floor.
 #Mikanagi

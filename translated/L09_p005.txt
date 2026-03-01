@@ -1,32 +1,32 @@
 #Souko
 "Apparently she was in her room... but if she colluded with Tsujimura-san, she could have slipped through the office... I'd hate to think that's the case, though..."
-#Satoshi
+#Protagonist
 "True..."
 #Maya
 "I wouldn't know; I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "I don't know... I've been in my room the whole time."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "I was in my room the entire time..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I was in the office, and Lady Shion did not come out of her room."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know anything about what happens outside my room."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "How could I possibly know? I was right there with you."
-#Satoshi
+#Protagonist
 "True..."

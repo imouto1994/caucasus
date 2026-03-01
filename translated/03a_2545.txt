@@ -2,15 +2,15 @@ We returned to Mr. Kousei's room.
 I wonder if this key will actually work...
 #Narumi
 "I wonder what's going to come out..."
-#Main Character
+#Protagonist
 "Who knows..."
 I inserted the key into the floor of the fireplace.
 It turned.
 The part of the floor that acted as a lid lifted slightly.
-#Main Character
+#Protagonist
 "...I'm opening it."
 I swallowed hard and placed my hands on the lid.
-#Main Character
+#Protagonist
 "This is..."
 A dark hole gaped open.
 #Narumi
@@ -18,18 +18,18 @@ A dark hole gaped open.
 Iron rungs to step on were attached to the wall, continuing all the way down.
 #Narumi
 "I thought there'd be treasure right as we opened it..."
-#Main Character
+#Protagonist
 "What should we do...?"
 #Narumi
 "We can't exactly turn back now after coming this far, can we?"
-#Main Character
+#Protagonist
 "You're right... but wait, wasn't the chapel directly below this room?"
 #Narumi
 "...It's likely passing behind the altar. It probably leads to the basement."
-#Main Character
+#Protagonist
 "True, that's really the only place it could go..."
 I wonder what on earth is down there...
-#Main Character
+#Protagonist
 "Let's head down."
 #Narumi
 "...Right."
@@ -37,23 +37,23 @@ Carrying a flashlight, I climbed into the hole.
 It's quite narrow... I didn't even have room to shine the light downward.
 #Narumi
 "Don't look up."
-#Main Character
+#Protagonist
 "It's pitch black; I can't see anything anyway,"
 I said to Narumi-san as she followed me down.
 #Narumi
 "It's a matter of principle."
-#Main Character
+#Protagonist
 "...More importantly, we won't get trapped down here, will we?"
 #Narumi
 "Stop saying things like that."
-#Main Character
+#Protagonist
 "But the culprit is still out there. If they find out we're in a place like this..."
 #Narumi
 "I locked the door to the room above from the inside, so it'll be fine. Probably."
-#Main Character
+#Protagonist
 "I'm counting on that... Oh, I think I've reached the bottom."
 My feet touched the floor.
-#Main Character
+#Protagonist
 "This is..."
 At first glance, it looked like an ordinary room.
 However, it had a different atmosphere from the other rooms in this mansion.
@@ -63,19 +63,19 @@ There was only a desk, a chair, and several shelves.
 #Narumi
 "To think a room like this existed..."
 Narumi-san whispered.
-#Main Character
+#Protagonist
 "This is..."
 An elaborately bound notebook was sitting on the desk.
-#Main Character
+#Protagonist
 "It looks like a diary or something..."
 #Narumi
 "What's written in it?"
 Narumi-san peered over.
-#Main Character
+#Protagonist
 "Wait a second... it's too dark to read it here."
 #Narumi
 "Shall we read it after we get back upstairs?"
-#Main Character
+#Protagonist
 "What could Kousei-san have wanted to tell us...?"
 #Narumi
 "We'll find out once we look into it."

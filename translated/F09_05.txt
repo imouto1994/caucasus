@@ -3,22 +3,22 @@ What should I do...
 #Tsujimura
 "Oh... it's you."
 Tsujimura-san was in the office.
-#Satoshi
+#Protagonist
 "Tsujimura-san... has anything unusual happened?"
 #Tsujimura
 "No... nothing in particular..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "Regarding the matter with Mistress Kirihara's room, I can't really say..."
-#Satoshi
+#Protagonist
 "...I haven't found any clues myself yet."
 #Tsujimura
 "...Was there anything else?"
-#Satoshi
+#Protagonist
 "Uh, well..."
 #Tsujimura
 "Oh, what is it this time?"
 Tsujimura-san was still in the office.
-#Satoshi
+#Protagonist
 "Uh, well..."

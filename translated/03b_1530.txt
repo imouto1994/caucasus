@@ -1,27 +1,27 @@
 I went up the stairs.
 Since Akane-san had gone to check on Dr. Mikanagi, she should be on the north side where my room was.
 Peering into the clinic, I found Akane-san there, all alone.
-#Main Character
+#Protagonist
 "Oh... Akane-san?"
 #Akane
 "Hyaah!?"
 Akane-san nearly jumped out of her skin as she whirled around.
 For some reason, she was clutching Dr. Mikanagi's white coat.
-#Main Character
+#Protagonist
 "Uh... what are you doing?"
 #Akane
 "N-nothing at all!?"
 In a state of extreme panic, she began to fold the white coat.
-#Main Character
+#Protagonist
 "...Where is Dr. Mikanagi?"
 #Akane
 "H-he's returned to his room...!"
-#Main Character
+#Protagonist
 "So his safety’s been confirmed. That’s a relief."
 #Akane
 "Y-yes..."
 Well... I figured it was best not to dig any deeper.
-#Main Character
+#Protagonist
 "If everything’s fine, I'll head back. Akane-san, please try not to wander around too much."
 #Akane
 "Yes! Understood."

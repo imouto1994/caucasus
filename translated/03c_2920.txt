@@ -12,24 +12,24 @@ Benio-san's voice echoed through the dark room.
 #Benio
 "You can come out now."
 At Benio-san's word, I emerged from beneath the covers.
-#Main Character
+#Protagonist
 "...I really didn't want you to come here..."
 I said, addressing her.
 #Benio
 "Drop the knife."
 Seemingly resigned, she dropped the knife onto the floor.
-#Main Character
+#Protagonist
 "Benio-san, please go call the others."
 #Benio
 "The doctor is already taking care of it. But... I can't believe it's really..."
-#Main Character
+#Protagonist
 "I thought it was a fifty-fifty chance whether you'd come here or go to Maya-san's room, but if your ultimate goal was Maya-san, I figured you'd come here first."
 She didn't answer.
 Eventually, Dr. Mikanagi and the others arrived.
 #Tsujimura
 "—Hiyama-san... is that you...?"
 Seeing her figure, Tsujimura-san let the words slip.
-#Main Character
+#Protagonist
 "No. Isn't that right—Souko-san?"
 #Souko
 "...Yes, that's right."
@@ -38,11 +38,11 @@ Souko-san spoke, having cast aside her mask.
 "So it was... Kirihara-sama..."
 #Souko
 "...Did you know it was me from the very beginning?"
-#Main Character
+#Protagonist
 "...The cup in Shion-san's room, you'd put cola in it, hadn't you, Souko-san? It was right before the kitchen exploded."
 #Souko
 "I washed it thoroughly, you know?"
-#Main Character
+#Protagonist
 "Even if you washed it, the fact that it was in your room doesn't disappear. All the other identical cups were shattered in the blast."
 #Souko
 "...I see. That might have been a bit of a blunder."
@@ -63,7 +63,7 @@ Benio-san lunged at Souko-san, grabbing her.
 "It's a fact. Shion-san was the one who killed Rokuyou-san. If you doubt it, I'll show you clear evidence."
 #Benio
 "Shut up...!"
-#Main Character
+#Protagonist
 "Souko-san... when did you realize it?"
 #Souko
 "Let's see... perhaps right after Rokuyou-san's body was discovered. The chapel was unlocked."
@@ -72,20 +72,20 @@ Benio-san lunged at Souko-san, grabbing her.
 #Souko
 "To move my own plan forward."
 Souko-san gave a thin smile.
-#Main Character
+#Protagonist
 "—No, there's a high probability that Shion-san only killed Rokuyou-san."
 #Souko
 "Oh, so you noticed."
-#Main Character
+#Protagonist
 "...Only thanks to you, Souko-san. But... you knew from the beginning, didn't you?"
 #Souko
 "Yes, I did."
-#Main Character
+#Protagonist
 "And yet... you said nothing just to keep your own plan moving."
 #Souko
 "Bullseye."
 Souko-san gave a thin smile.
-#Main Character
+#Protagonist
 "Revenge... but why—"
 #Souko
 "Are you really asking that now? I thought you understood."
@@ -113,7 +113,7 @@ Souko-san tilted her head slightly.
 "...The one rescued along with you was Shion-kun, whom you killed."
 #Souko
 "...I see, so it really was—"
-#Main Character
+#Protagonist
 "...If you knew that, you didn't have to kill her...!"
 #Souko
 "I couldn't stop! ...I really shouldn't have brought you along."
@@ -123,17 +123,17 @@ Souko-san tilted her head slightly.
 "...I really should have made sure to kill you."
 #Benio
 "Sorry, but I don't intend to die just yet. ...Though I feel bad for my sister."
-#Main Character
+#Protagonist
 "Why did you leave Ai-san in such a half-finished state when you killed her...?"
 #Souko
 "That was... because you arrived too early. I intended to finish cleaning up later."
-#Main Character
+#Protagonist
 "...The reason Ai-san's head was missing was because you wanted us to think Shion-san's crime was still ongoing."
 #Souko
 "That would be it."
 #Benio
 "Why did you kill Akane?"
-#Main Character
+#Protagonist
 "That's likely because... I was with Benio-san at the time, right?"
 #Souko
 "...That too, but she saw me. When I was in the clinic in the middle of the night."
@@ -141,11 +141,11 @@ Souko-san tilted her head slightly.
 "I see... that's when you tampered with Shion-san's medicine."
 #Souko
 "Exactly."
-#Main Character
+#Protagonist
 "That was while we were locked in the basement."
 #Souko
 "Yes. I'd already made preparations by making the kitchen unusable."
-#Main Character
+#Protagonist
 "...And that's how you swapped them."
 #Souko
 "I did a little work to make it look like me."
@@ -160,22 +160,22 @@ Dr. Mikanagi answered with a stiff voice.
 Souko-san looked toward Maya-san again.
 #Maya
 "............"
-#Main Character
+#Protagonist
 "Right now, Souko-san... we're here to examine your crimes."
 #Souko
 "Right. Don't get sidetracked."
 Souko-san said gently.
-#Main Character
+#Protagonist
 "Souko-san..."
 #Souko
 "You still have more you want to say, don't you?"
-#Main Character
+#Protagonist
 "No..."
 #Souko
 "—I see. Finished? Then—"
 Souko-san moved.
 In an instant, she snatched the knife from the floor, dashed across the room, and pinned herself behind Maya-san.
-#Main Character
+#Protagonist
 "Souko-san!?"
 #Souko
 "Don't move."
@@ -186,7 +186,7 @@ Souko-san pressed the tip of the blade against Maya-san's neck.
 "Mother!"
 #Souko
 "Benio-san, my mother was killed just like this."
-#Main Character
+#Protagonist
 "Stop it, Souko-san!"
 #Souko
 "I told you not to move, didn't I?"
@@ -203,18 +203,18 @@ She gently pulled the knife.
 "Ah, aaah..."
 #Souko
 "...I want this woman to taste even more despair."
-#Main Character
+#Protagonist
 "...Could everyone please move to the performance room?"
 #Souko
 "The performance room...?"
-#Main Character
+#Protagonist
 "...Earlier, I found Kousei-san's sheet music in the basement. Unfortunately, I can't play any instruments, so I'd like Benio-san to play it..."
 #Benio
 "I don't mind, but..."
-#Main Character
+#Protagonist
 "Then let's go. ...Souko-san."
 #Souko
 "I won't run away now... there's nowhere to go anyway... and I'm curious to hear what you have to say."
-#Main Character
+#Protagonist
 "...I see."
 We left the room, surrounding Souko-san.

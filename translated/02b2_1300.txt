@@ -4,7 +4,7 @@ We went up the stairs and proceeded along the passage surrounding the atrium.
 Beyond that, there was an inconspicuous door.
 #Tsujimura
 "There's a ladder inside that leads to the attic room above."
-#Satoshi
+#Protagonist
 "...Let's go."
 I took the lead and stepped inside.
 I climbed the ladder, the sound of my footsteps echoing.
@@ -12,14 +12,14 @@ It was pitch black and I couldn't see a thing.
 When I reached the top, I could tell there was a door nearby.
 A tiny bit of light was filtering in through a small window in the door, perhaps from outside.
 I peeked inside.
-#Satoshi
+#Protagonist
 "Eh..."
 I had opened the door before my mind could even process what I was looking at.
 A sharp smell of blood hung in the air.
 A human body, lying sprawled on the floor.
 Blood, soaking the floor.
 A hand axe, discarded.
-#Satoshi
+#Protagonist
 "A... Ai-san...?"
 #Tsujimura
 "A... aahh, Miss Ai..."
@@ -29,7 +29,7 @@ Tsujimura-san fell to his knees.
 Frowning, Souko-san entered the attic room.
 #Souko
 "...The clothes she's wearing are the same. But without a head... I can't be sure if it's really her."
-#Satoshi
+#Protagonist
 "What do you mean... who else could it possibly be!?"
 It's undoubtedly Ai-san.
 #Souko
@@ -42,12 +42,12 @@ Tsujimura-san stood up and left the room.
 And then, Souko-san looked around.
 #Souko
 "...Where's the head?"
-#Satoshi
+#Protagonist
 "Eh..."
 I also looked around the room.
 A small attic room that was by no means spacious.
 Within my field of vision, Ai-san's head was nowhere to be found.
-#Satoshi
+#Protagonist
 "...Is it the same... as with Rokuyou-san...?"
 #Souko
 "Likely..."
@@ -61,5 +61,5 @@ Dr. Mikanagi, who had hurried into the room, let out a breath.
 After we offered a silent prayer, Souko-san spoke up.
 #Souko
 "...Let's investigate. We can't just leave her lying here forever."
-#Satoshi
+#Protagonist
 "You're right..."

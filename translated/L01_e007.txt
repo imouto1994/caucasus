@@ -1,40 +1,40 @@
 #Souko
 "This flower... one of the stamens is missing. Look, this orange one... judging by the arrangement, one is gone."
-#Satoshi
+#Protagonist
 "It seems so..."
 #Maya
 "...I am sorry, I do not really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "...I'm sorry, I don't really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "...Now that you mention it, when I saw the snowdrops in the hall this morning, a single blossom had been plucked. I imagine this must be it..."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "Um... I'm sorry, I don't really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I... don't really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "I don't really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "I'm sorry... I don't really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "I don't really know about that."
-#Satoshi
+#Protagonist
 "I see..."

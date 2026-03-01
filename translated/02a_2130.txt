@@ -1,41 +1,41 @@
 #Mikanagi
 "—It's been like that for a while now."
 Once the door was closed, Dr. Mikanagi began to talk.
-#Satoshi
+#Protagonist
 "...You mean Akane-san, right?"
 #Mikanagi
 "Yeah. ...Occasionally, she seems to be doing something in the study."
-#Satoshi
+#Protagonist
 "What is she doing?"
 At my question, Dr. Mikanagi shook his head.
 #Mikanagi
 "I don't know. I've never questioned her directly, and I don't think anyone else knows besides me."
-#Satoshi
+#Protagonist
 "...Does it have anything to do with this case, perhaps...?"
 #Mikanagi
 "I don't think so. Her behavior has been going on since before this, and... I don't really think she's doing anything bad."
-#Satoshi
+#Protagonist
 "...? What do you mean?"
 #Mikanagi
 "I haven't heard of anything going missing, either. I suspect she's researching something, but..."
-#Satoshi
+#Protagonist
 "What on earth could she be..."
 #Mikanagi
 "I don't know. I should have told her to stop before someone else found her, though..."
 Dr. Mikanagi let out another sigh.
-#Satoshi
+#Protagonist
 "...On the handkerchief Akane-san dropped earlier, there was 'Akari·M' embroidered on it."
 #Mikanagi
 "Akari...?"
-#Satoshi
+#Protagonist
 "Yeah. Akane-san said she made a mistake when she was doing the embroidery, but..."
 #Mikanagi
 "...I suppose that sort of thing happens."
 Dr. Mikanagi murmured.
-#Satoshi
+#Protagonist
 "I wonder..."
 In any case, I might need to keep a close eye on Akane-san.
-#Satoshi
+#Protagonist
 "Well then, I'll be going now."
 Thinking I'd head back to my room to gather my thoughts, I stood up.
 #Mikanagi
@@ -43,7 +43,7 @@ Thinking I'd head back to my room to gather my thoughts, I stood up.
 Saying so, Dr. Mikanagi pointed to the door near the window.
 #Mikanagi
 "Your room is right next door, isn't it?"
-#Satoshi
+#Protagonist
 "Yeah..."
 It's a door that connects the rooms directly.
 It's certainly close, but...
@@ -54,16 +54,16 @@ It was locked.
 Dr. Mikanagi took out the key to his room and inserted it into the keyhole.
 #Mikanagi
 "See, my key can't open it. Give yours a try."
-#Satoshi
+#Protagonist
 "Okay..."
 I inserted the key to my room.
 The door opened.
 #Mikanagi
 "It can only be opened with a key from one side. So, I'm praying that you aren't the culprit."
-#Satoshi
+#Protagonist
 "...Of course I'm not."
 I can understand being wary of people who can open this door, so I gave a simple nod.
-#Satoshi
+#Protagonist
 "Well then, good night."
 #Mikanagi
 "Yeah, good night."

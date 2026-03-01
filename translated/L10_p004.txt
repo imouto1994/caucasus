@@ -1,28 +1,28 @@
 #Souko
 "...There's no doubt she was struck by someone... but the culprit vanished into thin air..."
-#Satoshi
+#Protagonist
 "True..."
 #Maya
 "So Benio was safe... thank goodness..."
-#Satoshi
+#Protagonist
 "...Yeah."
 #Ai
 "To think even Benio would be attacked... I've had enough..."
-#Satoshi
+#Protagonist
 "Ai-san..."
 #Shion
 "Lady Benio was safe, then...?"
-#Satoshi
+#Protagonist
 "Yes... there's no need to worry."
 #Tsujimura
 "We were talking in the office until about two... She must have been attacked after returning to her room..."
-#Satoshi
+#Protagonist
 "...I believe so."
 #Takamine
 "...I was in my room, so I didn't see Benio-kun."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "She was hit on the head, right? She'd better keep quiet and rest for a while."
-#Satoshi
+#Protagonist
 "True..."

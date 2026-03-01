@@ -1,20 +1,20 @@
 Eventually, Tsujimura-san came running.
 #Tsujimura
 "U-Um... Dr. Mikanagi has passed away..."
-#Main Character
+#Protagonist
 "Yes..."
 #Tsujimura
 "Oh... how can this be... even Dr. Mikanagi..."
 Tsujimura-san's shoulders slumped in despair.
-#Main Character
+#Protagonist
 "Tsujimura-san, Shion-san is in the clinic. Her clothes are soiled, so please prepare a change for her."
 #Tsujimura
 "Y-Yes... but why..."
-#Main Character
+#Protagonist
 "...Shion-san was the first to discover him."
 #Tsujimura
 "Eh... she certainly... did say she was going to get some medicine, but..."
-#Main Character
+#Protagonist
 "...Please go let her change quickly."
 #Tsujimura
 "Y-Yes... understood."

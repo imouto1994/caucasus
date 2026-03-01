@@ -5,23 +5,23 @@ Akane-san was tidying up the table.
 Maybe because there were so many people, it doesn't look like much progress has been made yet.
 Help
 Don't help
-#Satoshi
+#Protagonist
 "Shall I help you?"
 I made the offer.
 #Akane
 "E-Eh, no, that's quite alright! I couldn't possibly let a guest do such a thing!"
 Akane-san shook her head in a panic.
-#Satoshi
+#Protagonist
 "But wouldn't it be faster with two people tidying up?"
 #Akane
 "But... um, I'll gratefully accept just the thought alone."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Um, do you need anything else?"
-#Satoshi
+#Protagonist
 "Anything else, huh..."
-#Satoshi
+#Protagonist
 "I'm sorry, you seem to be in the middle of work."
 I shouldn't get in the way of her tidying up.
 I gave a bow and left the dining hall.
@@ -30,10 +30,10 @@ I've come to the dining hall again.
 "Is something wrong?"
 Akane-san was mopping the floor.
 The tidying up seems to be mostly finished.
-#Satoshi
+#Protagonist
 "Uh..."
 I've come to the dining hall.
-#Satoshi
+#Protagonist
 "Huh... no one's here."
 The room was empty.
 All the food from earlier has been cleared away.

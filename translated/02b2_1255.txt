@@ -1,50 +1,50 @@
 As I stepped out into the hallway, I happened to run into Benio-san.
 #Benio
 "Hello there."
-#Satoshi
+#Protagonist
 "Hello."
 #Benio
 "You're quite the lady-killer, aren't you."
-#Satoshi
+#Protagonist
 "Eh?"
 #Benio
 "You were walking Shion back, weren't you?"
-#Satoshi
+#Protagonist
 "Were you watching...?"
 I let out a sigh.
-#Satoshi
+#Protagonist
 "It's not anything like that."
 #Benio
 "And what exactly is 'that'?"
-#Satoshi
+#Protagonist
 "Shion-san just lost her husband—well, Rokuyou-san—didn't she?"
 #Benio
 "The ceremony wasn't completed, so they never actually became husband and wife, did they?"
 #Benio
 "...It's not as if they were in love, either."
-#Satoshi
+#Protagonist
 "But still..."
 #Benio
 "—I suppose anyone would have sufficed, so long as they were the one to liberate her from that tower."
 Benio-san murmured to herself.
-#Satoshi
+#Protagonist
 "Benio-san—?"
 #Benio
 "Setting that aside, has my sister been found yet?"
-#Satoshi
+#Protagonist
 "Eh, no... not yet..."
 #Benio
 "I see..."
 #Souko
 "Oh, what are you two doing in a place like this?"
 Souko-san came walking over from the direction of the hall.
-#Satoshi
+#Protagonist
 "Souko-san... Ai-san hasn't been found yet."
 #Souko
 "I see..."
 #Benio
 "There's no point in just talking here. Let's head to the hall for now and figure out our next move."
-#Satoshi
+#Protagonist
 "...You're right."
 In the Great Hall were Maya-san and Dr. Mikanagi.
 Maya-san looked terribly haggard.
@@ -69,7 +69,7 @@ Tsujimura-san entered as she was leaving.
 Tsujimura-san was also lacking energy.
 #Tsujimura
 "I've looked around the basement and other areas... but Miss Ai was nowhere to be found..."
-#Satoshi
+#Protagonist
 "Is there anywhere we haven't looked yet?"
 #Tsujimura
 "Even if you say that... I cannot enter the guests' rooms..."
@@ -78,13 +78,13 @@ Tsujimura-san was also lacking energy.
 Tsujimura-san shook his head at Souko-san's question.
 #Tsujimura
 "There were no footprints at the front entrance or the back door. Though, since it's still snowing, any footprints might have been erased as time passed."
-#Satoshi
+#Protagonist
 "The last time I saw Ai-san was just before eleven. That would be two hours ago now..."
 #Benio
 "In two hours, unless it was a fierce blizzard like last night, footprints wouldn't completely disappear."
 #Souko
 "If that's the case, then she's almost certainly still inside the building..."
-#Satoshi
+#Protagonist
 "But—"
 And with that, I swallowed my words.
 But—if she still hasn't turned up after all this searching.
@@ -104,14 +104,14 @@ Tsujimura-san gasped.
 "Yes. Didn't the bell ring at midnight last night? There's a room where that machinery is kept."
 #Souko
 "You said it usually only rings at noon. ...I wonder if it rang earlier?"
-#Satoshi
+#Protagonist
 "Eh...?"
 Come to think of it... did I hear the sound of the bell?
 #Benio
 "...I didn't really pay much attention to it."
 #Tsujimura
 "Yes... I'm ashamed to admit that I wasn't paying attention either."
-#Satoshi
+#Protagonist
 "...Let's go. Maybe—"
 Ai-san might be there.
 #Souko

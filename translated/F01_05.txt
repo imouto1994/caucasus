@@ -1,16 +1,16 @@
 #Tsujimura
 "Oh, what's the matter?"
 Tsujimura-san was in the office.
-#Satoshi
+#Protagonist
 "Hello. Were you in the middle of work?"
 #Tsujimura
 "Just organizing some documents. Did you need something?"
-#Satoshi
+#Protagonist
 "Uh... well..."
 #Tsujimura
 "Oh, what's the matter again?"
 Tsujimura-san was still in the office.
-#Satoshi
+#Protagonist
 "Uh... well..."
 I've come to the office.
 Tsujimura-san doesn't seem to be here.

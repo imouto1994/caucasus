@@ -1,31 +1,31 @@
 After Akane-san left, I stepped out of the room as well.
 I was planning to ask Benio-san about the 'Curse of the Nanatsuki'.
 I was on my way back to my room after parting with Souko-san and the others.
-#Main Character
+#Protagonist
 "Hmm...?"
 I heard a loud noise.
 Was it coming from the clinic...?
-#Main Character
+#Protagonist
 "Is something wrong, Dr. Mikanagi—?"
 I opened the door and gasped.
-#Main Character
+#Protagonist
 "Sh-Shion-san!?"
 #Shion
 "Uu... uugh..."
 Shion-san was lying on the floor, groaning in pain.
-#Main Character
+#Protagonist
 "What happened, Shion-san!?"
 #Shion
 "Uu... ugh..."
 A small, open bottle was lying on the floor nearby.
-#Main Character
+#Protagonist
 "Don't tell me... poison!? Sh-Shion-san, stay with me!"
 I hurriedly pulled her up and slapped her cheeks a few times.
 #Shion
 "Uugh..."
 I have to do something...!
 If she’s swallowed poison, I have to make her throw up first...
-#Main Character
+#Protagonist
 "...Excuse me, Shion-san."
 After a quick word, I slid my finger into her mouth.
 #Shion
@@ -37,7 +37,7 @@ Saliva wetted the floor.
 #Mikanagi
 "What's wrong!?"
 Dr. Mikanagi burst into the clinic.
-#Main Character
+#Protagonist
 "It seems Shion-san swallowed poison or something!"
 #Mikanagi
 "What—!?"
@@ -49,7 +49,7 @@ Dr. Mikanagi immediately pulled Shion-san up.
 #Mikanagi
 "Medicine? Your usual headache medicine?"
 Shion-san nodded silently.
-#Main Character
+#Protagonist
 "Was it this...?"
 I showed the medicine bottle that had been lying on the floor to Dr. Mikanagi.
 #Mikanagi
@@ -57,45 +57,45 @@ I showed the medicine bottle that had been lying on the floor to Dr. Mikanagi.
 Shion-san nodded.
 #Mikanagi
 "...Tsk, bring some water."
-#Main Character
+#Protagonist
 "A-Ah, right."
 I scrambled up and brought the water pitcher and a cup from the desk.
 #Mikanagi
 "Drink this, we need to slow the absorption of the poison as much as possible."
 Dr. Mikanagi poured the water from the cup into Shion-san's mouth.
-#Main Character
+#Protagonist
 "W-Will she be alright...?"
 I asked Dr. Mikanagi timidly.
 #Mikanagi
 "...I don't know yet. Aconite poison acts quickly and there's no antidote... we can only pray it works out."
-#Main Character
+#Protagonist
 "Aconite!? Isn't that... a deadly poison?"
 #Mikanagi
 "...What was here was the crude drug 'Bushi', so it’s been treated to reduce toxicity... but it’s still dangerous if taken in large quantities."
 As he spoke, Dr. Mikanagi continued to treat Shion-san.
 #Mikanagi
 "...But why would something like this happen..."
-#Main Character
+#Protagonist
 "The culprit planted the poison, didn't they...?"
 Dr. Mikanagi shook his head at my question.
 #Mikanagi
 "...I don't know. It’s possible I made a mistake in the formulation. I’d like to think not, but..."
-#Main Character
+#Protagonist
 "How could that..."
 #Mikanagi
 "...Right now, Shion-san is more important than that."
 Dr. Mikanagi was checking Shion-san's pulse.
 #Mikanagi
 "No signs of arrhythmia... I can only hope the amount was small... Let's move Shion-san to the bed. Help me."
-#Main Character
+#Protagonist
 "Y-Yes."
 Together, Dr. Mikanagi and I lifted Shion-san and moved her to the bed.
-#Main Character
+#Protagonist
 "Shion-san..."
 #Shion
 "Ye... yes..."
 Her lips were trembling slightly, but Shion-san managed to speak.
-#Main Character
+#Protagonist
 "Do you know what happened...?"
 #Shion
 "I... took my usual medicine... and my tongue felt numb... I spat it out immediately... but..."
@@ -103,25 +103,25 @@ Shion-san spoke haltingly.
 #Mikanagi
 "I see... you should be alright now."
 Dr. Mikanagi placed a wet towel on Shion-san's forehead.
-#Main Character
+#Protagonist
 "...Was it really aconite?"
 #Mikanagi
 "...Of the medicines here, it’s the only one that would cause Shion-san's symptoms. But... it’s not something someone could do without considerable knowledge."
-#Main Character
+#Protagonist
 "True..."
 Someone like me wouldn't have a clue.
 #Mikanagi
 "...I wonder if I should tell everyone that Shion-san was targeted."
 Dr. Mikanagi muttered quietly.
-#Main Character
+#Protagonist
 "Are you planning not to tell them...?"
 #Mikanagi
 "I don't want to stir up unnecessary anxiety. Look... even Takamine-san is reluctant to eat, right? If that gets worse, it’ll be a disaster."
-#Main Character
+#Protagonist
 "That’s true, but..."
 #Mikanagi
 "Why don't you decide? ...After all, I might be one of the suspects myself."
-#Main Character
+#Protagonist
 "I don't... think that..."
 But... it’s probably best to decide what to do.
 Tell them Shion was targeted.
@@ -129,22 +129,22 @@ Don't tell them Shion was targeted.
 #Mikanagi
 "...I don't want to stir up unnecessary anxiety."
 ...He was certainly right about that.
-#Main Character
+#Protagonist
 "...Let's keep the poisoning a secret, and just tell them what happened."
 #Mikanagi
 "Yes, that’s probably for the best."
 That way, only Dr. Mikanagi, Shion-san, myself, and—the culprit—would know about the poison.
 That could be a major key in tracking down the culprit later on.
-#Main Character
+#Protagonist
 "...Let's not tell everyone."
 #Mikanagi
 "...That might be for the best. We'll just say Shion-san isn't feeling well and is resting."
-#Main Character
+#Protagonist
 "Yeah, let’s go with that."
 But... I should probably tell Souko-san.
 I’m not quite capable enough to handle this situation on my own.
 #Mikanagi
 "Well then, I'll leave it to you."
-#Main Character
+#Protagonist
 "Right, understood."
 After checking on the lying Shion-san one last time, I left the clinic.

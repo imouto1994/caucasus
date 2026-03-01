@@ -1,62 +1,62 @@
-#Main Character
+#Protagonist
 "Whew..."
 Once we reached the first-floor hall, I let out a long breath.
 #Narumi
 "That was a disaster, seriously..."
-#Main Character
+#Protagonist
 "In any case, we have to stop the culprit before they do anything else. Let’s look around the mansion."
 #Narumi
 "Ah... h-hey..."
 As I was about to start looking around, Narumi-san stopped me.
-#Main Character
+#Protagonist
 "What is it?"
 #Narumi
 "Don't you suspect me? I mean... I'm a thief, you know?"
-#Main Character
+#Protagonist
 "You might be a thief, Narumi-san, but you aren't a murderer, are you? Besides, there’d be no point in you being locked in here with me."
 If Narumi-san were the culprit... she would have killed me when we were locked in.
 #Narumi
 "I see..."
-#Main Character
+#Protagonist
 "Let's hurry, Narumi-san."
 As soon as we stepped into the eastern corridor, we ran into Akane-san, who had just come out of her room.
-#Main Character
+#Protagonist
 "Ah, Akane-san..."
 #Akane
 "Is something wrong? You seem to be in a hurry..."
-#Main Character
+#Protagonist
 "No, no particular reason..."
 It’s probably best not to tell her we were locked in by someone.
-#Main Character
+#Protagonist
 "By the way... Akane-san, is your injury okay now?"
 #Akane
 "Ah, yes. I can't exactly stay still at a time like this."
 With that, Akane-san waved her still-bandaged hand.
 #Akane
 "Oh, that's right. Kirihara-sama was looking for you."
-#Main Character
+#Protagonist
 "Souko-san was?"
 I wonder if she was worried since I’d disappeared.
 #Akane
 "She’s still in the dining room..."
-#Main Character
+#Protagonist
 "Souko-san?"
 When I peered into the dining room, Souko-san was sitting in a chair, drinking cola.
 #Souko
 "Ah, there you are. Where have you been?"
-#Main Character
+#Protagonist
 "Don't 'where have you been' me. It was a disaster."
 I briefly explained to Souko-san that we’d been trapped in the basement.
 #Souko
 "To think something like that happened..."
-#Main Character
+#Protagonist
 "The culprit might have been doing something while we were trapped. I thought I should confirm everyone’s safety first..."
 #Souko
 "That’s a good idea. Then could you go check on the people on the second floor?"
 #Akane
 "Ah, I'll go check on Dr. Mikanagi."
 With that, Akane-san rushed out of the dining room before we could say anything.
-#Main Character
+#Protagonist
 "...Then I’ll go check on Benio-san and the others."
 #Souko
 "Right, please do. I'll check the first floor."

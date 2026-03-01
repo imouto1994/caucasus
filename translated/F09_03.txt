@@ -1,21 +1,21 @@
 There was no one in the grand hall.
 Well... what should I do?
 When I entered the grand hall, Takamine-san was sitting on the sofa.
-#Satoshi
+#Protagonist
 "Ah, Takamine-san."
 #Takamine
 "...Did something happen?"
 He gives me a sharp, sideways glare as he stands up.
-#Satoshi
+#Protagonist
 "Souko-san—I mean, Kirihara's room was ransacked, and there was writing on the wall in what looks like blood."
 #Takamine
 "...That sounds ominous."
-#Satoshi
+#Protagonist
 "Yeah... Did you see anyone acting strangely?"
 #Takamine
 "I don't pay much attention to what others are doing."
 Takamine-san answers flatly.
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Was there something else?"

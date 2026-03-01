@@ -1,63 +1,63 @@
 I returned to the first floor.
-#Main Character
+#Protagonist
 "Then I'll go to Shion-san's place."
 #Narumi
 "Will you be okay on your own?"
-#Main Character
+#Protagonist
 "Yeah... don't worry."
 I passed through the empty office and went outside.
 The snow had lost its intensity.
 Though starlight was not yet visible, the clouds seemed to have thinned out considerably.
 Soon—everything will be over.
 I climbed the tower stairs and stood before Shion-san's room.
-#Main Character
+#Protagonist
 "Shion-san, it's me. Are you awake...?"
 The door opened from the inside, and Shion-san peered out.
 #Shion
 "Um... what is it...?"
-#Main Character
+#Protagonist
 "I'd like to talk for a moment..."
 #Shion
 "...Please come in. It must be cold outside."
 I was shown into the room.
 #Shion
 "Is this talk... about the incident...?"
-#Main Character
+#Protagonist
 "Yeah, well..."
 #Shion
 "I see..."
 Shion-san looked down.
 #Shion
 "...I suppose bad deeds cannot be hidden after all..."
-#Main Character
+#Protagonist
 "Shion-san..."
-#Main Character
+#Protagonist
 "...I have proof of Rokuyou-san's murder."
 #Shion
 "—!"
 Shion-san gasped.
-#Main Character
+#Protagonist
 "Shion-san..."
 #Shion
 "...I suppose bad deeds cannot be hidden after all..."
-#Main Character
+#Protagonist
 "Shion-san..."
 I haven't yet grasped the **decisive evidence** of Rokuyou-san's murder.
 Yet... Shion-san is about to confess.
 #Shion
 "I... killed Rokuyou-sama."
-#Main Character
+#Protagonist
 "...I see. But why...?"
 #Shion
 "I... cannot answer that."
 Shion-san looked down again.
 #Shion
 "It is all... my fault. Even the things I've hidden until now... I will accept any punishment. But..."
-#Main Character
+#Protagonist
 "Can you really not tell me the reason...?"
 #Shion
 "I am so sorry... it was the only thing I could do..."
-#Main Character
+#Protagonist
 "...Let's go."
 It seemed there was nothing more I could get out of her.
 The rest... I'll leave to the police.

@@ -1,40 +1,40 @@
 #Souko
 "You want to ask about cola? Let's see, I was the very first person in Japan to drink cola. Impressive, right?"
-#Satoshi
+#Protagonist
 "...I can tell that's a lie, even for me."
 #Maya
 "Cola... is it? Unfortunately, I have never drunk it."
-#Satoshi
+#Protagonist
 "I see."
 #Ai
 "Cola? I've heard of it... that's what Kirihara-san was drinking, wasn't it?"
-#Satoshi
+#Protagonist
 "Yes, that's right."
 #Benio
 "I drink cola occasionally. That fizzy feeling is irresistible."
-#Satoshi
+#Protagonist
 "Right..."
 #Shion
 "Cola... is it? Well... I don't know what that is..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "Cola, is it... I remember getting some from the occupation forces a long time ago. It must be nearly twenty years ago now..."
-#Satoshi
+#Protagonist
 "Huh... I see."
 #Takamine
 "Cola? I don't drink such things."
-#Satoshi
+#Protagonist
 "I-I see..."
 #Mikanagi
 "Cola contains a lot of caffeine, you know. You should be careful, as drinking too much might keep you from sleeping."
-#Satoshi
+#Protagonist
 "I-I see..."
 #Akane
 "Cola? ...I'm sorry, we don't have any prepared here..."
-#Satoshi
+#Protagonist
 "Ah, no, it's fine. Souko-san brought plenty."
 #Narumi
 "Cola? ...Come to think of it, I heard that simmering chicken in cola makes it delicious."
-#Satoshi
+#Protagonist
 "...Don't ask me, ask Souko-san for some."

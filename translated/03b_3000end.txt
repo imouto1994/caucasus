@@ -4,33 +4,33 @@ Right now, they're in the middle of constructing a temporary bridge for people t
 #Akane
 "Here, I've made some tea."
 Akane-san entered the hall.
-#Main Character
+#Protagonist
 "Ah, thank you. I'll have some."
 #Akane
 "Narumi-san is making some simple dishes now."
-#Main Character
+#Protagonist
 "I see."
 #Akane
 "...We can finally go home."
-#Main Character
+#Protagonist
 "Yeah... but what are you all going to do now, Akane-san?"
 #Akane
 "Eh, us...?"
-#Main Character
+#Protagonist
 "Maya-san will likely be arrested. And besides, everyone else is gone..."
 #Akane
 "True... we might have to leave as well..."
 Akane-san whispered with a hint of sadness, as if she had some lingering regret.
-#Main Character
+#Protagonist
 "...Where were you born, Akane-san?"
 #Akane
 "...A small port town across several mountains from here. But... there's no one left there. I have nowhere to go."
-#Main Character
+#Protagonist
 "In... in that case—"
 #Souko
 "Hey there, no picking up girls."
 Souko-san poked me from behind.
-#Main Character
+#Protagonist
 "I-I wasn't trying to do anything like that—"
 #Narumi
 "I'll take Akane in if she needs it."
@@ -42,17 +42,17 @@ Narumi-san, who had just entered the hall, spoke up.
 #Akane
 "Y-Yes!"
 Akane-san nodded, her eyes filling with tears.
-#Main Character
+#Protagonist
 "...By the way, Souko-san, what are you going to do now?"
 #Souko
 "Well... since there's no point in investigating anymore, I could just go home... but I'll probably be called in by the police..."
-#Main Character
+#Protagonist
 "...Well, I suppose so."
 #Narumi
 "Shouldn't you find an inn at the foot of the mountain or in town? They won't be doing the interrogations here, after all."
 #Souko
 "True..."
-#Main Character
+#Protagonist
 "Why not just stay here?"
 #Souko
 "I can't do that. ...I'm all out of cola."
@@ -62,12 +62,12 @@ The door opened and Takamine-san entered.
 "The bridge is ready. Only one person can cross at a time, though."
 #Narumi
 "I guess this is goodbye, then."
-#Main Character
+#Protagonist
 "I suppose so."
 #Akane
 "Um... take care."
 #Souko
 "You too. Well, let's go."
 Souko-san called my name, and I stood up.
-#Main Character
+#Protagonist
 "Well then... thank you for everything."

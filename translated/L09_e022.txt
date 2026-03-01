@@ -1,32 +1,32 @@
 #Souko
 "The head was gone again... Just like before..."
-#Satoshi
+#Protagonist
 "True..."
 #Maya
 "Could you... please not ask me about such things...?"
-#Satoshi
+#Protagonist
 "Maya-san..."
 #Ai
 "Ah... Benio...! Why, why...!"
-#Satoshi
+#Protagonist
 "Ai-san..."
 #Shion
 "...Why did this happen to Lady Benio too...?"
-#Satoshi
+#Protagonist
 "I don't know..."
 #Tsujimura
 "...Lady Benio's remains are laid to rest in her room. I truly wish she could have remained whole, but..."
-#Satoshi
+#Protagonist
 "True..."
 #Takamine
 "I'm told Lady Benio's exact cause of death hasn't been determined yet... I only hope it wasn't poisoning."
-#Satoshi
+#Protagonist
 "...I see."
 #Mikanagi
 "I don't know the direct cause of Benio-san's death. However, I believe her neck was severed either immediately after death or just before she expired."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "...With Lady Benio murdered as well, it's looking more and more like a dispute over the inheritance..."
-#Satoshi
+#Protagonist
 "...Maybe so..."

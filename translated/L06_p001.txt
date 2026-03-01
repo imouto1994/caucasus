@@ -1,36 +1,36 @@
 #Souko
 "When the blackout happened, I was asleep in my room. I panicked when the lights wouldn't come on after I woke up, but I figured it was best not to move around blindly, so I stayed put."
-#Satoshi
+#Protagonist
 "I see. And after that, you were with me repairing the generator..."
 #Maya
 "I did not see Mistress Kirihara. After all, I was in my own room the entire time as well."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "I haven't seen her since evening, but wouldn't she have been in her room? Once we went to the basement, we were together the whole time..."
-#Satoshi
+#Protagonist
 "True..."
 #Shion
 "I am sorry, I do not really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I don't believe anything in particular happened..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "I didn't see her during the blackout... If Ai-san's head was severed after the electrocution, weren't you with her?"
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Well... she wasn't in the grand hall..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Kirihara-san? I'd imagine she was in her room."
-#Satoshi
+#Protagonist
 "I see."

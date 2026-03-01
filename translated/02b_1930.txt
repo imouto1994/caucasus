@@ -6,52 +6,52 @@ Shion-san is on the second floor.
 I go up the stairs and knock on the door.
 #Shion
 "Yes……?"
-#Satoshi
+#Protagonist
 "Shion-san, it's me."
 After I call out, the door opens from the inside a moment later.
 #Shion
 "Um…… is something the matter……?"
 Shion-san's eyes are moist.
 I wonder if she’s been crying……
-#Satoshi
+#Protagonist
 "I came to make sure that everyone is alright."
 #Shion
 "……I see."
 Shion-san looks down.
-#Satoshi
+#Protagonist
 "Umm…… so——"
 #Shion
 "Please, come in……"
 Shion-san opens the door and invites me inside.
-#Satoshi
+#Protagonist
 "Ah…… excuse me."
 #Shion
 "……Did you come here to watch me?"
-#Satoshi
+#Protagonist
 "Eh…… no, that's not it at all?"
 #Shion
 "Then…… why……?"
-#Satoshi
+#Protagonist
 "……Because I'm worried about you, Shion-san."
 I voice my honest feelings.
-#Satoshi
+#Protagonist
 "It's partly because Tsujimura-san asked me to…… but I can't just leave you be. Not someone living all alone in a place this far removed."
-#Satoshi
+#Protagonist
 "Besides…… Ai-san has been murdered as well. You might be a target for the culprit too, Shion-san."
 #Shion
 "But, I……"
-#Satoshi
+#Protagonist
 "I'll definitely find the culprit. So…… until then, I'll make sure to protect you, Shion-san."
 Shion-san stays silent and looks down.
-#Satoshi
+#Protagonist
 "Um…… was I being a nuisance, perhaps……?"
 #Shion
 "……No, that's…… not the case."
 Shion-san shakes her head.
-#Satoshi
+#Protagonist
 "Umm…… sorry, I guess I just got a bit ahead of myself……"
 #Shion
 "No…… th-thank you very much."
-#Satoshi
+#Protagonist
 "W-Well then, I'll be going……"
 In that awkward atmosphere, I bow and leave Shion-san's room.

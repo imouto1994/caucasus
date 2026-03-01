@@ -8,11 +8,11 @@ It looks like a door connecting to the next room.
 I definitely saw something like a tower outside the window earlier.
 Let's see what's out there once more.
 I wiped the fog off the window and leaned closer.
-#Satoshi
+#Protagonist
 "Eh...?"
 I can hear something.
 A beautiful sound, distinct from the howling wind of the blizzard.
-#Satoshi
+#Protagonist
 "A song...?"
 It's someone's singing voice.
 Is that—coming from the tower?
@@ -36,7 +36,7 @@ Other than that, I just have a notebook and writing materials.
 Oh right, I was going to fix the metal fitting on my bag.
 I lightly crush the bag's clasp with the pliers I borrowed from the storage room.
 The pliers seem quite loose, like they're about to break any moment.
-#Satoshi
+#Protagonist
 "Ah..."
 A small knife tumbled out of my bag's pocket.
 Oh right, I had put it in here...

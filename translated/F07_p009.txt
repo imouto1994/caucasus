@@ -1,68 +1,68 @@
 #Souko
 "Akane-san hasn't been acting particularly strange, but we can't be too careful."
-#Satoshi
+#Protagonist
 "Right..."
 #Souko
 "I wonder why she disappeared..."
-#Satoshi
+#Protagonist
 "...I don't know."
 #Maya
 "Akane is a hard worker. She is very attentive to detail."
-#Satoshi
+#Protagonist
 "I see."
 #Maya
 "Akane has vanished... surely, that child couldn't be...?"
-#Satoshi
+#Protagonist
 "...We don't know anything for certain yet."
 #Ai
 "Akane-san? She's an excellent worker."
-#Satoshi
+#Protagonist
 "I see."
 #Ai
 "The fact that Akane-san disappeared... surely that means..."
-#Satoshi
+#Protagonist
 "...We don't know yet."
 #Shion
 "Akane-san... she has always been kind to me."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "Akane-san... where on earth did she go...?"
-#Satoshi
+#Protagonist
 "...We don't know yet."
 #Tsujimura
 "...At any rate, I am glad Mistress Hiyama's injuries were not severe."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Tsujimura
 "Where on earth could Mistress Hiyama have gone...?"
-#Satoshi
+#Protagonist
 "We don't know yet..."
 #Takamine
 "Whether Hiyama-kun being targeted is connected to you two being locked in the basement... you still don't know?"
-#Satoshi
+#Protagonist
 "Right..."
 #Takamine
 "There are only so many places one can go in this mansion... why can't she be found?"
-#Satoshi
+#Protagonist
 "True..."
 #Mikanagi
 "I'm glad Akane-san's injuries were minor. ...I don't want to see any more victims, after all."
-#Satoshi
+#Protagonist
 "Me neither..."
 #Mikanagi
 "I wonder if it's because of what happened yesterday... her hiding herself away like that."
-#Satoshi
+#Protagonist
 "...Maybe."
 #Akane
 "My injuries are fine now. For now, let's... think about other things instead."
-#Satoshi
+#Protagonist
 "Right..."
 #Narumi
 "I don't think you need to worry about Akane's injuries."
-#Satoshi
+#Protagonist
 "I see."
 #Narumi
 "The reason she vanished, huh... She seemed to be looking into something, so maybe it's related to that... but it might be better not to jump to conclusions."
-#Satoshi
+#Protagonist
 "I see..."

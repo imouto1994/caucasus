@@ -12,7 +12,7 @@ Tsujimura-san was the first to ask.
 "That... we still don't know the reason."
 #Takamine
 "Is there no possibility of murder?"
-#Main Character
+#Protagonist
 "...I believe it's unlikely."
 #Maya
 "No... Shion..."
@@ -27,7 +27,7 @@ Tsujimura-san was the first to ask.
 #Narumi
 "It's a little hard to believe... especially after seeing *that*."
 Narumi-san cast a fleeting glance toward Maya-san.
-#Main Character
+#Protagonist
 "Narumi-san... let's set that aside for now. For the time being, please consider Shion-san as the culprit."
 #Narumi
 "I see—"
@@ -43,5 +43,5 @@ Dr. Mikanagi nodded.
 "...They should be left as they are."
 #Tsujimura
 "I see... understood."
-#Main Character
+#Protagonist
 "...Well then, let's head back to our rooms."

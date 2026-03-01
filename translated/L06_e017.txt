@@ -1,36 +1,36 @@
 #Souko
 "I wonder what was used for the decapitation... From what I can see, nothing that could serve as a weapon was left behind..."
-#Satoshi
+#Protagonist
 "True..."
 #Maya
 "Ah... Ai... Why did it come to this...?"
-#Satoshi
+#Protagonist
 "Maya-san..."
 #Benio
 "...It was only about ten minutes between the second blackout and the discovery of the body... It wouldn't be impossible to take off a head in that time, but still..."
-#Satoshi
+#Protagonist
 "True..."
 #Shion
 "Lady Ai... why...?"
-#Satoshi
+#Protagonist
 "Shion-san..."
 #Tsujimura
 "Lady Ai... How tragic..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Takamine
 "To think even Ai-kun would be killed... Just what on earth is happening here?"
-#Satoshi
+#Protagonist
 "Yeah..."
 #Mikanagi
 "...It was likely a saw that severed the neck. I imagine they did it in the bathtub with the water running to wash away the blood as they worked."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Lady Ai... Why did this happen...?"
-#Satoshi
+#Protagonist
 "True..."
 #Narumi
 "...The fact that Lady Ai was murdered might mean that no one is safe... except for the killer."
-#Satoshi
+#Protagonist
 "Maybe so..."

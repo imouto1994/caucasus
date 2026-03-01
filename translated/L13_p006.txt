@@ -1,20 +1,20 @@
 #Maya
 "I wouldn't know, I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see…"
 #Ai
 "I’m not sure… I was in my room the entire time."
-#Satoshi
+#Protagonist
 "I see…"
 #Tsujimura
 "I was in the office… I had no idea what was happening until Mizukami-san arrived…"
-#Satoshi
+#Protagonist
 "I see…"
 #Takamine
 "I wouldn’t know what was happening outside my room."
-#Satoshi
+#Protagonist
 "I see…"
 #Narumi
 "When I went to tell Tsujimura-san, he really seemed like he didn’t know a thing. Besides, I didn’t see him anywhere around the time of the murder…"
-#Satoshi
+#Protagonist
 "I see…"

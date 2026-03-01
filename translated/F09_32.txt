@@ -5,12 +5,12 @@ Maybe he's not there.
 I gave up and decided to go somewhere else.
 This is Mikanagi-sensei's room.
 I knock lightly on the door.
-#Satoshi
+#Protagonist
 "Mikanagi-sensei, are you there?"
 The door opens, and Mikanagi-sensei peeks his head out.
 #Mikanagi
 "What is it?"
-#Satoshi
+#Protagonist
 "Hello, Mikanagi-sensei. Could I have a moment of your time?"
 #Mikanagi
 "Sure, I don't mind, but what's up?"
@@ -20,7 +20,7 @@ I knock lightly on the door.
 The door opens, and Mikanagi-sensei peeks his head out.
 #Mikanagi
 "Oh, what is it this time?"
-#Satoshi
+#Protagonist
 "Hello, Mikanagi-sensei. Could I have a moment of your time?"
 #Mikanagi
 "Sure, I don't mind."

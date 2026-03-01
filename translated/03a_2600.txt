@@ -1,28 +1,28 @@
 We returned to the second floor.
 #Narumi
 "Now, what are we going to do next?"
-#Main Character
+#Protagonist
 "First... let's read this journal."
 I pulled out the notebook we found in the basement.
 #Narumi
 "I hope it says something about the inheritance..."
 Narumi-san peered over my shoulder.
 Now then—
-#Main Character
+#Protagonist
 "This is..."
 My hands trembled as I held the notebook.
 #Narumi
 "To think such things happened..."
 If what’s written here is the truth, then the 'Curse of the Nanatsuki' is...
-#Main Character
+#Protagonist
 "...Isn't Maya-san involved in almost all of it...?"
 #Narumi
 "It’s hard to believe, but... the Madam definitely looks much younger than her actual age..."
-#Main Character
+#Protagonist
 "...If that’s the case, there must be a secret in the basement mentioned here after all..."
 #Narumi
 "It’s a far cry from treasure... though I suppose we have to go check it out now that we’ve come this far. Where do we enter?"
-#Main Character
+#Protagonist
 "There was likely a door at the back of the... machine room in the basement."
 #Narumi
 "Then let’s go. In for a penny, in for a pound."

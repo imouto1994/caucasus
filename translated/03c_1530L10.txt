@@ -5,24 +5,24 @@ Benio-san and Dr. Mikanagi were in the clinic.
 Ideally, I should ask Benio-san directly, but that can wait.
 #Souko
 "Where is Akane-san...?"
-#Main Character
+#Protagonist
 "Eh...?"
 At her words, I looked around the room.
-#Main Character
+#Protagonist
 "Narumi-san, where is Akane-san...?"
 #Narumi
 "Now that you mention it... I haven't seen her since we left the basement..."
-#Main Character
+#Protagonist
 "Don't tell me..."
 #Souko
 "It’s forbidden to jump to conclusions. For now... let’s listen to what the others have to say."
 Akane-san had gone missing as well.
-#Main Character
+#Protagonist
 "We should ask about everyone's movements after 2:00, right?"
 I checked with Souko-san just in case.
 #Souko
 "Right... but we already confirmed everyone's location, didn't we? Everyone was in their rooms or scattered about, so it might not mean much."
-#Main Character
+#Protagonist
 "Still, it's better than not asking at all. I'll need to ask Benio-san for details later anyway."
 #Souko
 "True. Let's ask if they noticed anything unusual too."

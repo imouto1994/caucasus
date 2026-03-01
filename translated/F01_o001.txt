@@ -1,40 +1,40 @@
 #Souko
 "It seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Maya
 "It is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Ai
 "About Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago..."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Benio
 "If it is about Nanatsuki Village, I believe it would be best to ask my mother or my elder sister."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first."
-#Satoshi
+#Protagonist
 "I see..."
 #Rokuyou
 "The origin of Nanatsuki Village? Who knows... I'm not from around here, so I don't know much about it."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "...I don't know. Ask someone else."
-#Satoshi
+#Protagonist
 "...Alright."
 #Mikanagi
 "As for origins and such, I think it's better to ask someone from the Nanatsuki family."
-#Satoshi
+#Protagonist
 "You're right..."
 #Akane
 "Um... well, it's only been a short while since I came here, so..."
-#Satoshi
+#Protagonist
 "That's true, sorry for asking..."
 #Narumi
 "Nanatsuki Village, huh... I think you're better off asking the people who live in this house about that."
-#Satoshi
+#Protagonist
 "...I suppose so."

@@ -8,13 +8,13 @@ Everyone—though there were only four of us left, including me.
 #Tsujimura
 "—There were footprints leading down toward the mountain stream."
 Tsujimura-san returned from scouting the perimeter.
-#Main Character
+#Protagonist
 "Akane-san...?"
 #Tsujimura
 "...Perhaps she fled along the river."
 #Narumi
 "I hope she hasn't met with an accident... though it might be strange to say that about a murderer."
-#Main Character
+#Protagonist
 "No... I don't think so."
 I hated the idea of everything remaining unknown like this.
 But... surely, nothing will ever be understood.
@@ -25,13 +25,13 @@ Takamine-san returned from the direction of the destroyed bridge.
 "People from below have reached the opposite bank. I've requested the police and workers to fix the bridge."
 #Tsujimura
 "I see..."
-#Main Character
+#Protagonist
 "It looks like we won't be going home for a while..."
 #Takamine
 "I intend to ask them to let us return as soon as possible, but... it may be difficult."
 #Narumi
 "Still... somehow, it's over..."
-#Main Character
+#Protagonist
 "Yeah... you're right..."
 The tragedy had come to an end.
 However, it was far from what one would call a 'conclusion'—

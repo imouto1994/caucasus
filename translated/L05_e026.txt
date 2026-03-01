@@ -1,24 +1,24 @@
 #Souko
 "...I wonder if the way only the blossoms have fallen is a metaphor for the headless corpse..."
-#Satoshi
+#Protagonist
 "Maybe so..."
 #Benio
 "...I don't really get it."
-#Satoshi
+#Protagonist
 "Right..."
 #Tsujimura
 "I... don't really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "I'm sorry... I don't really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "I don't really know about that."
-#Satoshi
+#Protagonist
 "I see..."

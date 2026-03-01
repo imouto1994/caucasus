@@ -1,7 +1,7 @@
 When I entered the main hall with the now-changed Benio-san, Ai-san, who was sitting on the sofa, looked up.
 #Ai
 "Good morning."
-#Main Character
+#Protagonist
 "Good morning, Ai-san. Were you able to sleep last night?"
 #Ai
 "Yes, thanks to you."
@@ -13,21 +13,21 @@ Ai-san bowed her head.
 Ai-san managed a smile.
 #Ai
 "I'll go make some cocoa."
-#Main Character
+#Protagonist
 "Thank you."
 Almost as soon as Ai-san stood up, Akane-san and Narumi-san entered the room.
 I arrived at the main hall with the now-changed Benio-san.
 #Benio
 "Do you want some cocoa?"
 Benio-san asked me.
-#Main Character
+#Protagonist
 "Yes."
 #Benio
 "Wait a second."
 Almost as soon as Benio-san walked to the corner of the room, Akane-san and Narumi-san entered.
 #Akane
 "Good morning, everyone."
-#Main Character
+#Protagonist
 "Ah, good morning."
 #Narumi
 "I've brought breakfast."
@@ -43,7 +43,7 @@ Narumi-san shot a dangerous look at Lawyer Takamine, who was in the corner of th
 #Souko
 "It's a waste, they're so delicious."
 Souko-san munched on a sandwich, seemingly unbothered.
-#Main Character
+#Protagonist
 "...Souko-san, what's in that bag?"
 I noticed the bag Souko-san was carrying.
 #Souko
@@ -53,7 +53,7 @@ I noticed the bag Souko-san was carrying.
 Narumi-san took the empty bottles.
 #Souko
 "Thanks, I appreciate it."
-#Main Character
+#Protagonist
 "Well then... I'll have some as well."
 With a polite word, I took a piece of sandwich.
 It had boiled egg inside.
@@ -65,17 +65,17 @@ Benio-san asked Ai-san.
 #Benio
 "I see. It's best not to push yourself."
 The cocoa Ai-san had made was placed in front of me.
-#Main Character
+#Protagonist
 "Ah, thank you."
 #Ai
 "It's nothing..."
 The cocoa Benio-san had made was placed in front of me.
-#Main Character
+#Protagonist
 "Ah, thank you."
 #Benio
 "Don't worry about it."
 The door opened, and Tsujimura-san and Shion-san entered.
-#Main Character
+#Protagonist
 "Good morning."
 #Tsujimura
 "Good morning, everyone."
@@ -83,11 +83,11 @@ After exchanging greetings with Tsujimura-san, I stole a glance at Shion-san.
 #Shion
 "............"
 She looked unwell.
-#Main Character
+#Protagonist
 "Shion-san...?"
 #Shion
 "Ah, yes... is something wrong...?"
-#Main Character
+#Protagonist
 "You don't look very well..."
 #Shion
 "Yes... I'm feeling a little under the weather..."
@@ -105,7 +105,7 @@ Shion-san gave a small nod and picked up a sandwich.
 The door opened, and Dr. Mikanagi entered.
 #Mikanagi
 "It seems everyone is here."
-#Main Character
+#Protagonist
 "Good morning, Dr. Mikanagi."
 #Mikanagi
 "Good morning. Madam isn't feeling well and is resting in her room, so could someone bring her some food later?"
@@ -118,7 +118,7 @@ Souko-san asked with concern.
 "...It might be the strain. A lot happened yesterday alone."
 #Benio
 "Well... it can't be helped. Mother has never been particularly strong."
-#Main Character
+#Protagonist
 "...I hope we can be released soon."
 Some people will surely start to find this confinement unbearable before long.
 Before we reach our limit, I have to find the culprit somehow and put everyone's mind at ease.

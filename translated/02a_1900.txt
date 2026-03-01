@@ -1,20 +1,20 @@
-#Satoshi
+#Protagonist
 "Excuse me."
 When I entered the office, Tsujimura-san was sitting in a chair, staring blankly into space.
-#Satoshi
+#Protagonist
 "Um... Tsujimura-san?"
 #Tsujimura
 "A-Ah... it was you. Is something the matter?"
 Tsujimura-san immediately straightened his posture and asked.
-#Satoshi
+#Protagonist
 "I just thought I'd go check on Shion-san as well. ...Did something happen, Tsujimura-san?"
 #Tsujimura
 "No... so many things have happened that my mind is feeling a bit cluttered."
-#Satoshi
+#Protagonist
 "That... goes for me too. I think everyone is feeling that way."
 #Tsujimura
 "...My apologies. For things to turn out like this..."
-#Satoshi
+#Protagonist
 "It's not your fault, Tsujimura-san."
 #Tsujimura
 "However... with Mr. Rokuyou murdered and Miss Ai attacked... as the one responsible for managing this manor, I feel terribly sorry..."
@@ -22,7 +22,7 @@ Tsujimura-san looked down.
 He looked so small.
 #Tsujimura
 "...In the past, something similar happened."
-#Satoshi
+#Protagonist
 "Something similar...!?"
 #Tsujimura
 "No, naturally nobody died. However... because of my own incompetence, I once caused a great deal of trouble for the Madam and the others..."
@@ -30,20 +30,20 @@ At Tsujimura-san's confession, I felt a slight sense of relief.
 I couldn't bear it if things like this happened all the time.
 #Tsujimura
 "Even now, I find myself thinking about it. I wonder if there was something more I could have done back then. It might be far too late for regrets now, though."
-#Satoshi
+#Protagonist
 "Tsujimura-san..."
 #Tsujimura
 "I'm begging you. Even if it's only while you're here... could you please protect the young lady, Shion-ojousama...?"
-#Satoshi
+#Protagonist
 "Well... of course. I want to protect everyone."
 #Tsujimura
 "Ah... thank you very much."
 Tsujimura-san bowed deeply.
-#Satoshi
+#Protagonist
 "Shion-san is safe, isn't she?"
 #Tsujimura
 "Yes, of course. She is in her own room right now."
-#Satoshi
+#Protagonist
 "I'll go check on her for a bit."
 #Tsujimura
 "Understood. I'm counting on you."

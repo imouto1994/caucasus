@@ -1,24 +1,24 @@
 #Souko
 "I wonder what the motive was for Ai-san's murder... Was it the inheritance, or something else...?"
-#Satoshi
+#Protagonist
 "True..."
 #Benio
 "...To think my sister would be killed. Given she's in the same state as Rokuyou, it must be the same killer, but..."
-#Satoshi
+#Protagonist
 "True..."
 #Tsujimura
 "Lady Ai... Why did this happen...?"
-#Satoshi
+#Protagonist
 "True..."
 #Takamine
 "So even Ai-kun was killed... What on earth is the killer's intent!?"
-#Satoshi
+#Protagonist
 "I... I don't know..."
 #Akane
 "I've been searching for Lady Ai since around eleven-thirty. She wasn't in her room, so I went to the infirmary, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Lady Ai's mental state has been unstable since Master Rokuyou was murdered... I guess you could say she's in a state where she might do anything..."
-#Satoshi
+#Protagonist
 "I see..."

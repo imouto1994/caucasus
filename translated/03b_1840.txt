@@ -2,30 +2,30 @@ After resting my body and mind for a while, I decided to take action once more t
 Stepping out into the corridor, I saw Dr. Mikanagi walking toward me.
 #Mikanagi
 "Hey there."
-#Main Character
+#Protagonist
 "Ah, Dr. Mikanagi..."
 #Mikanagi
 "...It doesn't seem to be resolving very quickly."
-#Main Character
+#Protagonist
 "Yeah... someone from the foot of the mountain should be coming tomorrow, but I don't think we’ll make it through without something else happening."
 #Mikanagi
 "True. Once the police arrive, I’m sure many things will come to light. There’s a lot of uncertainty in my examinations, after all."
-#Main Character
+#Protagonist
 "...Whatever the culprit's goal is, I think tonight is the climax."
 #Mikanagi
 "...I agree. I’d like everyone to stay in their rooms if possible, but..."
-#Main Character
+#Protagonist
 "...Yeah."
 #Narumi
 "Wait! It’s terrible!"
-#Main Character
+#Protagonist
 "Eh... Narumi-san?"
 Narumi-san came running from the atrium.
 #Mikanagi
 "Is something wrong?"
 #Narumi
 "Everything’s wrong... Kirihara-san’s room is...!"
-#Main Character
+#Protagonist
 "Eh... Souko-san...? What happened!?"
 #Narumi
 "Just come with me!"

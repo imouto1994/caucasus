@@ -1,24 +1,24 @@
 #Souko
 "Ai-san's cause of death was asphyxiation due to neck compression. Mikanagi-sensei mentioned that blunt-force contusions are visible on the back of her head..."
-#Satoshi
+#Protagonist
 "True..."
 #Benio
 "I wonder if my sister suffered as she died... If she had lost consciousness first, perhaps it was a little easier for her..."
-#Satoshi
+#Protagonist
 "True..."
 #Tsujimura
 "Lady Ai... How tragic..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Takamine
 "To think even Ai-kun would be killed... Just what on earth is happening here?"
-#Satoshi
+#Protagonist
 "Yeah..."
 #Akane
 "Lady Ai... Why did it come to this...?"
-#Satoshi
+#Protagonist
 "True..."
 #Narumi
 "...The fact that Lady Ai was murdered might mean that no one is safe... except for the killer."
-#Satoshi
+#Protagonist
 "Maybe so..."

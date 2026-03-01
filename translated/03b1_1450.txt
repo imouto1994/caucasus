@@ -1,6 +1,6 @@
 I wonder how much time has passed.
 Reacting to the sound of someone descending the stairs in a hurry, I looked out through the grated window.
-#Main Character
+#Protagonist
 "Tsujimura-san...?"
 #Tsujimura
 "So this is where you were..."
@@ -8,7 +8,7 @@ Reacting to the sound of someone descending the stairs in a hurry, I looked out 
 "Did something happen?"
 #Tsujimura
 "W-Well... Benio-ojousama is..."
-#Main Character
+#Protagonist
 "Benio-san...? Did something happen to her...?"
 I gripped the grate tight.
 #Tsujimura
@@ -17,31 +17,31 @@ Tsujimura-san removed the bar that had been stuck.
 I burst out immediately.
 #Tsujimura
 "Ah...!"
-#Main Character
+#Protagonist
 "Sorry!"
 After confirming that Narumi-san was supporting the staggering Tsujimura-san, I dashed up the stairs.
 The performance room.
 Benio-san is in the performance room—
 I wonder how long I’d been scraping away at the wall.
 Suddenly, a hole gaped open with a dull thud.
-#Main Character
+#Protagonist
 "It opened...?"
 I can see the room on the other side.
 It appears to be the machine room.
 #Narumi
 "Make the hole wider."
-#Main Character
+#Protagonist
 "I-I know."
 My energy returned now that an exit was in sight.
 I continued to frantically crumble the wall.
 #Narumi
 "Whew... we managed to get out."
-#Main Character
+#Protagonist
 "Yeah..."
 I stood up and stretched.
 We managed to get out, but...
 Suddenly the door opened, and Tsujimura-san appeared.
-#Main Character
+#Protagonist
 "Tsujimura-san...?"
 #Tsujimura
 "So this is where you were..."
@@ -49,7 +49,7 @@ Suddenly the door opened, and Tsujimura-san appeared.
 "Did something happen?"
 #Tsujimura
 "W-Well... Benio-ojousama is..."
-#Main Character
+#Protagonist
 "Benio-san...? Did something happen to her...?"
 I asked with enough force to almost grab Tsujimura-san by the collar.
 #Tsujimura
@@ -57,7 +57,7 @@ I asked with enough force to almost grab Tsujimura-san by the collar.
 I burst out immediately.
 #Tsujimura
 "Ah...!"
-#Main Character
+#Protagonist
 "Sorry!"
 After confirming that Narumi-san was supporting the staggering Tsujimura-san, I dashed up the stairs.
 The performance room.

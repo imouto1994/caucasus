@@ -7,7 +7,7 @@ A trail of footprints led away across the deep, fresh snow.
 Benio-san started to step forward, then looked back at me.
 #Benio
 "...You should be the one to go first."
-#Main Character
+#Protagonist
 "You're right..."
 I needed to steel myself, and there was the matter of the heavy snow to consider.
 It's impossible to move quickly in drifts like these.
@@ -16,7 +16,7 @@ It would be difficult to restrain her out here.
 What should I do...
 #Benio
 "...There's no time for hesitation. Go, quickly... and save her."
-#Main Character
+#Protagonist
 "...Right."
 Souko-san was standing right by the edge of the severed suspension bridge.
 #Souko
@@ -24,7 +24,7 @@ Souko-san was standing right by the edge of the severed suspension bridge.
 #Benio
 "...It would seem so. It wouldn't do to have Mother dropped into the abyss."
 Maya-san was right next to Souko-san—standing so close to the edge she looked ready to fall at any second.
-#Main Character
+#Protagonist
 "Souko-san—is this really because of me...?"
 #Souko
 "...I suppose. At the very least, I didn't intend to kill this woman so easily. I wanted to make her suffer more—to leave her barely clinging to life on the brink of despair."
@@ -32,7 +32,7 @@ Maya-san was right next to Souko-san—standing so close to the edge she looked 
 "...So you intended to kill everyone except for Mother?"
 #Souko
 "That's right. Unfortunately... I wasn't able to kill you."
-#Main Character
+#Protagonist
 "Please stop this, Souko-san... The Souko-san I know isn't the kind of person who would do something like this..."
 #Souko
 "...There's just a side of me that you don't know."
@@ -48,40 +48,40 @@ I was silenced, pinned down by a gaze so cold it made my skin crawl.
 Grabbed by the collar, Maya-san let out a weak groan.
 #Souko
 "...I'm just so tired now. That's why I came here to end it all."
-#Main Character
+#Protagonist
 "Even so... revenge is wrong."
 #Souko
 "...Maybe. But... revenge isn't something you can talk about with logic. I told you, didn't I? I didn't intend to kill this woman. But—"
 #Souko
 "You're the one who gave me the resolve to kill her. In that sense, I'm glad I brought you along."
-#Main Character
+#Protagonist
 "Souko-san!! I—I didn't come here to give you a push toward committing a crime!!"
 #Souko
 "It just turned out that way. As a result of my decision—even if I die, it's not something you should trouble yourself over."
-#Main Character
+#Protagonist
 "How could I not—of course I'm going to care!? I don't want to lose someone precious to me either!!"
 #Souko
 "—!"
 Souko-san froze.
-#Main Character
+#Protagonist
 "...Souko-san, you of all people should know the pain of losing someone precious. So you must understand the pain I'll have to carry after this, right?"
 I pleaded with Souko-san through my tears.
-#Main Character
+#Protagonist
 "So... if you've truly forgotten that, then there's nothing more I can do to stop you."
 #Souko
 "That's..."
-#Main Character
+#Protagonist
 "That's it, isn't it...? If you'd forgotten, you wouldn't even be thinking about revenge... right...?"
-#Main Character
+#Protagonist
 "If you haven't forgotten... please, just listen to me for a little longer..."
 #Souko
 "...What?"
-#Main Character
+#Protagonist
 "...Souko-san, please look at this."
 Souko-san shook her head sorrowfully.
 #Souko
 "...Even if you show me something like that..."
-#Main Character
+#Protagonist
 "Eh—"
 #Souko
 "I knew it... there's nothing you can do."
@@ -94,13 +94,13 @@ She shoved Maya-san's body.
 #Souko
 "Goodbye."
 And then Souko-san followed.
-#Main Character
+#Protagonist
 "Souko-san—!!"
 The two figures vanished below the cliff.
 I... I made the most helpless choice possible...
 #Souko
 "Sheet music...?"
-#Main Character
+#Protagonist
 "Yes. It's something Kousei-san left behind. On the cover, it says 'Dedicated to my dear Marino'."
 #Souko
 "Mother...?"
@@ -109,14 +109,14 @@ I... I made the most helpless choice possible...
 Benio-san peered at the music from beside me.
 #Benio
 "Hmm... it seems to be one of Father's unpublished pieces. Wait, what's this...?"
-#Main Character
+#Protagonist
 "What is it...?"
 Benio-san pointed to a corner of the sheet music.
-#Main Character
+#Protagonist
 "...'And to Kanon and Shion. I leave this to my beloved daughters'."
 #Souko
 "Daughters..."
-#Main Character
+#Protagonist
 "...Shion-san, could you... sing that song?"
 #Shion
 "...Yes."
@@ -127,22 +127,22 @@ Shion-san's singing voice echoed across the snowy field.
 Souko-san gasped.
 #Souko
 "This song... Mother's lullaby...?"
-#Main Character
+#Protagonist
 "I thought so... when I heard you play the guitar, I felt like it was slightly familiar..."
 #Souko
 "No... it's a lie..."
 Souko-san shook her head weakly.
-#Main Character
+#Protagonist
 "Souko-san... you realized it, didn't you? That Shion-san is your sister."
 #Souko
 "I don't... remember anything... All I have is the name Nanatsuki Kanon..."
-#Main Character
+#Protagonist
 "...I think someone like you would have realized it just from the sound of her name. But... did you just not want to admit it?"
 #Souko
 "Because—!! My memories are—!!"
 Tears streaming down her face, Souko-san screamed.
 But her voice was swallowed up by the pure white snow.
-#Main Character
+#Protagonist
 "...According to Kousei-san's journal, Kanon-san remained unconscious even after she was rescued. And Shion-san had lost all of her memories—"
 #Souko
 "But... I was planning to kill her too... Shion...?"
@@ -151,11 +151,11 @@ Dr. Mikanagi and Tsujimura-san went over to Maya-san, who was some distance away
 #Takamine
 "Shion-kun—"
 I stopped Takamine-san as he moved to protect Shion-san.
-#Main Character
+#Protagonist
 "I think... there's no need to worry."
 #Takamine
 "But..."
-#Main Character
+#Protagonist
 "Takamine-san... you want to protect them both too, don't you...? Then please, protect Souko-san—Kanon-san—as well."
 #Takamine
 "...!"
@@ -195,9 +195,9 @@ The world around us was now fully bright.
 Benio-san looked down at a small flower peeking out from beneath her feet.
 #Benio
 "Do you remember the language of flowers for the snowdrop?"
-#Main Character
+#Protagonist
 "...It was 'hope', wasn't it?"
 #Benio
 "...Do you think there's hope for people like them, who have taken lives?"
-#Main Character
+#Protagonist
 "Isn't that obvious? Winter... is finally over."

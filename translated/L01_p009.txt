@@ -1,40 +1,40 @@
 #Souko
 "Akane-san, huh... The possibility is likely low, but you never know if someone had some kind of leverage over her."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "Akane... took care of Isamu-san while he was here. Inevitably, I imagine they spent a fair amount of time together..."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "Akane-san? I don't see any particular problem there..."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "Akane and Rokuyou were often together. But I think it's premature to label her the killer based solely on that..."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "Akane-san... I'm sorry, I don't really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "...Actually, Master Rokuyou specifically requested Mistress Hiyama to attend to his personal needs..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I don't think there was much contact between Rokuyou-kun and her. Though Hiyama-kun likely did attend to his needs."
-#Satoshi
+#Protagonist
 "I see."
 #Mikanagi
 "...Isamu never spoke to me about Akane-san. Although he did mention she was looking after him."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Me...? I haven't seen Master Rokuyou since the ceremony..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "As for Akane, she returned to our room with me after the ceremony yesterday."
-#Satoshi
+#Protagonist
 "I see."

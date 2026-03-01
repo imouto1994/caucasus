@@ -1,23 +1,23 @@
-#Satoshi
+#Protagonist
 "Sorry to keep you waiting."
 I set the plates of fried rice down in front of the four people in the dining room—Souko-san, Benio-san, Akane-san, and Tsujimura-san.
 #Benio
 "Did you perform a poison test?"
-#Satoshi
+#Protagonist
 "Eh...?"
 #Benio
 "It's immediately after such an incident. Lawyer Takamine's argument is understandable."
 Benio-san stared intently at the plate of fried rice.
 #Benio
 "Of course, I don't intend to suspect Narumi in the slightest, but wouldn't it be possible to slip in poison while she's away from the kitchen?"
-#Satoshi
+#Protagonist
 "If you start saying things like that... you won't be able to eat anything."
 #Benio
 "...I know."
 #Souko
 "I think the probability of poison being mixed in is low."
 Souko-san spoke up.
-#Satoshi
+#Protagonist
 "Why is that?"
 #Souko
 "If you look at the victims—the way Rokuyou-san and Ai-san were killed—they were killed when they were alone. I don't feel like the culprit would use a method that targets an unspecified large number of people."
@@ -32,7 +32,7 @@ Even though her sister, Ai-san, has been killed, Benio-san is grasping things ca
 "—That being said, I cannot definitively state that there is no poison in this."
 #Souko
 "...You're right."
-#Satoshi
+#Protagonist
 "...That's just up to the culprit's mood, after all."
 #Tsujimura
 "I... I shall perform the poison test."
@@ -51,7 +51,7 @@ Tsujimura-san chewed the fried rice.
 Akane-san timidly offered a glass filled with water.
 #Tsujimura
 "Mnh... mnh... haah..."
-#Satoshi
+#Protagonist
 "Are you alright...?"
 Sweat was appearing on Tsujimura-san's forehead.
 #Tsujimura
@@ -79,15 +79,15 @@ Souko-san savored the food.
 Narumi-san emerged from the kitchen.
 #Narumi
 "Could you take some food to Madam and Shion-ojousama as well?"
-#Satoshi
+#Protagonist
 "Ah, understood."
 I was handed three plates piled with fried rice.
 For Maya-san, Shion-san, and Dr. Mikanagi, I assume.
-#Satoshi
+#Protagonist
 "What about Takamine-san's portion...?"
 #Narumi
 "There's no need to feed him."
-#Satoshi
+#Protagonist
 "I see..."
 It seems she's still holding a grudge about what happened earlier.
 Well... first I'll head to where Maya-san likely is, in the infirmary.

@@ -1,36 +1,36 @@
 #Souko
 "Earrings, huh... I feel like I saw Benio-san wearing something similar to this... but there's no way to check."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "This is... the earring that Benio was wearing."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "...It's Benio's earring. There's no mistake."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "Um... I'm sorry, I don't really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "This is... I believe it is Lady Benio's ear ornament."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I can't really tell."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "I don't really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "I'm sorry... I don't really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "I don't really know about that."
-#Satoshi
+#Protagonist
 "I see..."

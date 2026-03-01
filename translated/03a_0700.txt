@@ -1,7 +1,7 @@
 ...Morning came.
 I was in the hall.
 ...Or rather, I woke up in the hall.
-#Main Character
+#Protagonist
 "...So cold."
 I was chilled to the bone.
 I guess that's what happens when you sleep in a place like this.
@@ -12,29 +12,29 @@ I should probably ask Dr. Mikanagi for some cold medicine later.
 #Shion
 "Ah..."
 Turning toward the voice, I saw Shion-san coming out of the western corridor.
-#Main Character
+#Protagonist
 "Oh, Shion-san. Good morning."
 #Shion
 "G-Good morning..."
 Shion-san bowed and hurried off into the eastern corridor.
 ...I guess it's only natural to want to avoid a weirdo sitting on the floor.
-#Main Character
+#Protagonist
 "Nn..."
 As I stood up and stretched, Tsujimura-san entered the hall.
 #Tsujimura
 "Good morning."
-#Main Character
+#Protagonist
 "Ah, good morning, Tsujimura-san."
 #Tsujimura
 "Excuse me, but has Benio-ojousama woken up yet?"
-#Main Character
+#Protagonist
 "Benio-san...? No, I haven't seen her yet this morning."
 Is she still asleep?
-#Main Character
+#Protagonist
 "I'll go check on her."
 #Tsujimura
 "Eh... but... I can't ask a guest to do something like that..."
-#Main Character
+#Protagonist
 "Given the situation, let's forget about who's a guest and who isn't. I'll go take a look."
 Leaving Tsujimura-san there, I headed up the stairs.
 To the western corridor on the second floor.
@@ -42,11 +42,11 @@ I'd been making rounds all night, so I thought it would be fine, but a sliver of
 Please, let Benio-san be safe—
 I knocked on the door.
 There was no response.
-#Main Character
+#Protagonist
 "Benio-san, please wake up."
 I knocked several times, but still no answer.
 Don't tell me...
-#Main Character
+#Protagonist
 "Benio-san, Benio-san, come on!"
 #Benio
 "You've been noisy for a while now!"
@@ -54,40 +54,40 @@ It was Benio-san's shouting voice.
 #Benio
 "Hmm? What's wrong?"
 Benio-san spoke to me with a puzzled look as I crouched down, clutching my head.
-#Main Character
+#Protagonist
 "Don't... don't open the door so suddenly..."
 #Benio
 "It's because you were being so loud."
-#Main Character
+#Protagonist
 "But if I wasn't, you wouldn't wake up, Benio-san..."
 #Benio
 "Be quiet and shut up."
-#Main Character
+#Protagonist
 "...Yes."
 #Benio
 "Honestly... have you confirmed the safety of the others?"
-#Main Character
+#Protagonist
 "I saw Shion-san and Tsujimura-san just now. I haven't checked on the others yet, but..."
 #Benio
 "Hmph... well, with an idiot wandering around the mansion all night, I suppose there's no need for concern."
-#Main Character
+#Protagonist
 "Eh, you noticed?"
 #Benio
 "Of course. Anyone would notice someone moving back and forth that frequently. You should be grateful you weren't mistaken for the killer."
-#Main Character
+#Protagonist
 "You're right..."
 #Benio
 "...You really didn't have any obligation to go that far."
 Benio-san muttered quietly.
-#Main Character
+#Protagonist
 "But I didn't want any more victims."
 #Benio
 "...I suppose."
 Benio-san gave a small nod and started walking down the hall.
-#Main Character
+#Protagonist
 "Eh, Benio-san...?"
 #Benio
 "I'm heading to the hall. Everyone will likely be gathering there."
-#Main Character
+#Protagonist
 "Yes... but please go change first."
 I couldn't exactly let her go in her sleepwear, so I pushed Benio-san back into her room.

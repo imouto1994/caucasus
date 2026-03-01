@@ -1,40 +1,40 @@
 #Souko
 "It was sitting in the music room. It certainly looked like a vintage piece..."
-#Satoshi
+#Protagonist
 "I see."
 #Maya
 "That is something my husband purchased before the war. He reportedly had it imported all the way from Germany."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Ai
 "I don't play... but Benio plays it often."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "Since it's German-made, the proper name is 'Klavier.' It's not a 'Piano.'"
-#Satoshi
+#Protagonist
 "I-I see..."
 #Shion
 "The piano... I know it's there, but I've never played it."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was so busy, I was the one who taught Lady Benio."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I don't mind if you play it, but just don't break it."
-#Satoshi
+#Protagonist
 "Y-Yeah..."
 #Mikanagi
 "The piano, huh... It seems to be quite old. Apparently, it was one of Kousei-san's favorite instruments."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "The piano in the music room, right? I always make sure to polish it until it shines."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "The piano in the music room? I've never seen anyone but Lady Benio playing it."
-#Satoshi
+#Protagonist
 "I see..."

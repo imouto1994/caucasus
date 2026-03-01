@@ -1,40 +1,40 @@
 #Souko
 "It was sitting in the performance room. It certainly looked like an antique..."
-#Satoshi
+#Protagonist
 "I see."
 #Maya
 "That is something my husband purchased before the war. It was imported all the way from Germany."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Ai
 "I do not play it myself... but Benio plays quite often."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "I didn't learn the piano from my father, but from Tsujimura. I still play it from time to time."
-#Satoshi
+#Protagonist
 "I see."
 #Tsujimura
 "...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio."
-#Satoshi
+#Protagonist
 "I see..."
 #Rokuyou
 "A piano? It likely belonged to the previous head. I don't know how much it's worth, though..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I don't think anyone would mind if you played it, but don't break it."
-#Satoshi
+#Protagonist
 "O-Oh, right..."
 #Mikanagi
 "A piano? It's apparently quite old. It seems to have been one of Mr. Kousei's favorite instruments."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "The piano in the performance room, right. I always make sure to polish it until it shines."
-#Satoshi
+#Protagonist
 "I see."
 #Narumi
 "The piano in the performance room? I've never seen anyone but Lady Benio playing it."
-#Satoshi
+#Protagonist
 "I see..."

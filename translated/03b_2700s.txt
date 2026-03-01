@@ -1,55 +1,55 @@
-#Main Character
+#Protagonist
 "Shion-san..."
 I approached Shion-san's remains.
 This was clearly different from the previous cases.
-#Main Character
+#Protagonist
 "Is it poison...?"
 #Souko
 "It would seem so. Unlike the others, there's a possibility of suicide here."
-#Main Character
+#Protagonist
 "Yeah..."
-#Main Character
+#Protagonist
 "Can you tell what kind of poison killed her...?"
 #Souko
 "Wait a second..."
 Souko-san leaned her face close to Shion-san's mouth.
 #Souko
 "This smell... maybe cyanide."
-#Main Character
+#Protagonist
 "You can tell?"
 #Souko
 "No... I've never smelled the real thing, but I detect a bittersweet scent. But if that's the case, another problem arises..."
-#Main Character
+#Protagonist
 "...If I recall, potassium cyanide has such a terrible taste that it would be impossible to make someone drink it without them noticing."
 #Souko
 "Exactly. But that only strengthens the possibility that it was Shion-san's suicide."
-#Main Character
+#Protagonist
 "...She might have been forced to drink it."
 #Souko
 "...That's possible too."
-#Main Character
+#Protagonist
 "...It doesn't look like we can reach a conclusion right now."
 #Souko
 "Right. Let's question everyone else later."
-#Main Character
+#Protagonist
 "But... wasn't it aconite that was used when Shion-san collapsed this morning? Why use something different now...?"
 #Souko
 "...Maybe because a different person set it up?"
-#Main Character
+#Protagonist
 "What—!?"
 #Souko
 "Or, perhaps they intentionally used a different poison to cause confusion... though now that Dr. Mikanagi has been killed, there's not much point in that."
-#Main Character
+#Protagonist
 "Then... assuming it was a different person, which is which...?"
 #Souko
 "There are two possibilities. First, if this was Shion-san's suicide, then this morning's incident was a genuine attempted poisoning by a third party."
 #Souko
 "And if this was murder... then this morning's incident was Shion-san's own staged performance. Personally, I think the latter is more likely."
-#Main Character
+#Protagonist
 "Why...?"
 #Souko
 "...Because she didn't actually intend to die. It didn't seem to be a lethal dose, after all..."
-#Main Character
+#Protagonist
 "In that case... the one who used the cyanide was..."
 #Souko
 "...Yeah."
@@ -58,27 +58,27 @@ Shion-san... why...
 Paintings are hanging on the wall.
 ...They're Tsujimura-san's paintings.
 The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
-#Main Character
+#Protagonist
 "...It's probably best not to touch this carelessly."
 There are likely fingerprints on it.
 #Souko
 "I don't think it matters much... the contents of the cup are more important. We have to identify exactly what kind of poison it was."
-#Main Character
+#Protagonist
 "What did she drink...?"
 #Souko
 "A fast-acting poison, surely... but if it was something highly irritant, it would be difficult."
-#Main Character
+#Protagonist
 "Because she would have spat it out..."
 #Souko
 "It's not just that. The possibility of murder also drops significantly. No one would drink something they knew was poison."
-#Main Character
+#Protagonist
 "True... but the one who brought this medicine was Maya-san, wasn't it...?"
 #Souko
 "...Of course, there's a possibility that Maya-san killed Shion-san. That's exactly why we have to investigate carefully."
 Souko-san picked up the cup using a handkerchief to avoid touching it directly.
 #Souko
 "A little bit of liquid remains. If the police analyze it, they'll be able to determine the ingredients."
-#Main Character
+#Protagonist
 "But then—"
 #Souko
 "I know. There must be more we can do right here."

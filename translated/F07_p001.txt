@@ -1,36 +1,36 @@
 #Souko
 "While you were locked away, I patrolled the mansion a few times. I didn't see anyone acting particularly suspicious, though..."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "We've caused you quite a bit of trouble... I'm terribly sorry."
-#Satoshi
+#Protagonist
 "No, please don't let it worry you."
 #Ai
 "Kirihara-san is remarkably composed, isn't she? Even in a situation like this..."
-#Satoshi
+#Protagonist
 "She is..."
 #Shion
 "Kirihara-san... she has a bit of a frightening aura about her, doesn't she?"
-#Satoshi
+#Protagonist
 "Do you think so...?"
 #Tsujimura
 "As for Mistress Kirihara, she was busy investigating the mansion..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "If she's hunting for the killer, I'd like her to find them and be done with it."
-#Satoshi
+#Protagonist
 "Y-Yeah, I suppose so..."
 #Mikanagi
 "As for Kirihara-san, she seemed to be checking around the mansion."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "As for Mistress Kirihara, she appeared to be investigating the music room..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Kirihara-san, huh? She seems to be looking into all sorts of things."
-#Satoshi
+#Protagonist
 "I see..."

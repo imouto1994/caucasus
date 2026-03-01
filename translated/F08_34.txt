@@ -6,47 +6,47 @@ When I put my hand to the door, it opened easily.
 In other words, she must be in her room.
 I go inside, brush the snow off my body, and head up the stairs.
 I knock lightly on the door.
-#Satoshi
+#Protagonist
 "Shion-san, it's me."
 The door opens, and Shion-san peeks her head out with an anxious look.
 #Shion
 "Is something the matter...?"
-#Satoshi
+#Protagonist
 "Um, do you know anything about Kirihara?"
 #Shion
 "Mistress Kirihara... did something happen?"
-#Satoshi
+#Protagonist
 "Yeah... she's been missing for a little while now."
 #Shion
 "No way..."
 Shion-san's face turns pale.
-#Satoshi
+#Protagonist
 "Have you been here the whole time, Shion-san?"
 #Shion
 "Y-Yes..."
-#Satoshi
+#Protagonist
 "...Then there's no way you would have seen Souko-san."
 #Shion
 "True... This place is isolated, after all."
-#Satoshi
+#Protagonist
 "Please let me know immediately if anything happens."
 #Shion
 "...Yes, understood."
 I've come to the front of Shion-san's room.
-#Satoshi
+#Protagonist
 "Shion-san, it's me."
 #Shion
 "Um, was there something else...?"
-#Satoshi
+#Protagonist
 "I still haven't found Souko-san, so..."
 #Shion
 "I see... Where could she have gone...?"
-#Satoshi
+#Protagonist
 "Do you know of any places she could hide?"
 #Shion
 "I... don't know any."
 Shion-san shakes her head.
-#Satoshi
+#Protagonist
 "I'll try looking a bit more. You never know what might happen, so please be careful too, Shion-san."
 #Shion
 "...You take care as well."

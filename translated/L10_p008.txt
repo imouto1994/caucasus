@@ -1,28 +1,28 @@
 #Souko
 "When I went to fetch Mikanagi-sensei, he was in his room. Nothing seemed out of the ordinary, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "I wouldn't know; I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "I don't know... I've been in my room the whole time."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "...I don't know. My room is in the annex, after all..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "...I believe he was either in the infirmary or in his room."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know anything about what happens outside my room."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "How could I possibly know? I was right there with you."
-#Satoshi
+#Protagonist
 "True..."

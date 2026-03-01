@@ -1,5 +1,5 @@
 I returned to the dining room.
-#Satoshi
+#Protagonist
 "Oh, where's Souko-san?"
 Souko-san was nowhere to be seen.
 #Benio
@@ -8,26 +8,26 @@ Benio-san was relaxing while drinking cocoa.
 Tsujimura-san and Narumi-san weren't there either.
 #Benio
 "I suppose she can't settle down in a place where a murderer might be right next door."
-#Satoshi
+#Protagonist
 "How about you, Benio-san?"
 #Benio
 "Me? ...Well, I suppose it's the same for me."
-#Satoshi
+#Protagonist
 "...Are you actually feeling anxious?"
 #Benio
 "I am a delicate maiden, after all."
 Benio-san blurted out something quite unexpected.
 No, she's right, of course, but she had an air about her that made it seem like she was somehow enjoying the situation.
-#Satoshi
+#Protagonist
 "...I see."
 Of course, I couldn't say that to her face, so I stayed silent.
 With Rokuyou-san killed and Ai-san attacked, there's no telling when Benio-san might be targeted.
-#Satoshi
+#Protagonist
 "...Please be careful too, Benio-san."
 #Benio
 "What's this? Are you that worried about me?"
 The corners of Benio-san's mouth curled up.
-#Satoshi
+#Protagonist
 "Of course I am."
 #Benio
 "...I see."
@@ -42,12 +42,12 @@ Benio-san's words were cut short by the sudden meowing of a cat.
 Benio-san picked up the cat.
 #Benio
 "—I'll be heading back to my room as well."
-#Satoshi
+#Protagonist
 "Is that so... Um, what you were about to say just now—"
 #Benio
 "...It's nothing. Forget it."
 Benio-san turned her face away.
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "Well then, see you later."
@@ -55,14 +55,14 @@ Benio-san left the dining room.
 I wonder what she wanted to say...
 #???
 "...Um, are you finished?"
-#Satoshi
+#Protagonist
 "Whoa!?"
 Startled by the sudden voice, I turned around to find Akane-san standing there looking apologetic.
-#Satoshi
+#Protagonist
 "A-Akane-san..."
 #Akane
 "...I thought it would be rude to interrupt since the two of you seemed to be in your own little world..."
-#Satoshi
+#Protagonist
 "...No, that wasn't the case at all..."
 #Akane
 "I-Is that so...?"
@@ -72,10 +72,10 @@ How should I put it... this person is quite unusual too...
 Akane-san brought over a plate piled with fried rice.
 #Akane
 "Um, I'd like you to take this to Takamine-sama..."
-#Satoshi
+#Protagonist
 "Eh? But Takamine-san said he didn't want any..."
 #Akane
 "Even if he says that, he needs to eat. Please tell him that the poison test has been done, so he can rest easy."
-#Satoshi
+#Protagonist
 "Understood."
 Well, it might be better for me to take it rather than Akane-san or the others from this house.

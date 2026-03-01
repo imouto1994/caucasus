@@ -1,40 +1,40 @@
 #Souko
 "Ai-san, huh... If she had feelings for Rokuyou-san, it's possible she couldn't forgive the marriage... and that led to this."
-#Satoshi
+#Protagonist
 "...I see."
 #Maya
 "Ai? It's true she got along well with Isamu-san, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "Last night, I went to sleep in my room immediately after the wedding..."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "My sister? She might not have disliked Rokuyou, but killing him over something like that only happens in stories."
-#Satoshi
+#Protagonist
 "Right... I suppose so."
 #Shion
 "Lady Ai... did she have some kind of relationship with Master Rokuyou...?"
-#Satoshi
+#Protagonist
 "...I don't know that yet, but..."
 #Tsujimura
 "Lady Ai? It is true she was on good terms with Master Rokuyou... but even so..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Ai-kun is a delicate soul. She couldn't possibly be capable of such a deed."
-#Satoshi
+#Protagonist
 "True..."
 #Mikanagi
 "Ai-san, huh... You never know what a girl might do when she's backed into a corner emotionally..."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Lady Ai? But I don't think anyone in this mansion could do such a thing..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Lady Ai? She definitely has a dangerous side where you don't know what she'll do if she snaps... but I don't think she'd kill someone."
-#Satoshi
+#Protagonist
 "I see..."

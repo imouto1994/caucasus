@@ -4,7 +4,7 @@ It's the front door.
 It's an antique-looking shelf with legs.
 I probably shouldn't mess with it without permission.
 An old-fashioned shelf has been placed here.
-#Satoshi
+#Protagonist
 "Hm...?"
 Something like a scrap of paper is stuck in the gap between the wall and the mirror.
 I wonder what it is...
@@ -17,7 +17,7 @@ I desperately swallowed the questions: "If you grilled them for me, why are they
 It was because I was certain I'd be killed otherwise. After a moment's hesitation, I chose the safe answer, saying I was tired and would have them later.
 However, the man didn't seem to like that answer. His face distorted violently, showing a terrifyingly sorrowful expression.
 That expression was so eerie it made me freeze in fear. The man spoke again, as if to deliver the final blow. ~To be continued~
-#Satoshi
+#Protagonist
 "...What the hell is this?"
 A scrap of paper titled "The Story of a Certain Man - Chapter 4" is wedged in there.
 A painting that looks quite expensive is on display.

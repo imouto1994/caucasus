@@ -1,20 +1,20 @@
 I went upstairs and stood before Maya-san's room.
 #Souko
 "...Ready?"
-#Main Character
+#Protagonist
 "Yeah..."
-#Main Character
+#Protagonist
 "Maya-san, are you awake? I have something to—"
 Before I could finish speaking, the door opened.
 #Maya
 "—Oh, is something the matter?"
 Maya-san appeared, looking the same as always.
-#Main Character
+#Protagonist
 "Um... Maya-san—"
 She was maintaining a facade of tranquility—which looked even stranger in this abnormal situation.
 #Maya
 "Please, come in. It must be cold in the hallway, no?"
-#Main Character
+#Protagonist
 "A-Ah—"
 #Souko
 "Excuse us."
@@ -26,7 +26,7 @@ Wearing a smile, Maya-san invited us in.
 "Would you like something to drink?"
 #Souko
 "No, thank you."
-#Main Character
+#Protagonist
 "Um, Maya-san—"
 #Souko
 "Shion-san has been killed by someone."
@@ -35,11 +35,11 @@ Interrupting my attempt to speak, Souko-san got straight to the point.
 "Oh—is that so?"
 She didn't seem particularly surprised.
 Just as I thought—
-#Main Character
+#Protagonist
 "...I saw you heading toward Shion-san's room earlier. You said you were bringing her medicine...?"
 #Maya
 "Yes, of course. Shion seemed to be suffering, after all."
-#Main Character
+#Protagonist
 "...What kind of medicine was it?"
 #Maya
 "Medicine that can grant ease. It's very effective for headaches."
@@ -52,14 +52,14 @@ The same reaction as before.
 Like a holy mother of mercy, Maya-san's smile never wavered.
 #Maya
 "But Shion drank it quite happily. She said, 'Thank you, Mother,' and drank it with such relish—"
-#Main Character
+#Protagonist
 "There's no way that's true!"
 #Maya
 "Since Dr. Mikanagi has passed away, I had to prepare the medicine myself. Now that Ai and Benio are also dead..."
 Maya-san continued to speak as if intoxicated by something.
 #Maya
 "Since Shion was the only one left, I had to look after her properly. It's only natural for a mother."
-#Main Character
+#Protagonist
 "Then why is Shion-san dead!?"
 #Maya
 "That is because my discipline was insufficient."
@@ -68,7 +68,7 @@ Maya-san continued to speak as if intoxicated by something.
 Souko-san furrowed her brow.
 #Maya
 "I am the head of the Nanatsuki family, after all. I had to discipline the members of my household..."
-#Main Character
+#Protagonist
 "This is no time for that kind of talk!?"
 #Maya
 "But this *is* that kind of talk, isn't it?"
@@ -81,12 +81,12 @@ It was no use... we were talking past each other.
 Yet, Maya-san looked as if she had finally been understood.
 #Maya
 "Yes—I guided Shion. That girl did something terrible, so it was only natural."
-#Main Character
+#Protagonist
 "Something terrible...?"
 I couldn't help but ask.
 #Maya
 "Did you not say so yourself? That Shion killed Dr. Mikanagi."
-#Main Character
+#Protagonist
 "Eh—"
 ...At the very least, I didn't recall telling Maya-san that Shion-san was Dr. Mikanagi's killer.
 But it was true that I had reached that conclusion and told Shion-san.
@@ -97,15 +97,15 @@ Maya-san had likely reached that conclusion herself—and killed Shion-san.
 "...Are you saying Shion-san did everything...?"
 #Maya
 "Is there any other possibility? That's why I kept that girl in the tower... she was a cursed child, after all..."
-#Main Character
+#Protagonist
 "...That might be true. But... that doesn't mean you have the right to condemn her."
 #Maya
 "And why not? I am the head of the Nanatsuki family, the lord who rules this land. Is it not only natural that I am the one to pass judgment?"
-#Main Character
+#Protagonist
 "...That era ended a long time ago. Japan is a developed nation now."
 #Maya
 "That is irrelevant. I am the judiciary, the legislature, and the executive of this land."
-#Main Character
+#Protagonist
 "That's—"
 #Maya
 "Fufu... yes, I am the head of the Nanatsuki family—the one who inherits this tainted blood—"
@@ -116,7 +116,7 @@ A glint caught her bloodshot eyes as they fixed on us.
 #Maya
 "Will all—end up just like that man—"
 She whispered in a low, chilling voice.
-#Main Character
+#Protagonist
 "That man—?"
 No way—
 #Souko
@@ -146,7 +146,7 @@ Souko-san approached Maya-san.
 #Maya
 "Hih—n-no, stay away—!!"
 Maya-san backed away.
-#Main Character
+#Protagonist
 "Souko-san...?"
 #Souko
 "...It seems she's mistaken me for someone else—"
@@ -155,7 +155,7 @@ Wearing a wry smile, Souko-san stopped.
 "Dawn is almost here, and the police will be coming. With an incident this large, it won't just be the local precinct; the prefectural police will be here as well—"
 #Souko
 "Once they arrive, no matter who you are, you won't be able to talk your way out of it, will you? Well, the only one we can prove you killed is Shion-san, so—"
-#Main Character
+#Protagonist
 "...Even so, it's a serious crime."
 #Souko
 "And will you still defend her?"
@@ -169,9 +169,9 @@ Souko-san muttered with a bored sigh.
 #Maya
 "A-Aaah..."
 Maya-san was still staring at Souko-san, her body trembling.
-#Main Character
+#Protagonist
 "Souko-san... what should we do?"
 #Souko
 "...For now, restrain her. She shouldn't be too dangerous—but if she tries to escape or commit suicide, it'll just be more trouble."
-#Main Character
+#Protagonist
 "...Understood."

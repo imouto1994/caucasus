@@ -1,5 +1,5 @@
 When I came down the stairs, I heard loud voices coming from the dining room.
-#Main Character
+#Protagonist
 "Sounds like it's over there."
 #Souko
 "I wonder what happened..."
@@ -7,10 +7,10 @@ As soon as we stepped into the eastern corridor, the smell of burning hit my nos
 #Souko
 "What... is this?"
 Souko-san groaned, covering her mouth.
-#Main Character
+#Protagonist
 "Narumi-san!?"
 Narumi-san was slumped against the corridor wall.
-#Main Character
+#Protagonist
 "Are you okay!?"
 #Narumi
 "Nnh..."
@@ -23,19 +23,19 @@ Narumi-san stood up with a grimace.
 #Narumi
 "Ow ow... I might have gotten burned a bit."
 The arm peeking from Narumi-san's rolled-up sleeve was swollen and bright red.
-#Main Character
+#Protagonist
 "That's not just 'a bit'!?"
 Just then, Dr. Mikanagi came running, out of breath.
 #Mikanagi
 "What happened!?"
-#Main Character
+#Protagonist
 "Dr. Mikanagi, Narumi-san is injured, so please treat her."
 #Mikanagi
 "A-Ah, alright... let's take her to your room for now."
 #Narumi
 "Okay."
 Dr. Mikanagi and Narumi-san entered the room right nearby.
-#Main Character
+#Protagonist
 "I'll go check things out too."
 #Souko
 "Right. I'll stay here and look around the kitchen a bit."

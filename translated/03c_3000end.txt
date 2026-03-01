@@ -9,15 +9,15 @@ But all I could hear was the sound of the raging flames crackling.
 Benio-san came close.
 #Benio
 "—I'm sorry."
-#Main Character
+#Protagonist
 "...It's not your fault, Benio-san. Besides... we're the ones who caused trouble."
 #Benio
 "But... the whole thing started with the Nanatsuki family. The reason she took action must have been because of my mother..."
-#Main Character
+#Protagonist
 "But... was there no other way...?"
 #Benio
 "...I wonder. If her primary goal was revenge for her mother, she likely wouldn't have chosen any other means. That was her choice."
-#Main Character
+#Protagonist
 "But still... even Ai-san and Shion-san... this is too sad..."
 #Benio
 "You're right..."
@@ -37,24 +37,24 @@ Tsujimura-san arrived.
 "I cannot say... after all, there are far too many victims..."
 #Benio
 "Even once we're off the mountain, it looks like we'll be in the hands of the police... I suppose it can't be helped."
-#Main Character
+#Protagonist
 "Right... we'll have to explain what happened, too."
 #Tsujimura
 "I'm sure Lord Takamine will handle that sort of thing for us..."
-#Main Character
+#Protagonist
 "Whoa—"
 Sparks flew all the way over to us.
 #Benio
 "...It might be better to move further away."
 Benio-san said, grabbing my arm.
-#Main Character
+#Protagonist
 "You're right..."
 We moved away from the front of the Nanatsuki mansion.
-#Main Character
+#Protagonist
 "...Benio-san, what are you going to do after this?"
 #Benio
 "Well... I've lost both my family and my home. ...Oh, right, it was revealed that the doctor is my brother."
-#Main Character
+#Protagonist
 "Then, will you stay with Dr. Mikanagi?"
 I stole a glance at Dr. Mikanagi, who was by the bridge.
 Narumi-san seemed to be over there as well.
@@ -66,23 +66,23 @@ Tsujimura-san tentatively offered.
 #Benio
 "Tokyo, huh... that's not bad either, but..."
 Benio-san looked at me.
-#Main Character
+#Protagonist
 "What is it...?"
 #Benio
 "...Yeah, hanging out with you might not be bad either."
-#Main Character
+#Protagonist
 "Wha... what's that supposed to mean...!?"
 #Tsujimura
 "Benio-ojousama...!?"
 #Benio
 "Alright, it's decided. I'll be counting on you from now on."
 With that, Benio-san patted my back.
-#Main Character
+#Protagonist
 "Even if you say that..."
 #Narumi
 "—The bridge is almost ready!"
 Narumi-san returned at just the right time.
-#Main Character
+#Protagonist
 "I-I'll go ahead to the bridge then."
 I immediately started walking toward the bridge.
 #Benio
@@ -101,5 +101,5 @@ The Nanatsuki mansion, still burning.
 I offered a silent prayer in my heart.
 #Benio
 "...What's wrong?"
-#Main Character
+#Protagonist
 "...No, it's nothing. Well then—let's go."

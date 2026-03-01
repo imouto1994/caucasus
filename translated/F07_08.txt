@@ -1,5 +1,5 @@
 I've come to the dining hall.
-#Satoshi
+#Protagonist
 "Huh..."
 Nobody's here.
 I thought someone would usually be in the dining hall.
@@ -8,11 +8,11 @@ I've come to the dining hall.
 #Narumi
 "Ah, what's up?"
 Narumi-san spoke to me.
-#Satoshi
+#Protagonist
 "I'm just doing some rounds for now."
 #Narumi
 "I see. Thanks for all the trouble."
-#Satoshi
+#Protagonist
 "No, I'm just doing it on my own accord."
 #Narumi
 "You're quite dedicated..."
@@ -21,32 +21,32 @@ I've come to the dining hall.
 #Narumi
 "Oh, what's wrong this time?"
 Narumi-san noticed me and spoke up.
-#Satoshi
+#Protagonist
 "Uh, well..."
 I've come to the dining hall.
 #Narumi
 "Ah, what's up?"
 Narumi-san, who was sitting listlessly in a chair, spoke to me.
-#Satoshi
+#Protagonist
 "I'm doing rounds. We still don't know what might happen."
 #Narumi
 "Ah... right. Thanks for the effort."
-#Satoshi
+#Protagonist
 "No... I'm just doing it on my own accord."
 Despite checking around this much, I still haven't found Akane-san—
 #Narumi
 "Ah!?"
 Narumi-san suddenly let out a startled cry.
-#Satoshi
+#Protagonist
 "Wh-What is it!?"
 I look in the direction Narumi-san is staring, but I can only see the corridor through the dining hall door.
 #Narumi
 "Just now... Akane was..."
-#Satoshi
+#Protagonist
 "What!?"
 I step out into the corridor with Narumi-san.
 There's no sign of Akane-san anywhere.
-#Satoshi
+#Protagonist
 "Do you know what she was doing?"
 #Narumi
 "She came out of Akane's room... and seemed to head for the hall..."
@@ -54,27 +54,27 @@ While saying that, Narumi-san puts her hand on the door to Akane-san's room.
 #Narumi
 "It's locked... That's strange..."
 I try twisting the doorknob too, but it seems to be locked after all.
-#Satoshi
+#Protagonist
 "Are you sure you didn't misidentify her?"
 #Narumi
 "Hmm... I only saw her from behind, so..."
-#Satoshi
+#Protagonist
 "...I'll go look for her."
 It's better to take action than to stand here worrying.
 #Narumi
 "Ah, yeah. ...Be careful, you never know what might happen."
-#Satoshi
+#Protagonist
 "...Yeah."
 I parted ways with Narumi-san.
 If Akane-san really was there, what on earth is she doing...?
 When I entered the dining hall, Narumi-san approached me with a worried expression.
 #Narumi
 "Did you find Akane?"
-#Satoshi
+#Protagonist
 "No... I couldn't find her."
 I shake my head.
 #Narumi
 "I see..."
-#Satoshi
+#Protagonist
 "Um, I'll try looking a little more."
 I turn on my heel and head back out into the corridor.

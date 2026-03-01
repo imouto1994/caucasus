@@ -1,36 +1,36 @@
 #Souko
 "I'm not really sure... I went to bed early last night."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "I wouldn't know; I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "I don't know... I was sleeping in my room."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "...I don't know. My room is in the annex, after all..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "...I went to sleep early last night myself, you see..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I didn't want to waste any unnecessary stamina. I was asleep before the day turned."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "...I am sorry, but I really don't know."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Weren't they sleeping in their room? I wouldn't know."
-#Satoshi
+#Protagonist
 "I see."

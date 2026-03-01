@@ -1,24 +1,24 @@
 #Souko
 "Mikanagi-sensei, huh... I can't think of any reason for him to be the killer at the moment."
-#Satoshi
+#Protagonist
 "...True."
 #Benio
 "Hiroshi would have no reason to murder my sister. Inheritance has nothing to do with him."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "If it's Mikanagi-sensei, I believe he was in the infirmary..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Mikanagi-sensei was in the infirmary."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Mikanagi-sensei? He's usually in the infirmary."
-#Satoshi
+#Protagonist
 "I see..."

@@ -1,24 +1,24 @@
 #Souko
 "Akane-san was with you the whole time, wasn't she? ...Though, there is a possibility she's using that as an alibi."
-#Satoshi
+#Protagonist
 "...I think it's premature to jump to that conclusion, but..."
 #Benio
 "Akane was with you, wasn't she? If so, couldn't you tell just by looking at her reaction?"
-#Satoshi
+#Protagonist
 "True..."
 #Tsujimura
 "As for Mistress Hiyama, I believe she would have been preparing lunch around that time..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "But I was with you the entire time, wasn't I?"
-#Satoshi
+#Protagonist
 "Y-Yeah, that's right..."
 #Narumi
 "As for Akane, wasn't she with you?"
-#Satoshi
+#Protagonist
 "Y-Yeah, I suppose so..."

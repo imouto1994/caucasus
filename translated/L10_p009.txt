@@ -1,28 +1,28 @@
 #Souko
 "...If Akane-san has hidden herself away for some reason... we should probably be careful."
-#Satoshi
+#Protagonist
 "True..."
 #Maya
 "...I wonder where on earth she could have gone... I'm so worried."
-#Satoshi
+#Protagonist
 "True..."
 #Ai
 "...Could Akane-san have really been the one to attack Benio...!?"
-#Satoshi
+#Protagonist
 "No, nothing has been decided yet, so please, calm down..."
 #Shion
 "...I wonder where on earth she could have gone..."
-#Satoshi
+#Protagonist
 "True..."
 #Tsujimura
 "Since when exactly has she been missing...?"
-#Satoshi
+#Protagonist
 "True..."
 #Takamine
 "There's a possibility that she, whose whereabouts are unknown, attacked Benio-kun... We can't afford to be careless."
-#Satoshi
+#Protagonist
 "Maybe so, but..."
 #Narumi
 "Akane... what could have happened to her...?"
-#Satoshi
+#Protagonist
 "True..."

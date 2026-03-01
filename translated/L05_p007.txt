@@ -1,24 +1,24 @@
 #Souko
 "Takamine-san, huh... Honestly, I don't really know. He seems to be in his room the whole time."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "Takamine doesn't seem to have left his room much. Likely out of caution for his surroundings... but it doesn't leave a very pleasant impression."
-#Satoshi
+#Protagonist
 "...I see."
 #Tsujimura
 "Master Takamine? I haven't seen him speaking much with anyone else since Master Rokuyou passed away..."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I've been in my room since I returned just before eleven. I don't believe anything happened."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Master Takamine? I believe he was likely in his room the entire time."
-#Satoshi
+#Protagonist
 "I see."
 #Narumi
 "If it's Takamine-san, I'd bet he was in his room. I don't think he's even shown his face in the dining hall."
-#Satoshi
+#Protagonist
 "I see..."

@@ -1,18 +1,18 @@
-#Satoshi
+#Protagonist
 "Sorry to keep you waiting."
 I set the plates of fried rice down in front of the four people in the dining room—Souko-san, Benio-san, Akane-san, and Tsujimura-san.
 #Benio
 "Did you perform a poison test?"
 It seems Benio-san was thinking the exact same thing I was.
-#Satoshi
+#Protagonist
 "I ate some myself before portioning it out."
 #Benio
 "I see. And? How was it?"
-#Satoshi
+#Protagonist
 "It was delicious."
 #Benio
 "...Then there shouldn't be a problem."
-#Satoshi
+#Protagonist
 "Narumi-san ate some before portioning it out, too."
 #Benio
 "Hmm... in that case, there shouldn't be any issue at all."
@@ -30,14 +30,14 @@ After making sure Benio-san picked up her spoon, Souko-san and the others began 
 Narumi-san emerged from the kitchen.
 #Narumi
 "Could you take some food to Madam and Shion-ojousama as well?"
-#Satoshi
+#Protagonist
 "Ah, understood."
 I was handed three plates piled with fried rice.
 For Maya-san, Shion-san, and Dr. Mikanagi, I assume.
-#Satoshi
+#Protagonist
 "Ai-san... is it still impossible for her?"
 #Narumi
 "Likely. Also, that lawyer said he didn't want any, so there's no need to feed him."
-#Satoshi
+#Protagonist
 "I see..."
 First, I'll head to the infirmary to check on Ai-san's condition.

@@ -1,40 +1,40 @@
 #Souko
 "...I don't see any reason for her to kill Rokuyou-san."
-#Satoshi
+#Protagonist
 "True..."
 #Maya
 "Benio? I don't believe she was particularly close to Isamu-san..."
-#Satoshi
+#Protagonist
 "I see."
 #Ai
 "Benio killed Isamu-san...? No, that's impossible."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "I don't mind you suspecting me... but when I met you in the middle of the night, from my perspective, it looked as if you were coming from Rokuyou's room."
-#Satoshi
+#Protagonist
 "There's no way that's true..."
 #Shion
 "Is something wrong... with Lady Benio?"
-#Satoshi
+#Protagonist
 "No... nothing in particular..."
 #Tsujimura
 "Lady Benio? She has a peculiar way of speaking, but she is not capable of doing anything wicked."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Benio-kun? I haven't really seen her speaking with Rokuyou-kun."
-#Satoshi
+#Protagonist
 "I see."
 #Mikanagi
 "Benio-san? ...She might have disliked Isamu. How should I put it... there are people you just don't click with, right?"
-#Satoshi
+#Protagonist
 "Is that so..."
 #Akane
 "Lady Benio doesn't socialize deeply with anyone... so I doubt she had much contact with Master Rokuyou."
-#Satoshi
+#Protagonist
 "I see."
 #Narumi
 "Lady Benio? No strange behavior... well, she's a strange person to begin with."
-#Satoshi
+#Protagonist
 "Right..."

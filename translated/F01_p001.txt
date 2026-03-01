@@ -1,48 +1,48 @@
 #Souko
 "You want to hear about me? You already know, don't you?"
-#Satoshi
+#Protagonist
 "No, come on, give me something."
 #Souko
 "Your university senior and an unparalleled Cola lover. Will that do?"
-#Satoshi
+#Protagonist
 "...Not really."
 #Souko
 "Well then, shall I say I'm a folklorist who came here for research?"
-#Satoshi
+#Protagonist
 "Souko-san, you're still a student too."
 #Maya
 "Kirihara-san? I'm sorry, I don't know her well."
-#Satoshi
+#Protagonist
 "Y-You're right..."
 #Ai
 "Kirihara-san? We've only just met, so I'm not sure..."
-#Satoshi
+#Protagonist
 "True..."
 #Benio
 "Kirihara-san? ...I am sorry, I am not well acquainted with her..."
-#Satoshi
+#Protagonist
 "Of course..."
 #Tsujimura
 "Ms. Kirihara? ...I don't know her well, but..."
-#Satoshi
+#Protagonist
 "Y-You're right..."
 #Rokuyou
 "Kirihara-san... ah, her. You probably know more about her than I do, don't you?"
-#Satoshi
+#Protagonist
 "...Well, I suppose so..."
 #Takamine
 "Kirihara... ah, her. There's no reason I would know anything, is there?"
-#Satoshi
+#Protagonist
 "Y-You're right..."
 #Mikanagi
 "Kirihara-san? ...Well, I can't really say..."
-#Satoshi
+#Protagonist
 "...I guess that's true."
 #Akane
 "Ms. Kirihara? I believe she would be in her room."
-#Satoshi
+#Protagonist
 "Uh... I suppose she would..."
 #Narumi
 "Ms. Kirihara? ...No, I don't know her."
-#Satoshi
+#Protagonist
 "I-I see..."

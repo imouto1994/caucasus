@@ -1,40 +1,40 @@
 #Souko
 "If they were cut deliberately... then it must be the killer's work."
-#Satoshi
+#Protagonist
 "Most likely..."
 #Maya
 "The phone lines were cut... What ever shall we do..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Ai
 "What should we do now..."
-#Satoshi
+#Protagonist
 "Good question..."
 #Benio
 "Cutting the phone lines was likely to sever our contact with the outside world. This doesn't look like it's over yet..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Shion
 "The phone won't connect... I've never used it, so I don't really understand..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "If the phone lines were cut along with the suspension bridge... it would be difficult for an amateur to restore them..."
-#Satoshi
+#Protagonist
 "Right..."
 #Takamine
 "The phone lines were cut at the suspension bridge. It was probably the same person."
-#Satoshi
+#Protagonist
 "Right."
 #Mikanagi
 "We can't even call the police if the phones don't work... It'll be a problem if anything else happens..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Akane
 "What are we going to do..."
-#Satoshi
+#Protagonist
 "I don't know..."
 #Narumi
 "...If they cut the phone lines, we can't report this to the police. We're completely isolated now."
-#Satoshi
+#Protagonist
 "Yeah..."

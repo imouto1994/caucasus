@@ -1,32 +1,32 @@
 #Souko
 "...Last time it was an axe. If Benio-san was a saw... I guess the killer isn't picky about their tools for decapitation."
-#Satoshi
+#Protagonist
 "Maybe so..."
 #Maya
 "...I am sorry, I do not really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "...I'm sorry, I don't really know."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "Um... I'm sorry, I don't really know..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "...The hand axe used before is kept under strict lock and key. Perhaps that is why it could not be used this time..."
-#Satoshi
+#Protagonist
 "That might be true..."
 #Takamine
 "I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "Judging by the cut on the neck, there's no doubt a saw was used. I can't say what the reason was, though..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "I don't really know about that."
-#Satoshi
+#Protagonist
 "I see..."

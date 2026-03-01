@@ -1,166 +1,166 @@
 I suppose this is enough.
 #Souko
 "...In the end, we didn't gain much."
-#Main Character
+#Protagonist
 "...I'll try asking Benio-san for more details later."
 That's right.
 At the very least, I was able to save Benio-san when she was in danger.
 #Souko
 "...At this stage, who do you think the culprit is?"
-#Main Character
+#Protagonist
 "Eh... me?"
-#Main Character
+#Protagonist
 "...There's the possibility it's you, Souko-san."
 #Souko
 "Me? Why?"
-#Main Character
+#Protagonist
 "Hey, don't get mad. I know you have no motive and it's not you."
 #Souko
 "I see. I don't have an alibi either, after all."
-#Main Character
+#Protagonist
 "Well... that's how it is."
 I'd said it right to her face, which made things very awkward.
 #Souko
 "It's not bad to suspect those close to you first. As long as you have a proper reason."
 Souko-san laughed and patted my shoulder.
-#Main Character
+#Protagonist
 "Maybe... it's Benio-san herself."
 #Souko
 "...You mean she staged it?"
-#Main Character
+#Protagonist
 "It's just a possibility. If she makes it look like she was attacked, she'd be cleared of suspicion, right?"
 #Souko
 "...That would explain why the culprit vanished... but it's dangerous to jump to conclusions."
-#Main Character
+#Protagonist
 "...Yeah, I know."
-#Main Character
+#Protagonist
 "...Is it possible Maya-san is the culprit?"
 #Souko
 "...Honestly, I don't know. Maya-san is always in her room... but Benio-san is her own daughter, right?"
-#Main Character
+#Protagonist
 "...That's the thing... but if inheritance is involved..."
 #Souko
 "Killing her own daughter... do you think so?"
-#Main Character
+#Protagonist
 "I don't know. I have no proof at all."
-#Main Character
+#Protagonist
 "...Is it possible Ai-san is the culprit?"
 #Souko
 "That's impossible. She's already dead."
-#Main Character
+#Protagonist
 "...Right."
 I saw the dead Ai-san with my own eyes.
 There's no way she's moving around.
 #Souko
 "Ai-san? ...But she's dead."
-#Main Character
+#Protagonist
 "But... there's no proof that body was Ai-san... it didn't have a head."
 #Souko
 "Then who do you think it was?"
-#Main Character
+#Protagonist
 "I... I don't know, but..."
 #Souko
 "That's a tough one. If you want to push that theory, you have to identify exactly whose body that was."
-#Main Character
+#Protagonist
 "...You're right."
 #Souko
 "Ai-san? But she's a victim too, isn't she?"
-#Main Character
+#Protagonist
 "...She might have faked it."
 #Souko
 "Hmm... it's not a zero percent chance, but I think it would be difficult."
-#Main Character
+#Protagonist
 "You think so...?"
 #Souko
 "Let's keep it in mind for now."
-#Main Character
+#Protagonist
 "Understood."
-#Main Character
+#Protagonist
 "...Is it possible Shion-san is the culprit...?"
 #Souko
 "...I wonder. I don't think she has that kind of nerve, but..."
-#Main Character
+#Protagonist
 "Still... I don't think it's impossible."
 #Souko
 "...Maybe so. We should keep an eye on her... but try not to provoke her unnecessarily."
-#Main Character
+#Protagonist
 "Yeah... I know."
-#Main Character
+#Protagonist
 "What about Tsujimura-san?"
 #Souko
 "...I see. He's the late head's younger brother, and he manages the master keys... it wouldn't be impossible for him to pull off everything so far..."
-#Main Character
+#Protagonist
 "But... he just doesn't look the part. And I can't imagine he holds a grudge against Benio-san..."
 #Souko
 "People don't only kill out of grudges. But well, we have no evidence, so we can't exactly interrogate him."
-#Main Character
+#Protagonist
 "True..."
-#Main Character
+#Protagonist
 "...There's no way Rokuyou-san is the culprit, right?"
 #Souko
 "I doubt it. But... since we only confirmed a headless body... I can't say for sure that he wasn't swapped out."
-#Main Character
+#Protagonist
 "...If only there was an extra body somewhere..."
 #Souko
 "Things wouldn't be that convenient, now would they?"
-#Main Character
+#Protagonist
 "T-True..."
-#Main Character
+#Protagonist
 "...Is it possible Takamine-san is the culprit...?"
 #Souko
 "...Honestly, I don't know with that man. I feel like he's hiding something, but..."
-#Main Character
+#Protagonist
 "We don't have anything like evidence, but should we be cautious?"
 #Souko
 "Right... it's better than doing nothing."
-#Main Character
+#Protagonist
 "Yeah..."
-#Main Character
+#Protagonist
 "...Is it possible Dr. Mikanagi is the culprit?"
 #Souko
 "The doctor? ...Well, I suppose if he's doing the autopsies himself, he could fake whatever he wanted..."
-#Main Character
+#Protagonist
 "Exactly."
 #Souko
 "But then most of what we've investigated so far would become meaningless. Even the estimated times of death."
-#Main Character
+#Protagonist
 "That... would be a problem..."
 #Souko
 "We can't investigate it ourselves, so we just have to trust him, but..."
-#Main Character
+#Protagonist
 "...Yeah."
-#Main Character
+#Protagonist
 "Is it possible Akane-san is the culprit?"
 #Souko
 "Did she do something suspicious?"
-#Main Character
+#Protagonist
 "Well... she's been acting strange since last night..."
 #Souko
 "I see... we might need to keep a close watch on her."
-#Main Character
+#Protagonist
 "Yeah... right."
 #Souko
 "...I suppose that would explain why she went into hiding..."
-#Main Character
+#Protagonist
 "Yeah..."
-#Main Character
+#Protagonist
 "...Maybe Narumi-san is the culprit."
 #Souko
 "Did you see something?"
-#Main Character
+#Protagonist
 "No... not exactly..."
 I should probably keep the fact that she's a thief to myself for now.
 #Souko
 "It's best not to suspect people without cause, but..."
-#Main Character
+#Protagonist
 "...You're right."
 #Souko
 "...We don't have any solid leads yet."
-#Main Character
+#Protagonist
 "...It's not good to decide on a culprit based on speculation alone."
 #Souko
 "Exactly. We have to find definitive proof."
-#Main Character
+#Protagonist
 "Yeah... I know. But... to find proof, something else has to happen, doesn't it...?"
 #Souko
 "...I don't think this will end with what happened today. We still haven't grasped the culprit's motive."

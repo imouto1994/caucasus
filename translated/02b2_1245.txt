@@ -4,34 +4,34 @@ Shion-san was in the hall.
 She stood up from the sofa upon seeing me.
 #Shion
 "Um... has Ai-oneesama been found?"
-#Satoshi
+#Protagonist
 "Eh...?"
 Ai-san is missing...?
 #Shion
 "...It seemed as though Akane-san was looking for her earlier... and I grew quite frightened..."
 Shion-san trembled.
-#Satoshi
+#Protagonist
 "She... hasn't been found yet."
 #Shion
 "Is that so... I'm feeling quite scared..."
 Shion-san trembled.
-#Satoshi
+#Protagonist
 "It'll be alright, so please don't worry."
 I offered words that could easily be taken as empty consolation.
 Even if she thought so, I wanted to ease her anxiety even just a little bit.
 #Shion
 "I... I'm going back to my room."
 Shion-san murmured with her head down.
-#Satoshi
+#Protagonist
 "I'll walk you there."
 Without thinking, those words slipped out.
 #Shion
 "Eh...?"
-#Satoshi
+#Protagonist
 "I think it's better if you don't move around alone. ...I don't have any proof, but."
 #Shion
 "But..."
-#Satoshi
+#Protagonist
 "It'd be better if Tsujimura-san were here... at least as far as the office. It's right nearby, though."
 #Shion
 "Then... please do."
@@ -39,12 +39,12 @@ Shion-san gave a small nod.
 Tsujimura-san was not in the office.
 #Shion
 "Um... this far is enough. It's cold outside, so..."
-#Satoshi
+#Protagonist
 "Is that so...?"
 #Shion
 "Um... thank you very much."
 Shion-san bowed.
-#Satoshi
+#Protagonist
 "We don't know what might happen, so please make sure to lock your door firmly."
 #Shion
 "...Yes. Well then."
@@ -53,38 +53,38 @@ It seemed as though the snow was still falling.
 I...
 Follow her.
 Return to the hall.
-#Satoshi
+#Protagonist
 "Shion-san!"
 I called out to Shion-san as she turned her back.
 #Shion
 "Yes...?"
-#Satoshi
+#Protagonist
 "Um, I'll walk you to the tower after all."
 #Shion
 "B-But..."
 Shion-san looked outside.
 #Shion
 "...Well then, please do."
-#Satoshi
+#Protagonist
 "Yeah."
 I stepped outside first so Shion-san wouldn't be hit by the wind.
-#Satoshi
+#Protagonist
 "Are you alright?"
 I called out to Shion-san behind me.
 #Shion
 "Yes, I'm used to it."
 For all she said that, she was huddling up against the cold.
 When we arrived at the entrance to the tower, Shion-san opened the door just as it was.
-#Satoshi
+#Protagonist
 "Don't you keep it locked?"
 #Shion
 "...No, not particularly."
-#Satoshi
+#Protagonist
 "...I think it'd be better if you kept it locked from now on."
 #Shion
 "I wonder... if so."
 Shion-san tilted her head.
-#Satoshi
+#Protagonist
 "Because we don't know what might happen yet."
 The culprit who killed Rokuyou-san is still in the manor, after all.
 Although I avoided such direct words, Shion-san shrank back anxiously.
@@ -92,11 +92,11 @@ Although I avoided such direct words, Shion-san shrank back anxiously.
 "...Please, come in."
 Shion-san closed the door.
 The heating must be working; it was faintly warm inside.
-#Satoshi
+#Protagonist
 "By the way, is your headache alright now?"
 #Shion
 "...It's a regular thing, so there's no need for worry."
-#Satoshi
+#Protagonist
 "I see... take care."
 #Shion
 "Yes, thank you very much."
@@ -107,7 +107,7 @@ I felt hesitant to accompany her any further.
 #Shion
 "Yes...?"
 She turned back as she set foot on the stairs.
-#Satoshi
+#Protagonist
 "I'll be going now. ...See you later."
 #Shion
 "...Yes."
@@ -120,13 +120,13 @@ Snow is piled up on both sides of the path, making it look as though it'd be imp
 I decided to hurry back to the Great Hall.
 #Shion
 "...Thank you very much. But... I think I'll stay here after all..."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "Well then... see you later."
 Shion-san left.
 It can't be helped; I'll return to the hall.
-#Satoshi
+#Protagonist
 "Well then... see you."
 #Shion
 "...Yes."

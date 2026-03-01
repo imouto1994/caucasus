@@ -1,11 +1,11 @@
 Everyone was gathered in the main hall.
 I entered the room with Shion-san in tow.
-#Main Character
+#Protagonist
 "Sorry to keep you waiting."
 #Souko
 "Did you figure it out?"
 I nodded in response to Souko-san's question.
-#Main Character
+#Protagonist
 "Yes... Shion-san—"
 #Shion
 "I... I was the one who killed Rokuyou-sama."
@@ -19,7 +19,7 @@ The room erupted into whispers at her confession.
 #Benio
 "I assume you have proof to back this up?"
 Benio-san directed her question at me.
-#Main Character
+#Protagonist
 "...Yes. I plan to gather it all and hand it over to the police when they arrive."
 #Ai
 "Why!? How!? Why would Shion do that to Isamu-san!?"
@@ -43,7 +43,7 @@ Shion-san bowed her head, her eyes filling with tears.
 "—! T-That's..."
 Shion-san looked toward Tsujimura-san, flustered.
 It seemed she didn't want to talk about that part—
-#Main Character
+#Protagonist
 "...She says he attacked her in the middle of the night on the day of the wedding. She resisted, and killed him in the heat of the moment—"
 #Souko
 "...I see."
@@ -59,7 +59,7 @@ She seemed to be watching Tsujimura-san's reaction.
 #Shion
 "That's..."
 Shion-san faltered.
-#Main Character
+#Protagonist
 "In any case, let's go find Rokuyou-san's head for now. The questioning of Shion-san is—"
 Benio-san cut me off.
 #Benio
@@ -73,12 +73,12 @@ Having seemingly reached some kind of conclusion, Benio-san backed off.
 "Then... Tsujimura-san, please stay with Shion-san. You and Dr. Mikanagi, go find Rokuyou-san's head."
 #Mikanagi
 "Right..."
-#Main Character
+#Protagonist
 "Understood."
 #Benio
 "I'm coming too."
 As we stepped into the hallway, Benio-san followed immediately.
-#Main Character
+#Protagonist
 "Benio-san...?"
 #Benio
 "Hakase, go get a shovel from the storage room."
@@ -87,23 +87,23 @@ As we stepped into the hallway, Benio-san followed immediately.
 Dr. Mikanagi went into the storage room.
 #Benio
 "—Have you noticed?"
-#Main Character
+#Protagonist
 "Eh... noticed what?"
 #Benio
 "Who is Shion protecting?"
-#Main Character
+#Protagonist
 "Eh—"
 Could she be talking about Tsujimura-san—?
-#Main Character
+#Protagonist
 "...What do you mean?"
 It would probably be best if the truth about Tsujimura-san didn't come from my mouth.
 #Benio
 "...Shion hasn't said a word about attacking me or my sister."
-#Main Character
+#Protagonist
 "That's—"
 #Benio
 "Whether she's too ashamed to speak of it or truly doesn't know—either way, it seems she doesn't want to cause any more trouble."
-#Main Character
+#Protagonist
 "...And who is it that feels that way?"
 #Benio
 "Why, everyone here, of course."
@@ -120,7 +120,7 @@ They hurriedly constructed scaffolding, and by the time they had managed to put 
 "...Even if she is a daughter of the Nanatsuki family, the fact remains that she committed a crime. I ask that you judge her strictly according to the law."
 #Police Officer
 "I-I see... however, the Chief also instructed me to ensure that no disrespect was shown..."
-#Main Character
+#Protagonist
 "The police are being awfully subservient..."
 #Souko
 "It can't be helped, I suppose. In a rural place like this, the word of the powerful is law."
@@ -128,7 +128,7 @@ They hurriedly constructed scaffolding, and by the time they had managed to put 
 "Even so, this is a major incident. She won't be coming back for a while."
 #Mikanagi
 "I'm worried about her health if she's held for a long time... even more so if she's sentenced to prison."
-#Main Character
+#Protagonist
 "Yeah..."
 #Tsujimura
 "Sorry to keep you waiting."
@@ -147,23 +147,23 @@ The officer gave a salute.
 "...Well then, shall we get going too? They said they could give us a ride to the foot of the mountain."
 Souko-san picked up her luggage.
 It seemed much lighter now that the cola bottles were gone.
-#Main Character
+#Protagonist
 "You're right..."
 #Benio
 "I'd like to say 'come again'... but that's a hard thing to say. Yeah... let's meet again someday."
-#Main Character
+#Protagonist
 "Yeah... definitely."
 #Souko
 "Oh, that's right. Here, take this."
 Souko-san handed Benio-san a bottle of cola that hadn't been opened yet.
-#Main Character
+#Protagonist
 "You still had some left!?"
 #Souko
 "...What's with that surprised look on your face?"
 Well, I was surprised, which is why I looked like that.
 #Benio
 "Thank you. I'll be sure to savor it."
-#Main Character
+#Protagonist
 "...The carbonation will go flat, so you should drink it soon after you open it."
 #Ai
 "Shion!!"
@@ -197,11 +197,11 @@ The officer replied while standing at attention.
 Outside, the snow had completely stopped.
 #Souko
 "They said there's a vehicle waiting on the other side of the bridge."
-#Main Character
+#Protagonist
 "It's not a carriage?"
 #Souko
 "Apparently there's a four-wheel-drive truck that brought the materials."
-#Main Character
+#Protagonist
 "Well, as long as we can get back, anything is fine at this point."
 #Souko
 "Exactly. Well then, shall we head home?"

@@ -6,13 +6,13 @@ We entered the tower.
 Benio-san said, looking at the door we’d just entered.
 #Mikanagi
 "I told her to keep it locked, but..."
-#Main Character
+#Protagonist
 "I'm a bit concerned... let's go."
 I led the way up the stairs.
-#Main Character
+#Protagonist
 "Shion-san, it's me. Are you awake...?"
 I waited for a moment, but there was no response from inside.
-#Main Character
+#Protagonist
 "Shion-san—?"
 #Benio
 "Step aside."
@@ -21,29 +21,29 @@ Benio-san swapped places with me and turned the doorknob.
 "It's open... Shion!"
 I followed Benio-san into the room.
 Shion-san was slumped over the bed.
-#Main Character
+#Protagonist
 "Shion-san...?"
 Benio-san rushed to Shion-san's side before I could.
 #Benio
 "Shion! ...Doctor, come here."
 #Mikanagi
 "Shion-san... this is—"
-#Main Character
+#Protagonist
 "W-What is it...?"
 #Benio
 "...She's dead."
 Benio-san shook her head.
-#Main Character
+#Protagonist
 "Why... how..."
 #Mikanagi
 "...Most likely potassium cyanide. Poison."
-#Main Character
+#Protagonist
 "Poison...?"
 #Benio
 "...Can you tell if it was suicide or murder?"
 #Mikanagi
 "As for that... it’s hard to make someone drink cyanide without them noticing, so there's a possibility of suicide, but..."
-#Main Character
+#Protagonist
 "...Let's find some proof. Whether it was suicide or murder, something must have been left behind."
 #Benio
 "...Right."

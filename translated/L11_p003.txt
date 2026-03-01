@@ -1,24 +1,24 @@
 #Ai
 "I was in my room the entire time, however..."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "I'm told my sister was also in her room the whole time... so it would be difficult for her."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I believe she was in her room... but I have not confirmed it."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "I wouldn't know anything about what happens outside my room."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "I predictably wouldn't know about anyone else's movements."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "I think she was in her room. She's hardly come out at all."
-#Satoshi
+#Protagonist
 "True..."

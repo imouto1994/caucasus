@@ -1,5 +1,5 @@
 We arrived at the performance room.
-#Main Character
+#Protagonist
 "Benio-san, if you would."
 I handed the sheet music to Benio-san.
 #Benio
@@ -9,7 +9,7 @@ Benio-san glanced at Maya-san, but said nothing more as she headed for the piano
 "Nn... what's this? The keys are broken..."
 #Narumi
 "Ah, that's..."
-#Main Character
+#Protagonist
 "...A key was hidden there. At the 'H5' spot."
 #Benio
 "The 'B' in the fifth octave... I see."
@@ -23,23 +23,23 @@ Souko-san gasped.
 I knew it... this song is...
 #Souko
 "Why..."
-#Main Character
+#Protagonist
 "This song... Shion-san was singing a song with the same melody."
 I told Souko-san.
-#Main Character
+#Protagonist
 "Did Marino-san often sing it?"
 Souko-san didn't answer.
 She just stood there, listening intently to Benio-san's performance.
 I saw something glistening in her eyes.
 I wonder what she's thinking right now—
-#Main Character
+#Protagonist
 "...If Shion-san were here, she would have let us hear her beautiful singing voice..."
 #Souko
 "Are you trying to blame me?"
 Souko-san's voice was cold.
 #Souko
 "Do you think I... regret killing my own sister?"
-#Main Character
+#Protagonist
 "...If you don't regret it, then why are you crying?"
 #Souko
 "Don't be stupid."
@@ -49,12 +49,12 @@ Though the tone of her voice hadn't changed, tears were streaming down Souko-san
 It was almost exactly when the sound of the piano stopped.
 Souko-san moved.
 In an instant, she dashed across the room and pinned herself behind Maya-san.
-#Main Character
+#Protagonist
 "Souko-san!?"
 #Souko
 "—Don't move."
 Souko-san pressed her bandaged finger against Maya-san's neck.
-#Main Character
+#Protagonist
 "What are you—"
 #Souko
 "I borrowed this from the clinic."
@@ -69,7 +69,7 @@ A dully gleaming blade peeked out from the bandage.
 "Mother!"
 #Souko
 "Benio-san, my mother was killed just like this."
-#Main Character
+#Protagonist
 "Stop it, Souko-san!"
 #Souko
 "I told you not to move, didn't I?"

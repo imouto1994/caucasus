@@ -3,10 +3,10 @@ The thing I really need to hear comes after this.
 Is this enough?
 #Souko
 "Are you finished already?"
-#Main Character
+#Protagonist
 "...Yeah."
 The thing I really need to hear comes after this.
-#Main Character
+#Protagonist
 "Souko-san... I'm going to go talk to Shion-san."
 #Souko
 "I see... be careful."
@@ -17,96 +17,96 @@ The door to the tower was unlocked.
 Bloody clothes were discarded in the corner of the room.
 She must have already washed herself in the bath, as droplets of water on the floor led toward the stairs.
 I reached the top of the stairs.
-#Main Character
+#Protagonist
 "Shion-san, it's me. Do you have a moment?"
 I called out and waited for a while.
 The door opened, and Shion-san tentatively peered out.
 #Shion
 "Um... is there something you need...?"
 She asked, looking up at me.
-#Main Character
+#Protagonist
 "Yes... could I talk to you for a bit?"
 #Shion
 "...Yes, please come in."
 I entered Shion-san's room and closed the door.
 #Shion
 "...Is this about what happened earlier...?"
-#Main Character
+#Protagonist
 "Yes... have you calmed down?"
 #Shion
 "Yes..."
 She gave a small nod.
-#Main Character
+#Protagonist
 "Well then... could you tell me everything from the beginning?"
 #Shion
 "...I tried to sleep, but my headache was severe, so I left my room to get some medicine from Dr. Mikanagi. I think it was past midnight."
-#Main Character
+#Protagonist
 "Was Tsujimura-san in the office?"
 #Shion
 "Yes... Seiji-san offered to go get it for me, but I couldn't bring myself to be so pampered, so I went myself..."
-#Main Character
+#Protagonist
 "And that's when you met us on the second floor."
 #Shion
 "...Yes. You told me Dr. Mikanagi was in his room, so I thought I'd say a quick word before going to the clinic."
-#Main Character
+#Protagonist
 "...Was the door to Dr. Mikanagi's room locked?"
 #Shion
 "No... I knocked, but there was no answer... I was going to head to the clinic, but... the door opened, so I looked inside..."
-#Main Character
+#Protagonist
 "...And what was Dr. Mikanagi's condition at that time?"
 #Shion
 "I... don't really know."
 Shion-san looked down.
-#Main Character
+#Protagonist
 "...Was he dead?"
 #Shion
 "...He was lying down... but he wasn't dead."
-#Main Character
+#Protagonist
 "...You could tell that right away?"
 #Shion
 "Yes... you can tell immediately whether someone is dead or not just by looking at them."
-#Main Character
+#Protagonist
 "I see..."
 When Shion-san entered the room, Dr. Mikanagi wasn't dead yet.
 Even though he could have been saved—
 #Shion
 "Um... did Dr. Mikanagi... pass away...?"
-#Main Character
+#Protagonist
 "...By the time I saw him, he was already dead. Judging from the state of the bed, it didn't seem like he suffered much."
 I wasn't sure of the method of murder—but I suspected it was instant.
 I thought the wounds on the neck were inflicted after death.
 I didn't have any specific grounds for that, though—
 #Shion
 "How could... Dr. Mikanagi, why..."
-#Main Character
+#Protagonist
 "...You touched Dr. Mikanagi's body, didn't you?"
 #Shion
 "...I thought I'd examine Dr. Mikanagi's condition... was that not okay?"
-#Main Character
+#Protagonist
 "...It wasn't. Because of that... I've had to cast unnecessary suspicion on you."
 #Shion
 "...Are you trying to say that I killed him...?"
-#Main Character
+#Protagonist
 "...I was in the hallway from the time I said goodbye to Dr. Mikanagi until the body was discovered. During that time, you were the only one who entered Dr. Mikanagi's room."
 #Shion
 "I... didn't kill him."
 Shion-san shook her head.
-#Main Character
+#Protagonist
 "I see..."
 I suppose it was difficult with only circumstantial evidence...
 I couldn't find a trump card against Shion-san, who stubbornly denied it.
 #Shion
 "I..."
-#Main Character
+#Protagonist
 "...I'm sorry."
 #Shion
 "Eh...?"
 Likely not expecting an apology, Shion-san looked caught off guard.
-#Main Character
+#Protagonist
 "I'll think about it... a bit more."
 #Shion
 "U-Um... I..."
-#Main Character
+#Protagonist
 "—Excuse me."
 ...Why am I in such a rush?
 It's not like it's been decided that Shion-san is the culprit.
@@ -116,65 +116,65 @@ However... there were inconsistencies in Shion-san's testimony.
 What does she know?
 And she saw Dr. Mikanagi when he wasn't dead yet.
 Let's think—just a little more.
-#Main Character
+#Protagonist
 "—Look at this, Shion-san."
 I showed Shion-san what I had found in the chapel.
 #Shion
 "What... is this...?"
 Yellow powder placed on a handkerchief.
-#Main Character
+#Protagonist
 "It's the stamen of a snowdrop."
 I said, pointing to a slightly larger clump.
-#Main Character
+#Protagonist
 "Yesterday, the snowdrop flower fallen near Rokuyou-san's body was missing one stamen. And that... was fallen in the chapel."
 #Shion
 "Ngh..."
-#Main Character
+#Protagonist
 "You know what this means... don't you?"
 Shion-san did not answer.
 That silence spoke eloquently of what had happened.
-#Main Character
+#Protagonist
 "You... were the one who killed Rokuyou-san, weren't you?"
 #Shion
 "That is..."
-#Main Character
+#Protagonist
 "Didn't you kill Rokuyou-san when he entered the chapel in the middle of the night, carried his body to his room, and severed his head?"
 I was certain.
 Sure enough, Shion-san fell silent.
-#Main Character
+#Protagonist
 "...Please say something."
 #Shion
 "Ngh..."
 Shion-san backed away.
-#Main Character
+#Protagonist
 "Did you kill them... Rokuyou-san, Benio-san, and Souko-san too!?"
 #Shion
 "—!? T-That is—"
-#Main Character
+#Protagonist
 "You killed them, didn't you!!"
 #Shion
 "Kyaa—!?"
 I'd reached my limit.
 I straddled Shion-san as she collapsed onto the bed.
-#Main Character
+#Protagonist
 "I see..."
 My expression relaxed.
-#Main Character
+#Protagonist
 "Thank you... for denying it."
 #Shion
 "Eh...?"
 Shion-san blinked.
-#Main Character
+#Protagonist
 "It's not that I want to make you the culprit. I just wanted something I could use to deny it."
 #Shion
 "Why..."
-#Main Character
+#Protagonist
 "Because... I want to protect you, Shion-san."
 I placed my hand lightly on her shoulder.
 #Shion
 "Ngh—"
 Shion-san flinched slightly.
-#Main Character
+#Protagonist
 "That's why... I wanted proof that you hadn't done anything. Even if it was just a sophistry..."
 #Shion
 "...I, I—!?"
@@ -183,23 +183,23 @@ I didn't want to hear any more.
 #Shion
 "Nnh..."
 Her arms weakly tried to push my body away.
-#Main Character
+#Protagonist
 "...I love you."
 I whispered as I pulled my lips away.
-#Main Character
+#Protagonist
 "That's why I want to protect you."
 #Shion
 "...Why?"
-#Main Character
+#Protagonist
 "Eh...?"
 #Shion
 "Why... didn't you come... sooner..."
 Shion-san began to shed tears and clung to my body.
-#Main Character
+#Protagonist
 "Shion-san..."
 #Shion
 "...I wanted you to protect me sooner..."
-#Main Character
+#Protagonist
 "...It's not too late now."
 I pulled her slender body into a tight embrace.
 #Shion

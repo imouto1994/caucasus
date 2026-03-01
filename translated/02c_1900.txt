@@ -3,13 +3,13 @@ Just as we reached the front of Ai-san's room, the hallway lights flickered on.
 "It seems Tsujimura-san has repaired the generator."
 #Souko
 "……I wonder if it's because everyone besides Ai-san has been confirmed safe……"
-#Satoshi
+#Protagonist
 "……This way. She was found dead in the bathroom."
 I said this as if to cut off Souko-san and the Doctor's conversation, then stepped into Ai-san's room.
 #Souko
 "……An electric cord has been pulled into the bathroom."
 Souko-san found the cord stretching from the wall outlet.
-#Satoshi
+#Protagonist
 "……It was submerged in the tub when I found it."
 #Souko
 "I see……"
@@ -17,11 +17,11 @@ Souko-san tapped my shoulder lightly and entered the bathroom.
 Dr. Mikanagi offered a silent prayer to Ai-san with a somber face.
 #Souko
 "This is horrible……"
-#Satoshi
+#Protagonist
 "Yeah……"
 #Mikanagi
 "I want to pull her out immediately, but…… investigating here should come first."
-#Satoshi
+#Protagonist
 "Yeah……"
 I gave a vague nod.
 #Souko

@@ -3,7 +3,7 @@ Keep searching
 That’s enough
 I’ll search a little more.
 This should be enough.
-#Main Character
+#Protagonist
 "Let’s head back. I don't think there’s anything else here."
 #Narumi
 "I wonder if there really is no hidden inheritance..."

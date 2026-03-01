@@ -1,28 +1,28 @@
 I arrived at Tsujimura-san's room on the north side of the first floor.
-#Satoshi
+#Protagonist
 "Tsujimura-san, it's me."
 The door opened, and Tsujimura-san stepped out into the hallway.
 #Tsujimura
 "Is something the matter?"
-#Satoshi
+#Protagonist
 "Um, I've decided to stay here tonight to protect you from the culprit, Tsujimura-san."
 #Tsujimura
 "Pardon...? But is there even any proof that someone like myself would be targeted by the culprit?"
-#Satoshi
+#Protagonist
 "...I don't know for sure. But... given the current situation, it wouldn't be strange no matter who's being targeted."
 #Tsujimura
 "Haha... I'll be fine. Besides, patrolling the manor is my responsibility, after all."
-#Satoshi
+#Protagonist
 "But..."
 #Tsujimura
 "You're a guest, so please get some rest in your room. I'll let you know if anything happens."
-#Satoshi
+#Protagonist
 "I see..."
 Having been told that, I had no words to offer in return.
-#Satoshi
+#Protagonist
 "...Well then, excuse me. Um, sorry for bringing up such a strange thing."
 #Tsujimura
 "No, no, please don't worry about it. Well then, good night."
-#Satoshi
+#Protagonist
 "...Phew."
 It can't be helped; I'll head back to my room and rest.

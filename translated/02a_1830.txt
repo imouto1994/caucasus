@@ -15,10 +15,10 @@ Benio-san cut Dr. Mikanagi off and spoke up.
 "Maya-san is in the drawing room. Narumi-san and Akane-san are there as well."
 #Benio
 "...Where are my sister and Shion?"
-#Satoshi
+#Protagonist
 "Ah, Ai-san is in my room."
 #Benio
 "Why in your room... well, fine. Go check on her immediately."
-#Satoshi
+#Protagonist
 "Yes, understood."
 Feeling the weight of Benio-san's suspicious gaze, I turned on my heel and headed up the stairs.

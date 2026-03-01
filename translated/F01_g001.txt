@@ -1,14 +1,14 @@
 #Souko
 "It's a story that comes up right away if you look into Nanatsuki Village. Though I haven't found any documents that go into the finer details."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "...I'm aware that such rumors are circulating in the village. However, I'm not familiar with the specifics."
-#Satoshi
+#Protagonist
 "...I see."
 #Ai
 "...I do not wish to answer that."
-#Satoshi
+#Protagonist
 "I see... I'm sorry."
 #Benio
 "The curses are seven in number, just as the name suggests. First—'The matter of the heads of the Nanatsuki family all meeting unnatural deaths.'"
@@ -18,29 +18,29 @@
 "'Fifth, the matter of a swarm of crows covering the manor.' 'Sixth, the matter of the "Sacrifice of the Seven-Possessed".' 'Seventh, the matter of the spirit of the sacrificed girl wandering the manor.' ...That is all."
 #Benio
 "If you wish to investigate, please, do as you like. Though my efforts may be modest, I would be happy to assist you."
-#Satoshi
+#Protagonist
 "Ah... thank you very much."
 #Tsujimura
 "I... don't know much about such things..."
-#Satoshi
+#Protagonist
 "I see..."
 #Rokuyou
 "The curse...? Come to think of it, I feel like Benio mentioned something like that. You should try asking her."
-#Satoshi
+#Protagonist
 "I see."
 #Takamine
 "I have no interest in such trivial nonsense."
-#Satoshi
+#Protagonist
 "I-I see..."
 #Mikanagi
 "The curse? ...Ah, that's just a rumor, right? I think Benio-san would be the one familiar with those stories."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "T-The curse... I know there are all sorts of things being said... it's quite scary, isn't it?"
-#Satoshi
+#Protagonist
 "It is..."
 #Narumi
 "The curse? I've certainly heard people in town talking about it... but if you want details, why not ask Lady Benio?"
-#Satoshi
+#Protagonist
 "That's a good idea."

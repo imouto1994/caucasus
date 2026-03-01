@@ -6,60 +6,60 @@ Shion-san is on the second floor.
 I went up the stairs and knocked on the door.
 #Shion
 "Yes...?"
-#Satoshi
+#Protagonist
 "Shion-san, it's me."
 After I spoke, the door opened from the inside a moment later.
 #Shion
 "Um... is something the matter...?"
 Shion-san's eyes were moist.
 I wonder if she’d been crying...
-#Satoshi
+#Protagonist
 "I came to make sure that everyone is alright."
 #Shion
 "...I see."
 Shion-san looked down.
-#Satoshi
+#Protagonist
 "Umm... so—"
 #Shion
 "Please, come in..."
 Shion-san opened the door and invited me inside.
-#Satoshi
+#Protagonist
 "Ah... excuse me."
 #Shion
 "...Did you come here to watch me?"
-#Satoshi
+#Protagonist
 "Eh... no, that's not it at all?"
 #Shion
 "Then... why...?"
-#Satoshi
+#Protagonist
 "...Because I'm worried about you, Shion-san."
 I voiced my honest feelings.
-#Satoshi
+#Protagonist
 "It's partly because Tsujimura-san asked me to... but I can't just leave you be. Not someone living all alone in a place this far removed."
-#Satoshi
+#Protagonist
 "Besides... Ai-san was attacked around midday. You might be a target for the culprit too, Shion-san."
 #Shion
 "But, I..."
-#Satoshi
+#Protagonist
 "I'll definitely find the culprit. So... until then, I'll make sure to protect you, Shion-san."
 Shion-san stayed silent and looked down.
-#Satoshi
+#Protagonist
 "Um... was I being a nuisance, perhaps...?"
 #Shion
 "...No, that's... not the case."
 Shion-san shook her head.
-#Satoshi
+#Protagonist
 "Umm... sorry, I guess I just got a bit ahead of myself..."
 #Shion
 "No... th-thank you very much."
-#Satoshi
+#Protagonist
 "W-Well then, I'll be going..."
 In that awkward atmosphere, I bowed and left Shion-san's room.
-#Satoshi
+#Protagonist
 "...Shion-san, could I ask you for just one thing?"
 #Shion
 "What is it...?"
-#Satoshi
+#Protagonist
 "...I'd like to hear that song from last night one more time."
 #Shion
 "Eh...?"
@@ -68,11 +68,11 @@ And for good reason.
 Anyone would be surprised if they were suddenly asked something like that.
 #Shion
 "My song...?"
-#Satoshi
+#Protagonist
 "Yeah... if you don't mind..."
 #Shion
 "...My apologies. Right now, I'm just not... in the mood for that..."
-#Satoshi
+#Protagonist
 "...You're right. Sorry, I shouldn't have asked such a strange thing..."
 #Shion
 "No..."
@@ -83,21 +83,21 @@ With just that, the air in the room grew tense and still.
 After she finished singing, Shion-san bowed to me.
 #Shion
 "Um... was that alright...?"
-#Satoshi
+#Protagonist
 "Ah... thank you very much. It really... touched my heart."
 #Shion
 "Not at all..."
-#Satoshi
+#Protagonist
 "What kind of song is that?"
 #Shion
 "...I don't know."
 Shion-san shook her head.
 #Shion
 "But... when I sing this song, I feel very calm."
-#Satoshi
+#Protagonist
 "It was a very good song."
 #Shion
 "Th-Thank you very much..."
-#Satoshi
+#Protagonist
 "Well then, I'll be going. Please let me hear it again sometime."
 I offered my thanks to Shion-san and left her room.

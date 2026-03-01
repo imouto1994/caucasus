@@ -1,32 +1,32 @@
 #Souko
 "I checked his room a little while ago, but there was nothing out of the ordinary."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "I wouldn't know; I was resting in my room as well."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "I don't know... I've been in my room the whole time."
-#Satoshi
+#Protagonist
 "I see..."
 #Shion
 "...I don't know. My room is in the annex, after all..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "I believe he was in his room... but I have not confirmed it."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "It was exactly two o'clock when Kirihara-san visited my room. I imagine she was checking our whereabouts..."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "I believe he was in his room the entire time, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "Weren't they in their room? I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."

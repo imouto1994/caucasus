@@ -1,7 +1,7 @@
 I wonder if this is enough.
 #Benio
 "...We didn't really get any substantial testimony, did we?"
-#Main Character
+#Protagonist
 "No..."
 #Benio
 "Let's think about this a bit more... Come over here."
@@ -9,218 +9,218 @@ At Benio-san's beckoning, we moved from the main hall to the drawing room next d
 #Benio
 "...In your opinion, who do you think is the culprit in this case?"
 As soon as we entered the drawing room, Benio-san asked.
-#Main Character
+#Protagonist
 "In my opinion..."
 #Benio
 "So you think Kirihara-san is the killer... then who is that burned body?"
-#Main Character
+#Protagonist
 "It’s obvious, isn't it? It's Akane-san. No one else is missing."
 #Benio
 "True, that is a possibility... but isn't that a bit of a leap in logic?"
-#Main Character
+#Protagonist
 "...I don't know the reason, that's true. And Souko-san was in my room when Rokuyou-san was killed. But still..."
 #Benio
 "To make it clear, we'd have to prove that burned body is Akane, but..."
-#Main Character
+#Protagonist
 "Right now, the only clue we have to prove the identity is the broken bone..."
 #Benio
 "Something like that can be faked later as much as anyone wants... It can't be called definitive proof."
-#Main Character
+#Protagonist
 "You're right..."
 #Benio
 "Mother? ...But there's no reason for her to kill Kirihara-san, is there?"
-#Main Character
+#Protagonist
 "Yeah... I don't think there's **any reason to kill Souko-san**."
 #Benio
 "...So there's the possibility that the burned body isn't Kirihara-san."
-#Main Character
+#Protagonist
 "Akane-san is also missing. If the body is her, then another possibility arises."
 #Benio
 "Hmm..."
-#Main Character
+#Protagonist
 "Akane-san seemed to be looking into a lot of things. If that led to something disadvantageous for the Nanatsuki family..."
 #Benio
 "So Mother found out something and killed her to keep her quiet... That's not a very pleasant story."
-#Main Character
+#Protagonist
 "I suppose not... it's merely speculation."
 #Benio
 "Hmph..."
-#Main Character
+#Protagonist
 "...Do you know of an Akari Misono?"
 #Benio
 "Akari Misono...? She worked here a while back. She was close to the doctor, so you should try asking him."
-#Main Character
+#Protagonist
 "...Why did she disappear?"
 #Benio
 "...Are you talking about the 'spiriting away'?"
-#Main Character
+#Protagonist
 "Is that not it?"
 #Benio
 "...I don't know. It’s true she vanished suddenly... but does that have anything to do with Akane?"
-#Main Character
+#Protagonist
 "...I heard she was Akane-san's older sister."
 #Benio
 "...I see..."
-#Main Character
+#Protagonist
 "Akane-san said she came here to track her sister down. She seems to have been doing a lot of investigating."
 #Benio
 "...Are you suggesting the cause of the 'spiriting away' lies with the Nanatsuki family?"
-#Main Character
+#Protagonist
 "I don't know that yet. However... I've heard that many people have gone missing over the years."
 #Benio
 "...That was before I was born. But still..."
-#Main Character
+#Protagonist
 "This is all just speculation based on the premise that it was Akane-san who was killed. It's just a possibility."
 #Benio
 "...I know."
 #Benio
 "...My sister is dead."
-#Main Character
+#Protagonist
 "That’s right..."
 #Benio
 "...And someone tried to kill my sister, too?"
-#Main Character
+#Protagonist
 "Yeah... but what if that was a fake?"
 #Benio
 "Don't be stupid. There's no way she could do something like that."
-#Main Character
+#Protagonist
 "There are ways to divert suspicion by making it look like you're being targeted first. If that were the case..."
 #Benio
 "...Even so, there's no reason to kill Kirihara-san."
-#Main Character
+#Protagonist
 "...No one has a reason to kill Souko-san. Except a cornered killer."
 #Benio
 "...Which means we have to find evidence that my sister killed Rokuyou."
-#Main Character
+#Protagonist
 "That might be difficult at this point..."
 #Benio
 "Me? To say such a thing, you must have clear evidence, right?"
-#Main Character
+#Protagonist
 "Eh... well..."
 #Benio
 "Go ahead and say it. I won't get mad."
-#Main Character
+#Protagonist
 "You're already mad, though..."
 #Benio
 "Shion...? Do you have proof?"
-#Main Character
+#Protagonist
 "Well..."
 #Benio
 "Don't treat her like a criminal without proof. It's offensive."
-#Main Character
+#Protagonist
 "I'm sorry..."
-#Main Character
+#Protagonist
 "It's not about Souko-san's murder, but regarding Rokuyou-san's murder... a snowdrop stamen was found in the chapel."
 #Benio
 "...You said one stamen was missing from the flower found near Rokuyou... but that doesn't immediately link back to a crime."
-#Main Character
+#Protagonist
 "However, it is proof that Rokuyou-san—or the killer—was in his room and the chapel that night."
 #Benio
 "...Continue."
-#Main Character
+#Protagonist
 "If Souko-san was killed because she was getting close to the truth, as we originally suspected... it's not an impossible story."
 #Benio
 "It's consistent... but right now, I have nothing to refute it with."
-#Main Character
+#Protagonist
 "...I don't think we need to fixate on this idea for now."
 #Benio
 "Tsujimura...? True, he's the one who can move most freely in the mansion... and he has the master keys."
-#Main Character
+#Protagonist
 "He could be a suspect. There's no clear evidence, though..."
 #Benio
 "It's a bit of a stretch to decide he's the killer based on that, isn't it?"
-#Main Character
+#Protagonist
 "You're right..."
 #Benio
 "Don't say such stupid things. He died a long time ago."
-#Main Character
+#Protagonist
 "You're right..."
 #Benio
 "Takamine? I don't see a motive or anything, but..."
-#Main Character
+#Protagonist
 "It's true I can't find a reason to kill Souko-san..."
 #Benio
 "Then it’s better not to narrow your targets too much right now. Don't limit your perspective."
-#Main Character
+#Protagonist
 "I suppose so..."
 #Benio
 "If the doctor is the killer, that would be a disaster. Most of the findings would lose their credibility."
-#Main Character
+#Protagonist
 "That's the thing... I’d really like to avoid that..."
 #Benio
 "Besides, what would the doctor gain from killing Kirihara-san or Rokuyou?"
-#Main Character
+#Protagonist
 "You're right..."
 #Benio
 "You should think about it some more."
-#Main Character
+#Protagonist
 "...Do you know of an Akari Misono?"
 #Benio
 "Akari Misono...? She worked here a while back. She was certainly close with the doctor..."
-#Main Character
+#Protagonist
 "...Why did she disappear?"
 #Benio
 "...The 'spiriting away'?"
-#Main Character
+#Protagonist
 "Is that not it?"
 #Benio
 "...I don't know. It’s true she vanished suddenly... but does the doctor have something to do with it?"
-#Main Character
+#Protagonist
 "If the cause of the 'spiriting away' lies with the Nanatsuki family..."
 #Benio
 "...Revenge, then?"
-#Main Character
+#Protagonist
 "It's just a possibility. There's no proof."
 #Benio
 "...I know."
 #Benio
 "Akane is the killer... certainly, that seems the most plausible in the current situation, but..."
-#Main Character
+#Protagonist
 "Yeah..."
-#Main Character
+#Protagonist
 "...Do you know of an Akari Misono?"
 #Benio
 "Akari Misono...? She worked here a while back. She was close to the doctor, so you should try asking him."
-#Main Character
+#Protagonist
 "...Why did she disappear?"
 #Benio
 "...Are you talking about the 'spiriting away'?"
-#Main Character
+#Protagonist
 "Is that not it?"
 #Benio
 "...I don't know. It’s true she vanished suddenly... but does that have anything to do with Akane?"
-#Main Character
+#Protagonist
 "...I heard she was Akane-san's older sister."
 #Benio
 "...I see..."
-#Main Character
+#Protagonist
 "Akane-san said she came here to track her sister down. She seems to have been doing a lot of investigating."
 #Benio
 "...Are you suggesting the cause of the 'spiriting away' lies with the Nanatsuki family?"
-#Main Character
+#Protagonist
 "I don't know that yet. However... I've heard that many people have gone missing over the years."
 #Benio
 "...That was before I was born. But still..."
-#Main Character
+#Protagonist
 "If Akane-san was investigating the Nanatsuki family, she might have seen Souko-san as an obstacle... It's not out of the question."
 #Benio
 "...I know."
 #Benio
 "Is there a reason for Narumi to kill Kirihara-san?"
-#Main Character
+#Protagonist
 "That's the thing... there isn't one..."
 #Benio
 "Please think more clearly."
-#Main Character
+#Protagonist
 "Yeah..."
 Benio-san let out a breath.
 #Benio
 "...Without clear evidence, no amount of thinking is going to matter."
-#Main Character
+#Protagonist
 "I suppose so..."
 #Benio
 "I'm going to think about this on my own for a bit. Not just about Kirihara-san, but going back further."
-#Main Character
+#Protagonist
 "Understood. I'll go back to my room and do the same."
 #Benio
 "Alright. I'll tell everyone to return to their rooms and stay quiet."

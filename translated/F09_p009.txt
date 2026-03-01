@@ -1,40 +1,40 @@
 #Souko
 "Akane-san hasn't been acting particularly strange, but we can't be too careful."
-#Satoshi
+#Protagonist
 "Right..."
 #Maya
 "Akane is a hard worker. She is very attentive to detail."
-#Satoshi
+#Protagonist
 "I see."
 #Ai
 "Akane-san? She's an excellent worker."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "Akane, huh... She's putting up a brave front, but it looks like she's quite exhausted."
-#Satoshi
+#Protagonist
 "True..."
 #Shion
 "Akane-san... she has always been kind to me."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "If you're looking for Mistress Hiyama, she's likely in the dining hall. If not, she's probably back in her room."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Hiyama-kun? Nothing in particular caught my eye."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "...I wonder if Akane-san just wants to know the truth. Or is she looking for something more than that...?"
-#Satoshi
+#Protagonist
 "...I don't know."
 #Akane
 "My injuries are fine now. For now, let's... think about other things instead."
-#Satoshi
+#Protagonist
 "Right..."
 #Narumi
 "What Akane is looking into... might be something that this family wouldn't find very pleasant."
-#Satoshi
+#Protagonist
 "I see..."

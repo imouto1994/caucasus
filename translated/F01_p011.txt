@@ -1,40 +1,40 @@
 #Souko
 "Rokuyou-san? He's a handsome man. He doesn't exactly feel like a man of the sea, though."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "Isamu-san? I believe he is an impeccable match for Shion."
-#Satoshi
+#Protagonist
 "I see."
 #Ai
 "Isamu-san? As a partner for Shion, he's perfect, but..."
-#Satoshi
+#Protagonist
 "I see..."
 #Benio
 "Mr. Rokuyou? He has been visiting us since long ago. I believe he was particularly close with my elder sister..."
-#Satoshi
+#Protagonist
 "I see."
 #Tsujimura
 "Mr. Rokuyou is from a branch of the Nanatsuki family. Apparently, the marriage was decided a long time ago."
-#Satoshi
+#Protagonist
 "I see."
 #Rokuyou
 "About me? I'm not very good at talking about myself."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "Rokuyou-kun? I've heard he's a serious and hardworking man."
-#Satoshi
+#Protagonist
 "I see."
 #Mikanagi
 "About Isamu? He can be a bit too serious at times. Actually, he's terrible at talking to girls, so I used to tease him about it all the time."
-#Satoshi
+#Protagonist
 "I see."
 #Akane
 "Mr. Rokuyou... um, I believe he's in his room."
-#Satoshi
+#Protagonist
 "I see."
 #Narumi
 "Mr. Rokuyou? Hmm... honestly, I don't know him that well."
-#Satoshi
+#Protagonist
 "I see..."

@@ -1,44 +1,44 @@
 #Souko
 "Benio-san? ...Well, I still don't quite have a read on her. It feels like she’s putting on an act, though..."
-#Satoshi
+#Protagonist
 "I see..."
 #Maya
 "Benio? She's a bit peculiar, but she's a good girl."
-#Satoshi
+#Protagonist
 "I see."
 #Ai
 "About Benio? She has her quirks, but she isn't a bad child."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "About me? ...I don't really have much to tell you..."
-#Satoshi
+#Protagonist
 "Is that so?"
 #Benio
 "Yes, well..."
-#Satoshi
+#Protagonist
 "I see..."
 #Tsujimura
 "Lady Benio? ...I have nothing in particular to say on that matter..."
-#Satoshi
+#Protagonist
 "I see..."
 #Rokuyou
 "Benio? She's a very sweet girl. A bit eccentric, perhaps."
-#Satoshi
+#Protagonist
 "...Is that right?"
 #Takamine
 "Benio-kun... well, she is certainly unconventional..."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "Benio-san? She's an interesting one."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Akane
 "Lady Benio? Wouldn't she be in her room?"
-#Satoshi
+#Protagonist
 "Ah... I suppose so."
 #Narumi
 "Lady Benio? ...Well, it's not my place to say anything."
-#Satoshi
+#Protagonist
 "I see..."

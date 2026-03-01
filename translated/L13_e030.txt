@@ -1,20 +1,20 @@
 #Maya
 "…I’m so sorry, I just don’t understand."
-#Satoshi
+#Protagonist
 "I see…"
 #Ai
 "…I’m sorry, I don’t really know."
-#Satoshi
+#Protagonist
 "I see…"
 #Tsujimura
 "I… don’t quite understand it either…"
-#Satoshi
+#Protagonist
 "Is that so…?"
 #Takamine
 "Doesn't make a damn bit of sense to me."
-#Satoshi
+#Protagonist
 "I see…"
 #Narumi
 "I’m a little lost on this one myself."
-#Satoshi
+#Protagonist
 "I see…"

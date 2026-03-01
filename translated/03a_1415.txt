@@ -1,39 +1,39 @@
 I went up the stairs.
 Akane-san went to check on Dr. Mikanagi, so she should be on the north side where my room is.
 It was while I was walking down the corridor.
-#Main Character
+#Protagonist
 "Wait—?"
 A strange noise.
 I turned my gaze toward the sound—the eastern corridor.
 At the end of the hall.
 The door to the performance room was open.
-#Main Character
+#Protagonist
 "—!? Benio-san!?"
 I saw Benio-san collapsed on the floor and immediately started running.
-#Main Character
+#Protagonist
 "Benio-san!"
 #Benio
 "Guh... nnh..."
 The fallen Benio-san grimaced and opened her eyes slightly.
 Thank God—she's alive...
-#Main Character
+#Protagonist
 "A-Are you okay...?"
 #Benio
 "...Of course I'm not okay, you idiot..."
 Benio-san reached for the back of her head.
 #Benio
 "Dammit... feels like I was hit from behind..."
-#Main Character
+#Protagonist
 "Please stay still. I'll go get Dr. Mikanagi—"
 #Benio
 "...Wait."
 Benio-san tugged hard on my sleeve.
-#Main Character
+#Protagonist
 "What is it...?"
 #Benio
 "...It just happened. That bastard might still be around."
 Benio-san whispered through a wince.
-#Main Character
+#Protagonist
 "...Do you know who hit you?"
 I asked while keeping an eye on our surroundings.
 #Benio
@@ -44,14 +44,14 @@ Just a grand piano sitting on the stage.
 #Benio
 "But... take this—"
 Benio-san pressed something into my hand.
-#Main Character
+#Protagonist
 "This is—?"
 #Akane
 "Is something wrong!?"
 Akane-san burst into the room through the open door.
 #Akane
 "Eh... Benio-ojousama!?"
-#Main Character
+#Protagonist
 "Akane-san, go get Dr. Mikanagi!"
 #Akane
 "Y-Yes!"
@@ -61,7 +61,7 @@ She dashed back out through the door she'd just entered.
 Souko-san entered as if taking her place.
 #Souko
 "Benio-san...!?"
-#Main Character
+#Protagonist
 "Souko-san, be careful. The culprit might still be nearby."
 #Souko
 "Was she attacked...?"
@@ -69,12 +69,12 @@ Souko-san entered as if taking her place.
 "Nn... yeah..."
 Benio-san answered sluggishly.
 She seemed to be drifting in and out of consciousness.
-#Main Character
+#Protagonist
 "Stay with us, Benio-san...!"
 #Benio
 "...I'm fine."
 Just then, Akane-san returned with Dr. Mikanagi.
-#Main Character
+#Protagonist
 "Dr. Mikanagi...!"
 #Mikanagi
 "Make some room."
@@ -84,14 +84,14 @@ Dr. Mikanagi knelt beside Benio-san and began his examination.
 He applied an ice pack to the back of Benio-san's head.
 #Souko
 "...Did you see the culprit?"
-#Main Character
+#Protagonist
 "No... I only saw Benio-san right after she fell. I rushed over immediately... but the culprit wasn't there."
 #Souko
 "If they were going to hide—"
 Souko-san looked around and pointed at two doors.
 #Souko
 "There are two rooms you can reach directly from this performance room—the storage room for instruments and the sheet music room."
-#Main Character
+#Protagonist
 "...Could they be inside...?"
 #Souko
 "...Let's check. You take that one."
@@ -103,36 +103,36 @@ I grabbed the doorknob and swallowed hard.
 I checked behind everything just in case, but there was nowhere for a person to hide.
 I went back into the corridor.
 Souko-san emerged from the opposite door at the same time.
-#Main Character
+#Protagonist
 "Not here..."
 #Souko
 "Nothing on this side either. When on earth did they slip away...?"
 Souko-san looked down the hallway.
 Benio-san was still lying in the performance room.
-#Main Character
+#Protagonist
 "...Is it possible they escaped through the window...?"
 I went back inside and approached the window.
 The snow had weakened, so I could just barely see outside.
 #Souko
 "I don't think there was time to open that window and jump."
-#Main Character
+#Protagonist
 "You're right... and if they went out this way, there would be tracks below..."
 #Souko
 "They definitely used one of the adjacent rooms as an escape route. The question is when they slipped out... Do you remember anything?"
-#Main Character
+#Protagonist
 "I wasn't watching the corridor the whole time... Souko-san, did you notice anything from your room?"
 #Souko
 "I only came out because I noticed Akane-san running... other than that, nothing."
-#Main Character
+#Protagonist
 "What about Akane-san?"
 #Akane
 "I was startled by the voice calling for Benio-ojousama... and I came out of the clinic."
 Akane-san looked up at the ceiling, as if trying to recall that moment.
-#Main Character
+#Protagonist
 "...So no one saw anyone leaving this area..."
 #Mikanagi
 "Can I have a moment? I want to take Benio-san to the clinic..."
-#Main Character
+#Protagonist
 "Oh, I'll help."
 Overthinking wasn't going to get us anywhere.
 For now, I should just be glad Benio-san is safe.

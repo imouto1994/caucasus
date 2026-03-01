@@ -11,7 +11,7 @@ I opened the drawers, but they were empty.
 It was as if they had been meticulously organized.
 The drawers are empty.
 I opened the drawer.
-#Main Character
+#Protagonist
 "Wait... a lid?"
 There was another lid-like piece inside the drawer, blocking it.
 There was only a marquetry pattern; no handle was attached.
@@ -24,11 +24,11 @@ The drawer itself also didn't seem to come out of the desk.
 Narumi-san swapped places with me and peered into the drawer.
 #Narumi
 "...I don't see a keyhole, but it seems to be locked. The way to open it... this part where the marquetry is missing looks suspicious."
-#Main Character
+#Protagonist
 "You think so?"
 #Narumi
 "Yeah. This part sinks in slightly. I bet if you fit a matching piece of marquetry into it, it'll unlock."
-#Main Character
+#Protagonist
 "A matching piece..."
 Did I have something like that?
 It seems like it'll fit, but there's still something missing...
@@ -39,47 +39,47 @@ Just a little more and it'll be completely filled...
 Just a little more and it'll be completely filled...
 Will this work...?
 At any rate, it fit perfectly into the missing section.
-#Main Character
+#Protagonist
 "...Alright, I'll try pushing it."
 Holding the fragment in place, I pushed down lightly.
 There was a clicking sound.
-#Main Character
+#Protagonist
 "Ah..."
 Perhaps a spring was involved, as the lid popped up.
 #Narumi
 "...It seems my hunch was correct."
-#Main Character
+#Protagonist
 "...That was thanks to you, Narumi-san. You really are a master thief."
 #Narumi
 "You don't need to say that part."
 A single book was inside the drawer.
-#Main Character
+#Protagonist
 "This is... a music score."
 It was a carefully bound score.
 The cover read, "Dedicated to my dear Marino."
-#Main Character
+#Protagonist
 "Marino...?"
 #Narumi
 "What kind of song is it?"
-#Main Character
+#Protagonist
 "How should I know?"
 #Narumi
 "I can't read music that well either... but this is likely in the Master's own hand. If it's an unpublished piece, it might be valuable."
-#Main Character
+#Protagonist
 "So there's a possibility that *this* is the inheritance..."
 #Narumi
 "I get the feeling it's something different, though..."
-#Main Character
+#Protagonist
 "Wait..."
 No matter how I looked at it, it didn't seem to fit.
 #Narumi
 "We can't spend all our time on this."
-#Main Character
+#Protagonist
 "...I know."
 It's bothering me, but there's nothing I can do about it now.
 How on earth do I get this lid off...?
 I don't think there's anything else left to see.
-#Main Character
+#Protagonist
 "Hmm...?"
 When I opened the drawer, a scrap of paper was inside.
 I wonder what it is...
@@ -90,24 +90,24 @@ I called out to him.
 Call me 'Old Man,' dammit... Hmph... trying to take pity on me when you're just a brat. Well, maybe I'll come by if I feel like it.
 Leaving only those words behind, he vanished.
 Still—those really were some terrible takoyaki. ~The End~
-#Main Character
+#Protagonist
 "...What is this?"
 A scrap of paper titled "A Certain Man's Story - Chapter 10" is inside.
 A beautiful card was peeking out from a gap between the bricks of the wall.
-#Main Character
+#Protagonist
 "What's this...?"
 The card had a "K" written on it.
 I'm a bit curious, so I'll take it with me.
 There's another piece of paper inside.
 "Campaign currently in progress! Collect similar cards and answer the question! This is what the response section on the survey postcard was for!"
-#Main Character
+#Protagonist
 "...What is this?"
 Well, I'm at least a little curious, so I'll hold onto this card.
 There's another piece of paper inside.
 "You've collected all the cards! Now for the question... if you rearrange the letters you've collected, they form a certain word."
 "Translate that word into Japanese in a way that suits this work, and send in your survey postcard!"
 "Deadline is January 11, 2010, postmarked! Ten winners will be chosen by lottery to receive a small gift!"
-#Main Character
+#Protagonist
 "...Sigh."
 I feel like I kind of get it, but I also kind of don't...
 It doesn't seem like the bricks in the wall can be removed.

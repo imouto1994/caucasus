@@ -1,25 +1,25 @@
 I stepped out into the corridor and headed for Souko-san's room first.
 It would be best to talk to Souko-san before anyone else.
-#Main Character
+#Protagonist
 "Souko-san, it's me."
 The door opened and Souko-san appeared.
 #Souko
 "What is it?"
-#Main Character
+#Protagonist
 "It seems Akane-san is missing... do you know anything?"
 #Souko
 "Akane-san...? Since when?"
-#Main Character
+#Protagonist
 "I'm not sure, but at least I haven't seen her this morning."
 #Souko
 "I see... then it's possible she disappeared during the night..."
-#Main Character
+#Protagonist
 "Um... Souko-san, do you think... the killer did something...?"
 #Souko
 "...I wonder. It hasn't been decided yet."
 Souko-san shook her head.
 #Souko
 "Right now, finding her as soon as possible is the most important thing."
-#Main Character
+#Protagonist
 "...Yeah, I know. Well, let me know if anything happens."
 I told Souko-san that and decided to head elsewhere.

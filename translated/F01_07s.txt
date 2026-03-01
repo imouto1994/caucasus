@@ -9,7 +9,7 @@ This box alone seems like it would be quite valuable.
 It's a wooden box with a lock.
 It seems to be a toolbox.
 There are hammers and rusted pliers inside.
-#Satoshi
+#Protagonist
 "Oh, come to think of it..."
 The metal fitting on my bag was a bit loose.
 I'll borrow these pliers to fix it real quick.
@@ -32,7 +32,7 @@ I thought about that while weeping.
 I honestly told him they were disgusting. The man gave a satisfied smile and said this:
 "Well, yeah. I'm still in training, so it's only natural they're bad. Thanks for being honest, mister."
 I felt like I understood this man just a little bit. ~To be continued~
-#Satoshi
+#Protagonist
 "...What the hell is this?"
 A scrap of paper titled "The Tale of a Certain Man - Chapter 9" is inside.
 I try opening the drawer, but nothing unusual is inside.

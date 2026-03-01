@@ -1,45 +1,45 @@
 I returned to the office.
 #Souko
 "Tsujimura-san isn't here, so this will do."
-#Main Character
+#Protagonist
 "What are you going to do now?"
 #Souko
 "...Let's verify the facts regarding Shion-san's case. Was it a murder... or was it Shion-san's suicide—"
-#Main Character
+#Protagonist
 "Yeah..."
 #Souko
 "Well then, first—who do you think is the culprit?"
-#Main Character
+#Protagonist
 "Souko-san... where were you after 2:30?"
 #Souko
 "So you suspect me. Fine... I was in my room. There's no one who can prove it... is that enough?"
-#Main Character
+#Protagonist
 "Yeah... at this hour, no one has an alibi anyway."
 #Souko
 "I suppose that's true. In that case, shouldn't we try attacking it from a different angle?"
-#Main Character
+#Protagonist
 "You're right..."
-#Main Character
+#Protagonist
 "...From 2:00 to 2:30, I was talking with Shion-san."
 #Souko
 "That's right. But because of that, there's a possibility you could be seen as the culprit."
-#Main Character
+#Protagonist
 "I know. But—when I came out, Maya-san was here in this office. She was bringing Shion-san's medicine."
 #Souko
 "...Meaning the possibility that the medicine was poison."
-#Main Character
+#Protagonist
 "Yes. It wouldn't be unreasonable."
 #Souko
 "Right... I think that's the most likely scenario."
-#Main Character
+#Protagonist
 "But... why? Is it because she's an adoptee after all—"
 #Souko
 "More than that, isn't there the reason you went to see Shion-san?"
-#Main Character
+#Protagonist
 "...The murder of Dr. Mikanagi."
 #Souko
 "In my estimation, Dr. Mikanagi was Maya-san's lover. He seemed to visit her room often, so it's not surprising."
-#Main Character
+#Protagonist
 "And so, when Dr. Mikanagi was killed—"
 #Souko
 "It's not just that. Ai-san and Benio-san were killed as well."
@@ -47,125 +47,125 @@ I returned to the office.
 "It's not just that. Benio-san was killed as well."
 #Souko
 "The culprit hasn't been identified, but she might have convinced herself that Shion-san was behind everything."
-#Main Character
+#Protagonist
 "...That's just depressing."
 #Souko
 "True... however, we still need some kind of definitive proof."
-#Main Character
+#Protagonist
 "I suppose so..."
-#Main Character
+#Protagonist
 "...After all, the circumstance of her bringing the medicine is the most suspicious. The cup was left behind too, and if we start from there—"
 #Souko
 "So you think Shion-san's attempted poisoning this morning was indeed a suicide attempt?"
-#Main Character
+#Protagonist
 "Yeah... no matter how hard potassium cyanide is to drink, isn't it more likely she was forced to drink it?"
 #Souko
 "Right... even if forced, it would be difficult for Shion-san, who feels a sense of debt, to refuse..."
-#Main Character
+#Protagonist
 "...Let's go. I think it's almost certain that Maya-san killed Shion-san."
 #Souko
 "Yes, I understand."
-#Main Character
+#Protagonist
 "...Don't you think it was Ai-san?"
 #Souko
 "Ai-san? But she's already dead. I don't see how she could have faked it..."
-#Main Character
+#Protagonist
 "I see..."
 #Souko
 "Ai-san, hmm... and your reason?"
-#Main Character
+#Protagonist
 "Well... I don't really have one..."
 #Souko
 "Then it's no good. You have to be able to present proper evidence."
-#Main Character
+#Protagonist
 "You're right..."
-#Main Character
+#Protagonist
 "What about the possibility of Benio-san...?"
 #Souko
 "That's impossible. She's already dead, and even with the head missing, in that situation, you can't even suspect it was a fake."
-#Main Character
+#Protagonist
 "I see..."
-#Main Character
+#Protagonist
 "...The possibility of Shion-san's suicide still remains."
 #Souko
 "Right... it can't be ruled out entirely. But why?"
-#Main Character
+#Protagonist
 "It might be because I pushed her too hard regarding Dr. Mikanagi's case. Given the circumstances, I didn't think it could be anyone but her..."
 #Souko
 "And so, unable to bear it, she committed suicide... or perhaps she fell into despair after being suspected..."
-#Main Character
+#Protagonist
 "I... I'm no longer sure if Shion-san really killed Dr. Mikanagi."
 #Souko
 "I see..."
-#Main Character
+#Protagonist
 "...Should we just settle on suicide...?"
 #Souko
 "...If no other evidence turns up, I suppose that's how it'll go."
-#Main Character
+#Protagonist
 "...Yeah."
-#Main Character
+#Protagonist
 "Is there a possibility that Tsujimura-san killed her?"
 #Souko
 "...Certainly, Tsujimura-san is always in this office, and he could have gone to Shion-san's place without anyone noticing... but why?"
-#Main Character
+#Protagonist
 "Well... I don't know the reason."
 #Souko
 "You shouldn't suspect someone when there's no reason."
-#Main Character
+#Protagonist
 "...You're right."
-#Main Character
+#Protagonist
 "Maybe Rokuyou-san—"
 #Souko
 "That's not it."
 She denied it flatly.
-#Main Character
+#Protagonist
 "T-True..."
-#Main Character
+#Protagonist
 "Is there a possibility of Takamine-san?"
 #Souko
 "Takamine-san, huh... he doesn't really fit the image of a poisoner..."
-#Main Character
+#Protagonist
 "Still, he's a lawyer, so he must have some education."
 #Souko
 "Knowledge of the law and knowledge of drugs are entirely different things. Besides, I see absolutely no reason for him to kill Shion-san."
-#Main Character
+#Protagonist
 "I-I see..."
-#Main Character
+#Protagonist
 "What about the possibility that Dr. Mikanagi planted the poison? If he set it up in advance, he could kill the target without doing anything himself..."
 #Souko
 "If it's just the possibility, it wouldn't be strange. But... Dr. Mikanagi has already been killed, you know?"
-#Main Character
+#Protagonist
 "That's why I'm saying he set it up before he was killed. That way... it's possible to carry it out even after death."
 #Souko
 "Then what's the reason for killing Shion-san? There's absolutely nothing. Surely you aren't thinking that he predicted his own murder?"
-#Main Character
+#Protagonist
 "Of... of course not..."
-#Main Character
+#Protagonist
 "What about... Akane-san?"
 #Souko
 "I wonder. I don't see any reason for her to kill Shion-san..."
-#Main Character
+#Protagonist
 "Akane-san seemed to be in love with Dr. Mikanagi. So... couldn't it be that she carried out her revenge?"
 #Souko
 "In this short amount of time? I think that's a bit of a stretch."
-#Main Character
+#Protagonist
 "I see..."
-#Main Character
+#Protagonist
 "Is there a possibility it was Narumi-san?"
 #Souko
 "...I wonder. There doesn't seem to be a motive. Though there might be things we don't know."
-#Main Character
+#Protagonist
 "I'm not really sure..."
 #Souko
 "...We can't really narrow it down at this stage, can we?"
 Souko-san muttered with a sigh.
-#Main Character
+#Protagonist
 "What do we do now...?"
 #Souko
 "Right... dawn is almost here, so let's just stay quiet for a while. Once the people from below arrive, we can have them call the police."
-#Main Character
+#Protagonist
 "You're right... then I'll head back to my room for now."
 #Souko
 "Yeah. ...Make sure you lock the door."
-#Main Character
+#Protagonist
 "I know."

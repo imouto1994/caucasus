@@ -1,40 +1,40 @@
 #Souko
 "Takamine-san? He's quite a stern man, isn't he? He doesn't seem like a lawyer at all."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Maya
 "Attorney Takamine's father was also the Nanatsuki family's legal counsel. He is very dedicated to his work."
-#Satoshi
+#Protagonist
 "I see..."
 #Ai
 "Mr. Takamine has apparently been coming here since he was small, brought along by his father."
-#Satoshi
+#Protagonist
 "Is that so?"
 #Benio
 "Mr. Takamine? He is a man of few words... and the burn scars on his face look quite painful."
-#Satoshi
+#Protagonist
 "They do..."
 #Tsujimura
 "Mr. Takamine. He is here to witness the wedding today. As a lawyer, he's necessary for the contract signing."
-#Satoshi
+#Protagonist
 "I see."
 #Rokuyou
 "Takamine-san? I hear his family has been legal counsel for the Nanatsuki for generations, but I haven't talked to him much."
-#Satoshi
+#Protagonist
 "I see."
 #Takamine
 "……I have nothing to say."
-#Satoshi
+#Protagonist
 "Y-You're right..."
 #Mikanagi
 "About Mr. Takamine? Just like me, his father seems to have been involved with this family."
-#Satoshi
+#Protagonist
 "I see."
 #Akane
 "Mr. Takamine? I believe he would be in his room, but..."
-#Satoshi
+#Protagonist
 "I see."
 #Narumi
 "Takamine-san? ...He has a scary face, doesn't he? To think a guy like that is a lawyer... you just never know with this world."
-#Satoshi
+#Protagonist
 "I-I suppose so..."

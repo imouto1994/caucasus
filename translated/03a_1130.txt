@@ -1,16 +1,16 @@
 When I stepped into the corridor, Tsujimura-san was coming out of Akane-san’s room, which was directly opposite.
-#Main Character
+#Protagonist
 "Tsujimura-san, how is Akane-san?"
 #Tsujimura
 "...I don't think there's any cause for concern. But..."
 Tsujimura-san looked at the mangled kitchen door.
 #Tsujimura
 "Why did such an explosion..."
-#Main Character
+#Protagonist
 "Souko-san thinks it might have been a gas explosion."
 #Tsujimura
 "Was there a gas leak...?"
-#Main Character
+#Protagonist
 "...Or someone intentionally opened the gas valve."
 In this case, "someone" obviously meant the culprit.
 #Tsujimura
@@ -18,10 +18,10 @@ In this case, "someone" obviously meant the culprit.
 Tsujimura-san walked off sluggishly.
 He looks exhausted...
 I pulled myself together and knocked on Akane-san’s door.
-#Main Character
+#Protagonist
 "Excuse me."
 Inside the room, Akane-san was being treated by Dr. Mikanagi.
-#Main Character
+#Protagonist
 "Akane-san, are you okay?"
 #Akane
 "Yes. It was a bit hot, but I'm okay."
@@ -31,7 +31,7 @@ Akane-san moved her hand, which had ointment applied to it.
 #Akane
 "Ye... yes!"
 Akane-san stopped moving immediately.
-#Main Character
+#Protagonist
 "What on earth happened...?"
 #Akane
 "Um... I was about to go into the kitchen and put my hand on the door... then there was a zap... and the door went boom..."
@@ -41,7 +41,7 @@ Whether it was because she was shaken or if she was always like this, Akane-san 
 #Akane
 "Ah... y-yes, I think so."
 Akane-san nodded at Dr. Mikanagi's words.
-#Main Character
+#Protagonist
 "Did a spark from static electricity ignite the gas...?"
 #Mikanagi
 "Static electricity is common in winter, so that might be it."
@@ -53,68 +53,68 @@ Dr. Mikanagi stood up and placed his hand on Akane-san’s shoulder.
 #Mikanagi
 "Well then, I'll leave the rest to you."
 Dr. Mikanagi left the room.
-#Main Character
+#Protagonist
 "Um..."
 I looked at Akane-san.
 Akane-san was staring blankly at the door Dr. Mikanagi had left through.
-#Main Character
+#Protagonist
 "...Akane-san?"
 She didn't respond at all.
-#Main Character
+#Protagonist
 "Um, Akane-san... is your head okay?"
 #Akane
 "—!? That's mean! I might be an idiot, but you don't have to worry about me *that* much, do you!?"
-#Main Character
+#Protagonist
 "No, that's not it! I heard you hit your head in the explosion...!"
 I hurriedly tried to explain.
 Well, I suppose it was my fault for putting it in a way that could be misunderstood.
 #Akane
 "Whoa...! Please forget what I just said!"
 Akane-san waved her hands around and lunged at me.
-#Main Character
+#Protagonist
 "Akane-san, didn't Dr. Mikanagi tell you to rest?"
 #Akane
 "Ah..."
-#Main Character
+#Protagonist
 "See... your bandage is coming undone."
 I took Akane-san’s hand and began re-wrapping the bandage.
 Her skin, which I caught a glimpse of, was a bit red, but it didn't look like a major burn.
 #Akane
 "S-Sorry... to make you do even this..."
-#Main Character
+#Protagonist
 "It's fine."
 Her hand was trembling slightly while I re-wrapped the bandage.
-#Main Character
+#Protagonist
 "...Are you okay?"
 #Akane
 "Eh, yes..."
 ...She must be scared, after all.
 I haven't told Akane-san yet that this accident might have been intentional... but it's no wonder she's anxious.
-#Main Character
+#Protagonist
 "I'm going to go check on the kitchen, so I'll call Narumi-san to come and look after you."
 #Akane
 "Ah, okay."
 Akane-san nodded.
-#Main Character
+#Protagonist
 "See you later, then."
 #Akane
 "Yes, thank you very much."
 With Akane-san seeing me off, I left her room.
 #Akane
 "Um... it really wasn't just an accident, was it...?"
-#Main Character
+#Protagonist
 "...I don't know yet. Souko-san is looking into it now..."
 #Akane
 "Was I... being targeted...?"
-#Main Character
+#Protagonist
 "...I don't know that either. After all, there's no reason for the culprit to target you, is there?"
 #Akane
 "Yes... I suppose so... but..."
-#Main Character
+#Protagonist
 "Akane-san..."
 I gently squeezed her hand over the re-wrapped bandage.
 #Akane
 "Ah..."
-#Main Character
+#Protagonist
 "It's okay. I'll protect you, Akane-san."
 With that, I gently embraced her.

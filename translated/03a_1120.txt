@@ -1,5 +1,5 @@
 When I came down the stairs, I heard loud voices coming from the dining room.
-#Main Character
+#Protagonist
 "Sounds like it's over there."
 #Souko
 "I wonder what happened..."
@@ -7,30 +7,30 @@ As soon as we stepped into the eastern corridor, the smell of burning hit my nos
 #Souko
 "What... is this?"
 Souko-san muttered, covering her mouth.
-#Main Character
+#Protagonist
 "Narumi-san, what happened?"
 I called out to Narumi-san, who was in front of the kitchen.
 #Narumi
 "It seems... something suddenly exploded in the kitchen... and Akane..."
-#Main Character
+#Protagonist
 "Akane-san!?"
 I hurriedly peered into the kitchen.
-#Main Character
+#Protagonist
 "Ugh..."
 The inside of the kitchen was a total mess.
 Scorched marks were everywhere, and large shelves and cooking tables had been knocked over.
 #Souko
 "This smell... was it a gas explosion...?"
 Souko-san muttered as she saw the scene.
-#Main Character
+#Protagonist
 "More importantly, where is Akane-san!?"
 #Narumi
 "Calm down. She wouldn't be okay if she were in here, would she?"
-#Main Character
+#Protagonist
 "Eh... is she safe...?"
 #Narumi
 "Tsujimura-san is looking at her in her room now. It seems like just minor burns and she hit her head."
-#Main Character
+#Protagonist
 "I... I see..."
 Thank goodness...
 If she had been caught in an explosion like this, she wouldn't have escaped unharmed.
@@ -55,7 +55,7 @@ Dr. Mikanagi frowned as he entered the kitchen.
 #Mikanagi
 "A-Ah, right..."
 Dr. Mikanagi left.
-#Main Character
+#Protagonist
 "I'll go check on her too."
 #Souko
 "Right. I'll stay here and look around a bit."

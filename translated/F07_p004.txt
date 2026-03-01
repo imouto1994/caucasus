@@ -1,72 +1,72 @@
 #Souko
 "If you're looking for Benio-san, she should be in the infirmary... but her life isn't in danger, so you can relax."
-#Satoshi
+#Protagonist
 "I see..."
 #Souko
 "To think even Benio-san would be murdered... the pool of victims and suspects is finally starting to narrow down..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Maya
 "As for Benio... I don't want her getting involved in anything dangerous..."
-#Satoshi
+#Protagonist
 "...I see."
 #Maya
 "Why Benio too...? That's why I told her to stop this dangerous business..."
-#Satoshi
+#Protagonist
 "Maya-san..."
 #Ai
 "...As I feared, Benio was targeted as well... Why did it come to this..."
-#Satoshi
+#Protagonist
 "I don't know..."
 #Ai
 "Ah... Benio...! Why, why did you have to die...!!"
-#Satoshi
+#Protagonist
 "Ai-san..."
 #Shion
 "Lady Benio... is she going to be all right...?"
-#Satoshi
+#Protagonist
 "She's just resting as a precaution for now. There's no need to worry."
 #Shion
 "Lady Benio... why...?"
-#Satoshi
+#Protagonist
 "Shion-san..."
 #Tsujimura
 "...At any rate, I am relieved that Lady Benio is safe."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Tsujimura
 "With Lady Benio gone as well... what will become of us now...?"
-#Satoshi
+#Protagonist
 "...I don't know."
 #Takamine
 "So Benio-kun pulled through... but we can't let our guard down just yet."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Takamine
 "Even Benio-kun was killed... Hurry up and drag the killer out."
-#Satoshi
+#Protagonist
 "Y-Yeah..."
 #Mikanagi
 "I'm having Benio-san rest in the infirmary for now."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "To think Benio-san would be murdered too... I don't want to think it's over an inheritance dispute, but..."
-#Satoshi
+#Protagonist
 "Yeah..."
 #Akane
 "Lady Benio is resting in the infirmary."
-#Satoshi
+#Protagonist
 "I see..."
 #Akane
 "Lady Benio... why did she have to be murdered...?"
-#Satoshi
+#Protagonist
 "Akane-san..."
 #Narumi
 "The person who attacked Lady Benio, huh... it'd be best to ask the Lady herself, but..."
-#Satoshi
+#Protagonist
 "True..."
 #Narumi
 "...With Lady Benio murdered as well, have you grasped the killer's intent even a little?"
-#Satoshi
+#Protagonist
 "No... not yet."

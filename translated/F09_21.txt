@@ -3,20 +3,20 @@ I wonder if she's in her room.
 I knock on the door.
 #Benio
 "Yes... Oh, it's you."
-#Satoshi
+#Protagonist
 "Hello, Benio-san. Do you have a moment?"
 #Benio
 "I don't mind. Come in."
 Benio-san invited me into her room.
 #Benio
 "So, what do you want?"
-#Satoshi
+#Protagonist
 "Uh, well..."
 I've come to Benio-san's room on the second floor.
 I knock and wait for a while.
 #Benio
 "Who is it... Oh, you again."
-#Satoshi
+#Protagonist
 "Hello, Benio-san. Do you have a moment?"
 #Benio
 "Well, I don't mind."
@@ -24,18 +24,18 @@ Benio-san invited me into her room.
 #Benio
 "So, what do you want?"
 Benio-san asks, her posture straightening.
-#Satoshi
+#Protagonist
 "Uh, well..."
 I've come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-#Satoshi
+#Protagonist
 "Oh..."
 No matter how long I wait, there's no response.
 I wonder if she's gone somewhere else.
 I decided to move to another location too.
 I've come to Benio-san's room on the second floor.
 I don't have any business here anymore, but...
-#Satoshi
+#Protagonist
 "...I'll go somewhere else."
 I offered a silent prayer toward the door for a moment before moving on.

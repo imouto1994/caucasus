@@ -1,58 +1,58 @@
-#Main Character
+#Protagonist
 "Souko-san!!"
 I burst into the eastern corridor, shouting at the top of my lungs.
 #Souko
 "...I can hear you."
 Souko-san stepped out of her room.
-#Main Character
+#Protagonist
 "Ah... Souko-san, what happened?"
 #Souko
 "See for yourself."
 Looking a bit weary, she beckoned me to look inside.
-#Main Character
+#Protagonist
 "Whoa..."
 The walls were stained with bright red paint.
 It looked like words were written there.
 #Souko
 "It looks like a warning."
-#Main Character
+#Protagonist
 "Is this... blood?"
 #Souko
 "It appears so. I wonder when they managed to do this..."
 Souko-san crossed her arms and let out a sigh.
-#Main Character
+#Protagonist
 "Weren't you in your room?"
 #Souko
 "I’ve been downstairs since about 6:00. Narumi-san found my door open and let me know..."
-#Main Character
+#Protagonist
 "So someone must have slipped in while you were out..."
 #Souko
 "I’m sure I locked the door when I left, but..."
 Souko-san tilted her head.
-#Main Character
+#Protagonist
 "Who on earth would do something like this..."
 #Souko
 "It’s a message telling us not to meddle too much, I suppose. But for now..."
 Souko-san let out a massive sigh.
 #Souko
 "The bigger problem is that I won't be able to sleep in this room."
-#Main Character
+#Protagonist
 "There are empty rooms available, so shouldn't we ask if you can move to one of them?"
 #Souko
 "I already asked Narumi-san to take care of it, so that’s not an issue, but..."
-#Main Character
+#Protagonist
 "Something else?"
 #Souko
 "...The culprit must be quite desperate."
-#Main Character
+#Protagonist
 "Desperate?"
 #Souko
 "Don't you think? Going out of their way to pull a threat like this. It’s a clear sign telling us not to dig any deeper."
-#Main Character
+#Protagonist
 "Don't tell me... are you being targeted, Souko-san?"
 #Souko
 "I don't think so. The culprit likely doesn't have that much room to breathe."
-#Main Character
+#Protagonist
 "Still... please be careful, okay?"
 #Souko
 "I know. ...Thanks for worrying about me."
@@ -61,7 +61,7 @@ Tsujimura-san entered the room.
 "Kirihara-sama, a new room has been prepared. Please follow me."
 #Souko
 "Yes, thank you. Take care of my luggage, please."
-#Main Character
+#Protagonist
 "Me?"
 Well, I suppose there isn't anyone else.
 #Souko
@@ -70,7 +70,7 @@ I picked up Souko-san’s luggage from the corner and left the room.
 We walked down the corridor, following Tsujimura-san.
 #Tsujimura
 "There is an empty room on the west side. Please use that one."
-#Main Character
+#Protagonist
 "Is it across from Benio-san’s room?"
 #Tsujimura
 "Yes, that’s correct."

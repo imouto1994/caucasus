@@ -1,37 +1,37 @@
 When I returned to the hall with Narumi-san, Benio-san and Souko-san were there.
-#Main Character
+#Protagonist
 "How was it...?"
 #Benio
 "No good. I asked Mother and Shion too, but she's nowhere to be found."
 Benio-san shook her head.
 #Souko
 "She might not even be inside the building..."
-#Main Character
+#Protagonist
 "But to go out in this snow..."
 I asked the opposite of what I’d told Tsujimura-san.
 I wanted Souko-san to solve that doubt.
 #Souko
 "...Right. It's usually unthinkable, but... given the abnormal situation... I can't say the possibility is zero."
-#Main Character
+#Protagonist
 "No way... then we have to go out and search for her right now..."
 #Souko
 "It's reckless. If she went out during the night, she's already far away. Besides, we can't risk a secondary accident."
-#Main Character
+#Protagonist
 "Then are you telling me to just give up!?"
 #Souko
 "That's not it. ...Right now, we just have to believe."
-#Main Character
+#Protagonist
 "That might be true, but...!"
 #Benio
 "Calm down, you idiot."
 Benio-san grabbed my arm.
 #Benio
 "It hasn't been decided that she went outside yet."
-#Main Character
+#Protagonist
 "But... then why can't we find her no matter how much we search?"
 #Benio
 "Either she's hiding of her own will—or she's being hidden by someone else's will."
-#Main Character
+#Protagonist
 "Being hidden...?"
 #Benio
 "...The possibility that she's already been killed."
@@ -46,7 +46,7 @@ Souko-san nodded at Benio-san's words.
 "Did she see something? For example, the killer's actions..."
 #Benio
 "Hmm..."
-#Main Character
+#Protagonist
 "Um... is there no possibility that Akane-san is the killer?"
 I blurted it out before I could think.
 #Souko
@@ -61,7 +61,7 @@ With that, Benio-san directed the conversation to Narumi-san, who had been silen
 #Benio
 "I suppose so..."
 Souko-san and Benio-san nodded to each other.
-#Main Character
+#Protagonist
 "So all we can do is watch things play out...?"
 #Souko
 "...That seems to be it."

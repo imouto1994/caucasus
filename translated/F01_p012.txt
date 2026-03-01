@@ -1,40 +1,40 @@
 #Souko
 "About the late Mr. Kousei? He was a famous musician. I know a few of his songs myself."
-#Satoshi
+#Protagonist
 "I see."
 #Maya
 "My husband was a great composer. He was the one who built the performance room in this manor, after all."
-#Satoshi
+#Protagonist
 "Is that so..."
 #Ai
 "Father? He was a kind man. When I was small, he often read books to me."
-#Satoshi
+#Protagonist
 "I see."
 #Benio
 "My father? He was kind to everyone."
-#Satoshi
+#Protagonist
 "I see."
 #Tsujimura
 "The Master... he was my elder brother, and he hired me here when I had nowhere else to go. I am very grateful to him."
-#Satoshi
+#Protagonist
 "I see..."
 #Rokuyou
 "Kousei-san? He was a famous composer, so I'm sure he had his own hidden troubles... dying the way he did."
-#Satoshi
+#Protagonist
 "I see..."
 #Takamine
 "My father was Mr. Kousei's legal counsel. He seems to have made quite a fortune from his compositions."
-#Satoshi
+#Protagonist
 "I see..."
 #Mikanagi
 "My father was Mr. Kousei's family doctor. That's why I'm here now, following in his footsteps."
-#Satoshi
+#Protagonist
 "I see."
 #Akane
 "The Master? I didn't know him well, but I've heard he was a very good person."
-#Satoshi
+#Protagonist
 "I see..."
 #Narumi
 "The Master? I never met him directly, so I wouldn't know."
-#Satoshi
+#Protagonist
 "I see..."

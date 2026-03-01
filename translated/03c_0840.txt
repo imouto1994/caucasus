@@ -1,36 +1,36 @@
 After parting with Benio-san, I went down the stairs.
 Should I consult with Tsujimura-san as well...?
-#Main Character
+#Protagonist
 "Tsujimura-san."
 I called out to Tsujimura-san, who was at his desk.
 #Tsujimura
 "Oh, is something the matter?"
-#Main Character
+#Protagonist
 "Did you see Akane-san? She's reportedly nowhere to be found this morning..."
 #Tsujimura
 "Hiyama-san? ...Now that you mention it, I haven't seen her..."
-#Main Character
+#Protagonist
 "...It's possible she disappeared during the night."
 #Tsujimura
 "What... what does that mean?"
-#Main Character
+#Protagonist
 "...I don't want to think about it too much, but she might have been caught by the killer, or..."
 Another possibility occurred to me, and I trailed off.
 #Tsujimura
 "Or... what?"
-#Main Character
+#Protagonist
 "Or... she fled from this mansion."
 #Tsujimura
 "Fled...? But with this snow, she wouldn't be able to go anywhere..."
-#Main Character
+#Protagonist
 "...Yesterday, when we went to see the suspension bridge, Takamine-san said it. If there was no snow, you could climb down to the stream and walk..."
 #Tsujimura
 "...It's not impossible. However, in this blizzard over the last few days, one would surely meet with an accident..."
-#Main Character
+#Protagonist
 "Layering inference upon inference might be meaningless, but if she did go outside, why would she have to go that far...?"
 #Tsujimura
 "To call the police... or maybe..."
-#Main Character
+#Protagonist
 "Or what?"
 This time, I was the one asking.
 #Tsujimura
@@ -44,7 +44,7 @@ That's why he trailed off.
 If it hadn't been for last night, I wouldn't have even considered it.
 Akane-san, who was doing something in the study.
 Dr. Mikanagi said he didn't think she was doing anything wrong, but—in this situation, I might have no choice but to suspect her.
-#Main Character
+#Protagonist
 "...First, I'll search every corner of the mansion."
 #Tsujimura
 "Yes... that would be for the best..."

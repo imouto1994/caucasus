@@ -1,24 +1,24 @@
-#Satoshi
+#Protagonist
 "Hello, Mikanagi-sensei."
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
 #Mikanagi
 "Ah, what is it?"
-#Satoshi
+#Protagonist
 "Um... could I have a moment of your time?"
 #Mikanagi
 "I don't mind."
 Now then, what should I do?
-#Satoshi
+#Protagonist
 "Excuse me."
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
 #Mikanagi
 "Oh, what is it this time?"
-#Satoshi
+#Protagonist
 "Could I have a moment of your time?"
 #Mikanagi
 "Yes, go ahead."
 Now then, what should I do?
-#Satoshi
+#Protagonist
 "Excuse me."
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 I wonder if he's back in his room.

@@ -1,19 +1,19 @@
 The very back of the first floor north.
 The door to the chapel was firmly locked.
-#Main Character
+#Protagonist
 "Narumi-san, if you would."
 #Narumi
 "...Yeah, yeah."
 Narumi-san took out something like a wire and inserted it into the keyhole.
 #Narumi
 "Keep a lookout and make sure no one comes."
-#Main Character
+#Protagonist
 "Don't worry."
 As long as Takamine-san doesn't suddenly walk out of his room.
 #Narumi
 "It's open."
 Narumi-san stood up.
-#Main Character
+#Protagonist
 "...That was fast."
 #Narumi
 "Just get inside, quickly."
@@ -22,20 +22,20 @@ Nothing has changed here.
 It seems to always maintain its silence.
 #Narumi
 "We don't have time to just stand around."
-#Main Character
+#Protagonist
 "Right... first, the fireplace—"
 I looked around the room, and only then did I realize.
-#Main Character
+#Protagonist
 "There isn't one... a fireplace."
 #Narumi
 "...You're right. I guess this wasn't what the code was pointing to."
-#Main Character
+#Protagonist
 "Then is it... somewhere in the guest rooms after all?"
 #Narumi
 "Maybe we misread the code."
-#Main Character
+#Protagonist
 "I'm certain there's something in one of the fireplaces, so shall we just check them all?"
 #Narumi
 "Even if we do... we'll have to aim for places where there aren't any people."
-#Main Character
+#Protagonist
 "Right... let's go."
