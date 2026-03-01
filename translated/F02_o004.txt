@@ -22,7 +22,7 @@
 "Kousei-shi's room is sealed off from everyone. It’s a place that has nothing to do with you people."
 #Protagonist
 "Y-you're right..."
-#御巫
+#Mikanagi
 "I don't know much about that room myself. It belonged to the previous head of the house, apparently... but I doubt you'll get a look inside."
 #Protagonist
 "I see..."

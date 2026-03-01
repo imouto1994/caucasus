@@ -22,7 +22,7 @@
 "My father was Kousei-shi's legal advisor. He seems to have made quite a fortune from his compositions."
 #Protagonist
 "I see..."
-#御巫
+#Mikanagi
 "My father was Kousei-san's personal physician. That's why I'm here now."
 #Protagonist
 "I see."

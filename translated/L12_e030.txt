@@ -1,28 +1,28 @@
-＃Souko
+#Souko
 "…I wonder if the way only the flower heads have fallen is meant to be a metaphor for the headless corpse…"
-＃Satoshi
+#Satoshi
 "That might be it…"
-＃Maya
+#Maya
 "…I’m so sorry, I just don’t understand."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Ai
+#Ai
 "…I’m sorry, I don’t really know."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Tsujimura
+#Tsujimura
 "I… don’t quite understand it either…"
-＃Satoshi
+#Satoshi
 "Is that so…?"
-＃Takamine
+#Takamine
 "Doesn't make a damn bit of sense to me."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Akane
+#Akane
 "I’m sorry… I don’t really understand."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Narumi
+#Narumi
 "I’m a little lost on this one myself."
-＃Satoshi
+#Satoshi
 "I see…"

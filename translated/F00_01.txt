@@ -1,5 +1,5 @@
 I’ve arrived at the entrance.
-＃Narumi
+#Narumi
 "There isn't a fireplace here."
-＃Protagonist
+#Protagonist
 "You're right... let's try somewhere else."

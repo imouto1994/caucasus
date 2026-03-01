@@ -22,7 +22,7 @@
 "A song, eh...? Someone must be singing, then."
 #Protagonist
 "Right."
-#御巫
+#Mikanagi
 "A song, you say... It’s probably Shion-san."
 #Protagonist
 "I see..."

@@ -1,28 +1,28 @@
-＃Souko
+#Souko
 "I wonder why Mikanagi-sensei was killed? He didn't have a direct connection to the Nanatsuki family… there must be some other reason for it…"
-＃Satoshi
+#Satoshi
 "That might be the case…"
-＃Maya
+#Maya
 "Now that Mikanagi-sensei is gone… what are we supposed to do from here on…?"
-＃Satoshi
+#Satoshi
 "…Please, try not to lose heart."
-＃Ai
+#Ai
 "Not Mikanagi-sensei too… why…?"
-＃Satoshi
+#Satoshi
 "Ai-san…"
-＃Tsujimura
+#Tsujimura
 "To think that even Mikanagi-sensei would pass away… whatever shall we do now…?"
-＃Satoshi
+#Satoshi
 "You’re right…"
-＃Takamine
+#Takamine
 "…I haven't the slightest clue as to why he was killed. Should we assume this has nothing to do with the inheritance dispute…?"
-＃Satoshi
+#Satoshi
 "Who knows…"
-＃Akane
+#Akane
 "Mikanagi-sensei… why…!"
-＃Satoshi
+#Satoshi
 "Akane-san…"
-＃Narumi
+#Narumi
 "…With Mikanagi-sensei dead, there won’t be anyone to help us if something happens. Maybe that’s what the killer is after…"
-＃Satoshi
+#Satoshi
 "That’s a possibility…"

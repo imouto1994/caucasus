@@ -22,7 +22,7 @@
 "Benio-kun, eh...? Well, she is peculiar, to say the least..."
 #Protagonist
 "I see..."
-#御巫
+#Mikanagi
 "Benio-san? She’s an interesting girl."
 #Protagonist
 "Is that so..."

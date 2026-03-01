@@ -1,14 +1,14 @@
 This is Mikanagi-sensei's room.
 I give the door a light knock.
-#御巫
+#Mikanagi
 "Ah... it's you. Good morning."
 #Protagonist
 "Good morning, Mikanagi-sensei. Do you have a moment?"
-#御巫
+#Mikanagi
 "I’m sorry... but if you have business, could we do it later in the infirmary? I'm still sleepy."
 #Protagonist
 "Oh... sorry about that. I'll see you later then."
-#御巫
+#Mikanagi
 "Yes, please do."
 Mikanagi-sensei looked incredibly sleepy.
 Maybe he's just not a morning person.

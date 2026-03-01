@@ -26,7 +26,7 @@
 "About Ai-kun? She’s been a quiet girl since she was small, but..."
 #Protagonist
 "I see."
-#御巫
+#Mikanagi
 "Ai-san, eh...? She occasionally has moments where her emotions are quite volatile."
 #Protagonist
 "Is that so..."

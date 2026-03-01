@@ -1,28 +1,28 @@
-＃Souko
+#Souko
 "Ai-san, huh…? She was in her room, wasn't she? It seems like a bit of a stretch to make her the culprit in Mikanagi-sensei’s murder."
-＃Satoshi
+#Satoshi
 "You’re right…"
-＃Maya
+#Maya
 "I wouldn't know, I was resting in my room as well."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Ai
+#Ai
 "I was in my room the whole time…"
-＃Satoshi
+#Satoshi
 "I see…"
-＃Tsujimura
+#Tsujimura
 "I believe she was in her room… but I haven't confirmed it."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Takamine
+#Takamine
 "I wouldn’t know what was happening outside my room."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Akane
+#Akane
 "Perhaps she was in her room…?"
-＃Satoshi
+#Satoshi
 "I see."
-＃Narumi
+#Narumi
 "…At the very least, Lady Ai didn’t leave her room while I was out here in the hallway."
-＃Satoshi
+#Satoshi
 "…I see."

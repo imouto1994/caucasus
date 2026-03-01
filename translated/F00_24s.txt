@@ -4,27 +4,27 @@ If there were a key in a place like this, it would probably throw off the piano'
 I don't see anything that looks like a key.
 I stare at the piano keys.
 No particularly strange sounds come out.
-＃Protagonist
+#Protagonist
 "...The keyhole in the fireplace was small, wasn't it?"
-＃Narumi
+#Narumi
 "Well, yes..."
-＃Protagonist
+#Protagonist
 "...Doesn't it look like a key could fit inside one of these piano keys?"
-＃Narumi
+#Narumi
 "Inside the keys...?"
-＃Protagonist
+#Protagonist
 "I think if we hollowed out one of the white keys, it might just work..."
-＃Narumi
+#Narumi
 "If you have a reason for it, I suppose it's worth checking..."
-＃Protagonist
+#Protagonist
 "If '1SO' refers to the music room... then I think 'K' stands for the piano, and 'H5' might be the key itself."
-＃Narumi
+#Narumi
 "...I believe the German word for piano was 'Klavier,' wasn't it?"
-＃Protagonist
+#Protagonist
 "Now all that's left is the location of 'H5'..."
-＃Narumi
+#Narumi
 "You can't just go tearing the whole thing apart, you know?"
-＃Protagonist
+#Protagonist
 "I know. Let's do this carefully."
 Outside is a wall of white; I can't see a thing.
 I wonder when this blizzard will finally let up...

@@ -22,7 +22,7 @@
 "Minakami-kun... I don't know her well. The food isn't bad, though..."
 #Protagonist
 "I see."
-#御巫
+#Mikanagi
 "Narumi-san? Her cooking is delicious. As for anything else... I really wouldn't know."
 #Protagonist
 "I see..."

@@ -1,28 +1,28 @@
-＃Souko
+#Souko
 "Akane-san… she seemed to have feelings for Mikanagi-sensei, but I don’t think that would instantly turn into murderous intent."
-＃Satoshi
+#Satoshi
 "True…"
-＃Maya
+#Maya
 "I wouldn't know, I was resting in my room as well."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Ai
+#Ai
 "I’m not sure… I was in my room the entire time."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Tsujimura
+#Tsujimura
 "I believe she was in her room… but I haven't confirmed it."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Takamine
+#Takamine
 "I wouldn’t know what was happening outside my room."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Akane
+#Akane
 "I was in my own room, but…"
-＃Satoshi
+#Satoshi
 "I see…"
-＃Narumi
+#Narumi
 "…It seemed like Akane was interested in Mikanagi-sensei… so I’m sure it was a real shock for her."
-＃Satoshi
+#Satoshi
 "I agree…"

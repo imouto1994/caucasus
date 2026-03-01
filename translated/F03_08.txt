@@ -55,11 +55,11 @@ Souko-san and Narumi-san were in the dining hall.
 "Oh, what's wrong?"
 #Protagonist
 "No, well, I don't really have any particular business."
-#なるみ
+#Narumi
 "Do you want something to eat?"
 #Protagonist
 "I can wait a little longer."
-#なるみ
+#Narumi
 "I see. I'm planning to have lunch ready a bit after one."
 #Protagonist
 "Understood."
@@ -168,7 +168,7 @@ Souko-san and Narumi-san were in the dining hall.
 "Souko-san, have you seen Ai-san?"
 #Souko
 "Ai-san...? No, I haven't."
-#なるみ
+#Narumi
 "She hasn't come here either."
 #Akane
 "I see..."
@@ -180,7 +180,7 @@ Souko-san and Narumi-san were in the dining hall.
 "Oh, are you still looking?"
 #Akane
 "Yes..."
-#なるみ
+#Narumi
 "Lady Ai, huh..."
 #Protagonist
 "...We'll try somewhere else."

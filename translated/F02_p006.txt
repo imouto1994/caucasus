@@ -22,7 +22,7 @@
 "About Tsujimura-san? I hear he’s the younger brother of the previous head and now acts as the manager here."
 #Protagonist
 "I see."
-#御巫
+#Mikanagi
 "Tsujimura-san is the one handling all the clerical work for the Nanatsuki family. You could even call him a butler."
 #Protagonist
 "I see."

@@ -2,9 +2,9 @@ I’ve searched all over, but I can't find anything that looks like a key.
 The fire in the hearth has been extinguished.
 There should be no problem investigating it.
 I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
-＃Protagonist
+#Protagonist
 "...Doesn't look like it's here."
-＃Narumi
+#Narumi
 "So it seems. Let's search elsewhere."
 It appears that this is not the place.
 There is another door further inside, separate from the one we entered through.
@@ -24,7 +24,7 @@ The front of the envelope has 'To Lady Benio' written on it in messy handwriting
 What is this...? It looks like a letter...
 Feeling a bit guilty, I pull out the stationery from inside.
 'Takoyaki fortune result: Helping people will bring you good things. Your lucky item is a "Carriage." You were a real help to me, kid. See ya.'
-＃Protagonist
+#Protagonist
 "...What the hell is this?"
 Let's just pretend I never saw that.
 I really shouldn't just go opening things without permission...

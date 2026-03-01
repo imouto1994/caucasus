@@ -1,10 +1,10 @@
 I’ve arrived at the door to Narumi-san's room.
-＃Narumi
+#Narumi
 "My room wouldn't have anything to do with this."
-＃Protagonist
+#Protagonist
 "But there might be something here, don't you think?"
-＃Narumi
+#Narumi
 "If there were, I would have found it a long time ago."
-＃Protagonist
+#Protagonist
 "...I suppose you're right."
 Nothing for it; let's try another spot.

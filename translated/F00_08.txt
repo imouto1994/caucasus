@@ -1,14 +1,14 @@
 I’ve made my way to the dining hall.
-＃Protagonist
+#Protagonist
 "There is a fireplace here."
-＃Narumi
+#Narumi
 "Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?"
 I’ve returned to the dining hall.
-＃Narumi
+#Narumi
 "Weren't we just here?"
-＃Protagonist
+#Protagonist
 "Well, yes..."
-＃Narumi
+#Narumi
 "If you still want to investigate, then make it quick."
-＃Protagonist
+#Protagonist
 "Right..."

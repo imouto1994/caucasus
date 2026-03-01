@@ -22,7 +22,7 @@
 "Kirihara... Ah, that woman. You can't expect me to know anything about her, can you?"
 #Protagonist
 "Y-you're right..."
-#御巫
+#Mikanagi
 "Kirihara-san? ...Well, I can't really say..."
 #Protagonist
 "...I guess that makes sense."

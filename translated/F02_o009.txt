@@ -22,7 +22,7 @@
 "It certainly rang last night... but it isn't something worth being concerned about."
 #Protagonist
 "I guess so..."
-#御巫
+#Mikanagi
 "The bell, eh...? I don't think you’d notice it much while inside your room."
 #Protagonist
 "I see."

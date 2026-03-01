@@ -1,28 +1,28 @@
-＃Souko
+#Souko
 "She was with you the whole time, wasn't she? There's no way she could have killed Mikanagi-sensei."
-＃Satoshi
+#Satoshi
 "You’re right…"
-＃Maya
+#Maya
 "I wouldn't know, I was resting in my room as well."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Ai
+#Ai
 "I’m not sure… I was in my room the entire time."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Tsujimura
+#Tsujimura
 "I heard that she was together with you…"
-＃Satoshi
+#Satoshi
 "Y-yeah, that’s right…"
-＃Takamine
+#Takamine
 "I wouldn’t know what was happening outside my room."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Akane
+#Akane
 "Was she not together with you?"
-＃Satoshi
+#Satoshi
 "Y-yeah, she was…"
-＃Narumi
+#Narumi
 "I was with you the whole time. Given the situation, do you really think I could have killed Mikanagi-sensei?"
-＃Satoshi
+#Satoshi
 "…I guess that would be impossible."

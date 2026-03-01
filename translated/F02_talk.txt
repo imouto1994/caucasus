@@ -32,7 +32,7 @@ I expressed my thanks and decided to go somewhere else.
 #Protagonist
 "Y-yes. Thank you very much. You seem busy, so please excuse me."
 I bowed and decided to go somewhere else.
-#御巫
+#Mikanagi
 "Is this enough for you?"
 #Protagonist
 "Yes, thank you very much. Please excuse me."

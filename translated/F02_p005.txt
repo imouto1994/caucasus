@@ -22,7 +22,7 @@
 "Shion-kun, eh...? I was against her spending the night in a coffin in the middle of winter, but I was told it was the custom."
 #Protagonist
 "Is that so..."
-#御巫
+#Mikanagi
 "Shion-san has delicate health, you see. I just hope nothing happens during the night..."
 #Protagonist
 "I see..."

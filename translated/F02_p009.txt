@@ -22,7 +22,7 @@
 "Hiyama-kun... I think she works remarkably hard for someone who came all the way out to these mountains."
 #Protagonist
 "I see."
-#御巫
+#Mikanagi
 "Akane-san? Perhaps she's just shy, but we haven't spoken much."
 #Protagonist
 "I see..."

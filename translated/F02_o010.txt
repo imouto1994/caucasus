@@ -24,7 +24,7 @@
 "A noise? No idea. I went straight to my room and fell asleep last night, so I didn't notice anything."
 #Protagonist
 "I see..."
-#御巫
+#Mikanagi
 "A noise in the middle of the night, eh...? I didn't notice anything at all."
 #Protagonist
 "I see..."

@@ -1,28 +1,28 @@
-＃Souko
+#Souko
 "I went to check on things because I felt a bit restless after my shower. That’s when I found Mikanagi-sensei… you know."
-＃Satoshi
+#Satoshi
 "Is that so…?"
-＃Maya
+#Maya
 "I wouldn't know, I was resting in my room as well."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Ai
+#Ai
 "I’m not sure… I was in my room the entire time."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Tsujimura
+#Tsujimura
 "If you mean Kirihara-sama, I believe she was in her room the whole time, but…"
-＃Satoshi
+#Satoshi
 "I see…"
-＃Takamine
+#Takamine
 "I wouldn’t know what was happening outside my room."
-＃Satoshi
+#Satoshi
 "I see…"
-＃Akane
+#Akane
 "Perhaps she was in her room…?"
-＃Satoshi
+#Satoshi
 "I see."
-＃Narumi
+#Narumi
 "…At the very least, she didn’t leave her room while I was out here in the second-floor hallway."
-＃Satoshi
+#Satoshi
 "…I see."

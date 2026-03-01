@@ -22,7 +22,7 @@
 "You can't go in; the ceremony is in progress."
 #Protagonist
 "I see..."
-#御巫
+#Mikanagi
 "I believe Shion-san is likely in the cathedral right now."
 #Protagonist
 "I see."

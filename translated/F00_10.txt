@@ -1,13 +1,13 @@
-＃Narumi
+#Narumi
 "Let's avoid any rooms that are currently occupied."
-＃Protagonist
+#Protagonist
 "Good point."
 We decided to head elsewhere.
 I’ve come to Akane-san's room.
 There's a fireplace here as well, but...
-＃Narumi
+#Narumi
 "...Let's not."
-＃Protagonist
+#Protagonist
 "...Right."
 We'll only check here if we've searched everywhere else and found nothing.
 I wonder where on earth Akane-san could have gone...

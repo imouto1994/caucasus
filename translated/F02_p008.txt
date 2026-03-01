@@ -22,7 +22,7 @@
 "Mikanagi-sensei seems to be an excellent physician. His specialty is internal medicine, but I imagine he could handle simple surgery."
 #Protagonist
 "I see."
-#御巫
+#Mikanagi
 "Me? My father is the true family physician for the Nanatsuki. But he's getting on in years, so I've been staying here lately."
 #Protagonist
 "Is that so?"

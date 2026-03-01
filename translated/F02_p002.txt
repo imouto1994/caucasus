@@ -22,7 +22,7 @@
 "Maya-san, eh...? Since Kousei-shi passed away, she seems to have been doing her best to manage things on her own."
 #Protagonist
 "I see."
-#御巫
+#Mikanagi
 "Maya-san... I believe she is a woman filled with affection."
 #Protagonist
 "I see."

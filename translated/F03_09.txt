@@ -1,23 +1,23 @@
 I’ve arrived at the kitchen.
-#なるみ
+#Narumi
 "Oh, what's up?"
 Narumi-san was there.
 #Protagonist
 "Are you preparing lunch?"
-#なるみ
+#Narumi
 "Yeah, are you hungry?"
 #Protagonist
 "Not quite yet."
-#なるみ
+#Narumi
 "I'll have it ready so we can eat a bit after one."
 #Protagonist
 "Understood."
-#なるみ
+#Narumi
 "So, didn't you have some kind of business with me?"
 #Protagonist
 "Um..."
 I’ve arrived at the kitchen again.
-#なるみ
+#Narumi
 "Oh, do you need something else?"
 #Protagonist
 "Um..."
@@ -25,11 +25,11 @@ I’ve arrived at the kitchen.
 ...But no one is here.
 What should I do...?
 Narumi-san was in the kitchen.
-#なるみ
+#Narumi
 "Oh, Akane, what's wrong?"
 #Akane
 "Narumi-san, have you seen Lady Ai?"
-#なるみ
+#Narumi
 "Lady Ai...? No, I haven't."
 #Protagonist
 "I see..."
@@ -40,13 +40,13 @@ It seems she hasn't come here either.
 "...Alright."
 We decided to go somewhere else.
 Narumi-san was in the kitchen.
-#なるみ
+#Narumi
 "Oh, still haven't found Lady Ai?"
 #Protagonist
 "No... that's right."
 #Akane
 "There should only be so many places she could go inside the manor..."
-#なるみ
+#Narumi
 "Maybe you should try looking more thoroughly?"
 #Protagonist
 "...I suppose so."

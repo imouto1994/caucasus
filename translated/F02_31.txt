@@ -6,20 +6,20 @@ Now then, what should I do.
 #Protagonist
 "Good morning, Mikanagi-sensei."
 When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
-#御巫
+#Mikanagi
 "Ah, good morning."
 #Protagonist
 "Do you have a moment?"
-#御巫
+#Mikanagi
 "Yes, I don't mind."
 Now then, what should I do.
 #Protagonist
 "Excuse me."
 When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
-#御巫
+#Mikanagi
 "Oh, what is it this time?"
 #Protagonist
 "Do you have a moment?"
-#御巫
+#Mikanagi
 "Yes, please."
 Now then, what should I do.

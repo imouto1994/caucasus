@@ -22,7 +22,7 @@
 "The phones... You should be telling Tsujimura-san that, not me."
 #Protagonist
 "Y-you're right..."
-#御巫
+#Mikanagi
 "The phones aren't working...? That would be a problem if we had a medical emergency..."
 #Protagonist
 "You're right..."

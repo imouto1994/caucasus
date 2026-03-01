@@ -17,23 +17,23 @@ An incredibly expensive-looking painting is on display.
 I have no idea who the artist might be.
 That really is a pricey-looking painting...
 A bright red fire flickers within the hearth.
-＃Protagonist
+#Protagonist
 "Wait... this is impossible."
 It's far too hot to investigate.
-＃Narumi
+#Narumi
 "I don't think this is the fireplace the code meant, anyway..."
-＃Protagonist
+#Protagonist
 "If we can't find anything elsewhere, let's come back and check it again later."
-＃Narumi
+#Narumi
 "I think that's for the best."
 It's simply too hot to even attempt an investigation.
 An old-fashioned wall clock.
-＃Protagonist
+#Protagonist
 "Hm...?"
 Something has fallen into the space where the pendulum swings.
 I carefully pull open the glass door to peer inside and find a small fragment of wood.
 What is this...? It looks like a piece of parquetry.
-＃Protagonist
+#Protagonist
 "...I suppose I'll hang onto this for now."
 An antique clock hangs upon the wall.
 An incredibly expensive-looking painting is on display.

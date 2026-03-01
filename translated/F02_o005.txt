@@ -22,7 +22,7 @@
 "...I’ve heard that Shion-kun has lived in that tower since long ago."
 #Protagonist
 "Is that so..."
-#御巫
+#Mikanagi
 "I’m told Shion-san lives in the annex due to her poor health... but it’s possible my father was the one who gave those instructions..."
 #Protagonist
 "I see..."

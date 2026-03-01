@@ -22,7 +22,7 @@
 "...I have nothing to say to you."
 #Protagonist
 "Y-you're right..."
-#御巫
+#Mikanagi
 "About Takamine-san? It seems his father was involved with this house as well, just like mine."
 #Protagonist
 "I see."

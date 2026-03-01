@@ -1,9 +1,9 @@
 The fire in the hearth has been extinguished.
 There should be no problem investigating it.
 I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
-＃Protagonist
+#Protagonist
 "...Doesn't look like it's here."
-＃Narumi
+#Narumi
 "So it seems. Let's search elsewhere."
 It appears that this is not the place.
 There is another door further inside, separate from the one we entered through.

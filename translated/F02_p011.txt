@@ -22,7 +22,7 @@
 "Rokuyou-kun? He's likely preparing for the ceremony."
 #Protagonist
 "I see."
-#御巫
+#Mikanagi
 "Isamu isn't much of a morning person either, so he might still be asleep."
 #Protagonist
 "I see."
