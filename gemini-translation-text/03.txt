@@ -2525,7 +2525,7 @@ F02_o009.txt
 "...I see."
 
 --------------------
-F02_o10.txt
+F02_o010.txt
 ********************
 #Souko
 "...Now that you mention it, you were saying something like that in the middle of the night, too. So what was it in the end?"
@@ -2567,7 +2567,7 @@ F02_o10.txt
 "...Well, it is the kind of building where one wouldn't be surprised if a ghost showed up."
 
 --------------------
-F02_o11.txt
+F02_o011.txt
 ********************
 #Souko
 "I wonder if a line got cut somewhere."

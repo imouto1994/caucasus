@@ -1897,7 +1897,7 @@ F07_o009.txt
 "...I see."
 
 --------------------
-F07_o10.txt
+F07_o010.txt
 ********************
 #Souko
 "...There's a high probability Rokuyou-san was killed at that time."
@@ -1941,7 +1941,7 @@ F07_o10.txt
 "Yeah..."
 
 --------------------
-F07_o11.txt
+F07_o011.txt
 ********************
 #Souko
 "If they were cut deliberately... then it must be the killer's work."
@@ -1985,7 +1985,7 @@ F07_o11.txt
 "Yeah..."
 
 --------------------
-F07_o12.txt
+F07_o012.txt
 ********************
 #Souko
 "...At the very least, the killer has no intention of letting anyone escape from here."
@@ -2029,7 +2029,7 @@ F07_o12.txt
 "Right... I'll let her know."
 
 --------------------
-F07_o13.txt
+F07_o013.txt
 ********************
 #Souko
 "Shion-san won't receive any inheritance... Then why did Rokuyou-san try to marry her? It's not like they were particularly close..."
@@ -2073,7 +2073,7 @@ F07_o13.txt
 "I see..."
 
 --------------------
-F07_o14.txt
+F07_o014.txt
 ********************
 #Souko
 "A photo of a foreign maid in Takamine-san's room, huh... I wonder who she is."
@@ -2165,7 +2165,7 @@ F07_o14.txt
 "Right..."
 
 --------------------
-F07_o15.txt
+F07_o015.txt
 ********************
 #Souko
 "There was an incident like this before...? But if no one died, it wouldn't be considered a similar incident. It seems Tsujimura-san is hiding something..."
@@ -2217,7 +2217,7 @@ F07_o15.txt
 "I see..."
 
 --------------------
-F07_o16.txt
+F07_o016.txt
 ********************
 #Souko
 "'Akane' and 'Akari', huh... I don't know about anyone else, but I doubt someone would ever mistake their own name..."
@@ -2293,7 +2293,7 @@ F07_o16.txt
 "I wonder..."
 
 --------------------
-F07_o17.txt
+F07_o017.txt
 ********************
 #Souko
 "What's this...? They look like symbols, but I don't really understand them..."
@@ -2337,7 +2337,7 @@ F07_o17.txt
 "I see..."
 
 --------------------
-F07_o18.txt
+F07_o018.txt
 ********************
 #Souko
 "You can't expect me to know if you ask me. You have to ask the people of this house."
@@ -2407,7 +2407,7 @@ Nothing else for it, I'll give up for now.
 "I see..."
 
 --------------------
-F07_o19.txt
+F07_o019.txt
 ********************
 #Maya
 "Oh dear... You mustn't enter rooms without permission."
@@ -2945,7 +2945,7 @@ F07_p009.txt
 "I see..."
 
 --------------------
-F07_p10.txt
+F07_p010.txt
 ********************
 #Souko
 "...So, did anything happen while you were locked in the basement together, just the two of you?"
@@ -2985,7 +2985,7 @@ F07_p10.txt
 "...What are you saying...?"
 
 --------------------
-F07_p11.txt
+F07_p011.txt
 ********************
 #Souko
 "I wonder why Rokuyou-san had to be murdered... that's what's really bothering me."
@@ -3029,8 +3029,8 @@ F07_p11.txt
 "Yeah..."
 
 --------------------
-F07_p12.txt
-****
+F07_p012.txt
+********************
 #Souko
 "About the late Kousei-san? He was a famous musician. Even I know a few of his pieces."
 #Satoshi
@@ -6820,7 +6820,7 @@ F09_p009.txt
 "I see..."
 
 --------------------
-F09_p10.txt
+F09_p010.txt
 ********************
 #Souko
 "...So, did anything happen while you were locked in the basement together, just the two of you?"
@@ -6864,7 +6864,7 @@ F09_p10.txt
 "...What are you saying...?"
 
 --------------------
-F09_p11.txt
+F09_p011.txt
 ********************
 #Souko
 "I wonder why Rokuyou-san had to be murdered... that's what's really bothering me."
@@ -6908,7 +6908,7 @@ F09_p11.txt
 "Yeah..."
 
 --------------------
-F09_p12.txt
+F09_p012.txt
 ********************
 #Souko
 "About the late Kousei-san? He was a famous musician. Even I know a few of his pieces."
