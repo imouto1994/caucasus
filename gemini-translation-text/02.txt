@@ -1,0 +1,2384 @@
+--------------------
+F01_01.txt
+********************
+I've arrived at the entrance.
+I really didn't feel like going outside.
+No one seems to be around, so what should I do...
+
+--------------------
+F01_01s.txt
+********************
+It's the entrance door.
+It's freezing as expected, so I don't feel like going out.
+It's the entrance door.
+It's an old-fashioned shelf with legs.
+I probably shouldn't mess with it without permission.
+An old-fashioned shelf is placed here.
+#Satoshi
+"Hm...?"
+Something like a scrap of paper is stuck in the gap between the wall and the mirror.
+What could it be...
+"The Tale of a Certain Man - Chapter 4"
+—However, the true nightmare was only just beginning. I thanked him and accepted the mountain of takoyaki.
+Just as I thought he would finally leave, I heard words I couldn't believe.
+"What's wrong? Aren't you gonna eat 'em?"
+"I grilled these just for you, so don't be shy, dig in," he said.
+If you grilled them for me, then why are they stone-cold? Aren't these just leftovers? I desperately swallowed those questions.
+It was because I was certain I'd be killed otherwise. After a moment of hesitation, I chose the safe answer: I was tired now, so I'd have them later.
+However, the man didn't seem to like that answer. His face contorted violently, showing an expression of terrifying sadness.
+I was frozen in fear by that incredibly eerie expression. Then, as if to finish me off, the man said... ~To be continued~
+#Satoshi
+"...What the hell is this?"
+A scrap of paper titled "The Tale of a Certain Man - Chapter 4" is stuck there.
+A very expensive-looking painting is on display.
+The artist is... apparently someone named "Mamiya Shinzou."
+A painting by Mamiya Shinzou is on display.
+A very expensive-looking painting is on display.
+I don't know who painted it.
+This is quite an expensive-looking painting...
+
+--------------------
+F01_02.txt
+********************
+I've come to the central hall on the first floor.
+There's no one here.
+As I was about to go somewhere else, a vase sitting in the corner caught my eye.
+White flowers are arranged in it.
+They face downward as if bowing their heads, and the inner petals have green patterns.
+I wonder if these flowers are snowdrops.
+Even if I wanted to ask someone, there's no one here.
+What should I do...
+I've come to the hall on the first floor.
+It seems no one is here.
+What should I do...
+
+--------------------
+F01_02s.txt
+********************
+Snowdrop flowers are arranged here.
+It looks like several of them are gathered together.
+Snowdrop flowers are arranged here.
+It's a simple but expensive-looking table.
+I feel like I'd get scolded just for spilling water on it...
+An expensive-looking table is placed here.
+A plush sofa is placed here.
+It looks much more comfortable to sleep on than the futon at my house.
+A high-end sofa is placed here.
+These are the stairs leading to the second floor.
+It's just like a first-class hotel.
+If I go up these stairs, I can get to the second floor.
+There's a door under the stairs.
+It's probably best not to open it without permission.
+There's a door.
+If I open this door, I can go to the corridor on the north side of the manor.
+It's a door leading to the north side of the manor.
+Beyond this door are the Great Hall and the office.
+It's a door leading to the west side of the manor.
+
+--------------------
+F01_03.txt
+********************
+I've come to the Great Hall, but it seems no one is here.
+Now then, what should I do?
+
+--------------------
+F01_03s.txt
+********************
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+It's a very high-end sofa.
+I'd probably feel nervous even just drinking something here...
+A high-end sofa is placed in the center of the room.
+A heavy-looking table is placed here.
+The surface seems to be polished to a shine.
+A sturdy table is placed here.
+A very expensive-looking painting is on display.
+I don't know who painted it.
+This is quite an expensive-looking painting...
+A fire is glowing bright red in the fireplace.
+It's probably kept burning all day long.
+The fire is glowing bright red.
+It's an old-fashioned wall clock.
+I can't risk breaking it by messing with it carelessly.
+An old-fashioned clock is hanging on the wall.
+A very expensive-looking painting is on display.
+I don't know who painted it.
+This is quite an expensive-looking painting...
+
+--------------------
+F01_04.txt
+********************
+I've come to the telephone room.
+It seems no one is here.
+I don't have any business making a call, but what should I do?
+
+--------------------
+F01_04s.txt
+********************
+A magnificent painting is displayed in a frame.
+I don't know the artist, but I bet it's expensive...
+A painting is on display.
+Several phone books are lined up.
+There's one for the prefecture and apparently one for Sendai City as well.
+Phone books are placed here.
+A notepad for taking down messages is placed here.
+It even has a pretty pattern on it.
+A notepad is placed here.
+A telephone that looks like it's from before the war is sitting here.
+When I put it to my ear, I hear a dial tone, so it's obviously functioning as a phone, but...
+I wonder if it properly supports automatic exchanges...
+A sofa is placed here, so it seems you can talk while sitting down.
+I don't have any need to make a call right now, though.
+It seems one could have a long, relaxed conversation here.
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+Pencils for writing notes are placed here.
+I wonder if it was Tsujimura-san who sharpened them so neatly.
+Pencils are placed here.
+
+--------------------
+F01_05.txt
+********************
+#Tsujimura
+"Oh, what's the matter?"
+Tsujimura-san was in the office.
+#Satoshi
+"Hello. Were you in the middle of work?"
+#Tsujimura
+"Just organizing some documents. Did you need something?"
+#Satoshi
+"Uh... well..."
+#Tsujimura
+"Oh, what's the matter again?"
+Tsujimura-san was still in the office.
+#Satoshi
+"Uh... well..."
+I've come to the office.
+Tsujimura-san doesn't seem to be here.
+He's probably preparing for the wedding.
+There's no point in staying here if no one's around, but...
+
+--------------------
+F01_05s.txt
+********************
+There's a door leading outside.
+It probably leads to the back garden.
+There's a door leading outside.
+It looks like some kind of document.
+I don't really understand it, and it's probably better if I don't look at it too much.
+It looks like some kind of document.
+It looks like a book on bookkeeping.
+Tsujimura-san was probably reading it.
+A bookkeeping book is placed here.
+Difficult-looking law books are lined up.
+Tsujimura-san probably uses them for work.
+Books like the Six Codes are lined up.
+...I guess this is what they call an antique.
+I probably shouldn't open it without permission.
+It wouldn't really suit my room even if I had one...
+When I opened the drawer, I found a pretty card inside.
+#Satoshi
+"What's this...?"
+The card had the letter 'm' written on it.
+It's a bit intriguing, so I'll hold onto it.
+There's another piece of paper inside.
+'Campaign in progress! Collect similar cards and answer the question! The response section on the survey postcard was meant for this!'
+#Satoshi
+"...What the hell is this?"
+Well, I'm a little curious, so I'll hold onto this card.
+There's another piece of paper inside.
+'Now all the cards have been collected! As for the question you're wondering about... if you rearrange the letters so far, they'll form a certain word.'
+'Answer with a Japanese translation appropriate for this work and send in the survey postcard!'
+'Deadline: Postmarked by January 11, 2010! 10 winners chosen by lottery will receive a small gift!'
+#Satoshi
+"...I see."
+I kind of get it, but also not really...
+It seems to be a drawer for documents and such.
+A small painting is housed in a frame.
+It seems to be a painting that Tsujimura-san painted.
+Tsujimura-san's painting is on display.
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+
+--------------------
+F01_06.txt
+********************
+I've come to the reception room, but it seems no one is here.
+Now then, what should I do...
+
+--------------------
+F01_06s.txt
+********************
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+A fire is glowing bright red in the fireplace.
+It's probably kept burning all day long.
+The fire is glowing bright red.
+This is probably a shelf for storing coffee cups and such.
+I can't check since I'm not allowed to open it without permission.
+It seems to be a shelf for storing cups and such.
+A magnificent chair and table are placed here.
+I drank tea here when I first arrived... I'm glad I didn't spill any.
+It's an expensive-looking reception set.
+
+--------------------
+F01_07.txt
+********************
+This looks like a storage room.
+I wonder why I've come to a place like this.
+I shouldn't have any business here at all...
+
+--------------------
+F01_07s.txt
+********************
+It seems it was originally for documents.
+There's sandpaper and such inside.
+Sandpaper and such are inside.
+There's a box here.
+I don't know what's inside.
+A box is placed here.
+A box with a lock is placed here.
+This box alone seems like it would be quite valuable.
+It's a wooden box with a lock.
+It seems to be a toolbox.
+There are hammers and rusted pliers inside.
+#Satoshi
+"Oh, come to think of it..."
+The metal fitting on my bag was a bit loose.
+I'll borrow these pliers to fix it real quick.
+A toolbox is placed here.
+A sturdy-looking wooden box is on the floor.
+A wooden box is on the floor.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+When I open the drawer, there's something like stationery inside.
+What is this...
+"The Tale of a Certain Man - Chapter 9"
+—I was crying. The man had stopped crying. What would a stranger think of the sight of two grown men crying together over takoyaki?
+I thought about that while weeping.
+I honestly told him they were disgusting. The man gave a satisfied smile and said this:
+"Well, yeah. I'm still in training, so it's only natural they're bad. Thanks for being honest, mister."
+I felt like I understood this man just a little bit. ~To be continued~
+#Satoshi
+"...What the hell is this?"
+A scrap of paper titled "The Tale of a Certain Man - Chapter 9" is inside.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+I try opening the drawer, but nothing unusual is inside.
+Nothing unusual is inside.
+Large square metal cans are lined up.
+They're probably fuel.
+Large metal cans containing fuel are lined up.
+
+--------------------
+F01_08.txt
+********************
+I've returned to the dining hall.
+#Akane
+"Oh, what's the matter?"
+Akane-san was tidying up the table.
+Maybe because there were so many people, it doesn't look like much progress has been made yet.
+Help
+Don't help
+#Satoshi
+"Shall I help you?"
+I made the offer.
+#Akane
+"E-Eh, no, that's quite alright! I couldn't possibly let a guest do such a thing!"
+Akane-san shook her head in a panic.
+#Satoshi
+"But wouldn't it be faster with two people tidying up?"
+#Akane
+"But... um, I'll gratefully accept just the thought alone."
+#Satoshi
+"I see..."
+#Akane
+"Um, do you need anything else?"
+#Satoshi
+"Anything else, huh..."
+#Satoshi
+"I'm sorry, you seem to be in the middle of work."
+I shouldn't get in the way of her tidying up.
+I gave a bow and left the dining hall.
+I've come to the dining hall again.
+#Akane
+"Is something wrong?"
+Akane-san was mopping the floor.
+The tidying up seems to be mostly finished.
+#Satoshi
+"Uh..."
+I've come to the dining hall.
+#Satoshi
+"Huh... no one's here."
+The room was empty.
+All the food from earlier has been cleared away.
+No one's here, so what should I do now...
+
+--------------------
+F01_08s.txt
+********************
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+#Satoshi
+"Hm...?"
+Something like a scrap of paper is lying under a chair.
+What could it be...
+"The Tale of a Certain Man - Chapter 2"
+Yes, that was back when I held a recital in Ueno. Even now, I cannot forget that terrifying experience. I still remember it clearly even today.
+And those terrifying eyes, clouded and grey... those were undoubtedly the eyes of someone who had killed many people on the battlefield.
+On top of that, a complex gaze that seemed to plead for loneliness somehow... it planted such an inexplicably ominous and eerie impression in me.
+Looking back, allowing that food stall to operate near the venue was probably the start of everything.
+I had encountered that man with eyes full of both obsession and madness. ~To be continued~
+#Satoshi
+"...What the hell is this?"
+A scrap of paper titled "The Tale of a Certain Man - Chapter 2" is lying there.
+A very expensive-looking painting is on display.
+I don't know who painted it.
+This is quite an expensive-looking painting...
+A fire is glowing bright red in the fireplace.
+It's probably kept burning all day long.
+The fire is glowing bright red.
+The table is neatly tidied up.
+The maid named Akane probably cleared it.
+The table is neatly tidied.
+
+--------------------
+F01_09.txt
+********************
+I've come to the kitchen.
+#Narumi
+"Oh, what's up?"
+Narumi-san was washing dishes with a listless air.
+#Satoshi
+"Ah, were you in the middle of work?"
+#Narumi
+"I'm technically working, but... oh, I know, why don't you help me with the dishes?"
+#Satoshi
+"Eh!? Me...?"
+#Narumi
+"There's no one else, is there? It's such a pain doing it by myself, don't you think?"
+What should I do...
+Help
+Don't help
+#Satoshi
+"All right."
+Well, I'm bored anyway, so a little bit should be fine.
+#Narumi
+"Then I'll leave the rest to you."
+With that, Narumi-san sat down in a chair.
+#Satoshi
+"Wait, Narumi-san?"
+#Narumi
+"What is it?"
+#Satoshi
+"What about washing the dishes?"
+#Narumi
+"That's why I said I'm leaving it to you, so do your best."
+#Satoshi
+"...*Sigh*"
+Well, I'm the one who said I'd help, so I guess I have no choice.
+I turn on the water at the tap and wash the dishes.
+#Narumi
+"The water's cold, right? It's tough this time of year."
+Narumi-san is snacking on leftovers from dinner.
+#Satoshi
+"You're right..."
+I give a vague reply while silently washing the dishes.
+If I focus on how cold the water is, my hands feel like they'll stop.
+#Narumi
+"By the way, what did you come here for?"
+#Satoshi
+"Uh... well..."
+#Satoshi
+"I'm sorry, I just remembered I have something to do."
+I bowed while taking a few steps back.
+#Narumi
+"Hey, that's obviously a lie! Wait!"
+With Narumi-san's shouts at my back, I fled the kitchen.
+I've come to the kitchen again.
+#Narumi
+"Oh, you need something again?"
+#Satoshi
+"Uh... well..."
+I've come to the kitchen.
+#Satoshi
+"Huh... no one's here."
+The place was empty, and Narumi-san was nowhere to be seen.
+If she's not here, there's nothing I can do.
+What should I do...
+
+--------------------
+F01_09s.txt
+********************
+There's a door that looks like a back entrance.
+It looks cold out there, so I didn't feel like going out at all.
+It seems to be a back entrance.
+Ladles and rice paddles are hanging on the wall.
+Cooking utensils are suspended from the wall.
+It looks like a furnace for cooking rice.
+It tastes better than an electric rice cooker...
+It seems to be a gas-powered furnace.
+It's an incredibly large kiln.
+It seems to be a wood-fired oven.
+Probably because they make so much food...
+A table is placed in the center.
+They probably do the food prep here.
+A large prep table is in the center.
+There's a tap attached.
+The area around the sink is quite clean...
+The tap water looks cold and delicious.
+When I aimlessly opened the lid of the trash can, I found a pretty card inside.
+#Satoshi
+"What's this...?"
+The card had the letter 'i' written on it.
+I'm a bit curious, so I'll hold onto it.
+There's another piece of paper inside.
+'Campaign in progress! Collect similar cards and answer the question! The response section on the survey postcard was meant for this!'
+#Satoshi
+"...What the hell is this?"
+Well, I'm a little curious, so I'll hold onto this card.
+There's another piece of paper inside.
+'Now all the cards have been collected! As for the question you're wondering about... if you rearrange the letters so far, they'll form a certain word.'
+'Answer with a Japanese translation appropriate for this work and send in the survey postcard!'
+'Deadline: Postmarked by January 11, 2010! 10 winners chosen by lottery will receive a small gift!'
+#Satoshi
+"...I see."
+I kind of get it, but also not really...
+It's just an ordinary trash can.
+Lots of tableware are lined up.
+I'm too terrified to even go near them.
+It'd be a disaster if I broke even one...
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+
+--------------------
+F01_10.txt
+********************
+I've arrived in front of Akane-san's room.
+I knock lightly on the door and wait for a while, but there's no response from inside.
+It seems she isn't here.
+Oh well, I'll go somewhere else.
+
+--------------------
+F01_11.txt
+********************
+I've arrived in front of Narumi-san's room.
+I knock lightly on the door and wait for a while, but there's no response from inside.
+It seems she isn't here.
+Oh well, I'll go somewhere else.
+
+--------------------
+F01_12.txt
+********************
+I've come to the toilet on the first floor.
+There's no one here.
+What should I do...
+
+--------------------
+F01_12s.txt
+********************
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+#Satoshi
+"Hm...?"
+A scrap of paper with something written on it is stuck to the toilet lid.
+What could it be...
+"The Tale of a Certain Man - Chapter 3"
+That day's performance ended, and as I was catching my breath in the dressing room, that man from the food stall arrived with a massive amount of takoyaki.
+"A thanks for lettin' me do business," the man replied bluntly.
+However, that clearly excessive amount of takoyaki had already lost its heat, showing whether I liked it or not that they were leftovers.
+I tried to refuse, but the man insisted there was no need for modesty and wouldn't listen.
+To be honest, I didn't want them.
+We continued that back-and-forth for a while, but finally worn down, I ended up accepting that forbidden thing.
+It was because I was tired after the performance and wanted to get it over with quickly. ~To be continued~
+#Satoshi
+"...What the hell is this?"
+A scrap of paper titled "The Tale of a Certain Man - Chapter 3" is lying there.
+It's a locker where cleaning supplies and such are stored.
+It contains rags, buckets, and so on.
+Cleaning supplies are stored here.
+It's just an ordinary mirror.
+Of course, it's very clean and not cloudy at all.
+A mirror is hanging on the wall.
+When I turned the tap, cold water came out.
+As expected, it might be a bit tough in this season.
+The water has become very cold.
+
+--------------------
+F01_13.txt
+********************
+I've come to the very end of the first floor.
+Beyond this large door, a wedding ceremony is to take place tonight.
+They're probably making preparations now.
+I felt like taking a peek, but that would be quite rude.
+I decided to head somewhere else.
+
+--------------------
+F01_14.txt
+********************
+This is definitely Rokuyou-san's room.
+I knock lightly on the door.
+#Rokuyou
+"Oh, it's you. Do you need something?"
+#Satoshi
+"Yes, I wanted to ask you a few things."
+#Rokuyou
+"I see. It's not the best place to talk out here, so please, come in."
+With that, Rokuyou-san led me into the room.
+#Rokuyou
+"I have preparations for the ceremony, so is it all right if we finish by then?"
+#Satoshi
+"Yes, thank you very much."
+Now then, what should I do...
+This is Rokuyou-san's room.
+I knock lightly on the door.
+#Rokuyou
+"Oh, it's you again. Do you need something?"
+#Satoshi
+"Yes, I wanted to ask you a few things again."
+#Rokuyou
+"I see. Please, come in."
+With that, Rokuyou-san led me into the room.
+#Rokuyou
+"I don't have much time, is that all right?"
+#Satoshi
+"Yes, thank you very much."
+Now then, what should I do...
+I've come to Rokuyou-san's room.
+I knock lightly on the door.
+I wait for a while, but there was no response from inside.
+Is he not in?
+He might be preparing for the wedding.
+I gave up and decided to go somewhere else.
+
+--------------------
+F01_15.txt
+********************
+I've arrived in front of Takamine-san's room.
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+#Takamine
+"You... what do you want?"
+#Satoshi
+"U-Um, could we talk for a moment?"
+#Takamine
+"I don't mind, but... keep it brief."
+#Satoshi
+"Y-Yes..."
+He's scary after all...
+#Takamine
+"So, what is it you want?"
+#Satoshi
+"Uh... well..."
+I've arrived in front of Takamine-san's room.
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+#Takamine
+"...You again."
+#Satoshi
+"U-Um, could we talk for a moment?"
+#Takamine
+"Fine, I suppose. Enter."
+#Satoshi
+"Y-Yes..."
+He's scary after all...
+#Takamine
+"What is it this time?"
+#Satoshi
+"Well, you see..."
+--------------------------------------------------------------------------------
+--------------------
+F01_16.txt
+********************
+I've arrived in front of Tsujimura-san's room.
+I knock on the door.
+#Satoshi
+"Huh... I guess he's not in."
+There was no response, no matter how long I waited.
+Oh well, I'll go somewhere else.
+
+--------------------
+F01_17.txt
+********************
+I'm pretty sure the room at the far end of the first floor was vacant.
+I quietly open the door.
+Naturally, no one is here.
+Now then, what should I do?
+
+--------------------
+F01_17s.txt
+********************
+The fireplace isn't lit, likely because no one is using the room.
+Because of that, the room felt a bit chilly.
+The fireplace isn't lit.
+There's another door in the back, separate from the one I entered through.
+It probably connects to the adjacent room.
+It looks like a door connecting to the next room.
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already searched here, so I'll look elsewhere.
+The sheets on the bed don't have a single stain.
+Probably because no one is using it.
+There's no sign of the bed being used.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+
+--------------------
+F01_18.txt
+********************
+
+--------------------
+F01_19.txt
+********************
+I've come to the very end of the west side of the second floor.
+This should be Maya-san's room.
+I knock on the door and wait for a while.
+#Maya
+"Oh... did you need something?"
+#Satoshi
+"Um, do you have a moment?"
+#Maya
+"I have preparations for the ceremony, so I can't spare much time, but please, come in."
+With that, Maya-san led me into the room.
+Maya-san's room was even more spacious than the others.
+#Maya
+"So, what is your business?"
+#Satoshi
+"Uh... well..."
+I've come to Maya-san's room at the far end of the west side of the second floor.
+I knock on the door and wait for a while.
+#Maya
+"Oh... did you need something?"
+#Satoshi
+"Um, do you have a moment?"
+#Maya
+"Yes, I don't mind... please, come inside."
+With that, Maya-san led me into the room.
+#Maya
+"What would your business be?"
+#Satoshi
+"Uh... well..."
+I've come to Maya-san's room at the far end of the west side of the second floor.
+I knock on the door and wait for a while.
+#Satoshi
+"Huh... I guess she's not in."
+Maybe she's preparing for the wedding.
+Oh well, I'll go somewhere else.
+
+--------------------
+F01_20.txt
+********************
+I've arrived in front of Ai-san's room.
+I tap lightly on the door and wait.
+#Ai
+"Oh... did you need something?"
+#Satoshi
+"Hello. Do you have a little bit of time?"
+#Ai
+"Yes, I don't mind. Please, come in."
+With that, Ai-san led me into the room.
+#Ai
+"So, what is it you need?"
+#Satoshi
+"Uh... well..."
+I've arrived in front of Ai-san's room.
+I tap lightly on the door and wait.
+#Ai
+"Oh... was there something else?"
+#Satoshi
+"Hello. Do you have a little bit of time?"
+#Ai
+"Yes, please."
+With that, Ai-san led me into the room.
+#Ai
+"What's your business, I wonder?"
+#Satoshi
+"Uh... well..."
+
+--------------------
+F01_21.txt
+********************
+I've come to Benio-san's room on the second floor.
+I wonder if she's in.
+I knock on the door.
+#Benio
+"Who is it... Oh, what's the matter?"
+#Satoshi
+"Hello, Benio-san. Do you have time right now?"
+#Benio
+"Yes, I don't mind."
+Benio-san invited me into the room.
+#Benio
+"So, what do you want?"
+#Satoshi
+"Uh... well..."
+I've come to Benio-san's room on the second floor.
+I knock on the door and wait for a while.
+#Benio
+"Who is it... Oh, what's the matter?"
+#Satoshi
+"Hello, Benio-san. Do you have time right now?"
+#Benio
+"Yes, I don't mind."
+Benio-san invited me into the room.
+#Benio
+"So, what do you want?"
+Benio-san asks with a formal air.
+#Satoshi
+"Uh... well..."
+
+--------------------
+F01_22.txt
+********************
+I'm pretty sure this room was vacant.
+I quietly open the door.
+Naturally, no one is here.
+Now then, what should I do?
+
+--------------------
+F01_22s.txt
+********************
+The fireplace isn't lit, likely because no one is using the room.
+Because of that, the room felt a bit chilly.
+The fireplace isn't lit.
+There's another door in the back, separate from the one I entered through.
+It probably connects to the adjacent room.
+It looks like a door connecting to the next room.
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already searched here, so I'll look elsewhere.
+The sheets on the bed don't have a single stain.
+Probably because no one is using it.
+There's no sign of the bed being used.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+
+--------------------
+F01_23.txt
+********************
+I'm pretty sure this room was vacant.
+I quietly open the door.
+Naturally, no one is here.
+Now then, what should I do?
+
+--------------------
+F01_23s.txt
+********************
+The fireplace isn't lit, likely because no one is using the room.
+Because of that, the room felt a bit chilly.
+The fireplace isn't lit.
+There's another door in the back, separate from the one I entered through.
+It probably connects to the adjacent room.
+It looks like a door connecting to the next room.
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already searched here, so I'll look elsewhere.
+The sheets on the bed don't have a single stain.
+Probably because no one is using it.
+There's no sign of the bed being used.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+I really shouldn't open this without permission...
+It's probably best not to mess with it.
+
+--------------------
+F01_24.txt
+********************
+I've come to the room at the far end of the east side of the second floor.
+A grand piano is placed on a slightly elevated stage.
+Now then, what should I do next?
+
+--------------------
+F01_24s.txt
+********************
+It looks like quite an antique piano.
+I'm sure this is something Kousei-san used as well.
+It seems it's been well-maintained even after his passing, as the surface is polished to a shine.
+It looks like an antique piano.
+It's pure white outside; I can't see a thing.
+When it's blizzardy like this, even the darkness of night feels bright.
+The blizzard outside seems to be intensifying.
+
+--------------------
+F01_25.txt
+********************
+It seems instruments are kept in this room.
+Now then, what should I do next...
+
+--------------------
+F01_25s.txt
+********************
+Is this... a trombone, I think?
+Brass instruments all look similar, so I can't really tell.
+It was likely part of Kousei-san's collection.
+Many instruments are lined up.
+A saxophone... I think.
+They're lined up beautifully.
+Many instruments are lined up.
+A trumpet... no, maybe it is a trumpet.
+There seem to be quite a few of them.
+Every single one of them was shining brilliantly.
+Many instruments are lined up.
+There's also a door leading to the corridor behind me.
+It looks like a door that cuts through to the performance room.
+It looks like a door leading to the performance room.
+
+--------------------
+F01_26.txt
+********************
+The room I entered seems to be a place for composing music.
+Music stands and a small organ are placed here.
+Now then, what should I do?
+
+--------------------
+F01_26s.txt
+********************
+Is this... an organ?
+I can't really tell the difference between a piano and an organ.
+Well, it's clearly a keyboard instrument.
+I thought about trying to play a few notes, but it's probably not good to touch it without permission.
+It seems to be an organ.
+A musical score is placed on the desk.
+It appears to be something Kousei-san was writing.
+I don't really know, but it might be something valuable.
+The title is... "Three Fragments," maybe?
+It seems to be a piece titled "Three Fragments."
+It looks like musical scores are stored inside the glass cabinet.
+Scores by composers even I know, like Beethoven and Bach, are lined up.
+Many scores are stored here.
+Is this... a music stand?
+Kousei-san probably used it.
+I've already searched here, so I'll look elsewhere.
+Musical scores are pasted on the wall.
+They were likely composed by Kousei-san.
+Musical scores are pasted on the wall.
+It's pure white outside; I can't see a thing.
+When it's blizzardy like this, even the darkness of night feels bright.
+The blizzard outside seems to be intensifying.
+A book has been left sitting on the music stand.
+It makes it feel as though Kousei-san were still alive.
+It looks like musical reference material.
+Inside the desk drawer was a piece of blank staff paper.
+A small piece of wood is placed on top as a paperweight.
+I'm curious about it, but I can't really take it for no reason...
+Unused staff paper is stored here.
+It's a portrait.
+I don't know the artist, but it's likely a foreign work.
+A portrait is on display.
+
+--------------------
+F01_27.txt
+********************
+I've arrived at Souko-san's room.
+I knock lightly on the door.
+#Souko
+"Oh, it's you. What is it?"
+#Satoshi
+"Could we talk for a moment?"
+#Souko
+"I don't mind."
+With that, Souko-san led me into the room.
+#Souko
+"So, did you find anything out?"
+#Satoshi
+"I'm still in the middle of investigating."
+#Souko
+"I see. Well, it's not like the mystery of the curse will be solved all at once."
+#Satoshi
+"So, about that..."
+I've come to Souko-san's room.
+I knock lightly on the door.
+#Souko
+"What, you again? What is it?"
+#Satoshi
+"Could we talk for a moment?"
+#Souko
+"Yes, that's fine."
+With that, Souko-san led me into the room.
+#Souko
+"What is it this time?"
+#Satoshi
+"Uh... well..."
+
+--------------------
+F01_28.txt
+********************
+I've come to the toilet on the second floor.
+There's no one here.
+What should I do...
+
+--------------------
+F01_28s.txt
+********************
+It's pure white outside the window; I can't see a thing.
+The wind and snow seem to be getting stronger than they were this evening.
+The blizzard outside seems to be intensifying.
+I don't really need to go right now...
+I'll come back when the urge strikes.
+I don't have any particular business here.
+It's a locker where cleaning supplies and such are stored.
+It contains rags, buckets, and so on.
+Cleaning supplies are stored here.
+It's just an ordinary mirror.
+Of course, it's very clean and not cloudy at all.
+A mirror is hanging on the wall.
+When I turned the tap, cold water came out.
+As expected, it might be a bit tough in this season.
+The water has become very cold.
+
+--------------------
+F01_29.txt
+********************
+The far end of the north side of the second floor.
+I'm told this is the room of the previous head of the family, Mr. Kousei.
+I try turning the doorknob lightly, but naturally, it seems to be locked.
+Oh well, I'll go somewhere else.
+
+--------------------
+F01_30.txt
+********************
+I've returned to my own room.
+I don't really have anything to do, though...
+
+--------------------
+F01_30s.txt
+********************
+The fire in the fireplace is flickering.
+Thanks to that, the room is warm.
+If this wasn't here... I shudder to think.
+The room is warm thanks to the fireplace.
+There's a door on a different wall from the one leading to the corridor.
+I wonder if it connects to the room next door...
+It looks like a door connecting to the next room.
+I definitely saw something like a tower outside the window earlier.
+Let's see what's out there once more.
+I wiped the fog off the window and leaned closer.
+#Satoshi
+"Eh...?"
+I can hear something.
+A beautiful sound, distinct from the howling wind of the blizzard.
+#Satoshi
+"A song...?"
+It's someone's singing voice.
+Is that—coming from the tower?
+I'm a little curious...
+That singing voice from earlier... I'm curious about it...
+A painting is displayed on the wall.
+I don't know the artist, but it's a somewhat melancholy piece.
+I've already searched here, so I'll look elsewhere.
+My bed for tonight.
+Maybe because I rested a bit earlier, the sheets are wrinkled.
+It was soft and very comfortable to sleep in.
+There's still time until the wedding, so maybe I could go back to sleep for a bit...
+I guess I could rest if I wanted to...
+An old-fashioned, antique-style chest of drawers is placed here.
+It seems nothing is inside.
+It's likely for guests; there's nothing inside.
+It's my bag.
+It has plenty of spare clothes inside.
+Since I never know when I'll be able to go home when Souko-san drags me along, I always bring extra.
+Other than that, I just have a notebook and writing materials.
+Oh right, I was going to fix the metal fitting on my bag.
+I lightly crush the bag's clasp with the pliers I borrowed from the storage room.
+The pliers seem quite loose, like they're about to break any moment.
+#Satoshi
+"Ah..."
+A small knife tumbled out of my bag's pocket.
+Oh right, I had put it in here...
+It's not like I have a specific use for it, but I'll hold onto it just in case.
+I don't need anything for now.
+
+--------------------
+F01_31.txt
+********************
+#Satoshi
+"Excuse me."
+When I entered the infirmary, Dr. Mikanagi, who was at his desk, looked up.
+#Mikanagi
+"Oh, what is it?"
+#Satoshi
+"Do you have a moment?"
+#Mikanagi
+"Yes, I don't mind."
+Now then, what should I do?
+#Satoshi
+"Excuse me."
+When I entered the infirmary, Dr. Mikanagi, who was at his desk, looked up.
+#Mikanagi
+"Oh, what is it this time?"
+#Satoshi
+"Do you have a moment?"
+#Mikanagi
+"Yes, please."
+Now then, what should I do?
+#Satoshi
+"Excuse me."
+When I entered the infirmary, Dr. Mikanagi was nowhere to be seen.
+Maybe he's gone somewhere else.
+Now then, what should I do?
+
+--------------------
+F01_31s.txt
+********************
+Small medicine bottles are lined up.
+With my knowledge, I have no idea what most of these medicines are.
+I shouldn't mess with them, so I'll just leave them be.
+It's probably best not to mess with them.
+There's something that looks like medicine inside.
+I wonder if it's for herbal medicine; something that looks like tree roots is also stored here.
+It's probably best not to mess with them.
+Disinfectants, bandages, and such seem to be placed here.
+I shouldn't mess with them, so I'll just leave them be.
+It's probably best not to mess with them.
+Some documents are placed on the desk.
+I probably shouldn't look at them without permission.
+Documents are placed here.
+Snow is dancing outside the window.
+The wind seems to have grown quite strong.
+The blizzard outside seems to be intensifying.
+There's another door, separate from the one I entered through.
+It probably connects to the adjacent archive.
+It looks like a door connecting to the next room.
+A simple bed, completely different from the ones in the other rooms, is placed here.
+Well, it's an infirmary, so that makes sense...
+There's no sign of the bed being used.
+Various documents are stored here.
+I really shouldn't look at them without permission...
+It's probably best not to mess with them.
+Various documents are stored here.
+I really shouldn't look at them without permission...
+It's probably best not to mess with them.
+Various documents are stored here.
+I really shouldn't look at them without permission...
+It's probably best not to mess with them.
+Various documents are stored here.
+I really shouldn't look at them without permission...
+It's probably best not to mess with them.
+In the bottom drawer, I found a pretty card.
+#Satoshi
+"What's this...?"
+The card had the letter 'r' written on it.
+I'm a bit curious, so I'll hold onto it.
+There's another piece of paper inside.
+'Campaign in progress! Collect similar cards and answer the question! The response section on the survey postcard was meant for this!'
+#Satoshi
+"...What the hell is this?"
+Well, I'm a little curious, so I'll hold onto this card.
+There's another piece of paper inside.
+'Now all the cards have been collected! As for the question you're wondering about... if you rearrange the letters so far, they'll form a certain word.'
+'Answer with a Japanese translation appropriate for this work and send in the survey postcard!'
+'Deadline: Postmarked by January 11, 2010! 10 winners chosen by lottery will receive a small gift!'
+#Satoshi
+"...I see."
+I kind of get it, but also not really...
+Nothing unusual is inside.
+
+--------------------
+F01_32.txt
+********************
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+#Satoshi
+"Huh... I guess he's not in."
+There was no response, no matter how long I waited.
+Oh well, I'll go somewhere else.
+
+--------------------
+F01_33.txt
+********************
+I'm pretty sure this was the archive.
+I lightly turned the doorknob.
+#Satoshi
+"It's open...?"
+Since I fully expected it to be locked, this was a bit of an anticlimax.
+Well, if it's a room used regularly, I guess there's no need to lock it inside one's own home.
+The room was almost entirely occupied by large bookshelves.
+This place looks like it's worth investigating, but...
+
+--------------------
+F01_33s.txt
+********************
+Books titled "Complete Works of H.P. Lovecraft" are lined up.
+I wonder who in this house reads these books...
+The complete works of Lovecraft are placed here.
+Books titled "Encyclopedia of Occultism" are lined up.
+Whose books are these, I wonder...
+Occult books are placed here.
+Many foreign books, such as "The Key of Solomon" and "Grimorium Verum," are lined up.
+Aren't these... those books called grimoires...?
+Books of the type called grimoires are placed here.
+Books compiling folk legends from the Tohoku region, starting with "Tono Monogatari," are placed here.
+There don't seem to be any particularly unusual books.
+Books related to Tohoku folklore are placed here.
+"Die Geschichte deutscher Musik" is written on the cover.
+Um... is this German? I don't really understand the content.
+Musical symbols are written in it, so it must be related to that...
+It seems to be a music book written in German.
+It appears to be a German-Japanese dictionary.
+With this, I could probably understand the meaning of words, but since I don't know the grammar and such, reading a book would be difficult.
+A German-Japanese dictionary is placed here.
+This is... it seems to be a travel guidebook written in German.
+I'd like to visit someday, but that's impossible...
+It looks like a German travel guide.
+Is this... a mystery novel, maybe?
+It seems to be about a detective staying at a brothel who solves a series of murders in Ueno.
+The title is... oops, I can't afford to get absorbed in reading in a place like this. I'll save it for another time.
+A mystery novel is placed here.
+This book apparently deals with German war history.
+It's about the two World Wars and the subsequent division into East and West.
+It seems to be a German history book.
+I flip through a book that caught my eye.
+It was a music textbook.
+Scales and whatnot; I don't really get it.
+It says things like "Do-Re-Mi-Fa-So-La-Ti-Do" is "C-D-E-F-G-A-B-C" in English, and further "C-D-E-F-G-A-H-C" in Germany.
+I don't even want to remember my music grades...
+A music textbook is placed here.
+#Satoshi
+"Hm...?"
+A scrap of paper tucked into the book caught my eye.
+What could it be...
+"The Tale of a Certain Man - Chapter 1"
+My name is Nanatsuki Kousei. I am a mere composer.
+I have decided to leave a record of an experience here. It was an event too hideous to keep locked away in my own heart.
+Whoever finds this, read it with caution. ~To be continued~
+#Satoshi
+"...What the hell is this?"
+A scrap of paper titled "The Tale of a Certain Man - Chapter 1" is tucked inside.
+A book titled "Deutsche Architektur" is placed here.
+It depicts Western castles with photos and diagrams, so it must be some kind of commentary or reference book.
+It seems to be a book related to German architecture.
+This book... apparently it's a story where the protagonist, a piano player, gets caught up in strange incidents.
+Given who the protagonist is, it might not be out of place in this house.
+Um, the title is... oops, I can't afford to get absorbed in reading in a place like this. I'll save it for another time.
+It seems to be a mystery novel.
+I flip through a book that caught my eye.
+It looks like an architecture book.
+Apparently, the notation for floor levels differs between the UK and the US, even in English-speaking countries.
+Even for the same second floor, it's "2F" in the US but "1F" in the UK.
+That's bound to be confusing...
+The word for "floor" is "Floor" in English and apparently "Stock" in German.
+It seems to be an architectural study book.
+I flip through a book that caught my eye.
+It looks like a map commentary book.
+It says things like "North, South, East, West" are "N, S, E, W" in English and become "N, S, O, W" in German.
+Only "East" changes... well, I guess everything except the initial letter is different.
+A map commentary book is placed here.
+It appears to be a mystery novel.
+It's a story about a detective chasing a serial killer of schoolgirls.
+A girl who's the spitting image of a woman depicted in a strange painting and a bug-loving younger sister appear.
+Um, the title is... oops, I can't afford to get absorbed in reading in a place like this. I'll save it for another time.
+A mystery novel is placed here.
+
+--------------------
+F01_34.txt
+********************
+Before going to the tower, I should first try asking Tsujimura-san in the office.
+I should probably get permission from Tsujimura-san before going to the tower.
+I go out through the door in the back of the office and walk through the garden where the snow continues to fall to approach the tower.
+Likely due to the heavy blizzard, I can't hear the singing.
+Perhaps she isn't singing anymore.
+The door at the base of the tower was open.
+When I stepped inside, I heard a singing voice from above.
+The interior was empty, with stairs winding upwards along the wall.
+I decided to try going up the stairs.
+At the top of the stairs was a door.
+This must be Shion-san's room.
+I stood there for a while, listening to her song.
+Eventually, the voice ceased.
+It was then that I lightly knocked on the door for the first time.
+#???
+"Who is it... Seiji?"
+#Satoshi
+"Um, excuse me. My name is (NAME01) (NAME02), and I was rescued by this household. I wanted to offer a word of greeting."
+#???
+"I see... I'm not in a position to say, but please, make yourself at home."
+She must be on guard; there's no sign of her opening the door from the inside.
+#Satoshi
+"Yes. ...So, it sounded like you were singing just now."
+#???
+"Y-Yes... is something wrong with that...?"
+#Satoshi
+"You have a beautiful singing voice."
+#???
+"Eh... A-Ah, thank you..."
+#Satoshi
+"Oh, and congratulations on your wedding."
+#???
+"...Thank you."
+#Satoshi
+"Well then, I'll be going now. ...Excuse me."
+I was concerned that she seemed somewhat listless, but I decided to leave the area.
+Once outside, I looked up at the tower.
+Shion-san...
+Why is she in a place so far removed?
+I want to hear her voice once more.
+I enter the tower and head up the stairs.
+I knock lightly on the door.
+#???
+"Yes...?"
+#Satoshi
+"Hello, it's (NAME01)."
+#???
+"Do you need something...?"
+#Satoshi
+"I thought we might talk for a bit..."
+#???
+"...I'm sorry, but I have preparations for the ceremony..."
+#Satoshi
+"Ah, right. Sorry for bothering you."
+I decided to make a hasty retreat.
+--------------------------------------------------------------------------------
+--------------------
+F01_g001.txt
+********************
+#Souko
+"It's a story that comes up right away if you look into Nanatsuki Village. Though I haven't found any documents that go into the finer details."
+#Satoshi
+"I see..."
+#Maya
+"...I'm aware that such rumors are circulating in the village. However, I'm not familiar with the specifics."
+#Satoshi
+"...I see."
+#Ai
+"...I do not wish to answer that."
+#Satoshi
+"I see... I'm sorry."
+#Benio
+"The curses are seven in number, just as the name suggests. First—'The matter of the heads of the Nanatsuki family all meeting unnatural deaths.'"
+#Benio
+"'Second, the matter of no males being born into the Nanatsuki family.' 'Third, the spirited-away incidents in Nanatsuki Village.' 'Fourth, the matter of the manor being coated in pitch-black.'"
+#Benio
+"'Fifth, the matter of a swarm of crows covering the manor.' 'Sixth, the matter of the "Sacrifice of the Seven-Possessed".' 'Seventh, the matter of the spirit of the sacrificed girl wandering the manor.' ...That is all."
+#Benio
+"If you wish to investigate, please, do as you like. Though my efforts may be modest, I would be happy to assist you."
+#Satoshi
+"Ah... thank you very much."
+#Tsujimura
+"I... don't know much about such things..."
+#Satoshi
+"I see..."
+#Rokuyou
+"The curse...? Come to think of it, I feel like Benio mentioned something like that. You should try asking her."
+#Satoshi
+"I see."
+#Takamine
+"I have no interest in such trivial nonsense."
+#Satoshi
+"I-I see..."
+#Mikanagi
+"The curse? ...Ah, that's just a rumor, right? I think Benio-san would be the one familiar with those stories."
+#Satoshi
+"I see..."
+#Akane
+"T-The curse... I know there are all sorts of things being said... it's quite scary, isn't it?"
+#Satoshi
+"It is..."
+#Narumi
+"The curse? I've certainly heard people in town talking about it... but if you want details, why not ask Lady Benio?"
+#Satoshi
+"That's a good idea."
+
+--------------------
+F01_i001.txt
+********************
+#Souko
+"Want to hear about Cola? Well, you know, I was the first person in Japan to ever drink it. Pretty impressive, right?"
+#Satoshi
+"...I can tell that's a lie even without checking."
+#Maya
+"Cola... is it. Unfortunately, I have never had the occasion to drink it."
+#Satoshi
+"I see."
+#Ai
+"Cola? I have heard of it... that is what Kirihara-san was drinking, isn't it?"
+#Satoshi
+"Yes, that's right."
+#Benio
+"I am familiar with Cola. I often drink it when I go into town."
+#Satoshi
+"Oh, is that so?"
+#Tsujimura
+"Cola, is it... I remember receiving some from the Occupation forces long ago. That was nearly twenty years ago, though..."
+#Satoshi
+"I see..."
+#Rokuyou
+"Cola, you say? Of course I like it. I always make sure to load a few bottles whenever I board a ship."
+#Satoshi
+"I see."
+#Takamine
+"Cola? I don't drink such things."
+#Satoshi
+"I-I see..."
+#Mikanagi
+"Cola contains a lot of caffeine, you see. If you drink too much, you might find yourself unable to sleep, so you should be careful."
+#Satoshi
+"I-I see..."
+#Akane
+"Cola? ...I'm sorry, we haven't prepared any here, but..."
+#Satoshi
+"Oh, no, it's fine. Souko-san brought plenty with her."
+#Narumi
+"Cola? ...Actually, I heard that stewing chicken in Cola makes it quite delicious."
+#Satoshi
+"...Don't ask me, ask Souko-san."
+
+--------------------
+F01_map.txt
+********************
+It's almost ten o'clock.
+I should head back to my room.
+
+--------------------
+F01_o001.txt
+********************
+#Souko
+"It seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here."
+#Satoshi
+"Is that so..."
+#Maya
+"It is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'."
+#Satoshi
+"Is that so..."
+#Ai
+"About Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago..."
+#Satoshi
+"Is that so..."
+#Benio
+"If it is about Nanatsuki Village, I believe it would be best to ask my mother or my elder sister."
+#Satoshi
+"I see..."
+#Tsujimura
+"I've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first."
+#Satoshi
+"I see..."
+#Rokuyou
+"The origin of Nanatsuki Village? Who knows... I'm not from around here, so I don't know much about it."
+#Satoshi
+"I see..."
+#Takamine
+"...I don't know. Ask someone else."
+#Satoshi
+"...Alright."
+#Mikanagi
+"As for origins and such, I think it's better to ask someone from the Nanatsuki family."
+#Satoshi
+"You're right..."
+#Akane
+"Um... well, it's only been a short while since I came here, so..."
+#Satoshi
+"That's true, sorry for asking..."
+#Narumi
+"Nanatsuki Village, huh... I think you're better off asking the people who live in this house about that."
+#Satoshi
+"...I suppose so."
+
+--------------------
+F01_o002.txt
+********************
+#Souko
+"A will, huh... I'm certainly curious about what he left behind..."
+#Satoshi
+"Me too..."
+#Maya
+"I'm sorry, but... the contents are not something to be discussed lightly with an outsider..."
+#Satoshi
+"Of course..."
+#Ai
+"The will? I don't know the specific details, but..."
+#Satoshi
+"I see..."
+#Benio
+"My father's will... if you wish to know its contents, why not ask Mr. Takamine?"
+#Satoshi
+"I see..."
+#Tsujimura
+"...Regarding that matter, there is nothing I can say from my position."
+#Satoshi
+"I understand..."
+#Rokuyou
+"The previous head's will? ...Well, I know the contents, but it doesn't really concern me."
+#Satoshi
+"I see..."
+#Takamine
+"There's no way I could speak of it to an outsider like you."
+#Satoshi
+"Y-You're right..."
+#Mikanagi
+"That is... not a matter I am in a position to comment on."
+#Satoshi
+"I understand..."
+#Akane
+"The will...? I believe the lawyer, Mr. Takamine, might know something."
+#Satoshi
+"I see."
+#Narumi
+"A will, huh... I suppose it's about the distribution of the inheritance and such... but I don't know the fine details."
+#Satoshi
+"Of course."
+
+--------------------
+F01_o003.txt
+********************
+#Souko
+"That's the cat Benio-san keeps, right? Lovecraft... what a niche name to give it..."
+#Satoshi
+"Yeah..."
+#Maya
+"Benio looks after that child. I don't particularly... care for animals myself."
+#Satoshi
+"I see..."
+#Ai
+"The eye colors are different on each side, right? They call that 'odd eyes'."
+#Satoshi
+"I see..."
+#Benio
+"Love? Isn't he adorable? He is my most precious friend."
+#Satoshi
+"I see."
+#Tsujimura
+"Lady Benio looks after him. He doesn't seem to take well to others..."
+#Satoshi
+"I see."
+#Rokuyou
+"...Ah, the cat Benio keeps. I'm sorry, but I don't know much about it."
+#Satoshi
+"I see."
+#Takamine
+"A cat... I don't know the details, but I assume Benio-kun is keeping it?"
+#Satoshi
+"It seems so."
+#Mikanagi
+"Benio-san's cat, right? I've seen Akane-san giving it food."
+#Satoshi
+"I see."
+#Akane
+"Lady Benio keeps him. I am the one who feeds him."
+#Satoshi
+"I see."
+#Narumi
+"Lady Benio's cat? He often comes to the kitchen while I'm cooking to try and sneak a snack."
+#Satoshi
+"I see."
+
+--------------------
+F01_o004.txt
+********************
+#Souko
+"The room Mr. Kousei used to use, right. I'm curious, but if we can't get in, there's no helping it."
+#Satoshi
+"Yeah."
+#Maya
+"It is the room my husband used while he was alive. We have left it exactly as it was."
+#Satoshi
+"I see."
+#Ai
+"That is the room my father used. I have hardly ever set foot in there myself."
+#Satoshi
+"I see."
+#Benio
+"My father's room. It is locked now so that no one can enter."
+#Satoshi
+"I see..."
+#Tsujimura
+"That is the room the Master used to use, but it is kept locked now. I am the one in charge of the key."
+#Satoshi
+"I see."
+#Rokuyou
+"The previous head's room... I've never been inside. I imagine it's filled with nothing but music-related things..."
+#Satoshi
+"I see..."
+#Takamine
+"Mr. Kousei's room is off-limits to everyone. It is not a place that concerns you."
+#Satoshi
+"Y-You're right..."
+#Mikanagi
+"I don't know much about that room either. Apparently it was the previous head's room... but I don't think you can see the inside."
+#Satoshi
+"I see..."
+#Akane
+"That room... I haven't been inside either, so..."
+#Satoshi
+"I see..."
+#Narumi
+"I hear that room is preserved exactly as it was when the Master was alive... but I don't think there's anything particularly unusual in there."
+#Satoshi
+"I see..."
+
+--------------------
+F01_o005.txt
+********************
+#Souko
+"Huh... there's even something like that."
+#Souko
+"So it was Shion-san's room... She's the only one made to live in the annex."
+#Satoshi
+"Yeah..."
+#Maya
+"There is indeed a tower outside... is something wrong?"
+#Satoshi
+"Oh, no, it's nothing."
+#Maya
+"That is the room of my youngest daughter, Shion. Her constitution is weak, so we have her living in the annex."
+#Satoshi
+"Is that so..."
+#Ai
+"Yes, there is a tower..."
+#Ai
+"...That is indeed Shion's room. Since she is physically weak, she has always lived there."
+#Satoshi
+"Is that so..."
+#Benio
+"If you wish to go there, I believe you should speak to Tsujimura in the office."
+#Satoshi
+"I see."
+#Benio
+"With this much snow, it would be impossible to reach the tower from anywhere but the office door."
+#Satoshi
+"You're right."
+#Tsujimura
+"Yes, you can reach the tower in the back from the office, but..."
+#Satoshi
+"Would it be alright if I went there?"
+#Tsujimura
+"I'm sorry, but that's a bit..."
+#Satoshi
+"I see..."
+It seems it's no use without a proper reason.
+#Tsujimura
+"In this snow, I'll have to do some shoveling myself. It would be a disaster if Lady Shion were to trip."
+#Satoshi
+"That's true."
+#Rokuyou
+"The tower where Shion is, right? There's a gatekeeper there, so you can't just approach it carelessly."
+#Satoshi
+"I see..."
+#Takamine
+"The tower outside... if you want to see it, you should ask Mr. Tsujimura."
+#Satoshi
+"I see."
+#Takamine
+"...I hear Shion-kun has lived in that tower since a long time ago."
+#Satoshi
+"Is that so..."
+#Mikanagi
+"The tower... you can get there through the back door in the office."
+#Satoshi
+"I see."
+#Mikanagi
+"I've heard Shion-san lives in the annex because she's physically weak... but it might have been my father who gave those instructions..."
+#Satoshi
+"I see..."
+#Akane
+"The tower outside? That is Lady Shion's room..."
+#Satoshi
+"I see."
+#Akane
+"I am the one who brings Lady Shion her meals, but she usually eats them in the office."
+#Satoshi
+"Is that so..."
+#Narumi
+"The youngest daughter, Lady Shion, lives in that tower outside."
+#Satoshi
+"Is that so..."
+#Narumi
+"Only Lady Shion lives in the annex... it's a bit strange, isn't it?"
+#Satoshi
+"I suppose so..."
+
+--------------------
+F01_o006.txt
+********************
+#Souko
+"To think there's even a chapel inside the building... the wealthy really are something else."
+#Satoshi
+"You're right..."
+#Maya
+"I believe the chapel has been here since this building was first constructed."
+#Satoshi
+"Is that so..."
+#Ai
+"I've heard that chapel has always been used for the Nanatsuki family's weddings."
+#Satoshi
+"Is that so..."
+#Benio
+"You will be able to see the inside of the chapel later."
+#Satoshi
+"True."
+#Tsujimura
+"Preparations for the ceremony are underway now, so you cannot see the inside."
+#Satoshi
+"I see..."
+#Rokuyou
+"No need to rush; you'll be able to go inside later."
+#Satoshi
+"You're right."
+#Takamine
+"They're preparing for the ceremony, so you can't go in."
+#Satoshi
+"I see..."
+#Mikanagi
+"Aren't they preparing for the wedding in the chapel right now?"
+#Satoshi
+"I see."
+#Akane
+"The chapel is quite a chore to clean. We don't use it normally, so it doesn't get very dirty, though."
+#Satoshi
+"I see."
+#Narumi
+"A chapel that's only used for weddings... it's a bit of a luxury, isn't it?"
+#Satoshi
+"I suppose so..."
+
+--------------------
+F01_o007.txt
+********************
+#Souko
+"A song...? I haven't heard anything, so I wouldn't know."
+#Satoshi
+"I see."
+#Maya
+"A song? It is likely Shion who is singing."
+#Satoshi
+"I see..."
+#Ai
+"That would be Shion singing, I imagine. Her voice is quite beautiful."
+#Satoshi
+"Is that so..."
+#Benio
+"A song... that would likely be Shion, wouldn't it?"
+#Satoshi
+"I see..."
+#Tsujimura
+"That would likely be Lady Shion. She often sings to herself."
+#Satoshi
+"I see..."
+#Tsujimura
+"You can reach the room where Lady Shion resides through this door at the back of the office."
+#Satoshi
+"Um, if it's alright, I'd like to go and offer my greetings..."
+#Tsujimura
+"Yes, I don't mind that, but..."
+#Rokuyou
+"A song? ...Come to think of it, I feel like I might have heard something."
+#Satoshi
+"I see."
+#Takamine
+"A song... someone must be singing."
+#Satoshi
+"I suppose so."
+#Mikanagi
+"A song... I believe that would be Shion-san."
+#Satoshi
+"I see..."
+#Akane
+"A song? Lady Shion seems to sing quite often, but..."
+#Satoshi
+"I see..."
+#Narumi
+"The one who sings often would be Lady Shion, I think. Though Lady Benio plays the piano as well."
+#Satoshi
+"I see."
+
+--------------------
+F01_o008.txt
+********************
+#Souko
+"It was sitting in the performance room. It certainly looked like an antique..."
+#Satoshi
+"I see."
+#Maya
+"That is something my husband purchased before the war. It was imported all the way from Germany."
+#Satoshi
+"Is that so..."
+#Ai
+"I do not play it myself... but Benio plays quite often."
+#Satoshi
+"I see."
+#Benio
+"I didn't learn the piano from my father, but from Tsujimura. I still play it from time to time."
+#Satoshi
+"I see."
+#Tsujimura
+"...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio."
+#Satoshi
+"I see..."
+#Rokuyou
+"A piano? It likely belonged to the previous head. I don't know how much it's worth, though..."
+#Satoshi
+"I see..."
+#Takamine
+"I don't think anyone would mind if you played it, but don't break it."
+#Satoshi
+"O-Oh, right..."
+#Mikanagi
+"A piano? It's apparently quite old. It seems to have been one of Mr. Kousei's favorite instruments."
+#Satoshi
+"I see..."
+#Akane
+"The piano in the performance room, right. I always make sure to polish it until it shines."
+#Satoshi
+"I see."
+#Narumi
+"The piano in the performance room? I've never seen anyone but Lady Benio playing it."
+#Satoshi
+"I see..."
+
+--------------------
+F01_p001.txt
+********************
+#Souko
+"You want to hear about me? You already know, don't you?"
+#Satoshi
+"No, come on, give me something."
+#Souko
+"Your university senior and an unparalleled Cola lover. Will that do?"
+#Satoshi
+"...Not really."
+#Souko
+"Well then, shall I say I'm a folklorist who came here for research?"
+#Satoshi
+"Souko-san, you're still a student too."
+#Maya
+"Kirihara-san? I'm sorry, I don't know her well."
+#Satoshi
+"Y-You're right..."
+#Ai
+"Kirihara-san? We've only just met, so I'm not sure..."
+#Satoshi
+"True..."
+#Benio
+"Kirihara-san? ...I am sorry, I am not well acquainted with her..."
+#Satoshi
+"Of course..."
+#Tsujimura
+"Ms. Kirihara? ...I don't know her well, but..."
+#Satoshi
+"Y-You're right..."
+#Rokuyou
+"Kirihara-san... ah, her. You probably know more about her than I do, don't you?"
+#Satoshi
+"...Well, I suppose so..."
+#Takamine
+"Kirihara... ah, her. There's no reason I would know anything, is there?"
+#Satoshi
+"Y-You're right..."
+#Mikanagi
+"Kirihara-san? ...Well, I can't really say..."
+#Satoshi
+"...I guess that's true."
+#Akane
+"Ms. Kirihara? I believe she would be in her room."
+#Satoshi
+"Uh... I suppose she would..."
+#Narumi
+"Ms. Kirihara? ...No, I don't know her."
+#Satoshi
+"I-I see..."
+
+--------------------
+F01_p002.txt
+********************
+#Souko
+"Maya-san, huh... she definitely has that air of a mistress about her. She seems kind, though."
+#Satoshi
+"Yeah."
+#Maya
+"About me? Surely it wouldn't be interesting to know about an old woman like me?"
+#Satoshi
+"No... that's not true at all..."
+#Ai
+"Mother? She's a kind person."
+#Satoshi
+"I see."
+#Benio
+"My mother? She is a gentle and kind person."
+#Satoshi
+"I see."
+#Tsujimura
+"The Mistress? She's a very kind person."
+#Satoshi
+"I see."
+#Rokuyou
+"Maya-san? I'm grateful for her cooperation with this wedding."
+#Satoshi
+"I see."
+#Takamine
+"Maya-san... she seems to have done her best on her own since Mr. Kousei passed away."
+#Satoshi
+"I see."
+#Mikanagi
+"Maya-san... I believe she is a person full of affection."
+#Satoshi
+"I see."
+#Akane
+"The Mistress? I believe she is in her room, but..."
+#Satoshi
+"I see..."
+#Narumi
+"The Mistress? She's a kind and good person."
+#Satoshi
+"I see."
+
+--------------------
+F01_p003.txt
+********************
+#Souko
+"About Ai-san? She definitely feels like a proper young lady."
+#Satoshi
+"Yeah."
+#Maya
+"Ai? She's a quiet girl who's always lost in her books."
+#Satoshi
+"I see."
+#Ai
+"About me? Um... I don't really have anything to talk about, but..."
+#Satoshi
+"I see..."
+#Benio
+"My sister? She is a quiet and good elder sister."
+#Satoshi
+"I see..."
+#Tsujimura
+"Lady Ai? She's always reading her books."
+#Satoshi
+"I see."
+#Rokuyou
+"About Ai? We're childhood friends, so I'd say we're on good terms."
+#Satoshi
+"I see..."
+#Takamine
+"About Ai-kun? She's been a quiet girl since she was small, but..."
+#Satoshi
+"I see."
+#Mikanagi
+"Ai-san, huh... she has times where her emotions can be quite intense."
+#Satoshi
+"Is that so..."
+#Akane
+"Lady Ai? I believe she would be in her room right now."
+#Satoshi
+"I see."
+#Narumi
+"Lady Ai? She's often in the archive reading books."
+#Satoshi
+"I see."
+--------------------------------------------------------------------------------
+--------------------
+F01_p004.txt
+********************
+#Souko
+"Benio-san? ...Well, I still don't quite have a read on her. It feels like she’s putting on an act, though..."
+#Satoshi
+"I see..."
+#Maya
+"Benio? She's a bit peculiar, but she's a good girl."
+#Satoshi
+"I see."
+#Ai
+"About Benio? She has her quirks, but she isn't a bad child."
+#Satoshi
+"I see."
+#Benio
+"About me? ...I don't really have much to tell you..."
+#Satoshi
+"Is that so?"
+#Benio
+"Yes, well..."
+#Satoshi
+"I see..."
+#Tsujimura
+"Lady Benio? ...I have nothing in particular to say on that matter..."
+#Satoshi
+"I see..."
+#Rokuyou
+"Benio? She's a very sweet girl. A bit eccentric, perhaps."
+#Satoshi
+"...Is that right?"
+#Takamine
+"Benio-kun... well, she is certainly unconventional..."
+#Satoshi
+"I see..."
+#Mikanagi
+"Benio-san? She's an interesting one."
+#Satoshi
+"Is that so..."
+#Akane
+"Lady Benio? Wouldn't she be in her room?"
+#Satoshi
+"Ah... I suppose so."
+#Narumi
+"Lady Benio? ...Well, it's not my place to say anything."
+#Satoshi
+"I see..."
+
+--------------------
+F01_p005.txt
+********************
+#Souko
+"Shion-san? ...I haven't met her, so I can't really say. Though I'm sure we'll meet at the midnight wedding, so there's no rush."
+#Satoshi
+"...True."
+#Maya
+"Shion? She's been frail since she was small, and we were afraid of her catching some sort of infection, so we have her living in the annex."
+#Satoshi
+"Is that so..."
+#Ai
+"Shion... she hasn't set foot outside the manor since she was born. Perhaps because of that, she doesn't try to speak with people much."
+#Satoshi
+"Is that so..."
+#Benio
+"Shion is an incredibly bright child. However... she is desperately lacking in experience."
+#Satoshi
+"Is that so..."
+#Tsujimura
+"Lady Shion? ...She sings such beautiful songs. I often find myself listening in a daze... ah, how embarrassing..."
+#Satoshi
+"Is that so..."
+#Rokuyou
+"About Shion? I was drawn to her gentle heart... haha, it's a bit embarrassing to talk about this so openly..."
+#Satoshi
+"I see..."
+#Takamine
+"Shion-kun... she seems to have lived in that tower since long before I started coming here."
+#Satoshi
+"Is that so..."
+#Mikanagi
+"Shion-san is frail and suffers from headaches, so she takes medicine to suppress them every day. I only wish she would get better..."
+#Satoshi
+"I see..."
+#Akane
+"Lady Shion? She is always in the tower outside. You can go out through the door at the back of the office."
+#Satoshi
+"I see."
+#Narumi
+"Lady Shion? She doesn't seem to be able to eat much. She really needs to get some nutrition into her system..."
+#Satoshi
+"You're right..."
+
+--------------------
+F01_p006.txt
+********************
+#Souko
+"Tsujimura-san? Even though he's Mr. Kousei's younger brother, he acts like a servant here... it's a bit strange."
+#Satoshi
+"I suppose so..."
+#Maya
+"Tsujimura? He was my husband's younger brother, so we hired him. He works hard, and I am very grateful to him."
+#Satoshi
+"I see."
+#Ai
+"Tsujimura-san? He is our uncle, but he's a very kind man."
+#Satoshi
+"I see."
+#Benio
+"Tsujimura? ...He serves me well."
+#Satoshi
+"I see..."
+#Tsujimura
+"About me...? No, I have nothing to say that I could be proud of."
+#Satoshi
+"I see..."
+#Rokuyou
+"About Tsujimura? ...Well, I only know that he's the younger brother of the deceased Master..."
+#Satoshi
+"I see."
+#Takamine
+"About Tsujimura-san? He's the previous head's younger brother and currently acts as the caretaker here, I hear."
+#Satoshi
+"I see."
+#Mikanagi
+"Tsujimura-san is the one who handles all the paperwork for the Nanatsuki family. You could even call him a butler."
+#Satoshi
+"I see."
+#Akane
+"Tsujimura-san? He usually works in the office."
+#Satoshi
+"I see."
+#Narumi
+"Tsujimura-san? He's a kind man. A bit timid at times, though..."
+#Satoshi
+"I see."
+
+--------------------
+F01_p007.txt
+********************
+#Souko
+"Takamine-san? He's quite a stern man, isn't he? He doesn't seem like a lawyer at all."
+#Satoshi
+"Yeah..."
+#Maya
+"Attorney Takamine's father was also the Nanatsuki family's legal counsel. He is very dedicated to his work."
+#Satoshi
+"I see..."
+#Ai
+"Mr. Takamine has apparently been coming here since he was small, brought along by his father."
+#Satoshi
+"Is that so?"
+#Benio
+"Mr. Takamine? He is a man of few words... and the burn scars on his face look quite painful."
+#Satoshi
+"They do..."
+#Tsujimura
+"Mr. Takamine. He is here to witness the wedding today. As a lawyer, he's necessary for the contract signing."
+#Satoshi
+"I see."
+#Rokuyou
+"Takamine-san? I hear his family has been legal counsel for the Nanatsuki for generations, but I haven't talked to him much."
+#Satoshi
+"I see."
+#Takamine
+"……I have nothing to say."
+#Satoshi
+"Y-You're right..."
+#Mikanagi
+"About Mr. Takamine? Just like me, his father seems to have been involved with this family."
+#Satoshi
+"I see."
+#Akane
+"Mr. Takamine? I believe he would be in his room, but..."
+#Satoshi
+"I see."
+#Narumi
+"Takamine-san? ...He has a scary face, doesn't he? To think a guy like that is a lawyer... you just never know with this world."
+#Satoshi
+"I-I suppose so..."
+
+--------------------
+F01_p008.txt
+********************
+#Souko
+"About Dr. Mikanagi? Hmm, he did treat my finger, but he feels a bit... flighty, I guess."
+#Satoshi
+"...I suppose so."
+#Maya
+"We were very much indebted to Dr. Mikanagi's father. I am only where I am today thanks to the Mikanagi family."
+#Satoshi
+"I see..."
+#Ai
+"Dr. Mikanagi often looks after us. Doctors won't come out to such a remote place, so it's a huge help."
+#Satoshi
+"I see."
+#Benio
+"Are you asking about Hiroshi? He's been here since long ago, so we're practically like family."
+#Satoshi
+"I see."
+#Tsujimura
+"Dr. Mikanagi is indispensable here. The Mistress and Lady Shion aren't in the best of health, after all..."
+#Satoshi
+"I see..."
+#Rokuyou
+"Hiroshi and I have been stuck with each other for years, so I know a lot. Even back in med school, he seemed to be breaking plenty of hearts."
+#Satoshi
+"I see..."
+#Takamine
+"Dr. Mikanagi appears to be an excellent physician. He specializes in internal medicine, but I'm sure he could handle simple surgeries if needed."
+#Satoshi
+"I see."
+#Mikanagi
+"Me? My father is the true family doctor for the Nanatsuki. But he's getting on in years, so I've been staying here lately."
+#Satoshi
+"Is that so?"
+#Akane
+"Eh, Dr. Mikanagi!? Um, well... wouldn't he be in the infirmary...?"
+#Satoshi
+"I see..."
+#Narumi
+"Dr. Mikanagi? He has a bit of a light air about him. Though he hardly ever says a word to me."
+#Satoshi
+"I-I see..."
+
+--------------------
+F01_p009.txt
+********************
+#Souko
+"Akane-san? she seems like a serious, good girl."
+#Satoshi
+"She does."
+#Maya
+"Akane works very hard. She's very attentive to the smallest details."
+#Satoshi
+"I see."
+#Ai
+"Akane-san? She works very hard."
+#Satoshi
+"I see."
+#Benio
+"Akane-san? She is a very good person. A bit scatterbrained at times, but..."
+#Satoshi
+"I see..."
+#Tsujimura
+"Ms. Hiyama? She handles her work properly, and I have no complaints..."
+#Satoshi
+"I see."
+#Rokuyou
+"Akane? She seems a bit flighty, but she's giving it her all, isn't she?"
+#Satoshi
+"I see."
+#Takamine
+"Hiyama-kun... to think someone would come to the depths of the mountains to work so hard."
+#Satoshi
+"I see."
+#Mikanagi
+"Akane-san... maybe she's shy, she hasn't talked to me much."
+#Satoshi
+"I see..."
+#Akane
+"Eh, about me!? No, there's nothing to tell, really!"
+#Satoshi
+"I see..."
+#Narumi
+"About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... ah, don't tell anyone I said that, okay?"
+#Satoshi
+"Uh, sure..."
+
+--------------------
+F01_p010.txt
+********************
+#Souko
+"Narumi-san? Doesn't she seem completely unmotivated? The food was delicious, though..."
+#Satoshi
+"...I suppose so."
+#Maya
+"Narumi? Her talent for cooking is wonderful. However... I only wish she were a bit more serious about it..."
+#Satoshi
+"...I see."
+#Ai
+"Narumi-san... her cooking is always delicious, but... well, her other duties are a bit..."
+#Satoshi
+"I see..."
+#Benio
+"Narumi-san? Her skills as a cook are certainly first-class."
+#Satoshi
+"I see..."
+#Tsujimura
+"Ms. Minakami... it would be a huge help to me if she worked as properly as she cooks, but..."
+#Satoshi
+"I see..."
+#Rokuyou
+"Narumi? ...Ah, the cook. I don't actually know her that well. My apologies."
+#Satoshi
+"I see."
+#Takamine
+"Minakami-kun... I don't know her well. The food isn't bad, but..."
+#Satoshi
+"I see."
+#Mikanagi
+"Narumi-san? Her food is delicious. Beyond that... I don't know much."
+#Satoshi
+"I see..."
+#Akane
+"Narumi-san? She's mainly in charge of the cooking... I believe she's in the kitchen right now."
+#Satoshi
+"I see."
+#Narumi
+"About me? Why are you asking that? ...Ah, wait, don't tell me you've got a crush on me...?"
+#Satoshi
+"...As if that would be the case."
+
+--------------------
+F01_p011.txt
+********************
+#Souko
+"Rokuyou-san? He's a handsome man. He doesn't exactly feel like a man of the sea, though."
+#Satoshi
+"I see..."
+#Maya
+"Isamu-san? I believe he is an impeccable match for Shion."
+#Satoshi
+"I see."
+#Ai
+"Isamu-san? As a partner for Shion, he's perfect, but..."
+#Satoshi
+"I see..."
+#Benio
+"Mr. Rokuyou? He has been visiting us since long ago. I believe he was particularly close with my elder sister..."
+#Satoshi
+"I see."
+#Tsujimura
+"Mr. Rokuyou is from a branch of the Nanatsuki family. Apparently, the marriage was decided a long time ago."
+#Satoshi
+"I see."
+#Rokuyou
+"About me? I'm not very good at talking about myself."
+#Satoshi
+"I see..."
+#Takamine
+"Rokuyou-kun? I've heard he's a serious and hardworking man."
+#Satoshi
+"I see."
+#Mikanagi
+"About Isamu? He can be a bit too serious at times. Actually, he's terrible at talking to girls, so I used to tease him about it all the time."
+#Satoshi
+"I see."
+#Akane
+"Mr. Rokuyou... um, I believe he's in his room."
+#Satoshi
+"I see."
+#Narumi
+"Mr. Rokuyou? Hmm... honestly, I don't know him that well."
+#Satoshi
+"I see..."
+
+--------------------
+F01_p012.txt
+********************
+#Souko
+"About the late Mr. Kousei? He was a famous musician. I know a few of his songs myself."
+#Satoshi
+"I see."
+#Maya
+"My husband was a great composer. He was the one who built the performance room in this manor, after all."
+#Satoshi
+"Is that so..."
+#Ai
+"Father? He was a kind man. When I was small, he often read books to me."
+#Satoshi
+"I see."
+#Benio
+"My father? He was kind to everyone."
+#Satoshi
+"I see."
+#Tsujimura
+"The Master... he was my elder brother, and he hired me here when I had nowhere else to go. I am very grateful to him."
+#Satoshi
+"I see..."
+#Rokuyou
+"Kousei-san? He was a famous composer, so I'm sure he had his own hidden troubles... dying the way he did."
+#Satoshi
+"I see..."
+#Takamine
+"My father was Mr. Kousei's legal counsel. He seems to have made quite a fortune from his compositions."
+#Satoshi
+"I see..."
+#Mikanagi
+"My father was Mr. Kousei's family doctor. That's why I'm here now, following in his footsteps."
+#Satoshi
+"I see."
+#Akane
+"The Master? I didn't know him well, but I've heard he was a very good person."
+#Satoshi
+"I see..."
+#Narumi
+"The Master? I never met him directly, so I wouldn't know."
+#Satoshi
+"I see..."
+
+--------------------
+F01_room.txt
+********************
+It seems to be ten o'clock.
+Maybe I'll go to the toilet for a bit...
+
+--------------------
+F01_search.txt
+********************
+It's almost ten o'clock.
+I think I'll just stay put and behave, like I was told.
+
+--------------------
+F01_talk.txt
+********************
+#Souko
+"Will this do?"
+#Satoshi
+"Yes, thank you."
+#Souko
+"Then keep up the good work with the investigation."
+#Satoshi
+"I will."
+I decided to head somewhere else.
+#Maya
+"Is that everything?"
+#Satoshi
+"Yes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now."
+I bowed and decided to head somewhere else.
+#Ai
+"Is that everything?"
+#Satoshi
+"Yes, thank you very much. You seem busy, so I'll be going now."
+I bowed and decided to head somewhere else.
+#Benio
+"Will this suffice?"
+#Satoshi
+"Yes, thank you very much."
+#Benio
+"If anything else comes up, please don't hesitate to ask."
+#Satoshi
+"Yes, I'll do that."
+I decided to head somewhere else.
+#Tsujimura
+"Will this be enough for you?"
+#Satoshi
+"Yes, thank you for your detailed help. You seem busy, so I'll take my leave now."
+I expressed my thanks and decided to head somewhere else.
+#Rokuyou
+"Is that everything?"
+#Satoshi
+"Yes, thank you very much."
+#Rokuyou
+"If you need anything else, feel free to ask."
+#Satoshi
+"Thank you. Well then, excuse me."
+I decided to head somewhere else.
+#Takamine
+"Will this do?"
+#Satoshi
+"Y-Yes. Thank you. You seem busy, so I'll excuse myself now."
+I bowed and decided to head somewhere else.
+#Mikanagi
+"Will this be enough for you?"
+#Satoshi
+"Yes, thank you very much. Excuse me."
+I decided to head somewhere else.
+#Akane
+"Is that everything?"
+#Satoshi
+"Yes, thank you. You still seem busy, so I'll take my leave now."
+I bowed and decided to head somewhere else.
+#Narumi
+"Alright then, I guess I'll get back to work too. What a pain."
+Narumi-san heads toward the kitchen.
+#Satoshi
+"Well then, I'll be going now. Excuse me."
+#Narumi
+"See ya. Come back anytime."
+I decided to head somewhere else.
+Now then, what should I do next...

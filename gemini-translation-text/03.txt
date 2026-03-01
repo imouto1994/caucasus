@@ -1,0 +1,3163 @@
+--------------------
+F00_01.txt
+********************
+I’ve arrived at the entrance.
+＃Narumi
+"There isn't a fireplace here."
+＃Protagonist
+"You're right... let's try somewhere else."
+
+--------------------
+F00_02.txt
+********************
+I’ve reached the first-floor hall.
+＃Narumi
+"There isn't a fireplace here."
+＃Protagonist
+"You're right... let's try somewhere else."
+
+--------------------
+F00_03.txt
+********************
+I’ve made my way into the Great Hall.
+＃Protagonist
+"There is a fireplace here."
+＃Narumi
+"Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?"
+I’ve returned to the Great Hall.
+＃Narumi
+"Weren't we just here?"
+＃Protagonist
+"Well, yes..."
+＃Narumi
+"If you still want to investigate, then make it quick."
+＃Protagonist
+"Right..."
+
+--------------------
+F00_03s.txt
+********************
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+That looks like a remarkably expensive sofa.
+I’d be nervous just sitting there to have a drink...
+An elegant, high-end sofa sits right in the center of the room.
+A heavy, dignified table has been placed here.
+The surface appears to be polished to a brilliant shine.
+A solid, imposing table sits in the room.
+An incredibly expensive-looking painting is on display.
+I have no idea who the artist might be.
+That really is a pricey-looking painting...
+A bright red fire flickers within the hearth.
+＃Protagonist
+"Wait... this is impossible."
+It's far too hot to investigate.
+＃Narumi
+"I don't think this is the fireplace the code meant, anyway..."
+＃Protagonist
+"If we can't find anything elsewhere, let's come back and check it again later."
+＃Narumi
+"I think that's for the best."
+It's simply too hot to even attempt an investigation.
+An old-fashioned wall clock.
+＃Protagonist
+"Hm...?"
+Something has fallen into the space where the pendulum swings.
+I carefully pull open the glass door to peer inside and find a small fragment of wood.
+What is this...? It looks like a piece of parquetry.
+＃Protagonist
+"...I suppose I'll hang onto this for now."
+An antique clock hangs upon the wall.
+An incredibly expensive-looking painting is on display.
+I have no idea who the artist might be.
+That really is a pricey-looking painting...
+
+--------------------
+F00_04.txt
+********************
+I’ve come to the telephone room.
+There's no fireplace, so I have no business here.
+Let's go somewhere else.
+
+--------------------
+F00_05.txt
+********************
+Narumi-san stops in front of the office.
+＃Narumi
+"...Tsujimura-san is in there."
+＃Protagonist
+"...In that case, we won't be able to check Shion-san's place either..."
+＃Narumi
+"Let's move on to another area."
+
+--------------------
+F00_06.txt
+********************
+I’ve entered the drawing room.
+＃Protagonist
+"There is a fireplace here."
+＃Narumi
+"Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?"
+I’ve returned to the drawing room.
+＃Narumi
+"Weren't we just here?"
+＃Protagonist
+"Well, yes..."
+＃Narumi
+"If you still want to investigate, then make it quick."
+＃Protagonist
+"Right..."
+
+--------------------
+F00_06s.txt
+********************
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A bright red fire flickers within the hearth.
+＃Protagonist
+"Wait... this is impossible."
+It's far too hot to investigate.
+＃Narumi
+"I don't think this is the fireplace the code meant, anyway..."
+＃Protagonist
+"If we can't find anything elsewhere, let's come back and check it again later."
+＃Narumi
+"I think that's for the best."
+It's simply too hot to even attempt an investigation.
+It's likely a cabinet for storing things like coffee cups.
+I can't exactly go around opening things as I please, so I can't check the contents.
+It appears to be a cupboard for cups and such.
+A fine set of chairs and a table are laid out here.
+I drank some tea here right after I arrived... I'm glad I didn't spill any.
+It's a high-quality parlor set.
+
+--------------------
+F00_07.txt
+********************
+This is the storage room.
+There's no fireplace, so I have no business here.
+Let's go somewhere else.
+
+--------------------
+F00_08.txt
+********************
+I’ve made my way to the dining hall.
+＃Protagonist
+"There is a fireplace here."
+＃Narumi
+"Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?"
+I’ve returned to the dining hall.
+＃Narumi
+"Weren't we just here?"
+＃Protagonist
+"Well, yes..."
+＃Narumi
+"If you still want to investigate, then make it quick."
+＃Protagonist
+"Right..."
+
+--------------------
+F00_08s.txt
+********************
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+＃Protagonist
+"Hm...?"
+A scrap of paper has fallen under one of the chairs.
+What could this be...?
+'A Certain Man's Story: Chapter Two'
+Yes, that was back when I was holding a concert in Ueno. Even now, I cannot forget that terrifying experience. I remember it as clearly as if it were yesterday.
+And those eyes... clouded with a terrifying grey... they were undoubtedly the eyes of one who had slaughtered many on the battlefield.
+Furthermore, he possessed a complex gaze that seemed to cry out from some profound loneliness; it left me with an indescribably ominous and eerie impression.
+Looking back now, I realize that allowing that stall to operate near the venue was the beginning of everything.
+I had crossed paths with a man whose eyes held both obsession and madness. ~To be continued~
+＃Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter Two' lies on the floor.
+An incredibly expensive-looking painting is on display.
+I have no idea who painted it.
+That really is a pricey-looking painting...
+The fire in the hearth has been extinguished.
+There should be no problem investigating it.
+I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
+＃Protagonist
+"...Doesn't look like it's here."
+＃Narumi
+"So it seems. Let's search elsewhere."
+It appears that this is not the place.
+The tabletop has been cleared off neatly.
+The table is tidy and clean.
+
+--------------------
+F00_09.txt
+********************
+I’ve reached the corridor in front of the kitchen.
+Or so I thought...
+＃Narumi
+"This isn't it. There's no fireplace here."
+＃Protagonist
+"You're right... and it's quite dilapidated besides..."
+＃Narumi
+"Let's try somewhere else."
+
+--------------------
+F00_10.txt
+********************
+＃Narumi
+"Let's avoid any rooms that are currently occupied."
+＃Protagonist
+"Good point."
+We decided to head elsewhere.
+I’ve come to Akane-san's room.
+There's a fireplace here as well, but...
+＃Narumi
+"...Let's not."
+＃Protagonist
+"...Right."
+We'll only check here if we've searched everywhere else and found nothing.
+I wonder where on earth Akane-san could have gone...
+
+--------------------
+F00_11.txt
+********************
+I’ve arrived at the door to Narumi-san's room.
+＃Narumi
+"My room wouldn't have anything to do with this."
+＃Protagonist
+"But there might be something here, don't you think?"
+＃Narumi
+"If there were, I would have found it a long time ago."
+＃Protagonist
+"...I suppose you're right."
+Nothing for it; let's try another spot.
+
+--------------------
+F00_12.txt
+********************
+I stop in front of the restroom.
+＃Narumi
+"There isn't a fireplace here."
+＃Protagonist
+"You're right... let's try somewhere else."
+
+--------------------
+F00_13.txt
+********************
+I’ve reached the very end of the first floor.
+＃Narumi
+"We're done with this area, aren't we?"
+＃Protagonist
+"Yeah..."
+
+--------------------
+F00_14.txt
+********************
+I’ve come to the room Rokuyou-san was using.
+There's a fireplace here too, but...
+＃Narumi
+"...Let's not."
+＃Protagonist
+"...Right."
+We'll only check here if we've searched everywhere else and found nothing.
+I didn't want to disturb his sleep.
+
+--------------------
+F00_15.txt
+********************
+＃Narumi
+"Let's avoid any rooms that are currently occupied."
+＃Protagonist
+"Good point."
+We decided to head elsewhere.
+
+--------------------
+F00_16.txt
+********************
+＃Narumi
+"Let's avoid any rooms that are currently occupied."
+＃Protagonist
+"Good point."
+We decided to head elsewhere.
+
+--------------------
+F00_17.txt
+********************
+The room at the end of the first floor is vacant.
+I turn the doorknob, but it appears to be locked.
+＃Protagonist
+"Narumi-san, if you would."
+＃Narumi
+"...It's just another guest room, so I don't think it'll matter... but here, it's open."
+＃Protagonist
+"Of course, there's a fireplace..."
+＃Narumi
+"Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?"
+I’ve returned to this room.
+＃Narumi
+"Weren't we just here?"
+＃Protagonist
+"Well, yes..."
+＃Narumi
+"If you still want to investigate, then make it quick."
+＃Protagonist
+"Right..."
+
+--------------------
+F00_17s.txt
+********************
+The fire in the hearth has been extinguished.
+There should be no problem investigating it.
+I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
+＃Protagonist
+"...Doesn't look like it's here."
+＃Narumi
+"So it seems. Let's search elsewhere."
+It appears that this is not the place.
+There is another door further inside, separate from the one we entered through.
+It likely connects to the adjacent room.
+It seems to be a door connecting to the next room over.
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already searched this area, so let's look elsewhere.
+There isn't a single stain on the sheets covering the bed.
+Likely because nobody has been using it.
+There is no sign of the bed having been used.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+
+--------------------
+F00_18.txt
+********************
+
+--------------------
+F00_19.txt
+********************
+＃Narumi
+"Let's avoid any rooms that are currently occupied."
+＃Protagonist
+"Good point."
+We decided to head elsewhere.
+
+--------------------
+F00_20.txt
+********************
+＃Narumi
+"Let's avoid any rooms that are currently occupied."
+＃Protagonist
+"Good point."
+We decided to head elsewhere.
+I’ve come to the room Ai-san was using.
+There's a fireplace here too, but...
+＃Narumi
+"...Let's not."
+＃Protagonist
+"...Right."
+We'll only check here if we've searched everywhere else and found nothing.
+I didn't want to disturb her sleep.
+I’ve come to the room Ai-san was using.
+＃Narumi
+"...Let's not."
+＃Protagonist
+"...Right."
+We'll only check here if we've searched everywhere else and found nothing.
+I didn't want to disturb her sleep.
+
+--------------------
+F00_21.txt
+********************
+＃Narumi
+"Let's avoid any rooms that are currently occupied."
+＃Protagonist
+"Good point."
+We decided to head elsewhere.
+
+--------------------
+F00_22.txt
+********************
+＃Narumi
+"Let's avoid any rooms that are currently occupied."
+＃Protagonist
+"Good point."
+We decided to head elsewhere.
+This room is vacant.
+I turn the doorknob, but it appears to be locked.
+＃Protagonist
+"Narumi-san, if you would."
+＃Narumi
+"...It's just another guest room, so I don't think it'll matter... but here, it's open."
+＃Protagonist
+"Of course, there's a fireplace..."
+＃Narumi
+"Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?"
+I’ve returned to this room.
+＃Narumi
+"Weren't we just here?"
+＃Protagonist
+"Well, yes..."
+＃Narumi
+"If you still want to investigate, then make it quick."
+＃Protagonist
+"Right..."
+This room is currently empty.
+＃Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+
+--------------------
+F00_22s.txt
+********************
+I’ve searched all over, but I can't find anything that looks like a key.
+The fire in the hearth has been extinguished.
+There should be no problem investigating it.
+I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
+＃Protagonist
+"...Doesn't look like it's here."
+＃Narumi
+"So it seems. Let's search elsewhere."
+It appears that this is not the place.
+There is another door further inside, separate from the one we entered through.
+It likely connects to the adjacent room.
+It seems to be a door connecting to the next room over.
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already searched this area, so let's look elsewhere.
+There isn't a single stain on the sheets covering the bed.
+Likely because nobody has been using it.
+There is no sign of the bed having been used.
+When I open the drawer, I find something inside that looks like an envelope.
+The front of the envelope has 'To Lady Benio' written on it in messy handwriting.
+What is this...? It looks like a letter...
+Feeling a bit guilty, I pull out the stationery from inside.
+'Takoyaki fortune result: Helping people will bring you good things. Your lucky item is a "Carriage." You were a real help to me, kid. See ya.'
+＃Protagonist
+"...What the hell is this?"
+Let's just pretend I never saw that.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+Inside the cupboard, I find a strangely shaped iron plate.
+It has eight hemispherical indentations spaced evenly apart.
+They're about the size of golf balls.
+I don't really understand, but I wonder if it belonged to whoever was using this room.
+I'll just leave it be.
+It's probably best not to meddle with it.
+
+--------------------
+F00_23.txt
+********************
+This room is vacant.
+I turn the doorknob, but it appears to be locked.
+＃Protagonist
+"Narumi-san, if you would."
+＃Narumi
+"...It's just another guest room, so I don't think it'll matter... but here, it's open."
+＃Protagonist
+"Of course, there's a fireplace..."
+＃Narumi
+"Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?"
+I’ve returned to this room.
+＃Narumi
+"Weren't we just here?"
+＃Protagonist
+"Well, yes..."
+＃Narumi
+"If you still want to investigate, then make it quick."
+＃Protagonist
+"Right..."
+This room is currently empty.
+＃Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+
+--------------------
+F00_23s.txt
+********************
+I’ve searched all over, but I can't find anything that looks like a key.
+The fire in the hearth has been extinguished.
+There should be no problem investigating it.
+I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
+＃Protagonist
+"...Doesn't look like it's here."
+＃Narumi
+"So it seems. Let's search elsewhere."
+It appears that this is not the place.
+There is another door further inside, separate from the one we entered through.
+It likely connects to the adjacent room.
+It seems to be a door connecting to the next room over.
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already searched this area, so let's look elsewhere.
+There isn't a single stain on the sheets covering the bed.
+Likely because nobody has been using it.
+There is no sign of the bed having been used.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+
+--------------------
+F00_24.txt
+********************
+I’ve come to the room at the far end of the second floor's east side.
+It doesn't look like there's a fireplace here, so I'll try somewhere else.
+I’ve come to the room at the far end of the second floor's east side.
+＃Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+
+--------------------
+F00_24s.txt
+********************
+This is likely the extent of what can be investigated in this room.
+I open the top lid and peer inside, but there's nothing of note.
+If there were a key in a place like this, it would probably throw off the piano's sound...
+I don't see anything that looks like a key.
+I stare at the piano keys.
+No particularly strange sounds come out.
+＃Protagonist
+"...The keyhole in the fireplace was small, wasn't it?"
+＃Narumi
+"Well, yes..."
+＃Protagonist
+"...Doesn't it look like a key could fit inside one of these piano keys?"
+＃Narumi
+"Inside the keys...?"
+＃Protagonist
+"I think if we hollowed out one of the white keys, it might just work..."
+＃Narumi
+"If you have a reason for it, I suppose it's worth checking..."
+＃Protagonist
+"If '1SO' refers to the music room... then I think 'K' stands for the piano, and 'H5' might be the key itself."
+＃Narumi
+"...I believe the German word for piano was 'Klavier,' wasn't it?"
+＃Protagonist
+"Now all that's left is the location of 'H5'..."
+＃Narumi
+"You can't just go tearing the whole thing apart, you know?"
+＃Protagonist
+"I know. Let's do this carefully."
+Outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+I’ve searched all over, but I can't find anything that looks like a key.
+
+--------------------
+F00_25.txt
+********************
+I’ve come to the room where the instruments are kept.
+It doesn't look like there's a fireplace here, so I'll try somewhere else.
+I’ve come to the room where the instruments are kept.
+＃Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+--------------------------------------------------------------------------------
+--------------------
+F00_25s.txt
+********************
+I searched the area, but I couldn't find anything resembling a key.
+Is this... a trombone, I think?
+Brass instruments all look so similar that I can't really tell them apart.
+It was likely part of Kousei-san's collection.
+A vast array of musical instruments is lined up here.
+A saxophone... I believe.
+They're all arranged quite beautifully.
+A vast array of musical instruments is lined up here.
+A horn... no, is it a trumpet?
+There seems to be quite a significant number of them.
+Every single one of them is polished to a brilliant shine.
+A vast array of musical instruments is lined up here.
+There's also a door leading to the hallway behind me.
+It appears that's the door leading out to the performance room.
+It seems to be a door leading to the performance room.
+
+--------------------
+F00_26.txt
+********************
+I’ve arrived at the composition room.
+There doesn't seem to be a fireplace here, so I'll try somewhere else.
+I’ve arrived at the composition room.
+#Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+
+--------------------
+F00_26s.txt
+********************
+I searched the area, but I couldn't find anything resembling a key.
+Is this... an organ?
+I don't really know the difference between a piano and an organ.
+Well, it's clearly a keyboard instrument.
+I thought about trying to play it for a second, but it's probably not a good idea to touch things without permission.
+It appears to be an organ.
+There's some sheet music sitting on the desk.
+It looks like something Kousei-san was in the middle of writing.
+I don't know much about it, but maybe it's something valuable.
+The title is... 'Three Fragments', perhaps?
+It seems to be a piece of music titled 'Three Fragments'.
+The glass cabinet appears to be filled with sheet music.
+There are scores from composers even I recognize, like Beethoven and Bach.
+A large collection of sheet music is stored here.
+Is this... a music stand?
+Kousei-san probably used it.
+I've already finished searching here, so let's look elsewhere.
+Sheet music is pasted onto the wall.
+It was likely composed by Kousei-san.
+Sheet music is pasted onto the wall.
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A book has been left lying on the music stand.
+It's almost as if Kousei-san were still alive.
+It looks like musical reference material.
+Inside the desk drawer, I found some blank staff paper.
+A small wood fragment is being used as a paperweight.
+What is this...? It looks like a piece of parquetry.
+#Protagonist
+"...I suppose I'll hang onto this for now."
+Unused staff paper is stored here.
+It looks like a portrait.
+I don't know the artist, but it's likely a foreign work.
+A portrait is on display.
+
+--------------------
+F00_27.txt
+********************
+I’ve made my way to the room Souko-san was using.
+#Narumi
+"Since this is a guest room, I don't think she'd have hidden anything here, but..."
+#Protagonist
+"...You're right."
+We decided to go search somewhere else.
+I’ve returned to the front of this room.
+#Narumi
+"Weren't we just here?"
+#Protagonist
+"Well, yes..."
+Let's try somewhere else.
+I’ve arrived at the front of the room Souko-san was using.
+#Narumi
+"Since this is a guest room, I don't think she'd have hidden anything here, but..."
+#Protagonist
+"...You're right."
+We decided to go search somewhere else.
+
+--------------------
+F00_28.txt
+********************
+I stop in front of the restroom.
+#Narumi
+"There isn't a fireplace here."
+#Protagonist
+"You're right... let's try somewhere else."
+
+--------------------
+F00_29.txt
+********************
+The far end of the second floor's north side.
+This is the room that belonged to the previous head of the house, Kousei-shi.
+I give the doorknob a light turn, but naturally, it appears to be locked.
+Even if I asked Tsujimura-san, he probably wouldn't lend me the key... there's nothing for it right now.
+#Protagonist
+"...Narumi-san, if you would."
+#Narumi
+"Hold on a second... there, it's open."
+I step inside.
+This is the first time I've ever set foot in here.
+So this is... the room the late Kousei-san used...
+#Protagonist
+"There's... a fireplace."
+#Narumi
+"Yes... what do you want to do?"
+I enter Kousei-san's room.
+#Narumi
+"I don't think the key is in here, but... do you want to search just in case?"
+
+--------------------
+F00_29s.txt
+********************
+I searched the area, but I couldn't find anything resembling a key.
+Inside the drawer by the bedside, I found a small wood fragment.
+What is this...? It looks like a piece of parquetry.
+#Protagonist
+"...I suppose I'll hang onto this for now."
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+The organ Kousei-san used has been left exactly as it was.
+He must have done his composing here as well.
+It's the organ Kousei-san used.
+A beautiful painting is on display.
+Looking closely, I see it's signed "S. TSUJIMURA."
+It appears to be a painting by Tsujimura-san.
+One of Tsujimura-san's paintings is on display.
+#Protagonist
+"Hm...?"
+A scrap of paper is peeking out from behind the frame.
+What could this be...?
+'A Certain Man's Story: Chapter Five'
+—Hmph, I bet you think my takoyaki tastes like shit too, don't you? Acting like you know everything without even taking a bite.
+Hey, do you get it? What takoyaki needs isn't flavor—it's about making the customer who bought it feel a little bit of happiness.
+Whether it tastes good or bad isn't what's truly necessary. At least, that's how I've lived my life.
+The man's verbal assault didn't stop. I felt a deep sense of pity from the bottom of my heart, thinking he must have lived a remarkably miserable life. ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter Five' is tucked inside.
+A large painting is on display.
+The artist's name is... "Mamiya Shinzou," it seems.
+A large painting is on display.
+An easy chair has been placed here.
+I wonder if Kousei-san used to sit here lost in thought...
+An easy chair has been placed here.
+It's a large bed.
+The sheets are perfectly smooth, as if it hasn't been used for a long time.
+This must be the bed Kousei-san used.
+A photograph is on display.
+Is this Maya-san when she was young...?
+A photograph of Maya-san in her youth is on display.
+The fire in the hearth has been extinguished.
+There should be no problem investigating it.
+I peer deep into the chimney, but there's nothing there.
+It happened just as I moved the ash pan aside.
+#Protagonist
+"Ah—"
+#Narumi
+"Did you find something?"
+Narumi-san peers in beside me.
+#Protagonist
+"Is this... a keyhole?"
+A small hole has been bored into the floor of the fireplace.
+#Narumi
+"It looks that way... maybe this bottom section opens up."
+#Protagonist
+"Can you open it?"
+#Narumi
+"I wonder..."
+Narumi-san crouches down and inserts a wire into the keyhole on the floor.
+#Narumi
+"The first time with a lock is always the hardest..."
+Narumi-san struggled with it for a while, but eventually stood up, seemingly having given up.
+#Narumi
+"It'll be faster to just find the actual key."
+#Protagonist
+"I see... but where would the real key be...?"
+#Narumi
+"To begin with, it was a mistake to decode the second half of the cipher first. I think we'll get the key once we solve the first half."
+#Protagonist
+"The first half...?"
+The first half of '1SO K H5 / 1SN KAMIN'.
+#Protagonist
+"At the very least, I think we've established that '1SN KAMIN' refers to the fireplace in the north of the second floor..."
+Just then, Narumi-san clapped her hands together.
+#Narumi
+"I've got it! It's the European floor numbering. Didn't they call the first floor the ground floor?"
+#Protagonist
+"So the second floor is '1F'... which makes it '1S' in this case."
+#Narumi
+"So the first half is also on the second floor... but where's 'O'?"
+#Protagonist
+"Could it be the center...? But there's nothing in the middle of the second floor."
+#Narumi
+"...Well, we'll manage somehow if we just keep at it like we did when we found this place."
+#Protagonist
+"But 'K H5' isn't as obvious as a fireplace..."
+#Narumi
+"But it's definitely something, so let's give it a shot."
+#Protagonist
+"You're right..."
+There's no point in investigating here further until we find the key.
+
+--------------------
+F00_30.txt
+********************
+I’ve returned to my own room.
+There's a fireplace here too, of course...
+I’ve returned again.
+#Narumi
+"Weren't we just here?"
+#Protagonist
+"Well, yes..."
+#Narumi
+"If you still want to investigate, then make it quick."
+#Protagonist
+"Right..."
+I’ve returned to my own room.
+#Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+
+--------------------
+F00_30s.txt
+********************
+I searched the area, but I couldn't find anything resembling a key.
+A bright red fire flickers within the hearth.
+#Protagonist
+"Wait... this is impossible."
+It's far too hot to investigate.
+#Narumi
+"I don't think this is the fireplace the code meant, anyway..."
+#Protagonist
+"If we can't find anything elsewhere, let's come back and check it again later."
+#Narumi
+"I think that's for the best."
+It's simply too hot to even attempt an investigation.
+There's a door on a different wall from the hallway side.
+It seems to connect to the adjacent room.
+It appears to be a door connecting to the next room over.
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is hanging on the wall.
+I don't know the artist, but it's a somewhat melancholy piece.
+I've already finished searching here, so let's look elsewhere.
+This is the bed I slept in.
+It was soft and I slept very well.
+I just woke up, so I'm not particularly sleepy...
+If you want to rest, I think it's fine to take a break...
+There's an old, antique-style chest of drawers here.
+It appears to be empty inside.
+It's likely for guests; there's nothing inside.
+This is my bag.
+It's mostly packed with a change of clothes.
+When I'm dragged along by Souko-san, I never know when I'll be able to go home, so I always bring extra.
+Other than that, there's just my notebook and writing tools.
+I don't need anything from it right now.
+
+--------------------
+F00_31.txt
+********************
+Narumi-san stops in front of the infirmary.
+#Narumi
+"...Mikanagi-sensei is in there."
+#Protagonist
+"...In that case, it doesn't look like we'll be able to investigate..."
+#Narumi
+"Let's move on to another area."
+
+--------------------
+F00_32.txt
+********************
+#Narumi
+"Let's avoid any rooms that are currently occupied."
+#Protagonist
+"Good point."
+We decided to head elsewhere.
+
+--------------------
+F00_33.txt
+********************
+I step inside the study.
+#Narumi
+"There's no fireplace."
+#Protagonist
+"True... but this is Kousei-san's study, so there might be some clues left behind."
+#Narumi
+"Want to check it just in case?"
+I step inside the study.
+#Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+#Protagonist
+"Right... but more importantly, this is Kousei-san's study, so there might be some clues left behind."
+#Narumi
+"Want to check it just in case?"
+
+--------------------
+F00_33s.txt
+********************
+Books titled 'The Complete Works of H.P. Lovecraft' are lined up on the shelf.
+I have to wonder... who in this house actually reads these...?
+The complete works of Lovecraft are sitting here.
+Books titled 'The Encyclopedia of Occultism' are lined up on the shelf.
+I wonder whose they are...
+Occult books are placed here.
+Many foreign books, such as 'The Key of Solomon' and 'Grimorium Verum', are lined up here.
+Aren't these... if I remember right, what people call grimoires...?
+Books of the sort known as grimoires are placed here.
+There are books collecting folk legends from the Tohoku region, starting with 'Tono Monogatari'.
+There don't seem to be any particularly unusual books.
+Books regarding the folklore of Tohoku are placed here.
+'Die Geschichte deutscher Musik' is written on the cover.
+Um... is this German? I can't really understand the content.
+Musical symbols are written in it, so it must be related to that...
+It appears to be a music book written in German.
+It seems to be a German-Japanese dictionary.
+With this, I might be able to understand the meaning of individual words, but without knowing the grammar and such, reading a book still looks difficult.
+A German-Japanese dictionary is sitting here.
+This is... it looks like a travel guidebook written in German.
+I'd like to visit someday, but that's just not possible...
+It looks like a German travel guide.
+Is this... a mystery novel, perhaps?
+It seems to be about a detective staying at a brothel who solves a series of murders in Ueno.
+The title is... oops, I can't afford to get absorbed in reading here. I'll save it for another time.
+A mystery novel is sitting here.
+It appears this book covers German military history.
+It's written about the two World Wars and the subsequent division into East and West.
+It looks like a German history book.
+I flip through a book that caught my eye.
+It was a music textbook.
+Scales and whatnot; I don't really understand it.
+It says things like 'Do Re Mi Fa So La Ti Do' is 'C D E F G A B C' in English, and further, it becomes 'C D E F G A H C' in Germany.
+I don't even want to think back on my music grades...
+A music textbook is sitting here.
+#Protagonist
+"Hm...?"
+A scrap of paper tucked into the book caught my eye.
+What could this be...?
+'A Certain Man's Story: Chapter One'
+My name is Nanatsuki Kousei. I am a mere composer.
+I have decided to leave a record of a certain experience here. It was because the events were too hideous to keep locked away in my own heart alone.
+Let those who find this read it with caution. ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter One' is tucked inside.
+A book titled 'Deutsche Architektur' is sitting here.
+It's filled with photographs and illustrations of Western castles, so it must be some kind of commentary or guide on the subject.
+It seems to be a book related to German architecture.
+This book... appears to be a story about a protagonist who is a piano player getting caught up in a strange incident.
+Given the protagonist's profession, it might not be out of place in this house.
+Um, the title is... oops, I can't afford to get absorbed in reading here. I'll save it for another time.
+It looks like a mystery novel.
+I flip through a book that caught my eye.
+It looks like an architecture book.
+Apparently, the floor numbering differs between British and American English.
+Even for the same second floor, the US uses '2F', while the UK uses '1F'.
+That's definitely going to be confusing...
+It says the word for 'floor' is 'Floor' in English, and 'Stock' in German.
+It looks like a book on architecture.
+I flip through a book that caught my eye.
+It looks like a commentary on maps.
+It says things like 'North, South, East, West' are represented as 'N, S, E, W' in English, and become 'N, S, O, W' in German.
+So only East changes... well, I guess everything besides the first letter changes too.
+A map commentary is sitting here.
+It appears to be a mystery novel.
+It's a story about a detective chasing a serial killer of schoolgirls.
+A girl who is a spitting image of a woman in a strange painting and a bug-loving younger sister appear in it.
+Um, the title is... oops, I can't afford to get absorbed in reading here. I'll save it for another time.
+A mystery novel is sitting here.
+
+--------------------
+F00_34.txt
+********************
+
+--------------------
+F00_35.txt
+********************
+#Narumi
+"Hey, where do you think you're going?"
+Narumi-san stopped me just as I was about to head down the stairs.
+#Protagonist
+"To the first floor...?"
+#Narumi
+"Didn't I tell you the place indicated by the code is on the second floor?"
+#Protagonist
+"O-oh, right..."
+We don't have much time, so for now, let's focus our investigation on the second floor.
+
+--------------------
+F00_map.txt
+********************
+#Benio
+"—Hey."
+Benio-san suddenly called out to us, and we came to a stop.
+#Narumi
+"Lady Benio..."
+#Benio
+"Everyone's on edge. Don't wander around the mansion too much."
+#Protagonist
+"We were just investigating the cipher..."
+#Benio
+"I know that, but stop for now. I can't relax with someone walking up and down the halls in the middle of the night."
+#Protagonist
+"I see..."
+#Narumi
+"...I guess we have to give up for now."
+#Protagonist
+"In that case... I'm going to go see Shion-san."
+#Narumi
+"Lady Shion? Did you think of something?"
+#Protagonist
+"Just a little... I don't have any proof, though."
+#Narumi
+"...I see. Be careful."
+#Protagonist
+"...Yeah."
+
+--------------------
+F00_search.txt
+********************
+About an hour has passed.
+I might have spent a bit too much time... I should get out of here for now.
+--------------------------------------------------------------------------------
+--------------------
+F02_01.txt
+********************
+I’ve arrived at the entrance.
+I certainly didn't feel like stepping outside.
+There doesn't seem to be anyone around, so what should I do...
+
+--------------------
+F02_01s.txt
+********************
+It's the front door.
+It's freezing out there, so I have no desire to go outside.
+It's the front door.
+An old-fashioned cabinet with legs.
+I shouldn't really go meddling with it.
+An antique cabinet is sitting here.
+#Protagonist
+"Hm...?"
+A scrap of paper is wedged in the gap between the wall and the mirror.
+What could this be...?
+'A Certain Man's Story: Chapter Four'
+—However, the true nightmare began from that point. I offered my thanks and accepted the mountain of takoyaki.
+Just as I thought he would finally leave, I heard words I couldn't believe.
+"What's the matter? Aren't you gonna eat 'em?"
+He said he'd grilled them specifically for me, so I shouldn't hesitate to dig in.
+I desperately swallowed back the question: 'If you grilled these for me, why are they so stone-cold? Aren't these just leftovers?'
+I did so because I was certain I'd be killed otherwise. After a moment's hesitation, I chose the safest answer: that I was tired and would enjoy them later.
+However, the man didn't seem to care for that response. His face contorted violently, and he wore a look of terrifying sorrow.
+That expression was so eerie it froze me in my tracks with fear. As if to strike a finishing blow, the man added... ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter Four' is tucked inside.
+An incredibly expensive-looking painting is on display.
+The artist is... "Mamiya Shinzou," apparently.
+A painting by Mamiya Shinzou is on display.
+An incredibly expensive-looking painting is on display.
+I have no idea who painted it.
+That really is a pricey-looking painting...
+
+--------------------
+F02_02.txt
+********************
+I’ve arrived at the central hall on the first floor.
+Nobody is here.
+Just as I was about to head elsewhere, a vase tucked in the corner caught my eye.
+Some white flowers have been arranged in it.
+They hang their heads as if bowing, and the inner petals have green markings.
+I wonder if these are snowdrops.
+Even if I wanted to ask someone, there's nobody here.
+What should I do...
+I’ve come to the first-floor hall.
+Nobody seems to be around.
+What should I do...
+
+--------------------
+F02_02s.txt
+********************
+Snowdrop flowers have been arranged here.
+Several blossoms seem to be gathered together.
+Snowdrop flowers have been arranged here.
+It's a simple yet expensive-looking table.
+I feel like I'd get scolded just for spilling water on it...
+A pricey-looking table is sitting here.
+A plush, soft sofa is placed here.
+It looks much more comfortable to sleep on than the futon back at my house.
+A high-end sofa is sitting here.
+The stairs leading to the second floor.
+It feels just like being in a first-class hotel.
+I can reach the second floor by going up these stairs.
+There's a door beneath the stairs.
+It's probably best not to open it without permission.
+There is a door.
+If I open this door, I can reach the hallway on the north side of the mansion.
+It's a door leading toward the north side of the mansion.
+Beyond this door lie the Great Hall and the office.
+It's a door leading toward the west side of the mansion.
+
+--------------------
+F02_03.txt
+********************
+I’ve entered the Great Hall.
+#Ai
+"Oh... good morning."
+It seems Ai-san had already arrived.
+#Protagonist
+"Good morning, Ai-san."
+#Ai
+"Would you like some tea?"
+#Protagonist
+"Ah, yes, please."
+#Ai
+"Please, have a seat."
+I settle onto the sofa as she suggested.
+#Ai
+"Would you like yours straight or with milk?"
+#Protagonist
+"Um... milk tea, please."
+#Ai
+"Hehe... understood."
+With a soft smile, Ai-san brews the tea.
+A wonderful aroma begins to waft through the air.
+#Ai
+"Here you go."
+#Protagonist
+"Thank you."
+I wrap my hands around the warm cup.
+#Protagonist
+"Say, Ai-san. Do you have a moment?"
+#Ai
+"Yes, what is it?"
+I’ve entered the Great Hall.
+#Ai
+"Oh, is something the matter?"
+Ai-san was enjoying some tea by herself.
+#Protagonist
+"Hello, Ai-san. Do you have a moment right now?"
+#Ai
+"Yes, what's on your mind?"
+When I entered the Great Hall, Takamine-san was there.
+#Protagonist
+"Good morning."
+#Takamine
+"Hm? ...Oh, it's you. Morning."
+He seems as grumpy as ever.
+#Protagonist
+"Um, do you have a second?"
+#Takamine
+"...What is it?"
+When I entered the Great Hall, Takamine-san was there.
+#Takamine
+"Hm? ...Oh, it's you."
+He seems as grumpy as ever.
+#Protagonist
+"Um, do you have a second?"
+#Takamine
+"...What is it?"
+Souko-san had arrived in the Great Hall.
+She seems to be relaxing with Ai-san and Takamine-san.
+Now then, who should I talk to...?
+
+--------------------
+F02_04.txt
+********************
+I’ve come to the telephone room.
+Nobody seems to be around.
+They mentioned the phones aren't working anyway, so there's no point in staying here.
+Now then, what's next?
+
+--------------------
+F02_04s.txt
+********************
+A magnificent painting is displayed in a frame.
+I don't know the artist, but I'm sure it's expensive...
+A painting is on display.
+Several phone books are lined up here.
+There are ones for the prefecture, as well as Sendai City.
+Phone books are placed here.
+A notepad for jotting down messages has been provided.
+It even has a pretty pattern on it.
+A notepad is placed here.
+There is a telephone that looks like something from before the war.
+The line must have been cut by the blizzard, as there's no dial tone.
+It'll be a real problem if something happens...
+A sofa is placed here so one can talk while sitting down.
+I don't have any need to make a call right now, though.
+It seems one could comfortably have a long conversation here.
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A pencil for taking notes has been provided.
+The fact that it's properly sharpened—I wonder if Tsujimura-san did that.
+A pencil is placed here.
+
+--------------------
+F02_05.txt
+********************
+#Tsujimura
+"Oh, is something the matter?"
+Tsujimura-san was in the office.
+#Protagonist
+"Hello. Were you in the middle of working?"
+#Tsujimura
+"Not at all. Was there something you needed?"
+#Protagonist
+"Well..."
+#Tsujimura
+"Oh, what is it this time?"
+Tsujimura-san was still in the office.
+#Protagonist
+"Well..."
+
+--------------------
+F02_06.txt
+********************
+I’ve come to the drawing room, but it seems empty.
+Now then, what should I do...
+
+--------------------
+F02_06s.txt
+********************
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+The fire in the hearth is burning brightly.
+It likely stays lit all day long.
+The fire is burning bright.
+It's likely a cabinet for storing things like coffee cups.
+I can't exactly go around opening things as I please, so I can't check the contents.
+It appears to be a cupboard for cups and such.
+A fine set of chairs and a table are laid out here.
+I drank some tea here right after I arrived... I'm glad I didn't spill any.
+It's a high-quality parlor set.
+
+--------------------
+F02_07.txt
+********************
+This is the storage room.
+I don't really have any business here, but...
+
+--------------------
+F02_07s.txt
+********************
+It looks like it was originally a file cabinet.
+There seems to be sandpaper and such inside.
+It contains things like sandpaper.
+A box has been left here.
+I've no idea what's inside.
+A box is sitting here.
+A box with a lock has been left here.
+The box itself seems like it would be quite valuable.
+It's a locked wooden box.
+It appears to be a toolbox.
+It contains a hammer and some rusted pliers.
+#Protagonist
+"Ah, that reminds me..."
+The hardware on my bag had gotten a bit loose.
+I think I'll borrow these pliers to fix it.
+A toolbox is sitting here.
+A sturdy-looking wooden box sits on the floor.
+A wooden box sits on the floor.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+When I open the drawer, I find something inside that looks like stationery.
+What is this...?
+'A Certain Man's Story: Chapter Nine'
+—I was crying. The man had stopped crying. I wonder what someone else would think, seeing two grown men weeping over a plate of takoyaki.
+I thought about that even as I wept.
+I told him honestly that it tasted awful. The man gave a satisfied smile and said:
+"Well, yeah. I'm still in training, so of course it's gonna be bad. Thanks for being honest, pops."
+I felt like I finally understood this man just a little bit. ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter Nine' is inside.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+I try opening the drawer, but there's nothing unusual inside.
+There's nothing unusual inside.
+Several fuel cans are lined up.
+They likely contain fuel.
+Fuel cans are lined up here.
+
+--------------------
+F02_08.txt
+********************
+I’ve arrived at the dining hall.
+#Akane
+"Ah, good morning."
+Akane-san was there.
+#Protagonist
+"Good morning, Akane-san."
+#Akane
+"Are you here for breakfast?"
+#Protagonist
+"Yes. Is there anything ready?"
+#Akane
+"Of course. Please wait just a moment."
+With that, Akane-san headed off toward the kitchen.
+As I sat and waited, she soon returned with a tray.
+#Akane
+"It's just toast and fried eggs, if that's alright?"
+#Protagonist
+"Yes, thank you."
+I take a large bite of the golden-brown toast.
+#Protagonist
+"Hay, Ah-kahn-ay-shahn."
+#Akane
+"Please finish what's in your mouth before you try to speak."
+Akane-san scolds me with a laugh.
+#Protagonist
+"Ngh... um, do you have a moment?"
+#Akane
+"Yes? What is it?"
+I’ve returned to the dining hall.
+#Akane
+"Oh, is something the matter?"
+#Protagonist
+"Um..."
+I’ve arrived at the dining hall.
+#Benio
+"Oh, it's you."
+Benio-san was eating breakfast alone.
+Akane-san was nearby, attending to her.
+#Benio
+"Are you here for breakfast too?"
+#Protagonist
+"No, I..."
+Right now, there's something I'd rather do than eat.
+Should I talk to Benio-san or Akane-san?
+
+--------------------
+F02_09.txt
+********************
+I’ve come to the kitchen.
+#Narumi
+"Mornin'."
+Narumi-san was looking rather listless.
+#Protagonist
+"Good morning, Narumi-san."
+#Narumi
+"You're looking energetic for this early..."
+#Protagonist
+"Are you still sleepy?"
+#Narumi
+"Nah, I'm just feeling lazy and bored."
+#Protagonist
+"Oh..."
+#Narumi
+"I mean, I have to make food for over ten people starting first thing in the morning, you know? It's a total pain in the ass."
+Wait, isn't that exactly why she's here...?
+#Narumi
+"So, did you need something?"
+#Protagonist
+"Well..."
+I’ve returned to the kitchen.
+#Narumi
+"Oh, do you need something else?"
+#Protagonist
+"Well..."
+
+--------------------
+F02_10.txt
+********************
+I’ve come to the front of Akane-san's room.
+I give the door a light knock and wait, but there's no response from inside.
+It seems she isn't here.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_11.txt
+********************
+I’ve come to the front of Narumi-san's room.
+I give the door a light knock and wait, but there's no response from inside.
+It seems she isn't here.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_12.txt
+********************
+I’ve arrived at the first-floor restroom.
+Nobody is here.
+What should I do...
+
+--------------------
+F02_12s.txt
+********************
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+#Protagonist
+"Hm...?"
+A scrap of paper with something written on it is stuck to the toilet lid.
+What could this be...?
+'A Certain Man's Story: Chapter Three'
+After the day's performance ended and I was taking a breather in the dressing room, that man from the stall showed up with a massive amount of takoyaki.
+He answered bluntly that it was thanks for letting him do business there.
+However, those obviously excessive takoyaki had already lost their heat, indicating all too clearly that they were leftovers.
+I tried to refuse, but the man wouldn't listen, insisting that I didn't need to be modest.
+To be honest, I didn't want them.
+We went back and forth like that for a while, but I eventually gave in and accepted that forbidden item.
+I just wanted to get it over with because I was exhausted after the performance. ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter Three' is lying here.
+It's a locker where cleaning supplies and such are kept.
+It contains things like rags and buckets.
+Cleaning supplies are stored here.
+It's a perfectly ordinary mirror.
+Naturally, it's very clean and not at all foggy.
+A mirror hangs upon the wall.
+When I turn the tap, ice-cold water comes out.
+As expected, this might be a bit rough during this season.
+The water has become very cold.
+
+--------------------
+F02_13.txt
+********************
+I’ve reached the very end of the first floor.
+Shion-san is beyond this large door.
+I felt a bit tempted to peek inside, but that would be incredibly rude.
+I decided to head elsewhere.
+
+--------------------
+F02_14.txt
+********************
+I’ve come to Rokuyou-san's room.
+I knock on the door.
+I wait for a while, but there was no response from within.
+Is he not in?
+I gave up and decided to go somewhere else.
+
+--------------------
+F02_15.txt
+********************
+I’ve reached the front of Takamine-san's room.
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+#Takamine
+"Oh, it's you... morning."
+#Protagonist
+"Good morning. Um, do you have a moment to talk?"
+#Takamine
+"I don't mind... but make it quick."
+#Protagonist
+"Y-yes..."
+He really is intimidating...
+#Takamine
+"So, what is it?"
+#Protagonist
+"Well..."
+I’ve reached the front of Takamine-san's room.
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+#Takamine
+"...You again."
+#Protagonist
+"A-ah, um, do you have a moment to talk?"
+#Takamine
+"Fine. Come in."
+#Protagonist
+"Y-yes..."
+He really is intimidating...
+#Takamine
+"What is it this time?"
+#Protagonist
+"Well, you see..."
+I’ve reached the front of Takamine-san's room.
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+#Protagonist
+"Huh... I guess he's not here."
+There was no response no matter how long I waited.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_16.txt
+********************
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+#Protagonist
+"Huh... I guess he's not here."
+There was no response no matter how long I waited.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_17.txt
+********************
+The room at the end of the first floor is vacant.
+I quietly open the door.
+Naturally, nobody is inside.
+Now then, what should I do.
+
+--------------------
+F02_17s.txt
+********************
+The fire isn't lit, likely because nobody is using the room.
+Because of that, it felt a bit cold inside.
+The fire isn't lit in the hearth.
+There is another door further inside, separate from the one we entered through.
+It likely connects to the adjacent room.
+It seems to be a door connecting to the next room over.
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already finished searching here, so let's look elsewhere.
+There isn't a single stain on the sheets covering the bed.
+Likely because nobody has been using it.
+There is no sign of the bed having been used.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+
+--------------------
+F02_18.txt
+********************
+
+--------------------
+F02_19.txt
+********************
+I’ve come to Maya-san's room at the far end of the second floor's west side.
+I knock on the door and wait for a bit.
+#Maya
+"Oh... good morning. Is something the matter?"
+#Protagonist
+"Um, do you have just a moment?"
+#Maya
+"Yes, I don't mind at all. Please."
+With that, Maya-san invited me into the room.
+#Maya
+"So, what can I do for you?"
+#Protagonist
+"Well, you see..."
+I’ve arrived at Maya-san's room at the far end of the second floor's west side.
+I knock on the door and wait for a bit.
+#Maya
+"Oh... what is it this time?"
+#Protagonist
+"Um, do you have just a moment?"
+#Maya
+"Yes, I don't mind... please, come in."
+With that, Maya-san invited me into the room.
+#Maya
+"What is it you need?"
+#Protagonist
+"Well, you see..."
+
+--------------------
+F02_20.txt
+********************
+I’ve arrived at the front of Ai-san's room.
+I give the door a light tap and wait.
+#Protagonist
+"Huh... I guess she's not here."
+There was no response no matter how long I waited.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_21.txt
+********************
+I’ve come to Benio-san's room on the second floor.
+I wonder if she's in her room.
+I knock on the door.
+#Benio
+"Yes... oh, it's you."
+#Protagonist
+"Hello, Benio-san. Do you have a moment?"
+#Benio
+"I don't mind. Come in."
+Benio-san invited me into her room.
+#Benio
+"So, what is it?"
+#Protagonist
+"Well, you see..."
+I’ve come to Benio-san's room on the second floor.
+I knock on the door and wait for a while.
+#Benio
+"Who is it... oh, you again."
+#Protagonist
+"Hello, Benio-san. Do you have a moment?"
+#Benio
+"Well, I suppose."
+Benio-san invited me into her room.
+#Benio
+"So, what is it?"
+Benio-san asks, turning more serious.
+#Protagonist
+"Well, you see..."
+I’ve come to Benio-san's room on the second floor.
+I wonder if she's in her room.
+I knock on the door.
+#Protagonist
+"Huh... I guess she's not here."
+There was no response no matter how long I waited.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_22.txt
+********************
+This was supposed to be a vacant room.
+I quietly open the door.
+Naturally, nobody is inside.
+Now then, what should I do.
+
+--------------------
+F02_22s.txt
+********************
+The fire isn't lit, likely because nobody is using the room.
+Because of that, it felt a bit cold inside.
+The fire isn't lit in the hearth.
+There is another door further inside, separate from the one we entered through.
+It likely connects to the adjacent room.
+It seems to be a door connecting to the next room over.
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already finished searching here, so let's look elsewhere.
+There isn't a single stain on the sheets covering the bed.
+Likely because nobody has been using it.
+There is no sign of the bed having been used.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+
+--------------------
+F02_23.txt
+********************
+This was supposed to be a vacant room.
+I quietly open the door.
+Naturally, nobody is inside.
+Now then, what should I do.
+--------------------------------------------------------------------------------
+--------------------
+F02_23s.txt
+********************
+It’s probably because nobody’s using it, but the fire hasn't been lit.
+Maybe that’s why the room feels a bit chilly.
+There’s no fire in the hearth.
+There’s another door further in, separate from the one I entered through.
+It likely connects to the room next door.
+It looks like a door leading to the adjacent room.
+The world outside the window is a total whiteout; I can’t see a thing.
+I wonder when this blizzard is ever going to let up...
+The storm outside seems to be getting even more violent.
+There’s a painting on display.
+I don't know who the artist is, but it's a beautiful piece.
+I’ve already checked this spot, so let's look somewhere else.
+The sheets on the bed are perfectly spotless.
+That’s likely because no one’s been using them.
+There’s no sign that the bed has been used at all.
+I really shouldn't be opening things without permission...
+It’s probably best not to meddle with it.
+I really shouldn't be opening things without permission...
+It’s probably best not to meddle with it.
+I really shouldn't be opening things without permission...
+It’s probably best not to meddle with it.
+
+--------------------
+F02_24.txt
+********************
+I’ve come to the room at the far end of the second floor's east side.
+A grand piano sits on a slightly raised stage.
+Now then, what should I do?
+
+--------------------
+F02_24s.txt
+********************
+It looks like a remarkably vintage piano.
+I’m sure this is another thing Kousei-san used to use.
+It seems to have been well-maintained even after his death; the surface is polished to a shine.
+It looks like a vintage piano.
+Everything outside is white; I can't see a thing.
+I wonder when this blizzard is ever going to let up...
+The storm outside seems to be getting even more violent.
+
+--------------------
+F02_25.txt
+********************
+I’ve come to the room where the instruments are stored.
+Now then, what should I do next...?
+
+--------------------
+F02_25s.txt
+********************
+This is... a trombone, right?
+Brass instruments all look so similar to me that I can’t really tell them apart.
+It was probably part of Kousei-san's collection.
+There are so many instruments lined up here.
+A saxophone... I think.
+They're all arranged so beautifully.
+There are so many instruments lined up here.
+A horn... no, wait, a trumpet.
+There seems to be quite a significant number of them.
+Every single one of them is shining brilliantly.
+There are so many instruments lined up here.
+There’s also a door to the hallway behind me.
+It looks like that’s the door leading out to the performance room.
+It seems to be a door leading to the performance room.
+
+--------------------
+F02_26.txt
+********************
+I’ve arrived at the composition room.
+Now then, what's the plan?
+
+--------------------
+F02_26s.txt
+********************
+Is this... an organ?
+I don't really know the difference between a piano and an organ.
+Well, it’s clearly a keyboard instrument.
+I thought about trying to play it for a second, but it’s probably not a good idea to touch things without permission.
+It appears to be an organ.
+There's some sheet music sitting on the desk.
+It looks like something Kousei-san was in the middle of writing.
+I don't really get it, but maybe it’s something valuable.
+The title is... 'Three Fragments', maybe?
+It seems to be a piece of music titled 'Three Fragments'.
+The glass cabinet seems to be filled with sheet music.
+Scores from composers even I know, like Beethoven and Bach, are lined up there.
+A lot of sheet music is stored here.
+Is this... a music stand?
+Kousei-san probably used it.
+I’ve already checked here, so let's look somewhere else.
+Sheet music is pasted onto the wall.
+It was likely composed by Kousei-san.
+Sheet music is pasted onto the wall.
+Everything outside is white; I can't see a thing.
+I wonder when this blizzard is ever going to let up...
+The storm outside seems to be getting even more violent.
+A book has been left lying on the music stand.
+It’s almost as if Kousei-san were still alive.
+It looks like musical reference material.
+Inside the desk drawer, I found some blank staff paper.
+A small wood fragment is being used as a paperweight.
+I’m curious about it, but I can't exactly just take it if there's no reason to...
+Unused staff paper is stored here.
+It looks like a portrait.
+I don't know the artist, but it's likely a foreign work.
+A portrait is on display.
+
+--------------------
+F02_27.txt
+********************
+I’ve made my way to Souko-san's room.
+I give the door a light knock.
+#Souko
+"Oh, it's you. What is it?"
+#Protagonist
+"Do you have a second?"
+#Souko
+"Well, I don't mind."
+With that, Souko-san invited me into the room.
+#Souko
+"So, what's your business?"
+#Protagonist
+"Well, you see..."
+I’ve come to Souko-san's room.
+I give the door a light knock.
+#Souko
+"Oh, you again. What is it?"
+#Protagonist
+"Do you have a moment to talk?"
+#Souko
+"Sure, that's fine."
+With that, Souko-san invited me into the room.
+#Souko
+"What is it this time?"
+#Protagonist
+"Well, you see..."
+I’ve made my way to Souko-san's room.
+I give the door a light knock.
+I wait for a while, but there was no response from within.
+Is she not in?
+I gave up and decided to go somewhere else.
+
+--------------------
+F02_28.txt
+********************
+I’ve come to the second-floor restroom.
+Nobody is here.
+What should I do...
+
+--------------------
+F02_28s.txt
+********************
+The world outside is a wall of white; I can’t see a thing.
+I wonder when this blizzard is ever going to let up...
+The storm outside seems to be getting even more violent.
+I don't really feel the need to go right now...
+I’ll come back if I have to.
+I don't really have any business here.
+It’s a locker where cleaning supplies and such are kept.
+It contains things like rags and buckets.
+Cleaning supplies are stored here.
+It’s a perfectly ordinary mirror.
+Naturally, it's very clean and not at all foggy.
+A mirror hangs upon the wall.
+When I turn the tap, ice-cold water comes out.
+As expected, this might be a bit rough during this season.
+The water has become very cold.
+
+--------------------
+F02_29.txt
+********************
+The far end of the second floor's north side.
+This is the room that belonged to the previous head of the house, Kousei-shi.
+I give the doorknob a light turn, but naturally, it appears to be locked.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_30.txt
+********************
+I’ve returned to my own room.
+I don't really have anything to do, though...
+
+--------------------
+F02_30s.txt
+********************
+The fire in the hearth is flickering.
+Thanks to that, the room is warm.
+If it weren't for this... it’s a terrifying thought.
+The room is warm thanks to the fireplace.
+There's a door on a different wall from the hallway side.
+I wonder if it connects to the room next door...
+It appears to be a door connecting to the next room over.
+Everything outside the window is white.
+I guess it's still blizzard-like out there this morning.
+I couldn't even see the tower across from me.
+It seems to still be a blizzard outside.
+A painting is hanging on the wall.
+I don't know the artist, but it's a somewhat melancholy piece.
+I’ve already checked here, so let's look somewhere else.
+This is the bed I slept in last night.
+It was soft, and I slept very well.
+The wedding ceremony continuation is starting soon, so maybe I should just wait in my room until then...
+If you want to rest, I think it's fine to take a break...
+There's an old, antique-style chest of drawers here.
+It appears to be empty inside.
+It’s likely for guests; there’s nothing inside.
+This is my bag.
+It’s mostly packed with a change of clothes.
+When I'm dragged along by Souko-san, I never know when I'll be able to go home, so I always bring extra.
+Other than that, there’s just my notebook and writing tools.
+Oh right, I was going to fix the hardware on my bag.
+I use the pliers I borrowed from the storage room to lightly crush the bag's clasp.
+The pliers seem to be quite worn out, as if they’re about to break any minute.
+#Protagonist
+"Ah..."
+A small knife tumbled out of my bag's pocket.
+Oh yeah, I did put that in here...
+I don't have any particular use for it, but I'll hold onto it for now.
+I don't need anything from it right now.
+
+--------------------
+F02_31.txt
+********************
+#Protagonist
+"Excuse me."
+When I entered the infirmary, Mikanagi-sensei was nowhere to be seen.
+I wonder if he’s gone somewhere else.
+Now then, what should I do.
+#Protagonist
+"Good morning, Mikanagi-sensei."
+When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
+#御巫
+"Ah, good morning."
+#Protagonist
+"Do you have a moment?"
+#御巫
+"Yes, I don't mind."
+Now then, what should I do.
+#Protagonist
+"Excuse me."
+When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
+#御巫
+"Oh, what is it this time?"
+#Protagonist
+"Do you have a moment?"
+#御巫
+"Yes, please."
+Now then, what should I do.
+
+--------------------
+F02_31s.txt
+********************
+Small medicine vials are lined up here.
+With my limited knowledge, I have almost no idea what kind of medicines they are.
+I can't go meddling with them, so I'll just leave them be.
+It’s probably best not to meddle with it.
+It contains things that look like medicine.
+Maybe it’s for herbal medicine; there are even things that look like tree roots stored here.
+It’s probably best not to meddle with it.
+There seem to be disinfectants and bandages kept here.
+I can't go meddling with them, so I'll just leave them be.
+It’s probably best not to meddle with it.
+Some documents have been left on the desk.
+I shouldn't really go looking at them without permission.
+There are documents here.
+Snow is fluttering outside the window.
+I wonder when this blizzard is ever going to let up...
+The storm outside seems to be getting even more violent.
+There's a door other than the one I entered through.
+It likely connects to the library next door.
+It appears to be a door connecting to the next room over.
+There's a simple bed here, completely different from the ones in the other rooms.
+Well, it is an infirmary, so that makes sense...
+There is no sign of the bed having been used.
+Various documents are filed away.
+I really shouldn't be looking at them without permission...
+It’s probably best not to meddle with it.
+Various documents are filed away.
+I really shouldn't be looking at them without permission...
+It’s probably best not to meddle with it.
+Various documents are filed away.
+I really shouldn't be looking at them without permission...
+It’s probably best not to meddle with it.
+Various documents are filed away.
+I really shouldn't be looking at them without permission...
+It’s probably best not to meddle with it.
+In the bottom drawer, I found a pretty card.
+#Protagonist
+"What's this...?"
+The card has the letter 'r' written on it.
+I’m a bit curious, so I think I’ll hang onto it.
+There’s another piece of paper inside.
+'Campaign in progress! Collect similar cards and solve the problem! This is what the answer section on the survey postcard was for!'
+#Protagonist
+"...What the hell is this?"
+Well, I’m at least a little curious, so I’ll hold onto this card.
+There’s another piece of paper inside.
+'Now all the cards have been collected! Now for the burning question... if you rearrange the letters so far, they form a certain word.'
+'Answer with the Japanese translation most suitable for this work and send in your survey postcard!'
+'Deadline is January 11, 2010, postmark valid! We’ll send a small gift to 10 lucky winners!'
+#Protagonist
+"...Geez."
+I kind of get it, but I kind of don't...
+There's nothing particularly unusual inside.
+
+--------------------
+F02_32.txt
+********************
+This is Mikanagi-sensei's room.
+I give the door a light knock.
+#御巫
+"Ah... it's you. Good morning."
+#Protagonist
+"Good morning, Mikanagi-sensei. Do you have a moment?"
+#御巫
+"I’m sorry... but if you have business, could we do it later in the infirmary? I'm still sleepy."
+#Protagonist
+"Oh... sorry about that. I'll see you later then."
+#御巫
+"Yes, please do."
+Mikanagi-sensei looked incredibly sleepy.
+Maybe he's just not a morning person.
+I can't just stand around here forever, so let's try somewhere else.
+I’ve come to the front of Mikanagi-sensei's room.
+Just as I was about to knock, I remembered.
+He said if I had business, to see him in the infirmary.
+I should wait a while and then head to the infirmary.
+I decided to leave the area.
+I’ve come to the front of Mikanagi-sensei's room.
+I give the door a light knock.
+#Protagonist
+"Huh... I guess he's not here."
+There was no response no matter how long I waited.
+Nothing for it; let's try somewhere else.
+
+--------------------
+F02_33.txt
+********************
+This is Kousei-shi's study.
+When I twisted the doorknob, the door opened with surprising ease.
+The room was almost entirely taken up by massive bookshelves.
+This place looks like it’s worth investigating, but...
+
+--------------------
+F02_33s.txt
+********************
+Books titled 'The Complete Works of H.P. Lovecraft' are lined up on the shelf.
+I have to wonder... who in this house actually reads these...?
+The complete works of Lovecraft are sitting here.
+Books titled 'The Encyclopedia of Occultism' are lined up on the shelf.
+I wonder whose they are...
+Occult books are placed here.
+Many foreign books, such as 'The Key of Solomon' and 'Grimorium Verum', are lined up here.
+Aren't these... if I remember right, what people call grimoires...?
+Books of the sort known as grimoires are placed here.
+There are books collecting folk legends from the Tohoku region, starting with 'Tono Monogatari'.
+There don't seem to be any particularly unusual books.
+Books regarding the folklore of Tohoku are placed here.
+'Die Geschichte deutscher Musik' is written on the cover.
+Um... is this German? I can't really understand the content.
+Musical symbols are written in it, so it must be related to that...
+It appears to be a music book written in German.
+It seems to be a German-Japanese dictionary.
+With this, I might be able to understand the meaning of individual words, but without knowing the grammar and such, reading a book still looks difficult.
+A German-Japanese dictionary is sitting here.
+This is... it looks like a travel guidebook written in German.
+I'd like to visit someday, but that's just not possible...
+It looks like a German travel guide.
+Is this... a mystery novel, perhaps?
+It seems to be about a detective staying at a brothel who solves a series of murders in Ueno.
+The title is... oops, I can't afford to get absorbed in reading here. I'll save it for another time.
+A mystery novel is sitting here.
+It appears this book covers German military history.
+It's written about the two World Wars and the subsequent division into East and West.
+It looks like a German history book.
+I flip through a book that caught my eye.
+It was a music textbook.
+Scales and whatnot; I don't really understand it.
+It says things like 'Do Re Mi Fa So La Ti Do' is 'C D E F G A B C' in English, and further, it becomes 'C D E F G A H C' in Germany.
+I don't even want to think back on my music grades...
+A music textbook is sitting here.
+#Protagonist
+"Hm...?"
+A scrap of paper tucked into the book caught my eye.
+What could this be...?
+'A Certain Man's Story: Chapter One'
+My name is Nanatsuki Kousei. I am a mere composer.
+I have decided to leave a record of a certain experience here. It was because the events were too hideous to keep locked away in my own heart alone.
+Let those who find this read it with caution. ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter One' is tucked inside.
+A book titled 'Deutsche Architektur' is sitting here.
+It's filled with photographs and illustrations of Western castles, so it must be some kind of commentary or guide on the subject.
+It seems to be a book related to German architecture.
+This book... appears to be a story about a protagonist who is a piano player getting caught up in a strange incident.
+Given the protagonist's profession, it might not be out of place in this house.
+Um, the title is... oops, I can't afford to get absorbed in reading here. I'll save it for another time.
+It looks like a mystery novel.
+I flip through a book that caught my eye.
+It looks like an architecture book.
+Apparently, the floor numbering differs between British and American English.
+Even for the same second floor, the US uses '2F', while the UK uses '1F'.
+That's definitely going to be confusing...
+It says the word for 'floor' is 'Floor' in English, and 'Stock' in German.
+It looks like a book on architecture.
+I flip through a book that caught my eye.
+It looks like a commentary on maps.
+It says things like 'North, South, East, West' are represented as 'N, S, E, W' in English, and become 'N, S, O, W' in German.
+So only East changes... well, I guess everything besides the first letter changes too.
+A map commentary is sitting here.
+It appears to be a mystery novel.
+It's a story about a detective chasing a serial killer of schoolgirls.
+A girl who is a spitting image of a woman in a strange painting and a bug-loving younger sister appear in it.
+Um, the title is... oops, I can't afford to get absorbed in reading here. I'll save it for another time.
+A mystery novel is sitting here.
+
+--------------------
+F02_34.txt
+********************
+I exit through the door at the back of the office and walk through the garden where the snow continues to fall, approaching the tower.
+It’s incredibly cold.
+I guess coming out here so lightly dressed was a mistake after all.
+The area around the tower door had been properly cleared of snow.
+However...
+#Protagonist
+"...It’s locked."
+I guess that’s only natural, since Shion-san is in the cathedral.
+Nothing for it; let's head back.
+I stepped out from behind the office and began to shiver.
+No, no, Shion-san is still in the cathedral, so there's no point in going any further.
+So, I decided to head back inside the mansion.
+
+--------------------
+F02_g001.txt
+********************
+#Souko
+"If you search for information on Nanatsuki Village, it's a story that comes up right away. Though I couldn't find any documents that go into great detail."
+#Protagonist
+"I see..."
+#摩夜
+"...I am aware that such rumors are circulating in the village. However, I do not know the specifics."
+#Protagonist
+"...I see."
+#藍
+"...I would prefer not to answer that question."
+#Protagonist
+"I see... sorry about that."
+#紅緒
+"The 'Curse of the Seven Possessions', huh... well, I don't mind. First, 'Item One: The fact that all heads of the Nanatsuki family have died mysterious deaths.' 'Item Two: The fact that no males are ever born into the Nanatsuki family.'"
+#紅緒
+" 'Item Three: The mysterious disappearances in Nanatsuki Village.' 'Item Four: The fact that the mansion is painted entirely in jet black.' 'Item Five: The way massive numbers of crows cover the mansion.'"
+#紅緒
+" 'Item Six: The matter of the "Sacrifice of the Seven Possessions".' 'Item Seven: The ghost of the girl who was made a sacrifice wandering the mansion.' ...That’s all of them."
+#Protagonist
+"Geez... thank you."
+#辻村
+"I don't really... know much about such things..."
+#Protagonist
+"I see..."
+#高嶺
+"I have no interest in such nonsense."
+#Protagonist
+"O-oh, I see..."
+#御巫
+"A curse? ...Ah, you mean those rumors? I think Lady Benio would be more knowledgeable about that sort of thing."
+#Protagonist
+"I see..."
+#あかね
+"A-a curse...? I know people say all sorts of things about it... but it’s quite scary, isn't it?"
+#Protagonist
+"You're right..."
+#なるみ
+"A curse? I’ve heard they say a lot of things in town... but if you want details, why don't you try asking Lady Benio?"
+#Protagonist
+"Good point."
+
+--------------------
+F02_i001.txt
+********************
+#想子
+"You want to hear about cola? Well, let's see, I was the very first person in Japan to ever drink cola. Impressive, right?"
+#Protagonist
+"...I can tell that much is obviously a lie."
+#摩夜
+"Cola... is it. I'm afraid I've never had the pleasure of drinking it."
+#Protagonist
+"I see."
+#藍
+"Cola? I've heard of it... that was what Kirihara-san was drinking, wasn't it?"
+#Protagonist
+"Yes, that's right."
+#紅緒
+"I drink cola every once in a while. I just can't get enough of that fizzy sensation."
+#Protagonist
+"I see..."
+#辻村
+"Cola... I remember getting some from the occupation forces a long time ago. That was nearly twenty years ago now, though..."
+#Protagonist
+"Wow... I see."
+#高嶺
+"Cola? I don't drink such things."
+#Protagonist
+"O-oh, I see..."
+#御巫
+"Cola contains a lot of caffeine, you see. If you drink too much, you might find yourself unable to sleep, so you should be careful."
+#Protagonist
+"O-oh, I see..."
+#あかね
+"Cola? ...I’m sorry, we haven't prepared any here..."
+#Protagonist
+"Oh, no, it's fine. Souko-san brought plenty with her."
+#なるみ
+"Cola? ...Come to think of it, I’ve heard that simmering chicken in cola makes it delicious."
+#Protagonist
+"...Don't ask me, go ask Souko-san."
+
+--------------------
+F02_map.txt
+********************
+It’s almost eight o'clock.
+I’m supposed to head to the Great Hall.
+
+--------------------
+F02_o001.txt
+********************
+#想子
+"Apparently, this has been the territory of the Nanatsuki family for a very long time. Since it was isolated from other villages, maybe a unique culture developed here."
+#Protagonist
+"Is that so..."
+#摩夜
+"It is said that our ancestors reclaimed the land in this area. Since then, the region has come to be known as Nanatsuki."
+#Protagonist
+"Is that so..."
+#藍
+"About Nanatsuki Village... the legends left in the literature say that the ancestors of the Nanatsuki family settled here long ago, but..."
+#Protagonist
+"Is that so..."
+#紅緒
+"If it’s about Nanatsuki Village, I think you should ask my mother or my older sister. I'm sure they know much more than I do."
+#Protagonist
+"I see..."
+#辻村
+"I hear this area has been called Nanatsuki Village for a long time... but I’m not sure if the Nanatsuki family came first, or if the village started using the name first."
+#Protagonist
+"I see..."
+#高嶺
+"...I don't know. Try someone else."
+#Protagonist
+"...Alright."
+#御巫
+"As for the origin and such, I think it's better to ask someone from the Nanatsuki family."
+#Protagonist
+"Good point..."
+#あかね
+"Um... well, it’s only been recently that I came here, so..."
+#Protagonist
+"Right, sorry about that..."
+#なるみ
+"About Nanatsuki Village... I think it's better to ask the people of this house about that sort of thing."
+#Protagonist
+"...Good point."
+
+--------------------
+F02_o002.txt
+********************
+#想子
+"A will, huh... I’m certainly curious about what kind of things were left in it..."
+#Protagonist
+"Right..."
+#摩夜
+"I am sorry... but that is not something I can easily discuss with an outsider..."
+#Protagonist
+"You're right..."
+#藍
+"A will? ...I don't know the specifics, but..."
+#Protagonist
+"I see..."
+#紅緒
+"You should ask Takamine about my father's will. He’s the one managing it."
+#Protagonist
+"I see..."
+#辻村
+"...As far as that matter is concerned, there is nothing I can say."
+#Protagonist
+"You're right..."
+#高嶺
+"There’s no way I could discuss that with an outsider like you."
+#Protagonist
+"Y-you're right..."
+#御巫
+"That’s... not a matter I’m in any position to comment on."
+#Protagonist
+"You're right..."
+#あかね
+"A will...? I wonder if the lawyer, Takamine-sama, might know something."
+#Protagonist
+"I see."
+#なるみ
+"A will, huh... I suppose it’s where the distribution of the inheritance and such is written... but naturally, I don't know the details."
+#Protagonist
+"You're right."
+
+--------------------
+F02_o003.txt
+********************
+#想子
+"That’s the cat Benio-san keeps, isn't it? Lovecraft... what a niche name she gave it..."
+#Protagonist
+"I see..."
+#摩夜
+"Benio is the one looking after that child. I'm not... particularly fond of animals."
+#Protagonist
+"I see..."
+#藍
+"The eye colors are different on the left and right, aren't they? That’s what’s known as 'odd eyes'."
+#Protagonist
+"I see..."
+#紅緒
+"Love only takes to me... but it seems he’s taken a liking to you too."
+#Protagonist
+"I see..."
+#辻村
+"Lady Benio is the one looking after him. It seems he doesn't take to other people very easily..."
+#Protagonist
+"I see."
+#高嶺
+"A cat, is it... I don't know the details, but Benio-kun is keeping it, right?"
+#Protagonist
+"Apparently so."
+#御巫
+"Benio-san's cat? I saw Akane-san giving it some food."
+#Protagonist
+"I see."
+#あかね
+"Lady Benio is the one keeping him. I’m the one who gives him his food."
+#Protagonist
+"I see."
+#なるみ
+"Lady Benio's cat? He often comes to the kitchen while I'm cooking to try and sneak a snack."
+#Protagonist
+"I see."
+--------------------------------------------------------------------------------
+--------------------
+F02_o004.txt
+********************
+#Souko
+"Kousei-shi's old room, huh? I’m curious, but if it’s locked up tight, there’s not much we can do."
+#Protagonist
+"I suppose you're right."
+#Maya
+"That was my husband's room while he was alive. We’ve left it exactly as it was back then."
+#Protagonist
+"I see."
+#Ai
+"That room belonged to my father. Even I have almost never set foot inside."
+#Protagonist
+"I see."
+#Benio
+"Father's room is strictly off-limits. Even I’ve hardly ever been allowed in there."
+#Protagonist
+"I see..."
+#Tsujimura
+"That is the room the Master used to occupy, but it is kept locked now. I am the one in charge of the key."
+#Protagonist
+"I see."
+#Takamine
+"Kousei-shi's room is sealed off from everyone. It’s a place that has nothing to do with you people."
+#Protagonist
+"Y-you're right..."
+#御巫
+"I don't know much about that room myself. It belonged to the previous head of the house, apparently... but I doubt you'll get a look inside."
+#Protagonist
+"I see..."
+#Akane
+"That room...? I’ve never been inside it myself, so..."
+#Protagonist
+"I see..."
+#Narumi
+"I heard they’re preserving that room exactly as it was when the Master was alive... but I doubt there’s anything particularly unusual in there."
+#Protagonist
+"I see..."
+
+--------------------
+F02_o005.txt
+********************
+#Souko
+"So that was Shion-san's room... She’s the only one living out there in the annex, isn't she?"
+#Protagonist
+"Yeah..."
+#Maya
+"That is the room of my youngest daughter, Shion. Her health is delicate, so we have her stay in the annex."
+#Protagonist
+"Is that so..."
+#Ai
+"...Yes, that is Shion's room. Because her body is weak, she has lived there for a very long time."
+#Protagonist
+"Is that so..."
+#Benio
+"If you want to get to the tower, your only option is to go through the door at the back of the office."
+#Protagonist
+"I see."
+#Tsujimura
+"With all this snow, I shall have to do some shoveling myself. It would be a disaster if Lady Shion were to trip and fall."
+#Protagonist
+"You're right."
+#Takamine
+"...I’ve heard that Shion-kun has lived in that tower since long ago."
+#Protagonist
+"Is that so..."
+#御巫
+"I’m told Shion-san lives in the annex due to her poor health... but it’s possible my father was the one who gave those instructions..."
+#Protagonist
+"I see..."
+#Akane
+"I’m the one who brings Lady Shion her meals, though she usually eats them in the office."
+#Protagonist
+"Is that so..."
+#Narumi
+"Only Lady Shion lives out in the annex... It’s a bit strange, isn't it?"
+#Protagonist
+"It is..."
+
+--------------------
+F02_o006.txt
+********************
+#Souko
+"The cathedral is closed off while they continue the wedding ceremony, it seems."
+#Protagonist
+"Yeah..."
+#Maya
+"The cathedral will be opened again at eight o'clock."
+#Protagonist
+"I see..."
+#Ai
+"I’ve heard that cathedral has always been used for weddings in the Nanatsuki family."
+#Protagonist
+"Is that so..."
+#Benio
+"If you want to enter the cathedral, you’ll have to wait a little longer."
+#Protagonist
+"Right."
+#Tsujimura
+"The ceremony is currently underway... Please wait just a bit more."
+#Protagonist
+"I see..."
+#Takamine
+"You can't go in; the ceremony is in progress."
+#Protagonist
+"I see..."
+#御巫
+"I believe Shion-san is likely in the cathedral right now."
+#Protagonist
+"I see."
+#Akane
+"Cleaning the cathedral is such a chore. It isn't used often so it doesn't get very dirty, but still."
+#Protagonist
+"I see."
+#Narumi
+"A cathedral that only gets used for weddings... seems a bit decadent, doesn't it?"
+#Protagonist
+"I guess so..."
+
+--------------------
+F02_o007.txt
+********************
+#Souko
+"A song...? I haven't heard anything, so I wouldn't know."
+#Protagonist
+"I see."
+#Maya
+"A song...? It is likely Shion who is singing."
+#Protagonist
+"I see..."
+#Ai
+"That must be Shion singing. Her voice is truly beautiful."
+#Protagonist
+"Is that so..."
+#Benio
+"A song... Isn't it just Shion?"
+#Protagonist
+"I see..."
+#Tsujimura
+"That would likely be Lady Shion. She is often heard singing to herself."
+#Protagonist
+"I see..."
+#Takamine
+"A song, eh...? Someone must be singing, then."
+#Protagonist
+"Right."
+#御巫
+"A song, you say... It’s probably Shion-san."
+#Protagonist
+"I see..."
+#Akane
+"A song...? It seems Lady Shion is often heard singing, but..."
+#Protagonist
+"I see..."
+#Narumi
+"The one singing all the time is probably Lady Shion. Though Lady Benio plays the piano as well."
+#Protagonist
+"I see."
+
+--------------------
+F02_o008.txt
+********************
+#Souko
+"There was one in the music room, wasn't there? It looked like quite a vintage piece..."
+#Protagonist
+"I see."
+#Maya
+"That is something my husband purchased before the war. He went to the trouble of importing it all the way from Germany."
+#Protagonist
+"Is that so..."
+#Ai
+"I do not play myself... but Benio plays it quite often."
+#Protagonist
+"I see."
+#Benio
+"I play it every now and then when the mood strikes me."
+#Protagonist
+"I see."
+#Tsujimura
+"...I’m embarrassed to say I once had a bit of a taste for it myself. Since the Master was always so busy, I was the one who taught Lady Benio."
+#Protagonist
+"I see..."
+#Takamine
+"I don't mind if you play it, but don't go breaking it."
+#Protagonist
+"O-oh, right..."
+#御巫
+"A piano...? It seems to be a very old instrument. Apparently it was one of Kousei-san's favorites."
+#Protagonist
+"I see..."
+#Akane
+"The piano in the music room, right? I make sure to polish it until it shines."
+#Protagonist
+"I see..."
+#Narumi
+"The piano in the music room? I’ve never seen anyone but Lady Benio playing it."
+#Protagonist
+"I see..."
+
+--------------------
+F02_o009.txt
+********************
+#Souko
+"That bell that rang in the middle of the night. I wonder if we'll hear it at noon today too."
+#Protagonist
+"Maybe so."
+#Maya
+"There has been a clock attached to this mansion since before it was relocated. As a remnant of that time, we still have the bell ring."
+#Protagonist
+"Is that so?"
+#Ai
+"The clock is visible from outside the mansion, but being in such a remote place, no one ever sees it."
+#Protagonist
+"You're right..."
+#Benio
+"Does the sound of the bell bother you that much? The machine room is in the attic."
+#Protagonist
+"Oh... I see."
+#Tsujimura
+"The bell is rung from the machine room above the main entrance. It’s synchronized with the clock facing the outside."
+#Protagonist
+"I see."
+#Takamine
+"It certainly rang last night... but it isn't something worth being concerned about."
+#Protagonist
+"I guess so..."
+#御巫
+"The bell, eh...? I don't think you’d notice it much while inside your room."
+#Protagonist
+"I see."
+#Akane
+"It rings at noon, so it’s quite convenient for keeping track of the time."
+#Protagonist
+"Is that so?"
+#Narumi
+"A bell? Did one ring...? I don't really remember."
+#Protagonist
+"...I see."
+
+--------------------
+F02_o10.txt
+********************
+#Souko
+"...Now that you mention it, you were saying something like that in the middle of the night, too. So what was it in the end?"
+#Protagonist
+"No, I still haven't figured anything out yet."
+#Souko
+"Oh, I see."
+#Maya
+"A noise...? This is quite an old house, so it may simply be creaking somewhere."
+#Protagonist
+"That could be it."
+#Ai
+"A noise in the middle of the night...? I’m sorry, I didn't hear a thing..."
+#Protagonist
+"I see..."
+#Benio
+"You heard a noise in the middle of the night? Who has time to worry about every little sound?"
+#Protagonist
+"I guess you're right..."
+#Tsujimura
+"Regarding last night? I was joking about it being a mountain spirit, but it is a very old building... even if the soundproofing is quite solid."
+#Protagonist
+"I see..."
+#Takamine
+"A noise? No idea. I went straight to my room and fell asleep last night, so I didn't notice anything."
+#Protagonist
+"I see..."
+#御巫
+"A noise in the middle of the night, eh...? I didn't notice anything at all."
+#Protagonist
+"I see..."
+#Akane
+"A noise...? It was a blizzard last night, so the windows were rattling and groaning quite a bit."
+#Protagonist
+"Right..."
+#Narumi
+"A noise in the middle of the night? Maybe it was a ghost?"
+#Protagonist
+"...Well, it is the kind of building where one wouldn't be surprised if a ghost showed up."
+
+--------------------
+F02_o11.txt
+********************
+#Souko
+"I wonder if a line got cut somewhere."
+#Protagonist
+"Maybe."
+#Maya
+"Oh dear, the phones... that is quite a problem..."
+#Protagonist
+"It is..."
+#Ai
+"The phones aren't working? That will be a disaster if something happens..."
+#Protagonist
+"You're right..."
+#Benio
+"The phones are out...? That’s a nuisance. It means we can't call for a carriage from the foot of the mountain."
+#Protagonist
+"Right..."
+#Tsujimura
+"The phones are down... Perhaps the line was cut by last night's blizzard... I should investigate it as soon as possible."
+#Protagonist
+"I agree."
+#Takamine
+"The phones... You should be telling Tsujimura-san that, not me."
+#Protagonist
+"Y-you're right..."
+#御巫
+"The phones aren't working...? That would be a problem if we had a medical emergency..."
+#Protagonist
+"You're right..."
+#Akane
+"The phones are out...? That’s so inconvenient if something were to happen..."
+#Protagonist
+"It is..."
+#Narumi
+"The phones are down? I wonder if the weight of the snow snapped the line..."
+#Protagonist
+"Maybe so..."
+
+--------------------
+F02_p001.txt
+********************
+#Protagonist
+"Were you able to sleep, Souko-san?"
+#Souko
+"Yes, thanks to you, I slept like a log."
+#Maya
+"Kirihara-san? I am sorry, I do not know her well."
+#Protagonist
+"O-oh, I see..."
+#Ai
+"Kirihara-san? We’ve only just met, so I don't really know much about her..."
+#Protagonist
+"Right..."
+#Benio
+"She seems quite intelligent. I suppose a college student ought to be intellectual, after all."
+#Protagonist
+"I-is that so..."
+#Tsujimura
+"Lady Kirihara...? I am afraid I do not know her well..."
+#Protagonist
+"O-oh, I see..."
+#Takamine
+"Kirihara... Ah, that woman. You can't expect me to know anything about her, can you?"
+#Protagonist
+"Y-you're right..."
+#御巫
+"Kirihara-san? ...Well, I can't really say..."
+#Protagonist
+"...I guess that makes sense."
+#Akane
+"Lady Kirihara? Wouldn't she be in her room?"
+#Protagonist
+"Um... I suppose so..."
+#Narumi
+"Kirihara-san? ...No idea, I don't know her."
+#Protagonist
+"O-oh, I see..."
+
+--------------------
+F02_p002.txt
+********************
+#Souko
+"Maya-san, huh... She really gives off that 'lady of the house' vibe. She seems kind enough, though."
+#Protagonist
+"Yeah."
+#Maya
+"About me...? It wouldn't be very interesting to learn about an old woman like myself, would it?"
+#Protagonist
+"No... that isn't true at all..."
+#Ai
+"Mother? She is a very kind person."
+#Protagonist
+"I see."
+#Benio
+"About Mother? She’s a mild-mannered and gentle person. She lets me do as I please, after all."
+#Protagonist
+"...I see."
+#Tsujimura
+"The Mistress? She is an exceptionally kind woman."
+#Protagonist
+"I see."
+#Takamine
+"Maya-san, eh...? Since Kousei-shi passed away, she seems to have been doing her best to manage things on her own."
+#Protagonist
+"I see."
+#御巫
+"Maya-san... I believe she is a woman filled with affection."
+#Protagonist
+"I see."
+#Akane
+"The Mistress? I believe she is likely in her room, but..."
+#Protagonist
+"I see..."
+#Narumi
+"The Mistress? She's a kind and good person."
+#Protagonist
+"I see."
+
+--------------------
+F02_p003.txt
+********************
+#Souko
+"About Ai-san? She really feels like the stereotypical 'young lady', doesn't she?"
+#Protagonist
+"Yeah."
+#Maya
+"Ai? She is a quiet child, always lost in her books."
+#Protagonist
+"I see."
+#Ai
+"About me? Um... I don't really have anything interesting to tell you..."
+#Protagonist
+"I see..."
+#Benio
+"My sister? She’s refined and ladylike, isn't she?"
+#Protagonist
+"...She’s the polar opposite of you, Benio-san."
+#Benio
+"Did you say something?"
+#Protagonist
+"No, nothing."
+#Tsujimura
+"Lady Ai...? She is always reading her books."
+#Protagonist
+"I see."
+#Takamine
+"About Ai-kun? She’s been a quiet girl since she was small, but..."
+#Protagonist
+"I see."
+#御巫
+"Ai-san, eh...? She occasionally has moments where her emotions are quite volatile."
+#Protagonist
+"Is that so..."
+#Akane
+"Lady Ai? I believe she was heading toward the Great Hall..."
+#Protagonist
+"I see."
+#Narumi
+"Lady Ai? She’s often in the library reading books."
+#Protagonist
+"I see."
+
+--------------------
+F02_p004.txt
+********************
+#Souko
+"...Her impression changed quite a bit in just one night. I guess she was just playing the part of the good girl before."
+#Protagonist
+"Yeah..."
+#Maya
+"Benio? She is a bit eccentric, but she’s a good girl."
+#Protagonist
+"I see."
+#Ai
+"About Benio? She has her quirks, but she isn't a bad girl."
+#Protagonist
+"I see."
+#Benio
+"Me? This is just who I am, no matter what anyone says."
+#Protagonist
+"I see..."
+#Tsujimura
+"Lady Benio...? She was quite demure yesterday since there were guests present, after all."
+#Protagonist
+"I see..."
+#Takamine
+"Benio-kun, eh...? Well, she is peculiar, to say the least..."
+#Protagonist
+"I see..."
+#御巫
+"Benio-san? She’s an interesting girl."
+#Protagonist
+"Is that so..."
+#Akane
+"Lady Benio? ...Well, she’s that sort of person."
+#Protagonist
+"Oh... I see."
+#Narumi
+"Lady Benio? ...Well, it isn't my place to say anything."
+#Protagonist
+"I see..."
+
+--------------------
+F02_p005.txt
+********************
+#Souko
+"Shion-san looked beautiful yesterday. Though I suppose she’s still inside her coffin right now..."
+#Protagonist
+"...Yeah."
+#Maya
+"We will continue the wedding ceremony starting at eight o'clock, but until then, she remains inside her coffin in the cathedral."
+#Protagonist
+"Is that so..."
+#Ai
+"To think that Shion is getting married... I’m happy for her, but my feelings are complicated..."
+#Protagonist
+"Is that so..."
+#Benio
+"Is it almost time to continue the ceremony? We were supposed to gather in the Great Hall, weren't we?"
+#Protagonist
+"Yes, that should be it."
+#Tsujimura
+"...Once Lady Shion gets married, it will become quite lonely around here..."
+#Protagonist
+"I see..."
+#Takamine
+"Shion-kun, eh...? I was against her spending the night in a coffin in the middle of winter, but I was told it was the custom."
+#Protagonist
+"Is that so..."
+#御巫
+"Shion-san has delicate health, you see. I just hope nothing happens during the night..."
+#Protagonist
+"I see..."
+#Akane
+"Lady Shion is in the middle of her wedding ritual in the cathedral right now."
+#Protagonist
+"I see."
+#Narumi
+"We really need to get some warm food into Lady Shion. It must be freezing spending all night in the cathedral."
+#Protagonist
+"You're right..."
+
+--------------------
+F02_p006.txt
+********************
+#Souko
+"Tsujimura-san? He’s Kousei-shi's younger brother, yet he’s acting like a servant here... It’s a bit strange."
+#Protagonist
+"Yeah."
+#Maya
+"Tsujimura? He was my husband's younger brother, so we hired him here. He works very hard, and I am very grateful to him."
+#Protagonist
+"I see."
+#Ai
+"Tsujimura-san? He is our uncle, and a very kind man."
+#Protagonist
+"I see."
+#Benio
+"Tsujimura has been doing things like babysitting me since long ago."
+#Protagonist
+"I see..."
+#Tsujimura
+"About me...? No, I’ve done nothing I can speak of with pride."
+#Protagonist
+"I see..."
+#Takamine
+"About Tsujimura-san? I hear he’s the younger brother of the previous head and now acts as the manager here."
+#Protagonist
+"I see."
+#御巫
+"Tsujimura-san is the one handling all the clerical work for the Nanatsuki family. You could even call him a butler."
+#Protagonist
+"I see."
+#Akane
+"Tsujimura-san? He’s usually working in the office."
+#Protagonist
+"I see."
+#Narumi
+"Tsujimura-san? He’s a kind man. Though he can be a bit timid at times..."
+#Protagonist
+"I see."
+
+--------------------
+F02_p007.txt
+********************
+#Souko
+"Takamine-san? He’s quite a stern man, isn't he? He doesn't look like a lawyer... then again, he didn't look like a priest, either."
+#Protagonist
+"Yeah."
+#Maya
+"Attorney Takamine's father was also the legal advisor for the Nanatsuki family. He is very dedicated to his work."
+#Protagonist
+"I see..."
+#Ai
+"I’ve heard Takamine-san has been coming here since he was a small child, brought along by his father."
+#Protagonist
+"Is that so?"
+#Benio
+"Takamine? I hear he’s been coming in and out of this place since before I was even born."
+#Protagonist
+"Is that so?"
+#Tsujimura
+"We intend to have Attorney Takamine manage the Master's estate and other matters as well."
+#Protagonist
+"I see."
+#Takamine
+"...I have nothing to say to you."
+#Protagonist
+"Y-you're right..."
+#御巫
+"About Takamine-san? It seems his father was involved with this house as well, just like mine."
+#Protagonist
+"I see."
+#Akane
+"Attorney Takamine...? I believe he’s likely in his room or the Great Hall..."
+#Protagonist
+"I see."
+#Narumi
+"Takamine-san? ...He has a scary face, doesn't he? To think that man is a lawyer... you really can't judge people."
+#Protagonist
+"Y-you're right..."
+--------------------------------------------------------------------------------
+--------------------
+F02_p008.txt
+********************
+#Souko
+"About Mikanagi-sensei? Hmm, he did treat my finger, but how should I put it... he seems a bit flighty."
+#Protagonist
+"...I suppose so."
+#Maya
+"We owe Mikanagi-sensei's father a great debt. I am who I am today thanks to the Mikanagi family."
+#Protagonist
+"I see..."
+#Ai
+"Mikanagi-sensei looks after us often. Since other doctors won't come out to such a remote place, he's a lifesaver."
+#Protagonist
+"I see."
+#Benio
+"You mean the Good Doctor? Well, he might look serious, but he's a frivolous man."
+#Protagonist
+"...Oh."
+#Tsujimura
+"Mikanagi-sensei is indispensable to this house. Neither the Mistress nor Lady Shion are particularly robust..."
+#Protagonist
+"I see..."
+#Takamine
+"Mikanagi-sensei seems to be an excellent physician. His specialty is internal medicine, but I imagine he could handle simple surgery."
+#Protagonist
+"I see."
+#御巫
+"Me? My father is the true family physician for the Nanatsuki. But he's getting on in years, so I've been staying here lately."
+#Protagonist
+"Is that so?"
+#Akane
+"U-um... about last night... did you tell anyone...?"
+#Protagonist
+"...No, I haven't told anyone yet."
+#Akane
+"Please, you absolutely mustn't tell a soul, okay!?"
+#Protagonist
+"Sure... I get it..."
+#Narumi
+"Mikanagi-sensei? He has a bit of a flighty vibe. Well, it's not like he ever talks to me anyway."
+#Protagonist
+"I-is that so..."
+
+--------------------
+F02_p009.txt
+********************
+#Souko
+"Akane-san? She seems like a diligent, good girl."
+#Protagonist
+"She does."
+#Maya
+"Akane works very hard. She's very attentive to even the smallest details."
+#Protagonist
+"I see."
+#Ai
+"Akane-san? She's a very hard worker."
+#Protagonist
+"I see."
+#Benio
+"Akane? She works hard. Though she can be a bit of a scatterbrain at times."
+#Protagonist
+"I see..."
+#Tsujimura
+"Hiyama-san? She handles her duties properly, and I have no particular issues with her..."
+#Protagonist
+"I see."
+#Takamine
+"Hiyama-kun... I think she works remarkably hard for someone who came all the way out to these mountains."
+#Protagonist
+"I see."
+#御巫
+"Akane-san? Perhaps she's just shy, but we haven't spoken much."
+#Protagonist
+"I see..."
+#Akane
+"E-eh, about me!? There's—there's nothing worth talking about!?"
+#Protagonist
+"I see..."
+#Narumi
+"About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... Ah, don't tell anyone I said that, okay?"
+#Protagonist
+"Right..."
+
+--------------------
+F02_p010.txt
+********************
+#Souko
+"Narumi-san? Doesn't she seem totally unmotivated? The food was delicious, though..."
+#Protagonist
+"...I suppose so."
+#Maya
+"Narumi? Her talent for cooking is wonderful. However... I do wish she would take things a bit more seriously..."
+#Protagonist
+"...I see."
+#Ai
+"Narumi-san... Her cooking is always delicious, but... well, her other duties are a bit..."
+#Protagonist
+"I see..."
+#Benio
+"Narumi? Only her cooking skills are first-class. As for the rest... well, you can imagine."
+#Protagonist
+"I see..."
+#Tsujimura
+"Minakami-san... It would be a great help to me if she worked as diligently on things other than cooking..."
+#Protagonist
+"I see..."
+#Takamine
+"Minakami-kun... I don't know her well. The food isn't bad, though..."
+#Protagonist
+"I see."
+#御巫
+"Narumi-san? Her cooking is delicious. As for anything else... I really wouldn't know."
+#Protagonist
+"I see..."
+#Akane
+"Narumi-san? She's primarily in charge of the cooking... I believe she's in the kitchen right now."
+#Protagonist
+"I see."
+#Narumi
+"About me? Why would you ask that? ...Oh, don't tell me you've got a thing for me...?"
+#Protagonist
+"...As if that would ever be the case."
+
+--------------------
+F02_p011.txt
+********************
+#Souko
+"Rokuyou-san? Come to think of it, I haven't seen him yet this morning."
+#Protagonist
+"You're right."
+#Maya
+"It is almost time for the marriage to be officially established."
+#Protagonist
+"It is."
+#Ai
+"Isamu-san... He is a perfect match for Shion, but..."
+#Protagonist
+"I see..."
+#Benio
+"Rokuyou? ...The ceremony is about to resume, yet he hasn't made an appearance. I wonder if he's having trouble getting ready..."
+#Protagonist
+"I see."
+#Tsujimura
+"Once the wedding is over, I intend to offer my greetings properly at breakfast..."
+#Protagonist
+"I see."
+#Takamine
+"Rokuyou-kun? He's likely preparing for the ceremony."
+#Protagonist
+"I see."
+#御巫
+"Isamu isn't much of a morning person either, so he might still be asleep."
+#Protagonist
+"I see."
+#Akane
+"Rokuyou-sama is... um, I believe he's still in his room."
+#Protagonist
+"I see."
+#Narumi
+"It's breakfast after the wedding, but I don't really want to eat anything heavy so early in the morning..."
+#Protagonist
+"I suppose so..."
+
+--------------------
+F02_p012.txt
+********************
+#Souko
+"About the late Kousei-san? He was a famous musician. I'm familiar with a few of his pieces myself."
+#Protagonist
+"I see."
+#Maya
+"My husband was a great composer. It was his idea to build the music room in this mansion."
+#Protagonist
+"Is that so..."
+#Ai
+"Father? He was a kind man. When I was small, he used to read to me often."
+#Protagonist
+"I see."
+#Benio
+"Father? He was kind to everyone without exception."
+#Protagonist
+"I see."
+#Tsujimura
+"The Master... He was my older brother. He hired me here when I had nowhere else to go. I am deeply grateful to him."
+#Protagonist
+"I see..."
+#Takamine
+"My father was Kousei-shi's legal advisor. He seems to have made quite a fortune from his compositions."
+#Protagonist
+"I see..."
+#御巫
+"My father was Kousei-san's personal physician. That's why I'm here now."
+#Protagonist
+"I see."
+#Akane
+"The Master? I didn't know him well, but I've heard he was a very good man."
+#Protagonist
+"I see..."
+#Narumi
+"The Master? I never met him personally, so I wouldn't know."
+#Protagonist
+"I see..."
+
+--------------------
+F02_room.txt
+********************
+It’s almost eight o'clock.
+I should head to the Great Hall.
+
+--------------------
+F02_search.txt
+********************
+It’s almost eight o'clock.
+I should head to the Great Hall.
+
+--------------------
+F02_talk.txt
+********************
+#Souko
+"Is this enough for you?"
+#Protagonist
+"Yes, thank you."
+#Souko
+"Then keep up the good work with the investigation."
+#Protagonist
+"Will do."
+I decided to go somewhere else.
+#Maya
+"Is that all, then?"
+#Protagonist
+"Yes, thank you. You seem busy before the wedding, so I'll take my leave now."
+I bowed and decided to go somewhere else.
+#Ai
+"Is that all, then?"
+#Protagonist
+"Yes, thank you. You seem busy, so I'll be going."
+I bowed and decided to go somewhere else.
+#Benio
+"Will this do?"
+#Protagonist
+"Yes, thank you very much."
+I thanked Benio-san and decided to go somewhere else.
+#Tsujimura
+"I suppose this will be enough."
+#Protagonist
+"Yes, thank you for being so thorough. You seem busy, so I'll take my leave."
+I expressed my thanks and decided to go somewhere else.
+#Takamine
+"Will this do?"
+#Protagonist
+"Y-yes. Thank you very much. You seem busy, so please excuse me."
+I bowed and decided to go somewhere else.
+#御巫
+"Is this enough for you?"
+#Protagonist
+"Yes, thank you very much. Please excuse me."
+I decided to go somewhere else.
+#Akane
+"Will that be all?"
+#Protagonist
+"Yes, thank you. You still seem busy, so I'll be going."
+I bowed and decided to go somewhere else.
+#Narumi
+"Well, I guess I'll get back to work too. Even if it's a pain."
+#Protagonist
+"Then I'll be on my way. Thanks again."
+#Narumi
+"Sure thing. Come back again soon."
+I decided to go somewhere else.
+Now then, what should I do next...?
