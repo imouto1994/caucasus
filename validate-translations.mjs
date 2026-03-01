@@ -1,8 +1,13 @@
 /**
  * Validate Translated Scripts
  *
- * Compares each translated script in `translated/` against its original
- * counterpart in `original/` to ensure structural consistency.
+ * Compares each translated script against its original counterpart in
+ * `original/` to ensure structural consistency. Handles two directories:
+ *
+ *   - `translated/`          — normal (horizontal) scripts
+ *   - `translated-vertical/` — vertical-style scripts whose lines have
+ *                               leading whitespace that must be trimmed
+ *                               before classification
  *
  * Checks performed:
  *   1. Both files have the same number of lines.
@@ -10,16 +15,14 @@
  *
  * Line types:
  *   - Speech source  — ＃*** (original) / #*** (translated)
- *   - Speech content  — 「***」(original) / "***" (translated)
- *   - Normal line     — anything else
+ *   - Speech content — 「***」or 『***』(original) / "***" (translated)
+ *   - Normal line    — anything else
  *
  * Original files in `original/` are Shift-JIS encoded, so we read raw bytes
- * and decode with TextDecoder("shift_jis"). Translated files in `translated/`
- * are UTF-8, so we read them directly as strings. Both are compared as
- * decoded text content.
+ * and decode with TextDecoder("shift_jis"). Translated files are UTF-8.
  *
- * Files in `translated/` that still use Japanese formatting (＃ and 「」)
- * are treated as not-yet-translated and silently skipped.
+ * Files that still use Japanese formatting (＃ and 「」/『』) are treated as
+ * not-yet-translated and silently skipped.
  *
  * Usage:
  *   node validate-translations.mjs
@@ -33,11 +36,13 @@ const sjisDecoder = new TextDecoder("shift_jis");
 
 const ORIGINAL_DIR = "original";
 const TRANSLATED_DIR = "translated";
+const TRANSLATED_VERTICAL_DIR = "translated-vertical";
 
 // Line-type classifiers for original (Japanese) formatting.
 const isJpSpeechSource = (line) => line.startsWith("＃");
 const isJpSpeechContent = (line) =>
-  line.startsWith("「") && line.endsWith("」");
+  (line.startsWith("「") && line.endsWith("」")) ||
+  (line.startsWith("『") && line.endsWith("』"));
 
 // Line-type classifiers for translated (English) formatting.
 const isEnSpeechSource = (line) => line.startsWith("#");
@@ -49,96 +54,99 @@ const LINE_TYPE = {
   NORMAL: "normal",
 };
 
-function classifyOriginalLine(line) {
-  if (isJpSpeechSource(line)) return LINE_TYPE.SPEECH_SOURCE;
-  if (isJpSpeechContent(line)) return LINE_TYPE.SPEECH_CONTENT;
+function classifyOriginalLine(line, trim) {
+  const target = trim ? line.trim() : line;
+  if (isJpSpeechSource(target)) return LINE_TYPE.SPEECH_SOURCE;
+  if (isJpSpeechContent(target)) return LINE_TYPE.SPEECH_CONTENT;
   return LINE_TYPE.NORMAL;
 }
 
-function classifyTranslatedLine(line) {
-  if (isEnSpeechSource(line)) return LINE_TYPE.SPEECH_SOURCE;
-  if (isEnSpeechContent(line)) return LINE_TYPE.SPEECH_CONTENT;
+function classifyTranslatedLine(line, trim) {
+  const target = trim ? line.trim() : line;
+  if (isEnSpeechSource(target)) return LINE_TYPE.SPEECH_SOURCE;
+  if (isEnSpeechContent(target)) return LINE_TYPE.SPEECH_CONTENT;
   return LINE_TYPE.NORMAL;
 }
 
 // A translated file that still uses Japanese line formatting hasn't been
 // translated yet. We detect this by checking whether it uses Japanese markers
-// (＃ / 「」) without any English markers (# / "").
+// (＃ / 「」/ 『』) without any English markers (# / "").
 function isUntranslated(translatedLines) {
   const hasJpFormat = translatedLines.some(
-    (l) => isJpSpeechSource(l) || isJpSpeechContent(l)
+    (l) => isJpSpeechSource(l.trim()) || isJpSpeechContent(l.trim()),
   );
   const hasEnFormat = translatedLines.some(
-    (l) => isEnSpeechSource(l) || isEnSpeechContent(l)
+    (l) => isEnSpeechSource(l.trim()) || isEnSpeechContent(l.trim()),
   );
   return hasJpFormat && !hasEnFormat;
 }
 
-async function main() {
-  // Step 1: Discover all translated script files.
-  const translatedFiles = await glob(`${TRANSLATED_DIR}/*.txt`);
-  translatedFiles.sort();
+/**
+ * Validate all translated files in the given directory against originals.
+ * When `trim` is true, lines are trimmed before classification (needed for
+ * vertical-style scripts that carry leading whitespace).
+ *
+ * Returns { checked, skipped, mismatched }.
+ */
+async function validateDirectory(translatedDir, trim) {
+  const translatedFiles = (await glob(`${translatedDir}/*.txt`)).sort();
 
-  let checkedCount = 0;
-  let skippedCount = 0;
-  let mismatchedFileCount = 0;
+  let checked = 0;
+  let skipped = 0;
+  let mismatched = 0;
 
   for (const translatedPath of translatedFiles) {
     const filename = path.basename(translatedPath);
     const originalPath = path.join(ORIGINAL_DIR, filename);
 
-    // Step 2: Read the original file as raw bytes and decode from Shift-JIS.
-    // Read the translated file as UTF-8. Both produce JavaScript strings for
-    // text-level comparison. If the original doesn't exist, warn and skip.
+    // Read the original file as raw bytes and decode from Shift-JIS.
+    // Read the translated file as UTF-8.
     let originalText;
     try {
       const raw = await readFile(originalPath);
       originalText = sjisDecoder.decode(raw);
     } catch {
       console.warn(`⚠  No original found for ${filename}, skipping.`);
-      skippedCount++;
+      skipped++;
       continue;
     }
 
     const translatedText = await readFile(translatedPath, "utf-8");
 
-    // Step 3: Split into lines and strip the trailing empty line that a
-    // final newline produces, so we compare actual content lines only.
+    // Split into lines and strip the trailing empty line that a final
+    // newline produces, so we compare actual content lines only.
     const originalLines = originalText.split("\n");
     const translatedLines = translatedText.split("\n");
 
     if (originalLines.at(-1) === "") originalLines.pop();
     if (translatedLines.at(-1) === "") translatedLines.pop();
 
-    // Step 4: Skip files that haven't been translated yet (still using
-    // original Japanese formatting).
+    // Skip files that haven't been translated yet.
     if (isUntranslated(translatedLines)) {
-      skippedCount++;
+      skipped++;
       continue;
     }
 
-    checkedCount++;
-    const mismatches = [];
+    checked++;
 
-    // Step 5: Verify both files have the same number of lines.
+    // Verify both files have the same number of lines.
     if (originalLines.length !== translatedLines.length) {
       console.log(`\n✗  ${filename}`);
       console.log(
-        `   Line count mismatch: original has ${originalLines.length} lines, translated has ${translatedLines.length} lines`
+        `   Line count mismatch: original has ${originalLines.length} lines, translated has ${translatedLines.length} lines`,
       );
-      mismatchedFileCount++;
+      mismatched++;
       continue;
     }
 
-    // Step 6: Compare the line type of each line pair. The translated line's
-    // type (speech source / speech content / normal) must match the
-    // original's type on the same line number.
+    // Compare the line type of each line pair.
+    const lineMismatches = [];
     for (let i = 0; i < originalLines.length; i++) {
-      const origType = classifyOriginalLine(originalLines[i]);
-      const transType = classifyTranslatedLine(translatedLines[i]);
+      const origType = classifyOriginalLine(originalLines[i], trim);
+      const transType = classifyTranslatedLine(translatedLines[i], trim);
 
       if (origType !== transType) {
-        mismatches.push({
+        lineMismatches.push({
           line: i + 1,
           origType,
           transType,
@@ -148,13 +156,12 @@ async function main() {
       }
     }
 
-    // Step 7: Report any mismatches found for this file.
-    if (mismatches.length > 0) {
-      mismatchedFileCount++;
+    if (lineMismatches.length > 0) {
+      mismatched++;
       console.log(`\n✗  ${filename}`);
-      for (const m of mismatches) {
+      for (const m of lineMismatches) {
         console.log(
-          `   Line ${m.line}: expected [${m.origType}] but got [${m.transType}]`
+          `   Line ${m.line}: expected [${m.origType}] but got [${m.transType}]`,
         );
         console.log(`     original:   ${m.origText}`);
         console.log(`     translated: ${m.transText}`);
@@ -162,16 +169,38 @@ async function main() {
     }
   }
 
-  // Step 8: Print summary and exit with non-zero code if any mismatches
-  // were found (useful for CI pipelines).
-  console.log("\n— Summary —");
-  console.log(`  Checked:    ${checkedCount} files`);
-  console.log(
-    `  Skipped:    ${skippedCount} files (untranslated or missing original)`
-  );
-  console.log(`  Mismatched: ${mismatchedFileCount} files`);
+  return { checked, skipped, mismatched };
+}
 
-  if (mismatchedFileCount > 0) {
+async function main() {
+  let totalChecked = 0;
+  let totalSkipped = 0;
+  let totalMismatched = 0;
+
+  // Step 1: Validate normal (horizontal) scripts — no trimming needed.
+  console.log(`=== ${TRANSLATED_DIR}/ ===`);
+  const normal = await validateDirectory(TRANSLATED_DIR, false);
+  totalChecked += normal.checked;
+  totalSkipped += normal.skipped;
+  totalMismatched += normal.mismatched;
+
+  // Step 2: Validate vertical-style scripts — trim leading whitespace
+  // before classifying lines, since vertical scripts indent every line.
+  console.log(`\n=== ${TRANSLATED_VERTICAL_DIR}/ ===`);
+  const vertical = await validateDirectory(TRANSLATED_VERTICAL_DIR, true);
+  totalChecked += vertical.checked;
+  totalSkipped += vertical.skipped;
+  totalMismatched += vertical.mismatched;
+
+  // Step 3: Print summary.
+  console.log("\n— Summary —");
+  console.log(`  Checked:    ${totalChecked} files`);
+  console.log(
+    `  Skipped:    ${totalSkipped} files (untranslated or missing original)`,
+  );
+  console.log(`  Mismatched: ${totalMismatched} files`);
+
+  if (totalMismatched > 0) {
     process.exit(1);
   }
 }
