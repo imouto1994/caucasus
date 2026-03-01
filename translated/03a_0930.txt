@@ -9,7 +9,7 @@ I gave a light knock on Takamine-san's door.
 #Protagonist
 "Takamine-san, are you there?"
 The door opened and Takamine-san peered out.
-#Protagonist
+#Takamine
 "It's you... what is it?"
 #Protagonist
 "I’d like to talk to you for a moment..."
