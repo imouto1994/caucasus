@@ -1,40 +1,40 @@
 ＃Souko
-"Akane-san hasn't been acting particularly strange, but we can't be too careful."
+「Akane-san hasn't been acting particularly strange, but we can't be too careful.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"Akane is a hard worker. She is very attentive to detail."
+「Akane is a hard worker. She is very attentive to detail.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Akane-san? She's an excellent worker."
+「Akane-san? She's an excellent worker.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Akane, huh... She's putting up a brave front, but it looks like she's quite exhausted."
+「Akane, huh... She's putting up a brave front, but it looks like she's quite exhausted.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Shion
-"Akane-san... she has always been kind to me."
+「Akane-san... she has always been kind to me.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"If you're looking for Mistress Hiyama, she's likely in the dining hall. If not, she's probably back in her room."
+「If you're looking for Mistress Hiyama, she's likely in the dining hall. If not, she's probably back in her room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Hiyama-kun? Nothing in particular caught my eye."
+「Hiyama-kun? Nothing in particular caught my eye.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"...I wonder if Akane-san just wants to know the truth. Or is she looking for something more than that...?"
+「...I wonder if Akane-san just wants to know the truth. Or is she looking for something more than that...?」
 ＃Protagonist
-"...I don't know."
+「...I don't know.」
 ＃Akane
-"My injuries are fine now. For now, let's... think about other things instead."
+「My injuries are fine now. For now, let's... think about other things instead.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Narumi
-"What Akane is looking into... might be something that this family wouldn't find very pleasant."
+「What Akane is looking into... might be something that this family wouldn't find very pleasant.」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,32 +1,32 @@
 ＃Souko
-"...Last time it was an axe. If Benio-san was a saw... I guess the killer isn't picky about their tools for decapitation."
+「...Last time it was an axe. If Benio-san was a saw... I guess the killer isn't picky about their tools for decapitation.」
 ＃Protagonist
-"Maybe so..."
+「Maybe so...」
 ＃Maya
-"...I am sorry, I do not really know."
+「...I am sorry, I do not really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"...I'm sorry, I don't really know."
+「...I'm sorry, I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"Um... I'm sorry, I don't really know..."
+「Um... I'm sorry, I don't really know...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"...The hand axe used before is kept under strict lock and key. Perhaps that is why it could not be used this time..."
+「...The hand axe used before is kept under strict lock and key. Perhaps that is why it could not be used this time...」
 ＃Protagonist
-"That might be true..."
+「That might be true...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"Judging by the cut on the neck, there's no doubt a saw was used. I can't say what the reason was, though..."
+「Judging by the cut on the neck, there's no doubt a saw was used. I can't say what the reason was, though...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I don't really know about that."
+「I don't really know about that.」
 ＃Protagonist
-"I see..."
+「I see...」

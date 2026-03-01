@@ -1,32 +1,32 @@
 ＃Souko
-"Apparently she was in her room... but no one can prove it..."
+「Apparently she was in her room... but no one can prove it...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"I was in my room. I thought that would be safest... but then Benio..."
+「I was in my room. I thought that would be safest... but then Benio...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"...I don't know. My room is in the annex, after all..."
+「...I don't know. My room is in the annex, after all...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I believe she was in her room... but I have not confirmed it."
+「I believe she was in her room... but I have not confirmed it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I predictably wouldn't know about anyone else's movements."
+「I predictably wouldn't know about anyone else's movements.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"How could I possibly know? I was right there with you."
+「How could I possibly know? I was right there with you.」
 ＃Protagonist
-"True..."
+「True...」

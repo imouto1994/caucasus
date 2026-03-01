@@ -1,24 +1,24 @@
 ＃Souko
-"Mikanagi-sensei, huh... I can't think of any reason for him to be the killer at the moment."
+「Mikanagi-sensei, huh... I can't think of any reason for him to be the killer at the moment.」
 ＃Protagonist
-"...True."
+「...True.」
 ＃Benio
-"Hiroshi would have no reason to murder my sister. Inheritance has nothing to do with him."
+「Hiroshi would have no reason to murder my sister. Inheritance has nothing to do with him.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"If it's Mikanagi-sensei, I believe he was in the infirmary..."
+「If it's Mikanagi-sensei, I believe he was in the infirmary...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Mikanagi-sensei was in the infirmary."
+「Mikanagi-sensei was in the infirmary.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Mikanagi-sensei? He's usually in the infirmary."
+「Mikanagi-sensei? He's usually in the infirmary.」
 ＃Protagonist
-"I see..."
+「I see...」

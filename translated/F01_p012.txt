@@ -1,40 +1,40 @@
 ＃Souko
-"About the late Mr. Kousei? He was a famous musician. I know a few of his songs myself."
+「About the late Mr. Kousei? He was a famous musician. I know a few of his songs myself.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Maya
-"My husband was a great composer. He was the one who built the performance room in this manor, after all."
+「My husband was a great composer. He was the one who built the performance room in this manor, after all.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"Father? He was a kind man. When I was small, he often read books to me."
+「Father? He was a kind man. When I was small, he often read books to me.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"My father? He was kind to everyone."
+「My father? He was kind to everyone.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Tsujimura
-"The Master... he was my elder brother, and he hired me here when I had nowhere else to go. I am very grateful to him."
+「The Master... he was my elder brother, and he hired me here when I had nowhere else to go. I am very grateful to him.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Rokuyou
-"Kousei-san? He was a famous composer, so I'm sure he had his own hidden troubles... dying the way he did."
+「Kousei-san? He was a famous composer, so I'm sure he had his own hidden troubles... dying the way he did.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"My father was Mr. Kousei's legal counsel. He seems to have made quite a fortune from his compositions."
+「My father was Mr. Kousei's legal counsel. He seems to have made quite a fortune from his compositions.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"My father was Mr. Kousei's family doctor. That's why I'm here now, following in his footsteps."
+「My father was Mr. Kousei's family doctor. That's why I'm here now, following in his footsteps.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"The Master? I didn't know him well, but I've heard he was a very good person."
+「The Master? I didn't know him well, but I've heard he was a very good person.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"The Master? I never met him directly, so I wouldn't know."
+「The Master? I never met him directly, so I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,40 +1,40 @@
 ＃Souko
-"It was placed in the performance room. It looked like quite an antique..."
+「It was placed in the performance room. It looked like quite an antique...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Maya
-"That is something my husband purchased before the war. Apparently, he went to the trouble of importing it from Germany."
+「That is something my husband purchased before the war. Apparently, he went to the trouble of importing it from Germany.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"I don't play myself... but Benio plays quite often."
+「I don't play myself... but Benio plays quite often.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Since this is German-made, its name is 'Klavier,' not 'Piano.'"
+「Since this is German-made, its name is 'Klavier,' not 'Piano.'」
 ＃Protagonist
-"I-I see..."
+「I-I see...」
 ＃Shion
-"A piano... I know it's there, but I've never played it."
+「A piano... I know it's there, but I've never played it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I'm ashamed to say I've dabbled in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio."
+「I'm ashamed to say I've dabbled in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I don't mind if you play it, but don't break it."
+「I don't mind if you play it, but don't break it.」
 ＃Protagonist
-"Y-Yeah..."
+「Y-Yeah...」
 ＃Mikanagi
-"A piano... It seems to be quite an old one. It was apparently Mr. Kousei's favorite instrument."
+「A piano... It seems to be quite an old one. It was apparently Mr. Kousei's favorite instrument.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"The piano in the performance room? I always keep it polished to a shine."
+「The piano in the performance room? I always keep it polished to a shine.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"The piano in the performance room? I've only ever seen Lady Benio playing it."
+「The piano in the performance room? I've only ever seen Lady Benio playing it.」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,32 +1,32 @@
 ＃Souko
-"Narumi-san? Doesn't she seem incredibly unmotivated? The food was delicious, though..."
+「Narumi-san? Doesn't she seem incredibly unmotivated? The food was delicious, though...」
 ＃Protagonist
-"...Right."
+「...Right.」
 ＃Maya
-"Narumi? Her talent for cooking is wonderful. However... I wish she would be a bit more serious..."
+「Narumi? Her talent for cooking is wonderful. However... I wish she would be a bit more serious...」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Benio
-"Narumi? Only her cooking skills are first-rate. As for the rest... well, you can imagine."
+「Narumi? Only her cooking skills are first-rate. As for the rest... well, you can imagine.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"Narumi-san... she's the one who prepares the meals. I always enjoy them."
+「Narumi-san... she's the one who prepares the meals. I always enjoy them.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Tsujimura
-"As for Miss Minakami... it would be a help to me as well if she worked properly at things other than cooking..."
+「As for Miss Minakami... it would be a help to me as well if she worked properly at things other than cooking...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Minakami-kun... I don't know her well. The food isn't bad, but..."
+「Minakami-kun... I don't know her well. The food isn't bad, but...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Narumi-san? Her cooking is delicious. As for anything else... I don't know much."
+「Narumi-san? Her cooking is delicious. As for anything else... I don't know much.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"About me? Why are you asking that? ...Oh, could it be you have feelings for me...?"
+「About me? Why are you asking that? ...Oh, could it be you have feelings for me...?」
 ＃Protagonist
-"...There's no way that's it."
+「...There's no way that's it.」

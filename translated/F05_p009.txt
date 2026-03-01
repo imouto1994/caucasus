@@ -1,40 +1,40 @@
 ＃Souko
-"Akane-san, huh... it feels like there’s some kind of destiny at work there..."
+「Akane-san, huh... it feels like there’s some kind of destiny at work there...」
 ＃Protagonist
-"Is that so...?"
+「Is that so...?」
 ＃Maya
-"Akane works very hard. She's also very attentive to details."
+「Akane works very hard. She's also very attentive to details.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Akane-san? She's a very hard worker."
+「Akane-san? She's a very hard worker.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Akane? She works hard. She can be a bit scatterbrained at times, though."
+「Akane? She works hard. She can be a bit scatterbrained at times, though.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"Akane-san... she brings me my meals and such, but I don't know her very well..."
+「Akane-san... she brings me my meals and such, but I don't know her very well...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Miss Hiyama? She performs her work properly and there are no particular problems, but..."
+「Miss Hiyama? She performs her work properly and there are no particular problems, but...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"Hiyama-kun? I think she works hard, coming all the way out to a mountain recess like this."
+「Hiyama-kun? I think she works hard, coming all the way out to a mountain recess like this.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Akane-san... Perhaps she's shy; I haven't talked with her much."
+「Akane-san... Perhaps she's shy; I haven't talked with her much.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"A-About that... please don't talk too much about my sister, I beg of you..."
+「A-About that... please don't talk too much about my sister, I beg of you...」
 ＃Protagonist
-"...Understood."
+「...Understood.」
 ＃Narumi
-"About Akane? She's quite reliable for someone so young. Thanks to her, I can't slack off... oh, don't tell her I said that, okay?"
+「About Akane? She's quite reliable for someone so young. Thanks to her, I can't slack off... oh, don't tell her I said that, okay?」
 ＃Protagonist
-"Oh..."
+「Oh...」

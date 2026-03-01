@@ -1,40 +1,40 @@
 ＃Souko
-"About Ai-san? She definitely feels like a proper young lady."
+「About Ai-san? She definitely feels like a proper young lady.」
 ＃Protagonist
-"Yeah."
+「Yeah.」
 ＃Maya
-"Ai? She's a quiet girl who's always lost in her books."
+「Ai? She's a quiet girl who's always lost in her books.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"About me? Um... I don't really have anything to talk about, but..."
+「About me? Um... I don't really have anything to talk about, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"My sister? She is a quiet and good elder sister."
+「My sister? She is a quiet and good elder sister.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Lady Ai? She's always reading her books."
+「Lady Ai? She's always reading her books.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Rokuyou
-"About Ai? We're childhood friends, so I'd say we're on good terms."
+「About Ai? We're childhood friends, so I'd say we're on good terms.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"About Ai-kun? She's been a quiet girl since she was small, but..."
+「About Ai-kun? She's been a quiet girl since she was small, but...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Ai-san, huh... she has times where her emotions can be quite intense."
+「Ai-san, huh... she has times where her emotions can be quite intense.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Akane
-"Lady Ai? I believe she would be in her room right now."
+「Lady Ai? I believe she would be in her room right now.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Lady Ai? She's often in the archive reading books."
+「Lady Ai? She's often in the archive reading books.」
 ＃Protagonist
-"I see."
+「I see.」

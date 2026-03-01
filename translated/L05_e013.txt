@@ -1,24 +1,24 @@
 ＃Souko
-"...There's no doubt her neck was severed in the attic. However... I wonder where her head went..."
+「...There's no doubt her neck was severed in the attic. However... I wonder where her head went...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Benio
-"It seems certain my sister was killed in the attic. But... for a head to vanish once again..."
+「It seems certain my sister was killed in the attic. But... for a head to vanish once again...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"...I do not know anything regarding that."
+「...I do not know anything regarding that.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I'm sorry... I don't really know."
+「I'm sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I don't really know about that."
+「I don't really know about that.」
 ＃Protagonist
-"I see..."
+「I see...」

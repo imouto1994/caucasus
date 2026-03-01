@@ -1,24 +1,24 @@
 ＃Souko
-"Akane-san, huh... I haven't found any reason for her to be the killer so far."
+「Akane-san, huh... I haven't found any reason for her to be the killer so far.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Akane seemed to be in the second-floor corridor... perhaps she was looking for my sister."
+「Akane seemed to be in the second-floor corridor... perhaps she was looking for my sister.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"As for Mistress Hiyama, I believe she would have been preparing lunch around that time..."
+「As for Mistress Hiyama, I believe she would have been preparing lunch around that time...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I... was looking for Lady Ai. But she wasn't in her room... I can't believe it turned out like this..."
+「I... was looking for Lady Ai. But she wasn't in her room... I can't believe it turned out like this...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Akane was supposed to go look for Lady Ai, but... to think this would happen..."
+「Akane was supposed to go look for Lady Ai, but... to think this would happen...」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,40 +1,40 @@
 ＃Souko
-"Takamine-san? He's quite a stern man, isn't he? He doesn't seem like a lawyer at all."
+「Takamine-san? He's quite a stern man, isn't he? He doesn't seem like a lawyer at all.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Maya
-"Attorney Takamine's father was also the Nanatsuki family's legal counsel. He is very dedicated to his work."
+「Attorney Takamine's father was also the Nanatsuki family's legal counsel. He is very dedicated to his work.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"Mr. Takamine has apparently been coming here since he was small, brought along by his father."
+「Mr. Takamine has apparently been coming here since he was small, brought along by his father.」
 ＃Protagonist
-"Is that so?"
+「Is that so?」
 ＃Benio
-"Mr. Takamine? He is a man of few words... and the burn scars on his face look quite painful."
+「Mr. Takamine? He is a man of few words... and the burn scars on his face look quite painful.」
 ＃Protagonist
-"They do..."
+「They do...」
 ＃Tsujimura
-"Mr. Takamine. He is here to witness the wedding today. As a lawyer, he's necessary for the contract signing."
+「Mr. Takamine. He is here to witness the wedding today. As a lawyer, he's necessary for the contract signing.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Rokuyou
-"Takamine-san? I hear his family has been legal counsel for the Nanatsuki for generations, but I haven't talked to him much."
+「Takamine-san? I hear his family has been legal counsel for the Nanatsuki for generations, but I haven't talked to him much.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"……I have nothing to say."
+「……I have nothing to say.」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Mikanagi
-"About Mr. Takamine? Just like me, his father seems to have been involved with this family."
+「About Mr. Takamine? Just like me, his father seems to have been involved with this family.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Mr. Takamine? I believe he would be in his room, but..."
+「Mr. Takamine? I believe he would be in his room, but...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Takamine-san? ...He has a scary face, doesn't he? To think a guy like that is a lawyer... you just never know with this world."
+「Takamine-san? ...He has a scary face, doesn't he? To think a guy like that is a lawyer... you just never know with this world.」
 ＃Protagonist
-"I-I suppose so..."
+「I-I suppose so...」

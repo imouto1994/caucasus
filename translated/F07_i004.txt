@@ -1,40 +1,40 @@
 ＃Souko
-"...A snowdrop. I think you know what this implies... but it's not enough yet. We need clearer evidence..."
+「...A snowdrop. I think you know what this implies... but it's not enough yet. We need clearer evidence...」
 ＃Protagonist
-"...I know."
+「...I know.」
 ＃Maya
-"...I am sorry, I do not really know."
+「...I am sorry, I do not really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"...I'm sorry, I don't really know."
+「...I'm sorry, I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"...In other words, it's evidence that Rokuyou entered the chapel, isn't it?"
+「...In other words, it's evidence that Rokuyou entered the chapel, isn't it?」
 ＃Protagonist
-"...I don't know yet. It might be that someone is trying to make it look that way..."
+「...I don't know yet. It might be that someone is trying to make it look that way...」
 ＃Shion
-"Um... I'm sorry, I don't really know..."
+「Um... I'm sorry, I don't really know...」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Tsujimura
-"I don't... really know..."
+「I don't... really know...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I can't really tell."
+「I can't really tell.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I don't really know."
+「I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I'm sorry... I don't really know."
+「I'm sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I don't really know about that."
+「I don't really know about that.」
 ＃Protagonist
-"I see..."
+「I see...」

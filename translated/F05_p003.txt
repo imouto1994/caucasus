@@ -1,72 +1,72 @@
 ＃Souko
-"...She seems quite shaken up."
+「...She seems quite shaken up.」
 ＃Protagonist
-"...You're right."
+「...You're right.」
 ＃Souko
-"...I still can't grasp the culprit's intent. Why would they kill Ai-san...?"
+「...I still can't grasp the culprit's intent. Why would they kill Ai-san...?」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"I'm glad Ai was safe, but... why did something like this happen...?"
+「I'm glad Ai was safe, but... why did something like this happen...?」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"Why Ai too...? Are you saying that child did something wrong...?"
+「Why Ai too...? Are you saying that child did something wrong...?」
 ＃Protagonist
-"Maya-san..."
+「Maya-san...」
 ＃Ai
-"...I couldn't sleep well last night. I felt like I might be attacked again..."
+「...I couldn't sleep well last night. I felt like I might be attacked again...」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Benio
-"I have a feeling that attack on my sister was carried out differently than the one on Rokuyou..."
+「I have a feeling that attack on my sister was carried out differently than the one on Rokuyou...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"...I don't think it will end with my sister being killed. Next will be me... or someone else."
+「...I don't think it will end with my sister being killed. Next will be me... or someone else.」
 ＃Protagonist
-"That might be true..."
+「That might be true...」
 ＃Shion
-"...Why Sister Ai... just who would..."
+「...Why Sister Ai... just who would...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Tsujimura
-"Lady Ai seems quite shaken. I suppose it's only natural after something like that..."
+「Lady Ai seems quite shaken. I suppose it's only natural after something like that...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Tsujimura
-"...Why did Lady Ai have to be killed...?"
+「...Why did Lady Ai have to be killed...?」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Takamine
-"...In any case, I'm glad Ai-kun didn't lose her life."
+「...In any case, I'm glad Ai-kun didn't lose her life.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Takamine
-"...Even Ai-kun was killed, but nothing happened last night... I wonder if it’s finally over..."
+「...Even Ai-kun was killed, but nothing happened last night... I wonder if it’s finally over...」
 ＃Protagonist
-"Who knows..."
+「Who knows...」
 ＃Mikanagi
-"As for Ai-san, I expect she's returned to her room. After what happened yesterday, it's better if she rests."
+「As for Ai-san, I expect she's returned to her room. After what happened yesterday, it's better if she rests.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"What is the culprit's aim...? What do they gain by killing Isamu and Ai-san...?"
+「What is the culprit's aim...? What do they gain by killing Isamu and Ai-san...?」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Akane
-"Lady Ai? She's in her room. She still doesn't seem to be feeling very well."
+「Lady Ai? She's in her room. She still doesn't seem to be feeling very well.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Why Lady Ai...? She hasn't done anything wrong..."
+「Why Lady Ai...? She hasn't done anything wrong...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Narumi
-"Lady Ai? She's likely in her room."
+「Lady Ai? She's likely in her room.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"...If even Lady Ai was killed, it might not be over yet..."
+「...If even Lady Ai was killed, it might not be over yet...」
 ＃Protagonist
-"Right..."
+「Right...」

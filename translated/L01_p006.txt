@@ -1,40 +1,40 @@
 ＃Souko
-"...Tsujimura-san manages the spare keys, and he's the person most capable of committing the crime... but even so, it's not right to suspect him without reason."
+「...Tsujimura-san manages the spare keys, and he's the person most capable of committing the crime... but even so, it's not right to suspect him without reason.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"I leave almost everything concerning the mansion to Tsujimura. He should have been doing rounds and such last night."
+「I leave almost everything concerning the mansion to Tsujimura. He should have been doing rounds and such last night.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Tsujimura-san works until late at night. There was a wedding yesterday, so I suppose it couldn't be helped..."
+「Tsujimura-san works until late at night. There was a wedding yesterday, so I suppose it couldn't be helped...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Tsujimura does manage the spare keys, that's certain... but it's also certain he has no reason to kill Rokuyou. Especially when he would be the most suspected."
+「Tsujimura does manage the spare keys, that's certain... but it's also certain he has no reason to kill Rokuyou. Especially when he would be the most suspected.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Shion
-"Seiji-san... he gave his blessings for the marriage between Master Rokuyou and me..."
+「Seiji-san... he gave his blessings for the marriage between Master Rokuyou and me...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Last night, I worked in the office for a while after the ceremony. After that, I did rounds of the house. I did not encounter anyone besides you."
+「Last night, I worked in the office for a while after the ceremony. After that, I did rounds of the house. I did not encounter anyone besides you.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Tsujimura-san must have been working. If he was in his room, he surely would have noticed what was happening next door."
+「Tsujimura-san must have been working. If he was in his room, he surely would have noticed what was happening next door.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Mikanagi
-"Tsujimura-san doing rounds of the mansion is a regular thing. Occasionally Akane-san or Narumi-san will do it, though."
+「Tsujimura-san doing rounds of the mansion is a regular thing. Occasionally Akane-san or Narumi-san will do it, though.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"The night rounds are just to check if any doors were left unlocked... though in the middle of the mountains like this, it doesn't seem to mean much."
+「The night rounds are just to check if any doors were left unlocked... though in the middle of the mountains like this, it doesn't seem to mean much.」
 ＃Protagonist
-"Maybe so..."
+「Maybe so...」
 ＃Narumi
-"The second floor is one thing, but the first floor corridor is completely divided, so rounds are a pain."
+「The second floor is one thing, but the first floor corridor is completely divided, so rounds are a pain.」
 ＃Protagonist
-"I see."
+「I see.」

@@ -1,48 +1,48 @@
 ＃Souko
-"You want to hear about me? You already know, don't you?"
+「You want to hear about me? You already know, don't you?」
 ＃Protagonist
-"No, come on, give me something."
+「No, come on, give me something.」
 ＃Souko
-"Your university senior and an unparalleled Cola lover. Will that do?"
+「Your university senior and an unparalleled Cola lover. Will that do?」
 ＃Protagonist
-"...Not really."
+「...Not really.」
 ＃Souko
-"Well then, shall I say I'm a folklorist who came here for research?"
+「Well then, shall I say I'm a folklorist who came here for research?」
 ＃Protagonist
-"Souko-san, you're still a student too."
+「Souko-san, you're still a student too.」
 ＃Maya
-"Kirihara-san? I'm sorry, I don't know her well."
+「Kirihara-san? I'm sorry, I don't know her well.」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Ai
-"Kirihara-san? We've only just met, so I'm not sure..."
+「Kirihara-san? We've only just met, so I'm not sure...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Benio
-"Kirihara-san? ...I am sorry, I am not well acquainted with her..."
+「Kirihara-san? ...I am sorry, I am not well acquainted with her...」
 ＃Protagonist
-"Of course..."
+「Of course...」
 ＃Tsujimura
-"Ms. Kirihara? ...I don't know her well, but..."
+「Ms. Kirihara? ...I don't know her well, but...」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Rokuyou
-"Kirihara-san... ah, her. You probably know more about her than I do, don't you?"
+「Kirihara-san... ah, her. You probably know more about her than I do, don't you?」
 ＃Protagonist
-"...Well, I suppose so..."
+「...Well, I suppose so...」
 ＃Takamine
-"Kirihara... ah, her. There's no reason I would know anything, is there?"
+「Kirihara... ah, her. There's no reason I would know anything, is there?」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Mikanagi
-"Kirihara-san? ...Well, I can't really say..."
+「Kirihara-san? ...Well, I can't really say...」
 ＃Protagonist
-"...I guess that's true."
+「...I guess that's true.」
 ＃Akane
-"Ms. Kirihara? I believe she would be in her room."
+「Ms. Kirihara? I believe she would be in her room.」
 ＃Protagonist
-"Uh... I suppose she would..."
+「Uh... I suppose she would...」
 ＃Narumi
-"Ms. Kirihara? ...No, I don't know her."
+「Ms. Kirihara? ...No, I don't know her.」
 ＃Protagonist
-"I-I see..."
+「I-I see...」

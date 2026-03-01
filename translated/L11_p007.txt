@@ -1,24 +1,24 @@
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Takamine, huh... He doesn't have an alibi... but he doesn't have a clear motive either. We'd need a reason for him to kill her—or a reason to kill Rokuyou."
+「Takamine, huh... He doesn't have an alibi... but he doesn't have a clear motive either. We'd need a reason for him to kill her—or a reason to kill Rokuyou.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"I believe he was in his room... but I have not confirmed it."
+「I believe he was in his room... but I have not confirmed it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I was in my room the whole time. Though, I don't suppose anyone can prove it."
+「I was in my room the whole time. Though, I don't suppose anyone can prove it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I predictably wouldn't know about anyone else's movements."
+「I predictably wouldn't know about anyone else's movements.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"That man is shady, isn't he? Still, it's not like we can just suspect him blindly."
+「That man is shady, isn't he? Still, it's not like we can just suspect him blindly.」
 ＃Protagonist
-"True..."
+「True...」

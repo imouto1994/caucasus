@@ -1,25 +1,25 @@
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 When I entered the infirmary, Mikanagi-sensei was nowhere to be seen.
 I wonder if he’s gone somewhere else.
 Now then, what should I do.
 ＃Protagonist
-"Good morning, Mikanagi-sensei."
+「Good morning, Mikanagi-sensei.」
 When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
 ＃Mikanagi
-"Ah, good morning."
+「Ah, good morning.」
 ＃Protagonist
-"Do you have a moment?"
+「Do you have a moment?」
 ＃Mikanagi
-"Yes, I don't mind."
+「Yes, I don't mind.」
 Now then, what should I do.
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
 ＃Mikanagi
-"Oh, what is it this time?"
+「Oh, what is it this time?」
 ＃Protagonist
-"Do you have a moment?"
+「Do you have a moment?」
 ＃Mikanagi
-"Yes, please."
+「Yes, please.」
 Now then, what should I do.

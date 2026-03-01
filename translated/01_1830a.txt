@@ -1,178 +1,178 @@
 We passed through the door and returned to the entrance hall from earlier.
 ＃Ai
-"This is the main hall and entrance. These stairs are the only way to reach the second floor."
+「This is the main hall and entrance. These stairs are the only way to reach the second floor.」
 ＃Protagonist
-"It really is spacious..."
+「It really is spacious...」
 I let out my honest impression of the place.
 ＃Ai
-"Heh... it is. Though in this season, all the warm air drifts up to the second floor, so it's not the best place to linger."
+「Heh... it is. Though in this season, all the warm air drifts up to the second floor, so it's not the best place to linger.」
 With that, Ai-san opened the door on the opposite side of the one we had just come through—the right side when facing the entrance.
 ＃Ai
-"Over here we have the servants' quarters and the dining room. The two on the right are the servants' rooms, while on the left, the first door is the restroom, the one behind it is the kitchen, and at the end is the grand dining hall."
+「Over here we have the servants' quarters and the dining room. The two on the right are the servants' rooms, while on the left, the first door is the restroom, the one behind it is the kitchen, and at the end is the grand dining hall.」
 Ai-san walked us through, explaining each room as we went.
 ＃Ai
-"I'll introduce them to you later, but we have two servants on staff, so please don't hesitate to ask if you need anything."
+「I'll introduce them to you later, but we have two servants on staff, so please don't hesitate to ask if you need anything.」
 ＃Protagonist
-"O-oh, alright..."
+「O-oh, alright...」
 I’ve never lived a life with servants before, so I wasn't quite sure how to handle that.
 Just then, a woman stepped out from the kitchen entrance, carrying a stack of plates in her hands.
 ＃Ai
-"Ah, Akane-san."
+「Ah, Akane-san.」
 ＃???
-"Yes?"
+「Yes?」
 The moment the woman called out turned around, the plates she was holding came crashing down with a clatter.
 ＃???
-"A-ah...!"
+「A-ah...!」
 The woman stumbled as well, losing her balance.
 ＃Protagonist
-"Look out!"
+「Look out!」
 [Help the woman]
 [Catch the plates]
 I instinctively reached out and caught the woman before she could fall.
 ＃???
-"Kyah!"
+「Kyah!」
 ＃Protagonist
-"A-are you alright?"
+「A-are you alright?」
 I managed to support her...
 ...Wait.
 U-um, what do I do...
 They're surprisingly big... I mean.
 ＃Protagonist
-"Y-you didn't hit anything, did you...?"
+「Y-you didn't hit anything, did you...?」
 I asked while still holding her.
 ＃???
-"Eh... A-ah... thank... you very much."
+「Eh... A-ah... thank... you very much.」
 The woman addressed as Akane-san murmured in a small voice, her face turning bright red, and quickly pulled away from me.
 ＃Ai
-"...Akane-san."
+「...Akane-san.」
 Ai-san let out an exasperated sigh.
 ＃???
-"U-um, I'm so sorry..."
+「U-um, I'm so sorry...」
 ＃Ai
-"...Don't apologize to me. Apologize to our guest."
+「...Don't apologize to me. Apologize to our guest.」
 Souko-san, who was standing next to Ai-san... was now holding the massive stack of plates in both hands.
 ＃???
-"Eek!? I-I'm so sorry!!"
+「Eek!? I-I'm so sorry!!」
 ＃Protagonist
-"S-Souko-san, are you okay?"
+「S-Souko-san, are you okay?」
 I let go of Akane-san and rushed over to Souko-san to take the plates from her.
 ＃Souko
-"...Well, I suppose it's fine."
+「...Well, I suppose it's fine.」
 I wasn't sure if I should praise her for not dropping a single plate on the floor.
 ＃Souko
-"...I already knew you liked girls, after all."
+「...I already knew you liked girls, after all.」
 ＃Protagonist
-"T-That's a misunderstanding!"
+「T-That's a misunderstanding!」
 ＃Souko
-"So, you hate them then?"
+「So, you hate them then?」
 ＃Protagonist
-"How did you even reach that conclusion..."
+「How did you even reach that conclusion...」
 I instinctively reached out for the plates that were about to go flying.
 ＃???
-"Kyah!"
+「Kyah!」
 The woman went tumbling to the floor.
 ＃???
-"Ouch..."
+「Ouch...」
 ＃Ai
-"Akane-san... are you alright?"
+「Akane-san... are you alright?」
 ＃???
-"Y-yes... my deepest apologies..."
+「Y-yes... my deepest apologies...」
 Ai-san offered a hand, and the woman called Akane-san stood up.
 ＃???
-"U-um... I'm sorry for the trouble."
+「U-um... I'm sorry for the trouble.」
 ＃Protagonist
-"N-no, it's alright."
+「N-no, it's alright.」
 I nodded, still clutching the stack of plates I had managed to save at the last second.
 ＃Ai
-"I'm terribly sorry. Our servant can be a bit clumsy."
+「I'm terribly sorry. Our servant can be a bit clumsy.」
 Ai-san bowed her head.
 ＃???
-"Um, I'm very sorry. My name is Akane Hiyama, and I serve as a maid for this house."
+「Um, I'm very sorry. My name is Akane Hiyama, and I serve as a maid for this house.」
 ＃Protagonist
-"Ah, I'm (NAME01) (NAME02)."
+「Ah, I'm (NAME01) (NAME02).」
 ＃Souko
-"I'm Souko Kirihara. Nice to meet you."
+「I'm Souko Kirihara. Nice to meet you.」
 ＃Akane
-"U-um, I'm truly sorry for what happened!"
+「U-um, I'm truly sorry for what happened!」
 She bowed so deeply that it made me feel a bit awkward.
 ＃Protagonist
-"No, really, don't worry about it."
+「No, really, don't worry about it.」
 ＃Souko
-"You certainly got a nice bonus out of it, didn't you?"
+「You certainly got a nice bonus out of it, didn't you?」
 ＃Protagonist
-"It wasn't like that at all."
+「It wasn't like that at all.」
 ＃???
-"What's all the racket?"
+「What's all the racket?」
 Another woman poked her head out from the kitchen.
 ＃Akane
-"I-it's nothing, Narumi-san!"
+「I-it's nothing, Narumi-san!」
 Akane-san rushed over to the woman.
 ＃Ai
-"Perfect timing. Narumi-san, these people are our new guests."
+「Perfect timing. Narumi-san, these people are our new guests.」
 ＃???
-"Oh."
+「Oh.」
 ＃Protagonist
-"Um, my name is (NAME01) (NAME02)."
+「Um, my name is (NAME01) (NAME02).」
 ＃Souko
-"I'm Souko Kirihara."
+「I'm Souko Kirihara.」
 ＃???
-"I'm Narumi Minakami. Nice to meet ya."
+「I'm Narumi Minakami. Nice to meet ya.」
 After the introductions were finished, Ai-san spoke to Narumi-san.
 ＃Ai
-"Now then, please prepare some extra food for dinner."
+「Now then, please prepare some extra food for dinner.」
 ＃Narumi
-"Eeeh? Starting now?"
+「Eeeh? Starting now?」
 Narumi-san let out a blatantly annoyed groan.
 ＃Ai
-"We have enough ingredients, don't we?"
+「We have enough ingredients, don't we?」
 ＃Narumi
-"Well, yeah, I guess... but it's such a pain."
+「Well, yeah, I guess... but it's such a pain.」
 ...I wondered if it was really okay to say something like that to your employer.
 ＃Ai
-"I'm counting on you regardless."
+「I'm counting on you regardless.」
 ...Since Ai-san didn't seem to mind, I suppose this was a common occurrence here.
 ＃Narumi
-"Fine, fine. So, is there anything you guests can't eat?"
+「Fine, fine. So, is there anything you guests can't eat?」
 ＃Souko
-"Nothing in particular for me."
+「Nothing in particular for me.」
 ＃Protagonist
-"I..."
+「I...」
 [Nothing in particular]
 [I can't stand baran]
 ＃Protagonist
-"I don't have any specific dislikes."
+「I don't have any specific dislikes.」
 ＃Narumi
-"Got it. Then maybe some shaved ice would be fine? We can just use the snow from outside."
+「Got it. Then maybe some shaved ice would be fine? We can just use the snow from outside.」
 Narumi-san said something outrageous with a straight face.
 ＃Akane
-"Narumi-san!"
+「Narumi-san!」
 ＃Narumi
-"I'm just kidding."
+「I'm just kidding.」
 ＃Protagonist
-"I just can't stand baran, no matter what."
+「I just can't stand baran, no matter what.」
 ＃Narumi
-"Oh? Then I'll make sure to put plenty in for you. ...Wait, what's baran again?"
+「Oh? Then I'll make sure to put plenty in for you. ...Wait, what's baran again?」
 ＃Protagonist
-"It's those plastic leaves they use as decoration for sushi."
+「It's those plastic leaves they use as decoration for sushi.」
 ＃Narumi
-"Ah, right. ...Wait, that's not even food, is it!?"
+「Ah, right. ...Wait, that's not even food, is it!?」
 ＃Protagonist
-"That's why I said I can't eat it."
+「That's why I said I can't eat it.」
 ＃Narumi
-"Ugh, you're kind of annoying..."
+「Ugh, you're kind of annoying...」
 ＃Akane
-"Narumi-san, please calm down."
+「Narumi-san, please calm down.」
 ＃Souko
-"Honestly, this isn't the time or place for teasing people."
+「Honestly, this isn't the time or place for teasing people.」
 Souko-san gave my head a playful nudge.
 ＃Ai
-"Narumi-san prepares all the meals for this household."
+「Narumi-san prepares all the meals for this household.」
 ＃Protagonist
-"Oh, so she's not a professional chef?"
+「Oh, so she's not a professional chef?」
 ＃Narumi
-"Nothing fancy like that. I'm just doing it because I don't have any other useful skills."
+「Nothing fancy like that. I'm just doing it because I don't have any other useful skills.」
 ＃Ai
-"You should follow Akane-san's example and learn how to handle other chores as well."
+「You should follow Akane-san's example and learn how to handle other chores as well.」
 ＃Narumi
-"Suuure."
+「Suuure.」
 ...That was an incredibly half-hearted response.

@@ -1,24 +1,24 @@
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"One might reach the kitchen from Shion's room via the back... but it's impossible this time of year. The snow is nearly two meters deep, after all."
+「One might reach the kitchen from Shion's room via the back... but it's impossible this time of year. The snow is nearly two meters deep, after all.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I was in the office, and Lady Shion did not come out of her room."
+「I was in the office, and Lady Shion did not come out of her room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I predictably wouldn't know about anyone else's movements."
+「I predictably wouldn't know about anyone else's movements.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"It looks like Lady Shion was in her room the whole time."
+「It looks like Lady Shion was in her room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」

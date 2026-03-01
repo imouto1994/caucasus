@@ -1,38 +1,38 @@
 ＃Souko
-"...Now that you mention it, you were saying something like that in the middle of the night, too. So what was it in the end?"
+「...Now that you mention it, you were saying something like that in the middle of the night, too. So what was it in the end?」
 ＃Protagonist
-"No, I still haven't figured anything out yet."
+「No, I still haven't figured anything out yet.」
 ＃Souko
-"Oh, I see."
+「Oh, I see.」
 ＃Maya
-"A noise...? This is quite an old house, so it may simply be creaking somewhere."
+「A noise...? This is quite an old house, so it may simply be creaking somewhere.」
 ＃Protagonist
-"That could be it."
+「That could be it.」
 ＃Ai
-"A noise in the middle of the night...? I’m sorry, I didn't hear a thing..."
+「A noise in the middle of the night...? I’m sorry, I didn't hear a thing...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"You heard a noise in the middle of the night? Who has time to worry about every little sound?"
+「You heard a noise in the middle of the night? Who has time to worry about every little sound?」
 ＃Protagonist
-"I guess you're right..."
+「I guess you're right...」
 ＃Tsujimura
-"Regarding last night? I was joking about it being a mountain spirit, but it is a very old building... even if the soundproofing is quite solid."
+「Regarding last night? I was joking about it being a mountain spirit, but it is a very old building... even if the soundproofing is quite solid.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"A noise? No idea. I went straight to my room and fell asleep last night, so I didn't notice anything."
+「A noise? No idea. I went straight to my room and fell asleep last night, so I didn't notice anything.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"A noise in the middle of the night, eh...? I didn't notice anything at all."
+「A noise in the middle of the night, eh...? I didn't notice anything at all.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"A noise...? It was a blizzard last night, so the windows were rattling and groaning quite a bit."
+「A noise...? It was a blizzard last night, so the windows were rattling and groaning quite a bit.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Narumi
-"A noise in the middle of the night? Maybe it was a ghost?"
+「A noise in the middle of the night? Maybe it was a ghost?」
 ＃Protagonist
-"...Well, it is the kind of building where one wouldn't be surprised if a ghost showed up."
+「...Well, it is the kind of building where one wouldn't be surprised if a ghost showed up.」

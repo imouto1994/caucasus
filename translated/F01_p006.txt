@@ -1,40 +1,40 @@
 ＃Souko
-"Tsujimura-san? Even though he's Mr. Kousei's younger brother, he acts like a servant here... it's a bit strange."
+「Tsujimura-san? Even though he's Mr. Kousei's younger brother, he acts like a servant here... it's a bit strange.」
 ＃Protagonist
-"I suppose so..."
+「I suppose so...」
 ＃Maya
-"Tsujimura? He was my husband's younger brother, so we hired him. He works hard, and I am very grateful to him."
+「Tsujimura? He was my husband's younger brother, so we hired him. He works hard, and I am very grateful to him.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Tsujimura-san? He is our uncle, but he's a very kind man."
+「Tsujimura-san? He is our uncle, but he's a very kind man.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Tsujimura? ...He serves me well."
+「Tsujimura? ...He serves me well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"About me...? No, I have nothing to say that I could be proud of."
+「About me...? No, I have nothing to say that I could be proud of.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Rokuyou
-"About Tsujimura? ...Well, I only know that he's the younger brother of the deceased Master..."
+「About Tsujimura? ...Well, I only know that he's the younger brother of the deceased Master...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"About Tsujimura-san? He's the previous head's younger brother and currently acts as the caretaker here, I hear."
+「About Tsujimura-san? He's the previous head's younger brother and currently acts as the caretaker here, I hear.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Tsujimura-san is the one who handles all the paperwork for the Nanatsuki family. You could even call him a butler."
+「Tsujimura-san is the one who handles all the paperwork for the Nanatsuki family. You could even call him a butler.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Tsujimura-san? He usually works in the office."
+「Tsujimura-san? He usually works in the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Tsujimura-san? He's a kind man. A bit timid at times, though..."
+「Tsujimura-san? He's a kind man. A bit timid at times, though...」
 ＃Protagonist
-"I see."
+「I see.」

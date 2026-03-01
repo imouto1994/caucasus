@@ -1,40 +1,40 @@
 ＃Souko
-"It was sitting in the performance room. It certainly looked like an antique..."
+「It was sitting in the performance room. It certainly looked like an antique...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Maya
-"That is something my husband purchased before the war. It was imported all the way from Germany."
+「That is something my husband purchased before the war. It was imported all the way from Germany.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"I do not play it myself... but Benio plays quite often."
+「I do not play it myself... but Benio plays quite often.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"I didn't learn the piano from my father, but from Tsujimura. I still play it from time to time."
+「I didn't learn the piano from my father, but from Tsujimura. I still play it from time to time.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Tsujimura
-"...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio."
+「...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Rokuyou
-"A piano? It likely belonged to the previous head. I don't know how much it's worth, though..."
+「A piano? It likely belonged to the previous head. I don't know how much it's worth, though...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I don't think anyone would mind if you played it, but don't break it."
+「I don't think anyone would mind if you played it, but don't break it.」
 ＃Protagonist
-"O-Oh, right..."
+「O-Oh, right...」
 ＃Mikanagi
-"A piano? It's apparently quite old. It seems to have been one of Mr. Kousei's favorite instruments."
+「A piano? It's apparently quite old. It seems to have been one of Mr. Kousei's favorite instruments.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"The piano in the performance room, right. I always make sure to polish it until it shines."
+「The piano in the performance room, right. I always make sure to polish it until it shines.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"The piano in the performance room? I've never seen anyone but Lady Benio playing it."
+「The piano in the performance room? I've never seen anyone but Lady Benio playing it.」
 ＃Protagonist
-"I see..."
+「I see...」

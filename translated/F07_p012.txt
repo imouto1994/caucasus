@@ -1,40 +1,40 @@
 ＃Souko
-"About the late Kousei-san? He was a famous musician. Even I know a few of his pieces."
+「About the late Kousei-san? He was a famous musician. Even I know a few of his pieces.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Maya
-"My husband was a great composer. He was the one who built the music room in this mansion, after all."
+「My husband was a great composer. He was the one who built the music room in this mansion, after all.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Father? He was kind to everyone without distinction."
+「Father? He was kind to everyone without distinction.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Shion
-"Father... was very good to me."
+「Father... was very good to me.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Tsujimura
-"The Master was... my older brother, but he hired me here when I had nowhere else to go. I am deeply grateful to him."
+「The Master was... my older brother, but he hired me here when I had nowhere else to go. I am deeply grateful to him.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"My father was Kousei-san's legal counsel. He seems to have made quite a fortune from his compositions."
+「My father was Kousei-san's legal counsel. He seems to have made quite a fortune from his compositions.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"My father was Kousei-san's primary physician, you see. That's how I ended up here as well."
+「My father was Kousei-san's primary physician, you see. That's how I ended up here as well.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"The Master? I never met him personally, so I don't really know."
+「The Master? I never met him personally, so I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"The Master... I didn't know him well, but I've heard he was a very fine man."
+「The Master... I didn't know him well, but I've heard he was a very fine man.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"Father? He was a kind man. He used to read to me often when I was small."
+「Father? He was a kind man. He used to read to me often when I was small.」
 ＃Protagonist
-"I see."
+「I see.」

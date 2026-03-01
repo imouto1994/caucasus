@@ -1,36 +1,36 @@
 ＃Souko
-"The cathedral is closed off while they continue the wedding ceremony, it seems."
+「The cathedral is closed off while they continue the wedding ceremony, it seems.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Maya
-"The cathedral will be opened again at eight o'clock."
+「The cathedral will be opened again at eight o'clock.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I’ve heard that cathedral has always been used for weddings in the Nanatsuki family."
+「I’ve heard that cathedral has always been used for weddings in the Nanatsuki family.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"If you want to enter the cathedral, you’ll have to wait a little longer."
+「If you want to enter the cathedral, you’ll have to wait a little longer.」
 ＃Protagonist
-"Right."
+「Right.」
 ＃Tsujimura
-"The ceremony is currently underway... Please wait just a bit more."
+「The ceremony is currently underway... Please wait just a bit more.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"You can't go in; the ceremony is in progress."
+「You can't go in; the ceremony is in progress.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I believe Shion-san is likely in the cathedral right now."
+「I believe Shion-san is likely in the cathedral right now.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Cleaning the cathedral is such a chore. It isn't used often so it doesn't get very dirty, but still."
+「Cleaning the cathedral is such a chore. It isn't used often so it doesn't get very dirty, but still.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"A cathedral that only gets used for weddings... seems a bit decadent, doesn't it?"
+「A cathedral that only gets used for weddings... seems a bit decadent, doesn't it?」
 ＃Protagonist
-"I guess so..."
+「I guess so...」

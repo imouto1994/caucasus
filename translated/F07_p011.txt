@@ -1,40 +1,40 @@
 ＃Souko
-"I wonder why Rokuyou-san had to be murdered... that's what's really bothering me."
+「I wonder why Rokuyou-san had to be murdered... that's what's really bothering me.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"...Why was a man like Isamu-san murdered...?"
+「...Why was a man like Isamu-san murdered...?」
 ＃Protagonist
-"I don't know..."
+「I don't know...」
 ＃Ai
-"Isamu-san... why...?"
+「Isamu-san... why...?」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Benio
-"...I question whether Rokuyou truly loved Shion. I never once saw them acting affectionately, after all."
+「...I question whether Rokuyou truly loved Shion. I never once saw them acting affectionately, after all.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Shion
-"What on earth could have happened...?"
+「What on earth could have happened...?」
 ＃Protagonist
-"...I'm in the middle of investigating that right now."
+「...I'm in the middle of investigating that right now.」
 ＃Tsujimura
-"Master Rokuyou's remains are laid to rest in his room. We cannot simply bury him as we please, after all..."
+「Master Rokuyou's remains are laid to rest in his room. We cannot simply bury him as we please, after all...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Takamine
-"It seems Rokuyou-kun was murdered during the night... but there weren't any sounds of a struggle. It might be because the rooms are well soundproofed..."
+「It seems Rokuyou-kun was murdered during the night... but there weren't any sounds of a struggle. It might be because the rooms are well soundproofed...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"To think Isamu would meet such a fate..."
+「To think Isamu would meet such a fate...」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Akane
-"For Master Rokuyou to pass away like that..."
+「For Master Rokuyou to pass away like that...」
 ＃Protagonist
-"Akane-san..."
+「Akane-san...」
 ＃Narumi
-"...I thought it was strange when he didn't show up this morning, but to think he'd been murdered..."
+「...I thought it was strange when he didn't show up this morning, but to think he'd been murdered...」
 ＃Protagonist
-"Yeah..."
+「Yeah...」

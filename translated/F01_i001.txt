@@ -1,40 +1,40 @@
 ＃Souko
-"Want to hear about Cola? Well, you know, I was the first person in Japan to ever drink it. Pretty impressive, right?"
+「Want to hear about Cola? Well, you know, I was the first person in Japan to ever drink it. Pretty impressive, right?」
 ＃Protagonist
-"...I can tell that's a lie even without checking."
+「...I can tell that's a lie even without checking.」
 ＃Maya
-"Cola... is it. Unfortunately, I have never had the occasion to drink it."
+「Cola... is it. Unfortunately, I have never had the occasion to drink it.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Cola? I have heard of it... that is what Kirihara-san was drinking, isn't it?"
+「Cola? I have heard of it... that is what Kirihara-san was drinking, isn't it?」
 ＃Protagonist
-"Yes, that's right."
+「Yes, that's right.」
 ＃Benio
-"I am familiar with Cola. I often drink it when I go into town."
+「I am familiar with Cola. I often drink it when I go into town.」
 ＃Protagonist
-"Oh, is that so?"
+「Oh, is that so?」
 ＃Tsujimura
-"Cola, is it... I remember receiving some from the Occupation forces long ago. That was nearly twenty years ago, though..."
+「Cola, is it... I remember receiving some from the Occupation forces long ago. That was nearly twenty years ago, though...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Rokuyou
-"Cola, you say? Of course I like it. I always make sure to load a few bottles whenever I board a ship."
+「Cola, you say? Of course I like it. I always make sure to load a few bottles whenever I board a ship.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"Cola? I don't drink such things."
+「Cola? I don't drink such things.」
 ＃Protagonist
-"I-I see..."
+「I-I see...」
 ＃Mikanagi
-"Cola contains a lot of caffeine, you see. If you drink too much, you might find yourself unable to sleep, so you should be careful."
+「Cola contains a lot of caffeine, you see. If you drink too much, you might find yourself unable to sleep, so you should be careful.」
 ＃Protagonist
-"I-I see..."
+「I-I see...」
 ＃Akane
-"Cola? ...I'm sorry, we haven't prepared any here, but..."
+「Cola? ...I'm sorry, we haven't prepared any here, but...」
 ＃Protagonist
-"Oh, no, it's fine. Souko-san brought plenty with her."
+「Oh, no, it's fine. Souko-san brought plenty with her.」
 ＃Narumi
-"Cola? ...Actually, I heard that stewing chicken in Cola makes it quite delicious."
+「Cola? ...Actually, I heard that stewing chicken in Cola makes it quite delicious.」
 ＃Protagonist
-"...Don't ask me, ask Souko-san."
+「...Don't ask me, ask Souko-san.」

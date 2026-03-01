@@ -1,32 +1,32 @@
 ＃Souko
-"Narumi-san was with you, wasn't she? There's no way she could be a suspect."
+「Narumi-san was with you, wasn't she? There's no way she could be a suspect.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"I wouldn't know; I was resting in my room as well."
+「I wouldn't know; I was resting in my room as well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"...I don't know. My room is in the annex, after all..."
+「...I don't know. My room is in the annex, after all...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"...I heard you were locked in the basement, if I recall?"
+「...I heard you were locked in the basement, if I recall?」
 ＃Protagonist
-"Yes... that's right."
+「Yes... that's right.」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I predictably wouldn't know about anyone else's movements."
+「I predictably wouldn't know about anyone else's movements.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"How could I have killed Lady Benio from inside the basement? Try and think about things a bit more realistically, will you?"
+「How could I have killed Lady Benio from inside the basement? Try and think about things a bit more realistically, will you?」
 ＃Protagonist
-"Y-Yeah, you're right..."
+「Y-Yeah, you're right...」

@@ -1,32 +1,32 @@
 ＃Souko
-"He was quite on edge. ...Well, it's only natural in a situation like this."
+「He was quite on edge. ...Well, it's only natural in a situation like this.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"Attorney Takamine can be a bit rough with his language, but he's not a bad person."
+「Attorney Takamine can be a bit rough with his language, but he's not a bad person.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Takamine is difficult. He likely can't settle down in a situation like this."
+「Takamine is difficult. He likely can't settle down in a situation like this.」
 ＃Protagonist
-"Is that so?"
+「Is that so?」
 ＃Shion
-"Mr. Takamine... um, I hear he works as an attorney... I don't really understand it..."
+「Mr. Takamine... um, I hear he works as an attorney... I don't really understand it...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Takamine-sama is a serious person... He's someone who isn't afraid to have a differing opinion."
+「Takamine-sama is a serious person... He's someone who isn't afraid to have a differing opinion.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"What about me?"
+「What about me?」
 ＃Protagonist
-"No, it's nothing..."
+「No, it's nothing...」
 ＃Mikanagi
-"Takamine-san is headstrong. Perhaps that's why he's suited to being an attorney."
+「Takamine-san is headstrong. Perhaps that's why he's suited to being an attorney.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"He has a bit of an unpleasant vibe... I don't like men who are so full of suspicion like that."
+「He has a bit of an unpleasant vibe... I don't like men who are so full of suspicion like that.」
 ＃Protagonist
-"I-I see..."
+「I-I see...」

@@ -1,77 +1,77 @@
 ＃Souko
-"Huh... there's even something like that."
+「Huh... there's even something like that.」
 ＃Souko
-"So it was Shion-san's room... She's the only one made to live in the annex."
+「So it was Shion-san's room... She's the only one made to live in the annex.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Maya
-"There is indeed a tower outside... is something wrong?"
+「There is indeed a tower outside... is something wrong?」
 ＃Protagonist
-"Oh, no, it's nothing."
+「Oh, no, it's nothing.」
 ＃Maya
-"That is the room of my youngest daughter, Shion. Her constitution is weak, so we have her living in the annex."
+「That is the room of my youngest daughter, Shion. Her constitution is weak, so we have her living in the annex.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"Yes, there is a tower..."
+「Yes, there is a tower...」
 ＃Ai
-"...That is indeed Shion's room. Since she is physically weak, she has always lived there."
+「...That is indeed Shion's room. Since she is physically weak, she has always lived there.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"If you wish to go there, I believe you should speak to Tsujimura in the office."
+「If you wish to go there, I believe you should speak to Tsujimura in the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"With this much snow, it would be impossible to reach the tower from anywhere but the office door."
+「With this much snow, it would be impossible to reach the tower from anywhere but the office door.」
 ＃Protagonist
-"You're right."
+「You're right.」
 ＃Tsujimura
-"Yes, you can reach the tower in the back from the office, but..."
+「Yes, you can reach the tower in the back from the office, but...」
 ＃Protagonist
-"Would it be alright if I went there?"
+「Would it be alright if I went there?」
 ＃Tsujimura
-"I'm sorry, but that's a bit..."
+「I'm sorry, but that's a bit...」
 ＃Protagonist
-"I see..."
+「I see...」
 It seems it's no use without a proper reason.
 ＃Tsujimura
-"In this snow, I'll have to do some shoveling myself. It would be a disaster if Lady Shion were to trip."
+「In this snow, I'll have to do some shoveling myself. It would be a disaster if Lady Shion were to trip.」
 ＃Protagonist
-"That's true."
+「That's true.」
 ＃Rokuyou
-"The tower where Shion is, right? There's a gatekeeper there, so you can't just approach it carelessly."
+「The tower where Shion is, right? There's a gatekeeper there, so you can't just approach it carelessly.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"The tower outside... if you want to see it, you should ask Mr. Tsujimura."
+「The tower outside... if you want to see it, you should ask Mr. Tsujimura.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"...I hear Shion-kun has lived in that tower since a long time ago."
+「...I hear Shion-kun has lived in that tower since a long time ago.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Mikanagi
-"The tower... you can get there through the back door in the office."
+「The tower... you can get there through the back door in the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"I've heard Shion-san lives in the annex because she's physically weak... but it might have been my father who gave those instructions..."
+「I've heard Shion-san lives in the annex because she's physically weak... but it might have been my father who gave those instructions...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"The tower outside? That is Lady Shion's room..."
+「The tower outside? That is Lady Shion's room...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"I am the one who brings Lady Shion her meals, but she usually eats them in the office."
+「I am the one who brings Lady Shion her meals, but she usually eats them in the office.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Narumi
-"The youngest daughter, Lady Shion, lives in that tower outside."
+「The youngest daughter, Lady Shion, lives in that tower outside.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Narumi
-"Only Lady Shion lives in the annex... it's a bit strange, isn't it?"
+「Only Lady Shion lives in the annex... it's a bit strange, isn't it?」
 ＃Protagonist
-"I suppose so..."
+「I suppose so...」

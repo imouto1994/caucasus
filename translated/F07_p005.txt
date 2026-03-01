@@ -1,72 +1,72 @@
 ＃Souko
-"I wonder if there's a connection between Shion-san being targeted and you two being locked in the basement..."
+「I wonder if there's a connection between Shion-san being targeted and you two being locked in the basement...」
 ＃Protagonist
-"I wonder..."
+「I wonder...」
 ＃Souko
-"...There's a good chance Shion-san will be targeted by the killer. We have to make sure she's careful..."
+「...There's a good chance Shion-san will be targeted by the killer. We have to make sure she's careful...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"To think even Shion was targeted..."
+「To think even Shion was targeted...」
 ＃Protagonist
-"Her life isn't in danger, so please don't worry."
+「Her life isn't in danger, so please don't worry.」
 ＃Maya
-"Shion is still safe, isn't she...?"
+「Shion is still safe, isn't she...?」
 ＃Protagonist
-"Yes... there's no need to worry."
+「Yes... there's no need to worry.」
 ＃Ai
-"Why even Shion... Why...!"
+「Why even Shion... Why...!」
 ＃Protagonist
-"...We don't know that yet."
+「...We don't know that yet.」
 ＃Ai
-"I'm glad it was me who was targeted... if it had been Shion..."
+「I'm glad it was me who was targeted... if it had been Shion...」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Shion
-"I'm... all right now. I'm sorry to have worried you."
+「I'm... all right now. I'm sorry to have worried you.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"I... don't really understand what is happening... I am sorry..."
+「I... don't really understand what is happening... I am sorry...」
 ＃Protagonist
-"No..."
+「No...」
 ＃Tsujimura
-"So even Lady Shion is not safe after all..."
+「So even Lady Shion is not safe after all...」
 ＃Protagonist
-"It seems so..."
+「It seems so...」
 ＃Tsujimura
-"...Lady Shion seems to be quite depressed..."
+「...Lady Shion seems to be quite depressed...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"...Shion-kun is safe, I assume?"
+「...Shion-kun is safe, I assume?」
 ＃Protagonist
-"Y-Yeah..."
+「Y-Yeah...」
 ＃Takamine
-"There's a possibility that danger could close in on Shion-kun as well. Keep an eye on her."
+「There's a possibility that danger could close in on Shion-kun as well. Keep an eye on her.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Mikanagi
-"Shion-san's condition has mostly recovered. It seems the poison was a very small dose, and she threw it up immediately."
+「Shion-san's condition has mostly recovered. It seems the poison was a very small dose, and she threw it up immediately.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"If you're looking for Shion-san, she's likely in her room or the office."
+「If you're looking for Shion-san, she's likely in her room or the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"So even Lady Shion is being targeted... What on earth is the killer's objective...?"
+「So even Lady Shion is being targeted... What on earth is the killer's objective...?」
 ＃Protagonist
-"Good question..."
+「Good question...」
 ＃Akane
-"Lady Shion? I believe she is likely in her room..."
+「Lady Shion? I believe she is likely in her room...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"I don't think you need to worry about Lady Shion's condition... but who could have done it..."
+「I don't think you need to worry about Lady Shion's condition... but who could have done it...」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Narumi
-"If it's Lady Shion, she's probably in her room or the office, right?"
+「If it's Lady Shion, she's probably in her room or the office, right?」
 ＃Protagonist
-"I see."
+「I see.」

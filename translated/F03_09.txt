@@ -1,69 +1,69 @@
 I’ve arrived at the kitchen.
 ＃Narumi
-"Oh, what's up?"
+「Oh, what's up?」
 Narumi-san was there.
 ＃Protagonist
-"Are you preparing lunch?"
+「Are you preparing lunch?」
 ＃Narumi
-"Yeah, are you hungry?"
+「Yeah, are you hungry?」
 ＃Protagonist
-"Not quite yet."
+「Not quite yet.」
 ＃Narumi
-"I'll have it ready so we can eat a bit after one."
+「I'll have it ready so we can eat a bit after one.」
 ＃Protagonist
-"Understood."
+「Understood.」
 ＃Narumi
-"So, didn't you have some kind of business with me?"
+「So, didn't you have some kind of business with me?」
 ＃Protagonist
-"Um..."
+「Um...」
 I’ve arrived at the kitchen again.
 ＃Narumi
-"Oh, do you need something else?"
+「Oh, do you need something else?」
 ＃Protagonist
-"Um..."
+「Um...」
 I’ve arrived at the kitchen.
 ...But no one is here.
 What should I do...?
 Narumi-san was in the kitchen.
 ＃Narumi
-"Oh, Akane, what's wrong?"
+「Oh, Akane, what's wrong?」
 ＃Akane
-"Narumi-san, have you seen Lady Ai?"
+「Narumi-san, have you seen Lady Ai?」
 ＃Narumi
-"Lady Ai...? No, I haven't."
+「Lady Ai...? No, I haven't.」
 ＃Protagonist
-"I see..."
+「I see...」
 It seems she hasn't come here either.
 ＃Akane
-"Let's look somewhere else."
+「Let's look somewhere else.」
 ＃Protagonist
-"...Alright."
+「...Alright.」
 We decided to go somewhere else.
 Narumi-san was in the kitchen.
 ＃Narumi
-"Oh, still haven't found Lady Ai?"
+「Oh, still haven't found Lady Ai?」
 ＃Protagonist
-"No... that's right."
+「No... that's right.」
 ＃Akane
-"There should only be so many places she could go inside the manor..."
+「There should only be so many places she could go inside the manor...」
 ＃Narumi
-"Maybe you should try looking more thoroughly?"
+「Maybe you should try looking more thoroughly?」
 ＃Protagonist
-"...I suppose so."
+「...I suppose so.」
 We decided to go search elsewhere.
 I’ve arrived at the kitchen.
 ＃Akane
-"Narumi-san isn't here."
+「Narumi-san isn't here.」
 There's no one inside.
 Of course, that includes Ai-san.
 ＃Protagonist
-"She wouldn't be... hiding somewhere, right?"
+「She wouldn't be... hiding somewhere, right?」
 ＃Akane
-"I don't think so."
+「I don't think so.」
 Akane-san opens the service entrance leading to the back to check.
 Snow immediately blows inside.
 ＃Akane
-"It's drifting quite a bit, but I don't see any footprints..."
+「It's drifting quite a bit, but I don't see any footprints...」
 ＃Protagonist
-"Let's look elsewhere."
+「Let's look elsewhere.」
 We decided to go to another location.

@@ -1,40 +1,40 @@
 ＃Souko
-"...The fire is out, but I didn't see any signs of anything other than firewood being burned."
+「...The fire is out, but I didn't see any signs of anything other than firewood being burned.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"...I am sorry, I do not really know."
+「...I am sorry, I do not really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"...I'm sorry, I don't really know."
+「...I'm sorry, I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Small wonder it's so cold. It's possible the killer extinguished it to avoid the risk of a fire breaking out."
+「Small wonder it's so cold. It's possible the killer extinguished it to avoid the risk of a fire breaking out.」
 ＃Protagonist
-"Is that so...?"
+「Is that so...?」
 ＃Shion
-"Um... I'm sorry, I don't really know..."
+「Um... I'm sorry, I don't really know...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"A fireplace doesn't just cause a fire if left alone... Master Rokuyou should have been well aware of that."
+「A fireplace doesn't just cause a fire if left alone... Master Rokuyou should have been well aware of that.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"The fact the fire was out should slow the decomposition of the remains..."
+「The fact the fire was out should slow the decomposition of the remains...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I'm sorry... I don't really know."
+「I'm sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I don't really know about that."
+「I don't really know about that.」
 ＃Protagonist
-"I see..."
+「I see...」

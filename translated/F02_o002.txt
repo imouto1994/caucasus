@@ -1,36 +1,36 @@
 ＃Souko
-"A will, huh... I’m certainly curious about what kind of things were left in it..."
+「A will, huh... I’m certainly curious about what kind of things were left in it...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"I am sorry... but that is not something I can easily discuss with an outsider..."
+「I am sorry... but that is not something I can easily discuss with an outsider...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Ai
-"A will? ...I don't know the specifics, but..."
+「A will? ...I don't know the specifics, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"You should ask Takamine about my father's will. He’s the one managing it."
+「You should ask Takamine about my father's will. He’s the one managing it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"...As far as that matter is concerned, there is nothing I can say."
+「...As far as that matter is concerned, there is nothing I can say.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Takamine
-"There’s no way I could discuss that with an outsider like you."
+「There’s no way I could discuss that with an outsider like you.」
 ＃Protagonist
-"Y-you're right..."
+「Y-you're right...」
 ＃Mikanagi
-"That’s... not a matter I’m in any position to comment on."
+「That’s... not a matter I’m in any position to comment on.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Akane
-"A will...? I wonder if the lawyer, Takamine-sama, might know something."
+「A will...? I wonder if the lawyer, Takamine-sama, might know something.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"A will, huh... I suppose it’s where the distribution of the inheritance and such is written... but naturally, I don't know the details."
+「A will, huh... I suppose it’s where the distribution of the inheritance and such is written... but naturally, I don't know the details.」
 ＃Protagonist
-"You're right."
+「You're right.」

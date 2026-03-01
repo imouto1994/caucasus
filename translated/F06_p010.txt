@@ -1,56 +1,56 @@
 ＃Souko
-"Narumi-san, huh... There are times when I honestly have no idea what's going on in that head of hers..."
+「Narumi-san, huh... There are times when I honestly have no idea what's going on in that head of hers...」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Souko
-"It looks like she was injured in that explosion earlier... I wonder if she's alright."
+「It looks like she was injured in that explosion earlier... I wonder if she's alright.」
 ＃Protagonist
-"I suppose so..."
+「I suppose so...」
 ＃Maya
-"Narumi? Her talent for cooking is truly wonderful. However... I do wish she would take her other duties a bit more seriously..."
+「Narumi? Her talent for cooking is truly wonderful. However... I do wish she would take her other duties a bit more seriously...」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Maya
-"The explosion in the kitchen... yes... I wonder if she is quite alright..."
+「The explosion in the kitchen... yes... I wonder if she is quite alright...」
 ＃Protagonist
-"I believe she'll be fine, but..."
+「I believe she'll be fine, but...」
 ＃Ai
-"Narumi-san... Her cooking is always delicious, but... well, her performance in her other tasks is a bit..."
+「Narumi-san... Her cooking is always delicious, but... well, her performance in her other tasks is a bit...」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"Narumi-san was caught in the explosion... Was she the target, I wonder..."
+「Narumi-san was caught in the explosion... Was she the target, I wonder...」
 ＃Protagonist
-"Who knows..."
+「Who knows...」
 ＃Benio
-"Narumi? Her skills in the kitchen are top-tier, at least. As for everything else... well, you can imagine."
+「Narumi? Her skills in the kitchen are top-tier, at least. As for everything else... well, you can imagine.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"...The kitchen explosion might have been an attempt on her life. However... it may be too hasty to conclude that just yet..."
+「...The kitchen explosion might have been an attempt on her life. However... it may be too hasty to conclude that just yet...」
 ＃Protagonist
-"I wonder..."
+「I wonder...」
 ＃Tsujimura
-"As for Mizumori-san... it would be a great help to me as well if she would work diligently at things other than just cooking..."
+「As for Mizumori-san... it would be a great help to me as well if she would work diligently at things other than just cooking...」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Tsujimura
-"Mizumori-san is currently resting in her room. Her injuries don't seem to be serious, but..."
+「Mizumori-san is currently resting in her room. Her injuries don't seem to be serious, but...」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Takamine
-"Mizumori-kun... I don't know her well. The food isn't bad, but..."
+「Mizumori-kun... I don't know her well. The food isn't bad, but...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"There's a possibility Mizumori-kun was targeted... but if so, why?"
+「There's a possibility Mizumori-kun was targeted... but if so, why?」
 ＃Protagonist
-"We don't know that yet..."
+「We don't know that yet...」
 ＃Mikanagi
-"Narumi-san? Her cooking is delicious. Everything else... I don't know much about."
+「Narumi-san? Her cooking is delicious. Everything else... I don't know much about.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Mikanagi
-"Narumi-san's injuries aren't an issue. It seems she managed to move away just in time."
+「Narumi-san's injuries aren't an issue. It seems she managed to move away just in time.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」

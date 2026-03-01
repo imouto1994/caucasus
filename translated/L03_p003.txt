@@ -1,24 +1,24 @@
 ＃Souko
-"I wonder what the motive was for Ai-san's murder... Was it the inheritance, or something else...?"
+「I wonder what the motive was for Ai-san's murder... Was it the inheritance, or something else...?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Benio
-"...To think my sister would be killed. And by such a convoluted method, at that..."
+「...To think my sister would be killed. And by such a convoluted method, at that...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"Lady Ai... Why did this happen...?"
+「Lady Ai... Why did this happen...?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Takamine
-"So even Ai-kun was killed... What on earth is the killer's intent!?"
+「So even Ai-kun was killed... What on earth is the killer's intent!?」
 ＃Protagonist
-"I... I don't know..."
+「I... I don't know...」
 ＃Akane
-"I've been searching for Lady Ai since around eleven-thirty. She wasn't in her room, so I went to the infirmary, but..."
+「I've been searching for Lady Ai since around eleven-thirty. She wasn't in her room, so I went to the infirmary, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Lady Ai's mental state has been unstable since Master Rokuyou was murdered... I guess you could say she's in a state where she might do anything..."
+「Lady Ai's mental state has been unstable since Master Rokuyou was murdered... I guess you could say she's in a state where she might do anything...」
 ＃Protagonist
-"I see..."
+「I see...」

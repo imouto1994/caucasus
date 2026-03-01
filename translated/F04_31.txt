@@ -1,44 +1,44 @@
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
 I wonder if he's gone somewhere else.
 I don't have anything in particular to do, so I'll head elsewhere.
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 As I entered the infirmary, Dr. Mikanagi, who was sitting in a chair, looked up.
 ＃Mikanagi
-"Ah, it's you."
+「Ah, it's you.」
 ＃Protagonist
-"Has anything unusual happened?"
+「Has anything unusual happened?」
 ＃Mikanagi
-"Let's see... only that it's pitch black and I can't even read a book."
+「Let's see... only that it's pitch black and I can't even read a book.」
 ＃Protagonist
-"That's... well."
+「That's... well.」
 ＃Mikanagi
-"I'm joking. For now, only that Maya-san said she was feeling a bit unwell. Also, I’m concerned about Shion-san's health, but there don't seem to be any problems yet."
+「I'm joking. For now, only that Maya-san said she was feeling a bit unwell. Also, I’m concerned about Shion-san's health, but there don't seem to be any problems yet.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I just hope the power is restored soon..."
+「I just hope the power is restored soon...」
 ＃Protagonist
-"Yeah... I think it should be fixed soon."
+「Yeah... I think it should be fixed soon.」
 ＃Mikanagi
-"I see. Then I suppose I'll just have to bear with it a bit longer."
+「I see. Then I suppose I'll just have to bear with it a bit longer.」
 ＃Protagonist
-"I'm going to look around a bit more."
+「I'm going to look around a bit more.」
 ＃Mikanagi
-"Alright, I understand."
+「Alright, I understand.」
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 ＃Mikanagi
-"Oh, what is it this time?"
+「Oh, what is it this time?」
 ＃Protagonist
-"No, it's not really a matter of having any business, but..."
+「No, it's not really a matter of having any business, but...」
 ＃Mikanagi
-"Did you notice anything particularly strange while looking around?"
+「Did you notice anything particularly strange while looking around?」
 ＃Protagonist
-"No, not so far."
+「No, not so far.」
 ＃Mikanagi
-"I just hope everything passes without anything else happening..."
+「I just hope everything passes without anything else happening...」
 ＃Protagonist
-"Yeah... I hope so too."
+「Yeah... I hope so too.」

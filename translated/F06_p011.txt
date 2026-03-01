@@ -1,40 +1,40 @@
 ＃Souko
-"I wonder why Rokuyou-san had to be killed... That's the one thing I can't stop thinking about."
+「I wonder why Rokuyou-san had to be killed... That's the one thing I can't stop thinking about.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Maya
-"...Why would someone like Isamu-san be murdered...?"
+「...Why would someone like Isamu-san be murdered...?」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Ai
-"Isamu-san... why...?"
+「Isamu-san... why...?」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Benio
-"...I have my doubts about whether Rokuyou truly loved Shion. I never once saw them acting affectionately toward each other."
+「...I have my doubts about whether Rokuyou truly loved Shion. I never once saw them acting affectionately toward each other.」
 ＃Protagonist
-"Is that how it was...?"
+「Is that how it was...?」
 ＃Shion
-"What on earth could have happened...?"
+「What on earth could have happened...?」
 ＃Protagonist
-"...I'm currently in the middle of investigating that."
+「...I'm currently in the middle of investigating that.」
 ＃Tsujimura
-"We have placed Rokuyou-sama's remains in his room. We can't simply bury him without authorization, after all..."
+「We have placed Rokuyou-sama's remains in his room. We can't simply bury him without authorization, after all...」
 ＃Protagonist
-"That's true..."
+「That's true...」
 ＃Takamine
-"It seems Rokuyou-kun was killed during the night... but there were no sounds of a struggle. It might be because the rooms are well soundproofed..."
+「It seems Rokuyou-kun was killed during the night... but there were no sounds of a struggle. It might be because the rooms are well soundproofed...」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Mikanagi
-"I never imagined Isamu would end up like this..."
+「I never imagined Isamu would end up like this...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Akane
-"To think that Rokuyou-sama would pass away..."
+「To think that Rokuyou-sama would pass away...」
 ＃Protagonist
-"Akane-san..."
+「Akane-san...」
 ＃Narumi
-"...I thought it was strange when he didn't show his face this morning, but I never dreamed he'd been murdered..."
+「...I thought it was strange when he didn't show his face this morning, but I never dreamed he'd been murdered...」
 ＃Protagonist
-"You're right..."
+「You're right...」

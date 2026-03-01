@@ -1,25 +1,25 @@
 ＃Protagonist
-"Hello, Mikanagi-sensei."
+「Hello, Mikanagi-sensei.」
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
 ＃Mikanagi
-"Ah, what is it?"
+「Ah, what is it?」
 ＃Protagonist
-"Um... could I have a moment of your time?"
+「Um... could I have a moment of your time?」
 ＃Mikanagi
-"I don't mind."
+「I don't mind.」
 Now then, what should I do?
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
 ＃Mikanagi
-"Oh, what is it this time?"
+「Oh, what is it this time?」
 ＃Protagonist
-"Could I have a moment of your time?"
+「Could I have a moment of your time?」
 ＃Mikanagi
-"Yes, go ahead."
+「Yes, go ahead.」
 Now then, what should I do?
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 I wonder if he's back in his room.
 In that case, there's no point in staying here...

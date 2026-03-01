@@ -1,36 +1,36 @@
 ＃Souko
-"Kousei-shi's old room, huh? I’m curious, but if it’s locked up tight, there’s not much we can do."
+「Kousei-shi's old room, huh? I’m curious, but if it’s locked up tight, there’s not much we can do.」
 ＃Protagonist
-"I suppose you're right."
+「I suppose you're right.」
 ＃Maya
-"That was my husband's room while he was alive. We’ve left it exactly as it was back then."
+「That was my husband's room while he was alive. We’ve left it exactly as it was back then.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"That room belonged to my father. Even I have almost never set foot inside."
+「That room belonged to my father. Even I have almost never set foot inside.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Father's room is strictly off-limits. Even I’ve hardly ever been allowed in there."
+「Father's room is strictly off-limits. Even I’ve hardly ever been allowed in there.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"That is the room the Master used to occupy, but it is kept locked now. I am the one in charge of the key."
+「That is the room the Master used to occupy, but it is kept locked now. I am the one in charge of the key.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"Kousei-shi's room is sealed off from everyone. It’s a place that has nothing to do with you people."
+「Kousei-shi's room is sealed off from everyone. It’s a place that has nothing to do with you people.」
 ＃Protagonist
-"Y-you're right..."
+「Y-you're right...」
 ＃Mikanagi
-"I don't know much about that room myself. It belonged to the previous head of the house, apparently... but I doubt you'll get a look inside."
+「I don't know much about that room myself. It belonged to the previous head of the house, apparently... but I doubt you'll get a look inside.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"That room...? I’ve never been inside it myself, so..."
+「That room...? I’ve never been inside it myself, so...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I heard they’re preserving that room exactly as it was when the Master was alive... but I doubt there’s anything particularly unusual in there."
+「I heard they’re preserving that room exactly as it was when the Master was alive... but I doubt there’s anything particularly unusual in there.」
 ＃Protagonist
-"I see..."
+「I see...」

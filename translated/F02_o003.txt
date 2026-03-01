@@ -1,36 +1,36 @@
 ＃Souko
-"That’s the cat Benio-san keeps, isn't it? Lovecraft... what a niche name she gave it..."
+「That’s the cat Benio-san keeps, isn't it? Lovecraft... what a niche name she gave it...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"Benio is the one looking after that child. I'm not... particularly fond of animals."
+「Benio is the one looking after that child. I'm not... particularly fond of animals.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"The eye colors are different on the left and right, aren't they? That’s what’s known as 'odd eyes'."
+「The eye colors are different on the left and right, aren't they? That’s what’s known as 'odd eyes'.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Love only takes to me... but it seems he’s taken a liking to you too."
+「Love only takes to me... but it seems he’s taken a liking to you too.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Lady Benio is the one looking after him. It seems he doesn't take to other people very easily..."
+「Lady Benio is the one looking after him. It seems he doesn't take to other people very easily...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"A cat, is it... I don't know the details, but Benio-kun is keeping it, right?"
+「A cat, is it... I don't know the details, but Benio-kun is keeping it, right?」
 ＃Protagonist
-"Apparently so."
+「Apparently so.」
 ＃Mikanagi
-"Benio-san's cat? I saw Akane-san giving it some food."
+「Benio-san's cat? I saw Akane-san giving it some food.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Lady Benio is the one keeping him. I’m the one who gives him his food."
+「Lady Benio is the one keeping him. I’m the one who gives him his food.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Lady Benio's cat? He often comes to the kitchen while I'm cooking to try and sneak a snack."
+「Lady Benio's cat? He often comes to the kitchen while I'm cooking to try and sneak a snack.」
 ＃Protagonist
-"I see."
+「I see.」

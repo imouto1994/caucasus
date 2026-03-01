@@ -1,36 +1,36 @@
 ＃Souko
-"I wonder if a line got cut somewhere."
+「I wonder if a line got cut somewhere.」
 ＃Protagonist
-"Maybe."
+「Maybe.」
 ＃Maya
-"Oh dear, the phones... that is quite a problem..."
+「Oh dear, the phones... that is quite a problem...」
 ＃Protagonist
-"It is..."
+「It is...」
 ＃Ai
-"The phones aren't working? That will be a disaster if something happens..."
+「The phones aren't working? That will be a disaster if something happens...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Benio
-"The phones are out...? That’s a nuisance. It means we can't call for a carriage from the foot of the mountain."
+「The phones are out...? That’s a nuisance. It means we can't call for a carriage from the foot of the mountain.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Tsujimura
-"The phones are down... Perhaps the line was cut by last night's blizzard... I should investigate it as soon as possible."
+「The phones are down... Perhaps the line was cut by last night's blizzard... I should investigate it as soon as possible.」
 ＃Protagonist
-"I agree."
+「I agree.」
 ＃Takamine
-"The phones... You should be telling Tsujimura-san that, not me."
+「The phones... You should be telling Tsujimura-san that, not me.」
 ＃Protagonist
-"Y-you're right..."
+「Y-you're right...」
 ＃Mikanagi
-"The phones aren't working...? That would be a problem if we had a medical emergency..."
+「The phones aren't working...? That would be a problem if we had a medical emergency...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Akane
-"The phones are out...? That’s so inconvenient if something were to happen..."
+「The phones are out...? That’s so inconvenient if something were to happen...」
 ＃Protagonist
-"It is..."
+「It is...」
 ＃Narumi
-"The phones are down? I wonder if the weight of the snow snapped the line..."
+「The phones are down? I wonder if the weight of the snow snapped the line...」
 ＃Protagonist
-"Maybe so..."
+「Maybe so...」

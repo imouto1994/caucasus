@@ -1,27 +1,27 @@
 ＃Tsujimura
-"Oh, is something the matter?"
+「Oh, is something the matter?」
 Tsujimura-san was in the office.
 ＃Protagonist
-"Hello. Are you in the middle of work?"
+「Hello. Are you in the middle of work?」
 ＃Tsujimura
-"Not at all. Did you need something?"
+「Not at all. Did you need something?」
 ＃Tsujimura
-"Oh, is something the matter again?"
+「Oh, is something the matter again?」
 Tsujimura-san was still in the office.
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 When I entered the office, Tsujimura-san and Shion-san were there.
 ＃Tsujimura
-"How can I help you?"
+「How can I help you?」
 ＃Protagonist
-"I was just in the middle of doing a quick patrol..."
+「I was just in the middle of doing a quick patrol...」
 ＃Shion
-"Oh my... Thank you for your hard work."
+「Oh my... Thank you for your hard work.」
 ＃Protagonist
-"No, I'm just doing it on my own accord."
+「No, I'm just doing it on my own accord.」
 Now then... what should I do?
 When I entered the office, Tsujimura-san and Shion-san were there.
 ＃Shion
-"Oh... what is it this time?"
+「Oh... what is it this time?」
 ＃Protagonist
-"Uh, well..."
+「Uh, well...」

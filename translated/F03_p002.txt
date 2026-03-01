@@ -1,32 +1,32 @@
 ＃Souko
-"Maya-san has it rough too. Having the groom murdered on the day of her daughter's wedding..."
+「Maya-san has it rough too. Having the groom murdered on the day of her daughter's wedding...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"...I believe Isamu-san's situation is more important than mine right now..."
+「...I believe Isamu-san's situation is more important than mine right now...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Benio
-"Mother... she seemed to be looking forward to the marriage between Shion and Rokuyou, so her grief must be profound."
+「Mother... she seemed to be looking forward to the marriage between Shion and Rokuyou, so her grief must be profound.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"Mother... was happy about the marriage."
+「Mother... was happy about the marriage.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"The Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless..."
+「The Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Maya-san has it hard. As things stand, the wedding can't continue..."
+「Maya-san has it hard. As things stand, the wedding can't continue...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Mikanagi
-"Maya-san seems a bit exhausted, so I'm having her rest in her room. ...Well, it's only natural after something like that."
+「Maya-san seems a bit exhausted, so I'm having her rest in her room. ...Well, it's only natural after something like that.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"The Madam? She's resting in her room, isn't she?"
+「The Madam? She's resting in her room, isn't she?」
 ＃Protagonist
-"I see."
+「I see.」

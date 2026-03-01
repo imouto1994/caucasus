@@ -2,17 +2,17 @@ There's a small window for letting in light.
 It doesn't seem to be locked, but it's so small that it'd be impossible for a person to pass through.
 There's no chance the culprit came in or out through here.
 ＃Protagonist
-"This is the rope that was around Ai-san's neck..."
+「This is the rope that was around Ai-san's neck...」
 ＃Souko
-"Wire is woven into it... it doesn't look like it'd be easy to cut."
+「Wire is woven into it... it doesn't look like it'd be easy to cut.」
 ＃Protagonist
-"One end is firmly fixed to the wall... the other end was caught in the gears of the clock."
+「One end is firmly fixed to the wall... the other end was caught in the gears of the clock.」
 ...This rope is likely what took Ai-san's life.
 ＃Protagonist
-"What is this stick...?"
+「What is this stick...?」
 I picked up a piece of wood that had fallen to the floor.
 ＃Souko
-"It doesn't look like something that has any particular meaning, but..."
+「It doesn't look like something that has any particular meaning, but...」
 A wooden stick is lying there.
 The gears that move the clock.
 Their movement has been stopped now.
@@ -22,7 +22,7 @@ It doesn't seem to be anything special, but...
 No matter how many times I look at it, it just looks like trash.
 Dr. Mikanagi placed his hands together in prayer before Ai-san's body and began the autopsy.
 ＃Mikanagi
-"...There's a contusion on the head, but this isn't the direct cause of death. It seems death was indeed caused by suffocation due to neck compression."
+「...There's a contusion on the head, but this isn't the direct cause of death. It seems death was indeed caused by suffocation due to neck compression.」
 ＃Protagonist
-"I see..."
+「I see...」
 ...It seems Ai-san's cause of death was suffocation.

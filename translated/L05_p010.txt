@@ -1,24 +1,24 @@
 ＃Souko
-"Narumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san."
+「Narumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san.」
 ＃Protagonist
-"...True."
+「...True.」
 ＃Benio
-"Narumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either."
+「Narumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Mistress Minakami is cooped up in the kitchen for most of this time. She has lunch to prepare, after all."
+「Mistress Minakami is cooped up in the kitchen for most of this time. She has lunch to prepare, after all.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Narumi-san was in the kitchen making lunch."
+「Narumi-san was in the kitchen making lunch.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"I was in the kitchen the whole time. When I came out to the dining hall around 12:30, Kirihara-san was there."
+「I was in the kitchen the whole time. When I came out to the dining hall around 12:30, Kirihara-san was there.」
 ＃Protagonist
-"I see..."
+「I see...」

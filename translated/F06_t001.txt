@@ -1,48 +1,48 @@
 ＃Souko
-"Whether they were targeting a person, a location, or if there was some other motive... it's still not clear."
+「Whether they were targeting a person, a location, or if there was some other motive... it's still not clear.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"The kitchen... if it's like that, we won't be able to prepare any meals..."
+「The kitchen... if it's like that, we won't be able to prepare any meals...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Ai
-"...I'm just relieved it ended with only minor injuries. But why on earth the kitchen...?"
+「...I'm just relieved it ended with only minor injuries. But why on earth the kitchen...?」
 ＃Protagonist
-"...I still don't know."
+「...I still don't know.」
 ＃Benio
-"The kitchen, huh... Don't you think the nature of this is far too different from before to be targeting a person?"
+「The kitchen, huh... Don't you think the nature of this is far too different from before to be targeting a person?」
 ＃Protagonist
-"That might be true..."
+「That might be true...」
 ＃Shion
-"The kitchen... what on earth happened...?"
+「The kitchen... what on earth happened...?」
 ＃Protagonist
-"...I still don't know."
+「...I still don't know.」
 ＃Tsujimura
-"...The kitchen does use gas, so it would be prone to explosions, but..."
+「...The kitchen does use gas, so it would be prone to explosions, but...」
 ＃Protagonist
-"That's true..."
+「That's true...」
 ＃Takamine
-"The damage is limited to the destruction of the kitchen and some minor burns... It's fortunate there were few casualties."
+「The damage is limited to the destruction of the kitchen and some minor burns... It's fortunate there were few casualties.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Takamine
-"...I also suffered a major burn once in the past."
+「...I also suffered a major burn once in the past.」
 ＃Protagonist
-"That... the scar on your face...?"
+「That... the scar on your face...?」
 ＃Takamine
-"...Yeah. There was a fire at a mountain hut near here a long time ago, and that's when I got it."
+「...Yeah. There was a fire at a mountain hut near here a long time ago, and that's when I got it.」
 ＃Protagonist
-"Something like that happened...?"
+「Something like that happened...?」
 ＃Mikanagi
-"The injury itself isn't serious... but I wonder why she was the one targeted...?"
+「The injury itself isn't serious... but I wonder why she was the one targeted...?」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Akane
-"She was so close to being seriously injured..."
+「She was so close to being seriously injured...」
 ＃Protagonist
-"Yeah... I'm glad she's okay."
+「Yeah... I'm glad she's okay.」
 ＃Narumi
-"That was close... A little more and I would've had a nasty burn."
+「That was close... A little more and I would've had a nasty burn.」
 ＃Protagonist
-"You're right..."
+「You're right...」

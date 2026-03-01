@@ -1,32 +1,32 @@
 ＃Souko
-"The head was gone again... Just like before..."
+「The head was gone again... Just like before...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"Could you... please not ask me about such things...?"
+「Could you... please not ask me about such things...?」
 ＃Protagonist
-"Maya-san..."
+「Maya-san...」
 ＃Ai
-"Ah... Benio...! Why, why...!"
+「Ah... Benio...! Why, why...!」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Shion
-"...Why did this happen to Lady Benio too...?"
+「...Why did this happen to Lady Benio too...?」
 ＃Protagonist
-"I don't know..."
+「I don't know...」
 ＃Tsujimura
-"...Lady Benio's remains are laid to rest in her room. I truly wish she could have remained whole, but..."
+「...Lady Benio's remains are laid to rest in her room. I truly wish she could have remained whole, but...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Takamine
-"I'm told Lady Benio's exact cause of death hasn't been determined yet... I only hope it wasn't poisoning."
+「I'm told Lady Benio's exact cause of death hasn't been determined yet... I only hope it wasn't poisoning.」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Mikanagi
-"I don't know the direct cause of Benio-san's death. However, I believe her neck was severed either immediately after death or just before she expired."
+「I don't know the direct cause of Benio-san's death. However, I believe her neck was severed either immediately after death or just before she expired.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"...With Lady Benio murdered as well, it's looking more and more like a dispute over the inheritance..."
+「...With Lady Benio murdered as well, it's looking more and more like a dispute over the inheritance...」
 ＃Protagonist
-"...Maybe so..."
+「...Maybe so...」

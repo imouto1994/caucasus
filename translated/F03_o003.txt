@@ -1,32 +1,32 @@
 ＃Souko
-"That's the cat Benio-san keeps, right? Lovecraft... what a niche name to give it..."
+「That's the cat Benio-san keeps, right? Lovecraft... what a niche name to give it...」
 ＃Protagonist
-"Oh..."
+「Oh...」
 ＃Maya
-"Benio takes care of that child. I... am not very fond of animals."
+「Benio takes care of that child. I... am not very fond of animals.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Love only takes to me... but it seems he's taken a liking to you too."
+「Love only takes to me... but it seems he's taken a liking to you too.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"...That's the cat Sister Benio keeps, isn't it? I'm sorry... I don't know much about it..."
+「...That's the cat Sister Benio keeps, isn't it? I'm sorry... I don't know much about it...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Lady Benio takes care of it. It seems he doesn't take to others very much..."
+「Lady Benio takes care of it. It seems he doesn't take to others very much...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"A cat... I don't know the details, but Benio-kun keeps it, doesn't she?"
+「A cat... I don't know the details, but Benio-kun keeps it, doesn't she?」
 ＃Protagonist
-"It seems so."
+「It seems so.」
 ＃Mikanagi
-"That's Benio-san's cat, right? I've seen Akane-san giving it food."
+「That's Benio-san's cat, right? I've seen Akane-san giving it food.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Lady Benio's cat? He often comes to the kitchen to steal bites while I'm cooking."
+「Lady Benio's cat? He often comes to the kitchen to steal bites while I'm cooking.」
 ＃Protagonist
-"I see."
+「I see.」

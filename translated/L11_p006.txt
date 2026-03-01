@@ -1,24 +1,24 @@
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Tsujimura? Hard to imagine. I find it difficult to believe he would attack even me."
+「Tsujimura? Hard to imagine. I find it difficult to believe he would attack even me.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I was in the office the entire time, however..."
+「I was in the office the entire time, however...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I predictably wouldn't know about anyone else's movements."
+「I predictably wouldn't know about anyone else's movements.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Tsujimura-san is almost always in the office. How should I put it... it's like he was trying to protect Lady Shion."
+「Tsujimura-san is almost always in the office. How should I put it... it's like he was trying to protect Lady Shion.」
 ＃Protagonist
-"I see..."
+「I see...」

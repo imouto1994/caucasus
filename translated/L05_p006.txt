@@ -1,24 +1,24 @@
 ＃Souko
-"Tsujimura-san, huh... It's true he's well-acquainted with the mansion, but even so... I don't see any reason for him to target Ai-san."
+「Tsujimura-san, huh... It's true he's well-acquainted with the mansion, but even so... I don't see any reason for him to target Ai-san.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Benio
-"...There's no reason for him to target my sister, but Tsujimura is about the only one who ever goes up to the attic. Though it's unthinkable, of course."
+「...There's no reason for him to target my sister, but Tsujimura is about the only one who ever goes up to the attic. Though it's unthinkable, of course.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"I was in the office, but... Lady Shion came out of her room around noon. I went to my own room briefly around 12:30, however..."
+「I was in the office, but... Lady Shion came out of her room around noon. I went to my own room briefly around 12:30, however...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"If it's Tsujimura-san, I believe he was in the office."
+「If it's Tsujimura-san, I believe he was in the office.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Tsujimura-san? Wouldn't he be in the office? He's usually there during the day."
+「Tsujimura-san? Wouldn't he be in the office? He's usually there during the day.」
 ＃Protagonist
-"I see."
+「I see.」

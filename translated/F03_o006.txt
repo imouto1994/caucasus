@@ -1,30 +1,30 @@
 ＃Souko
-"The lid of the coffin in the chapel is heavy, so it doesn't look like a girl could open it alone."
+「The lid of the coffin in the chapel is heavy, so it doesn't look like a girl could open it alone.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Maya
-"The chapel is only used for things like weddings, so it's usually kept locked."
+「The chapel is only used for things like weddings, so it's usually kept locked.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"The chapel is almost never used in our daily lives."
+「The chapel is almost never used in our daily lives.」
 ＃Protagonist
-"Is that so?"
+「Is that so?」
 ＃Shion
-"The chapel... I was in there the whole time..."
+「The chapel... I was in there the whole time...」
 ＃Tsujimura
-"I intend to lock the chapel later. It likely won't be used again for a while."
+「I intend to lock the chapel later. It likely won't be used again for a while.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Don't go wandering in and out of places where you have no business."
+「Don't go wandering in and out of places where you have no business.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I hear the chapel isn't used normally."
+「I hear the chapel isn't used normally.」
 ＃Protagonist
-"Is that so?"
+「Is that so?」
 ＃Narumi
-"A chapel that's only used for weddings is quite a luxury, isn't it?"
+「A chapel that's only used for weddings is quite a luxury, isn't it?」
 ＃Protagonist
-"I suppose so..."
+「I suppose so...」

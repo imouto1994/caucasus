@@ -1,36 +1,36 @@
 ＃Souko
-"A song...? I haven't heard anything, so I wouldn't know."
+「A song...? I haven't heard anything, so I wouldn't know.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Maya
-"A song...? It is likely Shion who is singing."
+「A song...? It is likely Shion who is singing.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"That must be Shion singing. Her voice is truly beautiful."
+「That must be Shion singing. Her voice is truly beautiful.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"A song... Isn't it just Shion?"
+「A song... Isn't it just Shion?」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"That would likely be Lady Shion. She is often heard singing to herself."
+「That would likely be Lady Shion. She is often heard singing to herself.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"A song, eh...? Someone must be singing, then."
+「A song, eh...? Someone must be singing, then.」
 ＃Protagonist
-"Right."
+「Right.」
 ＃Mikanagi
-"A song, you say... It’s probably Shion-san."
+「A song, you say... It’s probably Shion-san.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"A song...? It seems Lady Shion is often heard singing, but..."
+「A song...? It seems Lady Shion is often heard singing, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"The one singing all the time is probably Lady Shion. Though Lady Benio plays the piano as well."
+「The one singing all the time is probably Lady Shion. Though Lady Benio plays the piano as well.」
 ＃Protagonist
-"I see."
+「I see.」

@@ -1,40 +1,40 @@
 ＃Souko
-"About Ai-san? She really feels like the stereotypical 'young lady', doesn't she?"
+「About Ai-san? She really feels like the stereotypical 'young lady', doesn't she?」
 ＃Protagonist
-"Yeah."
+「Yeah.」
 ＃Maya
-"Ai? She is a quiet child, always lost in her books."
+「Ai? She is a quiet child, always lost in her books.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"About me? Um... I don't really have anything interesting to tell you..."
+「About me? Um... I don't really have anything interesting to tell you...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"My sister? She’s refined and ladylike, isn't she?"
+「My sister? She’s refined and ladylike, isn't she?」
 ＃Protagonist
-"...She’s the polar opposite of you, Benio-san."
+「...She’s the polar opposite of you, Benio-san.」
 ＃Benio
-"Did you say something?"
+「Did you say something?」
 ＃Protagonist
-"No, nothing."
+「No, nothing.」
 ＃Tsujimura
-"Lady Ai...? She is always reading her books."
+「Lady Ai...? She is always reading her books.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"About Ai-kun? She’s been a quiet girl since she was small, but..."
+「About Ai-kun? She’s been a quiet girl since she was small, but...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Ai-san, eh...? She occasionally has moments where her emotions are quite volatile."
+「Ai-san, eh...? She occasionally has moments where her emotions are quite volatile.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Akane
-"Lady Ai? I believe she was heading toward the Great Hall..."
+「Lady Ai? I believe she was heading toward the Great Hall...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Lady Ai? She’s often in the library reading books."
+「Lady Ai? She’s often in the library reading books.」
 ＃Protagonist
-"I see."
+「I see.」

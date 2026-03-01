@@ -1,24 +1,24 @@
 ＃Souko
-"Hmm... While it's not strictly impossible, I think it would be difficult for her."
+「Hmm... While it's not strictly impossible, I think it would be difficult for her.」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Benio
-"Shion would have no reason to kill my sister. Those two are very close... almost abnormally so."
+「Shion would have no reason to kill my sister. Those two are very close... almost abnormally so.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"Lady Shion emerged from her room around noon. A short while later, she headed for the grand hall."
+「Lady Shion emerged from her room around noon. A short while later, she headed for the grand hall.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Shion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that."
+「Shion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that.」
 ＃Protagonist
-"Right."
+「Right.」
 ＃Akane
-"I believe Lady Shion was in her room the entire time."
+「I believe Lady Shion was in her room the entire time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Lady Shion? I'm pretty sure she was in her room... though come to think of it, it seemed like Lady Ai was with her..."
+「Lady Shion? I'm pretty sure she was in her room... though come to think of it, it seemed like Lady Ai was with her...」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,40 +1,40 @@
 ＃Souko
-"...I don't see any reason for her to kill Rokuyou-san."
+「...I don't see any reason for her to kill Rokuyou-san.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"Benio? I don't believe she was particularly close to Isamu-san..."
+「Benio? I don't believe she was particularly close to Isamu-san...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Benio killed Isamu-san...? No, that's impossible."
+「Benio killed Isamu-san...? No, that's impossible.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"I don't mind you suspecting me... but when I met you in the middle of the night, from my perspective, it looked as if you were coming from Rokuyou's room."
+「I don't mind you suspecting me... but when I met you in the middle of the night, from my perspective, it looked as if you were coming from Rokuyou's room.」
 ＃Protagonist
-"There's no way that's true..."
+「There's no way that's true...」
 ＃Shion
-"Is something wrong... with Lady Benio?"
+「Is something wrong... with Lady Benio?」
 ＃Protagonist
-"No... nothing in particular..."
+「No... nothing in particular...」
 ＃Tsujimura
-"Lady Benio? She has a peculiar way of speaking, but she is not capable of doing anything wicked."
+「Lady Benio? She has a peculiar way of speaking, but she is not capable of doing anything wicked.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Benio-kun? I haven't really seen her speaking with Rokuyou-kun."
+「Benio-kun? I haven't really seen her speaking with Rokuyou-kun.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Benio-san? ...She might have disliked Isamu. How should I put it... there are people you just don't click with, right?"
+「Benio-san? ...She might have disliked Isamu. How should I put it... there are people you just don't click with, right?」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Akane
-"Lady Benio doesn't socialize deeply with anyone... so I doubt she had much contact with Master Rokuyou."
+「Lady Benio doesn't socialize deeply with anyone... so I doubt she had much contact with Master Rokuyou.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Lady Benio? No strange behavior... well, she's a strange person to begin with."
+「Lady Benio? No strange behavior... well, she's a strange person to begin with.」
 ＃Protagonist
-"Right..."
+「Right...」

@@ -1,40 +1,40 @@
 ＃Souko
-"...At the very least, the killer has no intention of letting anyone escape from here."
+「...At the very least, the killer has no intention of letting anyone escape from here.」
 ＃Protagonist
-"...Maybe not."
+「...Maybe not.」
 ＃Maya
-"Even the suspension bridge... We can't even call for help like this..."
+「Even the suspension bridge... We can't even call for help like this...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Ai
-"We can't even go for help..."
+「We can't even go for help...」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Benio
-"There's no point in worrying about it now."
+「There's no point in worrying about it now.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Shion
-"The suspension bridge... Who would do such a thing...?"
+「The suspension bridge... Who would do such a thing...?」
 ＃Protagonist
-"The killer, most likely..."
+「The killer, most likely...」
 ＃Tsujimura
-"This is a problem... We can't possibly fix that bridge on our own..."
+「This is a problem... We can't possibly fix that bridge on our own...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Takamine
-"...The killer probably intends to increase the number of victims. Otherwise, there'd be no point in dropping the bridge."
+「...The killer probably intends to increase the number of victims. Otherwise, there'd be no point in dropping the bridge.」
 ＃Protagonist
-"...You might be right."
+「...You might be right.」
 ＃Mikanagi
-"Without the bridge, you boys won't be able to go home... Though with everything that's happened, you might not be able to leave even if the police arrive."
+「Without the bridge, you boys won't be able to go home... Though with everything that's happened, you might not be able to leave even if the police arrive.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Akane
-"This place is surrounded by cliffs, so without the bridge, you can't go anywhere..."
+「This place is surrounded by cliffs, so without the bridge, you can't go anywhere...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Even if the bridge is gone, we have plenty of food, so we'll be fine. ...Well, Kirihara-san will just have to give up on her cola, I guess."
+「Even if the bridge is gone, we have plenty of food, so we'll be fine. ...Well, Kirihara-san will just have to give up on her cola, I guess.」
 ＃Protagonist
-"Right... I'll let her know."
+「Right... I'll let her know.」

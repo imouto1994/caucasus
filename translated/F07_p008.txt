@@ -1,36 +1,36 @@
 ＃Souko
-"Mikanagi-sensei seems quite exhausted as well... though I suppose that's only natural..."
+「Mikanagi-sensei seems quite exhausted as well... though I suppose that's only natural...」
 ＃Protagonist
-"...Yeah."
+「...Yeah.」
 ＃Maya
-"Mikanagi-sensei seems to be tired as well... I don't wish to burden him further."
+「Mikanagi-sensei seems to be tired as well... I don't wish to burden him further.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"...If Mikanagi-sensei weren't in this house right now... it's a terrifying thought."
+「...If Mikanagi-sensei weren't in this house right now... it's a terrifying thought.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Shion
-"Mikanagi-sensei... he also prescribes my medicine..."
+「Mikanagi-sensei... he also prescribes my medicine...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"It was a blessing that Mikanagi-sensei was here. We wouldn't have known what to do on our own..."
+「It was a blessing that Mikanagi-sensei was here. We wouldn't have known what to do on our own...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Takamine
-"Mikanagi-sensei is usually in the infirmary. Otherwise... he's often away examining Maya-san."
+「Mikanagi-sensei is usually in the infirmary. Otherwise... he's often away examining Maya-san.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"...I'm predictably exhausted. I've never had to perform examinations on corpses before..."
+「...I'm predictably exhausted. I've never had to perform examinations on corpses before...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Mikanagi-sensei... I wonder if he's getting any rest at all..."
+「Mikanagi-sensei... I wonder if he's getting any rest at all...」
 ＃Protagonist
-"Hard to say..."
+「Hard to say...」
 ＃Narumi
-"Mikanagi-sensei? Isn't he in the infirmary?"
+「Mikanagi-sensei? Isn't he in the infirmary?」
 ＃Protagonist
-"I see..."
+「I see...」

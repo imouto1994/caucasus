@@ -1,43 +1,43 @@
 There was a short piece of wood lying in the storage area.
 ＃Protagonist
-"Couldn't we use this for something?"
+「Couldn't we use this for something?」
 ＃Narumi
-"Isn't it a bit short?"
+「Isn't it a bit short?」
 ＃Protagonist
-"Can even your arms not reach, Narumi-san?"
+「Can even your arms not reach, Narumi-san?」
 ＃Narumi
-"I wonder... let me see it."
+「I wonder... let me see it.」
 Narumi-san took the piece of wood and reached her arm through the grate.
 ＃Narumi
-"Nnh... nn-ugh... it’s no good. I can't move it unless I can hook it onto something."
+「Nnh... nn-ugh... it’s no good. I can't move it unless I can hook it onto something.」
 ＃Protagonist
-"I see..."
+「I see...」
 No choice, then. I'll look for something else.
 It seems this stick alone won't be enough to move the bar.
 A piece of rope about a meter long came out of a box.
 I wonder if this could be used for something...
 ＃Protagonist
-"Narumi-san, the thing blocking the door is a rod, right?"
+「Narumi-san, the thing blocking the door is a rod, right?」
 ＃Narumi
-"That’s what it looked like to me."
+「That’s what it looked like to me.」
 ＃Protagonist
-"Could we hook it with this rope?"
+「Could we hook it with this rope?」
 ＃Narumi
-"I wonder... let me see it."
+「I wonder... let me see it.」
 Narumi-san took the rope and put her arm through the grate.
 ＃Narumi
-"Nnh... nope, it’s no good. It won't hook onto it."
+「Nnh... nope, it’s no good. It won't hook onto it.」
 ＃Protagonist
-"I guess it’s not going to be like fishing..."
+「I guess it’s not going to be like fishing...」
 No choice, I'll look for something else.
 I should look for other potentially useful items.
 The large quantity of raw vegetables we gathered.
 ＃Protagonist
-"...Could we use these for something?"
+「...Could we use these for something?」
 ＃Narumi
-"They’ll fill our stomachs, and that’s about it."
+「They’ll fill our stomachs, and that’s about it.」
 ＃Protagonist
-"I guess so..."
+「I guess so...」
 Sigh... I'll look for something else.
 Vegetables aren't going to be much help, after all.
 This is... looks like rice.
@@ -50,20 +50,20 @@ I should probably keep it just in case.
 There’s nothing else useful left in the cupboards.
 A box full of nails came out of the shelf where miscellaneous goods were stored.
 ＃Protagonist
-"Could we use these nails?"
+「Could we use these nails?」
 ＃Narumi
-"Nails by themselves are useless."
+「Nails by themselves are useless.」
 ＃Protagonist
-"I feel like they could be used for something, though..."
+「I feel like they could be used for something, though...」
 No choice, I'll take them and keep looking for something else.
 Nails alone aren't going to help.
 A box full of nails came out of the shelf where miscellaneous goods were stored.
 ＃Protagonist
-"Could we use these nails?"
+「Could we use these nails?」
 ＃Narumi
-"Nails by themselves are useless."
+「Nails by themselves are useless.」
 ＃Protagonist
-"I feel like they could be used for something, though..."
+「I feel like they could be used for something, though...」
 No choice, I'll take them and keep looking for something else.
 Nails alone aren't going to help.
 I tried opening the drawers, but they were full of junk and nothing particularly useful.
@@ -72,22 +72,22 @@ There doesn't seem to be anything useful in here.
 I found a small spoon in a drawer.
 It was so tarnished I couldn't tell how long it had been left there, but it appeared to be silverware.
 ＃Protagonist
-"Narumi-san, can we use this for something?"
+「Narumi-san, can we use this for something?」
 ＃Narumi
-"A spoon? It’s nowhere near long enough."
+「A spoon? It’s nowhere near long enough.」
 ＃Protagonist
-"I see..."
+「I see...」
 I'll see if there's anything else.
 There doesn't seem to be anything useful in here.
 A plain wooden wall.
 When I touched it, there seemed to be quite a gap.
 ＃Protagonist
-"Narumi-san... maybe we can break through here."
+「Narumi-san... maybe we can break through here.」
 ＃Narumi
-"Break through...? Isn't the wall sturdy?"
+「Break through...? Isn't the wall sturdy?」
 Narumi-san peered at where my hand was.
 ＃Protagonist
-"No... look, there's a gap here. If we peel off the wood, I think we’ll find dirt or some other fragile material..."
+「No... look, there's a gap here. If we peel off the wood, I think we’ll find dirt or some other fragile material...」
 ＃Narumi
-"...Worst comes to worst, we’ll have to make a hole here."
+「...Worst comes to worst, we’ll have to make a hole here.」
 It looks like we could break through... but I have no idea how long it would take...

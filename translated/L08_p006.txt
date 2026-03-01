@@ -1,32 +1,32 @@
 ＃Souko
-"I confirmed he was in the office near two o'clock. It seems he was talking with Benio-san until then, but..."
+「I confirmed he was in the office near two o'clock. It seems he was talking with Benio-san until then, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"I wouldn't know; I was resting in my room as well."
+「I wouldn't know; I was resting in my room as well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"...I don't know. My room is in the annex, after all..."
+「...I don't know. My room is in the annex, after all...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I was speaking with Lady Benio until about two o'clock. Mistress Kirihara showed up after that, however..."
+「I was speaking with Lady Benio until about two o'clock. Mistress Kirihara showed up after that, however...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"If it's Tsujimura-san, I believe he was in the office the entire time..."
+「If it's Tsujimura-san, I believe he was in the office the entire time...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Wasn't Tsujimura-san in the office the whole time? I didn't see him, though."
+「Wasn't Tsujimura-san in the office the whole time? I didn't see him, though.」
 ＃Protagonist
-"I see..."
+「I see...」

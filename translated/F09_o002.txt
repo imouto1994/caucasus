@@ -1,40 +1,40 @@
 ＃Souko
-"You've heard the contents of the will, haven't you? Why don't you let me hear about that?"
+「You've heard the contents of the will, haven't you? Why don't you let me hear about that?」
 ＃Protagonist
-"Yeah... you're right."
+「Yeah... you're right.」
 ＃Maya
-"I am sorry, but... I do not think I am in a state to speak of it yet."
+「I am sorry, but... I do not think I am in a state to speak of it yet.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Ai
-"...I cannot say anything regarding the will."
+「...I cannot say anything regarding the will.」
 ＃Protagonist
-"...You're right."
+「...You're right.」
 ＃Benio
-"The matter of the will has been left to Takamine. If you're curious, you should try asking him."
+「The matter of the will has been left to Takamine. If you're curious, you should try asking him.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"The will... I'm sorry, I don't really know about it..."
+「The will... I'm sorry, I don't really know about it...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Tsujimura
-"...Regarding that matter, there is nothing I can say."
+「...Regarding that matter, there is nothing I can say.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Takamine
-"I believe we've already spoken about the inheritance, haven't we?"
+「I believe we've already spoken about the inheritance, haven't we?」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Mikanagi
-"That is... not an issue I can say anything about."
+「That is... not an issue I can say anything about.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Akane
-"I'm sorry... I don't really know."
+「I'm sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"The will, huh... It's not like any money is coming my way, so I'm not really interested."
+「The will, huh... It's not like any money is coming my way, so I'm not really interested.」
 ＃Protagonist
-"I see..."
+「I see...」

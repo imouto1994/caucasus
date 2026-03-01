@@ -1,15 +1,15 @@
 This is Mikanagi-sensei's room.
 I give the door a light knock.
 ＃Mikanagi
-"Ah... it's you. Good morning."
+「Ah... it's you. Good morning.」
 ＃Protagonist
-"Good morning, Mikanagi-sensei. Do you have a moment?"
+「Good morning, Mikanagi-sensei. Do you have a moment?」
 ＃Mikanagi
-"I’m sorry... but if you have business, could we do it later in the infirmary? I'm still sleepy."
+「I’m sorry... but if you have business, could we do it later in the infirmary? I'm still sleepy.」
 ＃Protagonist
-"Oh... sorry about that. I'll see you later then."
+「Oh... sorry about that. I'll see you later then.」
 ＃Mikanagi
-"Yes, please do."
+「Yes, please do.」
 Mikanagi-sensei looked incredibly sleepy.
 Maybe he's just not a morning person.
 I can't just stand around here forever, so let's try somewhere else.
@@ -21,6 +21,6 @@ I decided to leave the area.
 I’ve come to the front of Mikanagi-sensei's room.
 I give the door a light knock.
 ＃Protagonist
-"Huh... I guess he's not here."
+「Huh... I guess he's not here.」
 There was no response no matter how long I waited.
 Nothing for it; let's try somewhere else.

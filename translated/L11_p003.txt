@@ -1,24 +1,24 @@
 ＃Ai
-"I was in my room the entire time, however..."
+「I was in my room the entire time, however...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"I'm told my sister was also in her room the whole time... so it would be difficult for her."
+「I'm told my sister was also in her room the whole time... so it would be difficult for her.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I believe she was in her room... but I have not confirmed it."
+「I believe she was in her room... but I have not confirmed it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I predictably wouldn't know about anyone else's movements."
+「I predictably wouldn't know about anyone else's movements.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I think she was in her room. She's hardly come out at all."
+「I think she was in her room. She's hardly come out at all.」
 ＃Protagonist
-"True..."
+「True...」

@@ -1,40 +1,40 @@
 ＃Souko
-"Tsujimura-san seems quite concerned about Shion-san."
+「Tsujimura-san seems quite concerned about Shion-san.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Maya
-"It is only because Tsujimura is here that we can live so peacefully."
+「It is only because Tsujimura is here that we can live so peacefully.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"If anything happens, please tell Tsujimura-san."
+「If anything happens, please tell Tsujimura-san.」
 ＃Protagonist
-"Understood."
+「Understood.」
 ＃Benio
-"Tsujimura? He's likely in the office, isn't he?"
+「Tsujimura? He's likely in the office, isn't he?」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Shion
-"Seiji-san...? He is very concerned about me."
+「Seiji-san...? He is very concerned about me.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I couldn't have made a living with artistic skills that were little more than an amateur's hobby... I am grateful to be allowed to work here."
+「I couldn't have made a living with artistic skills that were little more than an amateur's hobby... I am grateful to be allowed to work here.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I'm told Tsujimura-san has endured a great deal of hardship over the years."
+「I'm told Tsujimura-san has endured a great deal of hardship over the years.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I'd expect Tsujimura-san to be in the office. Otherwise, I think he'd be back in his own room."
+「I'd expect Tsujimura-san to be in the office. Otherwise, I think he'd be back in his own room.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Tsujimura-san? He's usually working in the office."
+「Tsujimura-san? He's usually working in the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Tsujimura-san? He's a kind man. Though he can be a bit faint-hearted at times..."
+「Tsujimura-san? He's a kind man. Though he can be a bit faint-hearted at times...」
 ＃Protagonist
-"I see."
+「I see.」

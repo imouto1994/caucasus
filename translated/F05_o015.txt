@@ -1,48 +1,48 @@
 ＃Souko
-"There was a similar case before...? But if no one died, it wouldn't be considered similar. It seems Tsujimura-san is hiding something..."
+「There was a similar case before...? But if no one died, it wouldn't be considered similar. It seems Tsujimura-san is hiding something...」
 ＃Protagonist
-"That might be true..."
+「That might be true...」
 ＃Maya
-"A similar incident...? No, I have never heard of such a thing..."
+「A similar incident...? No, I have never heard of such a thing...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"A similar incident... it would be terrible if this happened repeatedly."
+「A similar incident... it would be terrible if this happened repeatedly.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Benio
-"You say something like this happened before... is that what Tsujimura said? ...In that case, it likely involves the 'Seven-Possession Curse'..."
+「You say something like this happened before... is that what Tsujimura said? ...In that case, it likely involves the 'Seven-Possession Curse'...」
 ＃Protagonist
-"That might be true..."
+「That might be true...」
 ＃Shion
-"Um... I'm sorry, I don't really know..."
+「Um... I'm sorry, I don't really know...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"That was... quite a long time ago..."
+「That was... quite a long time ago...」
 ＃Protagonist
-"...Please tell me, Tsujimura-san. Even if it's from the past... what happened? It might be connected to what's happening now."
+「...Please tell me, Tsujimura-san. Even if it's from the past... what happened? It might be connected to what's happening now.」
 ＃Tsujimura
-"B-But... I am sorry, I simply cannot..."
+「B-But... I am sorry, I simply cannot...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"A similar incident, huh..."
+「A similar incident, huh...」
 ＃Protagonist
-"Do you know something?"
+「Do you know something?」
 ＃Takamine
-"...No, I don't."
+「...No, I don't.」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Mikanagi
-"A similar incident... I really can't say."
+「A similar incident... I really can't say.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Akane
-"Similar... No, sorry... I don't really know."
+「Similar... No, sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I'm not quite sure about that."
+「I'm not quite sure about that.」
 ＃Protagonist
-"I see..."
+「I see...」

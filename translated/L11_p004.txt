@@ -1,24 +1,24 @@
 ＃Ai
-"...Benio seems strangely lively, even though she was attacked herself."
+「...Benio seems strangely lively, even though she was attacked herself.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"The possibility of me being the killer? I won't say it's nonexistent, but I was resting in the infirmary the whole time, wasn't I?"
+「The possibility of me being the killer? I won't say it's nonexistent, but I was resting in the infirmary the whole time, wasn't I?」
 ＃Protagonist
-"That's true..."
+「That's true...」
 ＃Tsujimura
-"Lady Benio was resting in her room even before Mistress Kirihara's body was discovered. I do not believe she had recovered yet."
+「Lady Benio was resting in her room even before Mistress Kirihara's body was discovered. I do not believe she had recovered yet.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I don't think Benio-kun is the culprit... but weren't you right there with her?"
+「I don't think Benio-kun is the culprit... but weren't you right there with her?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Mikanagi
-"...I don't care what you two get up to, really, but I'd appreciate it if you kept it out of my workspace."
+「...I don't care what you two get up to, really, but I'd appreciate it if you kept it out of my workspace.」
 ＃Protagonist
-"I-I'm not sure what you mean..."
+「I-I'm not sure what you mean...」
 ＃Narumi
-"There's almost no chance Lady Benio is the killer, right? She was asleep in the infirmary the whole time."
+「There's almost no chance Lady Benio is the killer, right? She was asleep in the infirmary the whole time.」
 ＃Protagonist
-"True..."
+「True...」

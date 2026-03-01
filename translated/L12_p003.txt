@@ -1,28 +1,28 @@
 ＃Souko
-"Ai-san, huh…? She was in her room, wasn't she? It seems like a bit of a stretch to make her the culprit in Mikanagi-sensei’s murder."
+「Ai-san, huh…? She was in her room, wasn't she? It seems like a bit of a stretch to make her the culprit in Mikanagi-sensei’s murder.」
 ＃Protagonist
-"You’re right…"
+「You’re right…」
 ＃Maya
-"I wouldn't know, I was resting in my room as well."
+「I wouldn't know, I was resting in my room as well.」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Ai
-"I was in my room the whole time…"
+「I was in my room the whole time…」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Tsujimura
-"I believe she was in her room… but I haven't confirmed it."
+「I believe she was in her room… but I haven't confirmed it.」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Takamine
-"I wouldn’t know what was happening outside my room."
+「I wouldn’t know what was happening outside my room.」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Akane
-"Perhaps she was in her room…?"
+「Perhaps she was in her room…?」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"…At the very least, Lady Ai didn’t leave her room while I was out here in the hallway."
+「…At the very least, Lady Ai didn’t leave her room while I was out here in the hallway.」
 ＃Protagonist
-"…I see."
+「…I see.」

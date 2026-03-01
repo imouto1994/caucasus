@@ -1,40 +1,40 @@
 ＃Souko
-"It seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here."
+「It seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Maya
-"It is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'."
+「It is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"About Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago..."
+「About Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago...」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"If it is about Nanatsuki Village, I believe it would be best to ask my mother or my elder sister."
+「If it is about Nanatsuki Village, I believe it would be best to ask my mother or my elder sister.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first."
+「I've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Rokuyou
-"The origin of Nanatsuki Village? Who knows... I'm not from around here, so I don't know much about it."
+「The origin of Nanatsuki Village? Who knows... I'm not from around here, so I don't know much about it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"...I don't know. Ask someone else."
+「...I don't know. Ask someone else.」
 ＃Protagonist
-"...Alright."
+「...Alright.」
 ＃Mikanagi
-"As for origins and such, I think it's better to ask someone from the Nanatsuki family."
+「As for origins and such, I think it's better to ask someone from the Nanatsuki family.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Akane
-"Um... well, it's only been a short while since I came here, so..."
+「Um... well, it's only been a short while since I came here, so...」
 ＃Protagonist
-"That's true, sorry for asking..."
+「That's true, sorry for asking...」
 ＃Narumi
-"Nanatsuki Village, huh... I think you're better off asking the people who live in this house about that."
+「Nanatsuki Village, huh... I think you're better off asking the people who live in this house about that.」
 ＃Protagonist
-"...I suppose so."
+「...I suppose so.」

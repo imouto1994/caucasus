@@ -1,24 +1,24 @@
 ＃Souko
-"Akane-san was with you the whole time, wasn't she? ...Though, there is a possibility she's using that as an alibi."
+「Akane-san was with you the whole time, wasn't she? ...Though, there is a possibility she's using that as an alibi.」
 ＃Protagonist
-"...I think it's premature to jump to that conclusion, but..."
+「...I think it's premature to jump to that conclusion, but...」
 ＃Benio
-"Akane was with you, wasn't she? If so, couldn't you tell just by looking at her reaction?"
+「Akane was with you, wasn't she? If so, couldn't you tell just by looking at her reaction?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"As for Mistress Hiyama, I believe she would have been preparing lunch around that time..."
+「As for Mistress Hiyama, I believe she would have been preparing lunch around that time...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"But I was with you the entire time, wasn't I?"
+「But I was with you the entire time, wasn't I?」
 ＃Protagonist
-"Y-Yeah, that's right..."
+「Y-Yeah, that's right...」
 ＃Narumi
-"As for Akane, wasn't she with you?"
+「As for Akane, wasn't she with you?」
 ＃Protagonist
-"Y-Yeah, I suppose so..."
+「Y-Yeah, I suppose so...」

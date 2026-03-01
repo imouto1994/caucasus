@@ -1,46 +1,46 @@
 ＃Souko
-"A song...? I haven't heard anything, so I wouldn't know."
+「A song...? I haven't heard anything, so I wouldn't know.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Maya
-"A song? It is likely Shion who is singing."
+「A song? It is likely Shion who is singing.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"That would be Shion singing, I imagine. Her voice is quite beautiful."
+「That would be Shion singing, I imagine. Her voice is quite beautiful.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"A song... that would likely be Shion, wouldn't it?"
+「A song... that would likely be Shion, wouldn't it?」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"That would likely be Lady Shion. She often sings to herself."
+「That would likely be Lady Shion. She often sings to herself.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"You can reach the room where Lady Shion resides through this door at the back of the office."
+「You can reach the room where Lady Shion resides through this door at the back of the office.」
 ＃Protagonist
-"Um, if it's alright, I'd like to go and offer my greetings..."
+「Um, if it's alright, I'd like to go and offer my greetings...」
 ＃Tsujimura
-"Yes, I don't mind that, but..."
+「Yes, I don't mind that, but...」
 ＃Rokuyou
-"A song? ...Come to think of it, I feel like I might have heard something."
+「A song? ...Come to think of it, I feel like I might have heard something.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"A song... someone must be singing."
+「A song... someone must be singing.」
 ＃Protagonist
-"I suppose so."
+「I suppose so.」
 ＃Mikanagi
-"A song... I believe that would be Shion-san."
+「A song... I believe that would be Shion-san.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"A song? Lady Shion seems to sing quite often, but..."
+「A song? Lady Shion seems to sing quite often, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"The one who sings often would be Lady Shion, I think. Though Lady Benio plays the piano as well."
+「The one who sings often would be Lady Shion, I think. Though Lady Benio plays the piano as well.」
 ＃Protagonist
-"I see."
+「I see.」

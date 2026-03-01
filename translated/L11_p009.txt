@@ -1,24 +1,24 @@
 ＃Ai
-"I don't know where Akane-san went..."
+「I don't know where Akane-san went...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"At this stage, Akane is the most vital person. However... I cannot fathom why she remains missing. There is a possibility she has already been killed."
+「At this stage, Akane is the most vital person. However... I cannot fathom why she remains missing. There is a possibility she has already been killed.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"Since when exactly has she been missing...?"
+「Since when exactly has she been missing...?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Takamine
-"There is a possibility that she is the one in the fire... but I cannot make that judgment."
+「There is a possibility that she is the one in the fire... but I cannot make that judgment.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"...Of course, there is a possibility the body is Akane-san's. But for now... I'm focusing on the outcome that seems even slightly more likely."
+「...Of course, there is a possibility the body is Akane-san's. But for now... I'm focusing on the outcome that seems even slightly more likely.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"...Akane is gone, but that girl has no reason to kill Kirihara-san. I believe in her."
+「...Akane is gone, but that girl has no reason to kill Kirihara-san. I believe in her.」
 ＃Protagonist
-"I see..."
+「I see...」

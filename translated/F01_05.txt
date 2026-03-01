@@ -1,17 +1,17 @@
 ＃Tsujimura
-"Oh, what's the matter?"
+「Oh, what's the matter?」
 Tsujimura-san was in the office.
 ＃Protagonist
-"Hello. Were you in the middle of work?"
+「Hello. Were you in the middle of work?」
 ＃Tsujimura
-"Just organizing some documents. Did you need something?"
+「Just organizing some documents. Did you need something?」
 ＃Protagonist
-"Uh... well..."
+「Uh... well...」
 ＃Tsujimura
-"Oh, what's the matter again?"
+「Oh, what's the matter again?」
 Tsujimura-san was still in the office.
 ＃Protagonist
-"Uh... well..."
+「Uh... well...」
 I've come to the office.
 Tsujimura-san doesn't seem to be here.
 He's probably preparing for the wedding.

@@ -1,40 +1,40 @@
 ＃Souko
-"Maya-san, huh... she definitely has that air of a mistress about her. She seems kind, though."
+「Maya-san, huh... she definitely has that air of a mistress about her. She seems kind, though.」
 ＃Protagonist
-"Yeah."
+「Yeah.」
 ＃Maya
-"About me? Surely it wouldn't be interesting to know about an old woman like me?"
+「About me? Surely it wouldn't be interesting to know about an old woman like me?」
 ＃Protagonist
-"No... that's not true at all..."
+「No... that's not true at all...」
 ＃Ai
-"Mother? She's a kind person."
+「Mother? She's a kind person.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"My mother? She is a gentle and kind person."
+「My mother? She is a gentle and kind person.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Tsujimura
-"The Mistress? She's a very kind person."
+「The Mistress? She's a very kind person.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Rokuyou
-"Maya-san? I'm grateful for her cooperation with this wedding."
+「Maya-san? I'm grateful for her cooperation with this wedding.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"Maya-san... she seems to have done her best on her own since Mr. Kousei passed away."
+「Maya-san... she seems to have done her best on her own since Mr. Kousei passed away.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Maya-san... I believe she is a person full of affection."
+「Maya-san... I believe she is a person full of affection.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"The Mistress? I believe she is in her room, but..."
+「The Mistress? I believe she is in her room, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"The Mistress? She's a kind and good person."
+「The Mistress? She's a kind and good person.」
 ＃Protagonist
-"I see."
+「I see.」

@@ -1,52 +1,52 @@
 ＃Souko
-"Is this enough for you?"
+「Is this enough for you?」
 ＃Protagonist
-"Yes, thank you."
+「Yes, thank you.」
 ＃Souko
-"Then keep up the good work with the investigation."
+「Then keep up the good work with the investigation.」
 ＃Protagonist
-"Will do."
+「Will do.」
 I decided to go somewhere else.
 ＃Maya
-"Is that all, then?"
+「Is that all, then?」
 ＃Protagonist
-"Yes, thank you. You seem busy before the wedding, so I'll take my leave now."
+「Yes, thank you. You seem busy before the wedding, so I'll take my leave now.」
 I bowed and decided to go somewhere else.
 ＃Ai
-"Is that all, then?"
+「Is that all, then?」
 ＃Protagonist
-"Yes, thank you. You seem busy, so I'll be going."
+「Yes, thank you. You seem busy, so I'll be going.」
 I bowed and decided to go somewhere else.
 ＃Benio
-"Will this do?"
+「Will this do?」
 ＃Protagonist
-"Yes, thank you very much."
+「Yes, thank you very much.」
 I thanked Benio-san and decided to go somewhere else.
 ＃Tsujimura
-"I suppose this will be enough."
+「I suppose this will be enough.」
 ＃Protagonist
-"Yes, thank you for being so thorough. You seem busy, so I'll take my leave."
+「Yes, thank you for being so thorough. You seem busy, so I'll take my leave.」
 I expressed my thanks and decided to go somewhere else.
 ＃Takamine
-"Will this do?"
+「Will this do?」
 ＃Protagonist
-"Y-yes. Thank you very much. You seem busy, so please excuse me."
+「Y-yes. Thank you very much. You seem busy, so please excuse me.」
 I bowed and decided to go somewhere else.
 ＃Mikanagi
-"Is this enough for you?"
+「Is this enough for you?」
 ＃Protagonist
-"Yes, thank you very much. Please excuse me."
+「Yes, thank you very much. Please excuse me.」
 I decided to go somewhere else.
 ＃Akane
-"Will that be all?"
+「Will that be all?」
 ＃Protagonist
-"Yes, thank you. You still seem busy, so I'll be going."
+「Yes, thank you. You still seem busy, so I'll be going.」
 I bowed and decided to go somewhere else.
 ＃Narumi
-"Well, I guess I'll get back to work too. Even if it's a pain."
+「Well, I guess I'll get back to work too. Even if it's a pain.」
 ＃Protagonist
-"Then I'll be on my way. Thanks again."
+「Then I'll be on my way. Thanks again.」
 ＃Narumi
-"Sure thing. Come back again soon."
+「Sure thing. Come back again soon.」
 I decided to go somewhere else.
 Now then, what should I do next...?

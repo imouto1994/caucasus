@@ -1,22 +1,22 @@
 We gathered everyone in the Great Hall.
 ＃Benio
-"What on earth do you intend to do?"
+「What on earth do you intend to do?」
 Benio-san asked, sounding irritated.
 ＃Protagonist
-"I’m going to reveal the person who murdered Rokuyou-san."
+「I’m going to reveal the person who murdered Rokuyou-san.」
 ＃Mikanagi
-"Can you really do that...?"
+「Can you really do that...?」
 ＃Protagonist
-"We can't just leave the killer alone when they're right here among us, can we?"
+「We can't just leave the killer alone when they're right here among us, can we?」
 ＃Tsujimura
-"That may be true, but..."
+「That may be true, but...」
 ＃Takamine
-"How many more days do you think we're stuck here? I refuse to tolerate staying next to a murderer all that time."
+「How many more days do you think we're stuck here? I refuse to tolerate staying next to a murderer all that time.」
 ＃Ai
-"But... needlessly inciting suspicion is..."
+「But... needlessly inciting suspicion is...」
 The room suddenly grew noisy with chatter.
 ＃Souko
-"Quite an uproar... if you name the killer now, there's no telling what they'll do in their desperation... are you still planning to go through with it?"
+「Quite an uproar... if you name the killer now, there's no telling what they'll do in their desperation... are you still planning to go through with it?」
 Souko-san checked with me.
 [Continue naming the killer]
 [Stop naming the killer]
@@ -25,16 +25,16 @@ Even if we confined them somewhere, there would be various issues like suicide o
 The most terrifying thing was the possibility of more murders.
 Not just the killer acting in desperation, but the possibility that someone might try to take revenge on the killer.
 ＃Protagonist
-"...Maybe it’s best to stop for now."
+「...Maybe it’s best to stop for now.」
 ＃Souko
-"...True."
+「...True.」
 We decided to return to our rooms.
 ＃Protagonist
-"...I’ll do it."
+「...I’ll do it.」
 ＃Souko
-"...Alright. Then first... could you show us the evidence you think is most crucial to identifying the killer?"
+「...Alright. Then first... could you show us the evidence you think is most crucial to identifying the killer?」
 ＃Protagonist
-"Understood."
+「Understood.」
 [The key in the pocket]
 [The hand axe used as a weapon]
 [The door connecting to Tsujimura's room]
@@ -45,69 +45,69 @@ We decided to return to our rooms.
 [The snowdrop flower]
 ...And at that moment, I realized I didn't have any evidence I could actually present.
 ＃Souko
-"I see... then who exactly is the killer that evidence points to?"
+「I see... then who exactly is the killer that evidence points to?」
 ＃Souko
-"I'm the killer? Why...?"
+「I'm the killer? Why...?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Souko
-"Sigh... it doesn't tell a story at all."
+「Sigh... it doesn't tell a story at all.」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Souko
-"You're wrong. Get it together, honestly..."
+「You're wrong. Get it together, honestly...」
 ＃Maya
-"I am the killer...? And why is that...?"
+「I am the killer...? And why is that...?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Maya
-"...This is absurd."
+「...This is absurd.」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Maya
-"Of course you are. Honestly... I've been forced to endure such needless embarrassment."
+「Of course you are. Honestly... I've been forced to endure such needless embarrassment.」
 ＃Ai
-"I'm the killer... why?"
+「I'm the killer... why?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Ai
-"...How could that possibly be evidence...?"
+「...How could that possibly be evidence...?」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Ai
-"You're wrong. ...How rude."
+「You're wrong. ...How rude.」
 ＃Benio
-"So I'm the killer... interesting. What made you think that?"
+「So I'm the killer... interesting. What made you think that?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Benio
-"This is pointless. How does that serve as evidence?"
+「This is pointless. How does that serve as evidence?」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Benio
-"Of course you are. Don't be ridiculous."
+「Of course you are. Don't be ridiculous.」
 ＃Shion
-"Me...?"
+「Me...?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Shion
-"The key...?"
+「The key...?」
 ＃Protagonist
-"According to Tsujimura-san, the key to the chapel was missing. If this key wasn't to Rokuyou-san’s room, but to the chapel instead..."
+「According to Tsujimura-san, the key to the chapel was missing. If this key wasn't to Rokuyou-san’s room, but to the chapel instead...」
 ＃Benio
-"If that were the case... why did Rokuyou have it?"
+「If that were the case... why did Rokuyou have it?」
 ＃Protagonist
-"This is just speculation, but... I imagine Rokuyou-san took the key himself. He went to the chapel in the middle of the night—to see Shion-san."
+「This is just speculation, but... I imagine Rokuyou-san took the key himself. He went to the chapel in the middle of the night—to see Shion-san.」
 ＃Protagonist
-"The lid of the casket is heavy, so Shion-san couldn't have opened it alone. If Rokuyou-san opened it from the outside—it wouldn't be hard to close since it has hinges."
+「The lid of the casket is heavy, so Shion-san couldn't have opened it alone. If Rokuyou-san opened it from the outside—it wouldn't be hard to close since it has hinges.」
 ＃Shion
-"..."
+「...」
 ＃Protagonist
-"I imagine she dragged Rokuyou-san’s body all the way to his room. The dirt on the back of the corpse tells that story."
+「I imagine she dragged Rokuyou-san’s body all the way to his room. The dirt on the back of the corpse tells that story.」
 ＃Ai
-"But!! That's nothing more than a guess, isn't it!?"
+「But!! That's nothing more than a guess, isn't it!?」
 ＃Protagonist
-"Yes... which is why I need one more piece of decisive evidence."
+「Yes... which is why I need one more piece of decisive evidence.」
 [The hand axe used as a weapon]
 [The snowdrop flower]
 [The key in the pocket]
@@ -118,134 +118,134 @@ We decided to return to our rooms.
 [Rokuyou's corpse]
 ...And at that moment, I realized I didn't have any evidence I could actually present.
 ＃Protagonist
-"The snowdrop flower lying by the body... I imagine Rokuyou-san plucked it when he went to get the key."
+「The snowdrop flower lying by the body... I imagine Rokuyou-san plucked it when he went to get the key.」
 ＃Souko
-"The possibility is high, but..."
+「The possibility is high, but...」
 ＃Protagonist
-"One of the stamens is missing. If that stamen were found in the chapel... or if we could at least collect some of its pollen..."
+「One of the stamens is missing. If that stamen were found in the chapel... or if we could at least collect some of its pollen...」
 ＃Ai
-"That's enough!!"
+「That's enough!!」
 ＃Shion
-"Ai-oneesama..."
+「Ai-oneesama...」
 Shion-san quietly restrained Ai-san, who was on the verge of an outburst.
 ＃Shion
-"It’s... alright. It was I... who took Rokuyou-sama’s life with these hands."
+「It’s... alright. It was I... who took Rokuyou-sama’s life with these hands.」
 ＃Protagonist
-"You admit it...?"
+「You admit it...?」
 ＃Shion
-"Yes..."
+「Yes...」
 Shion-san looked down.
 ＃Ai
-"Why... Shion..."
+「Why... Shion...」
 Ai-san clung to Shion-san, tears streaming down her face.
 ＃Shion
-"Ai-oneesama... this was the only way..."
+「Ai-oneesama... this was the only way...」
 ＃Souko
-"...For now, let’s move her somewhere else. I doubt there's any risk of her running away."
+「...For now, let’s move her somewhere else. I doubt there's any risk of her running away.」
 ＃Tsujimura
-"...In that case, let’s take her to Shion-ojousama's room..."
+「...In that case, let’s take her to Shion-ojousama's room...」
 ＃Protagonist
-"That sounds best."
+「That sounds best.」
 ＃Souko
-"Also, please make sure someone is watching her. ...To prevent her from taking her own life."
+「Also, please make sure someone is watching her. ...To prevent her from taking her own life.」
 ＃Tsujimura
-"That... yes, of course. Understood."
+「That... yes, of course. Understood.」
 Tsujimura-san nodded and approached Shion-san.
 ＃Tsujimura
-"Ojousama... let’s go."
+「Ojousama... let’s go.」
 ＃Shion
-"Yes... my apologies to you all."
+「Yes... my apologies to you all.」
 Tsujimura-san and Shion-san left the room.
 ＃Ai
-"Shion..."
+「Shion...」
 Ai-san followed them out of the Great Hall.
 ＃Benio
-"So Shion killed Rokuyou... a few questions still remain, but since she confessed, I suppose that’s the truth."
+「So Shion killed Rokuyou... a few questions still remain, but since she confessed, I suppose that’s the truth.」
 ＃Souko
-"Yeah... what should we do now...?"
+「Yeah... what should we do now...?」
 ＃Takamine
-"We have no choice but to wait quietly for rescue. The person from the base of the mountain is due in two days, isn't that right?"
+「We have no choice but to wait quietly for rescue. The person from the base of the mountain is due in two days, isn't that right?」
 ＃Benio
-"That's the plan. ...Good grief, it seems the 'Curse of the Seven' is about to grow."
+「That's the plan. ...Good grief, it seems the 'Curse of the Seven' is about to grow.」
 Benio-san muttered wearily.
 Shion-san had confessed to her crime, but one thing—one mystery still remained.
 The missing chapel key—it was in Rokuyou-san’s pocket, but if that was the case, how did she lock the chapel door...?
 ...No, never mind. Shion-san is the killer, that's enough, isn't it—
 ＃Shion
-"...I don't really understand, but I think you're wrong..."
+「...I don't really understand, but I think you're wrong...」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Shion
-"Yes... you're wrong."
+「Yes... you're wrong.」
 ＃Tsujimura
-"You're saying I'm the killer...? And why is that?"
+「You're saying I'm the killer...? And why is that?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Tsujimura
-"...I don't really understand what you mean by that..."
+「...I don't really understand what you mean by that...」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Tsujimura
-"Yes, you are."
+「Yes, you are.」
 ＃Souko
-"Wait a second, why would Rokuyou be the killer?"
+「Wait a second, why would Rokuyou be the killer?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Souko
-"...It’s far too much of a stretch to call it suicide."
+「...It’s far too much of a stretch to call it suicide.」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Souko
-"Of course you are. Get it together."
+「Of course you are. Get it together.」
 ＃Takamine
-"...You're saying I'm the killer. Why?"
+「...You're saying I'm the killer. Why?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Takamine
-"How does that serve as evidence that I'm the killer?"
+「How does that serve as evidence that I'm the killer?」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Takamine
-"Of course you are. This is ridiculous... I feel like I've wasted my time listening to this."
+「Of course you are. This is ridiculous... I feel like I've wasted my time listening to this.」
 ＃Mikanagi
-"I'm the killer... why?"
+「I'm the killer... why?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Mikanagi
-"...Unfortunately, that doesn't serve as evidence that I'm the killer."
+「...Unfortunately, that doesn't serve as evidence that I'm the killer.」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Mikanagi
-"Of course you are. Why on earth would I have a reason to kill Isamu?"
+「Of course you are. Why on earth would I have a reason to kill Isamu?」
 ＃Akane
-"I'm the killer...?"
+「I'm the killer...?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Akane
-"I don't really understand, but... I think you're completely wrong."
+「I don't really understand, but... I think you're completely wrong.」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Akane
-"Of course you are, honestly..."
+「Of course you are, honestly...」
 ＃Narumi
-"So I'm the killer, huh... you got any proof?"
+「So I'm the killer, huh... you got any proof?」
 ＃Protagonist
-"Because... this evidence tells the whole story."
+「Because... this evidence tells the whole story.」
 ＃Narumi
-"...How on earth does that count as proof?"
+「...How on earth does that count as proof?」
 ＃Protagonist
-"Wait... am I wrong?"
+「Wait... am I wrong?」
 ＃Narumi
-"You're wrong. Did you even think this through?"
+「You're wrong. Did you even think this through?」
 ＃Protagonist
-"Ah... I-I'm sorry, everyone..."
+「Ah... I-I'm sorry, everyone...」
 I bowed my head deeply.
 Everyone stared at me with looks of exasperation before leaving the room.
 The only ones left were me and Souko-san.
 ＃Protagonist
-"Souko-san, I..."
+「Souko-san, I...」
 ＃Souko
-"That was a disaster. Let's go back to your room and think it over some more."
+「That was a disaster. Let's go back to your room and think it over some more.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 Souko-san and I decided to return to our rooms.

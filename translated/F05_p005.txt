@@ -1,40 +1,40 @@
 ＃Souko
-"...There's a very real possibility Shion-san will be targeted next. She needs to be careful..."
+「...There's a very real possibility Shion-san will be targeted next. She needs to be careful...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"Shion is still safe, isn't she...?"
+「Shion is still safe, isn't she...?」
 ＃Protagonist
-"Yes... no need to worry."
+「Yes... no need to worry.」
 ＃Ai
-"I'm glad I was the one targeted... if it had been Shion..."
+「I'm glad I was the one targeted... if it had been Shion...」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Benio
-"Shion, huh... she likely feels some sense of debt for being an adopted child. That’s why she never complains about her situation..."
+「Shion, huh... she likely feels some sense of debt for being an adopted child. That’s why she never complains about her situation...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"I... don't really understand what's happening... I'm sorry..."
+「I... don't really understand what's happening... I'm sorry...」
 ＃Protagonist
-"No..."
+「No...」
 ＃Tsujimura
-"...Lady Shion seems quite despondent..."
+「...Lady Shion seems quite despondent...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Shion-kun is in the reception room? It's rare to see her out of her room."
+「Shion-kun is in the reception room? It's rare to see her out of her room.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Mikanagi
-"Is it almost time for Shion-san's medicine...? I prepared it during the night, so it should be fine."
+「Is it almost time for Shion-san's medicine...? I prepared it during the night, so it should be fine.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Lady Shion? She's in the reception room."
+「Lady Shion? She's in the reception room.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Lady Shion? Unless she's in her room, I've no idea where she is."
+「Lady Shion? Unless she's in her room, I've no idea where she is.」
 ＃Protagonist
-"I see..."
+「I see...」

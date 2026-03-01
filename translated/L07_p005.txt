@@ -1,40 +1,40 @@
 ＃Souko
-"I'm not really sure... I went to bed early last night."
+「I'm not really sure... I went to bed early last night.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"I wouldn't know; I was resting in my room as well."
+「I wouldn't know; I was resting in my room as well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I don't know... I was sleeping in my room."
+「I don't know... I was sleeping in my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"I was resting in my room all last night..."
+「I was resting in my room all last night...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"Last night... well, you were there, after all..."
+「Last night... well, you were there, after all...」
 ＃Protagonist
-"...Ah, that's right."
+「...Ah, that's right.」
 ＃Tsujimura
-"...I went to sleep early last night myself, you see..."
+「...I went to sleep early last night myself, you see...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I predictably wouldn't know about anyone else's movements."
+「I predictably wouldn't know about anyone else's movements.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"...I am sorry, but I really don't know."
+「...I am sorry, but I really don't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Weren't they sleeping in their room? I wouldn't know."
+「Weren't they sleeping in their room? I wouldn't know.」
 ＃Protagonist
-"I see."
+「I see.」

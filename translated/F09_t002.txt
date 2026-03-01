@@ -1,40 +1,40 @@
 ＃Souko
-"...The fact the killer is losing their composure means we've likely cornered them. The suspects are narrowing down, and tonight will be the climax."
+「...The fact the killer is losing their composure means we've likely cornered them. The suspects are narrowing down, and tonight will be the climax.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"How terrifying... who could have done such a thing..."
+「How terrifying... who could have done such a thing...」
 ＃Protagonist
-"...I'm in the middle of investigating that right now."
+「...I'm in the middle of investigating that right now.」
 ＃Ai
-"...Why did such a thing have to happen to Kirihara-san...?"
+「...Why did such a thing have to happen to Kirihara-san...?」
 ＃Protagonist
-"I think it's because she was investigating..."
+「I think it's because she was investigating...」
 ＃Benio
-"The reason her room was targeted... if it's because she was snooping around, that would apply to you as well. So there must be something else..."
+「The reason her room was targeted... if it's because she was snooping around, that would apply to you as well. So there must be something else...」
 ＃Protagonist
-"I wonder..."
+「I wonder...」
 ＃Shion
-"Who could have done such a thing...?"
+「Who could have done such a thing...?」
 ＃Protagonist
-"We don't... know yet."
+「We don't... know yet.」
 ＃Tsujimura
-"...Would it be all right if I washed that off...?"
+「...Would it be all right if I washed that off...?」
 ＃Protagonist
-"I'm not sure... I'd certainly like to see it gone, though..."
+「I'm not sure... I'd certainly like to see it gone, though...」
 ＃Takamine
-"A warning...? It's far too late for that. I doubt it serves any real purpose."
+「A warning...? It's far too late for that. I doubt it serves any real purpose.」
 ＃Protagonist
-"Is that so...?"
+「Is that so...?」
 ＃Mikanagi
-"...It's undoubtedly blood. Whether it's Isamu's... or the killer's own blood... we won't know without a proper appraisal."
+「...It's undoubtedly blood. Whether it's Isamu's... or the killer's own blood... we won't know without a proper appraisal.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"...The killer warned her because Mistress Kirihara is snooping around, right? I don't think doing something like that will have any effect, though..."
+「...The killer warned her because Mistress Kirihara is snooping around, right? I don't think doing something like that will have any effect, though...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Narumi
-"A warning written in blood, huh... the fact they'd go to the trouble of warning her means they're likely not done yet..."
+「A warning written in blood, huh... the fact they'd go to the trouble of warning her means they're likely not done yet...」
 ＃Protagonist
-"Maybe so..."
+「Maybe so...」

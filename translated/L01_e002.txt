@@ -1,40 +1,40 @@
 ＃Souko
-"They must have used that to keep the blood from splattering... In that case, the likelihood of the killer being covered in blood is low..."
+「They must have used that to keep the blood from splattering... In that case, the likelihood of the killer being covered in blood is low...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"...I am sorry, I do not really know."
+「...I am sorry, I do not really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"...I'm sorry, I don't really know."
+「...I'm sorry, I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Cutting through the neck over a pillow... likely to prevent the blood from geysering out. But where did they take the head that was supposed to be beneath it...?"
+「Cutting through the neck over a pillow... likely to prevent the blood from geysering out. But where did they take the head that was supposed to be beneath it...?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Shion
-"Um... I'm sorry, I don't really know..."
+「Um... I'm sorry, I don't really know...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I... don't really know..."
+「I... don't really know...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"They likely used the pillow to suppress the bleeding... but I wonder what the reason was for going so far as to decapitate him..."
+「They likely used the pillow to suppress the bleeding... but I wonder what the reason was for going so far as to decapitate him...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Akane
-"I'm sorry... I don't really know."
+「I'm sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I don't really know about that."
+「I don't really know about that.」
 ＃Protagonist
-"I see..."
+「I see...」

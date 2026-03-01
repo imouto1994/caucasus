@@ -1,36 +1,36 @@
 ＃Souko
-"Shion-san looked beautiful yesterday. Though I suppose she’s still inside her coffin right now..."
+「Shion-san looked beautiful yesterday. Though I suppose she’s still inside her coffin right now...」
 ＃Protagonist
-"...Yeah."
+「...Yeah.」
 ＃Maya
-"We will continue the wedding ceremony starting at eight o'clock, but until then, she remains inside her coffin in the cathedral."
+「We will continue the wedding ceremony starting at eight o'clock, but until then, she remains inside her coffin in the cathedral.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"To think that Shion is getting married... I’m happy for her, but my feelings are complicated..."
+「To think that Shion is getting married... I’m happy for her, but my feelings are complicated...」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"Is it almost time to continue the ceremony? We were supposed to gather in the Great Hall, weren't we?"
+「Is it almost time to continue the ceremony? We were supposed to gather in the Great Hall, weren't we?」
 ＃Protagonist
-"Yes, that should be it."
+「Yes, that should be it.」
 ＃Tsujimura
-"...Once Lady Shion gets married, it will become quite lonely around here..."
+「...Once Lady Shion gets married, it will become quite lonely around here...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Shion-kun, eh...? I was against her spending the night in a coffin in the middle of winter, but I was told it was the custom."
+「Shion-kun, eh...? I was against her spending the night in a coffin in the middle of winter, but I was told it was the custom.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Mikanagi
-"Shion-san has delicate health, you see. I just hope nothing happens during the night..."
+「Shion-san has delicate health, you see. I just hope nothing happens during the night...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Lady Shion is in the middle of her wedding ritual in the cathedral right now."
+「Lady Shion is in the middle of her wedding ritual in the cathedral right now.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"We really need to get some warm food into Lady Shion. It must be freezing spending all night in the cathedral."
+「We really need to get some warm food into Lady Shion. It must be freezing spending all night in the cathedral.」
 ＃Protagonist
-"You're right..."
+「You're right...」

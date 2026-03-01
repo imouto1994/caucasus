@@ -1,68 +1,68 @@
 ＃Souko
-"Akane-san hasn't been acting particularly strange, but we can't be too careful."
+「Akane-san hasn't been acting particularly strange, but we can't be too careful.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Souko
-"I wonder why she disappeared..."
+「I wonder why she disappeared...」
 ＃Protagonist
-"...I don't know."
+「...I don't know.」
 ＃Maya
-"Akane is a hard worker. She is very attentive to detail."
+「Akane is a hard worker. She is very attentive to detail.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Maya
-"Akane has vanished... surely, that child couldn't be...?"
+「Akane has vanished... surely, that child couldn't be...?」
 ＃Protagonist
-"...We don't know anything for certain yet."
+「...We don't know anything for certain yet.」
 ＃Ai
-"Akane-san? She's an excellent worker."
+「Akane-san? She's an excellent worker.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"The fact that Akane-san disappeared... surely that means..."
+「The fact that Akane-san disappeared... surely that means...」
 ＃Protagonist
-"...We don't know yet."
+「...We don't know yet.」
 ＃Shion
-"Akane-san... she has always been kind to me."
+「Akane-san... she has always been kind to me.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"Akane-san... where on earth did she go...?"
+「Akane-san... where on earth did she go...?」
 ＃Protagonist
-"...We don't know yet."
+「...We don't know yet.」
 ＃Tsujimura
-"...At any rate, I am glad Mistress Hiyama's injuries were not severe."
+「...At any rate, I am glad Mistress Hiyama's injuries were not severe.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Tsujimura
-"Where on earth could Mistress Hiyama have gone...?"
+「Where on earth could Mistress Hiyama have gone...?」
 ＃Protagonist
-"We don't know yet..."
+「We don't know yet...」
 ＃Takamine
-"Whether Hiyama-kun being targeted is connected to you two being locked in the basement... you still don't know?"
+「Whether Hiyama-kun being targeted is connected to you two being locked in the basement... you still don't know?」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Takamine
-"There are only so many places one can go in this mansion... why can't she be found?"
+「There are only so many places one can go in this mansion... why can't she be found?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Mikanagi
-"I'm glad Akane-san's injuries were minor. ...I don't want to see any more victims, after all."
+「I'm glad Akane-san's injuries were minor. ...I don't want to see any more victims, after all.」
 ＃Protagonist
-"Me neither..."
+「Me neither...」
 ＃Mikanagi
-"I wonder if it's because of what happened yesterday... her hiding herself away like that."
+「I wonder if it's because of what happened yesterday... her hiding herself away like that.」
 ＃Protagonist
-"...Maybe."
+「...Maybe.」
 ＃Akane
-"My injuries are fine now. For now, let's... think about other things instead."
+「My injuries are fine now. For now, let's... think about other things instead.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Narumi
-"I don't think you need to worry about Akane's injuries."
+「I don't think you need to worry about Akane's injuries.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"The reason she vanished, huh... She seemed to be looking into something, so maybe it's related to that... but it might be better not to jump to conclusions."
+「The reason she vanished, huh... She seemed to be looking into something, so maybe it's related to that... but it might be better not to jump to conclusions.」
 ＃Protagonist
-"I see..."
+「I see...」

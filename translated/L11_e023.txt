@@ -1,24 +1,24 @@
 ＃Ai
-"...I am sorry, I do not really know."
+「...I am sorry, I do not really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"...I am not entirely convinced that is Kirihara-san. ...Do not give up hope just yet."
+「...I am not entirely convinced that is Kirihara-san. ...Do not give up hope just yet.」
 ＃Protagonist
-"...Alright."
+「...Alright.」
 ＃Tsujimura
-"How utterly gruesome..."
+「How utterly gruesome...」
 ＃Protagonist
-"It really is..."
+「It really is...」
 ＃Takamine
-"I can't say for certain."
+「I can't say for certain.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I believe it is Kirihara-san's body. The only deciding factor is the signs of a fracture... though there is a possibility it could be Akane-san."
+「I believe it is Kirihara-san's body. The only deciding factor is the signs of a fracture... though there is a possibility it could be Akane-san.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I'm not really sure about that."
+「I'm not really sure about that.」
 ＃Protagonist
-"I see..."
+「I see...」

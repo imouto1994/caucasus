@@ -1,28 +1,28 @@
 ＃Souko
-"Maya-san seems quite exhausted too... though I suppose it can't be helped."
+「Maya-san seems quite exhausted too... though I suppose it can't be helped.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"...I will be fine, thank you."
+「...I will be fine, thank you.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I believe Mother is resting in her room..."
+「I believe Mother is resting in her room...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Mother looks quite haggard. It's only natural, but..."
+「Mother looks quite haggard. It's only natural, but...」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Tsujimura
-"The Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless..."
+「The Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"It seems Maya-san has cooped herself up in her room. Well, that’s probably for the best..."
+「It seems Maya-san has cooped herself up in her room. Well, that’s probably for the best...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Mikanagi
-"Maya-san has been feeling unwell since last night, so I'm having her rest in her room."
+「Maya-san has been feeling unwell since last night, so I'm having her rest in her room.」
 ＃Protagonist
-"I see."
+「I see.」

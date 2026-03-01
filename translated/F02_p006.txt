@@ -1,36 +1,36 @@
 ＃Souko
-"Tsujimura-san? He’s Kousei-shi's younger brother, yet he’s acting like a servant here... It’s a bit strange."
+「Tsujimura-san? He’s Kousei-shi's younger brother, yet he’s acting like a servant here... It’s a bit strange.」
 ＃Protagonist
-"Yeah."
+「Yeah.」
 ＃Maya
-"Tsujimura? He was my husband's younger brother, so we hired him here. He works very hard, and I am very grateful to him."
+「Tsujimura? He was my husband's younger brother, so we hired him here. He works very hard, and I am very grateful to him.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Tsujimura-san? He is our uncle, and a very kind man."
+「Tsujimura-san? He is our uncle, and a very kind man.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Tsujimura has been doing things like babysitting me since long ago."
+「Tsujimura has been doing things like babysitting me since long ago.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"About me...? No, I’ve done nothing I can speak of with pride."
+「About me...? No, I’ve done nothing I can speak of with pride.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"About Tsujimura-san? I hear he’s the younger brother of the previous head and now acts as the manager here."
+「About Tsujimura-san? I hear he’s the younger brother of the previous head and now acts as the manager here.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Tsujimura-san is the one handling all the clerical work for the Nanatsuki family. You could even call him a butler."
+「Tsujimura-san is the one handling all the clerical work for the Nanatsuki family. You could even call him a butler.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Tsujimura-san? He’s usually working in the office."
+「Tsujimura-san? He’s usually working in the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Tsujimura-san? He’s a kind man. Though he can be a bit timid at times..."
+「Tsujimura-san? He’s a kind man. Though he can be a bit timid at times...」
 ＃Protagonist
-"I see."
+「I see.」

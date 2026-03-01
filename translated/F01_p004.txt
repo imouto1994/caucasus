@@ -1,44 +1,44 @@
 ＃Souko
-"Benio-san? ...Well, I still don't quite have a read on her. It feels like she’s putting on an act, though..."
+「Benio-san? ...Well, I still don't quite have a read on her. It feels like she’s putting on an act, though...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"Benio? She's a bit peculiar, but she's a good girl."
+「Benio? She's a bit peculiar, but she's a good girl.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"About Benio? She has her quirks, but she isn't a bad child."
+「About Benio? She has her quirks, but she isn't a bad child.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"About me? ...I don't really have much to tell you..."
+「About me? ...I don't really have much to tell you...」
 ＃Protagonist
-"Is that so?"
+「Is that so?」
 ＃Benio
-"Yes, well..."
+「Yes, well...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Lady Benio? ...I have nothing in particular to say on that matter..."
+「Lady Benio? ...I have nothing in particular to say on that matter...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Rokuyou
-"Benio? She's a very sweet girl. A bit eccentric, perhaps."
+「Benio? She's a very sweet girl. A bit eccentric, perhaps.」
 ＃Protagonist
-"...Is that right?"
+「...Is that right?」
 ＃Takamine
-"Benio-kun... well, she is certainly unconventional..."
+「Benio-kun... well, she is certainly unconventional...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"Benio-san? She's an interesting one."
+「Benio-san? She's an interesting one.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Akane
-"Lady Benio? Wouldn't she be in her room?"
+「Lady Benio? Wouldn't she be in her room?」
 ＃Protagonist
-"Ah... I suppose so."
+「Ah... I suppose so.」
 ＃Narumi
-"Lady Benio? ...Well, it's not my place to say anything."
+「Lady Benio? ...Well, it's not my place to say anything.」
 ＃Protagonist
-"I see..."
+「I see...」

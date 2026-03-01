@@ -1,97 +1,97 @@
 ＃Protagonist
-"Well... I think this is enough."
+「Well... I think this is enough.」
 Keep looking
 That's enough
 I'll look a little more...
 Alright.
 Now, how to escape using what I've gathered...
 ＃Narumi
-"Honestly... if it were just locked, I could get us out easily..."
+「Honestly... if it were just locked, I could get us out easily...」
 Narumi-san muttered irritably.
 ＃Protagonist
-"...Isn't it more troublesome if it's locked?"
+「...Isn't it more troublesome if it's locked?」
 ＃Narumi
-"Because locks are easier—"
+「Because locks are easier—」
 Suddenly, Narumi-san cut herself off.
 ＃Protagonist
-"Locks are easier?"
+「Locks are easier?」
 ＃Narumi
-"Ah... um, in terms of ease of opening, I mean."
+「Ah... um, in terms of ease of opening, I mean.」
 ＃Protagonist
-"...I would think that if it’s locked, you wouldn't be able to open it..."
+「...I would think that if it’s locked, you wouldn't be able to open it...」
 ＃Narumi
-"Well, there are ways."
+「Well, there are ways.」
 ＃Protagonist
-"No, there aren't."
+「No, there aren't.」
 She’s clearly hiding something...
 If she can open locks...
 ＃Protagonist
-"...Now that I think about it, this morning, when you came to my room, Narumi-san... my door was locked, wasn't it?"
+「...Now that I think about it, this morning, when you came to my room, Narumi-san... my door was locked, wasn't it?」
 ＃Narumi
-"Ah... ahh... yeah."
+「Ah... ahh... yeah.」
 ＃Protagonist
-"...I thought so."
+「...I thought so.」
 Which means the only logical conclusion is—
 ＃Protagonist
-"...Now that I think about it, this morning, when we were looking for Akane-san, you came out of the chapel, and that was locked."
+「...Now that I think about it, this morning, when we were looking for Akane-san, you came out of the chapel, and that was locked.」
 ＃Narumi
-"W... well..."
+「W... well...」
 ＃Protagonist
-"You said you searched Mr. Kousei's room too, but you don't have a key to that room, do you, Narumi-san?"
+「You said you searched Mr. Kousei's room too, but you don't have a key to that room, do you, Narumi-san?」
 Narumi-san looked away.
 ＃Protagonist
-"...I thought so."
+「...I thought so.」
 Which means the logical conclusion is—
 ＃Protagonist
-"Are you, Narumi-san... are you a—"
+「Are you, Narumi-san... are you a—」
 Thief
 Locksmith
 ＃Protagonist
-"Narumi-san, is your true identity... a thief or something?"
+「Narumi-san, is your true identity... a thief or something?」
 I voiced my thought.
 ＃Narumi
-"...And if it is, then what?"
+「...And if it is, then what?」
 Narumi-san tensed up.
 ＃Protagonist
-"It’s nothing, really. Honestly, we have bigger things to worry about right now."
+「It’s nothing, really. Honestly, we have bigger things to worry about right now.」
 First, we have to think about how to get out of this basement.
 ＃Protagonist
-"Narumi-san, is your true identity... a locksmith?"
+「Narumi-san, is your true identity... a locksmith?」
 I voiced my thought.
 ＃Narumi
-"No."
+「No.」
 ＃Protagonist
-"Oh... you aren't?"
+「Oh... you aren't?」
 I really thought I was onto something...
 ＃Protagonist
-"In that case, the only other thing I can think of is a thief... but surely not."
+「In that case, the only other thing I can think of is a thief... but surely not.」
 ＃Narumi
-"...Exactly that."
+「...Exactly that.」
 ＃Protagonist
-"...Eh?"
+「...Eh?」
 ＃Narumi
-"That's right, I'm a thief."
+「That's right, I'm a thief.」
 ＃Protagonist
-"...Sigh."
+「...Sigh.」
 ＃Narumi
-"Hey, why the puzzled look!?"
+「Hey, why the puzzled look!?」
 ＃Protagonist
-"Well, I mean... you're a maid, aren't you, Narumi-san?"
+「Well, I mean... you're a maid, aren't you, Narumi-san?」
 ＃Narumi
-"That’s just my cover... oh, honestly! Why do I have to explain this!"
+「That’s just my cover... oh, honestly! Why do I have to explain this!」
 Narumi-san stomped her feet.
 ＃Protagonist
-"...So, as a thief, Narumi-san, do you have any way to get us out?"
+「...So, as a thief, Narumi-san, do you have any way to get us out?」
 ＃Narumi
-"If I did, I wouldn't be having such a hard time."
+「If I did, I wouldn't be having such a hard time.」
 Narumi-san grumbled, looking somewhat sulky for some reason.
 ＃Protagonist
-"It looks like we’ll have to make do with what we have here..."
+「It looks like we’ll have to make do with what we have here...」
 I lined up the items I’d found in the storage room.
 Using them individually won't work, so... what should I do?
 This is all I have...
 ＃Protagonist
-"Sorry, Narumi-san, I don't have anything that looks useful except for the cola..."
+「Sorry, Narumi-san, I don't have anything that looks useful except for the cola...」
 What should I combine this with...?
 What should I combine this with...?
 What should I combine this with...?
@@ -102,98 +102,98 @@ What should I combine this with...?
 What should I combine this with...?
 What should I combine this with...?
 ＃Protagonist
-"I hope this works..."
+「I hope this works...」
 I took the tool, put my arm through the grate, and tried to move the bar.
 ＃Protagonist
-"Hup... ngh...!"
+「Hup... ngh...!」
 I swung my arm around, but I couldn't even graze the rod.
 ＃Protagonist
-"Dammit... just a little more..."
+「Dammit... just a little more...」
 ＃Protagonist
-"...Ah"
+「...Ah」
 ＃Narumi
-"It came off!?"
+「It came off!?」
 I pulled my hand back and slowly moved the sliding door.
 ＃Protagonist
-"...I managed to reach it, just barely."
+「...I managed to reach it, just barely.」
 ＃Narumi
-"Thank goodness..."
+「Thank goodness...」
 I supported Narumi-san as she looked ready to collapse onto the floor.
 ＃Protagonist
-"Let's hurry. The culprit might be up to something while we’re stuck down here."
+「Let's hurry. The culprit might be up to something while we’re stuck down here.」
 ＃Narumi
-"Eh, ah... right."
+「Eh, ah... right.」
 ＃Protagonist
-"If something happens... I'll be counting on your skills as a thief, Narumi-san."
+「If something happens... I'll be counting on your skills as a thief, Narumi-san.」
 ＃Narumi
-"...That sounds a bit like blackmail."
+「...That sounds a bit like blackmail.」
 ＃Protagonist
-"It's not."
+「It's not.」
 It's just a fact that we might need your help.
 ＃Narumi
-"Fine, let’s go."
+「Fine, let’s go.」
 We went up the stairs and out of the basement.
 ＃Protagonist
-"I hope this works..."
+「I hope this works...」
 ＃Narumi
-"Um... look, I hate to say it... but no matter how you look at it, isn't that a failure?"
+「Um... look, I hate to say it... but no matter how you look at it, isn't that a failure?」
 ＃Protagonist
-"We won't know until we try."
+「We won't know until we try.」
 I took the tool, put my arm through the grate, and tried to move the bar.
 ＃Protagonist
-"Hup... ngh...!"
+「Hup... ngh...!」
 I swung my arm around, but I couldn't even graze the rod.
 ＃Protagonist
-"Dammit... just a little more..."
+「Dammit... just a little more...」
 ＃Protagonist
-"...Ah"
+「...Ah」
 ＃Narumi
-"Did it come off?"
+「Did it come off?」
 ＃Protagonist
-"Um..."
+「Um...」
 I slowly brought my empty hand back inside.
 ＃Narumi
-"...? Where's the thing you just had?"
+「...? Where's the thing you just had?」
 ＃Protagonist
-"...I dropped it on the floor."
+「...I dropped it on the floor.」
 ＃Narumi
-"What!?"
+「What!?」
 Narumi-san rushed to the door and peered outside.
 ＃Narumi
-"Y... you... what on earth are you doing..."
+「Y... you... what on earth are you doing...」
 ＃Protagonist
-"...I'm sorry."
+「...I'm sorry.」
 ＃Narumi
-"Honestly... now what?"
+「Honestly... now what?」
 ＃Protagonist
-"...Should we just wait for help...?"
+「...Should we just wait for help...?」
 ＃Narumi
-"Our only choice... is to break through this wall."
+「Our only choice... is to break through this wall.」
 Narumi-san said, staring at the wall.
 ＃Protagonist
-"Are you serious?"
+「Are you serious?」
 ＃Narumi
-"You're the one who said we could break through it."
+「You're the one who said we could break through it.」
 ＃Protagonist
-"I did, but..."
+「I did, but...」
 I don't think it's a good idea to go around breaking someone else's house...
 ＃Narumi
-"Then first, peel off this wooden board for me."
+「Then first, peel off this wooden board for me.」
 ＃Protagonist
-"Sigh..."
+「Sigh...」
 I guess I have no choice... I don't know how long it’ll take, but it’s better than doing nothing.
 Feeling like a prison escapee, I put my hand into the gap in the wall.
 After shaking the door for a while, there was a sudden clatter.
 ＃Protagonist
-"Ah..."
+「Ah...」
 ＃Narumi
-"Did it open?"
+「Did it open?」
 ＃Protagonist
-"Ye-Yes..."
+「Ye-Yes...」
 The door opened.
 The rod was lying on the floor outside.
 ＃Protagonist
-"Who on earth would do such a thing..."
+「Who on earth would do such a thing...」
 ＃Narumi
-"Whatever, let's go up."
+「Whatever, let's go up.」
 We went up the stairs and out of the basement.

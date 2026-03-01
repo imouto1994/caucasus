@@ -1,36 +1,36 @@
 ＃Souko
-"This was likely the cause of the second blackout, and perhaps the direct cause of Ai-san's death... It's a classic, old-school method."
+「This was likely the cause of the second blackout, and perhaps the direct cause of Ai-san's death... It's a classic, old-school method.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"...I am sorry, I do not really know."
+「...I am sorry, I do not really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Would this count as a long-distance murder...? Still, I can't wrap my head around why they'd go through the trouble of decapitating her afterward..."
+「Would this count as a long-distance murder...? Still, I can't wrap my head around why they'd go through the trouble of decapitating her afterward...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Shion
-"Um... I'm sorry, I don't really know..."
+「Um... I'm sorry, I don't really know...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"...I believe it is likely the cord from the lamp placed beside the bed..."
+「...I believe it is likely the cord from the lamp placed beside the bed...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"I don't really know."
+「I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I'm sorry... I don't really know."
+「I'm sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I don't really know about that."
+「I don't really know about that.」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,36 +1,36 @@
 ＃Protagonist
-"Were you able to sleep, Souko-san?"
+「Were you able to sleep, Souko-san?」
 ＃Souko
-"Yes, thanks to you, I slept like a log."
+「Yes, thanks to you, I slept like a log.」
 ＃Maya
-"Kirihara-san? I am sorry, I do not know her well."
+「Kirihara-san? I am sorry, I do not know her well.」
 ＃Protagonist
-"O-oh, I see..."
+「O-oh, I see...」
 ＃Ai
-"Kirihara-san? We’ve only just met, so I don't really know much about her..."
+「Kirihara-san? We’ve only just met, so I don't really know much about her...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Benio
-"She seems quite intelligent. I suppose a college student ought to be intellectual, after all."
+「She seems quite intelligent. I suppose a college student ought to be intellectual, after all.」
 ＃Protagonist
-"I-is that so..."
+「I-is that so...」
 ＃Tsujimura
-"Lady Kirihara...? I am afraid I do not know her well..."
+「Lady Kirihara...? I am afraid I do not know her well...」
 ＃Protagonist
-"O-oh, I see..."
+「O-oh, I see...」
 ＃Takamine
-"Kirihara... Ah, that woman. You can't expect me to know anything about her, can you?"
+「Kirihara... Ah, that woman. You can't expect me to know anything about her, can you?」
 ＃Protagonist
-"Y-you're right..."
+「Y-you're right...」
 ＃Mikanagi
-"Kirihara-san? ...Well, I can't really say..."
+「Kirihara-san? ...Well, I can't really say...」
 ＃Protagonist
-"...I guess that makes sense."
+「...I guess that makes sense.」
 ＃Akane
-"Lady Kirihara? Wouldn't she be in her room?"
+「Lady Kirihara? Wouldn't she be in her room?」
 ＃Protagonist
-"Um... I suppose so..."
+「Um... I suppose so...」
 ＃Narumi
-"Kirihara-san? ...No idea, I don't know her."
+「Kirihara-san? ...No idea, I don't know her.」
 ＃Protagonist
-"O-oh, I see..."
+「O-oh, I see...」

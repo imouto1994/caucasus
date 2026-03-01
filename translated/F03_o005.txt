@@ -1,32 +1,32 @@
 ＃Souko
-"So that was Shion-san's room... She's made to live in the annex all by herself."
+「So that was Shion-san's room... She's made to live in the annex all by herself.」
 ＃Protagonist
-"Yes..."
+「Yes...」
 ＃Maya
-"That is the room of my youngest daughter, Shion. She is of delicate health, so we have her live in the annex."
+「That is the room of my youngest daughter, Shion. She is of delicate health, so we have her live in the annex.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"The only way to get to the tower is through the door in the back of the office."
+「The only way to get to the tower is through the door in the back of the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Shion
-"...It is my room."
+「...It is my room.」
 ＃Protagonist
-"...That's right."
+「...That's right.」
 ＃Tsujimura
-"With this snow, I must do some shoveling. It would be a serious matter if Lady Shion were to fall."
+「With this snow, I must do some shoveling. It would be a serious matter if Lady Shion were to fall.」
 ＃Protagonist
-"That's true."
+「That's true.」
 ＃Takamine
-"...I heard Shion-kun has lived in that tower since a long time ago."
+「...I heard Shion-kun has lived in that tower since a long time ago.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Mikanagi
-"Shion-san is of delicate health, so she lives in the annex... my father might have given those instructions..."
+「Shion-san is of delicate health, so she lives in the annex... my father might have given those instructions...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Only Lady Shion lives in the annex... It's a bit strange, isn't it?"
+「Only Lady Shion lives in the annex... It's a bit strange, isn't it?」
 ＃Protagonist
-"You're right..."
+「You're right...」

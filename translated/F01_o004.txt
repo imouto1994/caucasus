@@ -1,40 +1,40 @@
 ＃Souko
-"The room Mr. Kousei used to use, right. I'm curious, but if we can't get in, there's no helping it."
+「The room Mr. Kousei used to use, right. I'm curious, but if we can't get in, there's no helping it.」
 ＃Protagonist
-"Yeah."
+「Yeah.」
 ＃Maya
-"It is the room my husband used while he was alive. We have left it exactly as it was."
+「It is the room my husband used while he was alive. We have left it exactly as it was.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"That is the room my father used. I have hardly ever set foot in there myself."
+「That is the room my father used. I have hardly ever set foot in there myself.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"My father's room. It is locked now so that no one can enter."
+「My father's room. It is locked now so that no one can enter.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"That is the room the Master used to use, but it is kept locked now. I am the one in charge of the key."
+「That is the room the Master used to use, but it is kept locked now. I am the one in charge of the key.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Rokuyou
-"The previous head's room... I've never been inside. I imagine it's filled with nothing but music-related things..."
+「The previous head's room... I've never been inside. I imagine it's filled with nothing but music-related things...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"Mr. Kousei's room is off-limits to everyone. It is not a place that concerns you."
+「Mr. Kousei's room is off-limits to everyone. It is not a place that concerns you.」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Mikanagi
-"I don't know much about that room either. Apparently it was the previous head's room... but I don't think you can see the inside."
+「I don't know much about that room either. Apparently it was the previous head's room... but I don't think you can see the inside.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"That room... I haven't been inside either, so..."
+「That room... I haven't been inside either, so...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I hear that room is preserved exactly as it was when the Master was alive... but I don't think there's anything particularly unusual in there."
+「I hear that room is preserved exactly as it was when the Master was alive... but I don't think there's anything particularly unusual in there.」
 ＃Protagonist
-"I see..."
+「I see...」

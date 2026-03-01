@@ -1,24 +1,24 @@
 ＃Souko
-"Benio-san was in the dining hall, but she left around 12:15. She said she was going back to her room."
+「Benio-san was in the dining hall, but she left around 12:15. She said she was going back to her room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"I was talking with Kirihara-san in the dining hall, but I went back to my room around 12:15."
+「I was talking with Kirihara-san in the dining hall, but I went back to my room around 12:15.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I was in the office the entire time, so I did not happen to see Lady Benio..."
+「I was in the office the entire time, so I did not happen to see Lady Benio...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Lady Benio was in the dining hall. She was with Mistress Kirihara."
+「Lady Benio was in the dining hall. She was with Mistress Kirihara.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"As for Lady Benio, she seemed to be in the dining hall, but when I went there around 12:30, only Kirihara-san was there."
+「As for Lady Benio, she seemed to be in the dining hall, but when I went there around 12:30, only Kirihara-san was there.」
 ＃Protagonist
-"I see..."
+「I see...」

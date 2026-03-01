@@ -1,36 +1,36 @@
 ＃Souko
-"If she was killed in the music room, she should have passed right by my door, but I didn't notice a thing. If so, it must have been after midnight when I was asleep..."
+「If she was killed in the music room, she should have passed right by my door, but I didn't notice a thing. If so, it must have been after midnight when I was asleep...」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Maya
-"Why Benio too... for what reason...?"
+「Why Benio too... for what reason...?」
 ＃Protagonist
-"...That is what I am investigating right now."
+「...That is what I am investigating right now.」
 ＃Ai
-"Why did Benio have to be killed!? Come on, tell me!"
+「Why did Benio have to be killed!? Come on, tell me!」
 ＃Protagonist
-"I don't... know yet..."
+「I don't... know yet...」
 ＃Shion
-"Lady Benio... why...?"
+「Lady Benio... why...?」
 ＃Protagonist
-"Shion-san..."
+「Shion-san...」
 ＃Tsujimura
-"Even Lady Benio... just what is going on...?"
+「Even Lady Benio... just what is going on...?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Takamine
-"If Benio-kun was killed during the night... I doubt there would be any witnesses or anything..."
+「If Benio-kun was killed during the night... I doubt there would be any witnesses or anything...」
 ＃Protagonist
-"Maybe so..."
+「Maybe so...」
 ＃Mikanagi
-"...Considering Benio-san's body wasn't discovered until morning, it'll be difficult to find any witnesses from before the crime was committed..."
+「...Considering Benio-san's body wasn't discovered until morning, it'll be difficult to find any witnesses from before the crime was committed...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Akane
-"Just what could Lady Benio have possibly done...!?"
+「Just what could Lady Benio have possibly done...!?」
 ＃Protagonist
-"I feel... exactly the same way..."
+「I feel... exactly the same way...」
 ＃Narumi
-"To think even Lady Benio was targeted... I didn't think she was the type to die so easily..."
+「To think even Lady Benio was targeted... I didn't think she was the type to die so easily...」
 ＃Protagonist
-"True..."
+「True...」

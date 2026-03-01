@@ -1,36 +1,36 @@
 ＃Souko
-"While you were locked away, I patrolled the mansion a few times. I didn't see anyone acting particularly suspicious, though..."
+「While you were locked away, I patrolled the mansion a few times. I didn't see anyone acting particularly suspicious, though...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"We've caused you quite a bit of trouble... I'm terribly sorry."
+「We've caused you quite a bit of trouble... I'm terribly sorry.」
 ＃Protagonist
-"No, please don't let it worry you."
+「No, please don't let it worry you.」
 ＃Ai
-"Kirihara-san is remarkably composed, isn't she? Even in a situation like this..."
+「Kirihara-san is remarkably composed, isn't she? Even in a situation like this...」
 ＃Protagonist
-"She is..."
+「She is...」
 ＃Shion
-"Kirihara-san... she has a bit of a frightening aura about her, doesn't she?"
+「Kirihara-san... she has a bit of a frightening aura about her, doesn't she?」
 ＃Protagonist
-"Do you think so...?"
+「Do you think so...?」
 ＃Tsujimura
-"As for Mistress Kirihara, she was busy investigating the mansion..."
+「As for Mistress Kirihara, she was busy investigating the mansion...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"If she's hunting for the killer, I'd like her to find them and be done with it."
+「If she's hunting for the killer, I'd like her to find them and be done with it.」
 ＃Protagonist
-"Y-Yeah, I suppose so..."
+「Y-Yeah, I suppose so...」
 ＃Mikanagi
-"As for Kirihara-san, she seemed to be checking around the mansion."
+「As for Kirihara-san, she seemed to be checking around the mansion.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"As for Mistress Kirihara, she appeared to be investigating the music room..."
+「As for Mistress Kirihara, she appeared to be investigating the music room...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Kirihara-san, huh? She seems to be looking into all sorts of things."
+「Kirihara-san, huh? She seems to be looking into all sorts of things.」
 ＃Protagonist
-"I see..."
+「I see...」

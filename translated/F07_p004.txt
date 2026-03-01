@@ -1,72 +1,72 @@
 ＃Souko
-"If you're looking for Benio-san, she should be in the infirmary... but her life isn't in danger, so you can relax."
+「If you're looking for Benio-san, she should be in the infirmary... but her life isn't in danger, so you can relax.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Souko
-"To think even Benio-san would be murdered... the pool of victims and suspects is finally starting to narrow down..."
+「To think even Benio-san would be murdered... the pool of victims and suspects is finally starting to narrow down...」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Maya
-"As for Benio... I don't want her getting involved in anything dangerous..."
+「As for Benio... I don't want her getting involved in anything dangerous...」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Maya
-"Why Benio too...? That's why I told her to stop this dangerous business..."
+「Why Benio too...? That's why I told her to stop this dangerous business...」
 ＃Protagonist
-"Maya-san..."
+「Maya-san...」
 ＃Ai
-"...As I feared, Benio was targeted as well... Why did it come to this..."
+「...As I feared, Benio was targeted as well... Why did it come to this...」
 ＃Protagonist
-"I don't know..."
+「I don't know...」
 ＃Ai
-"Ah... Benio...! Why, why did you have to die...!!"
+「Ah... Benio...! Why, why did you have to die...!!」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Shion
-"Lady Benio... is she going to be all right...?"
+「Lady Benio... is she going to be all right...?」
 ＃Protagonist
-"She's just resting as a precaution for now. There's no need to worry."
+「She's just resting as a precaution for now. There's no need to worry.」
 ＃Shion
-"Lady Benio... why...?"
+「Lady Benio... why...?」
 ＃Protagonist
-"Shion-san..."
+「Shion-san...」
 ＃Tsujimura
-"...At any rate, I am relieved that Lady Benio is safe."
+「...At any rate, I am relieved that Lady Benio is safe.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Tsujimura
-"With Lady Benio gone as well... what will become of us now...?"
+「With Lady Benio gone as well... what will become of us now...?」
 ＃Protagonist
-"...I don't know."
+「...I don't know.」
 ＃Takamine
-"So Benio-kun pulled through... but we can't let our guard down just yet."
+「So Benio-kun pulled through... but we can't let our guard down just yet.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Takamine
-"Even Benio-kun was killed... Hurry up and drag the killer out."
+「Even Benio-kun was killed... Hurry up and drag the killer out.」
 ＃Protagonist
-"Y-Yeah..."
+「Y-Yeah...」
 ＃Mikanagi
-"I'm having Benio-san rest in the infirmary for now."
+「I'm having Benio-san rest in the infirmary for now.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"To think Benio-san would be murdered too... I don't want to think it's over an inheritance dispute, but..."
+「To think Benio-san would be murdered too... I don't want to think it's over an inheritance dispute, but...」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Akane
-"Lady Benio is resting in the infirmary."
+「Lady Benio is resting in the infirmary.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Lady Benio... why did she have to be murdered...?"
+「Lady Benio... why did she have to be murdered...?」
 ＃Protagonist
-"Akane-san..."
+「Akane-san...」
 ＃Narumi
-"The person who attacked Lady Benio, huh... it'd be best to ask the Lady herself, but..."
+「The person who attacked Lady Benio, huh... it'd be best to ask the Lady herself, but...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Narumi
-"...With Lady Benio murdered as well, have you grasped the killer's intent even a little?"
+「...With Lady Benio murdered as well, have you grasped the killer's intent even a little?」
 ＃Protagonist
-"No... not yet."
+「No... not yet.」

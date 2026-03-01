@@ -1,90 +1,90 @@
 I’ve come to the front of Tsujimura-san's room.
 I knock on the door.
 ＃Protagonist
-"Huh... I guess he's not in."
+「Huh... I guess he's not in.」
 Even after waiting, there was no response.
 It can't be helped; I'll head elsewhere.
 I’ve come to the front of Tsujimura-san's room.
 I knock on the door.
 ＃Tsujimura
-"Yes, who is it?"
+「Yes, who is it?」
 ＃Protagonist
-"Hello, Tsujimura-san."
+「Hello, Tsujimura-san.」
 ＃Tsujimura
-"Ah, it was you."
+「Ah, it was you.」
 ＃Protagonist
-"Do you have a moment?"
+「Do you have a moment?」
 ＃Tsujimura
-"Yes, I don't mind. Please, come inside."
+「Yes, I don't mind. Please, come inside.」
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 I enter Tsujimura-san's room.
 ＃Tsujimura
-"Pardon the mess. So, what can I do for you?"
+「Pardon the mess. So, what can I do for you?」
 ＃Protagonist
-"Um..."
+「Um...」
 I’ve come to the front of Tsujimura-san's room again.
 I knock on the door.
 ＃Tsujimura
-"Yes, who is it?"
+「Yes, who is it?」
 ＃Protagonist
-"Hello, Tsujimura-san."
+「Hello, Tsujimura-san.」
 ＃Tsujimura
-"Ah, it was you. What is it this time?"
+「Ah, it was you. What is it this time?」
 ＃Protagonist
-"Do you have a moment?"
+「Do you have a moment?」
 ＃Tsujimura
-"Yes, I don't mind. Please, come inside."
+「Yes, I don't mind. Please, come inside.」
 ＃Protagonist
-"Excuse me."
+「Excuse me.」
 I enter Tsujimura-san's room.
 ＃Tsujimura
-"What can I do for you?"
+「What can I do for you?」
 ＃Protagonist
-"Um..."
+「Um...」
 I’ve come to the front of Tsujimura-san's room.
 I knock on the door.
 ＃Protagonist
-"Huh... I guess he's not in."
+「Huh... I guess he's not in.」
 Even after waiting, there was no response.
 ＃Akane
-"Tsujimura-san is usually in the office, after all."
+「Tsujimura-san is usually in the office, after all.」
 ＃Protagonist
-"I see..."
+「I see...」
 It can't be helped; I'll head elsewhere.
 I’ve come to the front of Tsujimura-san's room.
 Akane-san knocks on the door.
 ＃Tsujimura
-"Yes, who is it?"
+「Yes, who is it?」
 ＃Akane
-"Tsujimura-san, it's Hiyama."
+「Tsujimura-san, it's Hiyama.」
 ＃Tsujimura
-"What's the matter?"
+「What's the matter?」
 ＃Protagonist
-"Have you seen Ai-san?"
+「Have you seen Ai-san?」
 ＃Tsujimura
-"Lady Ai...? No, I haven't seen her."
+「Lady Ai...? No, I haven't seen her.」
 ＃Akane
-"We haven't been able to find her anywhere for a while now."
+「We haven't been able to find her anywhere for a while now.」
 ＃Tsujimura
-"Please search thoroughly. I shall search as well."
+「Please search thoroughly. I shall search as well.」
 ＃Protagonist
-"Sorry to trouble you, Tsujimura-san."
+「Sorry to trouble you, Tsujimura-san.」
 ＃Tsujimura
-"Not at all, it's not something you should apologize for. This is a duty we servants should be performing ourselves. Well then."
+「Not at all, it's not something you should apologize for. This is a duty we servants should be performing ourselves. Well then.」
 With that, Tsujimura-san hurried off down the corridor.
 ＃Akane
-"Let's go too."
+「Let's go too.」
 ＃Protagonist
-"Right."
+「Right.」
 We decided to search for her in another location.
 I’ve come to the front of Tsujimura-san's room.
 I knock on the door.
 ＃Protagonist
-"Huh... I guess he's not in."
+「Huh... I guess he's not in.」
 Even after waiting, there was no response.
 ＃Akane
-"Well, Tsujimura-san is also out searching for Lady Ai."
+「Well, Tsujimura-san is also out searching for Lady Ai.」
 ＃Protagonist
-"...That's right."
+「...That's right.」
 It can't be helped; I'll head elsewhere.

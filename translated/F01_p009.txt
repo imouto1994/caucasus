@@ -1,40 +1,40 @@
 ＃Souko
-"Akane-san? she seems like a serious, good girl."
+「Akane-san? she seems like a serious, good girl.」
 ＃Protagonist
-"She does."
+「She does.」
 ＃Maya
-"Akane works very hard. She's very attentive to the smallest details."
+「Akane works very hard. She's very attentive to the smallest details.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Akane-san? She works very hard."
+「Akane-san? She works very hard.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Akane-san? She is a very good person. A bit scatterbrained at times, but..."
+「Akane-san? She is a very good person. A bit scatterbrained at times, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Ms. Hiyama? She handles her work properly, and I have no complaints..."
+「Ms. Hiyama? She handles her work properly, and I have no complaints...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Rokuyou
-"Akane? She seems a bit flighty, but she's giving it her all, isn't she?"
+「Akane? She seems a bit flighty, but she's giving it her all, isn't she?」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"Hiyama-kun... to think someone would come to the depths of the mountains to work so hard."
+「Hiyama-kun... to think someone would come to the depths of the mountains to work so hard.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Akane-san... maybe she's shy, she hasn't talked to me much."
+「Akane-san... maybe she's shy, she hasn't talked to me much.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Eh, about me!? No, there's nothing to tell, really!"
+「Eh, about me!? No, there's nothing to tell, really!」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... ah, don't tell anyone I said that, okay?"
+「About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... ah, don't tell anyone I said that, okay?」
 ＃Protagonist
-"Uh, sure..."
+「Uh, sure...」

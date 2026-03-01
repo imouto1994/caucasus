@@ -1,44 +1,44 @@
 I’ve arrived at the dining hall.
 ＃Akane
-"Ah, good morning."
+「Ah, good morning.」
 Akane-san was there.
 ＃Protagonist
-"Good morning, Akane-san."
+「Good morning, Akane-san.」
 ＃Akane
-"Are you here for breakfast?"
+「Are you here for breakfast?」
 ＃Protagonist
-"Yes. Is there anything ready?"
+「Yes. Is there anything ready?」
 ＃Akane
-"Of course. Please wait just a moment."
+「Of course. Please wait just a moment.」
 With that, Akane-san headed off toward the kitchen.
 As I sat and waited, she soon returned with a tray.
 ＃Akane
-"It's just toast and fried eggs, if that's alright?"
+「It's just toast and fried eggs, if that's alright?」
 ＃Protagonist
-"Yes, thank you."
+「Yes, thank you.」
 I take a large bite of the golden-brown toast.
 ＃Protagonist
-"Hay, Ah-kahn-ay-shahn."
+「Hay, Ah-kahn-ay-shahn.」
 ＃Akane
-"Please finish what's in your mouth before you try to speak."
+「Please finish what's in your mouth before you try to speak.」
 Akane-san scolds me with a laugh.
 ＃Protagonist
-"Ngh... um, do you have a moment?"
+「Ngh... um, do you have a moment?」
 ＃Akane
-"Yes? What is it?"
+「Yes? What is it?」
 I’ve returned to the dining hall.
 ＃Akane
-"Oh, is something the matter?"
+「Oh, is something the matter?」
 ＃Protagonist
-"Um..."
+「Um...」
 I’ve arrived at the dining hall.
 ＃Benio
-"Oh, it's you."
+「Oh, it's you.」
 Benio-san was eating breakfast alone.
 Akane-san was nearby, attending to her.
 ＃Benio
-"Are you here for breakfast too?"
+「Are you here for breakfast too?」
 ＃Protagonist
-"No, I..."
+「No, I...」
 Right now, there's something I'd rather do than eat.
 Should I talk to Benio-san or Akane-san?

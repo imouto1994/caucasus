@@ -1,36 +1,36 @@
 ＃Souko
-"So that was Shion-san's room... She’s the only one living out there in the annex, isn't she?"
+「So that was Shion-san's room... She’s the only one living out there in the annex, isn't she?」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Maya
-"That is the room of my youngest daughter, Shion. Her health is delicate, so we have her stay in the annex."
+「That is the room of my youngest daughter, Shion. Her health is delicate, so we have her stay in the annex.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"...Yes, that is Shion's room. Because her body is weak, she has lived there for a very long time."
+「...Yes, that is Shion's room. Because her body is weak, she has lived there for a very long time.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"If you want to get to the tower, your only option is to go through the door at the back of the office."
+「If you want to get to the tower, your only option is to go through the door at the back of the office.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Tsujimura
-"With all this snow, I shall have to do some shoveling myself. It would be a disaster if Lady Shion were to trip and fall."
+「With all this snow, I shall have to do some shoveling myself. It would be a disaster if Lady Shion were to trip and fall.」
 ＃Protagonist
-"You're right."
+「You're right.」
 ＃Takamine
-"...I’ve heard that Shion-kun has lived in that tower since long ago."
+「...I’ve heard that Shion-kun has lived in that tower since long ago.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Mikanagi
-"I’m told Shion-san lives in the annex due to her poor health... but it’s possible my father was the one who gave those instructions..."
+「I’m told Shion-san lives in the annex due to her poor health... but it’s possible my father was the one who gave those instructions...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I’m the one who brings Lady Shion her meals, though she usually eats them in the office."
+「I’m the one who brings Lady Shion her meals, though she usually eats them in the office.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Narumi
-"Only Lady Shion lives out in the annex... It’s a bit strange, isn't it?"
+「Only Lady Shion lives out in the annex... It’s a bit strange, isn't it?」
 ＃Protagonist
-"It is..."
+「It is...」

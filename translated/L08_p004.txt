@@ -1,32 +1,32 @@
 ＃Souko
-"...There's no doubt she was struck by someone... but the culprit vanished into thin air..."
+「...There's no doubt she was struck by someone... but the culprit vanished into thin air...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"So Benio was safe... thank goodness..."
+「So Benio was safe... thank goodness...」
 ＃Protagonist
-"...Yeah."
+「...Yeah.」
 ＃Ai
-"To think even Benio would be attacked... I've had enough..."
+「To think even Benio would be attacked... I've had enough...」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Shion
-"Lady Benio was safe, then...?"
+「Lady Benio was safe, then...?」
 ＃Protagonist
-"Yes... there's no need to worry."
+「Yes... there's no need to worry.」
 ＃Tsujimura
-"We were talking in the office until about two... She must have been attacked after returning to her room..."
+「We were talking in the office until about two... She must have been attacked after returning to her room...」
 ＃Protagonist
-"...I believe so."
+「...I believe so.」
 ＃Takamine
-"...I was in my room, so I didn't see Benio-kun."
+「...I was in my room, so I didn't see Benio-kun.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I wonder if Lady Benio will be all right..."
+「I wonder if Lady Benio will be all right...」
 ＃Protagonist
-"Yes, there's no need to worry."
+「Yes, there's no need to worry.」
 ＃Narumi
-"She was hit on the head, right? She'd better keep quiet and rest for a while."
+「She was hit on the head, right? She'd better keep quiet and rest for a while.」
 ＃Protagonist
-"True..."
+「True...」

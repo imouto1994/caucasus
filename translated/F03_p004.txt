@@ -1,32 +1,32 @@
 ＃Souko
-"She's seriously trying to investigate the case too. It's encouraging."
+「She's seriously trying to investigate the case too. It's encouraging.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"As for Benio... I'd rather she not get involved in anything dangerous..."
+「As for Benio... I'd rather she not get involved in anything dangerous...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Being in a remote place like this makes one starve for stimulation. Doesn't something like this make you feel a bit of a thrill?"
+「Being in a remote place like this makes one starve for stimulation. Doesn't something like this make you feel a bit of a thrill?」
 ＃Protagonist
-"Oh..."
+「Oh...」
 ＃Shion
-"Sister Benio... sometimes I don't know what she's thinking."
+「Sister Benio... sometimes I don't know what she's thinking.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Lady Benio... I'd prefer if she stayed quiet, but... that's probably asking too much..."
+「Lady Benio... I'd prefer if she stayed quiet, but... that's probably asking too much...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Takamine
-"Benio-kun is quick-witted. She seems to be thinking about Rokuyou-kun's case in various ways, but..."
+「Benio-kun is quick-witted. She seems to be thinking about Rokuyou-kun's case in various ways, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"Benio-san is... she's not just a little—she's incredibly headstrong."
+「Benio-san is... she's not just a little—she's incredibly headstrong.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Narumi
-"Lady Benio seems quite enthusiastic."
+「Lady Benio seems quite enthusiastic.」
 ＃Protagonist
-"I see..."
+「I see...」

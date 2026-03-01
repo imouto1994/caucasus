@@ -1,97 +1,97 @@
 ＃Tsujimura
-"Oh, is something the matter?"
+「Oh, is something the matter?」
 Tsujimura-san was in the office.
 ＃Protagonist
-"Hello. Were you in the middle of work?"
+「Hello. Were you in the middle of work?」
 ＃Tsujimura
-"Not at all. Did you need something?"
+「Not at all. Did you need something?」
 ＃Protagonist
-"Well..."
+「Well...」
 ＃Tsujimura
-"Oh, what's the matter this time?"
+「Oh, what's the matter this time?」
 Tsujimura-san was still in the office.
 ＃Protagonist
-"Well..."
+「Well...」
 Tsujimura-san and Shion-san were in the office.
 ＃Tsujimura
-"Oh, what is it?"
+「Oh, what is it?」
 ＃Protagonist
-"I thought I'd do a quick patrol of the manor. It would be terrible if something happened again."
+「I thought I'd do a quick patrol of the manor. It would be terrible if something happened again.」
 ＃Tsujimura
-"I see. ...No, truly, that is likely a task I ought to be performing myself..."
+「I see. ...No, truly, that is likely a task I ought to be performing myself...」
 ＃Protagonist
-"No, it's more helpful if you stay here, Tsujimura-san. It's probably better for Shion-san to have someone nearby as well."
+「No, it's more helpful if you stay here, Tsujimura-san. It's probably better for Shion-san to have someone nearby as well.」
 ＃Shion
-"Yes... that's true."
+「Yes... that's true.」
 Now then, I'd like to ask some questions, but I wonder which one I should ask.
 Tsujimura-san and Shion-san were in the office.
 ＃Tsujimura
-"Oh, is there something else?"
+「Oh, is there something else?」
 ＃Protagonist
-"Yes..."
+「Yes...」
 I'd like to ask one of them some questions.
 I came to the office, but Tsujimura-san didn't seem to be there.
 There's no point in staying here if no one's around, but...
 ＃Tsujimura
-"Oh, is something the matter?"
+「Oh, is something the matter?」
 Tsujimura-san was in the office.
 ＃Akane
-"Tsujimura-san, have you seen Lady Ai?"
+「Tsujimura-san, have you seen Lady Ai?」
 ＃Tsujimura
-"Lady Ai...? Wouldn't she be in her room?"
+「Lady Ai...? Wouldn't she be in her room?」
 ＃Protagonist
-"The thing is... she isn't there."
+「The thing is... she isn't there.」
 ＃Tsujimura
-"If she isn't in her room... then I'm afraid I wouldn't know..."
+「If she isn't in her room... then I'm afraid I wouldn't know...」
 ＃Protagonist
-"I see... thank you."
+「I see... thank you.」
 ＃Akane
-"Let's look somewhere else."
+「Let's look somewhere else.」
 We parted ways with Tsujimura-san and decided to search another location.
 Tsujimura-san was still in the office.
 ＃Tsujimura
-"Did you find Lady Ai?"
+「Did you find Lady Ai?」
 ＃Protagonist
-"No... not yet."
+「No... not yet.」
 ＃Tsujimura
-"I'll let her know you were looking for her if I happen to see her."
+「I'll let her know you were looking for her if I happen to see her.」
 ＃Akane
-"Thank you very much."
+「Thank you very much.」
 We decided to search for Ai-san in a different location.
 Tsujimura-san and Shion-san were in the office.
 ＃Tsujimura
-"Oh, what is it?"
+「Oh, what is it?」
 ＃Protagonist
-"Have you seen Ai-san?"
+「Have you seen Ai-san?」
 ＃Tsujimura
-"Lady Ai, you say...? Lady Shion, do you know anything?"
+「Lady Ai, you say...? Lady Shion, do you know anything?」
 ＃Shion
-"Sister Ai... No, I haven't seen her."
+「Sister Ai... No, I haven't seen her.」
 ＃Protagonist
-"...I see. Please let me know if you see her."
+「...I see. Please let me know if you see her.」
 ＃Shion
-"Yes... I understand."
+「Yes... I understand.」
 ＃Akane
-"Let's try looking somewhere else."
+「Let's try looking somewhere else.」
 ＃Protagonist
-"Right. ...Please excuse us."
+「Right. ...Please excuse us.」
 We decided to search elsewhere.
 Tsujimura-san and Shion-san were still in the office.
 ＃Tsujimura
-"Did you find Lady Ai?"
+「Did you find Lady Ai?」
 ＃Protagonist
-"No... not yet."
+「No... not yet.」
 ＃Akane
-"Let's try looking somewhere else."
+「Let's try looking somewhere else.」
 ＃Protagonist
-"Right. ...Please excuse us."
+「Right. ...Please excuse us.」
 We decided to search elsewhere.
 I came to the office.
 ＃Akane
-"Tsujimura-san doesn't seem to be here."
+「Tsujimura-san doesn't seem to be here.」
 ＃Protagonist
-"It seems so."
+「It seems so.」
 I took a quick look around the office, but of course, there was no sign of Ai-san.
 ＃Akane
-"Let's look somewhere else."
+「Let's look somewhere else.」
 Following Akane-san's lead, we decided to head elsewhere.

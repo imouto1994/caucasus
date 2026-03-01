@@ -1,40 +1,40 @@
 ＃Souko
-"Takamine-san, huh... I don't see any particular reason for him to kill Rokuyou-san. Don't judge him just by his looks."
+「Takamine-san, huh... I don't see any particular reason for him to kill Rokuyou-san. Don't judge him just by his looks.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"Attorney Takamine and Isamu-san weren't exactly close. They may have spoken regarding the ceremony and such, but..."
+「Attorney Takamine and Isamu-san weren't exactly close. They may have spoken regarding the ceremony and such, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"Takamine-san took over the role of the Nanatsuki family's legal counsel from his father. I believe he's someone who sees things very clearly."
+「Takamine-san took over the role of the Nanatsuki family's legal counsel from his father. I believe he's someone who sees things very clearly.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"In Takamine's case, you notice that face before you even think about a crime. That doesn't mean I'm prepared to say he's not the killer, though."
+「In Takamine's case, you notice that face before you even think about a crime. That doesn't mean I'm prepared to say he's not the killer, though.」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Shion
-"Master Takamine... I'm sorry. I... don't know him well."
+「Master Takamine... I'm sorry. I... don't know him well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I don't think there was anything in particular between Master Takamine and Master Rokuyou..."
+「I don't think there was anything in particular between Master Takamine and Master Rokuyou...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"Last night I went straight to my room and slept. I'm a heavy sleeper, so I wouldn't know what was happening outside."
+「Last night I went straight to my room and slept. I'm a heavy sleeper, so I wouldn't know what was happening outside.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"Takamine-san is a lawyer specifically for the Nanatsuki family. He couldn't be stationed here if he were working elsewhere."
+「Takamine-san is a lawyer specifically for the Nanatsuki family. He couldn't be stationed here if he were working elsewhere.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"Master Takamine's room is opposite Master Rokuyou's... but the soundproofing is good, so I doubt he heard a thing."
+「Master Takamine's room is opposite Master Rokuyou's... but the soundproofing is good, so I doubt he heard a thing.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Takamine-san? He's a bit shady, but I guess he's still a lawyer."
+「Takamine-san? He's a bit shady, but I guess he's still a lawyer.」
 ＃Protagonist
-"I... I see."
+「I... I see.」

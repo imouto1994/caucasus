@@ -1,31 +1,31 @@
 ＃Souko
-"So the killer remains a mystery after all..."
+「So the killer remains a mystery after all...」
 Souko-san muttered to herself.
 ＃Protagonist
-"It seems so..."
+「It seems so...」
 ＃Souko
-"We should probably re-examine everything and try to narrow down our list of suspects to some extent."
+「We should probably re-examine everything and try to narrow down our list of suspects to some extent.」
 ＃Protagonist
-"Will that really help anything?"
+「Will that really help anything?」
 ＃Souko
-"...Think about it. The suspension bridge was cut, wasn't it? If the phone lines were severed to delay us from reporting the crime... then there’s a high possibility this isn't over yet."
+「...Think about it. The suspension bridge was cut, wasn't it? If the phone lines were severed to delay us from reporting the crime... then there’s a high possibility this isn't over yet.」
 ＃Protagonist
-"No... but why? For what purpose...?"
+「No... but why? For what purpose...?」
 ＃Souko
-"How should I know? I'm simply discussing the possibilities."
+「How should I know? I'm simply discussing the possibilities.」
 ＃Protagonist
-"...Are you saying Rokuyou-san’s murder was just a precursor for something else?"
+「...Are you saying Rokuyou-san’s murder was just a precursor for something else?」
 ＃Souko
-"It's just a possibility."
+「It's just a possibility.」
 Souko-san stood up.
 ＃Souko
-"As long as a killer is still loose in this house, we can't afford to let our guard down. I’ll make sure to warn everyone else about this."
+「As long as a killer is still loose in this house, we can't afford to let our guard down. I’ll make sure to warn everyone else about this.」
 ＃Protagonist
-"Right. Please do."
+「Right. Please do.」
 ＃Souko
-"And you, make sure you stay alert. The thing a killer fears most is the person who's trying to unmask them."
+「And you, make sure you stay alert. The thing a killer fears most is the person who's trying to unmask them.」
 ＃Protagonist
-"Yeah... I’ll keep that in mind."
+「Yeah... I’ll keep that in mind.」
 Souko-san left the room.
 What should I do now...?
 Should I follow Souko-san’s lead and go around warning the others?

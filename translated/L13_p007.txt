@@ -1,20 +1,20 @@
 ＃Maya
-"I wouldn't know, I was resting in my room as well."
+「I wouldn't know, I was resting in my room as well.」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Ai
-"I’m not sure… I was in my room the entire time."
+「I’m not sure… I was in my room the entire time.」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Tsujimura
-"I believe he was in his room… but I haven't confirmed it."
+「I believe he was in his room… but I haven't confirmed it.」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Takamine
-"I was in my room the whole time. Though I doubt anyone can prove it."
+「I was in my room the whole time. Though I doubt anyone can prove it.」
 ＃Protagonist
-"I see…"
+「I see…」
 ＃Narumi
-"I didn't see him once while I was out in the hallway. I’m pretty sure he was in his room the whole time."
+「I didn't see him once while I was out in the hallway. I’m pretty sure he was in his room the whole time.」
 ＃Protagonist
-"I see…"
+「I see…」

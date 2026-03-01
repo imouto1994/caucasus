@@ -1,36 +1,36 @@
 ＃Souko
-"Akane-san? She seems like a diligent, good girl."
+「Akane-san? She seems like a diligent, good girl.」
 ＃Protagonist
-"She does."
+「She does.」
 ＃Maya
-"Akane works very hard. She's very attentive to even the smallest details."
+「Akane works very hard. She's very attentive to even the smallest details.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Ai
-"Akane-san? She's a very hard worker."
+「Akane-san? She's a very hard worker.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Akane? She works hard. Though she can be a bit of a scatterbrain at times."
+「Akane? She works hard. Though she can be a bit of a scatterbrain at times.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Hiyama-san? She handles her duties properly, and I have no particular issues with her..."
+「Hiyama-san? She handles her duties properly, and I have no particular issues with her...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"Hiyama-kun... I think she works remarkably hard for someone who came all the way out to these mountains."
+「Hiyama-kun... I think she works remarkably hard for someone who came all the way out to these mountains.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"Akane-san? Perhaps she's just shy, but we haven't spoken much."
+「Akane-san? Perhaps she's just shy, but we haven't spoken much.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"E-eh, about me!? There's—there's nothing worth talking about!?"
+「E-eh, about me!? There's—there's nothing worth talking about!?」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... Ah, don't tell anyone I said that, okay?"
+「About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... Ah, don't tell anyone I said that, okay?」
 ＃Protagonist
-"Right..."
+「Right...」

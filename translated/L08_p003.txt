@@ -1,32 +1,32 @@
 ＃Souko
-"It's certain she was in her room around two... but no one knows what she did after that..."
+「It's certain she was in her room around two... but no one knows what she did after that...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"I wouldn't know; I was resting in my room as well."
+「I wouldn't know; I was resting in my room as well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"Even after you all came by around two, I stayed in my room. I don't want to go through anything terrifying ever again..."
+「Even after you all came by around two, I stayed in my room. I don't want to go through anything terrifying ever again...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"...I don't know. My room is in the annex, after all..."
+「...I don't know. My room is in the annex, after all...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I believe she was in her room... but I have not confirmed it."
+「I believe she was in her room... but I have not confirmed it.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I believe she was in her room the entire time, but..."
+「I believe she was in her room the entire time, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I wouldn't know; I was on the first floor the whole time."
+「I wouldn't know; I was on the first floor the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」

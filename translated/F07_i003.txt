@@ -1,40 +1,40 @@
 ＃Souko
-"...It looks like it was pulled hard and torn off. I wonder if something happened..."
+「...It looks like it was pulled hard and torn off. I wonder if something happened...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Maya
-"...I certainly believe it is Shion's hair, but..."
+「...I certainly believe it is Shion's hair, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"It looks like Shion's hair... but it's quite damaged..."
+「It looks like Shion's hair... but it's quite damaged...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Benio
-"...It's no mystery for Shion's hair to be lying in the chapel. However... the problem is why it's damaged to this extent."
+「...It's no mystery for Shion's hair to be lying in the chapel. However... the problem is why it's damaged to this extent.」
 ＃Protagonist
-"Yeah... you're right."
+「Yeah... you're right.」
 ＃Shion
-"That... I believe it is my hair..."
+「That... I believe it is my hair...」
 ＃Protagonist
-"I thought so..."
+「I thought so...」
 ＃Tsujimura
-"It appears to be Lady Shion's hair... but it looks like it was pulled with great force..."
+「It appears to be Lady Shion's hair... but it looks like it was pulled with great force...」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Takamine
-"Hair of that color couldn't belong to anyone but Shion-kun."
+「Hair of that color couldn't belong to anyone but Shion-kun.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Mikanagi
-"It's undoubtedly Shion-san's hair. It looks like it was pulled with force... I wonder what happened..."
+「It's undoubtedly Shion-san's hair. It looks like it was pulled with force... I wonder what happened...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I believe it is certainly Lady Shion's hair, but..."
+「I believe it is certainly Lady Shion's hair, but...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I'm pretty sure it's Lady Shion's hair."
+「I'm pretty sure it's Lady Shion's hair.」
 ＃Protagonist
-"I see."
+「I see.」

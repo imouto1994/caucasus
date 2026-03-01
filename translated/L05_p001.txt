@@ -1,24 +1,24 @@
 ＃Souko
-"I was in my room until just before noon. Then I headed to the dining hall."
+「I was in my room until just before noon. Then I headed to the dining hall.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"I remember her coming to the dining hall around noon, but I didn't notice anything strange."
+「I remember her coming to the dining hall around noon, but I didn't notice anything strange.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I don't believe anything in particular happened..."
+「I don't believe anything in particular happened...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"She was in the dining hall when I went to fetch her, though..."
+「She was in the dining hall when I went to fetch her, though...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Kirihara-san? I don't remember clearly, but wasn't she in the dining hall? I was cooped up in the kitchen the whole time, so that's the impression I have."
+「Kirihara-san? I don't remember clearly, but wasn't she in the dining hall? I was cooped up in the kitchen the whole time, so that's the impression I have.」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,24 +1,24 @@
 ＃Souko
-"I don't think it's anything special..."
+「I don't think it's anything special...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Isn't it just a piece of trash?"
+「Isn't it just a piece of trash?」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"It appears to be... garbage..."
+「It appears to be... garbage...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Takamine
-"Is there something wrong with that piece of trash?"
+「Is there something wrong with that piece of trash?」
 ＃Protagonist
-"No..."
+「No...」
 ＃Akane
-"It's just trash... right?"
+「It's just trash... right?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Narumi
-"Were you picking up trash?"
+「Were you picking up trash?」
 ＃Protagonist
-"It's not exactly like that, but..."
+「It's not exactly like that, but...」

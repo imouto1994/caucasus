@@ -1,66 +1,66 @@
 ＃Souko
-"Will this do?"
+「Will this do?」
 ＃Protagonist
-"Yes, thank you."
+「Yes, thank you.」
 ＃Souko
-"Then keep up the good work with the investigation."
+「Then keep up the good work with the investigation.」
 ＃Protagonist
-"I will."
+「I will.」
 I decided to head somewhere else.
 ＃Maya
-"Is that everything?"
+「Is that everything?」
 ＃Protagonist
-"Yes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now."
+「Yes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now.」
 I bowed and decided to head somewhere else.
 ＃Ai
-"Is that everything?"
+「Is that everything?」
 ＃Protagonist
-"Yes, thank you very much. You seem busy, so I'll be going now."
+「Yes, thank you very much. You seem busy, so I'll be going now.」
 I bowed and decided to head somewhere else.
 ＃Benio
-"Will this suffice?"
+「Will this suffice?」
 ＃Protagonist
-"Yes, thank you very much."
+「Yes, thank you very much.」
 ＃Benio
-"If anything else comes up, please don't hesitate to ask."
+「If anything else comes up, please don't hesitate to ask.」
 ＃Protagonist
-"Yes, I'll do that."
+「Yes, I'll do that.」
 I decided to head somewhere else.
 ＃Tsujimura
-"Will this be enough for you?"
+「Will this be enough for you?」
 ＃Protagonist
-"Yes, thank you for your detailed help. You seem busy, so I'll take my leave now."
+「Yes, thank you for your detailed help. You seem busy, so I'll take my leave now.」
 I expressed my thanks and decided to head somewhere else.
 ＃Rokuyou
-"Is that everything?"
+「Is that everything?」
 ＃Protagonist
-"Yes, thank you very much."
+「Yes, thank you very much.」
 ＃Rokuyou
-"If you need anything else, feel free to ask."
+「If you need anything else, feel free to ask.」
 ＃Protagonist
-"Thank you. Well then, excuse me."
+「Thank you. Well then, excuse me.」
 I decided to head somewhere else.
 ＃Takamine
-"Will this do?"
+「Will this do?」
 ＃Protagonist
-"Y-Yes. Thank you. You seem busy, so I'll excuse myself now."
+「Y-Yes. Thank you. You seem busy, so I'll excuse myself now.」
 I bowed and decided to head somewhere else.
 ＃Mikanagi
-"Will this be enough for you?"
+「Will this be enough for you?」
 ＃Protagonist
-"Yes, thank you very much. Excuse me."
+「Yes, thank you very much. Excuse me.」
 I decided to head somewhere else.
 ＃Akane
-"Is that everything?"
+「Is that everything?」
 ＃Protagonist
-"Yes, thank you. You still seem busy, so I'll take my leave now."
+「Yes, thank you. You still seem busy, so I'll take my leave now.」
 I bowed and decided to head somewhere else.
 ＃Narumi
-"Alright then, I guess I'll get back to work too. What a pain."
+「Alright then, I guess I'll get back to work too. What a pain.」
 Narumi-san heads toward the kitchen.
 ＃Protagonist
-"Well then, I'll be going now. Excuse me."
+「Well then, I'll be going now. Excuse me.」
 ＃Narumi
-"See ya. Come back anytime."
+「See ya. Come back anytime.」
 I decided to head somewhere else.
 Now then, what should I do next...

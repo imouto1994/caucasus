@@ -1,40 +1,40 @@
 ＃Souko
-"Around two o'clock? I was in your room then, wasn't I?"
+「Around two o'clock? I was in your room then, wasn't I?」
 ＃Protagonist
-"Ah, that's right."
+「Ah, that's right.」
 ＃Maya
-"I feel terribly sorry that Mistress Kirihara has been dragged into such an ordeal."
+「I feel terribly sorry that Mistress Kirihara has been dragged into such an ordeal.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"...Is something the matter with Mistress Kirihara? She shouldn't have any connection to Isamu-san, but..."
+「...Is something the matter with Mistress Kirihara? She shouldn't have any connection to Isamu-san, but...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Benio
-"...As someone with no ties to this house, I doubt anyone is better suited to play the role of detective than her."
+「...As someone with no ties to this house, I doubt anyone is better suited to play the role of detective than her.」
 ＃Protagonist
-"I-I see..."
+「I-I see...」
 ＃Shion
-"I don't really understand, but... I am sorry."
+「I don't really understand, but... I am sorry.」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Tsujimura
-"I am deeply sorry for the terrible trouble we have caused Mistress Kirihara and her companion..."
+「I am deeply sorry for the terrible trouble we have caused Mistress Kirihara and her companion...」
 ＃Protagonist
-"No, please don't let it worry you..."
+「No, please don't let it worry you...」
 ＃Takamine
-"Normally one would be shaken after something like this, but she is remarkably composed."
+「Normally one would be shaken after something like this, but she is remarkably composed.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Mikanagi
-"Kirihara-san, huh... She seems strong, but you have to be the one to support her."
+「Kirihara-san, huh... She seems strong, but you have to be the one to support her.」
 ＃Protagonist
-"Y-Yeah..."
+「Y-Yeah...」
 ＃Akane
-"Mistress Kirihara? I don't see any particular problem with her..."
+「Mistress Kirihara? I don't see any particular problem with her...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Kirihara-san? Nothing seems strange about her."
+「Kirihara-san? Nothing seems strange about her.」
 ＃Protagonist
-"I see..."
+「I see...」

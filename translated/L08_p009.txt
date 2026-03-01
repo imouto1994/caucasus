@@ -1,32 +1,32 @@
 ＃Souko
-"...I really don't know what she's been doing since she went to check on Mikanagi-sensei. Apparently she was in the infirmary the whole time, but..."
+「...I really don't know what she's been doing since she went to check on Mikanagi-sensei. Apparently she was in the infirmary the whole time, but...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"I wouldn't know; I was resting in my room as well."
+「I wouldn't know; I was resting in my room as well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"...I don't know. My room is in the annex, after all..."
+「...I don't know. My room is in the annex, after all...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"I believe she was in the dining hall..."
+「I believe she was in the dining hall...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I went to check on Mikanagi-sensei... and stayed in the infirmary for a while after that. There was no real reason for it, though..."
+「I went to check on Mikanagi-sensei... and stayed in the infirmary for a while after that. There was no real reason for it, though...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I was on the first floor the whole time, but Akane never came back."
+「I was on the first floor the whole time, but Akane never came back.」
 ＃Protagonist
-"I see..."
+「I see...」

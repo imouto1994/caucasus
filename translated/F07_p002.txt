@@ -1,36 +1,36 @@
 ＃Souko
-"Maya-san seems quite exhausted as well... though I suppose that's only natural."
+「Maya-san seems quite exhausted as well... though I suppose that's only natural.」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Maya
-"...I'll be fine, thank you."
+「...I'll be fine, thank you.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I believe Mother is resting in her room..."
+「I believe Mother is resting in her room...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"Mother... she seems to be very tired."
+「Mother... she seems to be very tired.」
 ＃Protagonist
-"She does..."
+「She does...」
 ＃Tsujimura
-"The Mistress has always been of delicate health... With incidents like these occurring, the mental strain must be ceaseless..."
+「The Mistress has always been of delicate health... With incidents like these occurring, the mental strain must be ceaseless...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"It seems Maya-san has shut herself away in her room. Well, that's likely for the best..."
+「It seems Maya-san has shut herself away in her room. Well, that's likely for the best...」
 ＃Protagonist
-"Yeah..."
+「Yeah...」
 ＃Mikanagi
-"Maya-san hasn't been feeling well since last night, so I've asked her to rest in her room."
+「Maya-san hasn't been feeling well since last night, so I've asked her to rest in her room.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"I believe the Mistress is resting in her room, but..."
+「I believe the Mistress is resting in her room, but...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"The Mistress, huh... It seems her heart is breaking from all these incidents..."
+「The Mistress, huh... It seems her heart is breaking from all these incidents...」
 ＃Protagonist
-"I see..."
+「I see...」

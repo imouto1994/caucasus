@@ -1,32 +1,32 @@
 ＃Souko
-"...If Akane-san has hidden herself away for some reason... we should probably be careful."
+「...If Akane-san has hidden herself away for some reason... we should probably be careful.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"I wouldn't know; I was resting in my room as well."
+「I wouldn't know; I was resting in my room as well.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"I don't know... I've been in my room the whole time."
+「I don't know... I've been in my room the whole time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"...I don't know. My room is in the annex, after all..."
+「...I don't know. My room is in the annex, after all...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Since when exactly has she been missing...?"
+「Since when exactly has she been missing...?」
 ＃Protagonist
-"True..."
+「True...」
 ＃Takamine
-"I wouldn't know anything about what happens outside my room."
+「I wouldn't know anything about what happens outside my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"...It seems she vanished when no one was looking. I wonder what happened..."
+「...It seems she vanished when no one was looking. I wonder what happened...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Narumi
-"Akane... what could have happened to her...?"
+「Akane... what could have happened to her...?」
 ＃Protagonist
-"True..."
+「True...」

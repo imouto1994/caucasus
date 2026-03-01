@@ -1,36 +1,36 @@
 ＃Souko
-"Takamine-san, huh... He seemed to be moving around a lot during the blackout... but his intentions are a total mystery..."
+「Takamine-san, huh... He seemed to be moving around a lot during the blackout... but his intentions are a total mystery...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Maya
-"I am not quite sure what Takamine-san was doing."
+「I am not quite sure what Takamine-san was doing.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Benio
-"Just as Shion and I were leaving the office, Takamine arrived. He seemed to be trying to grasp the situation, but..."
+「Just as Shion and I were leaving the office, Takamine arrived. He seemed to be trying to grasp the situation, but...」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Shion
-"I passed Master Takamine as Lady Benio and I were leaving the office..."
+「I passed Master Takamine as Lady Benio and I were leaving the office...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"As for Master Takamine, it seems he arrived at the office just as I was heading back to my room."
+「As for Master Takamine, it seems he arrived at the office just as I was heading back to my room.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I was sleeping in my room, but I noticed the lights wouldn't turn on, so I intended to go to the office to find out what was going on."
+「I was sleeping in my room, but I noticed the lights wouldn't turn on, so I intended to go to the office to find out what was going on.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"Takamine-san? He said he was resting in his room and didn't even notice the blackout..."
+「Takamine-san? He said he was resting in his room and didn't even notice the blackout...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Master Takamine? I believe I saw him coming out of the office around six o'clock..."
+「Master Takamine? I believe I saw him coming out of the office around six o'clock...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"Takamine-san, huh... He claims he didn't notice the blackout, but I wonder if that's true..."
+「Takamine-san, huh... He claims he didn't notice the blackout, but I wonder if that's true...」
 ＃Protagonist
-"I wonder..."
+「I wonder...」

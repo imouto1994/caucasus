@@ -1,24 +1,24 @@
 ＃Souko
-"At a glance, it looks like just a simple stick... but it might actually be a weapon."
+「At a glance, it looks like just a simple stick... but it might actually be a weapon.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Attacking my sister from behind with this, knocking her out, and then setting the trap... I suppose it's not outside the realm of possibility."
+「Attacking my sister from behind with this, knocking her out, and then setting the trap... I suppose it's not outside the realm of possibility.」
 ＃Protagonist
-"True..."
+「True...」
 ＃Tsujimura
-"I believe this is likely... a spare for the gear shafts we use..."
+「I believe this is likely... a spare for the gear shafts we use...」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Takamine
-"I wouldn't know."
+「I wouldn't know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I'm sorry... I don't really know."
+「I'm sorry... I don't really know.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"I don't really know about that."
+「I don't really know about that.」
 ＃Protagonist
-"I see..."
+「I see...」

@@ -1,11 +1,11 @@
 ＃Akane
-"This way!"
+「This way!」
 Akane-san ran down the walkway surrounding the atrium.
 At the end was an inconspicuous-looking door.
 ＃Akane
-"There’s a ladder inside that leads to a room above."
+「There’s a ladder inside that leads to a room above.」
 ＃Protagonist
-"Understood. I'll go first."
+「Understood. I'll go first.」
 I had no idea what was waiting for us up there.
 I swapped places with Akane-san, who had opened the door, and stepped inside.
 The sound of my footsteps echoed as I climbed the ladder.
@@ -14,16 +14,16 @@ When I reached the top, I realized there was another door right there.
 A tiny window in the door allowed a faint sliver of light—perhaps from outside—to spill through.
 I peered inside.
 ＃Protagonist
-"Ai-san!?"
+「Ai-san!?」
 Ai-san was lying on the floor.
 ...No, her upper body was slightly suspended.
 There was a rope-like object wrapped around her neck, and it was hoisting her up.
 ＃Protagonist
-"Ai-san! Are you alright!?"
+「Ai-san! Are you alright!?」
 I grabbed the doorknob, only to jerk my hand back in shock at a sharp prick of pain.
 The doorknob and an iron pipe running along the wall had been lashed together with wire.
 ＃Protagonist
-"No... you've got to be kidding me..."
+「No... you've got to be kidding me...」
 I tried twisting and pulling the knob, but the door wouldn't budge.
 However, it didn't seem to be locked.
 We were out of time—what should I do?
@@ -31,17 +31,17 @@ We were out of time—what should I do?
 [Have her go fetch a tool]
 [Kick the door down]
 ＃Protagonist
-"Akane-san, can you go find something we can use to get this open?"
+「Akane-san, can you go find something we can use to get this open?」
 ＃Akane
-"Y-yes! Right away!"
+「Y-yes! Right away!」
 Akane-san scrambled back down the ladder.
 Will she make it in time—?
 ＃Protagonist
-"Dammit...!"
+「Dammit...!」
 There was no time for hesitation.
 I used every inch of the narrow walkway to back up and then slammed my foot against the door.
 ＃Protagonist
-"Gngh...!"
+「Gngh...!」
 It didn't even flinch.
 Even so, I tried again and again.
 I continued to kick the door with everything I had.
@@ -50,10 +50,10 @@ Is there... anything I have on me that I can use?
 I can't get this door open like this.
 I pulled out a pair of pliers.
 ＃Protagonist
-"If I use these..."
+「If I use these...」
 They were rusted, but they should be able to cut through.
 ＃Protagonist
-"Gngh..."
+「Gngh...」
 I squeezed with every ounce of strength in my body.
 —It snapped.
 At the same time, the hinge on the pliers itself gave way and broke.
@@ -61,27 +61,27 @@ I tossed the broken tool aside and unwound the remaining wire from the knob.
 The door swung open.
 It’s thin, but maybe I can break the door with this fire poker.
 ＃Protagonist
-"Take this—!!"
+「Take this—!!」
 I slammed the fire poker against the doorknob.
 ＃Protagonist
-"Dammit, come on!!"
+「Dammit, come on!!」
 After striking it repeatedly, the wire slowly but surely began to loosen.
 ＃Protagonist
-"Just a little more—!"
+「Just a little more—!」
 The wire finally snapped and went flying.
 ＃Protagonist
-"Yes!"
+「Yes!」
 The fire poker was ruined, but at least the door was open.
 I cleared away the remaining wire and shoved the door open.
 ＃Protagonist
-"Ai-san!"
+「Ai-san!」
 I burst into the mechanical room and rushed to Ai-san’s side.
 She seemed to be unconscious.
 The rope around her neck was pulled taut, and it wouldn't loosen even when I tried to lift and support her body.
 ＃Protagonist
-"Akane-san, please support Ai-san’s weight!"
+「Akane-san, please support Ai-san’s weight!」
 ＃Akane
-"Y-yes...!"
+「Y-yes...!」
 I swapped places with Akane-san and traced the rope to its source.
 It was a machine that appeared to be the clock mechanism.
 The end of the rope was caught firmly in one of the rotating gears.
@@ -91,13 +91,13 @@ If this keeps up, Ai-san is going to—!
 [Remove the rope by hand]
 I grabbed the rope and tried to pull it free.
 ＃Protagonist
-"Gngh...!"
+「Gngh...!」
 It wouldn't budge.
 Worse, I could feel wire braided into the rope.
 It dug into the flesh of my fingers.
 I could feel the mechanism trying to winch me in along with the rope.
 ＃Protagonist
-"Shit—!!"
+「Shit—!!」
 Is there... anything I have on me that I can use?
 It's no use... I can't stop this rope with anything I have—!
 Time was heartlessly ticking away.
@@ -108,25 +108,25 @@ A gear somewhere must have snapped, because the tension on the rope suddenly van
 I grabbed the rope and gave it a hard yank.
 The wire-reinforced rope finally came free from the machine.
 ＃Protagonist
-"Akane-san, how is she!?"
+「Akane-san, how is she!?」
 ＃Akane
-"Ojousama! Please, wake up!"
+「Ojousama! Please, wake up!」
 Having removed the rope from Ai-san’s neck, Akane-san began performing artificial respiration.
 Is she going to be okay—!?
 ＃Ai
-"...*Cough, cough!*"
+「...*Cough, cough!*」
 ...She was alive.
 ＃Protagonist
-"Thank... thank God..."
+「Thank... thank God...」
 I slumped to the floor where I stood.
 I had managed to save her... somehow.
 ＃Akane
-"Ojousama... thank heaven..."
+「Ojousama... thank heaven...」
 Akane-san’s eyes welled up with tears.
 ＃Akane
-"...I’ll go fetch Dr. Mikanagi. Please, look after her until I get back."
+「...I’ll go fetch Dr. Mikanagi. Please, look after her until I get back.」
 ＃Protagonist
-"Understood."
+「Understood.」
 Leaving the coughing Ai-san lying on the floor, Akane-san rushed out of the mechanical room.
 ...It's no use.
 A flimsy, bent piece of wood like this is never going to stop that mechanism...
@@ -134,7 +134,7 @@ Time was heartlessly ticking away.
 I had a knife.
 I lunged for the rope and pressed the blade against it.
 ＃Protagonist
-"Ah..."
+「Ah...」
 There was wire braided into the rope.
 A small knife like this couldn't even leave a scratch on it.
 Even so, I sawed the blade against it again and again.
@@ -144,19 +144,19 @@ But it stopped halfway through.
 The mechanism had reached its limit.
 Ai-san’s body swayed slightly from the center of the rope, which was now pulled death-tight.
 ＃Akane
-"I brought the pliers... oh..."
+「I brought the pliers... oh...」
 Akane-san saw my face and the words died in her throat.
 ＃Protagonist
-"...Let's get it open."
+「...Let's get it open.」
 Maybe there’s still a sliver of hope.
 I took the pliers from Akane-san and cut through the wire that was holding the door shut.
 No one said a word.
 ＃Akane
-"Ojousama...!"
+「Ojousama...!」
 The door swung open, and Akane-san rushed to Ai-san’s side.
 But almost instantly.
 ＃Akane
-"Ojousama... Ai-ojousama...!!"
+「Ojousama... Ai-ojousama...!!」
 Akane-san peered into Ai-san’s face and burst into uncontrollable sobbing.
 I... I could only stand there, frozen, unable to do a single thing.
 ...The clock's bell began to toll.
@@ -164,10 +164,10 @@ But it stopped halfway through.
 The mechanism had reached its limit.
 Ai-san’s body swayed slightly from the center of the rope, which was now pulled death-tight.
 ＃Akane
-"No..."
+「No...」
 Akane-san covered her face with her hands.
 ＃Protagonist
-"We don't know... we don't know for sure yet. We have to get this open..."
+「We don't know... we don't know for sure yet. We have to get this open...」
 Even as I said the words.
 I remembered that if a person is deprived of oxygen for more than a minute, their chances of survival are almost zero.
 ...The clock's bell began to toll.
@@ -175,6 +175,6 @@ But it stopped halfway through.
 The mechanism had reached its limit.
 Ai-san’s body swayed slightly from the center of the rope, which was now pulled death-tight.
 ＃Akane
-"Ojousama... Ai-ojousama...!!"
+「Ojousama... Ai-ojousama...!!」
 Akane-san peered into Ai-san’s face and burst into uncontrollable sobbing.
 I... I could only stand there, frozen, unable to do a single thing.

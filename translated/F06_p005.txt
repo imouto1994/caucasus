@@ -1,56 +1,56 @@
 ＃Souko
-"As I thought, Shion-san was targeted too... but it didn't end in murder... something's fishy."
+「As I thought, Shion-san was targeted too... but it didn't end in murder... something's fishy.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Souko
-"...There's a very real possibility Shion-san will be targeted next. She needs to be careful..."
+「...There's a very real possibility Shion-san will be targeted next. She needs to be careful...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Maya
-"To think Shion would be targeted as well..."
+「To think Shion would be targeted as well...」
 ＃Protagonist
-"Her life isn't in danger, so don't worry."
+「Her life isn't in danger, so don't worry.」
 ＃Maya
-"Shion is still safe, isn't she...?"
+「Shion is still safe, isn't she...?」
 ＃Protagonist
-"Yes... no need to worry."
+「Yes... no need to worry.」
 ＃Ai
-"Why Shion too... why...?"
+「Why Shion too... why...?」
 ＃Protagonist
-"...We don't know that yet."
+「...We don't know that yet.」
 ＃Ai
-"I'm glad I was the one targeted... if it had been Shion..."
+「I'm glad I was the one targeted... if it had been Shion...」
 ＃Protagonist
-"Ai-san..."
+「Ai-san...」
 ＃Benio
-"...I understand that Shion could be targeted. However... something feels off..."
+「...I understand that Shion could be targeted. However... something feels off...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"Shion, huh... she likely feels some sense of debt for being an adopted child. That’s why she never complains about her situation..."
+「Shion, huh... she likely feels some sense of debt for being an adopted child. That’s why she never complains about her situation...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"So even Lady Shion is not safe..."
+「So even Lady Shion is not safe...」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Tsujimura
-"...Lady Shion seems quite despondent..."
+「...Lady Shion seems quite despondent...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"...Shion-kun is safe, I assume?"
+「...Shion-kun is safe, I assume?」
 ＃Protagonist
-"Y-Yeah..."
+「Y-Yeah...」
 ＃Takamine
-"It seems Shion-kun has returned to her room. It’s best for her to stay put for now."
+「It seems Shion-kun has returned to her room. It’s best for her to stay put for now.」
 ＃Protagonist
-"Right..."
+「Right...」
 ＃Mikanagi
-"...It was my mistake for not properly checking the medicine. If I had verified it this morning, this could have been avoided..."
+「...It was my mistake for not properly checking the medicine. If I had verified it this morning, this could have been avoided...」
 ＃Protagonist
-"Perhaps..."
+「Perhaps...」
 ＃Mikanagi
-"I expect Shion-san is in her room."
+「I expect Shion-san is in her room.」
 ＃Protagonist
-"I see."
+「I see.」

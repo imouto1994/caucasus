@@ -1,88 +1,88 @@
 ＃Souko
-"A photo of a foreign maid in Takamine-san's room, huh... I wonder who she is."
+「A photo of a foreign maid in Takamine-san's room, huh... I wonder who she is.」
 ＃Protagonist
-"No idea..."
+「No idea...」
 ＃Maya
-"A foreign maid? ...No, there has never been such a person here."
+「A foreign maid? ...No, there has never been such a person here.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"A foreigner... I don't recall anyone like that being here..."
+「A foreigner... I don't recall anyone like that being here...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Benio
-"A foreign maid? No, never heard of her... Maybe she was here before I was born..."
+「A foreign maid? No, never heard of her... Maybe she was here before I was born...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Shion
-"A foreign maid... I've never heard of one..."
+「A foreign maid... I've never heard of one...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"A foreigner... There were a few in the past, but I can't say much from just that..."
+「A foreigner... There were a few in the past, but I can't say much from just that...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Lady Marino... That's a name I haven't heard in a very long time..."
+「Lady Marino... That's a name I haven't heard in a very long time...」
 ＃Protagonist
-"You know her...?"
+「You know her...?」
 ＃Tsujimura
-"Yes... Lady Marino was the daughter of Lady Liesche, who was a friend of the Master. When Lady Liesche passed away in Japan, she entrusted her to the Master."
+「Yes... Lady Marino was the daughter of Lady Liesche, who was a friend of the Master. When Lady Liesche passed away in Japan, she entrusted her to the Master.」
 ＃Protagonist
-"...And that's how she came to work here?"
+「...And that's how she came to work here?」
 ＃Tsujimura
-"Since the Mistress had no children at the time, the Master intended to adopt her, but Lady Marino declined."
+「Since the Mistress had no children at the time, the Master intended to adopt her, but Lady Marino declined.」
 ＃Protagonist
-"That happened...? But why does Takamine-san have a photo of her...?"
+「That happened...? But why does Takamine-san have a photo of her...?」
 ＃Tsujimura
-"Master Takamine used to stay here when he was brought along by his father... Perhaps they met back then..."
+「Master Takamine used to stay here when he was brought along by his father... Perhaps they met back then...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"Master Takamine used to stay here when he was brought along by his father... Perhaps they met back then..."
+「Master Takamine used to stay here when he was brought along by his father... Perhaps they met back then...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"...Did you see the photo?"
+「...Did you see the photo?」
 ＃Protagonist
-"S-Sorry, I didn't mean to..."
+「S-Sorry, I didn't mean to...」
 ＃Takamine
-"...She is a German woman named Marino Liesche. She worked here before the war."
+「...She is a German woman named Marino Liesche. She worked here before the war.」
 ＃Protagonist
-"Is that so... But why do you have a photo of someone like that, Takamine-san?"
+「Is that so... But why do you have a photo of someone like that, Takamine-san?」
 ＃Takamine
-"...No need for prying."
+「...No need for prying.」
 ＃Protagonist
-"I-I understand..."
+「I-I understand...」
 ＃Takamine
-"...Did you hear that from Tsujimura-san?"
+「...Did you hear that from Tsujimura-san?」
 ＃Protagonist
-"Y-Yeah... I just got curious... What kind of person was she...?"
+「Y-Yeah... I just got curious... What kind of person was she...?」
 ＃Takamine
-"...She was a woman who sang beautiful songs."
+「...She was a woman who sang beautiful songs.」
 ＃Protagonist
-"Songs..."
+「Songs...」
 ＃Takamine
-"I'm told her mother was also a famous singer in Germany. It seems talent is hereditary."
+「I'm told her mother was also a famous singer in Germany. It seems talent is hereditary.」
 ＃Protagonist
-"Where is she now...?"
+「Where is she now...?」
 ＃Takamine
-"...She reportedly vanished about twenty years ago. Nothing is known of her whereabouts since."
+「...She reportedly vanished about twenty years ago. Nothing is known of her whereabouts since.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"...No need for prying."
+「...No need for prying.」
 ＃Protagonist
-"I-I understand..."
+「I-I understand...」
 ＃Mikanagi
-"A foreign maid... I've heard there was one before the war, but I don't know the details."
+「A foreign maid... I've heard there was one before the war, but I don't know the details.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"Oh... So there was a foreigner working here too..."
+「Oh... So there was a foreigner working here too...」
 ＃Protagonist
-"Maybe..."
+「Maybe...」
 ＃Narumi
-"That's the photo in the lawyer's room, right? It's from a long time ago... Doesn't look like she was a girlfriend or anything."
+「That's the photo in the lawyer's room, right? It's from a long time ago... Doesn't look like she was a girlfriend or anything.」
 ＃Protagonist
-"Right..."
+「Right...」

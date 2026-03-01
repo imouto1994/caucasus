@@ -1,32 +1,32 @@
 ＃Protagonist
-"Souko-san, you're surprisingly calm in this situation."
+「Souko-san, you're surprisingly calm in this situation.」
 ＃Souko
-"You're plenty calm yourself. Well, it's highly likely to be an internal dispute, so I figure it's unlikely to catch us in the crossfire."
+「You're plenty calm yourself. Well, it's highly likely to be an internal dispute, so I figure it's unlikely to catch us in the crossfire.」
 ＃Maya
-"For things to turn out like this... I feel terribly sorry for our guests."
+「For things to turn out like this... I feel terribly sorry for our guests.」
 ＃Protagonist
-"N-No, please don't let it trouble you."
+「N-No, please don't let it trouble you.」
 ＃Benio
-"It feels like someone who can finally hold their own against me has arrived."
+「It feels like someone who can finally hold their own against me has arrived.」
 ＃Protagonist
-"I-Is that so..."
+「I-Is that so...」
 ＃Shion
-"Kirihara-san... she has a somewhat frightening atmosphere about her..."
+「Kirihara-san... she has a somewhat frightening atmosphere about her...」
 ＃Protagonist
-"Do you think so...?"
+「Do you think so...?」
 ＃Tsujimura
-"I feel terribly sorry to Kirihara-sama and the others that things have turned out this way..."
+「I feel terribly sorry to Kirihara-sama and the others that things have turned out this way...」
 ＃Protagonist
-"No, please don't worry about it..."
+「No, please don't worry about it...」
 ＃Takamine
-"It seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary."
+「It seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary.」
 ＃Protagonist
-"That might be true, but..."
+「That might be true, but...」
 ＃Mikanagi
-"The swelling in Kirihara-san's finger hasn't gone down yet. It's possible... that it might be fractured."
+「The swelling in Kirihara-san's finger hasn't gone down yet. It's possible... that it might be fractured.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Kirihara-san? She seems to be investigating all sorts of things."
+「Kirihara-san? She seems to be investigating all sorts of things.」
 ＃Protagonist
-"Right."
+「Right.」

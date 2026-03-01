@@ -1,40 +1,40 @@
 ＃Souko
-"To think there's even a chapel inside the building... the wealthy really are something else."
+「To think there's even a chapel inside the building... the wealthy really are something else.」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Maya
-"I believe the chapel has been here since this building was first constructed."
+「I believe the chapel has been here since this building was first constructed.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Ai
-"I've heard that chapel has always been used for the Nanatsuki family's weddings."
+「I've heard that chapel has always been used for the Nanatsuki family's weddings.」
 ＃Protagonist
-"Is that so..."
+「Is that so...」
 ＃Benio
-"You will be able to see the inside of the chapel later."
+「You will be able to see the inside of the chapel later.」
 ＃Protagonist
-"True."
+「True.」
 ＃Tsujimura
-"Preparations for the ceremony are underway now, so you cannot see the inside."
+「Preparations for the ceremony are underway now, so you cannot see the inside.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Rokuyou
-"No need to rush; you'll be able to go inside later."
+「No need to rush; you'll be able to go inside later.」
 ＃Protagonist
-"You're right."
+「You're right.」
 ＃Takamine
-"They're preparing for the ceremony, so you can't go in."
+「They're preparing for the ceremony, so you can't go in.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Mikanagi
-"Aren't they preparing for the wedding in the chapel right now?"
+「Aren't they preparing for the wedding in the chapel right now?」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Akane
-"The chapel is quite a chore to clean. We don't use it normally, so it doesn't get very dirty, though."
+「The chapel is quite a chore to clean. We don't use it normally, so it doesn't get very dirty, though.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Narumi
-"A chapel that's only used for weddings... it's a bit of a luxury, isn't it?"
+「A chapel that's only used for weddings... it's a bit of a luxury, isn't it?」
 ＃Protagonist
-"I suppose so..."
+「I suppose so...」

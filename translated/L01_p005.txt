@@ -1,40 +1,40 @@
 ＃Souko
-"The possibility of Shion-san being the killer... I can't say it's zero."
+「The possibility of Shion-san being the killer... I can't say it's zero.」
 ＃Protagonist
-"...True."
+「...True.」
 ＃Maya
-"Shion was inside the chapel all night. Although, I doubt there is anyone who can confirm that."
+「Shion was inside the chapel all night. Although, I doubt there is anyone who can confirm that.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Ai
-"Are you suggesting Shion killed Isamu-san!? That child couldn't possibly do such a thing!"
+「Are you suggesting Shion killed Isamu-san!? That child couldn't possibly do such a thing!」
 ＃Protagonist
-"Y-You're right..."
+「Y-You're right...」
 ＃Benio
-"Shion being forced into an unwanted marriage and killing Rokuyou... it's not entirely out of the question..."
+「Shion being forced into an unwanted marriage and killing Rokuyou... it's not entirely out of the question...」
 ＃Protagonist
-"True..."
+「True...」
 ＃Shion
-"I was... sleeping inside the coffin. I did not step outside."
+「I was... sleeping inside the coffin. I did not step outside.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Tsujimura
-"The idea of Lady Shion killing Master Rokuyou... it is unthinkable."
+「The idea of Lady Shion killing Master Rokuyou... it is unthinkable.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"The lid of the coffin used in the ritual has hinges, but it's far too heavy for someone with Shion-kun's strength to open."
+「The lid of the coffin used in the ritual has hinges, but it's far too heavy for someone with Shion-kun's strength to open.」
 ＃Protagonist
-"I see."
+「I see.」
 ＃Mikanagi
-"...Shion-san might not have been enthusiastic about the marriage to Isamu. Her own will wasn't exactly being respected, after all..."
+「...Shion-san might not have been enthusiastic about the marriage to Isamu. Her own will wasn't exactly being respected, after all...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"I believe Lady Shion was in the coffin the entire time."
+「I believe Lady Shion was in the coffin the entire time.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Narumi
-"Now that you mention it, I've never seen Lady Shion and Rokuyou-san talking. Of course, they must have spoken when I wasn't around."
+「Now that you mention it, I've never seen Lady Shion and Rokuyou-san talking. Of course, they must have spoken when I wasn't around.」
 ＃Protagonist
-"True..."
+「True...」

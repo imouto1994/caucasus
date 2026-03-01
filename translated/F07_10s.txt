@@ -3,12 +3,12 @@ Predictably, Akane-san isn't here.
 Akane-san... where could she have gone?
 When I open the drawer, I find colorful underwear inside.
 ＃Protagonist
-"Whoa...!"
+「Whoa...!」
 I hurriedly closed the drawer.
 Ransacking a woman's room isn't a good idea...
 When I open the drawer, I find colorful underwear inside.
 ＃Protagonist
-"Whoa...!"
+「Whoa...!」
 I hurriedly closed the drawer.
 Ransacking a woman's room isn't a good idea...
 There are accessories inside the drawer.
@@ -24,10 +24,10 @@ This drawer seems to contain various small items.
 Nothing seems particularly out of place.
 Akane-san... where could she have gone?
 ＃Protagonist
-"This is..."
+「This is...」
 It looks like a scrapbook filled with old newspaper clippings.
 ＃Protagonist
-"Spirited away...?"
+「Spirited away...?」
 It seems to be articles dealing with the disappearances in Nanatsuki Village.
 There's quite a lot of it.
 From over twenty years ago until just recently.
@@ -39,7 +39,7 @@ But... the "Curse of the Seven Possessed" mentioned disappearances in a separate
 If that's the case, is the "Sacrifice of the Seven Possessed" a different story...?
 I'd like to confirm it with someone, but... if disappearances have been happening until recently and it's something related to the Nanatsuki family—
 ＃Protagonist
-"...There's a chance those involved are still alive."
+「...There's a chance those involved are still alive.」
 Those who are alive and would be of an age to be involved are—Maya-san.
 If Kousei-san was one of those involved, then Tsujimura-san might be too.
 I can't just go around asking questions carelessly...
@@ -55,7 +55,7 @@ Naturally, I can't find any clues as to Akane-san's whereabouts.
 Akane-san... where could she have gone?
 I pick up the photo frame.
 ＃Protagonist
-"This is..."
+「This is...」
 It's a photo of a woman.
 Could it be Akane-san's older sister—
 It's the same as the photo Mikanagi-sensei had—

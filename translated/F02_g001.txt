@@ -1,40 +1,40 @@
 ＃Souko
-"If you search for information on Nanatsuki Village, it's a story that comes up right away. Though I couldn't find any documents that go into great detail."
+「If you search for information on Nanatsuki Village, it's a story that comes up right away. Though I couldn't find any documents that go into great detail.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Maya
-"...I am aware that such rumors are circulating in the village. However, I do not know the specifics."
+「...I am aware that such rumors are circulating in the village. However, I do not know the specifics.」
 ＃Protagonist
-"...I see."
+「...I see.」
 ＃Ai
-"...I would prefer not to answer that question."
+「...I would prefer not to answer that question.」
 ＃Protagonist
-"I see... sorry about that."
+「I see... sorry about that.」
 ＃Benio
-"The 'Curse of the Seven Possessions', huh... well, I don't mind. First, 'Item One: The fact that all heads of the Nanatsuki family have died mysterious deaths.' 'Item Two: The fact that no males are ever born into the Nanatsuki family.'"
+「The 'Curse of the Seven Possessions', huh... well, I don't mind. First, 'Item One: The fact that all heads of the Nanatsuki family have died mysterious deaths.' 'Item Two: The fact that no males are ever born into the Nanatsuki family.'」
 ＃Benio
-" 'Item Three: The mysterious disappearances in Nanatsuki Village.' 'Item Four: The fact that the mansion is painted entirely in jet black.' 'Item Five: The way massive numbers of crows cover the mansion.'"
+「 'Item Three: The mysterious disappearances in Nanatsuki Village.' 'Item Four: The fact that the mansion is painted entirely in jet black.' 'Item Five: The way massive numbers of crows cover the mansion.'」
 ＃Benio
-" 'Item Six: The matter of the "Sacrifice of the Seven Possessions".' 'Item Seven: The ghost of the girl who was made a sacrifice wandering the mansion.' ...That’s all of them."
+「 'Item Six: The matter of the "Sacrifice of the Seven Possessions".' 'Item Seven: The ghost of the girl who was made a sacrifice wandering the mansion.' ...That’s all of them.」
 ＃Protagonist
-"Geez... thank you."
+「Geez... thank you.」
 ＃Tsujimura
-"I don't really... know much about such things..."
+「I don't really... know much about such things...」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Takamine
-"I have no interest in such nonsense."
+「I have no interest in such nonsense.」
 ＃Protagonist
-"O-oh, I see..."
+「O-oh, I see...」
 ＃Mikanagi
-"A curse? ...Ah, you mean those rumors? I think Lady Benio would be more knowledgeable about that sort of thing."
+「A curse? ...Ah, you mean those rumors? I think Lady Benio would be more knowledgeable about that sort of thing.」
 ＃Protagonist
-"I see..."
+「I see...」
 ＃Akane
-"A-a curse...? I know people say all sorts of things about it... but it’s quite scary, isn't it?"
+「A-a curse...? I know people say all sorts of things about it... but it’s quite scary, isn't it?」
 ＃Protagonist
-"You're right..."
+「You're right...」
 ＃Narumi
-"A curse? I’ve heard they say a lot of things in town... but if you want details, why don't you try asking Lady Benio?"
+「A curse? I’ve heard they say a lot of things in town... but if you want details, why don't you try asking Lady Benio?」
 ＃Protagonist
-"Good point."
+「Good point.」
