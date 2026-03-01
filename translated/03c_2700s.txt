@@ -1,38 +1,31 @@
-#Main Character
-"Dr. Mikanagi, can you tell when Shion-san died?"
+#Satoshi
+"Mikanagi-sensei, do you have any idea when Shion-san passed away?"
 #Mikanagi
-"I'm not sure... probably within the last hour, but I can't say for certain."
-#Main Character
+"Hard to say... I'd guess within the last hour, but I can't say for certain."
+#Satoshi
 "I see..."
 Shion-san... why...
-Paintings are hanging on the wall.
-...They're Tsujimura-san's paintings.
-The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
-#Main Character
-"...We shouldn't touch this carelessly."
-There are likely fingerprints on it.
-#Souko
-"I don't think it matters much... the contents of the cup are more important. We have to identify exactly what kind of poison it was."
-#Main Character
-"What did she drink...?"
-#Souko
-"A fast-acting poison, surely... but if it was something highly irritant, it would be difficult."
-#Main Character
-"Because she would have spat it out..."
-#Souko
-"It's not just that. The possibility of murder also drops significantly. No one would drink something they knew was poison."
-#Main Character
-"True... but the one who brought this medicine was Maya-san, wasn't it...?"
-#Souko
-"...Of course, there's a possibility that Maya-san killed Shion-san. That's exactly why we have to investigate carefully."
-Souko-san picked up the cup using a handkerchief to avoid touching it directly.
-#Souko
-"A little bit of liquid remains. If the police analyze it, they'll be able to determine the ingredients."
-#Main Character
-"But then—"
-#Souko
-"I know. There must be more we can do right here."
-How could this happen...
-The snow seems to be weakening.
-It'll likely be clear tomorrow, but this mansion...
-The snow is letting up.
+A painting hangs on the wall.
+...It’s Tsujimura-san’s work.
+The painting Tsujimura-san painted looked down upon Shion-san’s silent remains.
+A glass is rolling on the floor.
+#Satoshi
+"...Is this how she drank the poison?"
+#Benio
+"Better not touch it carelessly. There might be fingerprints left on it."
+#Satoshi
+"Yeah, I understand."
+I take out a handkerchief, carefully wrap it, and pick it up.
+#Satoshi
+"...There's a little bit of liquid left inside."
+#Mikanagi
+"Let me see it."
+I hand the glass to Mikanagi-sensei.
+#Mikanagi
+"Don't sniff it carelessly. If it's cyanide like I suspect, even the gas alone could be fatal."
+#Satoshi
+"...Understood."
+How did it come to this...
+The snow seems to be letting up.
+Tomorrow will probably be clear, but this mansion...
+The snow is getting weaker.
