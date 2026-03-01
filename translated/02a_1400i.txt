@@ -4,7 +4,8 @@ The clock struck two, and Souko-san brought the meeting to a close.
 #Protagonist
 "...Did you find anything out?"
 #Souko
-"That’s my line," Souko-san said with a wry smile.
+"That’s my line."
+Souko-san said with a wry smile.
 #Souko
 "But well... if I had to give my own impression, there wasn't anything that counts as decisive evidence."
 #Protagonist

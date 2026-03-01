@@ -135,6 +135,23 @@ async function validateDirectory(translatedDir, trim) {
       console.log(
         `   Line count mismatch: original has ${originalLines.length} lines, translated has ${translatedLines.length} lines`,
       );
+
+      // Walk through the overlapping lines to find the first type mismatch,
+      // which usually indicates where the translation diverged.
+      const minLen = Math.min(originalLines.length, translatedLines.length);
+      for (let i = 0; i < minLen; i++) {
+        const origType = classifyOriginalLine(originalLines[i], trim);
+        const transType = classifyTranslatedLine(translatedLines[i], trim);
+        if (origType !== transType) {
+          console.log(
+            `   First type mismatch at line ${i + 1}: expected [${origType}] but got [${transType}]`,
+          );
+          console.log(`     original:   ${originalLines[i]}`);
+          console.log(`     translated: ${translatedLines[i]}`);
+          break;
+        }
+      }
+
       mismatched++;
       continue;
     }
