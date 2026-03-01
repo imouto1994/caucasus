@@ -1,0 +1,40 @@
+#Souko
+"Maya-san, huh... I don't see a motive for the crime at all. If you consider that she could get rid of Shion-san, her adopted daughter, the possibility is exactly zero."
+#Satoshi
+"I see..."
+#Maya
+"Last night? I returned to my room and went straight to sleep after the ceremony... Why do you ask?"
+#Satoshi
+"I see..."
+#Ai
+"Mother? Last night, she returned to her room with us..."
+#Satoshi
+"I see..."
+#Benio
+"I don't think Mother has any reason to kill Rokuyou. She values the family name far too much to do anything that would drag it through the mud."
+#Satoshi
+"...I see."
+#Shion
+"Is something wrong... with Mother?"
+#Satoshi
+"...No, it's nothing."
+#Tsujimura
+"The Mistress? She seemed quite pleased about the marriage, but..."
+#Satoshi
+"I see..."
+#Takamine
+"Maya-san? It sounds nice to say she was happy for her daughter's departure, but in reality, it was just good riddance. It's hard to say."
+#Satoshi
+"I see..."
+#Mikanagi
+"Maya-san, right... There shouldn't have been any particular falling out between her and Isamu."
+#Satoshi
+"I see..."
+#Akane
+"The Mistress? She should have gone straight back to her room after the ceremony last night..."
+#Satoshi
+"I see..."
+#Narumi
+"The Mistress? I don't think anything happened between her and Rokuyou-san, but men and women being what they are... you never know."
+#Satoshi
+"I... I see."

@@ -1,62 +1,61 @@
-医務室を出てすぐ向かい側の自分の部屋。
-＃想子
-「遅いわよ」
-部屋にはすでに想子さんが来ていた。
-＃主人公
-「なんでもう居るんですか……」
-＃想子
-「この部屋鍵掛けてなかったわよ」
-ぼくの問いに答えず、想子さんはそう指摘する。
-＃想子
-「何が起こるかわからないんだから、しっかりと戸締まりはしておきなさいよ」
-＃主人公
-「……想子さんはまだ何か起こると思ってるんですか？」
-＃想子
-「何事もなければそれでいいんだけど……」
-＃主人公
-「万が一のこともあると云う事ですか？」
-＃想子
-「可能性のひとつとして考慮に入れておいた方がいいでしょうね」
-＃主人公
-「そうですね……」
-＃想子
-「さて――さっきの事件について考えてみましょうか」
-想子さんが居住まいを正してこちらに向き直る。
-＃想子
-「きみが調べた事の中に手懸かりがあればいいんだけど……」
-＃主人公
-「今は悩むより考えてみる方がいいと思います。ただ……」
-＃想子
-「ただ？」
-＃主人公
-「……部外者のぼくたちが勝手に犯人を暴き立てるような真似をしても良いんでしょうか？」
-＃想子
-「……私たちにしか出来ない事だと思うけど、でも……難しいところね。下手をするとこれからの行動に支障が出るかも」
-＃主人公
-「ここを出られるのはずっと後ですからね……」
-ぎすぎすとした雰囲気のまま数日を過ごす羽目になるかもしれない。
-＃想子
-「だから、犯人を指摘するかどうかはきみが決めて。自分の推理に自信があるのなら問題ないと思うわ」
-＃主人公
-「責任重大ですね……」
-さて……どうするべきだろうか。
-犯人を指摘する
-犯人を指摘しない
-＃主人公
-「……ぼくたちに出来る事なら、やらないといけないと思います」
-＃想子
-「そう……じゃあみんなを集めて説明してもらうけれど、いいわね？」
-＃主人公
-「ええ……行きましょう」
-＃主人公
-「……やめておきましょう」
-自信がなかった。
-犯人を見つける事が――というより、その後の事をうまく収める自信だ。
-＃想子
-「……そうね、その方がいいかもしれないわね」
-想子さんも同意してくれるようだ。
-＃主人公
-「暫く様子を窺う事にしましょう」
-＃想子
-「わかったわ」
-ぼくたちは少しの間別々に考えをまとめる事にした。
+Right across from the infirmary was my own room.
+#Souko
+"You're late."
+Souko-san was already in my room.
+#Protagonist
+"Why are you here already...?"
+#Souko
+"You didn't lock the door."
+Ignoring my question, Souko-san pointed that out.
+#Souko
+"You never know what might happen, so make sure you keep the door locked tight."
+#Protagonist
+"...Do you really think something else is going to happen, Souko-san?"
+#Souko
+"It would be best if nothing did, but..."
+#Protagonist
+"So you're saying there's a chance?"
+#Souko
+"It窶冱 better to consider it a possibility."
+#Protagonist
+"I suppose so..."
+#Souko
+"Now then窶罵et窶冱 think about the incident from earlier."
+Souko-san straightened her posture and turned to face me.
+#Souko
+"I hope there窶冱 a clue among the things you found..."
+#Protagonist
+"I think it窶冱 better to think it over than to just worry. However..."
+#Souko
+"However?"
+#Protagonist
+"...Is it really okay for us outsiders to just start exposing the killer on our own?"
+#Souko
+"...I think we're the only ones who can do it, but... it窶冱 a difficult position. If we handle it poorly, it could interfere with our actions from here on."
+#Protagonist
+"It窶冤l be quite a while before we can leave this place..."
+We might end up spending several days in a thick, stifling atmosphere.
+#Souko
+"So, whether or not to point out the killer is up to you. If you're confident in your reasoning, I don't think it'll be a problem."
+#Protagonist
+"That's a lot of responsibility..."
+Now then... what should I do?
+[Point out the killer]
+[Don't point out the killer]
+#Protagonist
+"...If it窶冱 something we can do, I think we have to do it."
+#Souko
+"I see... In that case, I窶冤l gather everyone and have you explain it to them, alright?"
+#Protagonist
+"Yeah... let窶冱 go."
+#Protagonist
+"...Let窶冱 not."
+I lacked the confidence. Not confidence in finding the killer窶巴ut confidence in being able to settle things properly afterward.
+#Souko
+"...True, that might be for the best."
+Souko-san seemed to agree.
+#Protagonist
+"Let窶冱 just watch how things play out for a while."
+#Souko
+"Understood."
+We decided to take a little time to organize our thoughts separately.

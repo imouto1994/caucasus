@@ -1,0 +1,72 @@
+#Souko
+"Between 'Akane' and 'Akari', huh... I could understand other things, but I don't think anyone would mistake their own name..."
+#Protagonist
+"Right..."
+#Maya
+"...I am sorry, I do not quite understand."
+#Protagonist
+"I see..."
+#Ai
+"...I'm sorry, I don't really know."
+#Protagonist
+"I see..."
+#Benio
+"Isn't it strange to use 'M' as the initial for 'Hiyama'? If you made that many mistakes, you'd notice, and normally you'd just start over."
+#Protagonist
+"You're right..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Protagonist
+"I see..."
+#Tsujimura
+"Mistakes can happen... for example, Lady Benio spells her name 'Venio' in Romaji."
+#Protagonist
+"I see..."
+#Takamine
+"I'm not really sure."
+#Protagonist
+"I see..."
+#Mikanagi
+"...I'm sorry, but I really don't know."
+#Protagonist
+"I see..."
+#Mikanagi
+"...That handkerchief from yesterday, right?"
+#Protagonist
+"Akane-san said she made a mistake, but I don't think that's it. Who on earth is 'Akari M.'...?"
+#Mikanagi
+"...I know of one person with a name that matches."
+#Protagonist
+"...The person in the photo in your room?"
+#Mikanagi
+"...So you saw it."
+#Protagonist
+"...I'm sorry."
+#Mikanagi
+"There's no need to apologize. I was the one who sent you to get my bag, after all."
+#Protagonist
+"So... is it her?"
+#Mikanagi
+"...She is Akari Misono, the person most precious to me."
+#Protagonist
+"Was she someone who worked here?"
+#Mikanagi
+"...Until a short while ago, yes."
+#Protagonist
+"But even if it's her... why would Akane-san have..."
+#Mikanagi
+"...It would be best to ask Akane-san about that. Besides, it's not certain that the embroidery on the handkerchief refers to her in the first place."
+#Protagonist
+"Right... I understand."
+#Akane
+"I-I told you yesterday, I just made a mistake...!"
+#Protagonist
+"I-Is that so..."
+#Akane
+"About that... I'm sorry, not right now..."
+#Protagonist
+"I see... understood."
+#Narumi
+"...I don't think that girl can even embroider... I wonder if she really sewed it herself?"
+#Protagonist
+"I wonder..."

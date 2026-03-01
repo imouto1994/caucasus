@@ -1,35 +1,35 @@
-—•‚³‚ñ‚Ì•”‰®‚Ì‘O‚Ü‚Å‚â‚Á‚Ä—ˆ‚½B
-”ålŒö
-u—•‚³‚ñA‚Ú‚­‚Å‚·v
-”à‚ªŠJ‚«A—•‚³‚ñ‚ªo‚Ä‚«‚½B
-”—•
-u‚ ‚çcc‚Ç‚¤‚©‚µ‚Ü‚µ‚½‚©Hv
-”ålŒö
-u‚¦‚¦‚Æcc‚Ü‚¾—•‚³‚ñ‚Ìg‚ªˆÀ‘S‚¾‚ÆŠm–ñ‚³‚ê‚½–ó‚Å‚Í‚È‚¢‚Ì‚ÅA‰½‚Æ‚©‚µ‚Ä‚Ú‚­‚ªç‚ë‚¤‚Æv‚¢‚Ü‚µ‚Äv
-”—•
-u‚¦‚ÁccHv
-”ålŒö
-u‚ ‚Ìcc¡”Ó‚Í‚±‚Ì•”‰®‚É‹‚Ä‹M—‚ğç‚è‚Ü‚·v
-”—•
-u‚»‚ê‚Ícc‚ ‚ÌA‚¨\‚µo‚ÍŠğ‚µ‚¢‚Ì‚Å‚·‚¯‚Çccv
-—•‚³‚ñ‚Í¢‚Á‚Ä‚¢‚é‚æ‚¤‚¾B
-”—•
-u‚»‚Ìcc—×‚É‚Í•ê—l‚à‹‚Ü‚·‚µAg‚àccv
-”ålŒö
-u‚¢‚â‚¢‚â‚ÁA‰½‚àák‚µ‚¢‹C‚¿‚Å—ˆ‚½–ó‚¶‚á‚ ‚è‚Ü‚¹‚ñ‚©‚ç‚ÁIv
-‚Ú‚­‚Í–Ú‚Ì‘O‚Å—¼è‚ğU‚Á‚Ä”Û’è‚µ‚½B
-”ålŒö
-u‚½‚¾‚Ú‚­‚ÍA—•‚³‚ñ‚ğç‚è‚½‚­‚Ä‚Áccv
-”—•
-u‚»‚ê‚Ícc‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B‚Å‚·‚ªcc‚»‚ÌA‚â‚Í‚è“¯‚¶•”‰®‚Åˆê”Ó‰ß‚²‚·‚Æ‚¢‚¤‚Ì‚Íccv
-”ålŒö
-u‚Å‚µ‚½‚ç˜L‰º‚Å‚Å‚à\\v
-”—•
-u‚¢‚¯‚Ü‚¹‚ñB‚»‚ê‚Å‚Í•—×‚ğˆø‚¢‚Ä‚µ‚Ü‚¢‚Ü‚·B„‚ÍŒ®‚ğŠ|‚¯‚Ä•”‰®‚É˜U‚à‚Á‚Ä‚¢‚Ü‚·‚©‚çA‚ ‚È‚½‚à‚²©•ª‚Ì•”‰®‚Å‹x‚ñ‚Å‚­‚¾‚³‚¢v
-”ålŒö
-u‚»‚¤‚Å‚·‚©cc‚Å‚àA’ˆÓ‚¾‚¯‚Í‘Ó‚ç‚È‚¢‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢‚Ëv
-”—•
-u‚¦‚¦A‚í‚©‚Á‚Ä‚¢‚Ü‚·B‚ ‚è‚ª‚Æ‚¤v
-”ålŒö
-ucc‚Ó‚¤v
-d•û‚È‚¢A•”‰®‚É–ß‚Á‚Ä‹x‚Ş–‚É‚µ‚æ‚¤B
+I arrived in front of Ai-san's room.
+#Satoshi
+"Ai-san, it's me."
+The door opened, and Ai-san emerged.
+#Ai
+"Oh... did something happen?"
+#Satoshi
+"Umm... it hasn't been confirmed that you're safe yet, so I thought I'd try to protect you somehow."
+#Ai
+"Eh...?"
+#Satoshi
+"Um... I'll stay in this room tonight to protect you."
+#Ai
+"That's... um, I'm happy you'd offer, but..."
+Ai-san seems troubled.
+#Ai
+"Well... Mother is right next door, and so is Benio..."
+#Satoshi
+"No, no! I didn't come here with any illicit intentions!"
+I waved my hands in front of me to deny it.
+#Satoshi
+"I just wanted to protect you, Ai-san..."
+#Ai
+"I... thank you very much for that. But... well, spending the night in the same room is a bit..."
+#Satoshi
+"Then I could stay in the hallwayâ€”"
+#Ai
+"No. You'll catch a cold. I'll stay in my room with the door locked, so please get some rest in your own room too."
+#Satoshi
+"I see... but please make sure not to let your guard down."
+#Ai
+"Yes, I know. Thank you."
+#Satoshi
+"...Phew."
+It can't be helped; I'll head back to my room and rest.

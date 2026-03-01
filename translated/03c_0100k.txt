@@ -1,29 +1,29 @@
-@ŠF‚ªQÃ‚Ü‚Á‚½Œã‚Ås“®‚ğŠJn‚µ‚½B
-@ˆã–±º‚É”E‚Ñ“ü‚èA–ò‚É×H‚ğ‚·‚éB
-@Š¿•û‚Ég‚í‚ê‚é•q‚ÍŒ¸“Åˆ—‚³‚ê‚Ä‚¢‚éˆ×AŒ³‚ÌƒgƒŠƒJƒuƒg‚Ù‚Ç‚Ì“Å«‚Í‚È‚¢B
-@‚»‚ê‚Å‚à\\‚¢‚âA‚¾‚©‚ç‚±‚»A”Ş—‚É‚æ‚é©ì©‰‰‚ğ‘•‚í‚¹‚é‚Ì‚É‚ÍÅ“K‚¾‚Á‚½B
-u‚ ‚ç\\‚Ç‚¤‚©‚È‚³‚¢‚Ü‚µ‚½‚©Hv
-@•·‚±‚¦‚Ä‚«‚½º‚É‘«‚ğ~‚ß‚½B~‚Ü‚ç‚´‚é‚ğ“¾‚È‚©‚Á‚½B‚±‚±‚Å‰Ièˆ‚È“®‚«‚Ío—ˆ‚È‚¢B
-@‹ó• ‚Å‚ ‚é‚Æ”Ş—‚É‰R‚ğ“`‚¦‚½B
-u‚ A‚»‚ê‚Å‚µ‚½‚ç‚í‚½‚µ‚Ì•”‰®‚É‚¢‚ç‚µ‚Ä‚­‚¾‚³‚¢B‚¨‚©‚µ‚­‚ç‚¢‚Å‚µ‚½‚ç‚ ‚è‚Ü‚·‚©‚çv
-@‚»‚Ì—U‚¢‚Éæ‚é‚±‚Æ‚É‚µ‚½B
-@”Ş—‚Ìg‘Ì‚É‚Í—˜—p‰¿’l‚ª‚ ‚éB
-@b‚­”Ş—‚Ì•”‰®‚Å’kÎ‚µ‚½B
-@”Ş—‚ÍFX‚È–‚ğ˜b‚µ‚Ä‚­‚ê‚½B
-@o‚ª‚¢‚é‚±‚ÆB
-@‚±‚ÌŠÙ‚É‹Î‚ß‚Ä‚¢‚½‚ªA_‰B‚µ‚É‚ ‚Á‚Äs•û’m‚ê‚¸‚É‚È‚Á‚½‚±‚ÆB
-@‚Ç‚¤‚â‚çˆã–±º‚Å×H‚ğ‚µ‚Ä‚¢‚½–‚Í’m‚ç‚ê‚Ä‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B
-@‚½‚¾‚»‚ê‚Å‚àA”Ş—‚ğ—˜—p‚·‚é–‚Í‚à‚¤Œˆ’è‚µ‚Ä‚µ‚Ü‚Á‚½‚Ì‚¾B
-@‚Ó‚½‚è‚Å~–[‚Ö“ü‚Á‚½B
-@‚±‚±‚É‚Í‹¥Ší‚ª‚¢‚­‚ç‚Å‚à‘µ‚Á‚Ä‚¢‚½B
-@æ‚¸‚Í“ª•”‚ğ‰£‚è•t‚¯¨“|‚³‚¹‚éB
-@‘±‚¯‚ÄŸèŒû‚æ‚èŠO‚Éo‚ÄA‰®“à‚©‚çŒ©“ï‚¢Š‚Å”Ş—‚Ì“ª•”‚ğØ’f‚·‚éB
-@ˆì‚êo‚½ŒŒ‰t‚Íá‚ğ”í‚¹‚Ä‰B‚·B
-@Ø’f‚µ‚½“ª•”‚Íá‚Ì’†‚É–„‚ß‚½B
-@“·‘Ì‘¤‚ÌØ’f–Ê‚Í•z‹Ğ‚Å•¢‚¢A~–[‚É–ß‚Á‚Ä—q‚Ì’†‚Ö‰Ÿ‚µ‚ñ‚¾B
-@ŠW‚ğ•Â‚ß‚é‘OAè‚Ì¬w‚ğ’Í‚ñ‚ÅÜ‚éB
-@ñ‚ğØ‚é‚Ì‚æ‚è‚à¶X‚µ‚¢A‚Û‚«‚Á‚Æ‰]‚¤‰¹‚ª‚µ‚½B
-@¡’©‚Ì’©H‚È‚Ç‚©‚çl‚¦‚ÄA‚±‚Ì—q‚Íg‚í‚È‚¢‚¾‚ë‚¤B
-@‚»‚ê‚Å‚à”O‚Ì‚½‚ß‚ğl‚¦‚ÄA—q‚ÌŠW‚Ì—¯‚ß‹à‚ğ¬’Æ‚Å’@‚¢‚Ä˜c‚Ü‚¹‚½B
-@‚±‚ê‚Å‚¢‚¢B¡Ä‚¢‚Ä‚µ‚Ü‚¤•û‚ª–{“–‚Í‚¢‚¢‚Ì‚¾‚ë‚¤‚¯‚ê‚ÇA‚»‚ê‚Å‚ÍFX‚Æ‚¸‚ê‚Ä‚µ‚Ü‚¤B
-@‚¾‚©‚ç¡‚ÍA‚±‚Ì‚Ü‚Ü’N‚É‚à‹C•t‚©‚ê‚È‚¢‚æ‚¤‚É\\
+I began my move after everyone else had fallen asleep.
+I slipped into the clinic and tampered with the medicine.
+Since the "Bushi" used in herbal medicine has been processed to reduce its toxicity, it isn't as deadly as the original monkshood.
+Stillâ€”no, thatâ€™s precisely why it was the perfect tool to make it look like she had staged her own incident.
+"Ohâ€”is something the matter?"
+I stopped in my tracks at the sound of the voice. I had no choice but to stop. I couldn't afford any careless movements here.
+I told her a lie, saying that I was hungry.
+"Ah, if that's the case, please come to my room. I have some snacks at least."
+I decided to take her up on the invitation.
+Her body has its uses.
+We chatted for a while in her room.
+She told me all sorts of things.
+That she had an older sister.
+That her sister had worked at this mansion, but vanished after a "spiriting away."
+It seemed she hadn't realized Iâ€™d been tampering with things in the clinic.
+But even so, the decision to use her had already been made.
+The two of us entered the kitchen.
+There were plenty of weapons to be found here.
+First, I struck her in the head to knock her unconscious.
+Then, I stepped out through the side door and decapitated her in a spot that was hard to see from inside the house.
+I covered the overflowing blood with snow to hide it.
+I buried the severed head deep in the snow.
+I covered the severed neck of the torso with a cloth, returned to the kitchen, and shoved it into the oven.
+Before closing the lid, I grabbed her pinky finger and snapped it.
+It made a sickening "pop" sound, more vivid than the sound of cutting her throat.
+Judging from this morning's breakfast, they likely won't use this oven.
+Still, just to be safe, I used a mallet to strike the latch on the oven lid, warping it.
+This is fine. It would actually be better to burn her now, but that would throw too many things off.
+So for now, I'll leave it like this so no one noticesâ€”

@@ -13,11 +13,13 @@
  *   - Speech content  — 「***」(original) / "***" (translated)
  *   - Normal line     — anything else
  *
+ * Original files in `original/` are Shift-JIS encoded, so we read raw bytes
+ * and decode with TextDecoder("shift_jis"). Translated files in `translated/`
+ * are UTF-8, so we read them directly as strings. Both are compared as
+ * decoded text content.
+ *
  * Files in `translated/` that still use Japanese formatting (＃ and 「」)
  * are treated as not-yet-translated and silently skipped.
- *
- * Both `original/` and `translated/` files are Shift-JIS encoded, so we
- * read raw bytes and decode with TextDecoder("shift_jis").
  *
  * Usage:
  *   node validate-translations.mjs
@@ -34,13 +36,18 @@ const TRANSLATED_DIR = "translated";
 
 // Line-type classifiers for original (Japanese) formatting.
 const isJpSpeechSource = (line) => line.startsWith("＃");
-const isJpSpeechContent = (line) => line.startsWith("「") && line.endsWith("」");
+const isJpSpeechContent = (line) =>
+  line.startsWith("「") && line.endsWith("」");
 
 // Line-type classifiers for translated (English) formatting.
 const isEnSpeechSource = (line) => line.startsWith("#");
 const isEnSpeechContent = (line) => line.startsWith('"') && line.endsWith('"');
 
-const LINE_TYPE = { SPEECH_SOURCE: "speech_source", SPEECH_CONTENT: "speech_content", NORMAL: "normal" };
+const LINE_TYPE = {
+  SPEECH_SOURCE: "speech_source",
+  SPEECH_CONTENT: "speech_content",
+  NORMAL: "normal",
+};
 
 function classifyOriginalLine(line) {
   if (isJpSpeechSource(line)) return LINE_TYPE.SPEECH_SOURCE;
@@ -55,14 +62,15 @@ function classifyTranslatedLine(line) {
 }
 
 // A translated file that still uses Japanese line formatting hasn't been
-// translated yet. We detect this by checking whether the content is
-// identical to the original, or if it uses Japanese markers (＃ / 「」)
-// without any English markers (# / "").
-function isUntranslated(translatedLines, originalLines) {
-  if (translatedLines.join("\n") === originalLines.join("\n")) return true;
-
-  const hasJpFormat = translatedLines.some((l) => isJpSpeechSource(l) || isJpSpeechContent(l));
-  const hasEnFormat = translatedLines.some((l) => isEnSpeechSource(l) || isEnSpeechContent(l));
+// translated yet. We detect this by checking whether it uses Japanese markers
+// (＃ / 「」) without any English markers (# / "").
+function isUntranslated(translatedLines) {
+  const hasJpFormat = translatedLines.some(
+    (l) => isJpSpeechSource(l) || isJpSpeechContent(l)
+  );
+  const hasEnFormat = translatedLines.some(
+    (l) => isEnSpeechSource(l) || isEnSpeechContent(l)
+  );
   return hasJpFormat && !hasEnFormat;
 }
 
@@ -79,30 +87,32 @@ async function main() {
     const filename = path.basename(translatedPath);
     const originalPath = path.join(ORIGINAL_DIR, filename);
 
-    // Step 2: Read both files as raw bytes and decode from Shift-JIS.
-    // If the original doesn't exist, warn and skip.
-    let originalRaw;
+    // Step 2: Read the original file as raw bytes and decode from Shift-JIS.
+    // Read the translated file as UTF-8. Both produce JavaScript strings for
+    // text-level comparison. If the original doesn't exist, warn and skip.
+    let originalText;
     try {
-      originalRaw = sjisDecoder.decode(await readFile(originalPath));
+      const raw = await readFile(originalPath);
+      originalText = sjisDecoder.decode(raw);
     } catch {
       console.warn(`⚠  No original found for ${filename}, skipping.`);
       skippedCount++;
       continue;
     }
 
-    const translatedRaw = sjisDecoder.decode(await readFile(translatedPath));
+    const translatedText = await readFile(translatedPath, "utf-8");
 
     // Step 3: Split into lines and strip the trailing empty line that a
     // final newline produces, so we compare actual content lines only.
-    const originalLines = originalRaw.split("\n");
-    const translatedLines = translatedRaw.split("\n");
+    const originalLines = originalText.split("\n");
+    const translatedLines = translatedText.split("\n");
 
     if (originalLines.at(-1) === "") originalLines.pop();
     if (translatedLines.at(-1) === "") translatedLines.pop();
 
     // Step 4: Skip files that haven't been translated yet (still using
     // original Japanese formatting).
-    if (isUntranslated(translatedLines, originalLines)) {
+    if (isUntranslated(translatedLines)) {
       skippedCount++;
       continue;
     }
@@ -114,7 +124,7 @@ async function main() {
     if (originalLines.length !== translatedLines.length) {
       console.log(`\n✗  ${filename}`);
       console.log(
-        `   Line count mismatch: original has ${originalLines.length} lines, translated has ${translatedLines.length} lines`,
+        `   Line count mismatch: original has ${originalLines.length} lines, translated has ${translatedLines.length} lines`
       );
       mismatchedFileCount++;
       continue;
@@ -143,7 +153,9 @@ async function main() {
       mismatchedFileCount++;
       console.log(`\n✗  ${filename}`);
       for (const m of mismatches) {
-        console.log(`   Line ${m.line}: expected [${m.origType}] but got [${m.transType}]`);
+        console.log(
+          `   Line ${m.line}: expected [${m.origType}] but got [${m.transType}]`
+        );
         console.log(`     original:   ${m.origText}`);
         console.log(`     translated: ${m.transText}`);
       }
@@ -154,7 +166,9 @@ async function main() {
   // were found (useful for CI pipelines).
   console.log("\n— Summary —");
   console.log(`  Checked:    ${checkedCount} files`);
-  console.log(`  Skipped:    ${skippedCount} files (untranslated or missing original)`);
+  console.log(
+    `  Skipped:    ${skippedCount} files (untranslated or missing original)`
+  );
   console.log(`  Mismatched: ${mismatchedFileCount} files`);
 
   if (mismatchedFileCount > 0) {

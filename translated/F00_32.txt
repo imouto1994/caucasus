@@ -1,0 +1,5 @@
+#Narumi
+"Let's avoid any rooms that are currently occupied."
+#Protagonist
+"Good point."
+We decided to head elsewhere.

@@ -1,0 +1,6 @@
+I’ve reached the far end of the first floor.
+I place my hand on the chapel door.
+#Protagonist
+"...It's locked."
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+There's no point in staying here; I'll head elsewhere.

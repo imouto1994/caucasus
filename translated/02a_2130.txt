@@ -1,69 +1,69 @@
-＃御巫
-「――少し前からなんだ」
-扉を閉めると、御巫先生は話し始めた。
-＃主人公
-「……あかねさんの事ですよね？」
-＃御巫
-「ああ。……偶に彼女は書斎で何かをしているようなんだ」
-＃主人公
-「何をしているんですか？」
-ぼくの問いに御巫先生は首を振る。
-＃御巫
-「わからないな。面と向かって問い質したことは一度もないし、僕以外に知っている人は居ないんじゃないかな」
-＃主人公
-「……もしかして、今回の件とも関係があるんですか……？」
-＃御巫
-「それはないと思うよ。彼女の行動は以前からだし、それに……悪いことをしているとはあまり思えなくてね」
-＃主人公
-「……？　どういう事ですか？」
-＃御巫
-「特に何かが無くなったと云う事も聞かないしね。恐らく何か調べ物をしているんだと思うけれど……」
-＃主人公
-「いったい何を……」
-＃御巫
-「それはわからない。他の人に見付かる前に止めるよう言えれば良かったんだけれどね……」
-御巫先生がまた溜息を吐く。
-＃主人公
-「……さっき、あかねさんが落としたハンカチに、“Ａｋａｒｉ・Ｍ”という刺繍がされていたんですよ」
-＃御巫
-「あかり……？」
-＃主人公
-「ええ。あかねさんは刺繍をする時に間違えたと言ってましたけど……」
-＃御巫
-「……そういう事もあるんじゃないかな」
-ぽつりと御巫先生が洩らす。
-＃主人公
-「そうなんですかねえ……」
-何にせよ、少し注意深くあかねさんの事を見る必要があるかもしれない。
-＃主人公
-「じゃあぼくはこれで失礼します」
-一旦部屋に戻って考えを練ろうと思い、ぼくは立ち上がった。
-＃御巫
-「ああ、帰るならこっちの方が早いよ」
-そう御巫先生は窓の傍にある扉を指した。
-＃御巫
-「きみの部屋は隣だろう？」
-＃主人公
-「ええ……」
-部屋同士を直接結ぶ扉だ。
-確かに近いけど……
-扉に歩み寄りノブを捻る。
-鍵が掛かっていた。
-＃御巫
-「部屋の間にある扉は特別でね、ここはきみの鍵でしか開けられないよ」
-御巫先生が自分の部屋の鍵を取り出して鍵穴に差し込む。
-＃御巫
-「ほら、僕の鍵じゃ開けられない。きみのを差し込んでごらん」
-＃主人公
-「ええ……」
-ぼくの部屋の鍵を差し込む。
-扉が開いた。
-＃御巫
-「片側の部屋の鍵でしか開けられないんだ。だから、きみが犯人ではない事を僕は祈ってるよ」
-＃主人公
-「……それはもちろんです」
-この扉が開けられる人を警戒するのはわかるから、ぼくは素直に頷いた。
-＃主人公
-「それでは、おやすみなさい」
-＃御巫
-「ああ、おやすみ」
+#Mikanagi
+"窶祢t's been like that for a while now."
+Once the door was closed, Dr. Mikanagi began to talk.
+#Satoshi
+"...You mean Akane-san, right?"
+#Mikanagi
+"Yeah. ...Occasionally, she seems to be doing something in the study."
+#Satoshi
+"What is she doing?"
+At my question, Dr. Mikanagi shook his head.
+#Mikanagi
+"I don't know. I've never questioned her directly, and I don't think anyone else knows besides me."
+#Satoshi
+"...Does it have anything to do with this case, perhaps...?"
+#Mikanagi
+"I don't think so. Her behavior has been going on since before this, and... I don't really think she's doing anything bad."
+#Satoshi
+"...? What do you mean?"
+#Mikanagi
+"I haven't heard of anything going missing, either. I suspect she's researching something, but..."
+#Satoshi
+"What on earth could she be..."
+#Mikanagi
+"I don't know. I should have told her to stop before someone else found her, though..."
+Dr. Mikanagi let out another sigh.
+#Satoshi
+"...On the handkerchief Akane-san dropped earlier, there was 'AkariﾂｷM' embroidered on it."
+#Mikanagi
+"Akari...?"
+#Satoshi
+"Yeah. Akane-san said she made a mistake when she was doing the embroidery, but..."
+#Mikanagi
+"...I suppose that sort of thing happens."
+Dr. Mikanagi murmured.
+#Satoshi
+"I wonder..."
+In any case, I might need to keep a close eye on Akane-san.
+#Satoshi
+"Well then, I'll be going now."
+Thinking I'd head back to my room to gather my thoughts, I stood up.
+#Mikanagi
+"Ah, it'll be faster if you go this way."
+Saying so, Dr. Mikanagi pointed to the door near the window.
+#Mikanagi
+"Your room is right next door, isn't it?"
+#Satoshi
+"Yeah..."
+It's a door that connects the rooms directly.
+It's certainly close, but...
+I walked up to the door and twisted the knob.
+It was locked.
+#Mikanagi
+"The doors between rooms are special; this one can only be opened with your key."
+Dr. Mikanagi took out the key to his room and inserted it into the keyhole.
+#Mikanagi
+"See, my key can't open it. Give yours a try."
+#Satoshi
+"Okay..."
+I inserted the key to my room.
+The door opened.
+#Mikanagi
+"It can only be opened with a key from one side. So, I'm praying that you aren't the culprit."
+#Satoshi
+"...Of course I'm not."
+I can understand being wary of people who can open this door, so I gave a simple nod.
+#Satoshi
+"Well then, good night."
+#Mikanagi
+"Yeah, good night."

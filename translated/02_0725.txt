@@ -1,36 +1,36 @@
-一階に降りて広間に向かう途中、電話室に想子さんがいるのを見つけた。
-＃主人公
-「想子さん……？」
-受話器を持って首を傾げている。
-＃想子
-「一応大学に連絡しておこうと思ったんだけど……繋がらないのよ」
-＃主人公
-「え？」
-受話器を受け取って耳に当てる。
-何の音もしない。
-＃主人公
-「どこかで断線したんですかね？」
-＃想子
-「かもしれないわね……この雪だし」
-受話器を戻す。
-＃主人公
-「誰かに報せておいた方がいいですよね？」
-＃想子
-「そうね……じゃあ辻村さんに伝えておいてもらえる？」
-＃主人公
-「ええ、わかりました」
-＃想子
-「なるみさんが食事を用意してくれてるそうだから、食べたければ食堂へ来てくださいって」
-＃主人公
-「想子さんは？」
-＃想子
-「朝はあまり食欲がわかないから、コーラだけでいいわ」
-＃主人公
-「……せめてコーヒーとか言っておきませんか？」
-＃想子
-「いいじゃない、人が朝から何飲もうと」
-いやまあそうなんだけど、朝からあんな甘い液体を飲むのは抵抗がある。
-＃想子
-「八時になったら大広間に行くのよ」
-＃主人公
-「わかってますよ。それじゃ想子さん、また後で」
+On my way down to the first floor to find the hall, I spotted Souko-san in the telephone room.
+#Protagonist
+"Souko-san...?"
+She was holding the receiver to her ear, tilting her head.
+#Souko
+"I thought I窶囘 try calling the university to let them know the situation... but it窶冱 not connecting."
+#Protagonist
+"What?"
+I took the receiver and pressed it to my ear.
+There was no sound at all.
+#Protagonist
+"Do you think the line snapped somewhere?"
+#Souko
+"Probably... with all this snow."
+I put the receiver back.
+#Protagonist
+"We should probably let someone know, shouldn't we?"
+#Souko
+"Yeah... Could you go tell Tsujimura-san for me?"
+#Protagonist
+"Sure, I can do that."
+#Souko
+"Narumi-san is getting breakfast ready, so she said to come to the dining hall if you want to eat."
+#Protagonist
+"What about you, Souko-san?"
+#Souko
+"I don't have much of an appetite in the morning. A cola will be enough for me."
+#Protagonist
+"...Couldn't you at least say 'coffee' for once?"
+#Souko
+"What's it to you what I drink in the morning?"
+Well, she wasn't wrong, but I still had a hard time wrapping my head around drinking such a sugary liquid first thing in the morning.
+#Souko
+"Make sure you're at the Great Hall by eight."
+#Protagonist
+"I know. See you later, Souko-san."

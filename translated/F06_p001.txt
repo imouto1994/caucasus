@@ -1,0 +1,28 @@
+#Souko
+"I'm getting sick of this... at this point, I’m just praying there won't be any more victims."
+#Protagonist
+"Right..."
+#Maya
+"We have caused you so much trouble... I am truly sorry."
+#Protagonist
+"No, please don't worry about it."
+#Ai
+"Kirihara-san is quite composed, isn't she? Even in a situation like this..."
+#Protagonist
+"Right..."
+#Benio
+"She seemed quite concerned about the kitchen. She’s investigating it even now... I think I’ll go take a look myself later."
+#Protagonist
+"I see..."
+#Tsujimura
+"As for Kirihara-sama, she was investigating the kitchen..."
+#Protagonist
+"I see..."
+#Takamine
+"If you're looking for the culprit, I wish you'd hurry up and find them already."
+#Protagonist
+"T-That's true..."
+#Mikanagi
+"It seemed Kirihara-san was investigating the kitchen."
+#Protagonist
+"I see..."

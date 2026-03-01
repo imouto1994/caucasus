@@ -1,0 +1,28 @@
+＃Souko
+"If Maya-san had a reason to kill Mikanagi-sensei… then it’s possible. They seemed to have quite an unusual relationship…"
+＃Satoshi
+"I see…"
+＃Maya
+"I was in my room. I wasn't feeling very well… but I didn't call for Mikanagi-sensei."
+＃Satoshi
+"I see…"
+＃Ai
+"I’m not sure… I was in my room the entire time."
+＃Satoshi
+"I see…"
+＃Tsujimura
+"I believe she was in her room… but I haven't confirmed it."
+＃Satoshi
+"I see…"
+＃Takamine
+"I wouldn’t know what was happening outside my room."
+＃Satoshi
+"I see…"
+＃Akane
+"I believe she was in her room the whole time, but…"
+＃Satoshi
+"I see…"
+＃Narumi
+"…At the very least, the Madame didn't come out of her room while I was out here in the hallway."
+＃Satoshi
+"…I see."

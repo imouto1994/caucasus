@@ -1,0 +1,28 @@
+#Souko
+"I noticed you were missing and looked for you for a while. To think you were in the basement all that time..."
+#Satoshi
+"...True."
+#Maya
+"I wouldn't know; I was resting in my room as well."
+#Satoshi
+"I see..."
+#Ai
+"I don't know... I've been in my room the whole time."
+#Satoshi
+"I see..."
+#Shion
+"...I don't know. My room is in the annex, after all..."
+#Satoshi
+"I see..."
+#Tsujimura
+"...I was in the office, but around 1:30, Mistress Kirihara visited, saying you were nowhere to be found."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Narumi
+"How could I possibly know? I was right there with you."
+#Satoshi
+"True..."

@@ -1,0 +1,33 @@
+I searched the area, but I couldn't find anything resembling a key.
+A bright red fire flickers within the hearth.
+#Protagonist
+"Wait... this is impossible."
+It's far too hot to investigate.
+#Narumi
+"I don't think this is the fireplace the code meant, anyway..."
+#Protagonist
+"If we can't find anything elsewhere, let's come back and check it again later."
+#Narumi
+"I think that's for the best."
+It's simply too hot to even attempt an investigation.
+There's a door on a different wall from the hallway side.
+It seems to connect to the adjacent room.
+It appears to be a door connecting to the next room over.
+The world outside is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is hanging on the wall.
+I don't know the artist, but it's a somewhat melancholy piece.
+I've already finished searching here, so let's look elsewhere.
+This is the bed I slept in.
+It was soft and I slept very well.
+I just woke up, so I'm not particularly sleepy...
+If you want to rest, I think it's fine to take a break...
+There's an old, antique-style chest of drawers here.
+It appears to be empty inside.
+It's likely for guests; there's nothing inside.
+This is my bag.
+It's mostly packed with a change of clothes.
+When I'm dragged along by Souko-san, I never know when I'll be able to go home, so I always bring extra.
+Other than that, there's just my notebook and writing tools.
+I don't need anything from it right now.

@@ -1,0 +1,17 @@
+This should be a vacant room.
+I turn the doorknob.
+#Protagonist
+"Huh... it's not open."
+It was firmly locked.
+#Akane
+"Tsujimura-san mentioned that since that happened to Mr. Rokuyou, he would be locking all the unused rooms."
+#Protagonist
+"I see..."
+It can't be helped; I'll head elsewhere.
+This is a vacant room.
+I try turning the doorknob just in case, but as expected, it remains locked.
+#Akane
+"Let's go somewhere else."
+#Protagonist
+"Right."
+We decided to head for another location.

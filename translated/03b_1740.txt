@@ -1,8 +1,8 @@
-＃主人公
-「ふう……」
-ちょっといろいろとありすぎて疲れたな……
-しばらく部屋で休むことにしよう。
-頭が働かないと、この先どうすればいいかわからなくなるし。
-そういえば、藍さんは今どうしているだろう。
-紅緒さんが殺されて、また精神が不安定になっているかもしれない。
-ちょっと様子を見てこよう。
+#Main Character
+"Whew..."
+Too much has happened; I'm exhausted...
+I'll rest in my room for a while.
+If my brain isn't working, I won't know what to do next.
+Speaking of which, I wonder how Ai-san is doing now.
+With Benio-san murdered, her mental state might be unstable again.
+I'll go check on her for a bit.

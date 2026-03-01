@@ -1,57 +1,57 @@
-紅緒さんが臥せっているピアノの鍵盤。
-血液が飛び散り、真っ赤に染まっていた。
-＃主人公
-「……鍵盤に傷が出来てますね」
-ちょうど首の切断面の真横に何かで引っ掻いたような傷が出来ていた。
-＃想子
-「首を切った時に出来たのかしら……」
-＃御巫
-「そうかもしれないね。頸部を切断したのは恐らく鋸だろうから、刃先が鍵盤にあたったんじゃないかな」
-＃主人公
-「鋸ですか……？」
-それだと、六曜さんが殺されたときと異なってくるけれど……
-＃想子
-「斧だったとしたら、こんな小さな傷にはならないでしょうね。鍵盤が壊れてるわ」
-＃御巫
-「出血の量から見ても、ここで切断したのは間違いないだろうね」
-＃主人公
-「そうですか……」
-恐らく鋸で首を切断したのだろう。
-黒いピアノにも、鮮血が飛び散ってしまっている。
-紅緒さん……
-常日頃から綺麗にしていたせいか、指紋らしきものも見当たらない。
-＃主人公
-「……スノードロップですね」
-鍵盤の上に白い花が一輪落ちていた。
-＃主人公
-「六曜さんの時と同じでしょうか……？」
-＃想子
-「恐らくそうでしょうね……」
-＃主人公
-「またスノードロップ……」
-鍵盤の上に白い花が一輪落ちていた。
-＃主人公
-「また、六曜さんや藍さんの時と同じ……」
-＃主人公
-「この花は……？」
-鍵盤の上に白い花が一輪落ちていた。
-どうしてこんな所に……
-＃想子
-「スノードロップね。ホールに生けてあったけど……花の部分だけ落ちているのは、首のない遺体の暗喩かしら……」
-＃主人公
-「……厭な感じですね」
-スノードロップの花が落ちている。
-ピアノの鍵盤の上に俯せている紅緒さんの遺体。
-＃主人公
-「死因などはわかりますか……？」
-＃御巫
-「どうだろうね……切断面がささくれている頸部以外に損傷は見られないようだけれど……頭部に打撃を受けたか、首を絞められたか……」
-＃想子
-「……毒物と云う可能性は？」
-＃御巫
-「無いとは言い切れないね。死斑もほとんど出ていないから死亡直後のようだが……」
-＃想子
-「そう……ここじゃ解剖もできないしね……」
-＃御巫
-「そう云うのは警察に任せるべきだろうね」
-頭部の失われた紅緒さんの身体がピアノに伏せっている。
+The piano keys where Benio-san lay.
+Blood was splattered everywhere, staining them bright red.
+#Main Character
+"...There are scratches on the keys."
+Right next to the neck窶冱 severed surface, there were scratches as if made by something.
+#Souko
+"I wonder if they were made when the head was cut off..."
+#Mikanagi
+"That might be it. Since the neck was likely severed with a saw, the tip of the blade probably hit the keys."
+#Main Character
+"A saw...?"
+That would make it different from when Rokuyou-san was killed...
+#Souko
+"If it had been an axe, it wouldn't have left such small scratches. The keys are broken."
+#Mikanagi
+"Judging from the amount of blood, there窶冱 no doubt the decapitation occurred here."
+#Main Character
+"I see..."
+The head was likely severed with a saw.
+Fresh blood had splattered onto the black piano as well.
+Benio-san...
+Perhaps because she always kept it clean, no fingerprint-like smudges were visible.
+#Main Character
+"...A snowdrop."
+A single white flower had fallen onto the keys.
+#Main Character
+"Is it the same as with Rokuyou-san...?"
+#Souko
+"Most likely..."
+#Main Character
+"Another snowdrop..."
+A single white flower had fallen onto the keys.
+#Main Character
+"Once again, just like with Rokuyou-san and Ai-san..."
+#Main Character
+"What is this flower...?"
+A single white flower had fallen onto the keys.
+Why in a place like this...
+#Souko
+"It窶冱 a snowdrop. There were some arranged in the hall... but the fact that only the flower part has fallen, I wonder if it窶冱 a metaphor for a headless corpse..."
+#Main Character
+"...That窶冱 a sickening thought."
+The snowdrop flower lay there.
+Benio-san窶冱 corpse lay face down on the piano keys.
+#Main Character
+"Can you tell the cause of death...?"
+#Mikanagi
+"I wonder... other than the neck where the severed surface is jagged, no other damage is visible... either a blow to the head, or strangulation..."
+#Souko
+"...What about the possibility of poison?"
+#Mikanagi
+"I can't say it窶冱 impossible. Since there窶冱 almost no livor mortis, it seems to be immediately after death..."
+#Souko
+"I see... we can't perform an autopsy here, after all..."
+#Mikanagi
+"That sort of thing should be left to the police."
+Benio-san窶冱 headless body lay face down on the piano.

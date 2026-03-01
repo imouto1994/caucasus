@@ -1,25 +1,25 @@
-廊下に出て、まずは想子さんの部屋に向かった。
-想子さんには最初に話をしておいた方がいいだろう。
-＃主人公
-「想子さん、ぼくです」
-扉が開き、想子さんが出てきた。
-＃想子
-「どうしたの？」
-＃主人公
-「あかねさんが見当たらないそうなんですが……何か知りませんか？」
-＃想子
-「あかねさんが……いつから？」
-＃主人公
-「それは……わかりませんが、少なくともぼくは今朝から見ていません」
-＃想子
-「そう……もしかしたら、夜中のうちに居なくなったと云う可能性もあるわね……」
-＃主人公
-「あの……想子さん、もしかして……犯人が何かしたと云う事ですか……？」
-＃想子
-「……どうかしらね。まだそうと決まったわけじゃないわ」
-想子さんが首を振る。
-＃想子
-「今は一刻も早く見つける事の方が重要よ」
-＃主人公
-「……ええ、わかっています。それじゃ、何かあったら教えてください」
-ぼくは想子さんにそう告げ、他の所へ行く事にした。
+I stepped out into the corridor and headed for Souko-san's room first.
+It would be best to talk to Souko-san before anyone else.
+#Main Character
+"Souko-san, it's me."
+The door opened and Souko-san appeared.
+#Souko
+"What is it?"
+#Main Character
+"It seems Akane-san is missing... do you know anything?"
+#Souko
+"Akane-san...? Since when?"
+#Main Character
+"I'm not sure, but at least I haven't seen her this morning."
+#Souko
+"I see... then it's possible she disappeared during the night..."
+#Main Character
+"Um... Souko-san, do you think... the killer did something...?"
+#Souko
+"...I wonder. It hasn't been decided yet."
+Souko-san shook her head.
+#Souko
+"Right now, finding her as soon as possible is the most important thing."
+#Main Character
+"...Yeah, I know. Well, let me know if anything happens."
+I told Souko-san that and decided to head elsewhere.

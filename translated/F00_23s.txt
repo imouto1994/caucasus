@@ -1,0 +1,27 @@
+I’ve searched all over, but I can't find anything that looks like a key.
+The fire in the hearth has been extinguished.
+There should be no problem investigating it.
+I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
+＃Protagonist
+"...Doesn't look like it's here."
+＃Narumi
+"So it seems. Let's search elsewhere."
+It appears that this is not the place.
+There is another door further inside, separate from the one we entered through.
+It likely connects to the adjacent room.
+It seems to be a door connecting to the next room over.
+The world outside the window is a wall of white; I can't see a thing.
+I wonder when this blizzard will finally let up...
+The storm outside seems to be growing even more violent.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+I've already searched this area, so let's look elsewhere.
+There isn't a single stain on the sheets covering the bed.
+Likely because nobody has been using it.
+There is no sign of the bed having been used.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.
+I really shouldn't just go opening things without permission...
+It's probably best not to meddle with it.

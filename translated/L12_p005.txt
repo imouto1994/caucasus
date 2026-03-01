@@ -1,0 +1,28 @@
+＃Souko
+"…The only person who stepped foot into the scene when the incident occurred. She’s definitely the most suspicious…"
+＃Satoshi
+"True…"
+＃Maya
+"I wouldn't know, I was resting in my room as well."
+＃Satoshi
+"I see…"
+＃Ai
+"I’m not sure… I was in my room the entire time."
+＃Satoshi
+"I see…"
+＃Tsujimura
+"…She came out of her room saying she wanted some medicine. She mentioned she was heading to see Mikanagi-sensei, but…"
+＃Satoshi
+"I see…"
+＃Takamine
+"I wouldn’t know what was happening outside my room."
+＃Satoshi
+"I see…"
+＃Akane
+"Lady Shion is back in her room resting now. It seems it was a terrible shock for her…"
+＃Satoshi
+"…I see."
+＃Narumi
+"…From what I could see, Lady Shion was the only one who entered that room. I don’t think… I missed anyone."
+＃Satoshi
+"I see…"

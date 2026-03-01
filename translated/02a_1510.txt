@@ -1,43 +1,43 @@
-＃主人公
-「お待たせしました」
-食堂にいた四人――想子さん、紅緒さん、あかねさん、辻村さんの前にチャーハンの皿を置く。
-＃紅緒
-「毒味はしたのか？」
-やはり紅緒さんもぼくと同じような事を考えていたようだ。
-＃主人公
-「取り分ける前にぼくが食べました」
-＃紅緒
-「そうか。どうだった？」
-＃主人公
-「美味しかったですよ」
-＃紅緒
-「……問題なさそうだな」
-＃主人公
-「取り分ける前になるみさんが食べましたよ」
-＃紅緒
-「ふむ……ならば問題ないだろうな」
-紅緒さんがレンゲを手にしたのを見届け、想子さんたちも食事に取りかかる。
-＃想子
-「……うん、確かに美味しいわね」
-＃紅緒
-「腕は確かだからな」
-＃あかね
-「ただ作ってる時の様子からは、とてもそうは見えないんですけれどね」
-＃辻村
-「そうですねえ……他の仕事もやっていただきたいのですが……」
-＃なるみ
-「……聞こえてるわよ」
-厨房からなるみさんが出てきた。
-＃なるみ
-「奥様や詩音お嬢様にも食事を持ってって貰える？」
-＃主人公
-「あ、わかりました」
-チャーハンが盛られた皿を三つ渡される。
-摩夜さんと、詩音さんと、御巫先生の分か。
-＃主人公
-「藍さんは……まだ無理でしょうかね」
-＃なるみ
-「恐らくね。あとあの弁護士も要らないって言ったんだから食べさせる必要なんてないわよ」
-＃主人公
-「はあ……」
-まずは藍さんの様子も窺いに医務室へ行こう。
+#Satoshi
+"Sorry to keep you waiting."
+I set the plates of fried rice down in front of the four people in the dining room窶粘ouko-san, Benio-san, Akane-san, and Tsujimura-san.
+#Benio
+"Did you perform a poison test?"
+It seems Benio-san was thinking the exact same thing I was.
+#Satoshi
+"I ate some myself before portioning it out."
+#Benio
+"I see. And? How was it?"
+#Satoshi
+"It was delicious."
+#Benio
+"...Then there shouldn't be a problem."
+#Satoshi
+"Narumi-san ate some before portioning it out, too."
+#Benio
+"Hmm... in that case, there shouldn't be any issue at all."
+After making sure Benio-san picked up her spoon, Souko-san and the others began their meal as well.
+#Souko
+"...Mm, it really is delicious."
+#Benio
+"Well, her skills are certainly genuine."
+#Akane
+"Though, watching her while she was making it, you'd never imagine it would turn out like this."
+#Tsujimura
+"That's true... I'd like her to handle other tasks as well, but..."
+#Narumi
+"...I can hear you, you know."
+Narumi-san emerged from the kitchen.
+#Narumi
+"Could you take some food to Madam and Shion-ojousama as well?"
+#Satoshi
+"Ah, understood."
+I was handed three plates piled with fried rice.
+For Maya-san, Shion-san, and Dr. Mikanagi, I assume.
+#Satoshi
+"Ai-san... is it still impossible for her?"
+#Narumi
+"Likely. Also, that lawyer said he didn't want any, so there's no need to feed him."
+#Satoshi
+"I see..."
+First, I'll head to the infirmary to check on Ai-san's condition.

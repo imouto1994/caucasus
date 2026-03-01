@@ -1,38 +1,38 @@
-”‚ ‚©‚Ë
-u‚±‚Á‚¿‚Å‚·Iv
-‚ ‚©‚Ë‚³‚ñ‚ª‚«”²‚¯•”•ª‚ğˆÍ‚Ş’Ê˜H‚ğ‘–‚Á‚Ä‚¢‚­B
-‚»‚Ìæ‚ÉA–Ú—§‚½‚È‚¢Œ`‚Ì”à‚ª‚ ‚Á‚½B
-”‚ ‚©‚Ë
-u’†‚É’òq‚ª‚ ‚Á‚ÄAã‚É‚ ‚é•”‰®‚É’Ê‚¶‚Ä‚¢‚Ü‚·v
-”ålŒö
-u‚í‚©‚è‚Ü‚µ‚½B‚Ú‚­‚ªæ‚És‚«‚Ü‚·v
-‰½‚ª‚ ‚é‚©‚í‚©‚ç‚È‚¢B
-‚Ú‚­‚Í”à‚ğŠJ‚¯‚Ä‚­‚ê‚½‚ ‚©‚Ë‚³‚ñ‚ÆˆÊ’u‚ğ“ü‚ê‘Ö‚í‚èA’†‚É“ü‚Á‚½B
-‚©‚Â‚ñ‚©‚Â‚ñ‚Æ‰¹‚ğ‹¿‚©‚¹‚È‚ª‚ç’òq‚ğ“o‚Á‚Ä‚¢‚­B
-^‚ÁˆÃ‚Å‰½‚àŒ©‚¦‚È‚¢B
-“o‚èØ‚é‚ÆA‚·‚®‹ß‚­‚É”à‚ª‚ ‚é‚Ì‚ª‚í‚©‚Á‚½B
-”à‚Ì¬‘‹‚©‚çAŠOŒõ‚¾‚ë‚¤‚©A‹Í‚©‚ÉŒõ‚ªË‚µ‚ñ‚Å‚¢‚éB
-‚Ú‚­‚Í’†‚ğ”`‚«‚ñ‚¾B
-”ålŒö
-u—•‚³‚ñ‚ÁIHv
-‚»‚±‚É—•‚³‚ñ‚ª‚¢‚½B
-cc—•‚³‚ñ‚Ì‚Â‚Üæ‚ª‹Í‚©‚É•‚‚¢‚Ä‚¢‚éB
-ñ‚É‚Íƒ[ƒv‚Ì‚æ‚¤‚È‚à‚Ì‚ªŠª‚©‚êA‚»‚ê‚Å‚¿ã‚°‚ç‚ê‚Ä‚¢‚é‚Ì‚¾B
-ccƒ[ƒv‚Í‚Ò‚ñ‚Æ’£‚Á‚Ä‚¢‚½B
-‚Ç‚ê‚¾‚¯ŠÔ‚ªŒo‰ß‚µ‚½‚Ì‚¾‚ë‚¤B
-”ålŒö
-u—•‚³‚ñ‚ÁI@‘åä•v‚Å‚·‚©‚ÁIHv
-‚Ú‚­‚Í”à‚Ìƒmƒu‚Éè‚ğŠ|‚¯A‚¿‚­‚è‚Æ‚µ‚½’É‚İ‚É‹Á‚¢‚Äè‚ğ•ú‚µ‚½B
-ƒhƒAƒmƒu‚Æ•Ç‚É”‡‚Á‚Ä‚¢‚é“SƒpƒCƒv‚ªAj‹à‚ÅŒ‹‚í‚¦‚ç‚ê‚Ä‚¢‚½B
-”ålŒö
-u‰Rcc‚¾‚ëccHv
-ƒmƒu‚ğ”P‚Á‚Ä“®‚©‚µ‚Ä‚İ‚é‚ªA“–‘RƒhƒA‚ÍŠJ‚©‚È‚¢B
-‚½‚¾Œ®‚ÍŠ|‚©‚Á‚Ä‚¢‚È‚¢‚æ‚¤‚¾B
-‚Å‚à\\
-”‚ ‚©‚Ë
-u‰R‚Ácc‚¨ì—lccv
-‚ ‚©‚Ë‚³‚ñ‚ªŠç‚ğ•¢‚¤B
-”ålŒö
-u‚Ü‚¾cc‚í‚©‚è‚Ü‚¹‚ñ‚æB‰½‚Æ‚©‚µ‚ÄŠJ‚¯‚È‚¢‚Æccv
-‚»‚¤Œ¾‚¢‚È‚ª‚çB
-‚Ú‚­‚ÍAˆê•ªˆÈã‚Ì’‚‘§ó‘Ô‚ª‘±‚¢‚½ê‡A•‚©‚éŒ©‚İ‚ª‚Ù‚Æ‚ñ‚Ç‚È‚¢–‚ğv‚¢o‚µ‚Ä‚¢‚½B
+#Akane
+"This way!"
+Akane-san ran along the passage surrounding the atrium.
+Beyond that, there was an inconspicuous door.
+#Akane
+"There's a ladder inside that leads to a room above."
+#Satoshi
+"Understood. I'll go first."
+No telling what might be there.
+I swapped places with Akane-san, who had opened the door, and went inside.
+I climbed the ladder, the sound of my footsteps echoing.
+It was pitch black and I couldn't see a thing.
+When I reached the top, I could tell there was a door nearby.
+A tiny bit of light was filtering in through a small window in the door, perhaps from outside.
+I peeked inside.
+#Satoshi
+"Ai-san!?"
+Ai-san was in there.
+...Ai-san's toes were hovering just slightly above the ground.
+Something like a rope was wound around her neck, and she was being suspended by it.
+...The rope was pulled taut.
+I wonder how much time has passed.
+#Satoshi
+"Ai-san! Are you alright!?"
+I reached for the doorknob, but pulled my hand away in surprise at a stinging pain.
+The doorknob and a iron pipe running along the wall had been tied together with wire.
+#Satoshi
+"You've... got to be kidding... right...?"
+I tried to turn the knob, but of course the door wouldn't open.
+However, it didn't seem to be locked.
+Butâ€”
+#Akane
+"No... young lady..."
+Akane-san covered her face.
+#Satoshi
+"We don't... know yet. I have to open it somehow..."
+Saying so.
+I was remembering that if suffocation continues for more than a minute, there's almost no chance of survival.

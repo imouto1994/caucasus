@@ -1,18 +1,18 @@
-事務室まで戻ると、珍しく摩夜さんがそこにいた。
-＃主人公
-「あ……摩夜さん……」
-＃摩夜
-「あら……詩音の所にいらしたの？」
-＃主人公
-「ええ……どうしても確かめたいことがありまして……」
-＃摩夜
-「そう……ところで、詩音は薬をお飲みになりましたか？」
-＃主人公
-「あ……御巫先生が亡くなってしまったので、まだじゃないでしょうか」
-＃摩夜
-「まあ……やっぱり……持ってきてよかったわ」
-＃主人公
-「あの……じゃあ、ぼくはこれで」
-＃摩夜
-「ええ、お休みなさいませ」
-ぼくは摩夜さんを残し、事務室を出た。
+When I returned to the office, Maya-san was there, which was unusual.
+#Main Character
+"Ah... Maya-san..."
+#Maya
+"Oh... were you with Shion?"
+#Main Character
+"Yes... there was something I absolutely had to confirm..."
+#Maya
+"I see... By the way, did Shion take her medicine?"
+#Main Character
+"Ah... since Dr. Mikanagi passed away, she probably hasn't yet."
+#Maya
+"I see... just as I thought... I'm glad I brought it then."
+#Main Character
+"Um... well, I'll be taking my leave now."
+#Maya
+"Yes, good night to you."
+Leaving Maya-san behind, I stepped out of the office.

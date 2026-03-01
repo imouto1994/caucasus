@@ -1,0 +1,36 @@
+#Souko
+"The possibility of Maya-san being the killer... I doubt it. ...Unless there was a will stating that the entire estate would be inherited by Ai-san, that is."
+#Satoshi
+"I see..."
+#Maya
+"I remained in my room the entire time. It was a blackout... I decided it was best not to move. Mikanagi-sensei did come to check on me."
+#Satoshi
+"I see..."
+#Benio
+"Mother would have no reason to kill my sister, would she? The inheritance doesn't concern her anyway."
+#Satoshi
+"...I see."
+#Shion
+"I believe Mother... would have been in her room."
+#Satoshi
+"I see..."
+#Tsujimura
+"The Mistress? She should have been in her room the entire time..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Mikanagi
+"...Maya-san was in her room. I went to check on her during the blackout, so there's no mistake."
+#Satoshi
+"I see..."
+#Akane
+"The Mistress has been resting in her room this whole time... the mental strain seems ceaseless."
+#Satoshi
+"I see..."
+#Narumi
+"If it's the Mistress, I think she was in her room the whole time... but the possibility of her killing Lady Ai... well, I can't say it's zero, considering the distribution of the inheritance and all."
+#Satoshi
+"...I see."

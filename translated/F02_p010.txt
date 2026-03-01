@@ -1,0 +1,36 @@
+#Souko
+"Narumi-san? Doesn't she seem totally unmotivated? The food was delicious, though..."
+#Protagonist
+"...I suppose so."
+#Maya
+"Narumi? Her talent for cooking is wonderful. However... I do wish she would take things a bit more seriously..."
+#Protagonist
+"...I see."
+#Ai
+"Narumi-san... Her cooking is always delicious, but... well, her other duties are a bit..."
+#Protagonist
+"I see..."
+#Benio
+"Narumi? Only her cooking skills are first-class. As for the rest... well, you can imagine."
+#Protagonist
+"I see..."
+#Tsujimura
+"Minakami-san... It would be a great help to me if she worked as diligently on things other than cooking..."
+#Protagonist
+"I see..."
+#Takamine
+"Minakami-kun... I don't know her well. The food isn't bad, though..."
+#Protagonist
+"I see."
+#御巫
+"Narumi-san? Her cooking is delicious. As for anything else... I really wouldn't know."
+#Protagonist
+"I see..."
+#Akane
+"Narumi-san? She's primarily in charge of the cooking... I believe she's in the kitchen right now."
+#Protagonist
+"I see."
+#Narumi
+"About me? Why would you ask that? ...Oh, don't tell me you've got a thing for me...?"
+#Protagonist
+"...As if that would ever be the case."

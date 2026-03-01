@@ -1,29 +1,29 @@
-あかねさんが乱れた服を整える。
-＃主人公
-「あの……あかねさん……」
-＃あかね
-「……軽蔑しましたか？」
-＃主人公
-「いえっ、そんなこと……決してないです。そうじゃなくて……もう少し聞かせてください、お姉さんの事」
-＃あかね
-「……このあたりでは昔から“神隠し”が多く起こっていたそうです。若い娘ばかりが居なくなっていたとか……」
-＃主人公
-「……東北地方にはそう云う類の伝説が多くあります。『遠野物語』でも幾つか記述が残ってますから」
-＃あかね
-「でも姉が居なくなったのはつい最近なんです。わたしが調べた限りでは戦後もこのあたりで若い娘が居なくなると云う事が多かったそうです」
-＃主人公
-「そうなんですか……」
-＃あかね
-「ええ……あと、『七憑きの呪い』をご存じですか……？」
-＃主人公
-「……内容までは知りませんが……」
-＃主人公
-「ええ……紅緒さんに聞きました。そう云えば、神隠しも含まれていましたね」
-＃あかね
-「“七憑きの贄”という噂があるんですが……もしかしたら、何か関係があるのかもしれません」
-＃主人公
-「そうですか……わかりました。出来る限り調べてみます。元々そっち方面のことを調べに来たんですから」
-＃あかね
-「でも、あの……どうか、お気をつけて」
-＃主人公
-「ええ……わかっています」
+Akane-san straightened her disheveled clothes.
+#Main Character
+"Um... Akane-san..."
+#Akane
+"...Do you despise me now?"
+#Main Character
+"No, of course not... never. It's not that... please, tell me more about your sister."
+#Akane
+"...They say 'spiritings' have been happening around here for a long time. Mostly young women going missing..."
+#Main Character
+"...There are many legends of that sort in the Tohoku region. Even the 'Tono Monogatari' has several entries on it."
+#Akane
+"But my sister disappeared only recently. From what I窶况e found, even after the war, many young women went missing in this area."
+#Main Character
+"Is that right..."
+#Akane
+"Yes... Also, are you familiar with the 'Curse of the Nanatsuki'...?"
+#Main Character
+"...I don't know the specifics..."
+#Main Character
+"Yes... Benio-san told me about it. Now that you mention it, spiritings were part of it."
+#Akane
+"There are rumors of the 'Nanatsuki Sacrifice'... I thought it might be related somehow."
+#Main Character
+"I see... Understood. I'll look into it as much as I can. That's why I came here in the first place."
+#Akane
+"But, um... please, be careful."
+#Main Character
+"Yeah... I know."

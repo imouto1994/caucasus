@@ -1,47 +1,47 @@
-‘åLŠÔ‚É‚ÍA¶‚«c‚Á‚½lŠÔ‚ª¨‘µ‚¢‚µ‚Ä‚¢‚½B
-”’Ò‘º
-u‚ A‚ ‚Ìcc‰¹‚¨ì—l‚ª–S‚­‚È‚ç‚ê‚½‚Æccv
-^‚Áæ‚É’Ò‘º‚³‚ñ‚ªu‚Ë‚Ä‚«‚½B
-”g
-ucc‚ ‚ A©E‚Ì‚æ‚¤‚¾v
-”’Ò‘º
-u‚»‚ñ‚Èccv
-”‚—ä
-ucc‰½ŒÌ‚¾Hv
-”g
-u‚»‚ê‚Ícc‚Ü‚¾Œ´ˆö‚Í‚í‚©‚Á‚Ä‚¢‚È‚¢v
-”‚—ä
-u‘¼E‚Ì‰Â”\«‚Í‚È‚¢‚Ì‚©Hv
-”ålŒö
-ucc‚¨‚»‚ç‚­–³‚¢‚Æv‚¢‚Ü‚·v
-”–€–é
-u‚»‚ñ‚Ècc‰¹ccv
-”g
-u‚½‚¾cc‰¹‚ª‘¼‚Ì‘S‚Ä‚Ì”Æs‚ÉŠÖ‚í‚Á‚Ä‚¢‚½‰Â”\«‚ª‚ ‚éB‚¾‚©‚ç©E‚µ‚½‚Æ‚àl‚¦‚ç‚ê‚é‚¾‚ë‚¤v
-”‚—ä
-u‰¹ŒN‚É‚ÍEl‚ğ”Æ‚·——R‚ª‚È‚¢‚Æv‚¤‚ªccv
-”g
-u’f’è‚Ío—ˆ‚ñB‚½‚¾A¡‚Í‚»‚Ì‰Â”\«‚ª‚‚¢‚Æ‰]‚¤‚¾‚¯‚¾v
-”‚—ä
-u‚µ‚©‚µccv
-”‚È‚é‚İ
-u‚¿‚å‚Á‚ÆM‚¶‚ç‚ê‚È‚¢‚í‚Ëcc‚ ‚ê‚ğŒ©‚½Œã‚¶‚á“Á‚Év
-‚È‚é‚İ‚³‚ñ‚ªˆêu‚¾‚¯–€–é‚³‚ñ‚Ì•û‚ğŒ©Œ­‚Á‚½B
-”ålŒö
-u‚È‚é‚İ‚³‚ñcc‚»‚Ì‚±‚Æ‚Í’u‚¢‚Ä‚¨‚«‚Ü‚µ‚å‚¤B¡‚ÍA‰¹‚³‚ñ‚ª”Æl‚¾‚Æl‚¦‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢v
-”‚È‚é‚İ
-u‚»‚¤\\v
-‚È‚é‚İ‚³‚ñ‚ª‚Ú‚­‚ç‚ÌˆÓ}‚ğ—‰ğ‚µ‚½‚Ì‚©‚Í‚í‚©‚ç‚È‚¢‚ªA­‚È‚­‚Æ‚à¡‚Í”[“¾‚µ‚Ä‚­‚ê‚½‚æ‚¤‚¾B
-”g
-ucc‚±‚êˆÈã‰äX‚Éo—ˆ‚é‚±‚Æ‚Í‚È‚¢B‚ ‚Æ‚Í‘ål‚µ‚­•”‰®‚Å–¾“ú‚ğ‘Ò‚Æ‚¤v
-”Œä›Ş
-ucc‚»‚ê‚ª‚¢‚¢‚¾‚ë‚¤‚Ëv
-Œä›Şæ¶‚àèõ‚­B
-”’Ò‘º
-u‚ ‚Ìcc‰¹‚¨ì—l‚Ì‚²ˆâ‘Ì‚Íccv
-”Œä›Ş
-ucc‚»‚Ì‚Ü‚Ü‚É‚µ‚Ä‚¨‚­‚×‚«‚Å‚µ‚å‚¤‚Ëv
-”’Ò‘º
-u‚»‚¤‚Å‚·‚©cc‚í‚©‚è‚Ü‚µ‚½v
-”ålŒö
-ucc‚¶‚á‚ A•”‰®‚É–ß‚è‚Ü‚µ‚å‚¤v
+Everyone who had survived was gathered in the main hall.
+#Tsujimura
+"U-Um... I heard that Shion-ojousama has passed away..."
+Tsujimura-san was the first to ask.
+#Benio
+"...Yes, it appears she committed suicide."
+#Tsujimura
+"How could this be..."
+#Takamine
+"...But why?"
+#Benio
+"That... we still don't know the reason."
+#Takamine
+"Is there no possibility of murder?"
+#Main Character
+"...I believe it's unlikely."
+#Maya
+"No... Shion..."
+#Benio
+"However... it's possible Shion was involved in all the other crimes. That would explain why she took her own life."
+#Takamine
+"I don't think Shion-kun had any reason to commit murder, but..."
+#Benio
+"I can't say for certain. Only that it's the highest probability right now."
+#Takamine
+"But..."
+#Narumi
+"It's a little hard to believe... especially after seeing *that*."
+Narumi-san cast a fleeting glance toward Maya-san.
+#Main Character
+"Narumi-san... let's set that aside for now. For the time being, please consider Shion-san as the culprit."
+#Narumi
+"I seeâ€”"
+I couldn't tell if Narumi-san understood our intention, but at the very least, she seemed to accept it for now.
+#Benio
+"...There is nothing more we can do. All that's left is to stay quiet in our rooms and wait for morning."
+#Mikanagi
+"...That would be for the best."
+Dr. Mikanagi nodded.
+#Tsujimura
+"Um... and Shion-ojousama's remains...?"
+#Mikanagi
+"...They should be left as they are."
+#Tsujimura
+"I see... understood."
+#Main Character
+"...Well then, let's head back to our rooms."

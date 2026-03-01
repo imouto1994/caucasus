@@ -1,18 +1,18 @@
-大広間に戻ってきた。
-＃想子
-「……人数が少ないわね」
-館にいる全員が集まっている訳ではないようだ。
-＃あかね
-「奥様と御巫先生は医務室におります」
-＃主人公
-「詩音さんは部屋ですか？」
-＃辻村
-「ええ、そうです」
-＃想子
-「……そう」
-想子さんはやや不満そうだ。
-＃高嶺
-「別に構わんだろう。さっさと始めてくれ」
-不機嫌さを隠そうともせず高嶺さんが言う。
-＃想子
-「……仕方ないわね。じゃあ気になっている事を訊いていくわよ」
+We returned to the Great Hall.
+#Souko
+"...There aren't many people here."
+It didn't seem like everyone in the manor had gathered.
+#Akane
+"The Madam and Dr. Mikanagi are in the infirmary."
+#Satoshi
+"Is Shion-san in her room?"
+#Tsujimura
+"Yes, she is."
+#Souko
+"...I see."
+Souko-san looked somewhat dissatisfied.
+#Takamine
+"It shouldn't matter. Just get started already."
+Takamine-san said, making no effort to hide his displeasure.
+#Souko
+"...It can't be helped. Well then, I'm going to start asking about things that are bothering me."

@@ -1,0 +1,52 @@
+#Souko
+"...She seems quite shaken up."
+#Protagonist
+"...You're right."
+#Souko
+"If Ai-san’s murder was related to the inheritance, the survivor would be the prime suspect... but I don't think it's that simple."
+#Protagonist
+"Right..."
+#Maya
+"I'm glad Ai was safe, but... why did something like this happen...?"
+#Protagonist
+"Right..."
+#Maya
+"Why Ai too...? Are you saying that child did something wrong...?"
+#Protagonist
+"Maya-san..."
+#Ai
+"...It seems I can't shake this fatigue... It’s strange, isn't it? Even though I’m in my own home..."
+#Protagonist
+"Ai-san..."
+#Benio
+"I have a feeling that attack on my sister was carried out differently than the one on Rokuyou..."
+#Protagonist
+"I see..."
+#Benio
+"...I don't think it will end with my sister being killed. Next will be me... or someone else."
+#Protagonist
+"That might be true..."
+#Tsujimura
+"Lady Ai seems quite shaken. I suppose it's only natural after something like that..."
+#Protagonist
+"Right..."
+#Tsujimura
+"...Why did Lady Ai have to be killed...?"
+#Protagonist
+"Right..."
+#Takamine
+"...In any case, I'm glad Ai-kun didn't lose her life."
+#Protagonist
+"Right..."
+#Takamine
+"...So even Ai-kun was killed..."
+#Protagonist
+"Yeah..."
+#Mikanagi
+"As for Ai-san, I expect she's returned to her room. After what happened yesterday, it's better if she rests."
+#Protagonist
+"I see."
+#Mikanagi
+"What is the culprit's aim...? What do they gain by killing Isamu and Ai-san...?"
+#Protagonist
+"Right..."

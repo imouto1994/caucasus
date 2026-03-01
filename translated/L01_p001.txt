@@ -1,0 +1,40 @@
+#Souko
+"Around two o'clock? I was in your room then, wasn't I?"
+#Satoshi
+"Ah, that's right."
+#Maya
+"I feel terribly sorry that Mistress Kirihara has been dragged into such an ordeal."
+#Satoshi
+"I see..."
+#Ai
+"...Is something the matter with Mistress Kirihara? She shouldn't have any connection to Isamu-san, but..."
+#Satoshi
+"True..."
+#Benio
+"...As someone with no ties to this house, I doubt anyone is better suited to play the role of detective than her."
+#Satoshi
+"I-I see..."
+#Shion
+"I don't really understand, but... I am sorry."
+#Satoshi
+"Y-You're right..."
+#Tsujimura
+"I am deeply sorry for the terrible trouble we have caused Mistress Kirihara and her companion..."
+#Satoshi
+"No, please don't let it worry you..."
+#Takamine
+"Normally one would be shaken after something like this, but she is remarkably composed."
+#Satoshi
+"True..."
+#Mikanagi
+"Kirihara-san, huh... She seems strong, but you have to be the one to support her."
+#Satoshi
+"Y-Yeah..."
+#Akane
+"Mistress Kirihara? I don't see any particular problem with her..."
+#Satoshi
+"I see..."
+#Narumi
+"Kirihara-san? Nothing seems strange about her."
+#Satoshi
+"I see..."

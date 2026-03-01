@@ -1,0 +1,44 @@
+I've come to the front of Takamine-san's room.
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+#Takamine
+"Is it you... What do you want?"
+#Satoshi
+"Um, have you seen Souko-san—I mean, Kirihara?"
+#Takamine
+"Kirihara... Ah, her. She was in the grand hall, but..."
+#Satoshi
+"When was that?"
+#Takamine
+"...It was after six. She came into the grand hall while I was drinking coffee."
+#Satoshi
+"Was there anything strange about her?"
+#Takamine
+"...I couldn't really tell. We didn't really talk."
+#Satoshi
+"I see..."
+#Takamine
+"Can't you find her?"
+#Satoshi
+"No... her room had been ransacked."
+#Takamine
+"Ransacked...? Nothing like that has happened until now..."
+#Satoshi
+"Yeah... this feels different from before. Otherwise... there'd be no reason for Souko-san to be targeted."
+#Takamine
+"Hmm... Hiyama-kun hasn't been found yet, either."
+#Satoshi
+"Please let me know immediately if anything happens."
+#Takamine
+"Yeah, understood."
+I've come to the front of Takamine-san's room.
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+#Takamine
+"Is it you? Did you find her?"
+#Satoshi
+"No, not yet..."
+#Takamine
+"I see..."
+#Satoshi
+"Um, I'll be looking a bit more, so if anything happens..."
+#Takamine
+"Yeah, I know."

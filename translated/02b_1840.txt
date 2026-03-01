@@ -1,27 +1,27 @@
-事務室の裏側の扉から外に出る。
-相変わらず雪は降り続いていた。
-細い路に新しい足跡を付けながら塔へ急ぐ。
-中に入り、雪を払い落とす。
-まずは詩音さんの安否を確認しないと。
-ぼくは階段を上っていった。
-＃主人公
-「詩音さん、ぼくです。開けてください」
-声を掛けて少し待つ。
-扉が開き、おずおずとした様子で詩音さんが顔を覗かせた。
-＃詩音
-「あ……」
-＃主人公
-「よかった……詩音さん、暗かったでしょう？」
-＃詩音
-「いえ……元々ここは薄暗いので……」
-＃主人公
-「そうですか……とにかく、無事で良かった」
-＃詩音
-「……そうですか」
-詩音さんは何故か気落ちしたように俯いてしまった。
-＃主人公
-「どうかしましたか……？」
-＃詩音
-「……いえ、何でもないんです。それでは――」
-詩音さんは頭を下げ、扉を閉めてしまった。
-もう少し話したかったけど……仕方ない、館に戻ろう。
+I head outside through the back door of the office.
+The snow is still falling as steadily as ever.
+I hurry toward the tower, leaving fresh footprints on the narrow path.
+I step inside and brush off the snow.
+First, I have to confirm Shion-san's safety.
+I head up the stairs.
+#Satoshi
+"Shion-san, it's me. Please open up."
+I call out and wait for a moment.
+The door opens, and Shion-san timidly peeks her face out.
+#Shion
+"Ah窶ｦ窶ｦ"
+#Satoshi
+"Thank goodness窶ｦ窶ｦ Shion-san, it must have been dark, right?"
+#Shion
+"No窶ｦ窶ｦ it's always dim here anyway窶ｦ窶ｦ"
+#Satoshi
+"Is that so窶ｦ窶ｦ at any rate, I'm glad you're safe."
+#Shion
+"窶ｦ窶ｦI see."
+For some reason, Shion-san looks down as if dejected.
+#Satoshi
+"Is something the matter窶ｦ窶ｦ?"
+#Shion
+"窶ｦ窶ｦNo, it's nothing. Well then窶披�"
+Shion-san bows and closes the door.
+I wanted to talk a little more, but窶ｦ窶ｦ it can't be helped, I'll head back to the manor.

@@ -1,0 +1,28 @@
+
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+#Protagonist
+"Dr. Mikanagi, are you in?"
+The door opened, and Dr. Mikanagi peeked out.
+#Mikanagi
+"What's the matter?"
+#Protagonist
+"Hello, Dr. Mikanagi. Do you have a moment?"
+#Mikanagi
+"Yes, I don't mind, but what is it?"
+Now, what should I do?
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+The door opened, and Dr. Mikanagi peeked out.
+#Mikanagi
+"Oh, what is it this time?"
+#Protagonist
+"Hello, Dr. Mikanagi. Do you have a moment?"
+#Mikanagi
+"Well, I don't mind."
+Now, what should I do?
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+But there was no response from inside.
+Is he not here?
+I gave up and decided to head elsewhere.

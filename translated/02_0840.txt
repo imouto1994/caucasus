@@ -1,73 +1,73 @@
-防寒着を羽織ってエントランスまで戻ってくると、すでに高嶺さんが用意を調えて待っていた。
-＃主人公
-「お待たせしました」
-＃高嶺
-「外はまだ吹雪いている。はぐれないようにしろよ」
-＃主人公
-「はい、わかりました」
-＃高嶺
-「では行くぞ」
-高嶺さんが扉を開いた。
-外は猛吹雪だった。
-＃主人公
-「うわっ……」
-顔にばちばちと雪が当たる。
-視界もほとんど無い。
-暴力的な白い世界。
-膝下まで雪に埋まってしまっている。
-＃高嶺
-「こっちだ。来い」
-高嶺さんが先に立って歩き出す。
-積もった雪を蹴散らすように進む後ろを付いていく。
-風雪に揉まれながら暫く歩くと、不意に高嶺さんが立ち止まった。
-＃高嶺
-「くそっ……」
-＃主人公
-「どうかしましたか？」
-＃高嶺
-「……見ろ」
-高嶺さんが前方を指差した。
-ぼくたちの前には、ごうごうと唸りを上げる風が通り抜ける断崖が口を開けていた。
-＃主人公
-「吊り橋が……落ちた……？」
-＃高嶺
-「……どうやらそのようだ」
-高嶺さんが雪を掻き分けて残っている木の杭へ近付く。
-だらりとロープがぶら下がっていた。
-＃高嶺
-「……切られているな」
-＃主人公
-「え……じゃあ……」
-＃高嶺
-「誰かが、意図的に吊り橋を落としたのだろうな。……くそっ、電話線もここで切られている」
-高嶺さんが拳を杭に叩きつける。
-＃主人公
-「他に道はないんですか？」
-＃高嶺
-「……雪がなければ下の沢まで降りて歩いていく事も出来るが……この分では無理だろうな」
-高嶺さんが踵を返す。
-＃高嶺
-「戻るぞ。ここに居ても無駄だ」
-＃主人公
-「は……はい」
-来た道を引き返す。
-＃主人公
-「これからどうするんですか？」
-＃高嶺
-「救援を待つしかないだろう。何日か毎に御用聞きが来るから、その時に気付いて貰える」
-＃主人公
-「ですが……その、六曜さんの件もありますから」
-＃高嶺
-「君は六曜君を見たのか？」
-＃主人公
-「少しだけですが……」
-＃高嶺
-「……そうか。紅緒君は『殺されている』とだけ言っていたが、それはすぐに判る状態だったのか？」
-＃主人公
-「……ええ」
-なにせ首が無かったのだ。
-少なくとも、首を切断した犯人が存在している。
-＃高嶺
-「ふむ……」
-軽く頷き、高嶺さんが黙り込む。
-そのまま黙々と歩き、館の玄関まで戻ってきた。
+By the time I窶囘 put on my winter gear and returned to the entrance, Takamine-san was already prepared and waiting.
+#Protagonist
+"Sorry to keep you waiting."
+#Takamine
+"It窶冱 still a blizzard out there. Make sure you don't get separated."
+#Protagonist
+"Yes, I understand."
+#Takamine
+"Let's go."
+Takamine-san opened the door.
+Outside was a raging storm.
+#Protagonist
+"Whoa..."
+Snow lashed against my face.
+Visibility was almost zero.
+A violent world of white.
+The snow was already up to my knees.
+#Takamine
+"This way. Follow me."
+Takamine-san took the lead.
+I followed behind him as he kicked through the drifts.
+After walking through the wind and snow for a while, Takamine-san suddenly stopped.
+#Takamine
+"Dammit..."
+#Protagonist
+"Is something wrong?"
+#Takamine
+"...Look."
+Takamine-san pointed ahead.
+Before us lay a cliff where the wind howled as it tore through the gap.
+#Protagonist
+"The suspension bridge... it窶冱 gone...?"
+#Takamine
+"...It certainly appears that way."
+Takamine-san pushed through the snow to reach the remaining wooden posts.
+A rope hung limply from one of them.
+#Takamine
+"...It窶冱 been cut."
+#Protagonist
+"What... Then..."
+#Takamine
+"Someone dropped the bridge on purpose. ...Dammit, the phone line was cut here, too."
+Takamine-san slammed his fist against the post.
+#Protagonist
+"Is there no other way?"
+#Takamine
+"...If it weren't for the snow, we could climb down into the ravine and walk across, but... in this weather, it窶冱 impossible."
+Takamine-san turned around.
+#Takamine
+"We窶决e going back. There窶冱 no point in staying here."
+#Protagonist
+"R... right."
+We retraced our steps.
+#Protagonist
+"What are we going to do now?"
+#Takamine
+"We have no choice but to wait for rescue. A deliveryman comes by every few days; someone will notice then."
+#Protagonist
+"But... you know, with what happened to Rokuyou-san..."
+#Takamine
+"Did you see Rokuyou-kun?"
+#Protagonist
+"Only for a moment..."
+#Takamine
+"...I see. Benio-kun only said he窶囘 been 'murdered,' but was it that obvious?"
+#Protagonist
+"...Yes."
+His head was missing, after all.
+At the very least, there was a killer out there who had decapitated him.
+#Takamine
+"Hmm..."
+Giving a short nod, Takamine-san fell silent.
+We walked back to the mansion entrance in silence.

@@ -1,0 +1,92 @@
+I’ve made my way to the grand hall.
+...But it seems no one is here.
+What should I do...?
+I’ve made my way to the grand hall.
+#Shion
+"Ah..."
+Shion-san was there.
+#Protagonist
+"Shion-san... It’s dangerous to be here all by yourself..."
+#Shion
+"I'm sorry..."
+Shion-san looks down.
+#Protagonist
+"Um, Shion-san. Do you have a moment?"
+#Shion
+"Um... that is, I'm sorry, I..."
+Shion-san stood up.
+#Shion
+"...Please excuse me."
+Shion-san bowed her head and hurried out of the room.
+...It seems she dislikes me.
+#Protagonist
+"...I guess it can't be helped."
+With slumped shoulders, I left the grand hall behind.
+#Shion
+"What is it...?"
+I’ve made my way to the grand hall.
+#Shion
+"Ah... is something the matter?"
+#Protagonist
+"Hello, Shion-san. Do you have a moment?"
+#Shion
+"Um... that is, I'm sorry, I..."
+Shion-san stood up.
+#Shion
+"...Please excuse me."
+Shion-san bowed her head and hurried out of the room.
+...It seems she dislikes me.
+#Protagonist
+"...I guess it can't be helped."
+With slumped shoulders, I left the grand hall behind.
+#Shion
+"Yes, what can I do for you?"
+I’ve made my way to the grand hall.
+#Akane
+"Lady Ai doesn't seem to be here either..."
+#Protagonist
+"You're right..."
+I wonder where on earth she could have gone.
+#Protagonist
+"...Let's look somewhere else."
+#Akane
+"Yes..."
+I’ve made my way to the grand hall.
+#Shion
+"Ah..."
+Shion-san was there.
+#Protagonist
+"Shion-san... It’s dangerous for you to be here alone."
+#Akane
+"He's right, milady. There's no telling what might happen."
+#Shion
+"I'm sorry..."
+Shion-san looks down.
+#Protagonist
+"Have you seen Ai-san?"
+#Shion
+"Sister Ai...?"
+#Akane
+"Yes... she isn't in her room."
+#Shion
+"I... don't know..."
+Shion-san shakes her head.
+#Protagonist
+"I see..."
+#Akane
+"Let's try looking somewhere else."
+We parted ways with Shion-san and decided to search another location.
+Shion-san was in the grand hall.
+#Shion
+"Ah..."
+#Protagonist
+"Shion-san, it seems you haven't... seen Ai-san around, have you?"
+#Shion
+"...I'm sorry."
+#Protagonist
+"No, it's not something you need to apologize for, Shion-san."
+#Akane
+"Let's look elsewhere."
+#Protagonist
+"Right..."
+We parted ways with Shion-san and decided to search another location.

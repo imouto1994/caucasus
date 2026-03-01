@@ -1,0 +1,36 @@
+#Maya
+"Oh dear... You mustn't enter rooms without permission."
+#Satoshi
+"Y-You're right... I'm sorry."
+#Ai
+"A wig...? I don't know much about Mother's things."
+#Satoshi
+"I see..."
+#Benio
+"Mother's wig, huh... I don't know anything about it."
+#Satoshi
+"I see..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Satoshi
+"Right, of course..."
+#Tsujimura
+"Sigh... Regarding the Mistress's belongings, it would be better to ask the Mistress herself..."
+#Satoshi
+"You're right..."
+#Takamine
+"I can't really tell."
+#Satoshi
+"I see..."
+#Mikanagi
+"That is... I don't really know."
+#Satoshi
+"I see..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"I don't really know about that."
+#Satoshi
+"I see..."

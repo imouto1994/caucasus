@@ -1,32 +1,32 @@
-真っ先にやって来たのは想子さんだった。
-＃想子
-「いったい何があったの……？」
-＃主人公
-「御巫先生が……」
-それだけで何があったかわかってしまう今の状況はとても異常だと思う。
-＃想子
-「また……？」
-想子さんが部屋の中を覗き見、絶句する。
-＃主人公
-「……ついさっきまで御巫先生と話していたんです。でも……ほんの十分かそこらで……」
-＃想子
-「……誰か出入りした？」
-想子さんは床に付いた血痕を指して訊ねてきた。
-＃主人公
-「詩音さんが……第一発見者です。血塗れでした……今は医務室へ行っています」
-＃想子
-「……そう」
-辻村さんたちが走ってきた。
-＃辻村
-「あ……あの、御巫先生が……」
-＃主人公
-「ええ……」
-＃辻村
-「ああ……なんという事でしょう……」
-＃想子
-「辻村さん、詩音さんが医務室に居ます。衣服も汚れているそうですから……」
-＃辻村
-「は、はい……」
-辻村さんがとぼとぼと医務室へ入っていく。
-＃想子
-「……私たちは部屋の中を調べましょう。もっとも……検視が出来る人はもういないけど」
+The first to arrive was Souko-san.
+#Souko
+"Just what on earth happened...?"
+#Main Character
+"Dr. Mikanagi is..."
+I felt that the current situation, where you could know what happened just from that, was incredibly abnormal.
+#Souko
+"Again...?"
+Souko-san peered into the room and was left speechless.
+#Main Character
+"...I was talking to Dr. Mikanagi just a short while ago. But... in just ten minutes or so..."
+#Souko
+"...Did anyone go in or out?"
+Souko-san asked, pointing to the bloodstains on the floor.
+#Main Character
+"Shion-san was... the first to discover him. She was covered in blood... she's at the clinic now."
+#Souko
+"...I see."
+Tsujimura-san and the others came running.
+#Tsujimura
+"U-Um, Dr. Mikanagi is..."
+#Main Character
+"Yes..."
+#Tsujimura
+"Oh... how can this be..."
+#Souko
+"Tsujimura-san, Shion-san is in the clinic. Her clothes are also soiled, so..."
+#Tsujimura
+"Y-Yes..."
+Tsujimura-san trudged into the clinic.
+#Souko
+"...Let's investigate the room. Although... there's no one left who can perform an autopsy."

@@ -1,96 +1,96 @@
-＃主人公
-「御巫先生」
-ホールまで戻ってきた所で、御巫先生に声を掛けた。
-＃御巫
-「なんだい？」
-＃主人公
-「先程式中におっしゃっていた事をもう少しお聞きしたいんですが」
-どうしても詩音さんの事が気になっていた。
-＃御巫
-「そうだね……ここではちょっと。あとで僕の部屋に来てくれ」
-御巫先生はあたりを見回してそう言った。
-ホールにはまだ他の人が居る。
-＃主人公
-「じゃあ後でお願いします」
-＃御巫
-「ああ」
-頷いて御巫先生は摩夜さんの方へ歩いていった。
-＃想子
-「教えてくれそう？」
-変わりに想子さんが近付いてくる。
-＃主人公
-「どこまで突っ込んだ事を教えてくれるかは判りませんけれどね」
-＃想子
-「あまり期待しないで聞いてみましょ。はふぅ……それにしても眠いわね」
-想子さんが欠伸を洩らした。
-＃主人公
-「もう一時を過ぎてますからね」
-＃想子
-「ちゃっちゃと聞いて、ちゃっちゃと寝るわよ」
-そう言うと想子さんは階段を上っていく。
-想子さんを追いかけて二階の廊下へ。
-ぼくの部屋の前に想子さんはいた。
-＃想子
-「ねえ」
-＃主人公
-「なんです？」
-＃想子
-「この奥の部屋、入ってみたくない？」
-と、想子さんは奥の恒星氏の部屋を指した。
-＃主人公
-「ダメですよ。どうせあいてないでしょう？」
-＃想子
-「まあ、そうだったんだけどね」
-＃主人公
-「試したんですか……」
-＃御巫
-「お待たせしました」
-御巫先生がやってきて、自分の部屋の鍵を開けた。
-＃御巫
-「どうぞ中へ」
-＃主人公
-「失礼します」
-＃御巫
-「僕のような部外者が喋る事はいけないんだけれどね」
-＃想子
-「差し支えない範囲で構いませんよ」
-根掘り葉掘り聞き出そうとしているとばかり思っていたのだが、想子さんは案外素直に頷いた。
-＃主人公
-「詩音さんが正統の娘じゃないと云うのはどういう意味ですか？」
-＃御巫
-「言葉通りの意味さ。彼女は養子だからね」
-＃主人公
-「やっぱりそうだったんですか」
-＃御巫
-「ああ。だから摩夜さんには疎まれているようだね。館には住まわせず、外の塔にひとりきりにされている」
-御巫先生は振り返って窓の外を見た。
-小降りになった雪の中、正面に塔が見えた。
-勿論明かりなどは点いていない。
-＃御巫
-「だから、一刻も早く外に出したかったのかもしれないね。もしかしたら詩音さんもそれを望んでいたのかもしれない」
-＃御巫
-「だから、勇が詩音さんと結婚すると聞いた時は本当に驚いたんだよ」
-＃想子
-「それは、藍さんがいたからですか？」
-＃御巫
-「それもあるけれどね。詩音さんと結婚しても何のメリットもないからさ」
-＃主人公
-「詩音さんが七月家の養子だからですか？」
-＃想子
-「同情したのかしら……」
-＃御巫
-「……かもしれないね」
-言葉少なに御巫先生は頷いた。
-＃想子
-「恒星氏の遺書には何と書かれていたのですか？」
-＃御巫
-「……僕は部外者だからね、内容までは知らないよ。高嶺さんだったら知っているだろうけれどね」
-＃想子
-「ふーん……ま、いいけど」
-どうも想子さんは、御巫先生が遺書の内容を知っていると思っているみたいだ。
-＃想子
-「じゃ、戻りましょうか。もう夜も更けているしね」
-＃主人公
-「そうですね。御巫先生、夜遅くまでありがとうございました」
-＃御巫
-「ああ、おやすみ」
+#Protagonist
+"Dr. Mikanagi."
+Once we were back in the hall, I called out to Dr. Mikanagi.
+#Mikanagi
+"Yes?"
+#Protagonist
+"I'd like to hear a bit more about what you mentioned during the ceremony."
+I just couldn't stop thinking about Shion-san.
+#Mikanagi
+"I see窶ｦ窶ｦ but not here. Come to my room later."
+Dr. Mikanagi said as he looked around.
+There were still other people in the hall.
+#Protagonist
+"Alright, I'll see you then."
+#Mikanagi
+"Right."
+The doctor nodded and walked over toward Maya-san.
+#Souko
+"Do you think he'll tell you anything?"
+Souko-san approached me in his place.
+#Protagonist
+"I don't know how much detail he'll go into, though."
+#Souko
+"Let's not get our hopes up too high. Sigh窶ｦ窶ｦ anyway, I'm so sleepy."
+Souko-san let out a yawn.
+#Protagonist
+"It's already past 1:00 AM, after all."
+#Souko
+"Let's get the info and get to bed quickly."
+With that, Souko-san headed up the stairs.
+I followed her into the second-floor hallway.
+Souko-san was standing in front of my room.
+#Souko
+"Hey."
+#Protagonist
+"What is it?"
+#Souko
+"Don't you want to try getting into the room at the end?"
+Souko-san pointed to Kousei-shi's room at the far end of the hall.
+#Protagonist
+"We can't do that. It's locked anyway, right?"
+#Souko
+"Well, that's how it seemed, at least."
+#Protagonist
+"You already tried it窶ｦ窶ｦ?"
+#Mikanagi
+"Sorry to keep you waiting."
+Dr. Mikanagi arrived and unlocked the door to his room.
+#Mikanagi
+"Please, come in."
+#Protagonist
+"Excuse us."
+#Mikanagi
+"I really shouldn't be talking about this as an outsider, but窶ｦ窶ｦ"
+#Souko
+"Whatever you're comfortable sharing is fine."
+I thought she was going to pester him for every little detail, but Souko-san nodded quite reasonably.
+#Protagonist
+"What did you mean when you said Shion-san wasn't a true daughter?"
+#Mikanagi
+"Exactly what it sounds like. She's an adoptee."
+#Protagonist
+"So it was true."
+#Mikanagi
+"Yes. And it seems Maya-san resents her for it. She isn't allowed to live in the mansion; she's kept all alone in that tower outside."
+Dr. Mikanagi turned around and looked out the window.
+Through the thinning snow, the tower was visible straight ahead.
+Of course, there were no lights on inside.
+#Mikanagi
+"So, they probably wanted to get her out of here as quickly as possible. And maybe Shion-san wanted that herself."
+#Mikanagi
+"That's why I was truly surprised when I heard Isamu was marrying Shion-san."
+#Souko
+"Is that because of Ai-san?"
+#Mikanagi
+"That's part of it. But there's also no real benefit to marrying Shion-san."
+#Protagonist
+"Because she's an adoptee of the Nanatsuki family?"
+#Souko
+"I wonder if he took pity on her窶ｦ窶ｦ"
+#Mikanagi
+"窶ｦ窶ｦPerhaps."
+The doctor gave a brief nod.
+#Souko
+"What exactly was written in Kousei-shi's will?"
+#Mikanagi
+"窶ｦ窶ｦI'm an outsider, so I don't know the specifics. Takamine-san would be the one who knows."
+#Souko
+"Hmm窶ｦ窶ｦ well, whatever."
+It seemed like Souko-san suspected Dr. Mikanagi might actually know what was in the will.
+#Souko
+"Well, shall we head back? It's getting very late."
+#Protagonist
+"Yeah. Dr. Mikanagi, thank you so much for your time."
+#Mikanagi
+"Of course. Good night."

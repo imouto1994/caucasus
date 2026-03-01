@@ -1,57 +1,57 @@
-事務室を出ると、相変わらずの猛吹雪だった。
-うっすらと小さな足跡が塔に向かって続いていた。
-恐らく詩音さんの通った跡だろう。
-塔に足を踏み入れる。
-詩音さんはこの二階だ。
-階段を上り、扉をノックする。
-＃詩音
-「はい……？」
-＃主人公
-「詩音さん、ぼくです」
-声を掛けて暫くすると、内側から扉が開いた。
-＃詩音
-「あの……どうかなさいましたか……？」
-詩音さんの目が潤んでいた。
-泣いていたのだろうか……
-＃主人公
-「みなさんに異常がないか確認に来たんです」
-＃詩音
-「……そうですか」
-詩音さんが顔を伏せた。
-＃主人公
-「えっと……それで――」
-＃詩音
-「どうぞ、中へ……」
-詩音さんが扉を開き、ぼくを中へ招き入れる。
-＃主人公
-「あ……失礼します」
-＃詩音
-「……私を監視に来たのですか？」
-＃主人公
-「えっ……いや、そんな事はありませんよ？」
-＃詩音
-「では……どうして……？」
-＃主人公
-「……詩音さんが心配だからですよ」
-ぼくは正直な気持ちを打ち明けた。
-＃主人公
-「辻村さんに頼まれたからと云うのもあるんですけど……放っておけないじゃないですか。ひとりこんな離れたところで暮らしている人を」
-＃主人公
-「それに……藍さんも殺されてしまいました。詩音さんだって、犯人に狙われている可能性が高いんです」
-＃詩音
-「ですが、私は……」
-＃主人公
-「必ず犯人を見つけ出しますから。だから……それまでは、必ず詩音さんを守ってみせます」
-詩音さんは黙ったまま俯く。
-＃主人公
-「あの……もしかしたら、迷惑でしたか……？」
-＃詩音
-「……いいえ、そんな事は……ありません」
-詩音さんが首を振る。
-＃主人公
-「その……済みません、ひとりで勝手に舞い上がってしまいまして……」
-＃詩音
-「そんな……あ、ありがとうございます」
-＃主人公
-「じゃ、じゃあぼくはこれで……」
-ぎくしゃくした空気のまま、ぼくは頭を下げて詩音さんの部屋を退出した。
+When I step out of the office, the fierce blizzard is as intense as ever.
+A faint trail of small footprints continues toward the tower.
+Those are likely Shion-san's footprints.
+I step into the tower.
+Shion-san is on the second floor.
+I go up the stairs and knock on the door.
+#Shion
+"Yes窶ｦ窶ｦ?"
+#Satoshi
+"Shion-san, it's me."
+After I call out, the door opens from the inside a moment later.
+#Shion
+"Um窶ｦ窶ｦ is something the matter窶ｦ窶ｦ?"
+Shion-san's eyes are moist.
+I wonder if she窶冱 been crying窶ｦ窶ｦ
+#Satoshi
+"I came to make sure that everyone is alright."
+#Shion
+"窶ｦ窶ｦI see."
+Shion-san looks down.
+#Satoshi
+"Umm窶ｦ窶ｦ so窶披�"
+#Shion
+"Please, come in窶ｦ窶ｦ"
+Shion-san opens the door and invites me inside.
+#Satoshi
+"Ah窶ｦ窶ｦ excuse me."
+#Shion
+"窶ｦ窶ｦDid you come here to watch me?"
+#Satoshi
+"Eh窶ｦ窶ｦ no, that's not it at all?"
+#Shion
+"Then窶ｦ窶ｦ why窶ｦ窶ｦ?"
+#Satoshi
+"窶ｦ窶ｦBecause I'm worried about you, Shion-san."
+I voice my honest feelings.
+#Satoshi
+"It's partly because Tsujimura-san asked me to窶ｦ窶ｦ but I can't just leave you be. Not someone living all alone in a place this far removed."
+#Satoshi
+"Besides窶ｦ窶ｦ Ai-san has been murdered as well. You might be a target for the culprit too, Shion-san."
+#Shion
+"But, I窶ｦ窶ｦ"
+#Satoshi
+"I'll definitely find the culprit. So窶ｦ窶ｦ until then, I'll make sure to protect you, Shion-san."
+Shion-san stays silent and looks down.
+#Satoshi
+"Um窶ｦ窶ｦ was I being a nuisance, perhaps窶ｦ窶ｦ?"
+#Shion
+"窶ｦ窶ｦNo, that's窶ｦ窶ｦ not the case."
+Shion-san shakes her head.
+#Satoshi
+"Umm窶ｦ窶ｦ sorry, I guess I just got a bit ahead of myself窶ｦ窶ｦ"
+#Shion
+"No窶ｦ窶ｦ th-thank you very much."
+#Satoshi
+"W-Well then, I'll be going窶ｦ窶ｦ"
+In that awkward atmosphere, I bow and leave Shion-san's room.

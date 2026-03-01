@@ -1,0 +1,36 @@
+#Souko
+"That bell that rang in the middle of the night. I wonder if we'll hear it at noon today too."
+#Protagonist
+"Maybe so."
+#Maya
+"There has been a clock attached to this mansion since before it was relocated. As a remnant of that time, we still have the bell ring."
+#Protagonist
+"Is that so?"
+#Ai
+"The clock is visible from outside the mansion, but being in such a remote place, no one ever sees it."
+#Protagonist
+"You're right..."
+#Benio
+"Does the sound of the bell bother you that much? The machine room is in the attic."
+#Protagonist
+"Oh... I see."
+#Tsujimura
+"The bell is rung from the machine room above the main entrance. It’s synchronized with the clock facing the outside."
+#Protagonist
+"I see."
+#Takamine
+"It certainly rang last night... but it isn't something worth being concerned about."
+#Protagonist
+"I guess so..."
+#御巫
+"The bell, eh...? I don't think you’d notice it much while inside your room."
+#Protagonist
+"I see."
+#Akane
+"It rings at noon, so it’s quite convenient for keeping track of the time."
+#Protagonist
+"Is that so?"
+#Narumi
+"A bell? Did one ring...? I don't really remember."
+#Protagonist
+"...I see."

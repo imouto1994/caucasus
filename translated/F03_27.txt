@@ -1,0 +1,74 @@
+I’ve made it to Souko-san's room.
+I knock lightly on the door.
+#Souko
+"Oh, it's you. What is it?"
+#Protagonist
+"Do you have a moment?"
+#Souko
+"Yes, of course."
+With that, Souko-san guided me into the room.
+#Souko
+"So, what's your business?"
+#Protagonist
+"Well, you see..."
+I’ve come to Souko-san's room.
+I knock lightly on the door.
+#Souko
+"Oh, it's you again. What's the matter?"
+#Protagonist
+"Could I talk to you for a moment?"
+#Souko
+"Yes, of course."
+With that, Souko-san guided me into the room.
+#Souko
+"What is it this time?"
+#Protagonist
+"Well, you see..."
+I’ve made it to Souko-san's room.
+I knock lightly on the door.
+I wait for a while, but there was no response from inside.
+Is she not here?
+I gave up and decided to head elsewhere.
+I’ve made it to Souko-san's room.
+I knock lightly on the door.
+#Souko
+"Oh, it's you. What is it? And Akane-san is with you too."
+#Akane
+"Um, have you seen Lady Ai?"
+#Souko
+"Ai-san? No, I haven't."
+Souko-san shakes her head.
+#Protagonist
+"It seems she hasn't been seen for a while now."
+#Souko
+"I see... I’m worried, especially after what happened..."
+#Akane
+"Please let us know if you see her. We'll be looking around the other areas."
+#Souko
+"Yes, I understand."
+#Protagonist
+"Well then, we'll be going."
+#Akane
+"Please excuse us."
+I’ve made it to Souko-san's room.
+I knock lightly on the door.
+#Souko
+"...Oh, it's you two. Have you found her yet?"
+#Akane
+"No..."
+#Souko
+"I think I'll try looking around a few other places myself."
+#Protagonist
+"Yes, could you please?"
+#Souko
+"Of course."
+#Akane
+"Then, we're counting on you."
+I’ve made it to Souko-san's room.
+I knock lightly on the door.
+I wait for a while, but there was no response from inside.
+#Akane
+"It seems she isn't here."
+#Protagonist
+"So it seems."
+I gave up and decided to head elsewhere.

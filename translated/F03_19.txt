@@ -1,0 +1,50 @@
+I’ve come to Maya-san's room at the far western end of the second floor.
+Akane-san knocks on the door.
+#Maya
+"Oh... Akane, is something the matter?"
+Maya-san appeared.
+#Akane
+"Madam, have you seen Lady Ai?"
+#Maya
+"Ai...? No, I haven't seen her."
+#Protagonist
+"I see... Do you have any idea where she might be?"
+#Maya
+"I’ve been in my room this whole time, so..."
+#Protagonist
+"Ai-san's room is right next door, isn't it? Did you hear any noises?"
+#Maya
+"Well... the soundproofing is quite good, so I haven't heard anything."
+#Protagonist
+"I see... thank you very much."
+#Maya
+"I’m sorry I couldn't be of more help."
+#Akane
+"Not at all... please excuse us."
+Maya-san returned to her room.
+#Protagonist
+"Let's head somewhere else."
+I’ve come to Maya-san's room at the far western end of the second floor.
+Akane-san knocks on the door.
+Maya-san appeared.
+#Maya
+"Oh... have you still not found Ai?"
+#Akane
+"No..."
+#Protagonist
+"Sorry to bother you. If you notice anything, could you let us know immediately?"
+#Maya
+"Yes, of course."
+#Akane
+"Then, Madam, please excuse us."
+Maya-san returned to her room.
+#Protagonist
+"Let's head somewhere else."
+I’ve come to Maya-san's room at the far western end of the second floor.
+Akane-san knocks on the door.
+I wait for a while, but there was no response from inside.
+#Akane
+"It seems she isn't in."
+#Protagonist
+"So it seems..."
+We decided to head elsewhere.

@@ -1,0 +1,36 @@
+#Souko
+"Tsujimura-san seems quite concerned about Shion-san."
+#Satoshi
+"Yeah..."
+#Maya
+"It is only because Tsujimura is here that we can live so peacefully."
+#Satoshi
+"I see..."
+#Ai
+"If anything happens, please tell Tsujimura-san."
+#Satoshi
+"Understood."
+#Shion
+"Seiji-san...? He is very concerned about me."
+#Satoshi
+"I see..."
+#Tsujimura
+"I couldn't have made a living with artistic skills that were little more than an amateur's hobby... I am grateful to be allowed to work here."
+#Satoshi
+"I see..."
+#Takamine
+"I'm told Tsujimura-san has endured a great deal of hardship over the years."
+#Satoshi
+"I see..."
+#Mikanagi
+"I'd expect Tsujimura-san to be in the office. Otherwise, I think he'd be back in his own room."
+#Satoshi
+"I see."
+#Akane
+"Tsujimura-san? He's usually working in the office."
+#Satoshi
+"I see."
+#Narumi
+"Tsujimura-san? He's a kind man. Though he can be a bit faint-hearted at times..."
+#Satoshi
+"I see."

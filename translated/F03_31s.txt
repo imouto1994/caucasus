@@ -1,0 +1,52 @@
+Small medicine vials are lined up.
+With my knowledge, I have no idea what most of these drugs are.
+I shouldn't mess with them, so I'll leave them be.
+It's probably better not to touch anything.
+There are things that look like medicine inside.
+Some look like tree roots, perhaps used for herbal medicine.
+It's probably better not to touch anything.
+There are things like disinfectants and bandages here.
+I shouldn't mess with them, so I'll leave them be.
+It's probably better not to touch anything.
+Some documents are lying on the desk.
+I probably shouldn't look at them without permission.
+There are documents here.
+Snow is dancing outside the window.
+I wonder when this blizzard will let up...
+The blizzard outside seems to be getting stronger.
+There's another door, separate from the one I entered through.
+It likely connects to the adjacent archives.
+It looks like a door connecting to the next room.
+There's a simple cot here, completely different from the beds in the other rooms.
+Well, it makes sense since this is the infirmary...
+There's no sign of the bed being used.
+Various documents are stored here.
+I probably shouldn't look at them without permission...
+It's probably better not to touch anything.
+Various documents are stored here.
+I probably shouldn't look at them without permission...
+It's probably better not to touch anything.
+Various documents are stored here.
+I probably shouldn't look at them without permission...
+It's probably better not to touch anything.
+Various documents are stored here.
+I probably shouldn't look at them without permission...
+It's probably better not to touch anything.
+In the bottom drawer, I found a pretty card.
+#Protagonist
+"What's this...?"
+The card had the letter 'r' written on it.
+I'm a bit curious, so I'll hold onto it.
+There's another piece of paper inside.
+"Campaign in progress! Collect similar cards and solve the puzzle! This is what the answer section on the survey postcard was for!"
+#Protagonist
+"...What the hell is this?"
+Well, I'm a little intrigued, so I'll keep this card.
+There's another piece of paper inside.
+"All the cards have been collected! Now for the question... if you rearrange the letters you've found, they form a certain word."
+"Please provide the appropriate Japanese translation of that word for this work and send in your survey postcard!"
+"Deadline is January 11, 2010, based on the postmark! 10 lucky winners will receive a small gift!"
+#Protagonist
+"...Phew."
+I feel like I kind of get it, but also kind of don't...
+There's nothing unusual inside.

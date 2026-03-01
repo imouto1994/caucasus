@@ -1,116 +1,116 @@
-部屋の前の廊下まで戻ってきた。
-＃主人公
-「あれ……紅緒さんじゃないですか」
-＃紅緒
-「ん……ああ」
-ぼくの部屋の前に紅緒さんが立っていた。
-＃主人公
-「どうしたんですか？」
-＃紅緒
-「ちょっとまだ気になることがあってな」
-＃主人公
-「さっきの、想子さんの部屋に書かれていたものですか？」
-＃紅緒
-「それもあるが……ちょっと私の部屋に来てくれ」
-＃主人公
-「ええ、構いませんけれど……」
-紅緒さんの部屋に入る。
-＃主人公
-「それで、何が気になっているんですか？」
-＃紅緒
-「……首についてだ」
-＃主人公
-「首……ですか？」
-＃紅緒
-「ああ。六曜が殺されていたとき、首がなくなっていただろう？」
-＃主人公
-「ええ……」
-＃紅緒
-「あれに何の意味があるのか、まだはっきりとしていない。それに頭部がどこへ行ったのかも……」
-＃主人公
-「意味ですか……前に想子さんと考えた時は、『七憑きの呪い』に関係するんじゃないかと言ってましたけど……」
-＃紅緒
-「……『七憑きの贄』が近いかもしれんな」
-＃主人公
-「贄……？」
-＃紅緒
-「……七月家は穢れた血が流れているからな。血を浄化する為に異常が顕れた娘の首を切ると云う風習があったらしい」
-＃主人公
-「そんな……」
-＃紅緒
-「幸いにして近頃はやっていないそうだ。今行われていたら私など、真っ先に切られているだろうよ」
-紅緒さんが嗤う。
-＃紅緒
-「それ故、結婚の際にはこの前の奇妙な風習が行われるようになった」
-＃主人公
-「……棺の中で一晩過ごすあれですか」
-＃紅緒
-「そうだ。あれで身の潔白を証明する事になったのだが……」
-＃主人公
-「でも……六曜さんが殺されてしまった」
-＃紅緒
-「……詩音は身体が弱い。それが七月家の穢れた血の所為なのかもしれんが……いや、養子だから関係無いはず……」
-＃主人公
-「その……『七憑きの贄』について知っているのは？」
-＃紅緒
-「うちの人間ならば知っているだろうな。あまり外に洩らしたくない話ではあるが」
-＃主人公
-「ただ……六曜さんは男性です。贄にはならない」
-＃紅緒
-「うむ……贄ではなく、それを知っている人間が模倣していると云う可能性もある」
-＃主人公
-「『七憑きの贄』に見立てていると云う訳ですか……」
-＃紅緒
-「そうと限った訳ではないだろうがな。ただ単に首を隠したかっただけかもしれん」
-＃主人公
-「……よくわかりませんね」
-＃紅緒
-「全くだ」
-紅緒さんがベッドの上に寝転んだ。
-＃主人公
-「部屋に戻ってもう少し考えてみます」
-時間も時間だし、いつまでも女性の部屋に居る訳にもいかないだろう。
-＃紅緒
-「そうか。……くれぐれも油断はするなよ」
-＃主人公
-「ええ、わかってます」
-＃紅緒
-「……なあ」
-＃主人公
-「なんです？」
-＃紅緒
-「……お前も寝てみろ」
-＃主人公
-「……はあ」
-云われたとおり、紅緒さんの隣に寝転がる。
-＃主人公
-「痛っ！」
-紅緒さんと頭同士がぶつかってしまった。
-＃紅緒
-「莫迦者っ、わざとか貴様っ！？」
-起きあがり、のし掛かって襟元を掴んでくる紅緒さん。
-＃主人公
-「ち、違いますよっ！　というか、あまり動かないでくださいよ！」
-＃紅緒
-「何か文句でもあるのか！？」
-＃主人公
-「いや、あの……馬乗りで動かれると、その……」
-ぼくだって若いんだから、そう刺激を与えられると……
-＃紅緒
-「何が……っ！？」
-やっと気付いたのか、紅緒さんが急に押し黙る。
-＃紅緒
-「……あ、う……あ、当たってるぞ……？」
-＃主人公
-「……そりゃ、これだけ刺激を受ければ当然ですよ」
-＃紅緒
-「ど、どうすればいいんだ……？」
-＃主人公
-「えーっと……」
-紅緒さんは顔を真っ赤にしている。
-＃主人公
-「ど、どうしましょうか……」
-＃紅緒
-「その……言ってくれれば、するから……」
-＃主人公
-「ええっと……それじゃあ……」
+I returned to the corridor in front of my room.
+#Main Character
+"Oh... Benio-san?"
+Benio-san was standing in front of my room.
+#Benio
+"Nn... yeah."
+#Main Character
+"What happened?"
+#Benio
+"There窶冱 something that窶冱 still bothering me."
+#Main Character
+"Is it about what was written in Souko-san窶冱 room earlier?"
+#Benio
+"That too... but come to my room for a moment."
+#Main Character
+"Sure, I don't mind..."
+I entered Benio-san's room.
+#Main Character
+"So, what窶冱 on your mind?"
+#Benio
+"...It窶冱 about the heads."
+#Main Character
+"Heads...?"
+#Benio
+"Yes. When Rokuyou was killed, the head was missing, right?"
+#Main Character
+"Yeah..."
+#Benio
+"The meaning behind that still isn't clear. Nor where the head went..."
+#Main Character
+"The meaning, huh... When I talked about it with Souko-san before, she thought it might be related to the 'Curse of the Nanatsuki'..."
+#Benio
+"...The 'Nanatsuki Sacrifice' might be closer."
+#Main Character
+"Sacrifice...?"
+#Benio
+"...The Nanatsuki family carries tainted blood. Apparently, there was a custom of decapitating daughters who showed abnormalities in order to purify the bloodline."
+#Main Character
+"That窶冱..."
+#Benio
+"Fortunately, it hasn't been practiced recently. If it were, I窶囘 likely have been the first to go."
+Benio-san gave a cynical laugh.
+#Benio
+"That窶冱 why that strange custom from the other day came to be practiced for weddings."
+#Main Character
+"...You mean spending the night in the coffin?"
+#Benio
+"Exactly. It was meant to prove one窶冱 innocence, but..."
+#Main Character
+"But... Rokuyou-san was killed."
+#Benio
+"...Shion has a weak constitution. That might be because of the tainted Nanatsuki blood... no, she窶冱 adopted, so that shouldn't matter..."
+#Main Character
+"Um... who knows about the 'Nanatsuki Sacrifice'?"
+#Benio
+"Anyone in our family would know. It窶冱 not something we want leaked to the outside, though."
+#Main Character
+"But... Rokuyou-san is a man. He wouldn't be a sacrifice."
+#Benio
+"True... it窶冱 possible that instead of an actual sacrifice, someone who knows the story is imitating it."
+#Main Character
+"So they窶决e staging it to look like the 'Nanatsuki Sacrifice'...?"
+#Benio
+"Not necessarily. They might have just wanted to hide the head."
+#Main Character
+"...I窶冦 not sure."
+#Benio
+"None of us are."
+Benio-san lay down on her bed.
+#Main Character
+"I窶冤l go back to my room and think about it a bit more."
+Given the time, it probably wasn't a good idea to stay in a woman窶冱 room forever.
+#Benio
+"I see. ...Make sure you don't let your guard down."
+#Main Character
+"Yeah, I know."
+#Benio
+"...Hey."
+#Main Character
+"Yes?"
+#Benio
+"...You try lying down, too."
+#Main Character
+"...Uh, okay."
+As instructed, I lay down next to Benio-san.
+#Main Character
+"Ouch!"
+Our heads bumped together.
+#Benio
+"You idiot! Did you do that on purpose!?"
+Sitting up and leaning over me, Benio-san grabbed my collar.
+#Main Character
+"N-No! I mean, please don't move around so much!"
+#Benio
+"Do you have a problem with it!?"
+#Main Character
+"No, well... when you move while straddling me, well..."
+I窶冦 a young man, after all; that kind of stimulation...
+#Benio
+"What about...!?"
+Finally realizing, Benio-san suddenly went silent.
+#Benio
+"...Ah, uuh... it窶冱 hitting me...?"
+#Main Character
+"...Well, that窶冱 only natural after this much stimulation."
+#Benio
+"W-What should I do...?"
+#Main Character
+"Um..."
+Benio-san窶冱 face was bright red.
+#Main Character
+"W-What should we do..."
+#Benio
+"Well... if you just tell me, I窶冤l do it..."
+#Main Character
+"Uh... in that case..."

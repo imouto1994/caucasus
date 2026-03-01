@@ -1,52 +1,52 @@
-紅緒さんと別れ、階段を下りてきた。
-辻村さんにも相談しておくべきだろうか……
-＃主人公
-「辻村さん」
-机に向かっていた辻村さんに声を掛ける。
-＃辻村
-「おや、どうなさいましたか？」
-＃主人公
-「あかねさんを見ませんでしたか？　今朝からどこにもいないそうなんですが……」
-＃辻村
-「燈山さんですか？　……そういえば見ていませんね……」
-＃主人公
-「……もしかすると、夜中のうちに居なくなった可能性もあります」
-＃辻村
-「それは……どういう事でしょうか？」
-＃主人公
-「……あまり考えたくありませんが、犯人に捕まったか、あるいは……」
-ぼくはもうひとつの可能性に思い当たり、口篭もった。
-＃辻村
-「あるいは……何でしょうか」
-＃主人公
-「あるいは……この館から逃げ出したか」
-＃辻村
-「逃げ出した……？　しかし、この雪ではどこにも行けませんが……」
-＃主人公
-「……昨日、吊り橋を見に行った時に高嶺さんが言っていました。雪がなければ沢まで降りて歩いて行くことも出来るって……」
-＃辻村
-「……不可能ではありません。ですが、ここ数日の吹雪ではまず遭難してしまうでしょう……」
-＃主人公
-「推論に推論を重ねても意味がないのかもしれませんが、もし外へ行ったのだとするなら、何故そこまでする必要があったのでしょうか……」
-＃辻村
-「警察を呼びに行ったのか……あるいは……」
-＃主人公
-「あるいは……何でしょうか」
-今度はぼくが訊ねていた。
-＃辻村
-「あるいは……」
-辻村さんはそのまま黙り込んでしまった。
-何を言いたかったのか、何となくわかった。
-あるいは……あかねさんが犯人で、逃げ出したのか。
-それは考えたくなかった。
-辻村さんだって考えたくはないのだろう。
-だから口篭もった。
-ぼくだって……昨晩のことがなければ想いもしなかっただろう。
-書斎で何やらしていたあかねさん。
-御巫先生は、悪いことをしているようには思えないと言っていたけれど――この状況では疑わざるを得ないかもしれない。
-＃主人公
-「……まずは、館内をくまなく探してみます」
-＃辻村
-「ええ……それがいいでしょうね……」
-もしそれでも見付からなかった場合、どういう事になるのか。
-それはまだ考えたくなかった。
+After parting with Benio-san, I went down the stairs.
+Should I consult with Tsujimura-san as well...?
+#Main Character
+"Tsujimura-san."
+I called out to Tsujimura-san, who was at his desk.
+#Tsujimura
+"Oh, is something the matter?"
+#Main Character
+"Did you see Akane-san? She's reportedly nowhere to be found this morning..."
+#Tsujimura
+"Hiyama-san? ...Now that you mention it, I haven't seen her..."
+#Main Character
+"...It's possible she disappeared during the night."
+#Tsujimura
+"What... what does that mean?"
+#Main Character
+"...I don't want to think about it too much, but she might have been caught by the killer, or..."
+Another possibility occurred to me, and I trailed off.
+#Tsujimura
+"Or... what?"
+#Main Character
+"Or... she fled from this mansion."
+#Tsujimura
+"Fled...? But with this snow, she wouldn't be able to go anywhere..."
+#Main Character
+"...Yesterday, when we went to see the suspension bridge, Takamine-san said it. If there was no snow, you could climb down to the stream and walk..."
+#Tsujimura
+"...It's not impossible. However, in this blizzard over the last few days, one would surely meet with an accident..."
+#Main Character
+"Layering inference upon inference might be meaningless, but if she did go outside, why would she have to go that far...?"
+#Tsujimura
+"To call the police... or maybe..."
+#Main Character
+"Or what?"
+This time, I was the one asking.
+#Tsujimura
+"Or..."
+Tsujimura-san simply went silent.
+I had a vague idea of what he wanted to say.
+Or... Akane-san was the killer and she fled.
+I didn't want to think that.
+Tsujimura-san likely didn't want to think it either.
+That's why he trailed off.
+If it hadn't been for last night, I wouldn't have even considered it.
+Akane-san, who was doing something in the study.
+Dr. Mikanagi said he didn't think she was doing anything wrong, but窶琶n this situation, I might have no choice but to suspect her.
+#Main Character
+"...First, I'll search every corner of the mansion."
+#Tsujimura
+"Yes... that would be for the best..."
+If she still wasn't found after that, what would it mean?
+I didn't want to think about that yet.

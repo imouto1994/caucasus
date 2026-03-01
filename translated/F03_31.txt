@@ -1,0 +1,65 @@
+#Protagonist
+"Hello, Dr. Mikanagi."
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+#Mikanagi
+"Oh, hello."
+#Protagonist
+"Do you have a moment?"
+#Mikanagi
+"Yes, I don't mind."
+Now, what should I do?
+#Protagonist
+"Excuse me."
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+#Mikanagi
+"Oh, what is it this time?"
+#Protagonist
+"Do you have a moment?"
+#Mikanagi
+"Yes, go ahead."
+Now, what should I do?
+#Protagonist
+"Excuse me."
+When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
+I wonder if he's gone somewhere else.
+Now, what should I do?
+#Protagonist
+"Dr. Mikanagi, are you in?"
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+#Mikanagi
+"Oh, hello. Is something the matter?"
+#Akane
+"Dr. Mikanagi, have you seen Lady Ai?"
+#Mikanagi
+"Ai-san? ...No, she hasn't come here."
+#Protagonist
+"I see..."
+#Akane
+"Please let us know if you see her."
+#Mikanagi
+"Yes, understood."
+We decided to head elsewhere.
+#Protagonist
+"Dr. Mikanagi, are you in?"
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+#Mikanagi
+"Have you still not found Ai-san?"
+#Akane
+"No... that's right."
+#Mikanagi
+"I wonder what happened... I'm starting to get worried."
+#Protagonist
+"Well, we're going to keep looking around other areas."
+#Mikanagi
+"Right, I'm counting on you."
+We left the infirmary.
+#Protagonist
+"Excuse me."
+When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
+I wonder if he's gone somewhere else.
+#Akane
+"It seems Lady Ai isn't here."
+Indeed, she was nowhere to be seen.
+#Protagonist
+"Let's head somewhere else."
+We left the infirmary.

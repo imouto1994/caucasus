@@ -1,0 +1,36 @@
+#想子
+"A will, huh... I’m certainly curious about what kind of things were left in it..."
+#Protagonist
+"Right..."
+#摩夜
+"I am sorry... but that is not something I can easily discuss with an outsider..."
+#Protagonist
+"You're right..."
+#藍
+"A will? ...I don't know the specifics, but..."
+#Protagonist
+"I see..."
+#紅緒
+"You should ask Takamine about my father's will. He’s the one managing it."
+#Protagonist
+"I see..."
+#辻村
+"...As far as that matter is concerned, there is nothing I can say."
+#Protagonist
+"You're right..."
+#高嶺
+"There’s no way I could discuss that with an outsider like you."
+#Protagonist
+"Y-you're right..."
+#御巫
+"That’s... not a matter I’m in any position to comment on."
+#Protagonist
+"You're right..."
+#あかね
+"A will...? I wonder if the lawyer, Takamine-sama, might know something."
+#Protagonist
+"I see."
+#なるみ
+"A will, huh... I suppose it’s where the distribution of the inheritance and such is written... but naturally, I don't know the details."
+#Protagonist
+"You're right."

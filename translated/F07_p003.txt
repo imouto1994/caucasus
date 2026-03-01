@@ -1,0 +1,70 @@
+#Souko
+"...She seems quite distressed, doesn't she?"
+#Satoshi
+"...Yeah."
+#Souko
+"If Ai-san being targeted is related to the inheritance, those left behind would be the most suspicious... but I don't think it's quite that simple."
+#Satoshi
+"True..."
+#Maya
+"I'm glad Ai survived, but... why must this happen..."
+#Satoshi
+"I don't know..."
+#Maya
+"Why Ai, too...? Are you saying that child did something wrong...?"
+#Satoshi
+"Maya-san..."
+#Ai
+"...It feels like I can't shake this exhaustion... It's strange, isn't it? I should be in my own home..."
+#Satoshi
+"Ai-san..."
+#Shion
+"...I'm truly glad that Lady Ai is safe."
+#Satoshi
+"Me too..."
+#Shion
+"Why would someone do this to Lady Ai...?"
+#Satoshi
+"Shion-san..."
+#Tsujimura
+"Lady Ai seems to be quite worn down. It's only natural after what happened, but..."
+#Satoshi
+"Yeah..."
+#Tsujimura
+"...Why did someone try to kill Lady Ai...?"
+#Satoshi
+"I don't know..."
+#Takamine
+"...At any rate, I'm glad Ai-kun didn't lose her life."
+#Satoshi
+"Yeah..."
+#Takamine
+"...So even Ai-kun was murdered..."
+#Satoshi
+"Yeah..."
+#Mikanagi
+"Ai-san should be back in her room. Given what happened yesterday, she ought to keep resting for now."
+#Satoshi
+"I see."
+#Mikanagi
+"What could the killer be aiming for...? What's to be gained by killing Isamu and Ai-san...?"
+#Satoshi
+"And Benio-san as well..."
+#Satoshi
+"True..."
+#Akane
+"I believe Lady Ai is in her room, but..."
+#Satoshi
+"I see..."
+#Akane
+"To think even Lady Ai would be murdered... what on earth is happening...?"
+#Satoshi
+"I don't know..."
+#Narumi
+"Lady Ai hasn't been herself since yesterday... though I guess that's to be expected."
+#Satoshi
+"Yeah..."
+#Narumi
+"The reason Lady Ai died, huh... only the killer knows that."
+#Satoshi
+"True..."

@@ -1,0 +1,36 @@
+#Souko
+"...Her impression changed quite a bit in just one night. I guess she was just playing the part of the good girl before."
+#Protagonist
+"Yeah..."
+#Maya
+"Benio? She is a bit eccentric, but she’s a good girl."
+#Protagonist
+"I see."
+#Ai
+"About Benio? She has her quirks, but she isn't a bad girl."
+#Protagonist
+"I see."
+#Benio
+"Me? This is just who I am, no matter what anyone says."
+#Protagonist
+"I see..."
+#Tsujimura
+"Lady Benio...? She was quite demure yesterday since there were guests present, after all."
+#Protagonist
+"I see..."
+#Takamine
+"Benio-kun, eh...? Well, she is peculiar, to say the least..."
+#Protagonist
+"I see..."
+#御巫
+"Benio-san? She’s an interesting girl."
+#Protagonist
+"Is that so..."
+#Akane
+"Lady Benio? ...Well, she’s that sort of person."
+#Protagonist
+"Oh... I see."
+#Narumi
+"Lady Benio? ...Well, it isn't my place to say anything."
+#Protagonist
+"I see..."

@@ -1,0 +1,14 @@
+#Tsujimura
+"Oh, is something the matter?"
+Tsujimura-san was in the office.
+#Protagonist
+"Hello. Were you in the middle of working?"
+#Tsujimura
+"Not at all. Was there something you needed?"
+#Protagonist
+"Well..."
+#Tsujimura
+"Oh, what is it this time?"
+Tsujimura-san was still in the office.
+#Protagonist
+"Well..."

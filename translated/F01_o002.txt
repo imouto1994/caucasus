@@ -1,0 +1,40 @@
+#Souko
+"A will, huh... I'm certainly curious about what he left behind..."
+#Satoshi
+"Me too..."
+#Maya
+"I'm sorry, but... the contents are not something to be discussed lightly with an outsider..."
+#Satoshi
+"Of course..."
+#Ai
+"The will? I don't know the specific details, but..."
+#Satoshi
+"I see..."
+#Benio
+"My father's will... if you wish to know its contents, why not ask Mr. Takamine?"
+#Satoshi
+"I see..."
+#Tsujimura
+"...Regarding that matter, there is nothing I can say from my position."
+#Satoshi
+"I understand..."
+#Rokuyou
+"The previous head's will? ...Well, I know the contents, but it doesn't really concern me."
+#Satoshi
+"I see..."
+#Takamine
+"There's no way I could speak of it to an outsider like you."
+#Satoshi
+"Y-You're right..."
+#Mikanagi
+"That is... not a matter I am in a position to comment on."
+#Satoshi
+"I understand..."
+#Akane
+"The will...? I believe the lawyer, Mr. Takamine, might know something."
+#Satoshi
+"I see."
+#Narumi
+"A will, huh... I suppose it's about the distribution of the inheritance and such... but I don't know the fine details."
+#Satoshi
+"Of course."

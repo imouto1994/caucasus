@@ -1,0 +1,32 @@
+#Souko
+"She's been on the first floor ever since you all came out of the basement... so it seems unlikely, doesn't it?"
+#Satoshi
+"True..."
+#Maya
+"I wouldn't know; I was resting in my room as well."
+#Satoshi
+"I see..."
+#Ai
+"I don't know... I've been in my room the whole time."
+#Satoshi
+"I see..."
+#Shion
+"...I don't know. My room is in the annex, after all..."
+#Satoshi
+"I see..."
+#Tsujimura
+"...I heard you were locked in the basement, if I recall?"
+#Satoshi
+"Yes... that's right."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Akane
+"It seems she was on the first floor the whole time after you got out of the basement..."
+#Satoshi
+"I see..."
+#Narumi
+"I went back to my room after you returned. I thought it was best not to move around too much right now..."
+#Satoshi
+"I see..."

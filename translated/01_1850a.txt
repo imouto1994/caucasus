@@ -1,53 +1,53 @@
-＃藍
-「西側は家族の私室になっています。奥が母様、左奥が私、その隣が紅緒の部屋です」
-それだけを説明すると藍さんは踵を返す。
-まあ、誰も居ないのだから当然か。
-ホールを見下ろしながらぐるりと周り、今度は反対側の廊下に入る。
-＃藍
-「こちらの奥は演奏用の部屋です。あとは楽器の収納と、楽譜などが置かれた部屋があります」
-＃想子
-「恒星氏が使われていたんですか？」
-＃藍
-「ええ。でも最近は紅緒も使っていますね。特に値打ち物があるわけでもありませんし、ご自由に使われても構いませんよ」
-＃主人公
-「ぼくは楽器なんて弾けませんからねえ」
-＃想子
-「きみはカスタネットでも叩いていればいいじゃない」
-頭を掻いたぼくを想子さんが茶化す。
-＃藍
-「ふふっ……右手前の空き部屋は後ほど切原さんの部屋とさせていただきますので」
-＃想子
-「ええ、ありがとう」
-＃藍
-「あとは北側ですね。こちらにもひとつ空きがありますので、あなたのお部屋を用意しますね」
-＃主人公
-「すみません、いろいろと」
-＃藍
-「構いませんよ。こういったハプニングは初めてですけれど、楽しいですから」
-笑みを浮かべながら、藍さんが北側の廊下へ入っていった。
-＃藍
-「こちら、一番奥は父様の部屋でした。左奥は御巫先生の部屋、その向かいが書斎になっています。その隣は医務室です」
-＃主人公
-「じゃあ、ぼくはこっちの部屋ですか？」
-残った御巫先生の部屋の隣を指して訊ねる。
-＃藍
-「ええ、そうなりますね。あと、ご質問などは御座いますか？」
-藍さんの問い掛けに想子さんが手を挙げた。
-＃想子
-「恒星さんのお部屋を拝見させて貰っても構いませんか？」
-＃藍
-「それは……父様が亡くなってからはずっと開けておりませんから、申し訳ありません」
-＃主人公
-「開かずの間ですか……？」
-＃藍
-「……そう云うのかもしれませんね」
-＃想子
-「あと――お風呂はどちらですか？」
-＃藍
-「浴室は各部屋にありますのでご心配なく。地下から水を汲み上げていますから、すぐに熱いお湯も使えますよ」
-＃想子
-「至れり尽くせりね」
-＃藍
-「身体が冷えているのでしたら、お部屋に案内した後ですぐお使いくださいね」
-＃想子
-「ええ、ありがとう」
+#Ai
+"The west wing consists of the family's private quarters. My mother's room is at the end, mine is on the far left, and Benio's is next to it."
+After giving that brief explanation, Ai-san turned on her heel.
+Well, since no one was there, it was only natural.
+We circled around, looking down over the hall, and entered the opposite corridor.
+#Ai
+"At the end of this hall is the music room. There's also a room for instrument storage and another for sheet music."
+#Souko
+"Was it used by Kousei-shi?"
+#Ai
+"Yes. But lately, Benio has been using it as well. There isn't anything particularly valuable inside, so feel free to use it as you like."
+#Protagonist
+"I can't play a single instrument, though."
+#Souko
+"You could always just sit there and bang a pair of castanets."
+Souko-san teased me as I scratched my head.
+#Ai
+"Fufu... I'll have the vacant room on the front right prepared for you, Kirihara-san."
+#Souko
+"Yes, thank you."
+#Ai
+"That just leaves the north wing. There's another vacancy there, so I'll prepare that as your room."
+#Protagonist
+"Sorry for all the trouble."
+#Ai
+"Think nothing of it. This is the first time we've had such a surprise, but it's been quite fun."
+With a smile, Ai-san led the way into the north corridor.
+#Ai
+"The room at the very end belonged to my father. On the far left is Mikanagi-sensei's room, across from that is the study, and next to it is the infirmary."
+#Protagonist
+"So, will this be my room?"
+I asked, pointing to the door next to Mikanagi-sensei's.
+#Ai
+"Yes, that's the one. Now, do you have any other questions?"
+Souko-san raised her hand in response to Ai-san's inquiry.
+#Souko
+"Would it be alright if I had a look inside Kousei-san's room?"
+#Ai
+"About that... it has been kept closed ever since my father passed away, so I'm afraid I must decline."
+#Protagonist
+"A forbidden room...?"
+#Ai
+"...I suppose you could call it that."
+#Souko
+"One more thing窶背here are the baths?"
+#Ai
+"Don't worry, each room has its own bathroom. We pump water up from underground, so hot water is available instantly."
+#Souko
+"You've thought of everything."
+#Ai
+"Since you must be chilled to the bone, please feel free to use it as soon as I've shown you to your rooms."
+#Souko
+"Yes, thank you."

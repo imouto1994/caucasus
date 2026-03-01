@@ -1,0 +1,28 @@
+＃Souko
+"I think this is probably… the murder weapon."
+＃Satoshi
+"It certainly looks that way…"
+＃Maya
+"…I’m so sorry, I just don’t understand."
+＃Satoshi
+"I see…"
+＃Ai
+"…I’m sorry, I don’t really know."
+＃Satoshi
+"I see…"
+＃Tsujimura
+"I… don’t quite understand it either…"
+＃Satoshi
+"Is that so…?"
+＃Takamine
+"Doesn't make a damn bit of sense to me."
+＃Satoshi
+"I see…"
+＃Akane
+"I’m sorry… I don’t really understand."
+＃Satoshi
+"I see…"
+＃Narumi
+"I’m a little lost on this one myself."
+＃Satoshi
+"I see…"

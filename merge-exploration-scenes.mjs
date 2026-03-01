@@ -100,7 +100,7 @@ async function main() {
   }
 
   console.log(
-    `\nDone. ${sortedPrefixes.length} merged files written to ${OUTPUT_DIR}/`,
+    `\nDone. ${sortedPrefixes.length} merged files written to ${OUTPUT_DIR}/`
   );
 }
 

@@ -1,0 +1,32 @@
+#Souko
+"Tsujimura-san, huh... While it's not entirely impossible, I just can't bring myself to believe it..."
+#Satoshi
+"True..."
+#Maya
+"I wouldn't know; I was resting in my room as well."
+#Satoshi
+"I see..."
+#Ai
+"I don't know... I've been in my room the whole time."
+#Satoshi
+"I see..."
+#Shion
+"...I don't know. My room is in the annex, after all..."
+#Satoshi
+"I see..."
+#Tsujimura
+"...Was it before two? I was speaking with Lady Benio in the office for a while. There wasn't anything out of the ordinary, but..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Mikanagi
+"I predictably wouldn't know about anyone else's movements."
+#Satoshi
+"I see..."
+#Narumi
+"How could I possibly know? I was right there with you."
+#Satoshi
+"True..."

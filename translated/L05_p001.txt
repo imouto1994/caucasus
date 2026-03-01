@@ -1,0 +1,24 @@
+#Souko
+"I was in my room until just before noon. Then I headed to the dining hall."
+#Satoshi
+"I see."
+#Benio
+"I remember her coming to the dining hall around noon, but I didn't notice anything strange."
+#Satoshi
+"I see..."
+#Tsujimura
+"I don't believe anything in particular happened..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Akane
+"She was in the dining hall when I went to fetch her, though..."
+#Satoshi
+"I see..."
+#Narumi
+"Kirihara-san? I don't remember clearly, but wasn't she in the dining hall? I was cooped up in the kitchen the whole time, so that's the impression I have."
+#Satoshi
+"I see..."

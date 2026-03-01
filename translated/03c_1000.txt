@@ -1,65 +1,65 @@
-自分の部屋に戻ってきた。
-どうして……こんな立て続けに厄介事が起こるのだろう。
-あかねさんが居なくなり、詩音さんが狙われて……
-まだ今日が始まったばかりだと云うのに……
-あかねさんはどこへ行ってしまったのだろう。
-建物の中？
-建物の外？
-それとも、すでに犯人の手に掛かって……？
-それだけは考えたくない。
-どこかできっと、無事でいる筈だ。
-……でも、それならば何故居なくなった？
-昨晩のあかねさんの行動。
-何かを調べていた。
-何を調べていた？
-あの時落とした“Ａｋａｒｉ・Ｍ”と刺繍されたハンカチ。
-それがあかねさんの失踪に何か関わってくるのだろうか……
-考えれば考えるほどわからなくなってくる。
-＃主人公
-「ふうっ……」
-ベッドに倒れ込む。
-あかねさんを捜しに行きたいけれど、もうどこを捜せばいいのか見当も付かない。
-本当に外へ行ってしまったのだとしたら……
-いや、そうじゃなくても、今は無事を祈るしかなかった。
-扉が叩かれた。
-＃主人公
-「はい……？」
-＃なるみ
-「水守だけど」
-＃主人公
-「なるみさん……？」
-扉の鍵を開ける。
-＃主人公
-「何の用ですか？」
-＃なるみ
-「あかねの事でちょっとね」
-＃主人公
-「見付かったんですか？」
-＃なるみ
-「それはまだだけど……ちょっとだけ手懸かりになりそうな事を思い出してね」
-＃主人公
-「手懸かりですか……？」
-＃なるみ
-「少し前からなんだか思い悩んでいたみたいだったのよ。……六曜さんがここに居るようになってから」
-＃主人公
-「六曜さんが……？」
-＃なるみ
-「ええ……もしかすると何か関係しているのかもしれないけど……昨日のあかねはそれほど取り乱した様子もなかったのよね……」
-＃主人公
-「……六曜さんと何かあったと云う事ですか？」
-＃なるみ
-「……あったかもしれないわね、確証はないけれど」
-なるみさんが首を振る。
-＃なるみ
-「同僚として出来る限り力になってあげたかったけど……あの娘、無理して明るく振る舞ってた事もあるしね」
-＃主人公
-「そうだったんですか……」
-＃なるみ
-「あかねが何かしていたのは確かだから、そのあたりを調べてみるのも手かもしれないわ」
-＃主人公
-「わかりました」
-＃なるみ
-「それじゃ、あたしはこれで」
-なるみさんが部屋を出て行った。
-ぼくものんびりしている場合じゃない。
-行動を開始しないと。
+I returned to my own room.
+Why... why did one troublesome thing have to happen after another?
+Akane-san disappeared, Shion-san was targeted...
+And the day has only just begun...
+Where on earth did Akane-san go?
+Inside the building?
+Outside the building?
+Or has she already fallen into the killer's hands...?
+I don't even want to think about that.
+She must be safe somewhere.
+...But if so, why did she disappear?
+Akane-san's actions last night.
+She was investigating something.
+What was she investigating?
+The handkerchief embroidered with "AkariﾂｷM" that she dropped then.
+I wonder if that has anything to do with Akane-san's disappearance...
+The more I think about it, the more I don't understand.
+#Main Character
+"Whew..."
+I collapsed onto the bed.
+I want to go look for Akane-san, but I don't even have a clue where to look anymore.
+If she really did go outside...
+No, even if she didn't, all I could do now was pray for her safety.
+There was a knock on the door.
+#Main Character
+"Yes...?"
+#Narumi
+"It's Mizumori."
+#Main Character
+"Narumi-san...?"
+I unlock the door.
+#Main Character
+"What is it?"
+#Narumi
+"It's about Akane, just for a moment."
+#Main Character
+"Was she found?"
+#Narumi
+"Not yet... but I remembered something that might be a tiny clue."
+#Main Character
+"A clue...?"
+#Narumi
+"It seems she had been worrying about something for a little while now. ...Ever since Rokuyou-san started staying here."
+#Main Character
+"Rokuyou-san...?"
+#Narumi
+"Yes... maybe there's some connection... but Akane didn't seem particularly upset yesterday..."
+#Main Character
+"...Are you saying something happened with Rokuyou-san?"
+#Narumi
+"...Something might have, though I don't have any proof."
+Narumi-san shook her head.
+#Narumi
+"I want to help her as much as I can as a colleague... that girl has a habit of forcing herself to act cheerful, after all."
+#Main Character
+"Is that so..."
+#Narumi
+"It's certain Akane was up to something, so it might be worth looking into that."
+#Main Character
+"Understood."
+#Narumi
+"Well, I'll be going now."
+Narumi-san left the room.
+This is no time for me to be taking it easy, either.
+I need to start moving.

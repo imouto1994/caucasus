@@ -1,0 +1,40 @@
+#Souko
+"It was frozen shut; it didn't look like it was going to open."
+#Satoshi
+"I see..."
+#Maya
+"...I am sorry, I do not really know."
+#Satoshi
+"I see..."
+#Ai
+"...I'm sorry, I don't really know."
+#Satoshi
+"I see..."
+#Benio
+"Even the lock was frozen solid... At any rate, entering or exiting would be difficult."
+#Satoshi
+"I see..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Satoshi
+"I see..."
+#Tsujimura
+"The snow is piled high outside; walking is out of the question. No paths have been cleared except for the one to Lady Shion's tower..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Mikanagi
+"I don't really know."
+#Satoshi
+"I see..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"I don't really know about that."
+#Satoshi
+"I see..."

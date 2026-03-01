@@ -1,0 +1,32 @@
+#Souko
+"...If Akane-san has hidden herself away for some reason... we should probably be careful."
+#Satoshi
+"True..."
+#Maya
+"I wouldn't know; I was resting in my room as well."
+#Satoshi
+"I see..."
+#Ai
+"I don't know... I've been in my room the whole time."
+#Satoshi
+"I see..."
+#Shion
+"...I don't know. My room is in the annex, after all..."
+#Satoshi
+"I see..."
+#Tsujimura
+"Since when exactly has she been missing...?"
+#Satoshi
+"True..."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Mikanagi
+"...It seems she vanished when no one was looking. I wonder what happened..."
+#Satoshi
+"True..."
+#Narumi
+"Akane... what could have happened to her...?"
+#Satoshi
+"True..."

@@ -1,0 +1,21 @@
+I’ve come to the telephone room.
+It seems no one is here.
+The phones aren't working anyway, so there's no point in staying here.
+Now then, what should I do?
+I’ve come to the telephone room.
+#Akane
+"She isn't here either..."
+#Protagonist
+"Where could she have gone... Ai-san?"
+#Akane
+"Let's head somewhere else."
+We decided to search another location.
+I’ve come to the telephone room.
+#Akane
+"The pattern on that scrap of paper... it should be the same as the paper left next to the telephone."
+#Protagonist
+"Then, let's check it out."
+I’ve come to the telephone room.
+#Protagonist
+"Let's investigate a bit more."
+I told Akane-san that and decided to search the room.

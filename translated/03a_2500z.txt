@@ -1,27 +1,28 @@
-＃紅緒
-「――貴様等、何をしている」
-背後から紅緒さんの声。
-＃なるみ
-「べ、紅緒お嬢様……」
-＃紅緒
-「……無茶なことはするなとはかせが申しつけていたと思ったが？」
-＃主人公
-「えっと……まだ無茶はしてないんですが……」
-＃紅緒
-「言い訳をするな、莫迦者」
-＃主人公
-「すみません……」
-ピアノを壊す訳にもいかないし、これ以上はやめておいた方がよさそうだ。
-もう少しで見付かるとおもったんだけどなあ……
-＃なるみ
-「……ここは諦めるしかないわね」
-＃主人公
-「じゃあ……ぼくは、詩音さんの所へ行ってきます」
-＃なるみ
-「詩音お嬢様？　何か思いついたの？」
-＃主人公
-「少しだけ……確証はありませんが」
-＃なるみ
-「……そう、気をつけて」
-＃主人公
-「……ええ」
+
+#Benio
+"窶埜hat do you think you're doing?"
+Benio-san's voice came from behind us.
+#Narumi
+"B-Benio-ojousama..."
+#Benio
+"...I believe the doctor told you not to do anything reckless?"
+#Main Character
+"Um... we haven't done anything reckless yet..."
+#Benio
+"Don't make excuses, you idiot."
+#Main Character
+"I'm sorry..."
+We couldn't exactly break the piano, so I decided it was best to stop.
+I really thought we were close to finding something...
+#Narumi
+"...We'll just have to give up on this for now."
+#Main Character
+"Then... I'm going to go check on Shion-san."
+#Narumi
+"Shion-ojousama? Did you think of something?"
+#Main Character
+"Just a little... I don't have any proof, though."
+#Narumi
+"...I see. Be careful."
+#Main Character
+"...Right."

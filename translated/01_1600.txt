@@ -1,7 +1,7 @@
 The snow that had been falling since just after noon quickly buried the traces of the path left on the ground.
 Looking back, only the intermittent trail of our own footprints remained.
 There was no one behind me.
-Far ahead of me walked Kirihara-senpai?Souko-san.
+Far ahead of me walked Kirihara-senpai—Souko-san.
 #Protagonist
 "Wait up, Souko-san."
 #Souko
@@ -9,7 +9,7 @@ Far ahead of me walked Kirihara-senpai?Souko-san.
 #Protagonist
 "I said wait! I'm carrying your bags too, you know!"
 #Souko
-"It can't be helped, can it? I am injured, after all."
+"It can't be helped, can it? I *am* injured, after all."
 Souko-san walked back toward me.
 #Protagonist
 "Calling it an injury is a bit much. You just bumped your hand against a tree when you slipped and fell."
@@ -25,7 +25,7 @@ Souko-san clutched her right hand and groaned with exaggerated flair.
 #Souko
 "Then there's no problem, right?"
 #Protagonist
-"But Souko-san, your rucksack is insanely heavy! It�fs way heavier than mine."
+"But Souko-san, your rucksack is insanely heavy! It’s way heavier than mine."
 #Souko
 "When a girl goes on a trip, she inevitably ends up with a lot of things to bring along."
 #Protagonist
@@ -105,13 +105,13 @@ Souko-san pointed further down the path.
 "Well, yeah, that's true, but..."
 It's no use.
 I simply can't win against this woman.
-It all started when she?Souko Kirihara, my senior in the folklore seminar?announced she wanted to research the unusual customs of the Tohoku region.
+It all started when she—Souko Kirihara, my senior in the folklore seminar—announced she wanted to research the unusual customs of the Tohoku region.
 Souko-san's interest was piqued by legends remaining in mountain villages, distinct from the 'Tales of Tono' by Kunio Yanagita.
 The settlement, known as 'Nanatsuki Village,' has reportedly been ruled for generations by the Nanatsuki clan since the middle of the Edo period.
 Apparently, the first head of the family was a major Westernophile; he was devoted to foreign magic and occultism, smuggling various items into Japan while the country was still secluded.
 Perhaps because of that, Western-style legends survived in Nanatsuki Village and have been passed down to this day.
 Of course, I have no idea how much of it is actually true.
-It's only natural for rumors to be embellished?or so Souko-san always says.
+It's only natural for rumors to be embellished—or so Souko-san always says.
 Some theories even claim there are Western occult books brought back in secret by the Keicho Embassy, which Date Masamune dispatched under Hasekura Tsunenaga.
 It seems Souko-san wants to uncover the truth behind those stories during this investigation.
 However...
@@ -177,7 +177,7 @@ We emerged onto what looked like a road.
 In the distance, a gray shadow appeared.
 #Protagonist
 "A carriage...?"
-What I�fd taken for gray was only because it was obscured by the blowing snow.
+What I’d taken for gray was only because it was obscured by the blowing snow.
 As it drew closer, I realized it was a carriage painted pitch black.
 The horse was pure white, its nostrils huffing clouds of steam.
 Between the stark colors and the mode of transport itself, it felt incredibly out of place.
@@ -235,7 +235,7 @@ I suppose that was what they call a refined upbringing.
 #Souko
 "But well, it might be for the best to accept your hospitality."
 Souko-san shrugged, clutching both hands in front of her chest as she spoke.
-I wondered if the hand she�fd bumped earlier was still bothering her.
+I wondered if the hand she’d bumped earlier was still bothering her.
 #Protagonist
 "Is it really alright?"
 #Benio

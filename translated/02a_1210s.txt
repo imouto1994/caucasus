@@ -1,19 +1,19 @@
-小さい明かり取り用の窓がある。
-鍵はないようだが、小さくて人の出入りは不可能のようだ。
-ここから犯人が出入りする可能性はないだろう。
-＃主人公
-「藍さんの首にかかっていたロープですね……」
-＃想子
-「針金が編み込まれているのね……簡単に切れそうにないわ」
-＃主人公
-「一方はしっかりと壁に固定されてますね……反対側は時計の歯車に巻き込まれていました」
-藍さんの首にかかっていたワイヤ入りのロープだ。
-＃主人公
-「この棒はなんでしょうか……」
-床に落ちていた木ぎれを拾い上げる。
-＃想子
-「特に意味がある物にはみえないけれど……」
-一メートルほどの長さの棒きれだ。
-時計を動かしている歯車だ。
-今はその動きを止めている。
-歯車は動いていない。
+There is a small window designed to let in light.
+It doesn't appear to have a lock, but it窶冱 far too small for a person to pass through.
+It窶冱 highly unlikely the killer used this as an entry or exit point.
+#Protagonist
+"This is the rope that was around Ai-san窶冱 neck..."
+#Souko
+"It has wire braided into it... it wouldn't have been easy to cut."
+#Protagonist
+"One end was securely fixed to the wall... while the other end was caught in the clock gears."
+It窶冱 a wire-reinforced rope that had been wrapped around Ai-san窶冱 neck.
+#Protagonist
+"I wonder what this rod is for..."
+I picked up a piece of wood that had been lying on the floor.
+#Souko
+"It doesn't look like anything particularly important..."
+It窶冱 a piece of wood about a meter in length.
+These are the gears that drive the clock.
+They are currently stationary.
+The gears are not moving.

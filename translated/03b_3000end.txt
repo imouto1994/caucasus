@@ -1,73 +1,73 @@
-‚»‚ê‚©‚ç‚Ú‚­‚ÍA–€–é‚³‚ñ‚Ì˜r‚ğŒã‚ëè‚É”›‚èA’Ò‘º‚³‚ñ‚ÉŒ©’£‚è‚ğ—Š‚ñ‚Å•”‰®‚É—H•Â‚µ‚½B
-–é‚ª–¾‚¯‚Ä‚©‚ç‚Í‚—ä‚³‚ñ‚ª—‚Æ‚³‚ê‚½’İ‚è‹´‚ÉŒü‚©‚¢A˜[‚©‚ç‚â‚Á‚Ä—ˆ‚½ŒäÒ‚Æ˜b‚ğ•t‚¯AŒxŠ¯‚Æ‹´‚ğ’¼‚·lè‚ğ˜A‚ê‚Ä‚«‚½B
-¡‚Íl‚ª“n‚ê‚é‰¼‚Ì‹´‚ğ‰Ë‚¯‚Ä‚¢‚éÅ’†‚¾B
-”‚ ‚©‚Ë
-u‚Ç‚¤‚¼A‚¨’ƒ‚ª“ü‚è‚Ü‚µ‚½v
-LŠÔ‚É‚ ‚©‚Ë‚³‚ñ‚ª“ü‚Á‚Ä‚«‚½B
-”ålŒö
-u‚ A‚Ç‚¤‚àB‚¢‚½‚¾‚«‚Ü‚·v
-”‚ ‚©‚Ë
-u¡‚È‚é‚İ‚³‚ñ‚ªŠÈ’P‚È‚¨—¿—‚ğì‚Á‚Ä‚¢‚Ü‚·‚©‚çv
-”ålŒö
-u‚»‚¤‚Å‚·‚©v
-”‚ ‚©‚Ë
-ucc‚â‚Á‚Æ‹A‚ê‚Ü‚·‚Ëv
-”ålŒö
-u‚¦‚¦cc‚Å‚àA‚ ‚©‚Ë‚³‚ñ‚½‚¿‚Í‚±‚ê‚©‚ç‚Ç‚¤‚·‚é‚ñ‚Å‚·‚©Hv
-”‚ ‚©‚Ë
-u‚¦A‚í‚½‚µ‚½‚¿cc‚Å‚·‚©Hv
-”ålŒö
-u–€–é‚³‚ñ‚Í‹°‚ç‚­‘ß•ß‚³‚ê‚é‚Å‚µ‚å‚¤B‚»‚ê‚ÉA‘¼‚Ìl‚à‚à‚¤‹‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½‚µccv
-”‚ ‚©‚Ë
-u‚»‚¤‚Å‚·‚Ëcc‚í‚½‚µ‚½‚¿‚ào‚Äs‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚Ëccv
-‰½‚©Sc‚è‚ª‚ ‚é‚Ì‚©A‚ ‚©‚Ë‚³‚ñ‚Í­‚µ‚¾‚¯â‚µ‚»‚¤‚É™ê‚¢‚½B
-”ålŒö
-ucc‚ ‚©‚Ë‚³‚ñ‚Í‚Ç‚±‚ÌY‚Ü‚ê‚Å‚·‚©Hv
-”‚ ‚©‚Ë
-ucc‚±‚±‚©‚çR‚ğŠô‚Â‚©‰z‚¦‚½Š‚Ì¬‚³‚È`’¬‚Å‚·B‚Å‚·‚ªcc‚à‚¤’N‚à‚¢‚Ü‚¹‚ñBs‚­‚Æ‚±‚ë‚Í‚È‚¢‚ñ‚Å‚·v
-”ålŒö
-u‚ÅA‚Å‚µ‚½‚ç\\v
-”‘zq
-u‚Ù‚ç‚»‚±Aƒiƒ“ƒp‚µ‚È‚¢‚Ìv
-Œã‚ë‚©‚ç‘zq‚³‚ñ‚É¬“Ë‚©‚ê‚½B
-”ålŒö
-u‚»A‚»‚ñ‚È‚Â‚à‚è‚¶‚á\\v
-”‚È‚é‚İ
-u‚ ‚©‚Ë‚¾‚Á‚½‚ç‚ ‚½‚µ‚ªˆø‚«æ‚Á‚Ä‚ ‚°‚é‚í‚æv
-‘±‚¯‚ÄLŠÔ‚É“ü‚Á‚Ä‚«‚½‚È‚é‚İ‚³‚ñ‚ª‚»‚¤Œ¾‚Á‚½B
-”‚ ‚©‚Ë
-u‚¦‚Ácc‚Å‚àcc‚¢‚¢‚ñ‚Å‚·‚©Hv
-”‚È‚é‚İ
-u‚»‚è‚á‚à‚¿‚ë‚ñBcc‚Ü‚ ‚ ‚½‚µ‚àA‘O‚ÉZ‚ñ‚Å‚½‚Æ‚±‚ëˆø‚«•¥‚Á‚¿‚á‚Á‚Ä‚é‚¯‚Ç‚³Bˆê‚É’T‚»‚¤Hv
-”‚ ‚©‚Ë
-u‚Ícc‚Í‚¢‚ÁIv
-‚ ‚©‚Ë‚³‚ñ‚Í–Ú‚É—Ü‚ğ—­‚ß‚Äèõ‚¢‚½B
-”ålŒö
-ucc‚Æ‚±‚ë‚Å‘zq‚³‚ñA‚±‚ê‚©‚ç‚Ç‚¤‚µ‚Ü‚·Hv
-”‘zq
-u‚»‚¤‚Ëcc‚à‚¤’²¸‚Ç‚±‚ë‚¶‚á‚È‚­‚È‚Á‚½‚µA‹A‚Á‚Ä‚à‚¢‚¢‚ñ‚¾‚¯‚Çcc‚½‚Ô‚ñŒx@‚É‚¨ŒÄ‚Î‚ê‚Í‚·‚é‚Å‚µ‚å‚¤‚Ëccv
-”ålŒö
-ucc‚Ü‚ A‚»‚¤‚Å‚µ‚å‚¤‚Ëv
-”‚È‚é‚İ
-u˜[‚©ŠX‚Åh‚ğæ‚Á‚½•û‚ª‚¢‚¢‚ñ‚¶‚á‚È‚¢H@æ‚è’²‚×‚Æ‚©‚Í‚±‚±‚Å‚â‚é‚í‚¯‚¶‚á‚È‚¢‚Å‚µ‚å‚¤‚µv
-”‘zq
-u‚»‚¤‚Ëccv
-”ålŒö
-u‚±‚±‚É—¯‚Ü‚Á‚Ä‚à‚¢‚¢‚ñ‚¶‚á‚È‚¢‚Å‚·‚©Hv
-”‘zq
-u‚»‚¤‚à‚¢‚©‚È‚¢‚í‚æBccƒR[ƒ‰‚ª–³‚­‚È‚Á‚¿‚á‚Á‚½‚µv
-‚Ü‚é‚Å‚»‚ê‚ªˆê”Ô[‚È–â‘è‚©‚Ì‚æ‚¤‚É‘zq‚³‚ñ‚Í™ï‚¢‚½B
-”à‚ªŠJ‚«A‚—ä‚³‚ñ‚ª“ü‚Á‚Ä‚­‚éB
-”‚—ä
-u‹´‚ªo—ˆ‚½‚¼B‚Ğ‚Æ‚è‚¸‚Â‚µ‚©“n‚ê‚È‚¢‚ªv
-”‚È‚é‚İ
-u‚»‚ê‚¶‚áA‚¨•Ê‚ê‚©‚Èv
-”ålŒö
-u‚»‚¤‚Å‚·‚Ëv
-”‚ ‚©‚Ë
-u‚ ‚Ìcc‚¨Œ³‹C‚Åv
-”‘zq
-u‚»‚¿‚ç‚±‚»B‚¶‚á‚ s‚­‚í‚æv
-‚Ú‚­‚Í‘zq‚³‚ñ‚É–¼‘O‚ğŒÄ‚Î‚êA—§‚¿ã‚ª‚éB
-”ålŒö
-u‚»‚ê‚Å‚Ícc‚¨×–‚‚µ‚Ü‚µ‚½v
+After that, I tied Maya-san's arms behind her back and asked Tsujimura-san to keep watch while we confined her to her room.
+Once dawn broke, Takamine-san headed for the destroyed suspension bridge, spoke with the driver who had come from the foot of the mountain, and brought back the police and workers to fix the bridge.
+Right now, they're in the middle of constructing a temporary bridge for people to cross.
+#Akane
+"Here, I've made some tea."
+Akane-san entered the hall.
+#Main Character
+"Ah, thank you. I'll have some."
+#Akane
+"Narumi-san is making some simple dishes now."
+#Main Character
+"I see."
+#Akane
+"...We can finally go home."
+#Main Character
+"Yeah... but what are you all going to do now, Akane-san?"
+#Akane
+"Eh, us...?"
+#Main Character
+"Maya-san will likely be arrested. And besides, everyone else is gone..."
+#Akane
+"True... we might have to leave as well..."
+Akane-san whispered with a hint of sadness, as if she had some lingering regret.
+#Main Character
+"...Where were you born, Akane-san?"
+#Akane
+"...A small port town across several mountains from here. But... there's no one left there. I have nowhere to go."
+#Main Character
+"In... in that caseâ€”"
+#Souko
+"Hey there, no picking up girls."
+Souko-san poked me from behind.
+#Main Character
+"I-I wasn't trying to do anything like thatâ€”"
+#Narumi
+"I'll take Akane in if she needs it."
+Narumi-san, who had just entered the hall, spoke up.
+#Akane
+"Eh... but... is that okay?"
+#Narumi
+"Of course. ...Well, I've already moved out of my previous place, though. Shall we look for a new one together?"
+#Akane
+"Y-Yes!"
+Akane-san nodded, her eyes filling with tears.
+#Main Character
+"...By the way, Souko-san, what are you going to do now?"
+#Souko
+"Well... since there's no point in investigating anymore, I could just go home... but I'll probably be called in by the police..."
+#Main Character
+"...Well, I suppose so."
+#Narumi
+"Shouldn't you find an inn at the foot of the mountain or in town? They won't be doing the interrogations here, after all."
+#Souko
+"True..."
+#Main Character
+"Why not just stay here?"
+#Souko
+"I can't do that. ...I'm all out of cola."
+Souko-san groaned, as if that were the most serious problem of all.
+The door opened and Takamine-san entered.
+#Takamine
+"The bridge is ready. Only one person can cross at a time, though."
+#Narumi
+"I guess this is goodbye, then."
+#Main Character
+"I suppose so."
+#Akane
+"Um... take care."
+#Souko
+"You too. Well, let's go."
+Souko-san called my name, and I stood up.
+#Main Character
+"Well then... thank you for everything."

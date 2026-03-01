@@ -1,79 +1,79 @@
-＃主人公
-「想子さんっ！！」
-東側の廊下に飛びこみ、声を張り上げる。
-＃想子
-「……聞こえてるわよ」
-想子さんが部屋から出てきた。
-＃主人公
-「あっ……想子さん、何があったんですか？」
-＃想子
-「見ればわかるわ」
-やや疲れた様子で想子さんは部屋の中を覗くよう手招きしてきた。
-＃主人公
-「うわっ……」
-壁が真っ赤な塗料で汚されている。
-何か文字のようなものが書かれているようだ。
-＃想子
-「警告文みたいね」
-＃主人公
-「これ……血ですか？」
-＃想子
-「そのようね。まったくいつの間にやったのかしら……」
-想子さんが腕を組んで溜息を吐く。
-＃主人公
-「部屋に居なかったんですか？」
-＃想子
-「六時頃からずっと一階に居たわ。私の部屋の扉が開いているのをなるみさんが見つけて報せてくれたんだけど……」
-＃主人公
-「そうすると、その間に誰かが入り込んだんでしょうか……」
-＃想子
-「部屋を出るときに鍵は掛けておいた筈だけど……」
-想子さんが首を傾げる。
-＃主人公
-「いったい誰がこんな事を……」
-＃想子
-「あまり首を突っ込むなと云う事でしょうね。でも今は……」
-想子さんは盛大に溜息を吐く。
-＃想子
-「この部屋じゃ寝られそうにない事の方が問題だわ」
-＃主人公
-「空き部屋があるようですから、そっちに移動できるか訊いた方がいいんじゃないですか？」
-＃想子
-「そう思ってなるみさんに頼んではおいたから問題は無いけれど……」
-＃主人公
-「他に何か？」
-＃想子
-「……この犯人、相当焦っているんでしょうね」
-＃主人公
-「焦っている？」
-＃想子
-「そうじゃない？　わざわざこんな脅しを仕掛けてくるなんて。これ以上深入りするなと云う意思表示でしょ」
-＃主人公
-「まさか……想子さんが狙われているんですか？」
-＃想子
-「それはないと思うわよ。そんな余裕は犯人にない筈だから」
-＃主人公
-「ですが……気をつけてくださいよ？」
-＃想子
-「わかってるわよ。……心配してくれてありがとうね」
-そこに辻村さんが入ってきた。
-＃辻村
-「切原様、新しいお部屋が用意出来ましたので、こちらへどうぞ」
-＃想子
-「ええ、ありがとうございます。荷物をよろしくね」
-＃主人公
-「ぼくですか？」
-まあぼく以外にはいないだろうけど。
-＃想子
-「当たり前じゃない」
-片隅に置かれていた想子さんの荷物を持ち上げ、部屋を出る。
-廊下に出て辻村さんの先導で歩く。
-＃辻村
-「西側に空き部屋がありますので、そちらをどうぞお使いください」
-＃主人公
-「紅緒さんの部屋の向かい側ですか？」
-＃辻村
-「ええ、そうです」
-西側の廊下に入り、手前右側の扉を辻村さんが開ける。
-＃辻村
-「間取りなどはほぼ同じですので」
+#Main Character
+"Souko-san!!"
+I burst into the eastern corridor, shouting at the top of my lungs.
+#Souko
+"...I can hear you."
+Souko-san stepped out of her room.
+#Main Character
+"Ah... Souko-san, what happened?"
+#Souko
+"See for yourself."
+Looking a bit weary, she beckoned me to look inside.
+#Main Character
+"Whoa..."
+The walls were stained with bright red paint.
+It looked like words were written there.
+#Souko
+"It looks like a warning."
+#Main Character
+"Is this... blood?"
+#Souko
+"It appears so. I wonder when they managed to do this..."
+Souko-san crossed her arms and let out a sigh.
+#Main Character
+"Weren't you in your room?"
+#Souko
+"I窶况e been downstairs since about 6:00. Narumi-san found my door open and let me know..."
+#Main Character
+"So someone must have slipped in while you were out..."
+#Souko
+"I窶冦 sure I locked the door when I left, but..."
+Souko-san tilted her head.
+#Main Character
+"Who on earth would do something like this..."
+#Souko
+"It窶冱 a message telling us not to meddle too much, I suppose. But for now..."
+Souko-san let out a massive sigh.
+#Souko
+"The bigger problem is that I won't be able to sleep in this room."
+#Main Character
+"There are empty rooms available, so shouldn't we ask if you can move to one of them?"
+#Souko
+"I already asked Narumi-san to take care of it, so that窶冱 not an issue, but..."
+#Main Character
+"Something else?"
+#Souko
+"...The culprit must be quite desperate."
+#Main Character
+"Desperate?"
+#Souko
+"Don't you think? Going out of their way to pull a threat like this. It窶冱 a clear sign telling us not to dig any deeper."
+#Main Character
+"Don't tell me... are you being targeted, Souko-san?"
+#Souko
+"I don't think so. The culprit likely doesn't have that much room to breathe."
+#Main Character
+"Still... please be careful, okay?"
+#Souko
+"I know. ...Thanks for worrying about me."
+Tsujimura-san entered the room.
+#Tsujimura
+"Kirihara-sama, a new room has been prepared. Please follow me."
+#Souko
+"Yes, thank you. Take care of my luggage, please."
+#Main Character
+"Me?"
+Well, I suppose there isn't anyone else.
+#Souko
+"Of course you."
+I picked up Souko-san窶冱 luggage from the corner and left the room.
+We walked down the corridor, following Tsujimura-san.
+#Tsujimura
+"There is an empty room on the west side. Please use that one."
+#Main Character
+"Is it across from Benio-san窶冱 room?"
+#Tsujimura
+"Yes, that窶冱 correct."
+We entered the western corridor, and Tsujimura-san opened the first door on the right.
+#Tsujimura
+"The layout is almost identical."

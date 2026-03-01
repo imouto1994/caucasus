@@ -1,0 +1,68 @@
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+#Protagonist
+"Huh... I guess he's not in."
+Even after waiting, there was no response.
+It can't be helped; I'll head elsewhere.
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+#Protagonist
+"Tsujimura-san, it's me."
+The door opened, and a weary-looking Tsujimura-san appeared.
+#Tsujimura
+"Ah... it was you."
+#Protagonist
+"Eh... um, Tsujimura-san, is something wrong?"
+#Tsujimura
+"Oh, how embarrassing... it seems I was struck by someone..."
+#Protagonist
+"Eh... when did this happen?"
+#Tsujimura
+"About thirty minutes ago... I was in the hall when I was suddenly hit from behind... dear me, how pathetic..."
+#Protagonist
+"Um, do you have any idea who did it?"
+#Tsujimura
+"I haven't the slightest clue... after all, it came from behind..."
+#Protagonist
+"I see..."
+#Tsujimura
+"Ah, also, the cause of the blackout was a blown fuse in the basement generator."
+#Protagonist
+"A fuse?"
+#Tsujimura
+"I didn't see any other broken lines, so I don't think it was intentional, but..."
+Tsujimura-san seemed concerned about that as well.
+#Protagonist
+"Does it look like it can be fixed?"
+#Tsujimura
+"...If I recall, there should be spare fuses left in the storage room..."
+#Protagonist
+"Um, I'll do it."
+#Tsujimura
+"B-But... I couldn't possibly let a guest do such a thing..."
+#Protagonist
+"I'll be fine. Besides, I can't leave it to you when you're injured, Tsujimura-san."
+#Tsujimura
+"Is that so... my apologies."
+#Protagonist
+"Um, so what should I do?"
+#Tsujimura
+"There should be replacement fuses and tools in the storage room. If you could use those to fix the generator in the basement..."
+#Protagonist
+"Understood, leave it to me."
+First, the storage room.
+I bowed to Tsujimura-san and decided to head for the storage room.
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+#Protagonist
+"Tsujimura-san, it's me."
+The door opened, and a weary-looking Tsujimura-san appeared.
+#Tsujimura
+"How can I help you?"
+#Protagonist
+"Um... Tsujimura-san, is your head alright where you were hit?"
+#Tsujimura
+"Yes, it still hurts, but I'm icing it, so there's no need to worry."
+#Protagonist
+"I see... take care of yourself."
+I bowed and left the area.

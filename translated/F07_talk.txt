@@ -1,0 +1,59 @@
+#Souko
+"Is this enough?"
+#Satoshi
+"Yes, thank you very much."
+#Souko
+"Then good luck with the rest of your investigation."
+#Satoshi
+"Understood."
+I decided to go somewhere else.
+#Maya
+"Is that all?"
+#Satoshi
+"Yes, thank you very much. You seem busy, so I'll take my leave now."
+I bowed and decided to go somewhere else.
+#Ai
+"Is that all?"
+#Satoshi
+"Yes, thank you very much. You seem busy, so I'll be going now."
+I bowed and decided to go somewhere else.
+#Benio
+"Is this enough?"
+#Satoshi
+"Yes, thank you very much."
+I thanked Benio-san and decided to go somewhere else.
+#Shion
+"Would this be sufficient?"
+#Satoshi
+"Yes, thank you very much."
+I thanked Shion-san and decided to go somewhere else.
+#Tsujimura
+"Will this suffice?"
+#Satoshi
+"Yes, thank you for being so thorough. You seem busy, so I'll take my leave now."
+I expressed my thanks and decided to go somewhere else.
+#Takamine
+"Is this enough?"
+#Satoshi
+"Y-Yeah. Thank you very much. You seem busy, so I'll excuse myself now."
+I bowed and decided to go somewhere else.
+#Mikanagi
+"Is this much all right?"
+#Satoshi
+"Yes, thank you very much. Well then, excuse me."
+I decided to go somewhere else.
+#Akane
+"Is that all you need?"
+#Satoshi
+"Yes, thank you very much. You still seem busy, so I'll take my leave now."
+I bowed and decided to go somewhere else.
+#Narumi
+"Well then, I'd better get back to work. Such a pain, though."
+#Satoshi
+"Then I'll be going. Excuse me."
+#Narumi
+"Sure thing. Come back again."
+I decided to go somewhere else.
+Now then, what should I do...
+About an hour has passed.
+I'll head back to my room for now.

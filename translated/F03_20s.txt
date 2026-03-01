@@ -1,0 +1,100 @@
+It’s pure white outside the window; I can't see a thing.
+I wonder when this blizzard will let up...
+The blizzard outside seems to be getting stronger.
+#Protagonist
+"The fire is still burning."
+#Akane
+"It's unlikely to start a fire, but... I believe Lady Ai was in this room until just a moment ago. ...Oh?"
+Akane-san peeks into the fireplace.
+#Akane
+"Something fell in there... looks like a piece of paper."
+#Protagonist
+"Eh... you're right."
+Inside the hearth, a scrap of paper was lying there.
+#Protagonist
+"Was she trying to burn something...?"
+The paper is quite badly charred.
+#Akane
+"It might be a clue. Can you get it?"
+#Protagonist
+"...It's too hot, no way."
+I certainly can't shove my hand into a roaring fire.
+#Protagonist
+"If I had something to use, I think I could get it..."
+Use a tool
+Leave it for now
+Before that, let's search the room a bit more.
+#Protagonist
+"I think I can get it with this."
+I decided to try using the poker.
+I poke the rod into the fireplace and pull the paper out.
+#Akane
+"Hurry up, or it'll burn up completely..."
+#Protagonist
+"I know... there!"
+I managed to drag it close enough to reach.
+#Akane
+"...It's mostly burnt."
+#Protagonist
+"It really is just a fragment..."
+#Akane
+"I wonder what was written on it..."
+#Protagonist
+"...Maybe. But we'll never know now..."
+#Akane
+"Ah, but this pattern... I believe it's the same as the notepad in the telephone room."
+#Protagonist
+"The one in the telephone room?"
+#Akane
+"Yes. It's kept there for jotting down messages when the phone rings... it's a bound pad of paper."
+#Protagonist
+"...If she wrote something there, a clue might still remain."
+#Akane
+"You're right."
+It’s no good, I can't seem to get it.
+Let's look around for something else.
+I’m curious about that scrap of paper in the fireplace... I wonder how I can get it out.
+I should hurry to the telephone room and check.
+It's likely a door connecting to the adjacent room.
+It seems to be firmly locked.
+This door doesn't look like it'll open.
+A painting is on display.
+I don't know who the artist is, but it's a beautiful piece.
+Right now, there are more important things to investigate.
+Accessories and small trinkets are inside.
+There's nothing that gives a clue to Ai-san's whereabouts.
+I probably shouldn't be rummaging through a lady's room like this.
+Accessories and small trinkets are inside.
+There's nothing that gives a clue to Ai-san's whereabouts.
+I probably shouldn't be rummaging through a lady's room like this.
+Accessories and small trinkets are inside.
+There's nothing that gives a clue to Ai-san's whereabouts.
+I probably shouldn't be rummaging through a lady's room like this.
+#Protagonist
+"Hm...?"
+A scrap of paper fell out from inside a book.
+What could this be...?
+"Story of a Certain Man - Chapter 7"
+—The man was crying. I felt a surge of deep regret. I had been so caught up in the man's aura and appearance that I failed to see the person within.
+I felt ashamed. Despite working in a profession like composing, meant to give dreams and hope to people, I had failed to notice such an obvious emotion.
+I should have considered the feelings the man had while grilling all that takoyaki. ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled "Story of a Certain Man - Chapter 7" is lying here.
+I flip through the book, but there's nothing unusual about it.
+It's a perfectly ordinary novel.
+There are no clues to Ai-san's whereabouts.
+I flip through the book, but there's nothing unusual about it.
+It's a perfectly ordinary novel.
+There are no clues to Ai-san's whereabouts.
+This is the bed Ai-san uses.
+I peeked under the pillow and the bed, but I couldn't find anything resembling a clue.
+It's probably better to search somewhere else.
+#Protagonist
+"This is... a fire poker."
+It's a sturdy iron rod.
+#Akane
+"You need it for the fireplace. To stir the logs and such."
+#Protagonist
+"...It might be useful for something, let's take it."
+I now have the poker that was here.

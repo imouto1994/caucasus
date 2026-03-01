@@ -1,0 +1,24 @@
+#Souko
+"There's no doubt that was used to sever Ai-san's neck..."
+#Satoshi
+"True..."
+#Benio
+"That axe... looked similar to the one found near Rokuyou."
+#Satoshi
+"True..."
+#Tsujimura
+"That... was the item found in Master Rokuyou's room. I had returned it to the storage shed... I wonder if that was a mistake..."
+#Satoshi
+"Is that what happened...?"
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"I don't really know about that."
+#Satoshi
+"I see..."

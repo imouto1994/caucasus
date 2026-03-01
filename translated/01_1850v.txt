@@ -1,51 +1,51 @@
-＃紅緒
-「西側は私たち家族の私室になっております。奥が母上、左奥が姉上、その隣が私の部屋ですわ」
-それだけを説明すると紅緒さんは踵を返す。
-まあ、誰も居ないのだから当然か。
-ホールを見下ろしながらぐるりと周り、今度は反対側の廊下へ進む。
-＃紅緒
-「こちらの奥は演奏用の部屋です。あとは楽器の収納と、楽譜などが置かれた部屋がありますわ」
-＃想子
-「恒星氏が使われていたんですか？」
-＃紅緒
-「生前はそうでしたわ。最近では私も使っておりますけれど、ご自由に使われても構いませんわよ」
-＃主人公
-「ぼくは楽器なんて弾けませんからねえ」
-＃想子
-「きみはカスタネットでも叩いていればいいじゃない」
-頭を掻いたぼくを想子さんが茶化す。
-＃紅緒
-「ふふっ……カスタネットならば楽器の倉庫にあると思いますわよ」
-＃主人公
-「いえ、本気にしないでいいですから」
-＃紅緒
-「右手前の空き部屋は後ほど切原さんの部屋とさせていただきますので」
-＃想子
-「ええ、ありがとう」
-＃紅緒
-「最後は北側の区画ですわ。こちらにもひとつ空きがありますので、あなたのお部屋にさせていただきます」
-＃主人公
-「済みません、いろいろと」
-紅緒さんが最後の廊下へ入っていく。
-＃紅緒
-「こちら、一番奥は父上が使われた部屋でした。左奥は<は<ヽ><か<ヽ><せ<ヽ>の部屋、その向かいが書斎になっており、その隣は医務室でございますわ」
-＃主人公
-「じゃあ、ぼくはこっちの部屋ですか？」
-残った御巫先生の部屋の隣を指して訊ねる。
-＃紅緒
-「ええ、そうなりますわね。あと、ご質問などは御座いますか？」
-紅緒さんの問い掛けに想子さんが手を挙げた。
-＃想子
-「恒星さんのお部屋を拝見させて貰っても構いませんか？」
-＃紅緒
-「それは……いけませんわ。父上が亡くなってからはずっと開けておりませんから」
-＃主人公
-「開かずの間ですか……？」
-＃紅緒
-「そうなりますわね」
-＃想子
-「あと――お風呂はどちらですか？」
-＃紅緒
-「浴室は各部屋にありますのでご心配なさらずに。地下から水を汲み上げていますから、すぐに熱いお湯も使えますわよ」
-＃想子
-「そう、ありがとう」
+#Benio
+"The west wing consists of our family's private quarters. My mother's room is at the end, my elder sister's is on the far left, and mine is next to it."
+After giving that brief explanation, Benio-san turned on her heel.
+Well, since no one was there, it was only natural.
+We circled around the balcony overlooking the hall and proceeded into the opposite corridor.
+#Benio
+"At the end of this hall is the music room. There's also a room for instrument storage and another for sheet music."
+#Souko
+"Was it used by Kousei-shi?"
+#Benio
+"It was, while he was alive. I use it myself these days, but you're more than welcome to use it as you like."
+#Protagonist
+"I can't play a single instrument, though."
+#Souko
+"You could always just sit there and bang a pair of castanets."
+Souko-san teased me as I scratched my head.
+#Benio
+"Fufu... I believe there might be a pair of castanets in the instrument storage."
+#Protagonist
+"No, really, don't take her seriously."
+#Benio
+"I'll have the vacant room on the front right prepared for you, Kirihara-san."
+#Souko
+"Yes, thank you."
+#Benio
+"And finally, the northern section. There's one more vacancy here, so I'll make that your room."
+#Protagonist
+"Sorry for all the trouble."
+Benio-san led the way into the final corridor.
+#Benio
+"The room at the very end was used by my father. On the far left is Hakase's room, across from that is the study, and next to that is the infirmary."
+#Protagonist
+"So, will this be my room?"
+I asked, pointing to the door next to Mikanagi-sensei's.
+#Benio
+"Yes, that's the one. Now, do you have any other questions?"
+Souko-san raised her hand in response to Benio-san's inquiry.
+#Souko
+"Would it be alright if I had a look inside Kousei-san's room?"
+#Benio
+"I'm afraid... that isn't possible. It has been kept closed ever since my father passed away."
+#Protagonist
+"A forbidden room...?"
+#Benio
+"That is indeed the case."
+#Souko
+"One more thing窶背here are the baths?"
+#Benio
+"Don't worry, each room has its own bathroom. We pump water up from underground, so hot water is available instantly."
+#Souko
+"I see, thank you."

@@ -1,0 +1,28 @@
+＃Souko
+"Takamine-san was supposedly in his room… it’d be hard to pin it on him. For starters, he didn't even come to the second floor, right?"
+＃Satoshi
+"True…"
+＃Maya
+"I wouldn't know, I was resting in my room as well."
+＃Satoshi
+"I see…"
+＃Ai
+"I’m not sure… I was in my room the entire time."
+＃Satoshi
+"I see…"
+＃Tsujimura
+"I believe he was in his room… but I haven't confirmed it."
+＃Satoshi
+"I see…"
+＃Takamine
+"I was in my room the whole time. Though I doubt anyone can prove it."
+＃Satoshi
+"I see…"
+＃Akane
+"I believe he was in his room the whole time, but…"
+＃Satoshi
+"I see…"
+＃Narumi
+"I didn't see him once while I was out in the hallway. I’m pretty sure he was in his room the whole time."
+＃Satoshi
+"I see…"

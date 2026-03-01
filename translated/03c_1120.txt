@@ -1,41 +1,41 @@
-階段を下りてくると、食堂の方から騒がしい声が聞こえてきた。
-＃主人公
-「向こうみたいですね」
-＃想子
-「何があったのかしら……」
-東側の廊下へ入ったとたん、焦げ臭い匂いが鼻についた。
-＃想子
-「何……これ」
-想子さんが口許を覆って呻く。
-＃主人公
-「なるみさんっ！？」
-なるみさんが廊下の壁にもたれ掛かるようにして倒れていた。
-＃主人公
-「だ、大丈夫ですか！？」
-＃なるみ
-「んっ……」
-なるみさんが呻き声を上げて目を開ける。
-＃想子
-「爆発が起きたの……？」
-＃なるみ
-「……ええ、厨房に入ろうとしたら、いきなり……」
-顔を顰めながらなるみさんが立ち上がる。
-＃なるみ
-「いたた……ちょっと火傷しちゃったかも」
-なるみさんの捲り上げた袖から覗く腕は真っ赤に腫れ上がっていた。
-＃主人公
-「ちょっとじゃないですよ！？」
-ちょうどその時、御巫先生が息せき切ってやってきた。
-＃御巫
-「何があったんですか！？」
-＃主人公
-「御巫先生、なるみさんが怪我をしているので治療をお願いします」
-＃御巫
-「あ、ああ……じゃあ取り敢えずきみの部屋へ」
-＃なるみ
-「はい」
-御巫先生となるみさんがすぐ傍の部屋に入っていく。
-＃主人公
-「ぼくも様子を見てきます」
-＃想子
-「ええ。私は厨房を少し調べてるわ」
+When I came down the stairs, I heard loud voices coming from the dining room.
+#Main Character
+"Sounds like it's over there."
+#Souko
+"I wonder what happened..."
+As soon as we stepped into the eastern corridor, the smell of burning hit my nose.
+#Souko
+"What... is this?"
+Souko-san groaned, covering her mouth.
+#Main Character
+"Narumi-san!?"
+Narumi-san was slumped against the corridor wall.
+#Main Character
+"Are you okay!?"
+#Narumi
+"Nnh..."
+Narumi-san let out a groan and opened her eyes.
+#Souko
+"Was there an explosion...?"
+#Narumi
+"...Yeah, I was about to go into the kitchen and suddenly..."
+Narumi-san stood up with a grimace.
+#Narumi
+"Ow ow... I might have gotten burned a bit."
+The arm peeking from Narumi-san's rolled-up sleeve was swollen and bright red.
+#Main Character
+"That's not just 'a bit'!?"
+Just then, Dr. Mikanagi came running, out of breath.
+#Mikanagi
+"What happened!?"
+#Main Character
+"Dr. Mikanagi, Narumi-san is injured, so please treat her."
+#Mikanagi
+"A-Ah, alright... let's take her to your room for now."
+#Narumi
+"Okay."
+Dr. Mikanagi and Narumi-san entered the room right nearby.
+#Main Character
+"I'll go check things out too."
+#Souko
+"Right. I'll stay here and look around the kitchen a bit."

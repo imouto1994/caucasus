@@ -1,70 +1,71 @@
-『Ｈ・Ｐ・ラヴクラフト全集』と書かれた本が並んでいる。
-なんと云うか……この家の誰がこの本を読んでいるのだろうか……
-ラヴクラフト全集が置かれている。
-『陰秘学大全』と書かれた本が並んでいる。
-誰の本だろう……
-オカルトの本が置かれている。
-『ソロモンの鍵』や『グリモリウム・ウェルム』など、海外の本が多く並べられている。
-これって……確か、魔術書とか云われている本じゃなかったっけ……
-魔術書と呼ばれる類の本が置かれている。
-『遠野物語』をはじめとした、東北地方の民間伝承をまとめた本が置かれている。
-特に変わった本はないようだ。
-東北の民俗に関する本が置かれている。
-『Ｄｉｅ　Ｇｅｓｃｈｉｃｈｔｅ　ｄｅｕｔｓｃｈｅｒ　Ｍｕｓｉｋ』と表紙に書かれている。
-えっと……ドイツ語だろうか。内容がよくわからない。
-音楽記号が書かれているから、そっち関係の本なのだろうけど……
-ドイツ語で書かれた音楽の本のようだ。
-どうやら独和辞典のようだ。
-これさえあれば単語の意味くらいは理解出来そうだけど、文法やなにやらはわからないから、本を読むのは難しそうだ。
-独和辞典が置かれている。
-これは……ドイツ語で書かれた旅行のガイドブックのようだ。
-行ってみたいとは思うけど、無理だよなあ……
-ドイツの旅行ガイドのようだ。
-これは……推理小説、だろうか。
-上野で起こった連続殺人事件を遊郭に身を寄せている探偵が解決していく内容のようだ。
-タイトルは……おっと、こんなところで読みふける訳にもいかないし、またの機会にしておこう。
-推理小説が置かれている。
-どうやらこの本はドイツの戦争史を取り扱っているようだ。
-ふたつの大戦と、その後の東西分裂について書かれている。
-ドイツの歴史書のようだ。
-目に付いた本をめくる。
-音楽の教本だった。
-音階やら何やら、ぼくにはよくわからない。
-『ドレミファソラシド』が英語では『ＣＤＥＦＧＡＢＣ』、さらにドイツでは『ＣＤＥＦＧＡＨＣ』になる等と書かれている。
-音楽の成績なんて思い出したくもないからなあ……
-音楽の教本が置かれている。
-＃主人公
-「ん……？」
-本に挟まっていた紙切れが目にとまった。
-なんだろう……
-『ある男の話・第一話』
-私の名前は七月恒星。ただの作曲家である。
-ここにある経験談を残しておくことにした。とても自分ひとりの心にしまっておくにはおぞましい出来事だったからである。
-これを見つけたものは心して読むがいい。　～つづく～
-＃主人公
-「……なんだこれ」
-『ある男の話・第一話』と云う紙切れが挟まっている。
-『Ｄｅｕｔｓｃｈｅ　Ａｒｃｈｉｔｅｋｔｕｒ』と書かれた本が置かれている。
-中には写真や絵図で西洋の城郭が描かれているから、そのあたりの解説書か何かなのだろう。
-ドイツの建築関係の本らしい。
-この本は……どうやらピアノ弾きの主人公が奇妙な事件に巻き込まれていく物語のようだ。
-主人公が主人公なだけに、この家に置かれていてもおかしくはない、のかもしれない。
-えっと、タイトルは……おっと、こんなところで読みふける訳にもいかないし、またの機会にしておこう。
-推理小説のようだ。
-目に付いた本をめくる。
-建築の本のようだ。
-英語圏でもイギリスとアメリカで階数の表記が異なるらしい。
-同じ二階でも米国は『２Ｆ』、英国は『１Ｆ』になるらしい。
-絶対混乱するよな、これ……
-『階』と云う言葉は英語で『Ｆｌｏｏｒ』、ドイツでは『Ｓｔｏｃｋ』と云うようだ。
-建築学の本のようだ。
-目に付いた本をめくる。
-地図の解説書のようだ。
-『東西南北』が英語では『ＥＷＳＮ』で表され、ドイツでは『ＯＷＳＮ』になるみたいな事が書いてあるようだ。
-東だけが変わるのか……まあ頭文字以外は変わっているんだろうけど。
-地図の解説書が置かれている。
-どうやら推理小説のようだ。
-女学生連続殺人事件を追う探偵の話だ。
-奇妙な絵画に描かれた女性とうり二つの少女や、虫好きの妹が出てきたりしている。
-えっと、タイトルは……おっと、こんなところで読みふける訳にもいかないし、またの機会にしておこう。
-推理小説が置かれている。
+
+A row of books titled "The Complete Works of H.P. Lovecraft" are lined up.
+I have to wonder... who in this house is reading these?
+The Complete Works of Lovecraft is here.
+A row of books titled "The Encyclopedia of Occultism" are lined up.
+I wonder whose books these are...
+Occult books are here.
+Many foreign books like "The Key of Solomon" and "Grimorium Verum" are lined up.
+Wait... weren't these supposed to be grimoires or something...
+Books of the type called grimoires are here.
+Books compiling the folklore of the Tohoku region, including "Tono Monogatari," are here.
+Nothing seems particularly unusual.
+Books regarding Tohoku folklore are here.
+"Die Geschichte deutscher Musik" is written on the cover.
+Um... is this German? I can't really understand the content.
+There are musical symbols written in it, so it's likely a book related to that field...
+It appears to be a book on music written in German.
+It appears to be a German-Japanese dictionary.
+With this, I could probably understand the meanings of individual words, but without knowing the grammar, reading a book would be difficult.
+A German-Japanese dictionary is here.
+This... appears to be a travel guidebook written in German.
+I'd like to visit, but that's impossible...
+It appears to be a German travel guide.
+Is this... a mystery novel?
+The content seems to be about a detective living in a brothel who solves a series of murders in Ueno.
+The title is... oops, I can't exactly get lost in a book here. I'll save it for another time.
+A mystery novel is here.
+It seems this book covers German military history.
+It's written about the two World Wars and the subsequent division of East and West.
+It appears to be a German history book.
+I flipped through a book that caught my eye.
+It was a music textbook.
+Scales and such... I don't really understand any of it.
+It says things like "Do-Re-Mi-Fa-Sol-La-Ti-Do" is "C-D-E-F-G-A-B-C" in English, and further becomes "C-D-E-F-G-A-H-C" in German.
+I don't even want to remember my music grades...
+A music textbook is here.
+#Main Character
+"Hmm...?"
+A scrap of paper tucked into the book caught my eye.
+I wonder what it is...
+"A Certain Man's Story - Chapter 1"
+My name is Kousei Nanatsuki. I am but a simple composer.
+I have decided to leave a record of my experiences here. They were events far too hideous to keep locked away in my own heart.
+Let those who find this read with care. ~To be continued~
+#Main Character
+"...What is this?"
+A scrap of paper titled "A Certain Man's Story - Chapter 1" is tucked inside.
+A book titled "Deutsche Architektur" is here.
+It contains photos and illustrations of Western fortifications, so it's probably some kind of commentary or reference book.
+It seems to be a book related to German architecture.
+This book... appears to be a story about a protagonist who is a piano player getting caught up in a strange incident.
+Given the protagonist, it might not be unusual for it to be in this house.
+Um, the title is... oops, I can't exactly get lost in a book here. I'll save it for another time.
+It appears to be a mystery novel.
+I flipped through a book that caught my eye.
+It appears to be an architecture book.
+It seems the notation for floors differs between the UK and the US in the English-speaking world.
+The same second floor is "2F" in the US, but becomes "1F" in the UK.
+That's bound to be confusing...
+The word for "floor" is "Floor" in English, and is apparently "Stock" in German.
+It appears to be a book on architecture.
+I flipped through a book that caught my eye.
+It appears to be a guidebook for maps.
+It seems to say that the cardinal directions are represented as "EWSN" in English, and become "OWSN" in German.
+So only East changes... well, I'm sure more than just the first letter is different.
+A map guidebook is here.
+It appears to be a mystery novel.
+It's a story about a detective chasing a serial killer of schoolgirls.
+A girl who is the spitting image of a woman in a strange painting and a younger sister who loves insects appear in it.
+Um, the title is... oops, I can't exactly get lost in a book here. I'll save it for another time.
+A mystery novel is here.

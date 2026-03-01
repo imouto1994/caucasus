@@ -1,37 +1,37 @@
-部屋でじっとしている事を選んだぼくは、窓の外を眺めていた。
-雪は衰えることなく吹き荒んでいる。
-すぐ近くにあるはずの塔も霞んでいて、そこに詩音さんが居るかどうかもわからない。
-これからどうなってしまうのだろうか……
-扉が叩かれた。
-＃主人公
-「はい？」
-だれだろう……？
-＃？？？
-「すみません、燈山です」
-＃主人公
-「燈山……あかねさん？　どうしました？」
-ぼくは扉の鍵を開け、あかねさんを室内へ招き入れた。
-＃主人公
-「何かあったんですか？」
-あかねさんの落ち着きのない表情を見て訊ねる。
-＃あかね
-「あの……藍お嬢様を見ませんでしたか？」
-＃主人公
-「え……藍さん？」
-＃あかね
-「お部屋に居ないんです……」
-＃主人公
-「全員が集まった時には居ましたけど、その後はわかりません」
-＃主人公
-「ぼくは……詩音さんを医務室に連れて行った時、藍さんと一緒になりましたけど……その後はわかりません」
-＃あかね
-「そうですか……」
-なんだか、とても厭な予感がした。
-まだ続く可能性があると想子さんは言っていた。
-まさか――でも……
-＃主人公
-「……探しましょう」
-＃あかね
-「は、はいっ！」
-こうなった以上、じっとしてなんかいられなかった。
-もし……藍さんが犯人に連れ去られたのだとしたら、どうしても助け出さなくてはならない。
+Having chosen to stay put in my room, I spent the time gazing out the window.
+The snow showed no signs of slowing down, blowing fiercely across the landscape.
+Even the tower that was supposed to be right nearby was shrouded in white, and I couldn't tell if Shion-san was even still there.
+I wondered what was going to happen to us...
+There was a knock at the door.
+#Protagonist
+"Yes?"
+Who could it be...?
+#???
+"Excuse me, it窶冱 Hiyama."
+#Protagonist
+"Hiyama... Akane-san? Is something wrong?"
+I unlocked the door and invited Akane-san inside.
+#Protagonist
+"Did something happen?"
+I asked, noticing the restless, anxious look on her face.
+#Akane
+"Um... have you seen Ai-ojousama?"
+#Protagonist
+"Eh... Ai-san?"
+#Akane
+"She's not in her room..."
+#Protagonist
+"She was there when everyone gathered earlier, but I haven't seen her since."
+#Protagonist
+"I... was with Ai-san when we took Shion-san to the infirmary... but I don't know where she went after that."
+#Akane
+"I see..."
+I suddenly had a very bad feeling about this.
+Souko-san had mentioned the possibility of more to come.
+Surely not窶巴ut still...
+#Protagonist
+"...Let's go look for her."
+#Akane
+"Y-yes, let's!"
+Now that things had come to this, I couldn't just sit still.
+If... if Ai-san had been taken by the killer, I had to save her no matter what.

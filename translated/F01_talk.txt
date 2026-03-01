@@ -1,0 +1,66 @@
+#Souko
+"Will this do?"
+#Satoshi
+"Yes, thank you."
+#Souko
+"Then keep up the good work with the investigation."
+#Satoshi
+"I will."
+I decided to head somewhere else.
+#Maya
+"Is that everything?"
+#Satoshi
+"Yes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now."
+I bowed and decided to head somewhere else.
+#Ai
+"Is that everything?"
+#Satoshi
+"Yes, thank you very much. You seem busy, so I'll be going now."
+I bowed and decided to head somewhere else.
+#Benio
+"Will this suffice?"
+#Satoshi
+"Yes, thank you very much."
+#Benio
+"If anything else comes up, please don't hesitate to ask."
+#Satoshi
+"Yes, I'll do that."
+I decided to head somewhere else.
+#Tsujimura
+"Will this be enough for you?"
+#Satoshi
+"Yes, thank you for your detailed help. You seem busy, so I'll take my leave now."
+I expressed my thanks and decided to head somewhere else.
+#Rokuyou
+"Is that everything?"
+#Satoshi
+"Yes, thank you very much."
+#Rokuyou
+"If you need anything else, feel free to ask."
+#Satoshi
+"Thank you. Well then, excuse me."
+I decided to head somewhere else.
+#Takamine
+"Will this do?"
+#Satoshi
+"Y-Yes. Thank you. You seem busy, so I'll excuse myself now."
+I bowed and decided to head somewhere else.
+#Mikanagi
+"Will this be enough for you?"
+#Satoshi
+"Yes, thank you very much. Excuse me."
+I decided to head somewhere else.
+#Akane
+"Is that everything?"
+#Satoshi
+"Yes, thank you. You still seem busy, so I'll take my leave now."
+I bowed and decided to head somewhere else.
+#Narumi
+"Alright then, I guess I'll get back to work too. What a pain."
+Narumi-san heads toward the kitchen.
+#Satoshi
+"Well then, I'll be going now. Excuse me."
+#Narumi
+"See ya. Come back anytime."
+I decided to head somewhere else.
+Now then, what should I do next...

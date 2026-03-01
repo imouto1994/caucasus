@@ -1,0 +1,157 @@
+The office was dark as well, as expected.
+Benio-san was there.
+#Protagonist
+"Benio-san, this blackout...?"
+#Benio
+"Tsujimura should be down in the basement checking the generator right now."
+#Protagonist
+"There's a generator?"
+#Benio
+"Yeah. There should be fuel for it, so it's likely some kind of trouble... I don't like this."
+Benio-san spat the words out irritably.
+#Protagonist
+"...It's certainly unsettling, given the current situation."
+#Benio
+"It could be that someone did this with malicious intent. Don't let your guard down."
+#Protagonist
+"Yeah, I know. You be careful too, Benio-san."
+Leaving her with those words, I decided to exit the office.
+I’ve returned to the office.
+#Protagonist
+"Has Tsujimura-san still not returned?"
+I spoke to Benio-san, who was alone in the office.
+#Benio
+"Honestly... you just left a second ago."
+Benio-san sighed in exasperation.
+#Protagonist
+"Well, yes, but... I don't know, I was just concerned..."
+#Benio
+"Panicking won't help anything."
+#Protagonist
+"You're right... sorry to bother you."
+I bowed and decided to leave the office.
+When I entered the office, Benio-san and Shion-san were there along with Tsujimura-san.
+However... Tsujimura-san was pressing a wet hand towel to his head.
+#Protagonist
+"Tsujimura-san, what happened!?"
+#Tsujimura
+"Oh, how embarrassing... it seems I was struck by someone..."
+#Protagonist
+"Eh... when did this happen?"
+#Tsujimura
+"About twenty minutes ago, I suppose... I was in the hall when I was suddenly hit from behind... ow..."
+#Shion
+"Seiji-san, please don't move too much..."
+Shion-san, who was gently holding the towel in place, spoke up.
+#Tsujimura
+"Dear me, how pathetic of me..."
+#Protagonist
+"Um, do you have any idea who did it?"
+#Tsujimura
+"I haven't the slightest clue... after all, it came from behind..."
+#Protagonist
+"I see..."
+#Tsujimura
+"Ah, also, the cause of the blackout was a blown fuse in the basement generator."
+#Protagonist
+"A fuse?"
+#Tsujimura
+"I didn't see any other broken lines, so I don't think it was intentional, but..."
+Tsujimura-san seemed concerned about that as well.
+#Benio
+"So, just how much longer must we spend our time in the dark?"
+#Tsujimura
+"...If I recall, there should be spare fuses left in the storage room. If I find those first... it might be after six o'clock."
+#Benio
+"Hmm..."
+Benio-san looked at the clock and fell silent.
+#Shion
+"Um, Seiji-san. You've injured your head, so it would be better if you didn't move around..."
+#Tsujimura
+"...But, if I don't fix it..."
+#Protagonist
+"Um, I'll help you."
+#Tsujimura
+"B-But... I couldn't possibly let a guest do such a thing..."
+#Benio
+"Tsujimura, just take him up on his offer. I know absolutely nothing about machinery, and it's best if you don't move."
+#Protagonist
+"I'll be fine."
+#Tsujimura
+"Is that so... my apologies."
+Tsujimura-san tried to bow his head but was stopped by Shion-san.
+#Shion
+"...Please, just stay still for now."
+#Tsujimura
+"Haha... I'm sorry."
+#Protagonist
+"Um, so what should I do?"
+#Tsujimura
+"There should be replacement fuses and tools in the storage room. If you could use those to fix the generator in the basement..."
+#Protagonist
+"Understood, leave it to me."
+First, the storage room.
+I bowed to Tsujimura-san and the others and decided to leave the office.
+#Benio
+"Hm, haven't you left yet?"
+Benio-san and the others were still in the office.
+#Protagonist
+"Ah, no, I didn't really have any business, but..."
+#Benio
+"Hurry up and fix that generator. I can't stand it being this dark."
+#Protagonist
+"Yeah, I know."
+I turned on my heel and decided to leave the office.
+When I entered the office, Takamine-san was there.
+#Protagonist
+"Oh... Takamine-san."
+#Takamine
+"...It's you. What on earth is happening?"
+#Protagonist
+"It seems there's a blackout."
+#Takamine
+"...I see. Since when?"
+#Protagonist
+"...The power went out a little before five-thirty, but did you not notice until now?"
+#Takamine
+"...I was asleep in my room. I woke up to find the lights wouldn't turn on, so I came here to ask Tsujimura-san about it."
+#Protagonist
+"I see."
+#Takamine
+"...Something seems to be up."
+Takamine-san muttered under his breath.
+#Protagonist
+"You're right."
+I nodded too.
+A blackout in the middle of such a bizarre situation is just too convenient.
+#Takamine
+"It would be wise not to let your guard down."
+#Protagonist
+"Yeah. I'm going to look around the building a bit more."
+#Takamine
+"I see. I'll stay here for a while longer."
+I bowed to Takamine-san and left the area.
+Takamine-san was still in the office.
+#Takamine
+"What is it?"
+#Protagonist
+"No... I didn't really have any business, but..."
+#Takamine
+"You shouldn't wander around too much. There's no telling where the culprit might be lurking."
+#Protagonist
+"Yeah... I'm being careful."
+#Takamine
+"Locking yourself in your room is the best course... come to think of it, did I lock my door...?"
+#Protagonist
+"Eh... isn't that dangerous?"
+#Takamine
+"If I know there's danger right in front of me, there are plenty of ways to handle it. As long as I'm not caught off guard, I'll be fine."
+#Protagonist
+"Well, you do have the most solid build among us, Takamine-san..."
+I don't think I could win even if I challenged this man head-on.
+Actually, I don't think someone like me could take him even if I caught him off guard.
+#Protagonist
+"W-Well then, I'll be going."
+#Takamine
+"Yeah."
+I decided to leave the office.

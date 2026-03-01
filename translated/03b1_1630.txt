@@ -1,38 +1,38 @@
-自分の部屋に戻ってきた。
-さて……これからどうしようか。
-＃主人公
-「あれ……」
-誰か来たようだ。
-＃主人公
-「誰ですか……？」
-声を掛けながら扉を開ける。
-＃なるみ
-「あ、居た」
-廊下にはなるみさんが立っていた。
-＃主人公
-「どうしたんですか……？」
-＃なるみ
-「ちょっと話があってね」
-そう言って部屋の中へ滑り込んでくる。
-＃主人公
-「なんですか……？」
-＃なるみ
-「あかねの事で、ちょっと」
-＃主人公
-「あかねさん……？」
-何かわかったのだろうか。
-＃主人公
-「見付かったんですか……？」
-＃なるみ
-「……まだよ。気になるところは一通り探したんだけど……」
-＃主人公
-「まさかとは思いますけど……紅緒さんを襲ったのも……」
-＃なるみ
-「それはないと思うわ。理由がない……恐らくね」
-＃主人公
-「そうですか……」
-とはいえ、放っておく訳にもいかない。
-＃主人公
-「もう少し、ぼくも探してみます」
-＃なるみ
-「ええ、よろしく頼むわ」
+I returned to my own room.
+Now then... what should I do next?
+#Main Character
+"Oh..."
+It seemed someone had arrived.
+#Main Character
+"Who is it...?"
+I called out while opening the door.
+#Narumi
+"Ah, there you are."
+Narumi-san was standing in the corridor.
+#Main Character
+"What is the matter...?"
+#Narumi
+"I have something I need to talk to you about."
+With those words, she slipped inside the room.
+#Main Character
+"What is it...?"
+#Narumi
+"It's about Akane, just for a moment."
+#Main Character
+"Akane-san...?"
+Did she find something out?
+#Main Character
+"Was she found...?"
+#Narumi
+"...Not yet. I've searched all the places I was concerned about, but..."
+#Main Character
+"I doubt it, but... could she be the one who attacked Benio-san...?"
+#Narumi
+"I don't think so. There's no reason... probably."
+#Main Character
+"I see..."
+Even so, I couldn't just leave it be.
+#Main Character
+"I'll try searching a little more myself."
+#Narumi
+"Yes, I'm counting on you."

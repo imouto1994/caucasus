@@ -1,134 +1,134 @@
-広間には詩音さんがいた。
-＃詩音
-「あっ……」
-ぼくの姿を見てソファから立ち上がる。
-＃詩音
-「あの……藍お姉様は見付かりましたか？」
-＃主人公
-「えっ……？」
-藍さんがいない……？
-＃詩音
-「……先程あかねさんが探しているようでしたから……私何だか恐ろしくなって……」
-詩音さんが身体を震わせる。
-＃主人公
-「まだ……見付かっていません」
-＃詩音
-「そうですか……私、何だか怖くて……」
-詩音さんが身体を震わせる。
-＃主人公
-「大丈夫ですから、心配しないでください」
-ぼくは気休めとも受け取られかねない言葉を掛けた。
-そう思われたとしても、少しでも彼女の不安を和らげたかった。
-＃詩音
-「私……部屋へ戻ります」
-俯いたまま詩音さんが呟く。
-＃主人公
-「送りますよ」
-知らず、そんな言葉が口をついて出た。
-＃詩音
-「えっ……？」
-＃主人公
-「あまりひとりで行動しない方がいいと思います。……何の確証もありませんけど」
-＃詩音
-「ですが……」
-＃主人公
-「辻村さんがいればよかったんですけど……少なくとも事務室までは。すぐ傍ですけど」
-＃詩音
-「じゃあ……お願いします」
-小さく詩音さんが頷いた。
-事務室に辻村さんはいなかった。
-＃詩音
-「あの……ここまでで結構です。外は寒いですから……」
-＃主人公
-「そうですか……？」
-＃詩音
-「あの……ありがとうございます」
-詩音さんが頭を下げる。
-＃主人公
-「何があるかわかりませんから、しっかりと鍵を掛けておいてくださいね」
-＃詩音
-「……ええ。それでは」
-詩音さんが裏の扉を開ける。
-雪はまだ降っているようだ。
-ぼくは……
-追いかける
-広間に戻る
-＃主人公
-「詩音さん！」
-背中を向けた詩音さんに声を掛けていた。
-＃詩音
-「はい……？」
-＃主人公
-「あの、やっぱり塔までお送りします」
-＃詩音
-「で、ですが……」
-詩音さんが外を見る。
-＃詩音
-「……では、お願い致します」
-＃主人公
-「ええ」
-ぼくは詩音さんに風が当たらないよう、先に外へ出た。
-＃主人公
-「大丈夫ですか？」
-後ろの詩音さんに声を掛ける。
-＃詩音
-「ええ、慣れていますから」
-そう言う割に、彼女は寒そうに身を縮めていた。
-塔の入口まで来ると、詩音さんはそのまま扉を開いた。
-＃主人公
-「鍵は掛けていないのですか？」
-＃詩音
-「……ええ、特には」
-＃主人公
-「……これからはしっかりと施錠した方がいいと思います」
-＃詩音
-「そう……でしょうか」
-詩音さんは首を傾げる。
-＃主人公
-「まだ何があるかわかりませんから」
-六曜さんを殺した犯人がまだ館内に居るのだから。
-そう直接的な言動は避けたものの、詩音さんは不安そうに身を竦ませた。
-＃詩音
-「……中へどうぞ」
-詩音さんが扉を閉める。
-暖房が効いているのだろう、中はほのかに暖かかった。
-＃主人公
-「そういや、頭痛はもう大丈夫ですか？」
-＃詩音
-「……いつもの事ですから、心配は要りません」
-＃主人公
-「そうですか……お大事に」
-＃詩音
-「ええ、ありがとうございます」
-詩音さんが階段へ向かう。
-これ以上付き添うのも気が引けた。
-＃主人公
-「詩音さん」
-＃詩音
-「はい……？」
-階段に足をかけた彼女が振り返る。
-＃主人公
-「ぼくはこれで。……また後で」
-＃詩音
-「……ええ」
-外に出る。
-細い道にはふたり分の足跡が残っている。
-ぼくの帰りの足跡が、ぼくの後ろに残っていく。
-まだ雪は降り続いている。
-やがてこの足跡も消えてしまうだろう。
-道の両脇には雪が積まれ、他の場所にはとても行けそうにない。
-ぼくは急ぎ足で大広間に戻る事にした。
-＃詩音
-「……ありがとうございます。でも……やっぱりここで……」
-＃主人公
-「そうですか……」
-＃詩音
-「では……また後ほど」
-詩音さんが出て行った。
-仕方ない、広間に戻ろう。
-＃主人公
-「じゃあ……また」
-＃詩音
-「……はい」
-詩音さんが出て行った。
-ぼくも広間に戻ろう。
+Shion-san was in the hall.
+#Shion
+"Ah..."
+She stood up from the sofa upon seeing me.
+#Shion
+"Um... has Ai-oneesama been found?"
+#Satoshi
+"Eh...?"
+Ai-san is missing...?
+#Shion
+"...It seemed as though Akane-san was looking for her earlier... and I grew quite frightened..."
+Shion-san trembled.
+#Satoshi
+"She... hasn't been found yet."
+#Shion
+"Is that so... I'm feeling quite scared..."
+Shion-san trembled.
+#Satoshi
+"It'll be alright, so please don't worry."
+I offered words that could easily be taken as empty consolation.
+Even if she thought so, I wanted to ease her anxiety even just a little bit.
+#Shion
+"I... I'm going back to my room."
+Shion-san murmured with her head down.
+#Satoshi
+"I'll walk you there."
+Without thinking, those words slipped out.
+#Shion
+"Eh...?"
+#Satoshi
+"I think it's better if you don't move around alone. ...I don't have any proof, but."
+#Shion
+"But..."
+#Satoshi
+"It'd be better if Tsujimura-san were here... at least as far as the office. It's right nearby, though."
+#Shion
+"Then... please do."
+Shion-san gave a small nod.
+Tsujimura-san was not in the office.
+#Shion
+"Um... this far is enough. It's cold outside, so..."
+#Satoshi
+"Is that so...?"
+#Shion
+"Um... thank you very much."
+Shion-san bowed.
+#Satoshi
+"We don't know what might happen, so please make sure to lock your door firmly."
+#Shion
+"...Yes. Well then."
+Shion-san opened the back door.
+It seemed as though the snow was still falling.
+I...
+Follow her.
+Return to the hall.
+#Satoshi
+"Shion-san!"
+I called out to Shion-san as she turned her back.
+#Shion
+"Yes...?"
+#Satoshi
+"Um, I'll walk you to the tower after all."
+#Shion
+"B-But..."
+Shion-san looked outside.
+#Shion
+"...Well then, please do."
+#Satoshi
+"Yeah."
+I stepped outside first so Shion-san wouldn't be hit by the wind.
+#Satoshi
+"Are you alright?"
+I called out to Shion-san behind me.
+#Shion
+"Yes, I'm used to it."
+For all she said that, she was huddling up against the cold.
+When we arrived at the entrance to the tower, Shion-san opened the door just as it was.
+#Satoshi
+"Don't you keep it locked?"
+#Shion
+"...No, not particularly."
+#Satoshi
+"...I think it'd be better if you kept it locked from now on."
+#Shion
+"I wonder... if so."
+Shion-san tilted her head.
+#Satoshi
+"Because we don't know what might happen yet."
+The culprit who killed Rokuyou-san is still in the manor, after all.
+Although I avoided such direct words, Shion-san shrank back anxiously.
+#Shion
+"...Please, come in."
+Shion-san closed the door.
+The heating must be working; it was faintly warm inside.
+#Satoshi
+"By the way, is your headache alright now?"
+#Shion
+"...It's a regular thing, so there's no need for worry."
+#Satoshi
+"I see... take care."
+#Shion
+"Yes, thank you very much."
+Shion-san headed toward the stairs.
+I felt hesitant to accompany her any further.
+#Shion
+"Shion-san"
+#Shion
+"Yes...?"
+She turned back as she set foot on the stairs.
+#Satoshi
+"I'll be going now. ...See you later."
+#Shion
+"...Yes."
+I stepped outside.
+Two sets of footprints remained on the narrow path.
+My footprints from my return journey were being left behind me.
+The snow is still falling.
+These footprints will surely disappear eventually.
+Snow is piled up on both sides of the path, making it look as though it'd be impossible to go anywhere else.
+I decided to hurry back to the Great Hall.
+#Shion
+"...Thank you very much. But... I think I'll stay here after all..."
+#Satoshi
+"I see..."
+#Shion
+"Well then... see you later."
+Shion-san left.
+It can't be helped; I'll return to the hall.
+#Satoshi
+"Well then... see you."
+#Shion
+"...Yes."
+Shion-san left.
+I'll return to the hall too.

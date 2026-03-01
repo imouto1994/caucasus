@@ -1,23 +1,23 @@
-やがて辻村さんが走ってやって来た。
-＃辻村
-「あ、あの……御巫先生が亡くなられたと……」
-＃主人公
-「ええ……」
-＃辻村
-「ああ……なんという事でしょう……御巫先生まで……」
-辻村さんががっくりと肩を落とす。
-＃主人公
-「辻村さん、詩音さんが医務室に居ます。衣服も汚れていますから、着替えを用意してあげてください」
-＃辻村
-「え、ええ……しかし何故……」
-＃主人公
-「……詩音さんが第一発見者でした」
-＃辻村
-「え……それは、確かに……お薬を貰いに行くと仰っていましたが……」
-＃主人公
-「……早く着替えさせてあげてください」
-＃辻村
-「え、ええ……わかりました」
-辻村さんが医務室へ入っていく。
-ぼくは……御巫先生の部屋を調べよう。
-検視が出来る人はもういなくなってしまったけど、ぼくにだって出来る事があるはずだ。
+Eventually, Tsujimura-san came running.
+#Tsujimura
+"U-Um... Dr. Mikanagi has passed away..."
+#Main Character
+"Yes..."
+#Tsujimura
+"Oh... how can this be... even Dr. Mikanagi..."
+Tsujimura-san's shoulders slumped in despair.
+#Main Character
+"Tsujimura-san, Shion-san is in the clinic. Her clothes are soiled, so please prepare a change for her."
+#Tsujimura
+"Y-Yes... but why..."
+#Main Character
+"...Shion-san was the first to discover him."
+#Tsujimura
+"Eh... she certainly... did say she was going to get some medicine, but..."
+#Main Character
+"...Please go let her change quickly."
+#Tsujimura
+"Y-Yes... understood."
+Tsujimura-san entered the clinic.
+I... will investigate Dr. Mikanagi's room.
+The only person capable of performing an autopsy is gone now, but there must be something I can do.

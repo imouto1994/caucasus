@@ -1,0 +1,24 @@
+#Souko
+"I wonder if Shion-san could really set up such an elaborate mechanism? It's not impossible, of course... but I think it would be difficult."
+#Satoshi
+"...True."
+#Benio
+"Shion would have no reason to kill my sister. Those two are very close... almost abnormally so."
+#Satoshi
+"True..."
+#Tsujimura
+"Lady Shion emerged from her room around noon. She should have been in the tower the entire time before that."
+#Satoshi
+"I see..."
+#Takamine
+"Shion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that."
+#Satoshi
+"Right."
+#Akane
+"I believe Lady Shion was in her room the entire time."
+#Satoshi
+"I see..."
+#Narumi
+"Lady Shion? I'm pretty sure she was in her room... though come to think of it, it seemed like Lady Ai was with her..."
+#Satoshi
+"I see..."

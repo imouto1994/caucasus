@@ -1,0 +1,46 @@
+#Souko
+"A song...? I haven't heard anything, so I wouldn't know."
+#Satoshi
+"I see."
+#Maya
+"A song? It is likely Shion who is singing."
+#Satoshi
+"I see..."
+#Ai
+"That would be Shion singing, I imagine. Her voice is quite beautiful."
+#Satoshi
+"Is that so..."
+#Benio
+"A song... that would likely be Shion, wouldn't it?"
+#Satoshi
+"I see..."
+#Tsujimura
+"That would likely be Lady Shion. She often sings to herself."
+#Satoshi
+"I see..."
+#Tsujimura
+"You can reach the room where Lady Shion resides through this door at the back of the office."
+#Satoshi
+"Um, if it's alright, I'd like to go and offer my greetings..."
+#Tsujimura
+"Yes, I don't mind that, but..."
+#Rokuyou
+"A song? ...Come to think of it, I feel like I might have heard something."
+#Satoshi
+"I see."
+#Takamine
+"A song... someone must be singing."
+#Satoshi
+"I suppose so."
+#Mikanagi
+"A song... I believe that would be Shion-san."
+#Satoshi
+"I see..."
+#Akane
+"A song? Lady Shion seems to sing quite often, but..."
+#Satoshi
+"I see..."
+#Narumi
+"The one who sings often would be Lady Shion, I think. Though Lady Benio plays the piano as well."
+#Satoshi
+"I see."

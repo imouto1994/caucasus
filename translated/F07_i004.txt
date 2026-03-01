@@ -1,0 +1,40 @@
+#Souko
+"...A snowdrop. I think you know what this implies... but it's not enough yet. We need clearer evidence..."
+#Satoshi
+"...I know."
+#Maya
+"...I am sorry, I do not really know."
+#Satoshi
+"I see..."
+#Ai
+"...I'm sorry, I don't really know."
+#Satoshi
+"I see..."
+#Benio
+"...In other words, it's evidence that Rokuyou entered the chapel, isn't it?"
+#Satoshi
+"...I don't know yet. It might be that someone is trying to make it look that way..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Satoshi
+"...I see."
+#Tsujimura
+"I don't... really know..."
+#Satoshi
+"I see..."
+#Takamine
+"I can't really tell."
+#Satoshi
+"I see..."
+#Mikanagi
+"I don't really know."
+#Satoshi
+"I see..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"I don't really know about that."
+#Satoshi
+"I see..."

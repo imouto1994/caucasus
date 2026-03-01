@@ -1,26 +1,26 @@
-もういいだろう。
-＃主人公
-「このくらいでいいでしょうか」
-想子さんに尋ねる。
-＃想子
-「きみがいいと言うならいいと思うわよ」
-＃主人公
-「そう言われると不安ですが……」
-まだ調べる
-もういいだろう
-もう少し調べてみようか。
-何か見落としがあるかもしれない。
-もう調べ尽くしたと思う。
-＃主人公
-「もういいでしょう」
-＃想子
-「じゃあ、次は聞き込みね。大広間にみんな揃っている筈だから」
-＃主人公
-「……ここも封鎖しておいた方がいいですよね」
-＃想子
-「あとで辻村さんに頼んでおきましょう」
-梯子を降りて二階に出る。
-＃想子
-「じゃあ大広間に行きましょうか」
-＃主人公
-「はい」
+I think I窶况e seen enough.
+#Protagonist
+"Is this sufficient?"
+I asked Souko-san.
+#Souko
+"If you say it窶冱 enough, then I suppose it is."
+#Protagonist
+"It makes me a little uneasy when you put it like that..."
+[Keep investigating]
+[I窶况e seen enough]
+Maybe I should look a bit more.
+I might have overlooked something.
+I think I窶况e searched every corner.
+#Protagonist
+"I think that窶冱 everything."
+#Souko
+"Alright, then it窶冱 time to do some questioning. Everyone should be gathered in the Great Hall by now."
+#Protagonist
+"...We should probably seal this room off too, shouldn't we?"
+#Souko
+"We窶冤l ask Tsujimura-san to handle that later."
+We climbed down the ladder to the second floor.
+#Souko
+"Well then, shall we head to the Great Hall?"
+#Protagonist
+"Yeah."

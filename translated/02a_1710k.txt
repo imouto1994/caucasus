@@ -1,20 +1,20 @@
-　地下へ下りてきた。
-　ここに発電設備があるのは調べてあった。
-　ヒューズボックスに電流を迂回させる線を取り付けてから蓋を開ける。
-　感電せぬよう注意を払いながら、中のヒューズを耐用電流が小さいものと交換する。
-　蓋を閉め、元に戻す。
-　これで電気消費が大きくなった頃にヒューズが溶け、停電が発生する筈だ。
-　地下から出ようとして、扉の前で足を止める。
-　ホールに人がいる。
-　ぐずぐずしている時間は無かった。
-　こちらを向いていない時を見計らい、扉から飛び出す。
-　背後から後頭部に一撃を加える。
-　床に倒れ伏したのを確認し、素早く階段を駆け上がる。
-　見られては居ないはずだ。
-　見られては計画が破綻する。
-　既に一度失敗しているのだから。
-　彼女の部屋へ入る。
-　彼女は一度生き延びている。
-　チャンスはこれが最後だろう。
-　あとは、彼がどの様な行動をとるか。
-　思っていたよりも、彼は利口なのかもしれない。
+I made my way down to the basement.
+I窶囘 already scouted out the fact that the power generation equipment was located here.
+I attached a bypass wire to the fuse box to divert the current before prying the cover open.
+Taking care not to shock myself, I replaced the internal fuse with one that had a much lower current rating.
+I closed the lid and returned everything to how it was.
+This should cause the fuse to melt and trigger a blackout right around the time electricity consumption peaks.
+As I moved to leave the basement, I froze in front of the door.
+There窶冱 someone in the hall.
+I didn窶冲 have a second to waste.
+Waiting for the moment they turned away, I slipped out from behind the door.
+I delivered a single, heavy blow to the back of their head.
+After confirming they were sprawled out on the floor, I quickly dashed up the stairs.
+I shouldn't have been seen.
+If I was seen, the entire plan falls apart.
+I窶况e already failed once, after all.
+I entered her room.
+She managed to survive once.
+This will likely be the last chance.
+The rest depends on how he decides to act.
+He might be a bit more clever than I initially gave him credit for.

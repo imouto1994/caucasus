@@ -1,0 +1,56 @@
+#Souko
+"As I thought, Shion-san was targeted too... but it didn't end in murder... something's fishy."
+#Protagonist
+"I see..."
+#Souko
+"...There's a very real possibility Shion-san will be targeted next. She needs to be careful..."
+#Protagonist
+"Right..."
+#Maya
+"To think Shion would be targeted as well..."
+#Protagonist
+"Her life isn't in danger, so don't worry."
+#Maya
+"Shion is still safe, isn't she...?"
+#Protagonist
+"Yes... no need to worry."
+#Ai
+"Why Shion too... why...?"
+#Protagonist
+"...We don't know that yet."
+#Ai
+"I'm glad I was the one targeted... if it had been Shion..."
+#Protagonist
+"Ai-san..."
+#Benio
+"...I understand that Shion could be targeted. However... something feels off..."
+#Protagonist
+"I see..."
+#Benio
+"Shion, huh... she likely feels some sense of debt for being an adopted child. That’s why she never complains about her situation..."
+#Protagonist
+"I see..."
+#Tsujimura
+"So even Lady Shion is not safe..."
+#Protagonist
+"Right..."
+#Tsujimura
+"...Lady Shion seems quite despondent..."
+#Protagonist
+"I see..."
+#Takamine
+"...Shion-kun is safe, I assume?"
+#Protagonist
+"Y-Yeah..."
+#Takamine
+"It seems Shion-kun has returned to her room. It’s best for her to stay put for now."
+#Protagonist
+"Right..."
+#Mikanagi
+"...It was my mistake for not properly checking the medicine. If I had verified it this morning, this could have been avoided..."
+#Protagonist
+"Perhaps..."
+#Mikanagi
+"I expect Shion-san is in her room."
+#Protagonist
+"I see."

@@ -1,0 +1,40 @@
+#Souko
+"Shion-san? ...I haven't met her, so I can't really say. Though I'm sure we'll meet at the midnight wedding, so there's no rush."
+#Satoshi
+"...True."
+#Maya
+"Shion? She's been frail since she was small, and we were afraid of her catching some sort of infection, so we have her living in the annex."
+#Satoshi
+"Is that so..."
+#Ai
+"Shion... she hasn't set foot outside the manor since she was born. Perhaps because of that, she doesn't try to speak with people much."
+#Satoshi
+"Is that so..."
+#Benio
+"Shion is an incredibly bright child. However... she is desperately lacking in experience."
+#Satoshi
+"Is that so..."
+#Tsujimura
+"Lady Shion? ...She sings such beautiful songs. I often find myself listening in a daze... ah, how embarrassing..."
+#Satoshi
+"Is that so..."
+#Rokuyou
+"About Shion? I was drawn to her gentle heart... haha, it's a bit embarrassing to talk about this so openly..."
+#Satoshi
+"I see..."
+#Takamine
+"Shion-kun... she seems to have lived in that tower since long before I started coming here."
+#Satoshi
+"Is that so..."
+#Mikanagi
+"Shion-san is frail and suffers from headaches, so she takes medicine to suppress them every day. I only wish she would get better..."
+#Satoshi
+"I see..."
+#Akane
+"Lady Shion? She is always in the tower outside. You can go out through the door at the back of the office."
+#Satoshi
+"I see."
+#Narumi
+"Lady Shion? She doesn't seem to be able to eat much. She really needs to get some nutrition into her system..."
+#Satoshi
+"You're right..."

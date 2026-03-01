@@ -1,0 +1,40 @@
+#Souko
+"Possible reasons for him to be killed... inheritance, love and hate, or... something completely unrelated, I suppose."
+#Satoshi
+"True..."
+#Maya
+"...Isamu-san was a very polite young man. I remember him telling me he would make Shion happy."
+#Satoshi
+"I see..."
+#Ai
+"Why Isamu-san... why..."
+#Satoshi
+"Ai-san..."
+#Benio
+"A reason for Rokuyou to be killed... inheritance, or some other cause... Honestly, I don't know."
+#Satoshi
+"I see..."
+#Shion
+"Master Rokuyou... why did he try to marry me...? I still don't really understand..."
+#Satoshi
+"I see..."
+#Tsujimura
+"A reason for Master Rokuyou to be killed...? I don't know. What could have happened...?"
+#Satoshi
+"I see..."
+#Takamine
+"I didn't think Rokuyou-kun was the type to be hated by others... but you never know what someone is doing behind the scenes..."
+#Satoshi
+"I see..."
+#Mikanagi
+"...I don't think Isamu made any enemies through his work, and judging by the situation, it must have been someone in this mansion... but..."
+#Satoshi
+"True..."
+#Akane
+"Was Master Rokuyou killed... because someone hated him...?"
+#Satoshi
+"I'm not sure... we don't know yet."
+#Narumi
+"Rokuyou-san might have been doing something that would get him killed, but I haven't the slightest idea what it could be."
+#Satoshi
+"I see..."

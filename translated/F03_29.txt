@@ -1,0 +1,18 @@
+The far end of the north side of the second floor.
+This is the room of the former head of the house, Mr. Kousei.
+I try turning the doorknob lightly, but as expected, it seems to be locked.
+It can't be helped; I'll head elsewhere.
+Mr. Kousei's room at the far end of the north side of the second floor.
+#Akane
+"Even I... have never been in here."
+#Protagonist
+"Is that so?"
+#Akane
+"Yes... it's a closed room now."
+#Protagonist
+"Then the possibility of Ai-san being here is..."
+#Akane
+"I think it's unlikely."
+#Protagonist
+"I see..."
+It can't be helped; I'll head elsewhere.

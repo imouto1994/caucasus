@@ -1,0 +1,32 @@
+#Souko
+"I'm not really sure... Wouldn't he have been in the infirmary?"
+#Satoshi
+"I see..."
+#Maya
+"I wouldn't know; I was resting in my room as well."
+#Satoshi
+"I see..."
+#Ai
+"I don't know... I've been in my room the whole time."
+#Satoshi
+"I see..."
+#Shion
+"...I don't know. My room is in the annex, after all..."
+#Satoshi
+"I see..."
+#Tsujimura
+"...I believe he was either in the infirmary or in his room."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Akane
+"I went to the infirmary near two o'clock and confirmed Mikanagi-sensei's safety. The doctor returned to his room after that, but..."
+#Satoshi
+"I see..."
+#Narumi
+"I wouldn't know; I was on the first floor the whole time."
+#Satoshi
+"I see..."

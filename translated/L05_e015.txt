@@ -1,0 +1,24 @@
+#Souko
+"I don't think it's anything special..."
+#Satoshi
+"I see..."
+#Benio
+"Isn't it just a piece of trash?"
+#Satoshi
+"I see..."
+#Tsujimura
+"It appears to be... garbage..."
+#Satoshi
+"True..."
+#Takamine
+"Is there something wrong with that piece of trash?"
+#Satoshi
+"No..."
+#Akane
+"It's just trash... right?"
+#Satoshi
+"True..."
+#Narumi
+"Were you picking up trash?"
+#Satoshi
+"It's not exactly like that, but..."

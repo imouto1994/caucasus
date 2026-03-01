@@ -1,0 +1,26 @@
+I've come to the dining hall.
+#Satoshi
+"Huh..."
+Nobody's here.
+I thought someone would usually be in the dining hall.
+What should I do...
+I've come to the dining hall.
+#Akane
+"Ah, is something the matter?"
+Akane-san spoke to me.
+#Satoshi
+"I'm just doing some rounds..."
+#Akane
+"I see... That must be hard."
+#Satoshi
+"No, I'm just doing it on my own accord."
+#Akane
+"Please be careful..."
+#Satoshi
+"Yeah, I know."
+I've come to the dining hall.
+#Akane
+"Oh, what is it this time?"
+Akane-san noticed me and spoke up.
+#Satoshi
+"Uh, well..."

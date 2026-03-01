@@ -1,0 +1,40 @@
+#Souko
+"Maya-san seems quite exhausted as well... though I suppose that's only natural."
+#Satoshi
+"Yeah..."
+#Maya
+"...I'll be fine, thank you."
+#Satoshi
+"I see..."
+#Ai
+"I believe Mother is resting in her room..."
+#Satoshi
+"I see..."
+#Benio
+"Mother looks quite haggard. It's only natural, but..."
+#Satoshi
+"...I see."
+#Shion
+"Mother... she seems to be very tired."
+#Satoshi
+"She does..."
+#Tsujimura
+"The Mistress has always been of delicate health... With incidents like these occurring, the mental strain must be ceaseless..."
+#Satoshi
+"I see..."
+#Takamine
+"It seems Maya-san has shut herself away in her room. Well, that's likely for the best..."
+#Satoshi
+"Yeah..."
+#Mikanagi
+"Maya-san hasn't been feeling well since last night, so I've asked her to rest in her room."
+#Satoshi
+"I see."
+#Akane
+"I believe the Mistress is resting in her room, but..."
+#Satoshi
+"I see."
+#Narumi
+"The Mistress, huh... It seems her heart is breaking from all these incidents..."
+#Satoshi
+"I see..."

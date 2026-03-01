@@ -1,0 +1,52 @@
+#Souko
+"It seems Benio-san is also concerned about that explosion. It would certainly be strange to think nothing of it..."
+#Protagonist
+"Right..."
+#Souko
+"To think Benio-san would be murdered too... it feels like we’re narrowing down the victims and suspects, but..."
+#Protagonist
+"Right..."
+#Maya
+"As for Benio... I'd rather she not get involved in anything dangerous..."
+#Protagonist
+"I see..."
+#Maya
+"Why Benio too... I told her to stop getting involved in dangerous things..."
+#Protagonist
+"Maya-san..."
+#Ai
+"...Since I was targeted, I think there's a possibility the culprit might be after Benio too..."
+#Protagonist
+"Right..."
+#Ai
+"Ah... Benio...! Why, why did you have to die...!!"
+#Protagonist
+"Ai-san..."
+#Benio
+"Don't worry about me. There's no need to be concerned."
+#Protagonist
+"Really...?"
+#Tsujimura
+"Lady Benio is also in danger, so I wish she would stay quiet... but I doubt she'll listen..."
+#Protagonist
+"Right..."
+#Tsujimura
+"If even Lady Benio has been taken from us... what is to become of us now...?"
+#Protagonist
+"...I don't know."
+#Takamine
+"I don't know what Benio-kun is thinking about this whole situation, but she seems to be investigating things."
+#Protagonist
+"I see..."
+#Takamine
+"Even Benio-kun was killed... hurry up and find the culprit."
+#Protagonist
+"Y-Yeah..."
+#Mikanagi
+"Benio-san seems to be looking into various things as well."
+#Protagonist
+"I see..."
+#Mikanagi
+"During the time frame Benio-san was killed... no one has an alibi. In other words, anyone could be the culprit."
+#Protagonist
+"Right..."

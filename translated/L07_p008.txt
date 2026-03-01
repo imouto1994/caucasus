@@ -1,0 +1,36 @@
+#Souko
+"I'm not really sure... I went to bed early last night."
+#Satoshi
+"I see..."
+#Maya
+"I wouldn't know; I was resting in my room as well."
+#Satoshi
+"I see..."
+#Ai
+"I don't know... I was sleeping in my room."
+#Satoshi
+"I see..."
+#Shion
+"...I don't know. My room is in the annex, after all..."
+#Satoshi
+"I see..."
+#Tsujimura
+"...I went to sleep early last night myself, you see..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Mikanagi
+"Last night? I was back in my room before 1:00 AM, if I recall. I slept straight through until morning."
+#Satoshi
+"I see..."
+#Akane
+"...I am sorry, but I really don't know."
+#Satoshi
+"I see..."
+#Narumi
+"Weren't they sleeping in their room? I wouldn't know."
+#Satoshi
+"I see."

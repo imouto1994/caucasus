@@ -1,42 +1,42 @@
-医務室から出ると、すぐ近くに御巫先生が壁に背中を預けて立っていた。
-＃御巫
-「やあ」
-＃主人公
-「あ、御巫先生……」
-＃御巫
-「この子が中に入れてくれなくてね」
-御巫先生の足許には黒猫がまとわりついていた。
-＃主人公
-「ラブ……？」
-＃御巫
-「まるで紅緒さんを守る騎士のようだよ」
-＃主人公
-「ははは……」
-得意気に黒猫は一声鳴いた。
-＃御巫
-「紅緒さんの事はもう心配要らないだろうけど……問題は彼女を襲ったのが誰なのかと云う事だね」
-＃主人公
-「ええ……明日になれば麓の人が来る筈ですが、それまで何事もなく過ごせるとは思えません」
-＃御巫
-「ああ。警察が来れば恐らく色々とわかる事もあるだろう。僕の鑑定じゃあやふやな事も多いからね」
-＃主人公
-「……犯人の目的が何であれ、今晩が山だと思います」
-＃御巫
-「……そうだろうね。出来れば全員部屋でじっとしていて貰いたいんだけれど……」
-＃主人公
-「……そうですね」
-＃なるみ
-「ちょっと！　大変っ！」
-＃主人公
-「え……なるみさん？」
-吹き抜けの方からなるみさんが走ってきた。
-＃御巫
-「どうかしましたか？」
-＃なるみ
-「どうもこうも……切原さんの部屋が……！」
-＃主人公
-「え……想子さんが……どうしたんですか！？」
-＃なるみ
-「いいから来てっ！」
-なるみさんはぼくの腕を掴むと、ぐいぐいと引っ張っていく。
-想子さん……何があったんだ……？
+When I stepped out of the clinic, Dr. Mikanagi was standing nearby, leaning against the wall.
+#Mikanagi
+"Hey there."
+#Main Character
+"Ah, Dr. Mikanagi..."
+#Mikanagi
+"This little one wouldn't let me in."
+The black cat was twining around the doctor's feet.
+#Main Character
+"Love...?"
+#Mikanagi
+"It窶冱 like a knight protecting Benio-san."
+#Main Character
+"Hahaha..."
+The black cat let out a proud meow.
+#Mikanagi
+"I don't think we need to worry about Benio-san anymore... but the problem is who attacked her."
+#Main Character
+"Yeah... someone from the foot of the mountain should be coming tomorrow, but I don't think we窶冤l make it through without something else happening."
+#Mikanagi
+"True. Once the police arrive, I窶冦 sure many things will come to light. There窶冱 a lot of uncertainty in my examinations, after all."
+#Main Character
+"...Whatever the culprit's goal is, I think tonight is the climax."
+#Mikanagi
+"...I agree. I窶囘 like everyone to stay in their rooms if possible, but..."
+#Main Character
+"...Yeah."
+#Narumi
+"Wait! It窶冱 terrible!"
+#Main Character
+"Eh... Narumi-san?"
+Narumi-san came running from the atrium.
+#Mikanagi
+"Is something wrong?"
+#Narumi
+"Everything窶冱 wrong... Kirihara-san窶冱 room is...!"
+#Main Character
+"Eh... Souko-san...? What happened!?"
+#Narumi
+"Just come with me!"
+Narumi-san grabbed my arm and pulled me along.
+Souko-san... what on earth happened...?

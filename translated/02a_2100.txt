@@ -1,75 +1,75 @@
-自分の部屋へ戻ろうと、北側の廊下まで来たときだった。
-＃主人公
-「ん……？」
-誰かが奥の書斎に入っていった。
-こんな時間に誰だろう……？
-そっと書斎の前まで近付くが、扉はぴったりと閉ざされて中の様子を窺い知る事はできなかった。
-出てくるのを待つしかないだろう。
-ぼくは自分の部屋まで戻り、扉を少し開けて書斎の様子を窺うことにした。
-そのまま二十分ほど経っただろうか。
-書斎の扉が開いた。
-＃主人公
-「え……？」
-書斎から出てきたのはあかねさんだった。
-落ち着かない様子で廊下を注意深く窺っている。
-幸いぼくが見ている事には気付いていないようだ。
-何をしていたんだろうか……
-まさか――とは思うけど、確認しておいた方がいいのかもしれない。
-廊下に出てあかねさんに声を掛ける。
-＃主人公
-「――あかねさん」
-＃あかね
-「ひゃあっ！？」
-文字通りあかねさんが飛び上がった。
-＃あかね
-「あ、うあっ……あ、あなたでしたか……」
-＃主人公
-「だ、大丈夫ですか……？」
-床にへたり込んでしまったあかねさんに手を差し伸べる。
-＃あかね
-「あ、ありがとうございます……」
-よろよろとあかねさんが立ち上がる。
-＃主人公
-「あ、何か落ちましたよ」
-はらりと床に落ちた布切れを拾い上げる。
-ハンカチだろうか。
-端の方に“Ａｋａｒｉ・Ｍ”と刺繍がされている。
-＃主人公
-「<あ<ヽ><か<ヽ><り<ヽ>……？」
-＃あかね
-「あっ、ご、ごめんなさいっ！」
-まるでひったくるかのように、あかねさんはぼくの手からハンカチを奪い取った。
-＃主人公
-「それ……あかねさんのですよね？」
-＃あかね
-「え、ええっ。な、名前縫うときに間違えちゃって……」
-しどろもどろになってあかねさんが捲し立てる。
-そう言われたらそうなのかもしれないけど……それにしては慌て振りがとても奇妙だ。
-＃あかね
-「あ、ありがとうございますっ！　それじゃっ！」
-頭を下げ、すぐにあかねさんは廊下を小走りに去ってしまった。
-でも、書斎で何をしていたのだろうか。
-あかねさんの仕事内容からして、館内の部屋を出入りするのに不自然さは感じられない。
-ただ、こんな時間だと掃除というわけでもないだろう。
-ぼくは再度書斎の前へ移動した。
-ドアノブに手を掛けるが、やはり鍵が掛かっていた。
-ここで何をしていたんだろうか……
-もしかしたら……今まで起こっている事にも関係しているのかもしれないけど……
-後ろで扉が開いた。
-＃主人公
-「え……御巫先生？」
-振り返ると、御巫先生が自分の部屋から出てきていた。
-＃御巫
-「今のは……あかねさんかい？」
-＃主人公
-「ええ……何かしていたようですけど……」
-＃御巫
-「やはりか……」
-御巫先生が溜息を吐いた。
-＃主人公
-「あの、御巫先生……あかねさんは……」
-＃御巫
-「――僕の部屋で話しましょう」
-御巫先生が扉を大きく開く。
-＃主人公
-「……お邪魔します」
+It happened when I arrived at the north hallway on my way back to my room.
+#Satoshi
+"Hmm...?"
+Someone went into the study at the back.
+I wonder who it is at this hour...?
+I quietly approached the study, but the door was tightly closed and I couldn't see what was happening inside.
+I guess I'll just have to wait for them to come out.
+I went back to my room and decided to watch the study by leaving my door slightly open.
+About twenty minutes must have passed just like that.
+The door to the study opened.
+#Satoshi
+"Eh...?"
+The person who emerged from the study was Akane-san.
+She was looking around the hallway carefully, appearing restless.
+Fortunately, she didn't seem to have noticed me watching her.
+I wonder what she was doing...
+I doubt it's窶巴ut maybe I should check.
+I stepped into the hallway and spoke to Akane-san.
+#Satoshi
+"窶尿kane-san."
+#Akane
+"Hyaah!?"
+Akane-san literally jumped.
+#Akane
+"A-Ah, ugh... i-it was you..."
+#Satoshi
+"A-Are you alright...?"
+I reached out to Akane-san, who had collapsed onto the floor.
+#Akane
+"Th-Thank you very much..."
+Akane-san stood up unsteadily.
+#Satoshi
+"Ah, you dropped something."
+I picked up a scrap of cloth that had fallen to the floor.
+Is it a handkerchief?
+The name "AkariﾂｷM" was embroidered on the edge.
+#Satoshi
+"Akari...?"
+#Akane
+"Ah, s-sorry!"
+As if snatching it away, Akane-san grabbed the handkerchief from my hand.
+#Satoshi
+"That... is yours, right, Akane-san?"
+#Akane
+"Y-Yes. I m-made a mistake when I was sewing the name..."
+Akane-san spoke incoherently.
+If she says so, then maybe that's it... but her panic seemed very strange for that.
+#Akane
+"Th-Thank you! Well then!"
+With a bow, Akane-san immediately hurried away down the hallway.
+But what was she doing in the study?
+Given Akane-san's job, it wouldn't be unusual for her to enter and exit rooms in the manor.
+However, it's not exactly time for cleaning at this hour.
+I moved back to the front of the study.
+I reached for the doorknob, but it was locked after all.
+What was she doing here...?
+Maybe... it has something to do with the things that have been happening...
+A door opened behind me.
+#Satoshi
+"Eh... Dr. Mikanagi?"
+When I turned around, Dr. Mikanagi had emerged from his room.
+#Mikanagi
+"Was that... Akane-san just now?"
+#Satoshi
+"Yes... she seemed to be doing something..."
+#Mikanagi
+"I knew it..."
+Dr. Mikanagi let out a sigh.
+#Satoshi
+"Um, Dr. Mikanagi... Akane-san is..."
+#Mikanagi
+"窶猫et's talk in my room."
+Dr. Mikanagi opened his door wide.
+#Satoshi
+"...Excuse me."

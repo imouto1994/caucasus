@@ -1,0 +1,56 @@
+#Souko
+"She seems to have been injured in that explosion... I hope she's alright."
+#Protagonist
+"Right..."
+#Souko
+"I wonder why she disappeared..."
+#Protagonist
+"...I don't know."
+#Maya
+"Akane works very hard. She's also very attentive to details."
+#Protagonist
+"I see."
+#Maya
+"Akane has disappeared... you don't think that girl...?"
+#Protagonist
+"...We don't know anything yet."
+#Ai
+"Akane-san? She's a very hard worker."
+#Protagonist
+"I see."
+#Ai
+"For Akane-san to disappear... could it be...?"
+#Protagonist
+"...We don't know yet."
+#Benio
+"Akane was burned? I find it hard to believe it was just a coincidence..."
+#Protagonist
+"Right..."
+#Benio
+"What was the reason for Akane's disappearance...? Was she taken by the culprit, or is she the culprit herself...?"
+#Protagonist
+"...We don't know yet."
+#Tsujimura
+"Miss Hiyama has minor injuries. She’s resting in her room for now..."
+#Protagonist
+"I see."
+#Tsujimura
+"Where could Miss Hiyama have gone...?"
+#Protagonist
+"We don't know yet..."
+#Takamine
+"Whether Hiyama-kun was targeted or just caught up in it by chance... it’s hard to say."
+#Protagonist
+"Right..."
+#Takamine
+"There are only so many places to go in this mansion... why can't she be found?"
+#Protagonist
+"You're right..."
+#Mikanagi
+"Akane-san's injuries aren't serious. I'm having her rest in her room."
+#Protagonist
+"I see..."
+#Mikanagi
+"I wonder if it’s related to what happened yesterday... her going into hiding."
+#Protagonist
+"...Perhaps."

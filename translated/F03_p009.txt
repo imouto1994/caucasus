@@ -1,0 +1,32 @@
+#Souko
+"Akane-san? She seems like a serious and good girl."
+#Protagonist
+"Right."
+#Maya
+"Akane works very hard. She's also very attentive to details."
+#Protagonist
+"I see."
+#Benio
+"Akane? She works hard. She can be a bit scatterbrained at times, though."
+#Protagonist
+"I see..."
+#Shion
+"Akane-san... she brings me my meals and such, but I don't know her very well..."
+#Protagonist
+"I see..."
+#Tsujimura
+"Miss Hiyama? She performs her work properly and there are no particular problems, but..."
+#Protagonist
+"I see."
+#Takamine
+"Hiyama-kun? I think she works hard, coming all the way out to a mountain recess like this."
+#Protagonist
+"I see."
+#Mikanagi
+"Akane-san... Perhaps she's shy; I haven't talked with her much."
+#Protagonist
+"I see..."
+#Narumi
+"About Akane? She's quite reliable for someone so young. Thanks to her, I can't slack off... oh, don't tell her I said that, okay?"
+#Protagonist
+"Oh..."

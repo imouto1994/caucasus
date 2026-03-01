@@ -78,11 +78,13 @@ async function main() {
     const outputPath = path.join(OUTPUT_DIR, `${baseName}.txt`);
     await writeFile(outputPath, output, "utf-8");
 
-    console.log(`${baseName}.txt — ${replyTexts.length} assistant replies written`);
+    console.log(
+      `${baseName}.txt — ${replyTexts.length} assistant replies written`
+    );
   }
 
   console.log(
-    `\nDone. ${sortedFiles.length} files processed, output written to ${OUTPUT_DIR}/`,
+    `\nDone. ${sortedFiles.length} files processed, output written to ${OUTPUT_DIR}/`
   );
 }
 

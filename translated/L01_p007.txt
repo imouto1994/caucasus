@@ -1,0 +1,40 @@
+#Souko
+"Takamine-san, huh... I don't see any particular reason for him to kill Rokuyou-san. Don't judge him just by his looks."
+#Satoshi
+"True..."
+#Maya
+"Attorney Takamine and Isamu-san weren't exactly close. They may have spoken regarding the ceremony and such, but..."
+#Satoshi
+"I see..."
+#Ai
+"Takamine-san took over the role of the Nanatsuki family's legal counsel from his father. I believe he's someone who sees things very clearly."
+#Satoshi
+"I see..."
+#Benio
+"In Takamine's case, you notice that face before you even think about a crime. That doesn't mean I'm prepared to say he's not the killer, though."
+#Satoshi
+"...I see."
+#Shion
+"Master Takamine... I'm sorry. I... don't know him well."
+#Satoshi
+"I see..."
+#Tsujimura
+"I don't think there was anything in particular between Master Takamine and Master Rokuyou..."
+#Satoshi
+"I see."
+#Takamine
+"Last night I went straight to my room and slept. I'm a heavy sleeper, so I wouldn't know what was happening outside."
+#Satoshi
+"I see..."
+#Mikanagi
+"Takamine-san is a lawyer specifically for the Nanatsuki family. He couldn't be stationed here if he were working elsewhere."
+#Satoshi
+"I see."
+#Akane
+"Master Takamine's room is opposite Master Rokuyou's... but the soundproofing is good, so I doubt he heard a thing."
+#Satoshi
+"I see."
+#Narumi
+"Takamine-san? He's a bit shady, but I guess he's still a lawyer."
+#Satoshi
+"I... I see."

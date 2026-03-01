@@ -1,31 +1,38 @@
-”ålŒö
-uŒä›Şæ¶A‚¢‚Â ‰¹‚³‚ñ‚ª–S‚­‚È‚Á‚½‚©‚Í‚í‚©‚è‚Ü‚·‚©Hv
-”Œä›Ş
-u‚Ç‚¤‚¾‚ë‚¤cc‹°‚ç‚­ˆêŠÔˆÈ“à‚¾‚Æ‚Ív‚¤‚¯‚ê‚Çcc‚Í‚Á‚«‚è‚µ‚½‚±‚Æ‚ÍŒ¾‚¦‚È‚¢‚Èv
-”ålŒö
-u‚»‚¤‚Å‚·‚©ccv
-‰¹‚³‚ñcc‚Ç‚¤‚µ‚Äcc
-ŠG‰æ‚ªü‚ç‚ê‚Ä‚¢‚éB
-cc’Ò‘º‚³‚ñ‚ÌŠG‚¾B
-’Ò‘º‚³‚ñ‚ª•`‚¢‚½ŠG‚ªA•¨Œ¾‚í‚Ê‰¹‚³‚ñ‚Ì–SŠ[‚ğŒ©‰º‚ë‚µ‚Ä‚¢‚½B
-°‚ÉƒRƒbƒv‚ª“]‚ª‚Á‚Ä‚¢‚éB
-”ålŒö
-ucc‚±‚ê‚Å“Å‚ğˆù‚ñ‚¾‚Ì‚Å‚µ‚å‚¤‚©v
-”g
-u‰Ièˆ‚ÉG‚ê‚È‚¢•û‚ª‚¢‚¢‚¾‚ë‚¤‚ÈBw–ä‚ªc‚Á‚Ä‚¢‚é‚©‚à‚µ‚ê‚ñv
-”ålŒö
-u‚¦‚¦A‚í‚©‚Á‚Ä‚¢‚Ü‚·v
-ƒnƒ“ƒJƒ`‚ğæ‚èo‚µ‚ÄTd‚É•ï‚İA‚¿ã‚°‚éB
-”ålŒö
-ucc’†‚É­‚µ‚¾‚¯‰t‘Ì‚ªc‚Á‚Ä‚Ü‚·‚Ëv
-”Œä›Ş
-u‘İ‚µ‚Ä‚­‚êv
-Œä›Şæ¶‚ÉƒRƒbƒv‚ğ“n‚·B
-”Œä›Ş
-u‰Ièˆ‚ÉL‚¢‚ğšk‚ª‚È‚¢•û‚ª‚¢‚¢B—\‘z’Ê‚èÂ_‚¾‚Á‚½‚çAƒKƒX‚¾‚¯‚Å‚à€–S‚·‚é‚¨‚»‚ê‚ª‚ ‚év
-”ålŒö
-ucc‚í‚©‚è‚Ü‚µ‚½v
-‚Ç‚¤‚µ‚Ä‚±‚ñ‚È–‚Écc
-á‚Íã‚Ü‚Á‚Ä‚¢‚é‚æ‚¤‚¾B
-–¾“ú‚Í°‚ê‚é‚¾‚ë‚¤‚¯‚ê‚ÇA‚±‚ÌŠÙ‚Ícc
-á‚Íã‚­‚È‚Á‚Ä‚¢‚éB
+#Main Character
+"Dr. Mikanagi, can you tell when Shion-san died?"
+#Mikanagi
+"I'm not sure... probably within the last hour, but I can't say for certain."
+#Main Character
+"I see..."
+Shion-san... why...
+Paintings are hanging on the wall.
+...They're Tsujimura-san's paintings.
+The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
+#Main Character
+"...We shouldn't touch this carelessly."
+There are likely fingerprints on it.
+#Souko
+"I don't think it matters much... the contents of the cup are more important. We have to identify exactly what kind of poison it was."
+#Main Character
+"What did she drink...?"
+#Souko
+"A fast-acting poison, surely... but if it was something highly irritant, it would be difficult."
+#Main Character
+"Because she would have spat it out..."
+#Souko
+"It's not just that. The possibility of murder also drops significantly. No one would drink something they knew was poison."
+#Main Character
+"True... but the one who brought this medicine was Maya-san, wasn't it...?"
+#Souko
+"...Of course, there's a possibility that Maya-san killed Shion-san. That's exactly why we have to investigate carefully."
+Souko-san picked up the cup using a handkerchief to avoid touching it directly.
+#Souko
+"A little bit of liquid remains. If the police analyze it, they'll be able to determine the ingredients."
+#Main Character
+"But thenâ€”"
+#Souko
+"I know. There must be more we can do right here."
+How could this happen...
+The snow seems to be weakening.
+It'll likely be clear tomorrow, but this mansion...
+The snow is letting up.

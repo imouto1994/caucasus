@@ -1,0 +1,40 @@
+#Souko
+"...A snowdrop, I see. I think you understand what this implies... but it's not enough. We need more concrete evidence..."
+#Protagonist
+"...I understand."
+#Maya
+"...I am sorry, I do not quite understand."
+#Protagonist
+"I see..."
+#Ai
+"...I'm sorry, I don't really know."
+#Protagonist
+"I see..."
+#Benio
+"...So, this is proof that Rokuyou entered the chapel, then?"
+#Protagonist
+"...We don't know yet. It could be that someone wants us to think that..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Protagonist
+"...I see."
+#Tsujimura
+"I... don't quite understand..."
+#Protagonist
+"I see..."
+#Takamine
+"I'm not really sure."
+#Protagonist
+"I see..."
+#Mikanagi
+"I really don't know."
+#Protagonist
+"I see..."
+#Akane
+"I'm sorry... I don't really know."
+#Protagonist
+"I see..."
+#Narumi
+"I'm not quite sure about that."
+#Protagonist
+"I see..."

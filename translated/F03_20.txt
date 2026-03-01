@@ -1,0 +1,21 @@
+I’ve come to the front of Ai-san's room.
+#Akane
+"It's unlocked."
+Akane-san turns the doorknob.
+We enter the room.
+Naturally, Ai-san is nowhere to be seen.
+#Protagonist
+"There might be some kind of clue. Let's look around."
+#Akane
+"Yes, understood."
+I’ve come to Ai-san's room once more.
+#Akane
+"Are you going to search it again?"
+#Protagonist
+"Yes, there might still be something here."
+Akane-san turns the doorknob.
+We enter the room.
+#Protagonist
+"Well then, let's take a look."
+#Akane
+"Yes, understood."

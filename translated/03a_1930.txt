@@ -1,29 +1,29 @@
-＃想子
-「確かにほとんど変わらないわね」
-＃辻村
-「ええ。……しかし何分使って居りませんでしたので、少々の汚れは多めに見てくださいませ」
-＃想子
-「全然問題ありませんよ。ありがとうございました」
-＃辻村
-「では、私はこれで」
-辻村さんが頭を下げ、部屋を出て行った。
-＃想子
-「ふう……」
-早速想子さんはコーラの栓を開けた。
-＃主人公
-「……これからどうするんですか？」
-＃想子
-「決まってるじゃない。犯人を見つけるのよ」
-窓の外を眺めながら想子さんは言う。
-＃想子
-「相手の挑発に乗るつもりはないけれど、黙ってはいられないわよ」
-＃主人公
-「そうですよね」
-明日にはここから出られると思うのだけれど、それまで黙って待っている事はできない。
-犯人だって、明日までと云う事は解っている筈なのだ。
-今晩中に、必ずなにかしてくる筈だ。
-＃主人公
-「……想子さん、ぼく、また館内を見回ってきます」
-＃想子
-「ええ……気をつけてよ」
-心配そうな想子さんの声に送られ、ぼくは部屋をでた。
+#Souko
+"It really is almost the same."
+#Tsujimura
+"Yes. ...However, since it hasn't been used in quite some time, please overlook any minor dust."
+#Souko
+"That won't be a problem at all. Thank you very much."
+#Tsujimura
+"Well then, I shall take my leave."
+Tsujimura-san bowed and left the room.
+#Souko
+"Whew..."
+Souko-san immediately opened a bottle of cola.
+#Main Character
+"...What are you going to do now?"
+#Souko
+"Isn't it obvious? Find the culprit."
+She spoke while gazing out the window.
+#Souko
+"I don't intend to fall for their provocation, but I can't just sit back and watch."
+#Main Character
+"You窶决e right."
+I think we窶冤l be able to leave tomorrow, but we can't just wait around until then.
+The culprit must know that they only have until tomorrow as well.
+They窶冤l definitely try something tonight.
+#Main Character
+"...Souko-san, I窶冦 going to do another round of the mansion."
+#Souko
+"Right... be careful out there."
+Leaving behind Souko-san's worried voice, I stepped out of the room.

@@ -1,0 +1,32 @@
+#Souko
+"A bell... I don't think it's worth worrying about."
+#Protagonist
+"You're right."
+#Maya
+"The clock was already here before this manor was relocated. As a remnant of that, we make sure to ring the bell."
+#Protagonist
+"I see."
+#Benio
+"Does the sound of the bell bother you that much? The machine room is in the attic."
+#Protagonist
+"Oh... I see."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Protagonist
+"I see..."
+#Tsujimura
+"The bell is rung from the machine room above the main entrance. It's synchronized with the clock facing outside."
+#Protagonist
+"I see."
+#Takamine
+"It was indeed ringing last night... but it's not something to be so concerned about."
+#Protagonist
+"I suppose so..."
+#Mikanagi
+"A bell... I don't think you'd notice it if you stayed in your room."
+#Protagonist
+"Is that so?"
+#Narumi
+"A bell? Was it ringing...? I don't really remember."
+#Protagonist
+"...I see."

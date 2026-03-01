@@ -1,32 +1,32 @@
-後は詩音さんにも食事を届けなくては。
-事務室を通り抜け、外へ出る。
-雪は相変わらず降り続いていた。
-鍵は開いていた。
-チャーハンが冷めないうちにと、ぼくは急いで階段を上がる。
-詩音さんの部屋の扉の前。
-＃主人公
-「詩音さん、ぼくです。昼食を持ってきました」
-扉が開き、詩音さんが顔を覗かせた。
-＃詩音
-「あ……ありがとうございます」
-＃主人公
-「藍さんも意識を回復されましたよ」
-＃詩音
-「本当ですか！？　……よかった……」
-詩音さんは大きく息を吐いた。
-＃主人公
-「まだ犯人が判明した訳ではありませんから、警戒は怠らないでくださいね」
-＃詩音
-「え、ええ……」
-まあ、こんな所にひとり離れていればそう心配することもないだろうけれど。
-＃主人公
-「じゃあ、ぼくはこれで」
-＃詩音
-「あ、あのっ……！」
-＃主人公
-「はい？」
-＃詩音
-「その……お、お気をつけて……」
-＃主人公
-「ええ、わかってますよ」
-詩音さんにそう答え、ぼくは食堂に戻る事にした。
+Now I just have to deliver food to Shion-san.
+I passed through the office and headed outside.
+The snow was still falling as persistently as ever.
+The door was unlocked.
+Wanting to get the fried rice to her before it got cold, I hurried up the stairs.
+I stood in front of Shion-san's room.
+#Satoshi
+"Shion-san, it's me. I've brought lunch."
+The door opened, and Shion-san peeked her face out.
+#Shion
+"Ah... thank you very much."
+#Satoshi
+"Ai-san has regained consciousness as well."
+#Shion
+"Is that true!? ...Thank goodness..."
+Shion-san let out a long sigh of relief.
+#Satoshi
+"The culprit hasn't been identified yet, so please don't let your guard down."
+#Shion
+"Y-Yes..."
+Well, if she stays separated in a place like this, there probably isn't much to worry about.
+#Satoshi
+"Well then, I'll be going."
+#Shion
+"A-Ah, um...!"
+#Satoshi
+"Yes?"
+#Shion
+"Please... b-be careful..."
+#Satoshi
+"Yeah, I know."
+After answering Shion-san, I decided to return to the dining room.

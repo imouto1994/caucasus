@@ -1,0 +1,40 @@
+#Souko
+"...The fact the killer is losing their composure means we've likely cornered them. The suspects are narrowing down, and tonight will be the climax."
+#Satoshi
+"True..."
+#Maya
+"How terrifying... who could have done such a thing..."
+#Satoshi
+"...I'm in the middle of investigating that right now."
+#Ai
+"...Why did such a thing have to happen to Kirihara-san...?"
+#Satoshi
+"I think it's because she was investigating..."
+#Benio
+"The reason her room was targeted... if it's because she was snooping around, that would apply to you as well. So there must be something else..."
+#Satoshi
+"I wonder..."
+#Shion
+"Who could have done such a thing...?"
+#Satoshi
+"We don't... know yet."
+#Tsujimura
+"...Would it be all right if I washed that off...?"
+#Satoshi
+"I'm not sure... I'd certainly like to see it gone, though..."
+#Takamine
+"A warning...? It's far too late for that. I doubt it serves any real purpose."
+#Satoshi
+"Is that so...?"
+#Mikanagi
+"...It's undoubtedly blood. Whether it's Isamu's... or the killer's own blood... we won't know without a proper appraisal."
+#Satoshi
+"I see..."
+#Akane
+"...The killer warned her because Mistress Kirihara is snooping around, right? I don't think doing something like that will have any effect, though..."
+#Satoshi
+"True..."
+#Narumi
+"A warning written in blood, huh... the fact they'd go to the trouble of warning her means they're likely not done yet..."
+#Satoshi
+"Maybe so..."

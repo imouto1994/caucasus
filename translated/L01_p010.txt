@@ -1,0 +1,40 @@
+#Souko
+"Narumi-san, huh... She's a bit of an enigma, but there's no real evidence to name her the killer."
+#Satoshi
+"...True."
+#Maya
+"I don't believe there was any point of contact between Narumi and Isamu-san..."
+#Satoshi
+"...I see."
+#Ai
+"Narumi-san occasionally does the night rounds. Although it was Tsujimura-san's turn yesterday..."
+#Satoshi
+"I see..."
+#Benio
+"I doubt there was any sort of relationship between Narumi and Rokuyou, but I can't definitively say she's not the killer either."
+#Satoshi
+"I see..."
+#Shion
+"Narumi-san... I'm sorry, I don't really know..."
+#Satoshi
+"I see..."
+#Tsujimura
+"Mistress Minakami, Mistress Hiyama, and I take turns doing rounds after lights out, but I was the one on duty yesterday."
+#Satoshi
+"I see..."
+#Takamine
+"I've never seen Rokuyou-kun and Minakami-kun exchange a word. Aside from official business, of course..."
+#Satoshi
+"I see."
+#Mikanagi
+"Narumi-san is usually in the kitchen. She likely hardly spoke to Isamu at all."
+#Satoshi
+"I see..."
+#Akane
+"Last night I returned to our room with Narumi-san, though..."
+#Satoshi
+"I see."
+#Narumi
+"After the ceremony, I went back to the room with Akane. It was late, so I just went right to sleep."
+#Satoshi
+"I see..."

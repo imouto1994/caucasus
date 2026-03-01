@@ -1,0 +1,50 @@
+#Protagonist
+"Hello, Dr. Mikanagi."
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+#Mikanagi
+"Ah, just in time."
+#Protagonist
+"Eh, what is it?"
+#Mikanagi
+"I seem to have left my medical bag in my room. Would you mind going to fetch it for me?"
+#Protagonist
+"Sure, I don't mind, but..."
+#Mikanagi
+"Here, this is the key to my room. I’m counting on you."
+With that, Dr. Mikanagi turned his gaze back to the documents on his desk.
+It doesn't look like I'll be able to talk to him now. I'll take care of what he asked and then come back.
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+#Mikanagi
+"Did you bring the bag for me?"
+#Protagonist
+"Ah..."
+I completely forgot.
+#Mikanagi
+"Could it be you didn't know which room was mine?"
+#Protagonist
+"No, it's not that..."
+It’s right next to mine, after all.
+#Protagonist
+"I-I'll go get it right away."
+I hurried out of the infirmary as if I were making an escape.
+#Protagonist
+"Here, this is it, right?"
+I held out the bag I’d brought from Dr. Mikanagi's room.
+#Mikanagi
+"Thank you, you've been a great help."
+Dr. Mikanagi took several documents out of the bag.
+#Protagonist
+"Um... do you have a moment?"
+#Mikanagi
+"Yes, I don't mind."
+Now, what should I do?
+#Protagonist
+"Excuse me."
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+#Mikanagi
+"Oh, what is it this time?"
+#Protagonist
+"Do you have a moment?"
+#Mikanagi
+"Yes, go ahead."
+Now, what should I do?

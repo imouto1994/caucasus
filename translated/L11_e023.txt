@@ -1,0 +1,24 @@
+#Ai
+"...I am sorry, I do not really know."
+#Satoshi
+"I see..."
+#Benio
+"...I am not entirely convinced that is Kirihara-san. ...Do not give up hope just yet."
+#Satoshi
+"...Alright."
+#Tsujimura
+"How utterly gruesome..."
+#Satoshi
+"It really is..."
+#Takamine
+"I can't say for certain."
+#Satoshi
+"I see..."
+#Mikanagi
+"I believe it is Kirihara-san's body. The only deciding factor is the signs of a fracture... though there is a possibility it could be Akane-san."
+#Satoshi
+"I see..."
+#Narumi
+"I'm not really sure about that."
+#Satoshi
+"I see..."

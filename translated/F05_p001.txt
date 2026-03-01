@@ -1,0 +1,40 @@
+#Souko
+"It looks like we'll be able to leave tomorrow... but I wonder if I'll be able to research the Nanatsuki legends by then..."
+#Protagonist
+"I wonder..."
+#Maya
+"Please tell Kirihara-san that if she has any inconveniences, she should not hesitate to speak up."
+#Protagonist
+"Yes, I'll let her know."
+#Ai
+"Kirihara-san is quite composed, isn't she? Even in a situation like this..."
+#Protagonist
+"Right..."
+#Benio
+"She seems to be investigating quite a bit herself. She might even know more about this place than you do, for all we know."
+#Protagonist
+"I-Is that so..."
+#Shion
+"Kirihara-san... she has a somewhat frightening atmosphere about her..."
+#Protagonist
+"Do you think so...?"
+#Tsujimura
+"Kirihara-sama is a very knowledgeable person. I heard she even helped with the generator repair..."
+#Protagonist
+"Right..."
+#Takamine
+"It seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary."
+#Protagonist
+"That might be true, but..."
+#Mikanagi
+"I examined Kirihara-san's finger again this morning, and it still seems a bit swollen. I told her she should get it checked at a hospital once we leave here."
+#Protagonist
+"I see..."
+#Akane
+"Kirihara-sama? Wouldn't she be in her room?"
+#Protagonist
+"Well... likely so..."
+#Narumi
+"Kirihara-san? ...No idea."
+#Protagonist
+"I-I see..."

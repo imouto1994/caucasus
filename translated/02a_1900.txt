@@ -1,49 +1,49 @@
-＃主人公
-「失礼します」
-事務室に入ると、辻村さんが椅子に腰を下ろしてぼんやりと宙を眺めていた。
-＃主人公
-「あの……辻村さん？」
-＃辻村
-「あ……っ、あなたでしたか。どうかなさいましたか？」
-すぐに居住まいを正し、辻村さんが訊ねてくる。
-＃主人公
-「ちょっと詩音さんの様子も確かめておこうと思いまして。……辻村さんはどうかしたんですか？」
-＃辻村
-「いえ……いろんな事がありすぎて、頭の中が少々混乱しているようです」
-＃主人公
-「それは……ぼくもです。恐らくみなさんそうだと思いますよ」
-＃辻村
-「……申し訳ありません。このような事になってしまいまして……」
-＃主人公
-「辻村さんが悪いわけじゃありませんよ」
-＃辻村
-「しかし……六曜様が殺害され、藍お嬢様まで襲われたとあっては……この館を管理する者として、とても申し訳なくて……」
-辻村さんが俯く。
-とても小さく見えた。
-＃辻村
-「……以前にも、似たような事があったのです」
-＃主人公
-「似たような事……！？」
-＃辻村
-「いえ、もちろん人死にはありませんでした。ですが……私が至らぬばかりに奥様たちに大変ご迷惑をおかけした事がありまして……」
-辻村さんの告白に、ぼくは少しだけ安堵した。
-そうそうこんな事が起こっては堪らない。
-＃辻村
-「今でもふと考えてしまうのです。あの時もっと他に出来る事があったのではないかと。今更後悔してもとうに手遅れなのかもしれませんが」
-＃主人公
-「辻村さん……」
-＃辻村
-「お願いします。ここに居る間だけでも……お嬢様を、詩音お嬢様を守っていただけませんか……？」
-＃主人公
-「それは……もちろんです。みんな守りたいと思っています」
-＃辻村
-「ああ……ありがとうございます」
-辻村さんが深々と頭を下げる。
-＃主人公
-「詩音さんは無事なのですよね？」
-＃辻村
-「ええ、もちろんです。今はご自身のお部屋にいらっしゃいます」
-＃主人公
-「ちょっと様子を見てきます」
-＃辻村
-「わかりました。よろしくお頼みします」
+#Satoshi
+"Excuse me."
+When I entered the office, Tsujimura-san was sitting in a chair, staring blankly into space.
+#Satoshi
+"Um... Tsujimura-san?"
+#Tsujimura
+"A-Ah... it was you. Is something the matter?"
+Tsujimura-san immediately straightened his posture and asked.
+#Satoshi
+"I just thought I'd go check on Shion-san as well. ...Did something happen, Tsujimura-san?"
+#Tsujimura
+"No... so many things have happened that my mind is feeling a bit cluttered."
+#Satoshi
+"That... goes for me too. I think everyone is feeling that way."
+#Tsujimura
+"...My apologies. For things to turn out like this..."
+#Satoshi
+"It's not your fault, Tsujimura-san."
+#Tsujimura
+"However... with Mr. Rokuyou murdered and Miss Ai attacked... as the one responsible for managing this manor, I feel terribly sorry..."
+Tsujimura-san looked down.
+He looked so small.
+#Tsujimura
+"...In the past, something similar happened."
+#Satoshi
+"Something similar...!?"
+#Tsujimura
+"No, naturally nobody died. However... because of my own incompetence, I once caused a great deal of trouble for the Madam and the others..."
+At Tsujimura-san's confession, I felt a slight sense of relief.
+I couldn't bear it if things like this happened all the time.
+#Tsujimura
+"Even now, I find myself thinking about it. I wonder if there was something more I could have done back then. It might be far too late for regrets now, though."
+#Satoshi
+"Tsujimura-san..."
+#Tsujimura
+"I'm begging you. Even if it's only while you're here... could you please protect the young lady, Shion-ojousama...?"
+#Satoshi
+"Well... of course. I want to protect everyone."
+#Tsujimura
+"Ah... thank you very much."
+Tsujimura-san bowed deeply.
+#Satoshi
+"Shion-san is safe, isn't she?"
+#Tsujimura
+"Yes, of course. She is in her own room right now."
+#Satoshi
+"I'll go check on her for a bit."
+#Tsujimura
+"Understood. I'm counting on you."

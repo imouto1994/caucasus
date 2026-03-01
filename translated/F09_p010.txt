@@ -1,0 +1,40 @@
+#Souko
+"...So, did anything happen while you were locked in the basement together, just the two of you?"
+#Satoshi
+"N-Nothing happened...!"
+#Maya
+"Narumi? Her talent for cooking is magnificent. Though... I wish she would be a bit more serious..."
+#Satoshi
+"...I see."
+#Ai
+"Narumi-san? Her cooking is always delicious... but, well, her other work is a bit..."
+#Satoshi
+"I see."
+#Benio
+"Narumi? Her cooking skills are top-notch. As for the rest... well, it's pretty self-evident."
+#Satoshi
+"I see..."
+#Shion
+"I heard you were locked in the basement... were you all right?"
+#Satoshi
+"Yes... I'm fine."
+#Tsujimura
+"As for Mistress Minakami... it would be a help to me as well if she worked properly at things other than cooking..."
+#Satoshi
+"I see..."
+#Takamine
+"I heard Minakami-kun was also locked in the basement. I'm glad she's safe, but..."
+#Satoshi
+"Yeah..."
+#Mikanagi
+"Narumi-san? Her cooking is wonderful. As for anything else... I don't really know."
+#Satoshi
+"I see."
+#Akane
+"If it's Narumi-san, she's likely in her room or the dining hall... since she can't get into the kitchen."
+#Satoshi
+"I see."
+#Narumi
+"...Maybe I should've just pounced on you in the basement."
+#Satoshi
+"...What are you saying...?"

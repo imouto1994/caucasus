@@ -1,0 +1,85 @@
+
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+#Protagonist
+"Huh... I guess he's not in."
+Even after waiting, there was no response.
+It can't be helped; I'll head elsewhere.
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+#Protagonist
+"Tsujimura-san, it's me."
+The door opened, and Tsujimura-san peeked out.
+#Tsujimura
+"Is something the matter?"
+#Protagonist
+"Do you have a moment?"
+#Tsujimura
+"I was thinking of doing a bit of cleaning in the chapel, actually..."
+#Protagonist
+"Cleaning...?"
+#Tsujimura
+"Yes... after using it for the wedding, I simply locked it up immediately... do you think it would be better if I didn't touch it just yet...?"
+#Protagonist
+"Well..."
+Leave it as it is
+It's fine
+I'll do it
+#Protagonist
+"...I think it would be better if you left it as it is."
+#Tsujimura
+"...I suppose you're right."
+Tsujimura-san's shoulders slumped slightly.
+#Protagonist
+"It would be a serious matter if you cleaned up some crucial evidence, after all."
+#Tsujimura
+"Yes... I understand."
+#Protagonist
+"Well then, I'll be going."
+I decided to head for another location.
+#Protagonist
+"I think it'll be fine. The chapel has nothing to do with the incident, after all."
+#Tsujimura
+"I see. Then I shall go tidy up... I just can't seem to settle my mind unless I'm working."
+Tsujimura-san gave a faint, weary smile.
+#Protagonist
+"Well then, I'll be going."
+I decided to head for another location.
+#Protagonist
+"I'll handle the cleaning for you."
+#Tsujimura
+"No, I couldn't let a guest... ah, no... I suppose if anything were to happen and I had tidied it up, the suspicion would fall on me...?"
+#Protagonist
+"...Yes, that’s exactly it. I don't think I have everyone's complete trust, but even so, I believe I'm more suited for it."
+#Tsujimura
+"...You're right. Then... I leave it to you."
+Tsujimura-san took out a key and handed it to me.
+#Protagonist
+"...Given the current situation, I don't think I'll be able to get much cleaning done, though..."
+#Tsujimura
+"I don't mind. There's something... you wish to investigate, isn't there?"
+#Protagonist
+"Well..."
+#Tsujimura
+"...I'm counting on you."
+Tsujimura-san bowed his head deeply once more.
+#Protagonist
+"...Well then, excuse me."
+Now then... let's go take a look.
+I’ve come to the front of Tsujimura-san's room again.
+I knock on the door.
+#Tsujimura
+"Yes, who is it?"
+#Protagonist
+"Hello, Tsujimura-san."
+#Tsujimura
+"Ah, it was you. What is it this time?"
+#Protagonist
+"Do you have a moment?"
+#Tsujimura
+"Yes, I don't mind. Please, come inside."
+#Protagonist
+"Excuse me."
+I enter Tsujimura-san's room.
+#Tsujimura
+"What can I do for you?"

@@ -1,41 +1,42 @@
-部屋に戻って暫く待っていると、扉が叩かれた。
-返事をする前に扉が開き、なるみさんが入ってきた。
-＃なるみ
-「そろそろいい？」
-＃主人公
-「いいですけど……御巫先生に釘を刺されましたよ。無茶はしないでくれって」
-＃なるみ
-「無茶なんてするつもりないわよ」
-＃主人公
-「それならいいんですけど……」
-どこまで本当かわからないけど。
-＃なるみ
-「取り敢えずは暗号よ。あれからなにかわかった？」
-＃主人公
-「紅緒さんに聞いて、最後の単語がドイツ語で『暖炉』と云う意味だとわかりました」
-＃なるみ
-「暖炉……いっぱいあるわよ？」
-＃主人公
-「ええ……だからこの『１ＳＮ』と云うのが場所を表していると思うんですよ」
-＃なるみ
-「場所ねえ……数字から見て一階なのかしら？」
-＃主人公
-「英語だと『１Ｆ』ですよね。ドイツ語だと『１Ｓ』なんですか？」
-＃なるみ
-「あたしに聞かれても……そうしたんじゃないの？」
-＃主人公
-「仮にそうだとしましょう。そうすると後ろの『Ｎ』は……方角でしょうか」
-＃なるみ
-「北？」
-＃主人公
-「英語だと『Ｎｏｒｔｈ』ですよね。ドイツ語でもそうなんでしょうか」
-＃なるみ
-「だからあたしに聞かないでよ」
-＃主人公
-「でも、そうすると……『一階北にある暖炉』ですか……？」
-＃なるみ
-「一階北……個人の部屋と聖堂ね……客室にそういった手懸かりが残されているとは思えないけど……」
-＃主人公
-「聖堂に行ってみましょう。鍵は開けられますよね？」
-＃なるみ
-「まあ無理じゃないけど……聖堂に暖炉なんてあったかしら……」
+
+I went back to my room and waited for a while until there was a knock on the door.
+Before I could answer, the door opened and Narumi-san walked in.
+#Narumi
+"Ready to go?"
+#Main Character
+"I guess... Dr. Mikanagi warned me, though. He told us not to do anything reckless."
+#Narumi
+"I don't have any intention of being reckless."
+#Main Character
+"If you say so..."
+I didn't know how much of that was true.
+#Narumi
+"First is the code. Did you figure anything out since then?"
+#Main Character
+"I asked Benio-san, and I found out the last word means 'fireplace' in German."
+#Narumi
+"Fireplace... there are a lot of those."
+#Main Character
+"Yeah... so I think this '1SN' part represents a location."
+#Narumi
+"A location... I wonder if the number means the first floor?"
+#Main Character
+"In English, it's '1F,' right? Is it '1S' in German?"
+#Narumi
+"Don't ask me... isn't that how they did it?"
+#Main Character
+"Let's assume that's the case. Then the 'N' at the end... is that a direction?"
+#Narumi
+"North?"
+#Main Character
+"In English, it's 'North,' right? Is it the same in German?"
+#Narumi
+"I told you, don't ask me!"
+#Main Character
+"But if that's the case... is it the 'fireplace in the north of the first floor'...?"
+#Narumi
+"First floor north... that would be the private rooms and the chapel... I can't imagine any clues would be left in the guest rooms, though..."
+#Main Character
+"Let's go to the chapel. You can open the lock, right?"
+#Narumi
+"Well, I can manage... but was there a fireplace in the chapel...?"

@@ -1,0 +1,72 @@
+#Souko
+"If you're looking for Benio-san, she should be in the infirmary... but her life isn't in danger, so you can relax."
+#Satoshi
+"I see..."
+#Souko
+"To think even Benio-san would be murdered... the pool of victims and suspects is finally starting to narrow down..."
+#Satoshi
+"Yeah..."
+#Maya
+"As for Benio... I don't want her getting involved in anything dangerous..."
+#Satoshi
+"...I see."
+#Maya
+"Why Benio too...? That's why I told her to stop this dangerous business..."
+#Satoshi
+"Maya-san..."
+#Ai
+"...As I feared, Benio was targeted as well... Why did it come to this..."
+#Satoshi
+"I don't know..."
+#Ai
+"Ah... Benio...! Why, why did you have to die...!!"
+#Satoshi
+"Ai-san..."
+#Shion
+"Lady Benio... is she going to be all right...?"
+#Satoshi
+"She's just resting as a precaution for now. There's no need to worry."
+#Shion
+"Lady Benio... why...?"
+#Satoshi
+"Shion-san..."
+#Tsujimura
+"...At any rate, I am relieved that Lady Benio is safe."
+#Satoshi
+"Yeah..."
+#Tsujimura
+"With Lady Benio gone as well... what will become of us now...?"
+#Satoshi
+"...I don't know."
+#Takamine
+"So Benio-kun pulled through... but we can't let our guard down just yet."
+#Satoshi
+"Yeah..."
+#Takamine
+"Even Benio-kun was killed... Hurry up and drag the killer out."
+#Satoshi
+"Y-Yeah..."
+#Mikanagi
+"I'm having Benio-san rest in the infirmary for now."
+#Satoshi
+"I see..."
+#Mikanagi
+"To think Benio-san would be murdered too... I don't want to think it's over an inheritance dispute, but..."
+#Satoshi
+"Yeah..."
+#Akane
+"Lady Benio is resting in the infirmary."
+#Satoshi
+"I see..."
+#Akane
+"Lady Benio... why did she have to be murdered...?"
+#Satoshi
+"Akane-san..."
+#Narumi
+"The person who attacked Lady Benio, huh... it'd be best to ask the Lady herself, but..."
+#Satoshi
+"True..."
+#Narumi
+"...With Lady Benio murdered as well, have you grasped the killer's intent even a little?"
+#Satoshi
+"No... not yet."

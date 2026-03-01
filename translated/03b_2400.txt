@@ -1,33 +1,33 @@
-廊下に出ると、ちょうど医務室から御巫先生が出てくるところだった。
-＃主人公
-「こんばんは、御巫先生」
-＃御巫
-「ああ、きみか……」
-御巫先生が弱々しい笑みを浮かべた。
-＃主人公
-「随分疲れているようですね……」
-＃御巫
-「まあ……さすがにね。でも明日になれば麓から人が来るだろうから、それまでは頑張らないとね」
-＃主人公
-「でも明日人が来たとしても、橋は落ちているんですよね……」
-＃御巫
-「何とかロープだけでも張れれば人は渡れるよ。うまく連絡を取れれば警官も呼んでくれるだろうしね」
-＃主人公
-「そうですか……あとは雪が止んでくれればいいんですけど」
-まだ外では雪が降り続いている筈だ。
-＃御巫
-「昼間から比べたら風も随分と弱くなっているようだけれどね」
-＃主人公
-「今晩何事もなければいいんですが……」
-＃御巫
-「そうだね……きみも色々と調べているようだけれど、今晩は大人しくしておいた方がいいだろうね」
-そう言って御巫先生は後方――吹き抜けの方に視線を向けた。
-つられてぼくも首を巡らせる。
-なるみさんが吹き抜けの欄干にもたれかかっていた。
-＃御巫
-「きみを待っているんじゃないかい？」
-＃主人公
-「……まあ、そうかもしれませんけど……」
-＃御巫
-「……決して無理はしないでくれよ」
-御巫先生はぼくの肩を軽く叩き、自分の部屋へ入っていった。
+Stepping out into the corridor, I saw Dr. Mikanagi coming out of the clinic.
+#Main Character
+"Good evening, Dr. Mikanagi."
+#Mikanagi
+"Ah, it's you..."
+Dr. Mikanagi managed a weak smile.
+#Main Character
+"You look exhausted..."
+#Mikanagi
+"Well... as you can imagine. But people from below will be coming tomorrow, so I have to hang in there until then."
+#Main Character
+"But even if people come tomorrow, the bridge is out, isn't it...?"
+#Mikanagi
+"If we can just stretch a rope across, people can cross. If we can get word out, they窶冤l call the police as well."
+#Main Character
+"I see... I just hope the snow stops."
+It should still be snowing outside.
+#Mikanagi
+"The wind seems to have weakened considerably since the daytime, though."
+#Main Character
+"I just hope nothing happens tonight..."
+#Mikanagi
+"True... you seem to be looking into various things as well, but it might be best to stay quiet tonight."
+With that, Dr. Mikanagi looked toward the atrium behind him.
+I followed his gaze.
+Narumi-san was leaning against the atrium railing.
+#Mikanagi
+"Isn't she waiting for you?"
+#Main Character
+"...Well, that might be it..."
+#Mikanagi
+"...Just make sure you don't do anything reckless."
+Dr. Mikanagi patted my shoulder lightly and entered his room.

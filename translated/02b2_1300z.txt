@@ -1,25 +1,25 @@
-もういいだろう。
-＃主人公
-「このくらいでいいでしょうか」
-想子さんに尋ねる。
-＃想子
-「きみがいいと言うならいいと思うわよ」
-＃主人公
-「そう言われると不安ですが……」
-まだ調べる
-もういいだろう
-もう少し調べてみようか。
-何か見落としがあるかもしれない。
-もう調べ尽くしたと思う。
-＃主人公
-「もういいでしょう」
-＃御巫
-「じゃあ、藍さんの身体を運ぼう。いつまでもこんな所に置いておいては可哀相だ」
-＃主人公
-「……そうですね」
-藍さんの遺体を真新しいシーツで包む。
-シーツの一部が赤く染まる。
-＃想子
-「運ぶのは彼女の部屋へ？」
-＃御巫
-「……そうだね」
+That's probably enough.
+#Satoshi
+"Is this about right?"
+I asked Souko-san.
+#Souko
+"If you say so, then I think it's fine."
+#Satoshi
+"Being told that makes me feel anxious, though..."
+Keep investigating.
+That's probably enough.
+Let's try investigating a bit more.
+I might have overlooked something.
+I think I've investigated everything I can.
+#Satoshi
+"That should be enough."
+#Mikanagi
+"Well then, let's carry Ai-san's body. It'd be pitiable to leave her in a place like this forever."
+#Satoshi
+"...You're right."
+We wrapped Ai-san's body in a brand-new sheet.
+Part of the sheet was stained red.
+#Souko
+"Are we carrying her to her room?"
+#Mikanagi
+"...Yeah."

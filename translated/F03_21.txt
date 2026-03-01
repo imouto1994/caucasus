@@ -1,0 +1,45 @@
+I’ve come to Benio-san's room.
+I wonder if she's inside.
+#Akane
+"Lady Benio, it's Hiyama."
+Akane-san knocks on the door, but there's no response from inside.
+#Protagonist
+"Is she not here...?"
+#Akane
+"...It seems so."
+#Protagonist
+"Then let's head elsewhere. We don't have time to waste."
+#Akane
+"Yes... you're right."
+We decided to head for another location.
+I’ve come to Benio-san's room.
+I wonder if she's inside.
+#Akane
+"Lady Benio, it's Hiyama."
+Akane-san knocks on the door.
+#Benio
+"What is it?"
+#Protagonist
+"Benio-san, have you seen Ai-san?"
+#Benio
+"Sister? ...No, I haven't."
+#Akane
+"She hasn't been seen for a while now."
+#Benio
+"Hmm... I wonder what she's up to."
+#Protagonist
+"Please let us know if you see her."
+#Benio
+"Yeah, I got it."
+We decided to search elsewhere.
+#Benio
+"What is it? Still haven't found my sister?"
+#Protagonist
+"No..."
+#Benio
+"Hmm... I don't really keep track of her movements..."
+#Akane
+"We'll try searching a few more places."
+#Benio
+"Alright."
+We decided to head elsewhere.

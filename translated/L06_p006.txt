@@ -1,0 +1,36 @@
+#Souko
+"Tsujimura-san, huh... He could have triggered the blackout, but he's not the only one who could've done it..."
+#Satoshi
+"True..."
+#Maya
+"If it's Tsujimura, I imagine he was trying to fix the blackout."
+#Satoshi
+"I see..."
+#Benio
+"...Tsujimura has no reason to kill my sister. Besides, he was attacked by someone just before the lights went out, you know."
+#Satoshi
+"I see..."
+#Shion
+"When the lights went out and I went to the office because things seemed wrong, Seiji-san was clutching his head. He said someone had struck him..."
+#Satoshi
+"I see..."
+#Tsujimura
+"It was just before the blackout, I believe... I was in the hall when I was suddenly struck from behind... When I came to, I was lying near the basement stairs."
+#Satoshi
+"I see..."
+#Takamine
+"...Apparently, someone attacked Tsujimura-san before the blackout. It might have been when the killer was tampering with the generator, but..."
+#Satoshi
+"True..."
+#Mikanagi
+"It looks like Tsujimura-san sustained a minor head injury, but it doesn't seem to be anything too serious."
+#Satoshi
+"I see..."
+#Akane
+"I heard Tsujimura-san was injured... I wonder what on earth happened..."
+#Satoshi
+"True..."
+#Narumi
+"It sounds like Tsujimura-san got hurt. I don't know the details, though..."
+#Satoshi
+"I see."

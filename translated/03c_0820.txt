@@ -1,35 +1,35 @@
-さてと……これからどうしようか。
-扉が外から叩かれた。
-＃主人公
-「はい……？」
-起きあがり、扉に近付く。
-＃なるみ
-「水守だけど」
-＃主人公
-「なるみさん……？」
-何の用事だろう。
-＃主人公
-「どうしたんですか？」
-＃なるみ
-「あかねを見なかった？」
-なるみさんは部屋に入って来るなりそう訊ねてきた。
-＃主人公
-「あかねさんですか？」
-そういえば……今朝は見ていないような気がする。
-＃なるみ
-「部屋にもいないからどこに行ったか探してるんだけど……」
-＃主人公
-「でも、この館の中じゃ行けるところも限られてくるでしょう？」
-＃なるみ
-「そうなのよね……」
-なるみさんは心配そうだ。
-まあ……こんな事態であれば当然だろう。
-＃主人公
-「あの、ぼくも探しますよ」
-＃なるみ
-「じゃあ、他の人にも聞いて回ってくれる？　あたしは他の所見て回るから」
-＃主人公
-「わかりました」
-なるみさんが立ち去る。
-さて、ぼくも館内を回ってあかねさんを探さないと。
-……最悪の事態は考えないようにして。
+Now then... what should I do?
+There was a knock on the door from outside.
+#Main Character
+"Yes...?"
+I sat up and went to the door.
+#Narumi
+"It's Mizumori."
+#Main Character
+"Narumi-san...?"
+I wonder what she wants.
+#Main Character
+"What's wrong?"
+#Narumi
+"Have you seen Akane?"
+Narumi-san asked as soon as she entered the room.
+#Main Character
+"Akane-san?"
+Now that she mentions it... I don't think I've seen her this morning.
+#Narumi
+"She's not in her room, so I'm looking for where she went..."
+#Main Character
+"But there are only so many places she can go in this mansion, right?"
+#Narumi
+"That's true..."
+Narumi-san looked worried.
+Well... given the situation, it窶冱 only natural.
+#Main Character
+"Um, I'll help you look."
+#Narumi
+"Then could you go around and ask the others? I'll take a look at the other areas."
+#Main Character
+"Understood."
+Narumi-san left.
+Well, I窶囘 better go around the mansion and search for Akane-san.
+...I'll try not to think about the worst-case scenario.

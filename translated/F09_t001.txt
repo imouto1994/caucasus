@@ -1,0 +1,48 @@
+#Souko
+"Whether they targeted a person, a location, or had some other objective... it isn't clear yet."
+#Satoshi
+"I see..."
+#Maya
+"The kitchen... In that case, we won't be able to prepare meals, will we..."
+#Satoshi
+"True..."
+#Ai
+"...I'm relieved it only ended with minor injuries. But why on earth the kitchen...?"
+#Satoshi
+"...We don't know yet."
+#Benio
+"The kitchen, huh... Doesn't it seem too different from before if they were targeting people?"
+#Satoshi
+"Maybe so..."
+#Shion
+"The kitchen... what on earth happened...?"
+#Satoshi
+"...We don't know yet."
+#Tsujimura
+"...The kitchen uses gas, so it would be easy to cause an explosion, but..."
+#Satoshi
+"True..."
+#Takamine
+"Destruction of the kitchen and minor burns... I'm glad there were few casualties."
+#Satoshi
+"Yeah..."
+#Takamine
+"...I suffered a major burn myself, long ago."
+#Satoshi
+"That... scar on your face...?"
+#Takamine
+"...Yeah. There was a fire in a mountain hut near here a long time ago, and I got this then."
+#Satoshi
+"That happened...?"
+#Mikanagi
+"The injury itself isn't serious... but I wonder why she was targeted..."
+#Satoshi
+"True..."
+#Akane
+"I was very close to being seriously injured..."
+#Satoshi
+"Yeah... I'm glad you're okay."
+#Narumi
+"That was close... a bit more and it would've been a major burn."
+#Satoshi
+"Yeah..."

@@ -1,32 +1,32 @@
-想子さんの部屋までやって来た。
-扉を叩き、暫く待つ。
-扉が開き、想子さんが顔を覗かせた。
-＃想子
-「あら、こんな時間にどうしたの？」
-＃主人公
-「あの……想子さん、今晩はこの部屋に居てもいいですか？」
-＃想子
-「……はあ？」
-想子さんが目を瞬かせた。
-＃主人公
-「あ、いや、変な意味じゃなくて、物騒だから、それで、一緒にいれば守れるんじゃないかなとか」
-しどろもどろになって弁解する。
-＃想子
-「はあっ……あのねえ、私なんか守ったって意味がないでしょう？」
-想子さんが呆れたように洩らした。
-＃主人公
-「で、ですけど……今の状況じゃ次に誰が狙われるかわかりませんよ？」
-＃想子
-「少なくとも、きみや私が狙われる事なんてないわよ。部外者じゃない」
-＃主人公
-「そうでしょうか……」
-一抹の不安はあったが、想子さんにそう言われては返す言葉もない。
-＃想子
-「……悔しいけど、今の私たちには待つことしか出来ないわ。被害が出ないことを祈りましょう」
-＃主人公
-「……わかりました」
-今晩は耐えるしかないのか……
-＃主人公
-「それじゃ想子さん、お休みなさい。……失礼します」
-＃想子
-「ええ、お休み」
+I arrived at Souko-san's room.
+I knocked on the door and waited for a while.
+The door opened, and Souko-san peeked her face out.
+#Souko
+"Oh, what brings you here at this hour?"
+#Satoshi
+"Um... Souko-san, is it alright if I stay in this room tonight?"
+#Souko
+"...Huh?"
+Souko-san blinked in surprise.
+#Satoshi
+"Ah, no, I don't mean anything weird by it, it's just that things are dangerous, so I thought maybe I could protect you if we were together."
+I offered a faltering excuse.
+#Souko
+"Hah... look, there's no point in protecting someone like me, is there?"
+Souko-san murmured as if exasperated.
+#Satoshi
+"B-But... in this situation, we don't know who'll be targeted next, you know?"
+#Souko
+"At the very least, you and I aren't going to be targeted. We're outsiders, aren't we?"
+#Satoshi
+"I wonder..."
+I felt a trace of anxiety, but having been told that by Souko-san, I had no words to offer in return.
+#Souko
+"...It's frustrating, but right now, all we can do is wait. Let's pray that there aren't any more victims."
+#Satoshi
+"...I understand."
+I guess all I can do is endure tonight...
+#Satoshi
+"Well then, Souko-san, good night. ...Excuse me."
+#Souko
+"Yeah, good night."

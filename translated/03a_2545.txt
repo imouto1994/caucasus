@@ -1,81 +1,82 @@
-恒星さんの部屋まで戻ってきた。
-この鍵は本当に使えるのだろうか……
-＃なるみ
-「何が出てくるのかしらね……」
-＃主人公
-「さあ……」
-暖炉の床に鍵を差し込む。
-回った。
-少しだけ蓋になっている床が持ち上がる。
-＃主人公
-「……開けます」
-唾を飲み込み、蓋に手を掛ける。
-＃主人公
-「これは……」
-ぽっかりと黒い穴が開いていた。
-＃なるみ
-「煙突……いや、梯子が付いてるわね」
-壁面に足をかける鉄棒がずっと下まで続いているようだ。
-＃なるみ
-「開けたらすぐにお宝があると思ってたんだけどねえ……」
-＃主人公
-「どうしましょうか……？」
-＃なるみ
-「ここまでやって引き返すわけにはいかないでしょ」
-＃主人公
-「そうですよね……でも、この部屋の下って聖堂でしたよね？」
-＃なるみ
-「……多分祭壇の裏を通っているんだと思うわ。行き先は恐らく地下でしょうね」
-＃主人公
-「確かに、そのくらいしかありませんよね……」
-いったい何があるのだろうか……
-＃主人公
-「降りてみましょう」
-＃なるみ
-「……そうね」
-懐中電灯を携えて穴に潜り込む。
-結構狭い……下を照らす余裕もない。
-＃なるみ
-「上見ないでよ」
-＃主人公
-「どうせ真っ暗で見えませんよ」
-続けて降りてくるなるみさんに向かって言う。
-＃なるみ
-「気分の問題よ」
-＃主人公
-「……それよりも、出られなくなったりしませんよね？」
-＃なるみ
-「止めてよそういうの」
-＃主人公
-「だって、犯人はまだ居るはずなんですよ。ぼくらがこんな所に居るのが知れたら……」
-＃なるみ
-「上の部屋の鍵は内側から掛けておいたから大丈夫よ。たぶん」
-＃主人公
-「信じてますよ……あ、着いたみたいです」
-足が床についた。
-＃主人公
-「ここは……」
-見た感じ、普通の部屋だった。
-ただ、この館にある部屋とは趣を異にしていた。
-窓がない――のは当然か。
-壁も余計な装飾は一切無く、煉瓦が剥き出しになっている。
-机と椅子、いくつかの棚があるだけだった。
-＃なるみ
-「こんな部屋があったなんてね……」
-なるみさんが言葉を洩らす。
-＃主人公
-「これは……」
-装丁の凝った手帳が机の上に置かれている。
-＃主人公
-「日記か何かのようですね……」
-＃なるみ
-「何が書かれているの？」
-なるみさんが覗き込んでくる。
-＃主人公
-「ちょっと待ってください……暗くて読めませんよ、ここじゃ」
-＃なるみ
-「あとで上に戻ってから読みましょうか」
-＃主人公
-「恒星さんは何を伝えたかったんでしょうか……」
-＃なるみ
-「調べればわかることよ」
+
+We returned to Mr. Kousei's room.
+I wonder if this key will actually work...
+#Narumi
+"I wonder what's going to come out..."
+#Main Character
+"Who knows..."
+I inserted the key into the floor of the fireplace.
+It turned.
+The part of the floor that acted as a lid lifted slightly.
+#Main Character
+"...I'm opening it."
+I swallowed hard and placed my hands on the lid.
+#Main Character
+"This is..."
+A dark hole gaped open.
+#Narumi
+"A chimney... no, there's a ladder attached."
+Iron rungs to step on were attached to the wall, continuing all the way down.
+#Narumi
+"I thought there'd be treasure right as we opened it..."
+#Main Character
+"What should we do...?"
+#Narumi
+"We can't exactly turn back now after coming this far, can we?"
+#Main Character
+"You're right... but wait, wasn't the chapel directly below this room?"
+#Narumi
+"...It's likely passing behind the altar. It probably leads to the basement."
+#Main Character
+"True, that's really the only place it could go..."
+I wonder what on earth is down there...
+#Main Character
+"Let's head down."
+#Narumi
+"...Right."
+Carrying a flashlight, I climbed into the hole.
+It's quite narrow... I didn't even have room to shine the light downward.
+#Narumi
+"Don't look up."
+#Main Character
+"It's pitch black; I can't see anything anyway,"
+I said to Narumi-san as she followed me down.
+#Narumi
+"It's a matter of principle."
+#Main Character
+"...More importantly, we won't get trapped down here, will we?"
+#Narumi
+"Stop saying things like that."
+#Main Character
+"But the culprit is still out there. If they find out we're in a place like this..."
+#Narumi
+"I locked the door to the room above from the inside, so it'll be fine. Probably."
+#Main Character
+"I'm counting on that... Oh, I think I've reached the bottom."
+My feet touched the floor.
+#Main Character
+"This is..."
+At first glance, it looked like an ordinary room.
+However, it had a different atmosphere from the other rooms in this mansion.
+No windows窶背hich was to be expected.
+There were no unnecessary decorations on the walls, leaving the brick exposed.
+There was only a desk, a chair, and several shelves.
+#Narumi
+"To think a room like this existed..."
+Narumi-san whispered.
+#Main Character
+"This is..."
+An elaborately bound notebook was sitting on the desk.
+#Main Character
+"It looks like a diary or something..."
+#Narumi
+"What's written in it?"
+Narumi-san peered over.
+#Main Character
+"Wait a second... it's too dark to read it here."
+#Narumi
+"Shall we read it after we get back upstairs?"
+#Main Character
+"What could Kousei-san have wanted to tell us...?"
+#Narumi
+"We'll find out once we look into it."

@@ -1,32 +1,32 @@
-ŠK’i‚ğã‚ª‚Á‚Ä‚¢‚Á‚½‚¾‚Á‚½B
-”g
-u‚ñ\\Hv
-g‚³‚ñ‚ª—§‚Á‚Ä‚¢‚½B
-”ålŒö
-u‚ Ag‚³‚ñ\\v
-”g
-u‰½‚ğ‚µ‚Ä‚¢‚½Hv
-‚Ú‚­‚ÌŒ¾—t‚ğÕ‚èAg‚³‚ñ‚ªq‚Ë‚Ä‚«‚½B
-”ålŒö
-u‚¦A‰½‚ğ‚Á‚Äcc’Ò‘º‚³‚ñ‚Æ˜b‚µ‚Ä‚¢‚½‚¾‚¯‚Å‚·‚æv
-”g
-u’Ò‘º‚ÆH@cc‚»‚¤‚©v
-”ålŒö
-u‚ ‚ÌA‰½‚©Hv
-”g
-u‚¢‚âA‚È‚ñ‚Å‚à‚È‚¢v
-‚¼‚ñ‚´‚¢‚ÈŒû’²‚Ì‚Ü‚Üg‚³‚ñ‚Íñ‚ğU‚éB
-‚Ç‚¤‚à–Ú‚ªÀ‚Á‚Ä‚¢‚é‚æ‚¤‚È‹C‚ª‚·‚éB
-”ålŒö
-u‚à‚µ‚©‚µ‚Äcc–°‚¢‚ñ‚Å‚·‚©Hv
-”g
-u‚«‚İ‚Í‰½ŒÌŒ¾‚í‚¸‚à‚ª‚È‚Ì‚±‚Æ‚ğq‚Ë‚é‚ñ‚¾H@‚±‚ÌŠÔ‚É–°‚­‚È‚ç‚È‚¢“z‚ª‚ ‚é‚©v
-”ålŒö
-u‚»A‚»‚¤‚Å‚·‚æ‚Ëccv
-‚¶‚á‚ ‚È‚ñ‚Å˜L‰º‚Éo‚Ä‚«‚Ä‚¢‚é‚ñ‚¾‚ë‚¤B
-”g
-u‚Í‚Ócc‚ñA×–‚‚µ‚½‚Èv
-g‚³‚ñ‚Í‚»‚Ì‚Ü‚Ü‚«”²‚¯‚ğ‚®‚é‚è‚Æü‚èA“Œ‘¤‚Ì˜L‰º‚Ös‚Á‚Ä‚µ‚Ü‚Á‚½B
-”ålŒö
-ucc‚ A‚È‚é‚Ù‚Çv
-ƒgƒCƒŒ‚Í‚»‚Á‚¿‚É‚µ‚©‚È‚¢‚ç‚µ‚¢‚©‚ç‚È‚ B
+It happened just as I was heading up the stairs.
+#Benio
+"Hmâ€”?"
+Benio-san was standing there.
+#Protagonist
+"Ah, Benio-sanâ€”"
+#Benio
+"What were you doing?"
+Benio-san cut me off with a question.
+#Protagonist
+"Eh, what was I...? I was just talking to Tsujimura-san."
+#Benio
+"To Tsujimura? ...I see."
+#Protagonist
+"Um, is something wrong?"
+#Benio
+"No, it's nothing."
+Benio-san shook her head, her tone still blunt.
+I felt like her eyes were a bit glazed.
+#Protagonist
+"Are you... tired?"
+#Benio
+"Why do you insist on asking the obvious? Is there anyone who wouldn't be tired at this hour?"
+#Protagonist
+"Y-yeah, I guess you're right..."
+Then why was she out in the hallway?
+#Benio
+"Sigh... well, sorry for bothering you."
+Benio-san walked around the atrium and disappeared into the east hallway.
+#Protagonist
+"...Ah, I see."
+The restroom was only on that side, after all.

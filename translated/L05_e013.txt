@@ -1,0 +1,24 @@
+#Souko
+"...There's no doubt her neck was severed in the attic. However... I wonder where her head went..."
+#Satoshi
+"True..."
+#Benio
+"It seems certain my sister was killed in the attic. But... for a head to vanish once again..."
+#Satoshi
+"True..."
+#Tsujimura
+"...I do not know anything regarding that."
+#Satoshi
+"Yeah..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"I don't really know about that."
+#Satoshi
+"I see..."

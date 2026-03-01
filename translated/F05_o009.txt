@@ -1,0 +1,40 @@
+#Souko
+"Perhaps the bell won't ring anymore."
+#Protagonist
+"You're right."
+#Maya
+"The clock is broken... and we can't fix it right away..."
+#Protagonist
+"I see."
+#Ai
+"I’d rather not talk about that place..."
+#Protagonist
+"I understand..."
+#Benio
+"The gears are broken. It won't be good for anything for a while."
+#Protagonist
+"...I see."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Protagonist
+"I see..."
+#Tsujimura
+"The clock is broken, you see... we'll just have to leave it like that for now."
+#Protagonist
+"I see."
+#Takamine
+"The culprit might have timed their trap to coincide with the ringing of the bell."
+#Protagonist
+"You're right..."
+#Mikanagi
+"...The clock likely won't be usable for a while."
+#Protagonist
+"Right."
+#Akane
+"...Perhaps the clock will be left just as it is."
+#Protagonist
+"...I see."
+#Narumi
+"It's a clock that no one looks at anyway. There will be a police investigation too, so it'll probably stay like that for a while."
+#Protagonist
+"...I see."

@@ -1,0 +1,40 @@
+#Souko
+"If they were cut intentionally... it must be the work of the culprit."
+#Protagonist
+"I suppose so..."
+#Maya
+"The phone lines were cut...? Whatever shall we do...?"
+#Protagonist
+"Yeah..."
+#Ai
+"What shall we do now...?"
+#Protagonist
+"I don't know..."
+#Benio
+"The phone lines were likely cut to sever all communication with the outside world. This isn't over yet..."
+#Protagonist
+"Right..."
+#Shion
+"The phones aren't working... I've never used one, so I don't really understand..."
+#Protagonist
+"I see..."
+#Tsujimura
+"If the phone lines were cut along with the suspension bridge... it would be difficult for an amateur to restore them..."
+#Protagonist
+"I suppose so..."
+#Takamine
+"The phone lines were cut at the suspension bridge. It was likely done by the same person."
+#Protagonist
+"Right..."
+#Mikanagi
+"If the phones aren't working, we can't call the police... It will be a problem if anything else happens..."
+#Protagonist
+"Right..."
+#Akane
+"What are we going to do now...?"
+#Protagonist
+"I'm not sure..."
+#Narumi
+"...If the lines are cut, we can't report it to the police. We're completely isolated now."
+#Protagonist
+"Right..."

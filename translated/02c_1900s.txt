@@ -1,45 +1,45 @@
-室内へ戻る扉だ。
-床とのわずかな隙間から、電気のコードが入ってきている。
-扉自体には、特に問題はないと思う。
-壁に掛けられているタオルに、紙切れのような小さなゴミが張り付いていた。
-特に何でもないようだけど……
-タオルに返り血などは付着していないようだ。
-＃主人公
-「これが漏電の原因でしょうか……」
-＃想子
-「恐らくそうでしょうね……」
-浴槽に浸けられていた電源コードが漏電の原因のようだ。
-＃主人公
-「……スノードロップですね」
-真っ赤に染まった浴槽の中に白い花が一輪浮かんでいた。
-＃主人公
-「六曜さんの時と同じでしょうか……？」
-＃想子
-「恐らくそうでしょうね……」
-＃主人公
-「この花は……？」
-真っ赤に染まった浴槽の中に白い花が一輪浮かんでいた。
-どうしてこんな所に……
-＃想子
-「スノードロップね。ホールに生けてあったけど……花の部分だけ落ちているのは、首のない遺体の暗喩かしら……」
-＃主人公
-「……厭な感じですね」
-浴槽にスノードロップの花が浮いている。
-＃御巫
-「……検視は引き上げてからにしましょう」
-＃主人公
-「……そうですね」
-……遺体の検分は後にしよう。
-＃主人公
-「……首を切った時に飛んだんでしょうね」
-＃想子
-「でも……また頭部が無いわ」
-＃主人公
-「持ち出したんでしょうか……」
-＃想子
-「理由がわからないわ。この遺体が藍さん以外だったりしない限りは」
-＃御巫
-「……藍さんで間違いないと思いますよ。彼女の診察もしていましたから見間違える事はないでしょう」
-＃主人公
-「そうですか……」
-……おそらく、ここで首を切断したのだろう。
+It's the door leading back into the room.
+An electric cord is coming in through the slight gap between the door and the floor.
+I don't think there's any particular problem with the door itself.
+On a towel hanging on the wall, a small piece of trash like a scrap of paper was stuck.
+It doesn't seem to be anything special, but窶ｦ窶ｦ
+There doesn't seem to be any back-spray from the blood on the towel.
+#Satoshi
+"Was this the cause of the short circuit窶ｦ窶ｦ?"
+#Souko
+"Presumably so."
+It seems the power cord submerged in the tub was the cause of the short circuit.
+#Satoshi
+"窶ｦ窶ｦA snowdrop."
+A single white flower was floating in the blood-red bathtub.
+#Satoshi
+"Is it the same as with Rokuyou-san窶ｦ窶ｦ?"
+#Souko
+"Likely so."
+#Satoshi
+"This flower is窶ｦ窶ｦ?"
+A single white flower was floating in the blood-red bathtub.
+Why would it be in a place like this窶ｦ窶ｦ
+#Souko
+"It's a snowdrop. There were some arranged in the hall窶ｦ窶ｦ I wonder if the fact that only the flower head has fallen is a metaphor for the headless body窶ｦ窶ｦ"
+#Satoshi
+"窶ｦ窶ｦThat's a gruesome thought."
+A snowdrop flower is floating in the tub.
+#Mikanagi
+"窶ｦ窶ｦLet's wait until after we've pulled her out to perform the autopsy."
+#Satoshi
+"窶ｦ窶ｦYou're right."
+窶ｦ窶ｦI'll leave the examination of the body for later.
+#Satoshi
+"窶ｦ窶ｦThe blood must have sprayed when the neck was cut."
+#Souko
+"But窶ｦ窶ｦ the head is missing again."
+#Satoshi
+"Did they take it with them窶ｦ窶ｦ?"
+#Souko
+"I don't understand the reason. Unless this body belongs to someone other than Ai-san."
+#Mikanagi
+"窶ｦ窶ｦI'm certain it's Ai-san. I've examined her before, so I wouldn't mistake her."
+#Satoshi
+"I see窶ｦ窶ｦ"
+窶ｦ窶ｦThey likely decapitated her here.

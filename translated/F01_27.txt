@@ -1,0 +1,30 @@
+I've arrived at Souko-san's room.
+I knock lightly on the door.
+#Souko
+"Oh, it's you. What is it?"
+#Satoshi
+"Could we talk for a moment?"
+#Souko
+"I don't mind."
+With that, Souko-san led me into the room.
+#Souko
+"So, did you find anything out?"
+#Satoshi
+"I'm still in the middle of investigating."
+#Souko
+"I see. Well, it's not like the mystery of the curse will be solved all at once."
+#Satoshi
+"So, about that..."
+I've come to Souko-san's room.
+I knock lightly on the door.
+#Souko
+"What, you again? What is it?"
+#Satoshi
+"Could we talk for a moment?"
+#Souko
+"Yes, that's fine."
+With that, Souko-san led me into the room.
+#Souko
+"What is it this time?"
+#Satoshi
+"Uh... well..."

@@ -1,10 +1,10 @@
-部屋に戻ってきた。
-扉に鍵を掛け、ベッドに倒れ込む。
-＃主人公
-「はあっ……」
-もう寝てしまおう。
-さすがにもう身体はくたくただ。
-何かあったときすぐに動けるよう、靴や服の用意を調えておく。
-何も起こらないのが一番いいのだけど……
-目を閉じて身体の力を抜くと、眠気が襲ってきた。
-それに抗うことなど出来ず、ぼくの意識は急激に遠ざかっていった。
+I returned to my room.
+I locked the door and flopped down onto the bed.
+#Satoshi
+"Haa..."
+I'll just go to sleep.
+My body is well and truly exhausted.
+I made sure my shoes and clothes were ready so I could move immediately if something happened.
+It would be best if nothing happened...
+When I closed my eyes and let my body go limp, drowsiness washed over me.
+Unable to resist it, my consciousness rapidly drifted away.

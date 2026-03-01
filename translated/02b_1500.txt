@@ -1,45 +1,45 @@
-厨房の前まで来てなるみさんが立ち止まった。
-＃なるみ
-「皆さんは大食堂へ。あたしが昼食を持っていきますから」
-＃あかね
-「わかりました」
-＃主人公
-「あ、ぼくも手伝います」
-ぼくは数歩前に出てなるみさんと並んだ。
-＃なるみ
-「ん……？　まあいいわ、じゃあ手伝って」
-＃主人公
-「ええ」
-なるみさんは厨房への扉を開けた。
-＃なるみ
-「――監視のつもり？」
-ふたりきりになるなり、なるみさんがそう切り出してきた。
-＃主人公
-「違いますよ」
-＃なるみ
-「どうだか。あたしが毒を盛るとか思ってるんじゃないの？」
-＃主人公
-「そんなこと思いませんよ。だって、料理に毒が入っていたらまっさきに疑われるのはなるみさん本人じゃないですか」
-＃なるみ
-「そんな莫迦な真似はしないって？」
-＃主人公
-「ええ……」
-＃なるみ
-「……あの弁護士よりはまともに物事を考えてそうね」
-なるみさんが息を吐く。
-＃主人公
-「高嶺さんですか？　……確かにさっきは険悪そうでしたけど……」
-＃なるみ
-「でかい図体して肝っ玉が小さいのよ、あの人」
-なるみさんが毒づく。
-＃主人公
-「と、とにかく料理を持っていきましょうよ」
-＃なるみ
-「あ、そうね。ちょっと待ってて」
-そう言ってなるみさんはかまどへ向かった。
-鍋を使ってご飯を温め直すようだ。
-＃なるみ
-「じゃあお皿に盛ったのから食堂へ持っていって貰える？」
-＃主人公
-「わかりました」
-ぼくはチャーハンの皿を何枚か持って食堂へ向かった。
+Narumi-san stopped in front of the kitchen.
+#Narumi
+"Everyone else, to the dining hall. I'll bring lunch over."
+#Akane
+"Understood."
+#Satoshi
+"Ah, I'll help too."
+I stepped forward a few paces and stood beside Narumi-san.
+#Narumi
+"Hmm...? Fine, help me then."
+#Satoshi
+"Yeah."
+Narumi-san opened the door to the kitchen.
+#Narumi
+"窶尿re you planning to keep an eye on me?"
+As soon as we were alone, Narumi-san brought it up.
+#Satoshi
+"That's not it."
+#Narumi
+"I wonder. You don't think I'm going to poison the food, do you?"
+#Satoshi
+"I don't think that. After all, if the food was poisoned, the first person to be suspected would be you, Narumi-san."
+#Narumi
+"So you're saying I wouldn't do something so stupid?"
+#Satoshi
+"Yeah..."
+#Narumi
+"...You seem to think more rationally than that lawyer."
+Narumi-san let out a breath.
+#Satoshi
+"You mean Takamine-san? ...Things certainly seemed tense earlier..."
+#Narumi
+"He has a big frame but a small heart, that man."
+Narumi-san spat out.
+#Satoshi
+"A-Anyway, let's take the food over."
+#Narumi
+"Ah, right. Just wait a second."
+Saying so, Narumi-san headed toward the stove.
+It seemed she was reheating the rice in a pot.
+#Narumi
+"Well then, could you start taking the plates I've served to the dining hall?"
+#Satoshi
+"Understood."
+I took several plates of fried rice and headed to the dining hall.

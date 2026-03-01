@@ -1,41 +1,42 @@
-ˆêŠK–k‚Ìˆê”Ô‰œB
-¹“°‚Ì”à‚Í‚µ‚Á‚©‚è‚ÆŒ®‚ªŠ|‚¯‚ç‚ê‚Ä‚¢‚½B
-”ålŒö
-u‚È‚é‚İ‚³‚ñA‚¨Šè‚¢‚µ‚Ü‚·v
-”‚È‚é‚İ
-ucc‚Í‚¢‚Í‚¢v
-‚È‚é‚İ‚³‚ñ‚ªj‹à‚Ì‚æ‚¤‚È‚à‚Ì‚ğæ‚èo‚µ‚ÄŒ®ŒŠ‚É·‚µ‚ŞB
-”‚È‚é‚İ
-u’N‚©—ˆ‚È‚¢‚©Œ©’£‚Á‚Ä‚Ä‚æv
-”ålŒö
-u‘åä•v‚Å‚·‚æv
-‚—ä‚³‚ñ‚ª“Ë‘R•”‰®‚©‚ço‚Ä‚«‚½‚è‚³‚¦‚µ‚È‚¯‚ê‚ÎB
-”‚È‚é‚İ
-uŠJ‚¢‚½‚í‚æv
-‚È‚é‚İ‚³‚ñ‚ª—§‚¿ã‚ª‚éB
-”ålŒö
-ucc‘‚¢‚Å‚·‚Ëv
-”‚È‚é‚İ
-u‚¢‚¢‚©‚ç‘‚­’†‚É“ü‚Á‚Äv
-‚È‚é‚İ‚³‚ñ‚É’Ç‚¢—§‚Ä‚ç‚ê‚é‚æ‚¤‚ÉAŠJ‚¢‚½”à‚©‚ç’†‚É“ü‚Á‚½B
-‚±‚±‚Í‰½‚à•Ï‚í‚ç‚È‚¢B
-‚¢‚Â‚Å‚àÃâ‚ğ•Û‚Á‚Ä‚¢‚é‚æ‚¤‚¾B
-”‚È‚é‚İ
-u‚ ‚Ü‚è‚Ú‚¤‚Á‚Æ‚µ‚Ä‚¢‚é‰É‚Í‚È‚¢‚í‚æv
-”ålŒö
-u‚¦‚¦cc‚Ü‚¸‚Í’g˜F‚ğ\\v
-º“à‚ğŒ©‰ñ‚µ‚ÄA‰‚ß‚Ä‹C•t‚­B
-”ålŒö
-u‚ ‚è‚Ü‚¹‚ñ‚Ëcc’g˜Fv
-”‚È‚é‚İ
-ucc‚»‚¤‚ËBˆÃ†‚ª¦‚µ‚Ä‚¢‚½‚Ì‚Í‚±‚±‚¶‚á‚È‚¢‚ñ‚¾‚Æv‚¤‚ív
-”ålŒö
-u‚¶‚á‚ ‚â‚Á‚Ï‚ècc‹qº‚Ì‚Ç‚±‚©‚Å‚·‚©Hv
-”‚È‚é‚İ
-uˆÃ†‚Ì“Ç‚İ•û‚ªŠÔˆá‚Á‚Ä‚¢‚½‚Ì‚©‚à‚µ‚ê‚È‚¢‚í‚Ëv
-”ålŒö
-u‰½ˆ‚©‚Ì’g˜F‚É‰½‚©‚ª‚ ‚é‚±‚Æ‚ÍŠÔˆá‚¢‚È‚¢‚Æv‚¢‚Ü‚·‚©‚çA•Ğ‚Á’[‚©‚ç’²‚×‚Ä‚İ‚Ü‚µ‚å‚¤‚©Hv
-”‚È‚é‚İ
-u‚Æ‚Í‚¢‚Á‚Ä‚à‚Ë‚¦ccl‚ª‹‚È‚¢Š‚ğ‘_‚¤‚µ‚©‚È‚¢‚Å‚µ‚å‚¤‚Ëv
-”ålŒö
-u‚»‚¤‚Å‚·‚Ëccs‚«‚Ü‚µ‚å‚¤v
+
+The very back of the first floor north.
+The door to the chapel was firmly locked.
+#Main Character
+"Narumi-san, if you would."
+#Narumi
+"...Yeah, yeah."
+Narumi-san took out something like a wire and inserted it into the keyhole.
+#Narumi
+"Keep a lookout and make sure no one comes."
+#Main Character
+"Don't worry."
+As long as Takamine-san doesn't suddenly walk out of his room.
+#Narumi
+"It's open."
+Narumi-san stood up.
+#Main Character
+"...That was fast."
+#Narumi
+"Just get inside, quickly."
+Urged on by Narumi-san, I stepped through the open door.
+Nothing has changed here.
+It seems to always maintain its silence.
+#Narumi
+"We don't have time to just stand around."
+#Main Character
+"Right... first, the fireplaceâ€”"
+I looked around the room, and only then did I realize.
+#Main Character
+"There isn't one... a fireplace."
+#Narumi
+"...You're right. I guess this wasn't what the code was pointing to."
+#Main Character
+"Then is it... somewhere in the guest rooms after all?"
+#Narumi
+"Maybe we misread the code."
+#Main Character
+"I'm certain there's something in one of the fireplaces, so shall we just check them all?"
+#Narumi
+"Even if we do... we'll have to aim for places where there aren't any people."
+#Main Character
+"Right... let's go."

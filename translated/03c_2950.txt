@@ -1,62 +1,62 @@
-@p‚ªŒ©‚¦‚È‚­‚È‚Á‚½B
-@‘zq‚Í—¼‹r‚Å°‚ğ“¥‚İ‚µ‚ßA—§‚Á‚Ä‚¢‚½B
-@°‚ÉË‚ê•š‚µ‚½–€–é‚Í‚à‚¤“®‚©‚È‚¢B
-@‚à‚Á‚Æ‹ê‚µ‚ñ‚Å—~‚µ‚©‚Á‚½B
-@•ê‚ª‹ê‚µ‚ñ‚¾‚æ‚¤‚É\\
-@”’á•P‚ğ‰Õ‚ß‚½Œp•ê‚ÍAÄ‚¯‚½“S‚ÌŒC‚ğ—š‚¢‚Ä€‚Ê‚Ü‚Å—x‚ç‚³‚ê‚é‚Ì‚¾‚©‚ç\\
-@Œû‚ğŠJ‚­‚ÆA‰Š‚Ì”M‹C‚ª”S–Œ‚ğÅ‚ª‚·‚æ‚¤‚¾‚Á‚½B
-@“”–û‚ÌL‚¢‚à‚à‚¤‹C‚É‚È‚ç‚È‚¢B
-@‚»‚ê‚Å‚à‘zq‚Í‰Ì‚¢‘±‚¯‚½B
-@‚»‚ê‚ª•ê‚Ö‚ÌAE‚µ‚Ä‚µ‚Ü‚Á‚½–…‚Ö‚Ì’Á°‰Ì‚É‚È‚é‚ÆM‚¶‚ÄB
-@á‚ªÏ‚à‚Á‚Ä‚¢‚½B
-@ˆê–Ê‚ÌáŒiFA
-@‚»‚Ì’†‚ÅA”’‚¢‰Ô‚ªç‚«—‚ê‚Ä‚¢‚½B
-@á‚ğ‘~‚«•ª‚¯‚Ä­—‚ª‚Ó‚½‚èA‰Ô‚É‹ß•t‚¢‚Ä‚­‚éB
-u‚Ü‚Á‚Ä‚æ‚£\\v
-u‘‚­‚¨‚¢‚Å‚æIv
-u‚Ó‚Ó‚Á\\v
-@Œ©ç‚é•êeB
-@‚Ó‚½‚è‚Ì­—‚Í‹»–¡[‚»‚¤‚ÉAá‚Ì–ìŒ´‚Éç‚­‰Ô‚ğ’­‚ß‚Ä‚¢‚½B
-u‚Ë‚¦‚¨•ê‚³‚Üv
-@F”’‚Ì­—‚ªU‚è•Ô‚èA•êe‚ğŒÄ‚ÔB
-u‚È‚ ‚ÉHv
-u‚±‚Ì‚¨‰ÔA‚¨–¼‘O‚ÍHv
-u‚Ç‚¤‚µ‚ÄŠ¦‚¢‚Ì‚Éç‚¢‚Ä‚é‚ÌHv
-@‚Ó‚½‚è‚Ìq‹Ÿ‚Í–îŒp‚¬‘‚É¿–â‚ğ“Š‚°‚©‚¯‚éB
-u‚ ‚ç‚ ‚çccv
-@•êe‚ÍÎ‚¢‚È‚ª‚ç‰Ô‚Ì–T‚É‚µ‚á‚ª‚İ‚ñ‚¾B
-@‚Ó‚½‚è‚Ì­—‚àW‚Ü‚Á‚Ä‚­‚éB
-u‚±‚Ì‚¨‰Ô‚Í‚ËAƒXƒm[ƒhƒƒbƒv‚Æ‰]‚¤‚Ì‚æv
-u‚·‚Ì[Hv
-u‚»‚¤AƒXƒm[ƒhƒƒbƒvB‚±‚Ì‚¨‰Ô‚Í‚ËA‚à‚¤‚·‚®t‚¾‚æ‚Á‚Ä‹³‚¦‚Ä‚­‚ê‚Ä‚¢‚é‚Ì‚æv
-ut‚ª—ˆ‚é‚ÌHv
-u‚»‚¤‚æBÌX‚ËAá‚É‚ÍF‚ª–³‚©‚Á‚½‚ÌB‚¹‚Á‚©‚­~‚Á‚Ä‚àA’N‚É‚àŒ©‚¦‚È‚©‚Á‚½‚Ì‚æv
-u‚»‚¤‚È‚ÌHv
-u‚»‚ê‚ÅAá‚Íâ‚µ‚­‚È‚Á‚ÄA_—l‚É‚¨Šè‚¢‚µ‚½‚ÌB©•ª‚É‚àF‚ª—~‚µ‚¢‚Á‚Äv
-uŒ©‚ç‚ê‚½‚©‚Á‚½‚ÌHv
-u‚¦‚¦A‚»‚¤B_—l‚Í‘¼‚Ì‚¨‰Ô‚©‚çF‚ğ–á‚¢‚È‚³‚¢‚Á‚ÄŒ¾‚Á‚½‚Ì‚æv
-u‚à‚ç‚¦‚½‚ÌHv
-u‚¦‚¦BƒXƒm[ƒhƒƒbƒv\\‚±‚Ì‚¨‰Ô‚ª‚ËA‚»‚ê‚È‚ç„‚ÌF‚ğ‚³‚µã‚°‚Ü‚·‚ÆŒ¾‚Á‚ÄA”’‚¢F‚ğá‚É•ª‚¯‚Ä‚ ‚°‚½‚Ìv
-u‚Ö‚¦cc‚æ‚©‚Á‚½‚Ëv
-u‚â‚³‚µ‚¢‚ñ‚¾‚Ëv
-u‚»‚¤‚Ëcc‚ ‚È‚½‚½‚¿‚àA‚±‚Ì‚¨‰Ô‚Ì‚æ‚¤‚ÉA¢‚Á‚Ä‚¢‚él‚ª‚¢‚½‚ç•‚¯‚Ä‚ ‚°‚Ä‚ËccHv
-u‚¤‚ñ‚ÁIv
-u‚¤‚ñ‚ÁI@‚Ë‚¦‚¨•ê‚³‚ÜA‚¨‰Ì‚¤‚½‚Á‚ÄIv
-u‚¦‚¦A‚¢‚¢‚í‚æv
-@•êe‚Í‚ä‚Á‚­‚è‚ÆA—D‚µ‚¢‰Ìº‚ğ‹¿‚©‚¹‚éB
-@‚¶‚ñ‚í‚è‚ÆS‚Éõ‚İ“n‚é‰ÌB
-@@\\‚Ç‚¤‚µ‚ÄA„‚Í–Y‚ê‚Ä‚¢‚½‚Ì‚¾‚ë‚¤B
-u‚Ç‚¤‚µ‚Ä\\v
-@‚Ç‚¤‚µ‚ÄA‚±‚ñ‚È–‚ğ¡Xv‚¢o‚µ‚Ä‚µ‚Ü‚Á‚½‚Ì‚¾‚ë‚¤B
-@”’‚¢á‚Ì¢ŠE‚ÍÁ‚¦AÔ‚¢¢ŠE‚ª–ß‚Á‚Ä‚«‚½B
-@‚à‚¤º‚Ío‚Ä‚¢‚È‚¢B
-@è‘«‚ÌŠ´Šo‚à‚È‚¢B
-@‚»‚ê‚Å‚à”Ş—‚Í—§‚Á‚Ä‚¢‚½B
-@‚±‚ñ‚È‚Éˆ£‚µ‚¢‚Ì‚ÉA—Ü‚Ío‚È‚©‚Á‚½B
-@g‘Ì‚Ì…•ª‚Í‘S‚Äö”­‚µ‚Ä‚µ‚Ü‚Á‚½B
-@‚»‚ê‚Å‚à\\‚Ü‚¾‰S‚Á‚Ä‚¢‚½‚©‚Á‚½B
-@“Vˆä‚ª•ö‚ê‚Ä‚«‚½B
-@‚±‚ê‚ÅA‘S‚Ä‚ªI—¹‚·‚éB
-@•œQ‚ğŠ®‹o—ˆ‚È‚©‚Á‚½‚Ì‚Íc”O‚¾‚¯‚Ç\\
-@@‚»‚ê‚Å‚à”Ş—‚Í–‘«‚µ‚Ä‚¢‚½B
-@‚½‚¾‚Ğ‚Æ‚ÂA‰Âˆ¤‚¢Œã”y‚ğ‹\‚¢‚Ä‚¢‚½–‚ğœ‚¢‚Ä‚ÍB
+  They were gone.
+  Souko stood firmly on the floor.
+  Maya, who had fallen to the floor, was no longer moving.
+  I wanted her to suffer more.
+  Just as my mother sufferedâ€”
+  The stepmother who tormented Snow White was forced to dance in red-hot iron shoes until she diedâ€”
+  When she opened her mouth, the heat of the flames felt as if it were scorching her mucous membranes.
+  She no longer cared about the smell of kerosene either.
+  Still, Souko continued to sing.
+  Believing it would be a requiem for her mother, and for the sister she had killed.
+  Snow had piled up.
+  A landscape of snow as far as the eye could see.
+  In the midst of it, white flowers were blooming in profusion.
+  Two girls pushed through the snow, approaching the flowers.
+  "Wait for meâ€”"
+  "Come on, hurry up!"
+  "Giggleâ€”"
+  A mother watching over them.
+  The two girls gazed with interest at the flowers blooming in the snowy field.
+  "Hey, Mommy."
+   the pale-skinned girl turned back and called to her mother.
+  "Yes?"
+  "What's the name of this flower?"
+  "Why is it blooming even though it's cold?"
+  The two children threw questions in rapid succession.
+  "Oh my..."
+  The mother smiled and knelt beside the flower.
+  The two girls also gathered around.
+  "This flower is called a snowdrop."
+  "Snow-y?"
+  "Yes, a snowdrop. This flower tells us that spring is almost here."
+  "Spring is coming?"
+  "That's right. A long, long time ago, snow had no color. Even if it fell, no one could see it."
+  "Really?"
+  "So the snow grew lonely and asked God. It said it wanted a color for itself too."
+  "It wanted to be seen?"
+  "Yes, that's right. God told it to get a color from the other flowers."
+  "Did it get one?"
+  "Yes. The snowdropâ€”this flower said, 'In that case, I will give you my color,' and shared its white color with the snow."
+  "Wow... that's nice."
+  "It's so kind."
+  "Yes... I want you two to be like this flower and help people when they're in trouble, okay...?"
+  "Yeah!"
+  "Yeah! Hey Mommy, sing us a song!"
+  "Alright, of course."
+  The mother slowly began to sing with a gentle voice.
+  A song that seeped into the heart.
+  $ â€”Why had I forgotten?
+  "Whyâ€”"
+  Why did I only remember this now?
+  The world of white snow vanished, and the world of red returned.
+  Her voice was no longer coming out.
+  She had no sensation in her limbs.
+  Still, she stood.
+  Even though she was so sad, no tears came.
+  All the moisture in her body had evaporated.
+  Stillâ€”she wanted to keep singing.
+  The ceiling began to collapse.
+  With this, everything would end.
+  It was a shame she couldn't complete her revengeâ€”
+  $ Still, she was satisfied.
+  Except for the one thing: deceiving her cute junior.

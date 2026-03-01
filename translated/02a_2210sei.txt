@@ -1,28 +1,28 @@
-一階の北側にある辻村さんの部屋までやって来た。
-＃主人公
-「辻村さん、ぼくです」
-扉が開いて辻村さんが廊下に出てきた。
-＃辻村
-「どうなされましたか？」
-＃主人公
-「あの、今晩はこちらで辻村さんを犯人から守ろうと思います」
-＃辻村
-「はあ……？　しかし、私などが犯人に狙われるという確証でもあるのですか？」
-＃主人公
-「……それはわかりません。ですが……今この状況だと、誰が狙われてもおかしくはありませんから」
-＃辻村
-「ははっ……私は大丈夫ですよ。それに、館内を見回るのは私の役割ですからね」
-＃主人公
-「ですが……」
-＃辻村
-「あなたはお客様なのですから、お部屋でゆっくりお休み下さい。何かありましたらお知らせいたしますので」
-＃主人公
-「そうですか……」
-そう言われては返す言葉もない。
-＃主人公
-「……それでは失礼します。あの、変なことを言い出してしまい申し訳ありませんでした」
-＃辻村
-「いえいえ、お気になさらず。ではおやすみなさいませ」
-＃主人公
-「……ふう」
-仕方ない、部屋に戻って休む事にしよう。
+I arrived at Tsujimura-san's room on the north side of the first floor.
+#Satoshi
+"Tsujimura-san, it's me."
+The door opened, and Tsujimura-san stepped out into the hallway.
+#Tsujimura
+"Is something the matter?"
+#Satoshi
+"Um, I've decided to stay here tonight to protect you from the culprit, Tsujimura-san."
+#Tsujimura
+"Pardon...? But is there even any proof that someone like myself would be targeted by the culprit?"
+#Satoshi
+"...I don't know for sure. But... given the current situation, it wouldn't be strange no matter who's being targeted."
+#Tsujimura
+"Haha... I'll be fine. Besides, patrolling the manor is my responsibility, after all."
+#Satoshi
+"But..."
+#Tsujimura
+"You're a guest, so please get some rest in your room. I'll let you know if anything happens."
+#Satoshi
+"I see..."
+Having been told that, I had no words to offer in return.
+#Satoshi
+"...Well then, excuse me. Um, sorry for bringing up such a strange thing."
+#Tsujimura
+"No, no, please don't worry about it. Well then, good night."
+#Satoshi
+"...Phew."
+It can't be helped; I'll head back to my room and rest.

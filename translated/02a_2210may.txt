@@ -1,29 +1,29 @@
-二階の西側の一番奥にある摩夜さんの部屋の前までやってきた。
-＃主人公
-「摩夜さん、起きてらっしゃいますか？」
-扉が開き、摩夜さんが顔を覗かせた。
-＃摩夜
-「あら……こんな時間にどうなさいましたの？」
-＃主人公
-「今晩はここで摩夜さんを守ろうと思いまして」
-＃摩夜
-「まあ……」
-＃主人公
-「次に狙われる可能性が高いのは摩夜さんですから。どうにかしてこれ以上の被害を防ぎたいんです」
-＃摩夜
-「ですが……お客様にそこまでさせるわけにも参りませんわ」
-＃主人公
-「でもぼくはこれ以上被害が出る事を防ぎたいんです」
-＃摩夜
-「ふふっ……ありがとうございます。ですが心配は要りませんわよ。それに……殿方をお部屋にお泊めするわけにはまいりませんわ」
-＃主人公
-「そ……そうですよね……」
-＃摩夜
-「今晩はしっかりと鍵を掛けて休むことにしますわ。ご忠告どうもありがとうございます」
-＃主人公
-「いえ……こちらこそ、妙な事を言ってしまって申し訳ありませんでした」
-＃摩夜
-「それでは、おやすみなさいませ」
-＃主人公
-「……ふう」
-仕方ない、部屋に戻って休む事にしよう。
+I arrived in front of Maya-san's room at the far end of the west side of the second floor.
+#Satoshi
+"Maya-san, are you awake?"
+The door opened, and Maya-san peeked her face out.
+#Maya
+"Oh... what brings you here at this hour?"
+#Satoshi
+"I thought I'd protect you here tonight, Maya-san."
+#Maya
+"Oh my..."
+#Satoshi
+"The one most likely to be targeted next is you, Maya-san. I want to prevent any further casualties somehow."
+#Maya
+"But... I can't let a guest do such a thing."
+#Satoshi
+"But I want to prevent any further victims from appearing."
+#Maya
+"Hehe... thank you. But there's no need for worry. Besides... I can't let a gentleman stay in my room."
+#Satoshi
+"Y-You're right, of course..."
+#Maya
+"I'll make sure to lock the door and rest tonight. Thank you very much for your advice."
+#Satoshi
+"No... I'm the one who should apologize for saying such a strange thing."
+#Maya
+"Well then, good night."
+#Satoshi
+"...Phew."
+It can't be helped; I'll head back to my room and rest.

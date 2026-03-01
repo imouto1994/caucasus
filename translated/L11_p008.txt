@@ -1,0 +1,24 @@
+#Ai
+"I don't know... I've been in my room the whole time."
+#Satoshi
+"I see..."
+#Benio
+"...If Hiroshi were the killer, then the identity of that body, the cause of death—nothing could be trusted anymore. I'd like to avoid that conclusion, but..."
+#Satoshi
+"True..."
+#Tsujimura
+"...I believe he was either in the infirmary or in his room."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Mikanagi
+"...The body was likely burned starting around six o'clock... I was back in my room then. You two were using the infirmary, after all."
+#Satoshi
+"I-I see..."
+#Narumi
+"If you mean Mikanagi-sensei, around six o'clock... he was wandering around the north corridor on the second floor."
+#Satoshi
+"I see..."

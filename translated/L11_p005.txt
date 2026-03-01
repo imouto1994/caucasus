@@ -1,0 +1,24 @@
+#Ai
+"I don't know... I've been in my room the whole time."
+#Satoshi
+"I see..."
+#Benio
+"One might reach the kitchen from Shion's room via the back... but it's impossible this time of year. The snow is nearly two meters deep, after all."
+#Satoshi
+"I see..."
+#Tsujimura
+"I was in the office, and Lady Shion did not come out of her room."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know anything about what happens outside my room."
+#Satoshi
+"I see..."
+#Mikanagi
+"I predictably wouldn't know about anyone else's movements."
+#Satoshi
+"I see..."
+#Narumi
+"It looks like Lady Shion was in her room the whole time."
+#Satoshi
+"I see..."

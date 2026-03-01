@@ -1,21 +1,21 @@
-くるりと振り返ると、聖堂からなるみさんが出てくる所に出くわした。
-＃主人公
-「あ、なるみさん」
-＃なるみ
-「……ここにも居なかった」
-なるみさんが首を振る。
-＃主人公
-「鍵を開けたんですか？」
-＃なるみ
-「ここだけじゃなくて、鍵の掛かってる部屋はだいたい調べたけど、どこにも居ないわね」
-＃主人公
-「あの……二階の恒星さんの部屋は見ましたか？」
-＃なるみ
-「あ……ええ、一応ね。でも居なかったわ」
-＃主人公
-「そうですか……」
-いったいどこへ行ってしまったのだろう……
-＃なるみ
-「……一旦戻るわよ」
-＃主人公
-「……そうですね。紅緒さんも探してくれてますから話を聞いてみましょう」
+As I turned around, I ran into Narumi-san coming out of the chapel.
+#Main Character
+"Oh, Narumi-san."
+#Narumi
+"...She wasn't here either."
+Narumi-san shook her head.
+#Main Character
+"Did you unlock it?"
+#Narumi
+"I've checked almost all the locked rooms, not just this one, but she's nowhere to be found."
+#Main Character
+"Um... did you check Kousei-san's room on the second floor?"
+#Narumi
+"Ah... yes, just in case. But she wasn't there."
+#Main Character
+"I see..."
+Where on earth could she have gone...?
+#Narumi
+"...Let's head back for now."
+#Main Character
+"...Yeah. Benio-san is searching as well, so let's hear what she has to say."

@@ -1,117 +1,117 @@
-＃想子
-「随分と賑やかな方たちですね」
-ホールまで戻ってきて想子さんが口を開く。
-＃藍
-「それでも、ふたりともとても優秀なのですよ。さて、次はこちらですね」
-藍さんは微笑みを浮かべながら正面の扉を開けた。
-この扉の先にも今までと似たような廊下が続いていた。
-＃藍
-「北側には客室と聖堂があります。正面奥の扉が聖堂、ここで今晩結婚式を行う予定です」
-＃主人公
-「聖堂まであるんですか？」
-＃藍
-「ええ。代々の当主はクリスチャンだったそうですから」
-＃想子
-「私たちの部屋はこちらに？」
-＃藍
-「いえ、ここは殆ど使われていますから。……そうそう、<高嶺<タカミネ>さんにもご紹介しなくてはなりませんね」
-藍さんは右手前の扉を軽くノックした。
-＃藍
-「高嶺さん、いらっしゃいますか」
-藍さんが声を掛けて暫く経った後、ぎっ、と音を立てて扉が開いた。
-＃？？？
-「……何か用ですか？」
-姿を現したのは、顔に大きな傷のある大柄な男性だった。
-もし街中で会ったら、絶対に目を合わせないようにしたいタイプの人だ。
-……今でも視線を合わせられないけど。
-＃藍
-「こちら、新しいお客様です。今晩はお泊まりになられるので先にご挨拶をと思いまして」
-＃？？？
-「そうですか」
-＃想子
-「切原想子です。ご迷惑かと存じますが、今夜一晩お邪魔させていただいております」
-さすが想子さん、強面の人を前にしても動じてない。
-＃主人公
-「あ、ぼくは(NAME01)(NAME02)といいます」
-＃？？？
-「当家の顧問弁護士を務めている、高嶺<仁<ジン>だ。よろしく」
-＃主人公
-「弁護士なんですか？」
-＃高嶺
-「……何か？」
-ぎろりと底冷えのする視線で射竦められ、背筋が凍った。
-＃主人公
-「い、いえ、何でもないです……」
-＃高嶺
-「ふん……用件はそれだけですか？」
-＃藍
-「ええ、今のところは」
-＃高嶺
-「……そうですか。では後ほど」
-ばたん、と扉が締められる。
-＃主人公
-「ふうっ……」
-＃想子
-「凄い迫力ね」
-ぼくの気持ちを想子さんが代弁してくれた。
-＃藍
-「少々無愛想なところはありますけれど、悪い人じゃありませんよ。高嶺さんのお父様も当家の弁護士でしたから」
-＃想子
-「顔の傷……火傷のようでしたけれど」
-＃藍
-「ええ、ずっと昔に負ったらしいのですけど、よくは知らないのです」
-藍さんが首を振った。
-＃藍
-「さて……高嶺さんの部屋の向かいは先程の勇さん――六曜さんのお部屋です。その隣は館の管理もされている<辻村<ツジムラ>さんがいらっしゃいます」
-＃想子
-「管理人なんているんですか？」
-＃藍
-「あ、ええ……辻村さんは私の叔父にあたる方でして、絵描きだったのですけど、今はこちらで執事のような事をしてもらっているんです」
-藍さんが扉を数度叩く。
-＃藍
-「辻村さん、お客様がいらっしゃいました」
-扉から離れて暫く待つが、誰も出てくる気配がない。
-＃主人公
-「留守ですかね？」
-＃藍
-「事務室にいるのかしら……」
-＃？？？
-「藍お嬢様、何か御用でしょうか？」
-後ろからした声に振り向く。
-中年の男性が正面の大きな扉を開けてこちらを見ていた。
-＃藍
-「辻村さん、聖堂にいらしたのですか」
-＃？？？
-「ええ、今晩の用意もありましたから。……こちらが遭難されていた方ですか？」
-辻村さんと呼ばれていた人は大きな扉を締めてからこちらにやって来た。
-＃？？？
-「当家の管理人をしております、辻村<星次<セイジ>と申します」
-＃主人公
-「ぼくは(NAME01)(NAME02)といいます」
-＃想子
-「切原想子といいます。あの、辻村さんは奥様のご兄弟なのですか？」
-＃辻村
-「いえ、先代の弟になります。絵を描いていたのですが、どうしてもそれでは食っていけず……恥ずかしながらこちらでお世話になっています」
-そう言って辻村さんは深く頭を下げた。
-＃藍
-「辻村さんの絵は私好きですよ」
-＃辻村
-「いえいえ、そんな勿体ないお言葉……」
-辻村さんが恐縮して縮こまってしまっている。
-＃辻村
-「私はまだ準備が御座いますので、これで失礼させていただきます」
-また深々と頭を下げ、辻村さんは再度大きな扉の中へ戻っていった。
-＃主人公
-「優しそうな方ですね」
-＃藍
-「ええ……本来なら七月家を継ぐ可能性もあった方なのですけれど、本人にそういう思いがないそうですから」
-＃想子
-「恒星氏の遺書には記されていなかったのですか？」
-＃藍
-「それは……申し訳ありません、私はよく知らないのです」
-藍さんが口を濁した。
-まあ、部外者のぼくたちに遺言の内容を話すのは問題があるだろうし、仕方ない事だろう。
-＃藍
-「では、次は二階をご案内します」
-ホールに戻ってきて階段を上る。
-上から見ると、余計にホールの広さを感じられた。
+#Souko
+"They're certainly a lively bunch, aren't they?"
+Once we were back in the hall, Souko-san finally spoke up.
+#Ai
+"Even so, they're both quite capable. Now then, let's head this way."
+Ai-san offered a small smile as she opened the door directly ahead.
+Beyond it was a hallway similar to the ones we had seen so far.
+#Ai
+"The north wing contains the guest rooms and the chapel. The door at the far end is the chapel, where the wedding is scheduled to take place tonight."
+#Protagonist
+"There's even a chapel here?"
+#Ai
+"Yes. It seems the heads of the family have been Christians for generations."
+#Souko
+"Will our rooms be in this wing as well?"
+#Ai
+"No, most of these are already occupied. ...Oh, that reminds me. I really should introduce you to Takamine-san."
+Ai-san gave a light knock on the first door to the right.
+#Ai
+"Takamine-san, are you in?"
+A few moments after Ai-san called out, the door creaked open.
+#???
+"...Can I help you?"
+The man who appeared was a large, imposing figure with a prominent scar on his face.
+If I met someone like him on the street, I'd make a point of never making eye contact.
+...In fact, I still couldn't bring myself to look him in the eye.
+#Ai
+"These are our new guests. Since they'll be staying the night, I thought I'd introduce them."
+#???
+"I see."
+#Souko
+"I'm Souko Kirihara. I apologize for the intrusion, but we'll be staying here for the night."
+As expected of Souko-san, she didn't seem even slightly rattled by the man's intimidating presence.
+#Protagonist
+"Ah, I'm (NAME01) (NAME02)."
+#???
+"I'm Jin Takamine, the legal counsel for this family. Pleasure."
+#Protagonist
+"You're a lawyer?"
+#Takamine
+"...Is there a problem?"
+He fixed me with a piercing, icy glare that sent a shiver down my spine.
+#Protagonist
+"N-no, nothing at all..."
+#Takamine
+"Hmph... is that all then?"
+#Ai
+"Yes, for now."
+#Takamine
+"...Very well. Until later."
+With a dull thud, the door was shut.
+#Protagonist
+"Phew..."
+#Souko
+"What an intense man."
+Souko-san voiced exactly what I was feeling.
+#Ai
+"He can be a bit blunt, but he's not a bad person. Takamine-san's father was the family's lawyer before him."
+#Souko
+"That scar on his face... it looked like a burn."
+#Ai
+"Yes, he apparently suffered it a long time ago, but I don't know the details."
+Ai-san shook her head.
+#Ai
+"Now... across from Takamine-san's room is Isamu-san窶燃okuyou-san's room. Next to that is the room of Tsujimura-san, who handles the management of the estate."
+#Souko
+"There's an estate manager as well?"
+#Ai
+"Ah, yes... Tsujimura-san is my uncle. He used to be a painter, but now he serves as a sort of butler for us."
+Ai-san knocked on the door a few times.
+#Ai
+"Tsujimura-san, we have guests."
+We waited for a while, but there was no sign of anyone coming out.
+#Protagonist
+"Is he not in?"
+#Ai
+"Perhaps he's in the office..."
+#???
+"Ai-ojousama, did you need something?"
+A voice came from behind us, and we turned around.
+A middle-aged man was standing by the large door at the end of the hall, looking at us.
+#Ai
+"Tsujimura-san, were you in the chapel?"
+#???
+"Yes, I was preparing for tonight's ceremony. ...And these are the guests who were stranded?"
+ the man called Tsujimura-san closed the heavy door and walked toward us.
+#???
+"I'm Seiji Tsujimura, the manager of this estate."
+#Protagonist
+"I'm (NAME01) (NAME02)."
+#Souko
+"I'm Souko Kirihara. Um, Tsujimura-san, are you the Madam's brother?"
+#Tsujimura
+"No, I was the younger brother of the previous head. I used to paint, but I couldn't make a living at it... so I've been under the care of this house, I'm ashamed to say."
+With that, Tsujimura-san gave a deep bow.
+#Ai
+"I happen to like your paintings, Tsujimura-san."
+#Tsujimura
+"No, no, you're too kind..."
+Tsujimura-san seemed to shrink back, looking quite humbled.
+#Tsujimura
+"I still have preparations to attend to, so if you'll excuse me."
+After another deep bow, Tsujimura-san disappeared back inside the chapel doors.
+#Protagonist
+"He seems like a kind person."
+#Ai
+"Yes... normally he might have been the one to inherit the Nanatsuki family line, but he says he has no such desires."
+#Souko
+"Was that not mentioned in Kousei-shi's will?"
+#Ai
+"That's... I'm sorry, I don't know the details."
+Ai-san became a bit evasive.
+Well, it窶冱 only natural that she wouldn't discuss the contents of a will with outsiders like us.
+#Ai
+"Now then, I'll show you the second floor."
+We returned to the hall and began climbing the stairs.
+Looking down from above, the sheer size of the hall was even more apparent.

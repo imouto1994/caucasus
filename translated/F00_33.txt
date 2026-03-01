@@ -1,0 +1,14 @@
+I step inside the study.
+#Narumi
+"There's no fireplace."
+#Protagonist
+"True... but this is Kousei-san's study, so there might be some clues left behind."
+#Narumi
+"Want to check it just in case?"
+I step inside the study.
+#Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."
+#Protagonist
+"Right... but more importantly, this is Kousei-san's study, so there might be some clues left behind."
+#Narumi
+"Want to check it just in case?"

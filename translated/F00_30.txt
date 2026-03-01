@@ -1,0 +1,14 @@
+I’ve returned to my own room.
+There's a fireplace here too, of course...
+I’ve returned again.
+#Narumi
+"Weren't we just here?"
+#Protagonist
+"Well, yes..."
+#Narumi
+"If you still want to investigate, then make it quick."
+#Protagonist
+"Right..."
+I’ve returned to my own room.
+#Narumi
+"Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though."

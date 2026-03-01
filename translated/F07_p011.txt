@@ -1,0 +1,40 @@
+#Souko
+"I wonder why Rokuyou-san had to be murdered... that's what's really bothering me."
+#Satoshi
+"True..."
+#Maya
+"...Why was a man like Isamu-san murdered...?"
+#Satoshi
+"I don't know..."
+#Ai
+"Isamu-san... why...?"
+#Satoshi
+"Ai-san..."
+#Benio
+"...I question whether Rokuyou truly loved Shion. I never once saw them acting affectionately, after all."
+#Satoshi
+"Is that so..."
+#Shion
+"What on earth could have happened...?"
+#Satoshi
+"...I'm in the middle of investigating that right now."
+#Tsujimura
+"Master Rokuyou's remains are laid to rest in his room. We cannot simply bury him as we please, after all..."
+#Satoshi
+"Right..."
+#Takamine
+"It seems Rokuyou-kun was murdered during the night... but there weren't any sounds of a struggle. It might be because the rooms are well soundproofed..."
+#Satoshi
+"I see..."
+#Mikanagi
+"To think Isamu would meet such a fate..."
+#Satoshi
+"Yeah..."
+#Akane
+"For Master Rokuyou to pass away like that..."
+#Satoshi
+"Akane-san..."
+#Narumi
+"...I thought it was strange when he didn't show up this morning, but to think he'd been murdered..."
+#Satoshi
+"Yeah..."

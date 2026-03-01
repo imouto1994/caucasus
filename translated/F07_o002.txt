@@ -1,0 +1,40 @@
+#Souko
+"You've heard the contents of the will, haven't you? Why don't you let me hear about that?"
+#Satoshi
+"Yeah... you're right."
+#Maya
+"I am sorry, but... I do not think I am in a state to speak of it yet."
+#Satoshi
+"You're right..."
+#Ai
+"...I cannot say anything regarding the will."
+#Satoshi
+"...You're right."
+#Benio
+"The matter of the will has been left to Takamine. If you're curious, you should try asking him."
+#Satoshi
+"I see..."
+#Shion
+"The will... I'm sorry, I don't really know about it..."
+#Satoshi
+"You're right..."
+#Tsujimura
+"...Regarding that matter, there is nothing I can say."
+#Satoshi
+"You're right..."
+#Takamine
+"I believe we've already spoken about the inheritance, haven't we?"
+#Satoshi
+"Y-You're right..."
+#Mikanagi
+"That is... not a problem I can say anything about."
+#Satoshi
+"You're right..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"The will, huh... It's not like any money is coming my way, so I'm not really interested."
+#Satoshi
+"I see..."

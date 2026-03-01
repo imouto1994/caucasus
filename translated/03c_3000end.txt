@@ -1,105 +1,105 @@
-Á‰Î‚ÍŠÔ‚É‡‚í‚È‚©‚Á‚½B
-‚Ú‚­‚½‚¿‚ÍAÄ‚¯—‚¿‚éµœßŠÙ‚ğ•ğ‘R‚Æ’­‚ß‚Ä‚¢‚é–‚µ‚©o—ˆ‚È‚©‚Á‚½B
-•‰Œ‚ª‹ó‚ÉL‚Ñ‚Ä‚¢‚éB
-‚±‚ê‚ªŒ©‚¦‚ê‚ÎA˜[‚©‚çl‚ª‚â‚Á‚Ä‚­‚é‚¾‚ë‚¤B
-‚»‚¤‚·‚ê‚Î‹A‚ê‚éB
-‚Ú‚­‚ÍA‘zq‚³‚ñ‚Æ‹A‚è‚½‚©‚Á‚½‚Ì‚É\\
-¨‚ğŸ‚Ü‚¹‚ÎA‚Ü‚¾‘zq‚³‚ñ‚Ì‰Ì‚ª•·‚±‚¦‚Ä‚­‚é‚æ‚¤‚¾‚Á‚½B
-‚Å‚à•·‚±‚¦‚Ä‚­‚é‚Ì‚Í”R‚¦‚³‚©‚é‰Š‚ª”š‚º‚é‰¹‚Î‚©‚è‚¾‚Á‚½B
-g‚³‚ñ‚ª‹ß‚­‚É—ˆ‚½B
-”g
-u\\Ï‚Ü‚È‚©‚Á‚½‚Èv
-”ålŒö
-uccg‚³‚ñ‚ÌŠˆ×‚¶‚á‚ ‚è‚Ü‚¹‚ñ‚æB‚»‚ê‚Écc–À˜f‚ğŠ|‚¯‚½‚Ì‚Í‚Ú‚­‚½‚¿‚Å‚·v
-”g
-u‚µ‚©‚µcc‚»‚à‚»‚à‚Ì”­’[‚ÍµŒ‰Æ‚É‚ ‚Á‚½B”Ş—‚ªs“®‚ğ‹N‚±‚µ‚½‚Ì‚àA•êã‚ªŒ´ˆö‚¾‚Á‚½‚Ì‚¾‚ë‚¤‚©‚ç‚Èccv
-”ålŒö
-u‚Å‚àcc‘¼‚É•û–@‚Í‚È‚©‚Á‚½‚ñ‚Å‚µ‚å‚¤‚©ccv
-”g
-ucc‚Ç‚¤‚¾‚ë‚¤‚ÈB•êe‚Ì•œQ‚ğ‘æˆê‹`‚Æ‚µ‚Ä‚¢‚½‚Ì‚È‚ç‚ÎA‘¼‚Ìè’i‚Í‘I‚Î‚È‚©‚Á‚½‚ë‚¤B‚»‚ê‚ª”Ş—‚Ì‘I‘ğ‚¾v
-”ålŒö
-u‚¾‚©‚ç‚Á‚Äcc—•‚³‚ñ‚â‰¹‚³‚ñ‚Ü‚Åcc”ß‚µ‚·‚¬‚Ü‚·‚æA‚±‚ñ‚È‚Ìccv
-”g
-u‚»‚¤‚¾‚Èccv
-–³Œ¾‚É‚È‚èA‚Ú‚­‚ç‚Í”R‚¦‘±‚¯‚éŠÙ‚ğ’­‚ß‚Ä‚¢‚½B
-‘zq‚³‚ñ‚àA–€–é‚³‚ñ‚àA‰¹‚³‚ñ‚àA—•‚³‚ñ‚àA‚ ‚©‚Ë‚³‚ñ‚àA˜Z—j‚³‚ñ‚à\\
-ŠF‚Ìˆâ‘Ì‚ªä¶”ù‚É•t‚³‚ê‚Ä‚¢‚½B
-”’Ò‘º
-ug‚¨ì—lv
-’Ò‘º‚³‚ñ‚ª‚â‚Á‚Ä—ˆ‚½B
-”g
-u‚Ç‚¤‚µ‚½Hv
-”’Ò‘º
-u˜[‚©‚çl‚ª—ˆ‚½‚æ‚¤‚Å‚·B¡‚—ä—l‚ª‹´‚Ì–T‚Å‰‘Î‚ğ‚µ‚Ä‚¨‚è‚Ü‚·v
-”g
-u‚»‚¤‚©cc‚¢‚Â ‰º‚è‚ç‚ê‚»‚¤‚¾Hv
-”’Ò‘º
-u‰½‚Æ‚àŒ¾‚¦‚Ü‚¹‚ñcc‰½‚¹A‹]µÒ‚ª‘½‚·‚¬‚Ü‚·‚©‚çccv
-”g
-uR‚ğ‰º‚è‚Ä‚àAŒx@‚Ì–ï‰î‚É‚È‚è‚»‚¤‚¾‚Èccd•û‚È‚¢‚©v
-”ålŒö
-u‚»‚¤‚Å‚·‚Ëcc‰½‚ª‹N‚±‚Á‚½‚©Aà–¾‚à‚µ‚È‚­‚Ä‚Í‚È‚è‚Ü‚¹‚ñ‚µv
-”’Ò‘º
-u‚»‚Ì‚ ‚½‚è‚Ì–‚Å‚µ‚½‚çA‚—ä—l‚ª‰½‚Æ‚©‚µ‚Ä‚­‚¾‚³‚é‚Æ‚Ív‚¢‚Ü‚·‚ªccv
-”ålŒö
-u‚¤‚í‚Á\\v
-‰Î‚Ì•²‚ª‚±‚¿‚ç‚Ü‚Å”ò‚ñ‚Å‚«‚½B
-”g
-ucc‚à‚¤­‚µ—£‚ê‚½•û‚ª—Ç‚³‚»‚¤‚¾‚Èv
-‚Ú‚­‚Ì˜r‚É’Í‚Ü‚Á‚½g‚³‚ñ‚ªŒ¾‚¤B
-”ålŒö
-u‚»‚¤‚Å‚·‚Ëccv
-µœßŠÙ‚Ì‘O‚©‚ç—£‚ê‚éB
-”ålŒö
-uccg‚³‚ñ‚ÍA‚±‚ÌŒã‚Ç‚¤‚·‚é‚ñ‚Å‚·‚©Hv
-”g
-u‚»‚¤‚¾‚Ècc‰Æ‘°‚à‰Æ‚à‘r‚Á‚Ä‚µ‚Ü‚Á‚½‚©‚ç‚ÈBcc‚»‚¤‚¢‚âA‚Í‚©‚¹‚ªŒZ‚¾‚Æ”»–¾‚µ‚Ä‚¢‚½‚©v
-”ålŒö
-u‚¶‚á‚ AŒä›Şæ¶‚ÌŠ‚É–ï‰î‚É‚È‚é‚ñ‚Å‚·‚©Hv
-‚Ú‚­‚Í‹´‚Ì•û‚É‚¢‚éŒä›Şæ¶‚ğ‚¿‚ç‚è‚ÆŒ©‚½B
-‚È‚é‚İ‚³‚ñ‚àŒü‚±‚¤‚É‚¢‚é‚æ‚¤‚¾B
-”g
-ucc¡X‚»‚ê‚Ío—ˆ‚Ü‚¢B‚ ‚­‚Ü‚Å„‚ÍµŒ‰Æ‚ÌlŠÔ‚È‚Ì‚¾‚©‚ç‚Èv
-”’Ò‘º
-u‚ ‚Ìccg‚¨ì—l‚³‚¦‚æ‚ë‚µ‚¯‚ê‚ÎA“Œ‹‚É„‚Ì‰Æ‚ª‚²‚´‚¢‚Ü‚·‚ªccv
-‚¨‚¸‚¨‚¸‚Æ’Ò‘º‚³‚ñ‚ª\‚µo‚Ä‚«‚½B
-”g
-u“Œ‹‚©cc‚»‚ê‚àˆ«‚­‚È‚¢‚ªccv
-g‚³‚ñ‚ª‚Ú‚­‚Ì•û‚ğŒ©‚½B
-”ålŒö
-u‚È‚ñ‚Å‚·ccHv
-”g
-ucc‚¤‚ñA‚«‚İ‚É•t‚«‡‚¤‚Ì‚àˆ«‚­‚È‚¢‚Èv
-”ålŒö
-u‚Ècc‚È‚ñ‚Å‚·‚©‚»‚êccIHv
-”’Ò‘º
-ug‚¨ì—lccIHv
-”g
-u‚æ‚µAŒˆ‚ß‚½B‚±‚ê‚©‚ç‚æ‚ë‚µ‚­—Š‚Ş‚¼v
-‚»‚¤Œ¾‚Á‚Äg‚³‚ñ‚Í‚Ú‚­‚Ì”w’†‚ğ’@‚¢‚Ä‚«‚½B
-”ålŒö
-u—Š‚Ş‚¼A‚Á‚ÄŒ¾‚í‚ê‚Ä‚àccv
-”‚È‚é‚İ
-u\\‚à‚¤‚·‚®‹´‚ª‰Ë‚©‚è‚»‚¤‚¾‚Á‚Äv
-‚¿‚å‚¤‚Ç‚æ‚­‚È‚é‚İ‚³‚ñ‚ª–ß‚Á‚Ä‚«‚½B
-”ålŒö
-u‚¶‚áA‚¶‚á‚ ‚Ú‚­‚Íæ‚És‚Á‚Ä‚Ü‚·v
-‚Ú‚­‚Í‚·‚®‚³‚Ü‹´‚Ì•û‚É•à‚«o‚µ‚½B
-”g
-u‚ \\‚¨‚¢A“¦‚°‚é‚È‚ÁIv
-g‚³‚ñ‚ª’Ç‚¢‚©‚¯‚Ä‚­‚éB
-”‚È‚é‚İ
-ucc‰½‚ª‚ ‚Á‚½‚ñ‚Å‚·‚©Hv
-”’Ò‘º
-u‚¢‚âcc„‚É‚à‚³‚Á‚Ï‚è‚Å‚µ‚Äccv
-”g
-u‘Ò‚Ä‚¨‚¢‚ÁIv
-g‚³‚ñ‚Æˆê‚Éá‚Ì“¹‚ğ‘–‚èB
-•sˆÓ‚É‚Ú‚­‚Í—§‚¿~‚èA”wŒã‚ğŒ©‚½B
-‚¢‚Ü‚¾”R‚¦‘±‚¯‚éµœßŠÙB
-cc‚³‚æ‚¤‚È‚çA‘zq‚³‚ñA‰¹‚³‚ñ\\
-‚Ú‚­‚ÍS‚Ì’†‚Å–Ù“˜‚ğ•ù‚°‚½B
-”g
-ucc‚Ç‚¤‚µ‚½Hv
-”ålŒö
-ucc‚¢‚¦A‰½‚Å‚à‚ ‚è‚Ü‚¹‚ñ‚æB‚»‚ê‚¶‚á\\s‚«‚Ü‚µ‚å‚¤v
+The fire couldn't be extinguished in time.
+We could only stare blankly as the Nanatsuki mansion burned to the ground.
+Black smoke rose into the sky.
+If they saw this, people from the foot of the mountain would come.
+Then we could go home.
+I wanted to go home with Souko-sanâ€”
+If I listened closely, it felt as if I could still hear Souko-san's song.
+But all I could hear was the sound of the raging flames crackling.
+Benio-san came close.
+#Benio
+"â€”I'm sorry."
+#Main Character
+"...It's not your fault, Benio-san. Besides... we're the ones who caused trouble."
+#Benio
+"But... the whole thing started with the Nanatsuki family. The reason she took action must have been because of my mother..."
+#Main Character
+"But... was there no other way...?"
+#Benio
+"...I wonder. If her primary goal was revenge for her mother, she likely wouldn't have chosen any other means. That was her choice."
+#Main Character
+"But still... even Ai-san and Shion-san... this is too sad..."
+#Benio
+"You're right..."
+We fell silent, watching the mansion continue to burn.
+The remains of Souko-san, Maya-san, Shion-san, Ai-san, Akane-san, and Rokuyou-sanâ€”
+All their bodies were being cremated.
+#Tsujimura
+"Benio-ojousama."
+Tsujimura-san arrived.
+#Benio
+"What is it?"
+#Tsujimura
+"It seems people from below have arrived. Lord Takamine is currently speaking with them by the bridge."
+#Benio
+"I see... when do you think we can go down?"
+#Tsujimura
+"I cannot say... after all, there are far too many victims..."
+#Benio
+"Even once we're off the mountain, it looks like we'll be in the hands of the police... I suppose it can't be helped."
+#Main Character
+"Right... we'll have to explain what happened, too."
+#Tsujimura
+"I'm sure Lord Takamine will handle that sort of thing for us..."
+#Main Character
+"Whoaâ€”"
+Sparks flew all the way over to us.
+#Benio
+"...It might be better to move further away."
+Benio-san said, grabbing my arm.
+#Main Character
+"You're right..."
+We moved away from the front of the Nanatsuki mansion.
+#Main Character
+"...Benio-san, what are you going to do after this?"
+#Benio
+"Well... I've lost both my family and my home. ...Oh, right, it was revealed that the doctor is my brother."
+#Main Character
+"Then, will you stay with Dr. Mikanagi?"
+I stole a glance at Dr. Mikanagi, who was by the bridge.
+Narumi-san seemed to be over there as well.
+#Benio
+"...I can't do that now. I'm a Nanatsuki, through and through."
+#Tsujimura
+"Um... if it would please Benio-ojousama, I have a house in Tokyo..."
+Tsujimura-san tentatively offered.
+#Benio
+"Tokyo, huh... that's not bad either, but..."
+Benio-san looked at me.
+#Main Character
+"What is it...?"
+#Benio
+"...Yeah, hanging out with you might not be bad either."
+#Main Character
+"Wha... what's that supposed to mean...!?"
+#Tsujimura
+"Benio-ojousama...!?"
+#Benio
+"Alright, it's decided. I'll be counting on you from now on."
+With that, Benio-san patted my back.
+#Main Character
+"Even if you say that..."
+#Narumi
+"â€”The bridge is almost ready!"
+Narumi-san returned at just the right time.
+#Main Character
+"I-I'll go ahead to the bridge then."
+I immediately started walking toward the bridge.
+#Benio
+"Ahâ€”hey, don't run away!"
+Benio-san chased after me.
+#Narumi
+"...What happened?"
+#Tsujimura
+"I... have no idea myself..."
+#Benio
+"Wait, hey!"
+Running along the snowy path with Benio-san.
+Suddenly, I stopped and looked behind me.
+The Nanatsuki mansion, still burning.
+...Goodbye, Souko-san, Shion-sanâ€”
+I offered a silent prayer in my heart.
+#Benio
+"...What's wrong?"
+#Main Character
+"...No, it's nothing. Well thenâ€”let's go."

@@ -1,0 +1,72 @@
+#Souko
+"I wonder if there's a connection between Shion-san being targeted and you two being locked in the basement..."
+#Satoshi
+"I wonder..."
+#Souko
+"...There's a good chance Shion-san will be targeted by the killer. We have to make sure she's careful..."
+#Satoshi
+"Right..."
+#Maya
+"To think even Shion was targeted..."
+#Satoshi
+"Her life isn't in danger, so please don't worry."
+#Maya
+"Shion is still safe, isn't she...?"
+#Satoshi
+"Yes... there's no need to worry."
+#Ai
+"Why even Shion... Why...!"
+#Satoshi
+"...We don't know that yet."
+#Ai
+"I'm glad it was me who was targeted... if it had been Shion..."
+#Satoshi
+"Ai-san..."
+#Shion
+"I'm... all right now. I'm sorry to have worried you."
+#Satoshi
+"I see..."
+#Shion
+"I... don't really understand what is happening... I am sorry..."
+#Satoshi
+"No..."
+#Tsujimura
+"So even Lady Shion is not safe after all..."
+#Satoshi
+"It seems so..."
+#Tsujimura
+"...Lady Shion seems to be quite depressed..."
+#Satoshi
+"I see..."
+#Takamine
+"...Shion-kun is safe, I assume?"
+#Satoshi
+"Y-Yeah..."
+#Takamine
+"There's a possibility that danger could close in on Shion-kun as well. Keep an eye on her."
+#Satoshi
+"Right..."
+#Mikanagi
+"Shion-san's condition has mostly recovered. It seems the poison was a very small dose, and she threw it up immediately."
+#Satoshi
+"I see..."
+#Mikanagi
+"If you're looking for Shion-san, she's likely in her room or the office."
+#Satoshi
+"I see."
+#Akane
+"So even Lady Shion is being targeted... What on earth is the killer's objective...?"
+#Satoshi
+"Good question..."
+#Akane
+"Lady Shion? I believe she is likely in her room..."
+#Satoshi
+"I see."
+#Narumi
+"I don't think you need to worry about Lady Shion's condition... but who could have done it..."
+#Satoshi
+"Yeah..."
+#Narumi
+"If it's Lady Shion, she's probably in her room or the office, right?"
+#Satoshi
+"I see."

@@ -1,30 +1,30 @@
-もういいだろう。
-＃主人公
-「このくらいでいいでしょうかね」
-想子さんに尋ねる。
-＃想子
-「きみがいいと思うならいいんじゃない？」
-＃主人公
-「そう言われると不安ですけど……」
-まだ調べる
-もういいだろう
-もう少し調べてみようか。
-見落としがあるかもしれないし。
-もう調べ尽くしたと思う。
-＃主人公
-「もう大丈夫だと思います」
-＃想子
-「じゃあ、大広間に戻ってみんなに聞き込みをしてみましょうか」
-＃主人公
-「そうですね。……この部屋はどうしましょうか」
-＃御巫
-「鍵を掛けて封鎖してしまった方がいいだろうね。僕らが弄ってしまったけれど、そのうち警察も来るだろうから」
-＃主人公
-「わかりました」
-廊下に出て扉に鍵を掛ける。
-＃主人公
-「鍵は辻村さんに預けておけばいいですよね？」
-＃御巫
-「そうだね、それがいいだろう」
-＃想子
-「じゃあ戻りましょう」
+I think I窶况e seen enough.
+#Protagonist
+"I think this is sufficient."
+I addressed Souko-san.
+#Souko
+"If you窶决e satisfied, then I suppose it is."
+#Protagonist
+"It makes me a little uneasy when you put it like that..."
+[Keep investigating]
+[I窶况e seen enough]
+Maybe I should look a bit more.
+I might have overlooked something.
+I think I窶况e searched every corner.
+#Protagonist
+"I think I窶冦 okay now."
+#Souko
+"In that case, let窶冱 head back to the Great Hall and see what we can learn from the others."
+#Protagonist
+"Right. ...What should we do about this room?"
+#Mikanagi
+"We should probably lock it and keep it sealed. We窶况e already disturbed it, but the police will be here eventually."
+#Protagonist
+"Understood."
+We stepped into the hallway and I locked the door.
+#Protagonist
+"I should probably leave the key with Tsujimura-san, right?"
+#Mikanagi
+"Yes, that would be best."
+#Souko
+"Alright, let窶冱 head back."

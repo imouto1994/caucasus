@@ -1,0 +1,40 @@
+#Souko
+"What is this...? They look like symbols, but I don't really understand them..."
+#Protagonist
+"I see..."
+#Maya
+"What is this...? I'm not quite sure."
+#Protagonist
+"I see..."
+#Ai
+"This is... what could it be...?"
+#Protagonist
+"You don't know...?"
+#Benio
+"Symbols...? No, this last part looks like an actual word... I wonder what it means..."
+#Protagonist
+"I wonder..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Protagonist
+"I see..."
+#Tsujimura
+"I... don't quite understand this..."
+#Protagonist
+"I see..."
+#Takamine
+"...Please try not to show this to anyone else. It could become a problem later if word got out that an outsider was shown part of the will."
+#Protagonist
+"U-Understood..."
+#Mikanagi
+"I wonder what this is... it almost looks like some kind of code..."
+#Protagonist
+"You're right..."
+#Akane
+"I'm sorry... I don't really know."
+#Protagonist
+"I see..."
+#Narumi
+"I'm not quite sure about that."
+#Protagonist
+"I see..."

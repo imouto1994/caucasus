@@ -1,0 +1,32 @@
+#Souko
+"I wonder how Shion-san is treated in the will..."
+#Protagonist
+"She's an adopted child after all... I am a bit curious."
+#Maya
+"I am sorry... but I do not think she is in a state to talk yet."
+#Protagonist
+"That's true..."
+#Benio
+"The matter of the will has been left to Takamine. If you're curious, you should ask him."
+#Protagonist
+"I see..."
+#Shion
+"The will... I'm sorry, I don't really know..."
+#Protagonist
+"That's true..."
+#Tsujimura
+"...Regarding that matter, there is nothing I can say."
+#Protagonist
+"That's true..."
+#Takamine
+"It is not yet time. As long as the cause of Rokuyou-kun's murder is not clear, I have no intention of making the contents public."
+#Protagonist
+"T-That's true..."
+#Mikanagi
+"That is... not a matter I can say anything about."
+#Protagonist
+"That's true..."
+#Narumi
+"A will, huh... It's not like I'm getting any money, so I'm not very interested."
+#Protagonist
+"I see..."

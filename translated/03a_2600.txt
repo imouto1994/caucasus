@@ -1,28 +1,28 @@
-“ñŠK‚É–ß‚Á‚Ä‚«‚½B
-”‚È‚é‚İ
-u‚³‚ÄA‚±‚ê‚©‚ç‚Ç‚¤‚·‚é‚ÌHv
-”ålŒö
-u‚Ü‚¸‚Ícc‚±‚Ìè‹L‚ğ“Ç‚ñ‚Å‚İ‚Ü‚µ‚å‚¤v
-‚Ú‚­‚Í’n‰º‚ÅŒ©‚Â‚¯‚½è’ ‚ğæ‚èo‚µ‚½B
-”‚È‚é‚İ
-uàY‚Ì–‚ª‘‚©‚ê‚Ä‚¢‚ê‚Î‚¢‚¢‚¯‚Çccv
-‚È‚é‚İ‚³‚ñ‚à”`‚«‚ñ‚Å‚­‚éB
-‚³‚Ä\\
-”ålŒö
-u‚±‚ê‚Íccv
-è’ ‚ğ‚Âè‚ªk‚¦‚Ä‚¢‚½B
-”‚È‚é‚İ
-u‚±‚ñ‚È–‚ª‚ ‚Á‚½‚Ì‚Ëccv
-‚±‚±‚É‘‚©‚ê‚Ä‚¢‚é–‚ª^À‚È‚ç‚ÎAwµœß‚«‚Ìô‚¢x‚Æ‚Ícc
-”ålŒö
-ucc‚Ù‚Æ‚ñ‚Ç–€–é‚³‚ñ‚ª—‚ñ‚Å‚¢‚é‚ñ‚¶‚á‚È‚¢‚Å‚·‚©ccv
-”‚È‚é‚İ
-u‚Æ‚Ä‚à‚»‚¤‚Æ‚Ív‚¦‚È‚¢‚¯‚Çcc‚Å‚àŠm‚©‚É‰œ—l‚Í”N—î‚æ‚è‚à‚¸‚Á‚Æá‚­Œ©‚¦‚é‚Ì‚æ‚Ëccv
-”ålŒö
-ucc‚¾‚Æ‚·‚é‚ÆA‚â‚Á‚Ï‚è‚±‚±‚É‘‚©‚ê‚Ä‚¢‚é’n‰ºº‚É‰½‚©”é–§‚ª‚ ‚é‚ñ‚Å‚µ‚å‚¤‚Ëccv
-”‚È‚é‚İ
-u‚¨•ó‚©‚ç‚Í‚Ù‚Ç‰“‚¢‚í‚Ëcc‚Ü‚ ‚±‚±‚Ü‚Å—ˆ‚½‚çŠm‚©‚ß‚È‚«‚á‚È‚ç‚È‚¢‚Å‚µ‚å‚¤‚¯‚ÇB‚Ç‚±‚©‚ç“ü‚é‚ÌHv
-”ålŒö
-u‹°‚ç‚­’n‰º‚Ìcc‹@ŠBº‚Ì‰œ‚É”à‚ª‚ ‚Á‚½‚æ‚¤‚Å‚·‚¯‚Çv
-”‚È‚é‚İ
-u‚¶‚á‚ s‚Á‚Ä‚İ‚Ü‚µ‚å‚¤B“Å‚ğH‚ç‚í‚ÎM‚Ü‚Å‚æv
+We returned to the second floor.
+#Narumi
+"Now, what are we going to do next?"
+#Main Character
+"First... let's read this journal."
+I pulled out the notebook we found in the basement.
+#Narumi
+"I hope it says something about the inheritance..."
+Narumi-san peered over my shoulder.
+Now thenâ€”
+#Main Character
+"This is..."
+My hands trembled as I held the notebook.
+#Narumi
+"To think such things happened..."
+If whatâ€™s written here is the truth, then the 'Curse of the Nanatsuki' is...
+#Main Character
+"...Isn't Maya-san involved in almost all of it...?"
+#Narumi
+"Itâ€™s hard to believe, but... the Madam definitely looks much younger than her actual age..."
+#Main Character
+"...If thatâ€™s the case, there must be a secret in the basement mentioned here after all..."
+#Narumi
+"Itâ€™s a far cry from treasure... though I suppose we have to go check it out now that weâ€™ve come this far. Where do we enter?"
+#Main Character
+"There was likely a door at the back of the... machine room in the basement."
+#Narumi
+"Then letâ€™s go. In for a penny, in for a pound."

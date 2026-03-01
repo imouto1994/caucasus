@@ -1,0 +1,40 @@
+#Souko
+"...It looks like it was pulled with such force that it just snapped off. I wonder what happened..."
+#Protagonist
+"You're right..."
+#Maya
+"...I am certain this is Shion's hair, but..."
+#Protagonist
+"I see..."
+#Ai
+"It appears to be Shion's hair... though it's quite badly damaged..."
+#Protagonist
+"Right..."
+#Benio
+"...It's not at all strange for Shion's hair to be in the chapel. However... the problem is why it’s damaged to this extent."
+#Protagonist
+"Yeah... you're right."
+#Shion
+"That is... my hair, I believe..."
+#Protagonist
+"I thought so..."
+#Tsujimura
+"It appears to be Lady Shion's hair... but it looks as though it was pulled out with significant force..."
+#Protagonist
+"Right..."
+#Takamine
+"Hair that color couldn't belong to anyone but Shion-kun."
+#Protagonist
+"You're right..."
+#Mikanagi
+"There's no doubt it's Shion-san's hair. It seems it was pulled with great force... I wonder what could have happened..."
+#Protagonist
+"I see..."
+#Akane
+"It certainly appears to be Lady Shion's hair, but..."
+#Protagonist
+"I see..."
+#Narumi
+"I'm pretty sure that's Lady Shion's hair."
+#Protagonist
+"I see."

@@ -1,0 +1,36 @@
+#Maya
+"...I am sorry, I do not really know."
+#Satoshi
+"I see..."
+#Ai
+"...I'm sorry, I don't really know."
+#Satoshi
+"I see..."
+#Benio
+"...All the keys in this mansion look much the same. It's difficult to judge them by appearance alone."
+#Satoshi
+"I see..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Satoshi
+"I see..."
+#Tsujimura
+"Actually... the key to the chapel is missing. I used a spare to open it just now, but..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Mikanagi
+"I don't really know."
+#Satoshi
+"I see..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"I don't really know about that."
+#Satoshi
+"I see..."

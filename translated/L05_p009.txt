@@ -1,0 +1,24 @@
+#Souko
+"Akane-san, huh... I haven't found any reason for her to be the killer so far."
+#Satoshi
+"I see..."
+#Benio
+"Akane seemed to be in the second-floor corridor... perhaps she was looking for my sister."
+#Satoshi
+"I see..."
+#Tsujimura
+"As for Mistress Hiyama, I believe she would have been preparing lunch around that time..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Akane
+"I... was looking for Lady Ai. But she wasn't in her room... I can't believe it turned out like this..."
+#Satoshi
+"I see..."
+#Narumi
+"Akane was supposed to go look for Lady Ai, but... to think this would happen..."
+#Satoshi
+"I see..."

@@ -1,0 +1,40 @@
+#Souko
+"Akane-san? she seems like a serious, good girl."
+#Satoshi
+"She does."
+#Maya
+"Akane works very hard. She's very attentive to the smallest details."
+#Satoshi
+"I see."
+#Ai
+"Akane-san? She works very hard."
+#Satoshi
+"I see."
+#Benio
+"Akane-san? She is a very good person. A bit scatterbrained at times, but..."
+#Satoshi
+"I see..."
+#Tsujimura
+"Ms. Hiyama? She handles her work properly, and I have no complaints..."
+#Satoshi
+"I see."
+#Rokuyou
+"Akane? She seems a bit flighty, but she's giving it her all, isn't she?"
+#Satoshi
+"I see."
+#Takamine
+"Hiyama-kun... to think someone would come to the depths of the mountains to work so hard."
+#Satoshi
+"I see."
+#Mikanagi
+"Akane-san... maybe she's shy, she hasn't talked to me much."
+#Satoshi
+"I see..."
+#Akane
+"Eh, about me!? No, there's nothing to tell, really!"
+#Satoshi
+"I see..."
+#Narumi
+"About Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... ah, don't tell anyone I said that, okay?"
+#Satoshi
+"Uh, sure..."

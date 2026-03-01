@@ -1,27 +1,27 @@
-階段を上がる。
-あかねさんは御巫先生の様子を見に行ったのだから、ぼくの部屋がある北側に居る筈だ。
-医務室を覗き込むと、何故かあかねさんひとりしか居なかった。
-＃主人公
-「あれ……あかねさん？」
-＃あかね
-「ひゃいっ！？」
-あかねさんが飛び上がって振り返る。
-何故か御巫先生の白衣を握り締めていた。
-＃主人公
-「えーっと……何をしているんですか？」
-＃あかね
-「な、何でもありませんよっ！？」
-もの凄く慌てた様子で白衣をたたみ始めた。
-＃主人公
-「……御巫先生は？」
-＃あかね
-「おっ、お部屋に戻られてますけどっ……」
-＃主人公
-「無事は確認されてるんですね、よかった」
-＃あかね
-「え、ええっ……」
-まあ……深くは訊かない方がいいんだろうな。
-＃主人公
-「問題ないようでしたら、ぼくは戻りますね。あかねさんもあまり出歩かないようにしておいてください」
-＃あかね
-「はいっ、わかりました」
+I went up the stairs.
+Since Akane-san had gone to check on Dr. Mikanagi, she should be on the north side where my room was.
+Peering into the clinic, I found Akane-san there, all alone.
+#Main Character
+"Oh... Akane-san?"
+#Akane
+"Hyaah!?"
+Akane-san nearly jumped out of her skin as she whirled around.
+For some reason, she was clutching Dr. Mikanagi's white coat.
+#Main Character
+"Uh... what are you doing?"
+#Akane
+"N-nothing at all!?"
+In a state of extreme panic, she began to fold the white coat.
+#Main Character
+"...Where is Dr. Mikanagi?"
+#Akane
+"H-he's returned to his room...!"
+#Main Character
+"So his safety窶冱 been confirmed. That窶冱 a relief."
+#Akane
+"Y-yes..."
+Well... I figured it was best not to dig any deeper.
+#Main Character
+"If everything窶冱 fine, I'll head back. Akane-san, please try not to wander around too much."
+#Akane
+"Yes! Understood."

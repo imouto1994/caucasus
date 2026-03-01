@@ -1,0 +1,24 @@
+#Souko
+"Narumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san."
+#Satoshi
+"...True."
+#Benio
+"Narumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either."
+#Satoshi
+"I see..."
+#Tsujimura
+"Mistress Minakami is cooped up in the kitchen for most of this time. She has lunch to prepare, after all."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Akane
+"Narumi-san was in the kitchen making lunch."
+#Satoshi
+"I see."
+#Narumi
+"I was in the kitchen the whole time. Lady Benio was in the dining hall, so she'd know."
+#Satoshi
+"I see..."

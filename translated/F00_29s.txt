@@ -1,0 +1,100 @@
+I searched the area, but I couldn't find anything resembling a key.
+Inside the drawer by the bedside, I found a small wood fragment.
+What is this...? It looks like a piece of parquetry.
+#Protagonist
+"...I suppose I'll hang onto this for now."
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+Items that Kousei-san likely used remain inside the drawer.
+There's nothing particularly eye-catching inside.
+There's nothing unusual inside.
+The organ Kousei-san used has been left exactly as it was.
+He must have done his composing here as well.
+It's the organ Kousei-san used.
+A beautiful painting is on display.
+Looking closely, I see it's signed "S. TSUJIMURA."
+It appears to be a painting by Tsujimura-san.
+One of Tsujimura-san's paintings is on display.
+#Protagonist
+"Hm...?"
+A scrap of paper is peeking out from behind the frame.
+What could this be...?
+'A Certain Man's Story: Chapter Five'
+—Hmph, I bet you think my takoyaki tastes like shit too, don't you? Acting like you know everything without even taking a bite.
+Hey, do you get it? What takoyaki needs isn't flavor—it's about making the customer who bought it feel a little bit of happiness.
+Whether it tastes good or bad isn't what's truly necessary. At least, that's how I've lived my life.
+The man's verbal assault didn't stop. I felt a deep sense of pity from the bottom of my heart, thinking he must have lived a remarkably miserable life. ~To be continued~
+#Protagonist
+"...What the hell is this?"
+A scrap of paper titled 'A Certain Man's Story: Chapter Five' is tucked inside.
+A large painting is on display.
+The artist's name is... "Mamiya Shinzou," it seems.
+A large painting is on display.
+An easy chair has been placed here.
+I wonder if Kousei-san used to sit here lost in thought...
+An easy chair has been placed here.
+It's a large bed.
+The sheets are perfectly smooth, as if it hasn't been used for a long time.
+This must be the bed Kousei-san used.
+A photograph is on display.
+Is this Maya-san when she was young...?
+A photograph of Maya-san in her youth is on display.
+The fire in the hearth has been extinguished.
+There should be no problem investigating it.
+I peer deep into the chimney, but there's nothing there.
+It happened just as I moved the ash pan aside.
+#Protagonist
+"Ah—"
+#Narumi
+"Did you find something?"
+Narumi-san peers in beside me.
+#Protagonist
+"Is this... a keyhole?"
+A small hole has been bored into the floor of the fireplace.
+#Narumi
+"It looks that way... maybe this bottom section opens up."
+#Protagonist
+"Can you open it?"
+#Narumi
+"I wonder..."
+Narumi-san crouches down and inserts a wire into the keyhole on the floor.
+#Narumi
+"The first time with a lock is always the hardest..."
+Narumi-san struggled with it for a while, but eventually stood up, seemingly having given up.
+#Narumi
+"It'll be faster to just find the actual key."
+#Protagonist
+"I see... but where would the real key be...?"
+#Narumi
+"To begin with, it was a mistake to decode the second half of the cipher first. I think we'll get the key once we solve the first half."
+#Protagonist
+"The first half...?"
+The first half of '1SO K H5 / 1SN KAMIN'.
+#Protagonist
+"At the very least, I think we've established that '1SN KAMIN' refers to the fireplace in the north of the second floor..."
+Just then, Narumi-san clapped her hands together.
+#Narumi
+"I've got it! It's the European floor numbering. Didn't they call the first floor the ground floor?"
+#Protagonist
+"So the second floor is '1F'... which makes it '1S' in this case."
+#Narumi
+"So the first half is also on the second floor... but where's 'O'?"
+#Protagonist
+"Could it be the center...? But there's nothing in the middle of the second floor."
+#Narumi
+"...Well, we'll manage somehow if we just keep at it like we did when we found this place."
+#Protagonist
+"But 'K H5' isn't as obvious as a fireplace..."
+#Narumi
+"But it's definitely something, so let's give it a shot."
+#Protagonist
+"You're right..."
+There's no point in investigating here further until we find the key.

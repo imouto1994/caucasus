@@ -1,33 +1,33 @@
-二階の吹き抜けを通り過ぎ、西側へ。
-紅緒さんに話をしてみよう。
-＃主人公
-「紅緒さん、ぼくです」
-＃紅緒
-「何だ、どうした？」
-＃主人公
-「あかねさんを見てませんか？　今朝から見付からないんです」
-＃紅緒
-「あかね……？　そういや、見てないな……」
-＃主人公
-「何か知りませんか？」
-＃紅緒
-「そうは言ってもな……」
-紅緒さんが考え込む。
-＃紅緒
-「今朝も見ていないと云う事は、夜のうちに居なくなった可能性が高いのか……」
-＃主人公
-「そうですね……」
-＃紅緒
-「だとすると私にはお手上げだな。きみだってここに居たのだから、何かを知れる事も出来まい」
-＃主人公
-「……ええ」
-＃紅緒
-「……犯人に拐かされたのか……だとすると何処かに幽閉されているのだろうか……」
-＃主人公
-「……一刻も早く見つけ出します」
-＃紅緒
-「ああ。私も協力しよう」
-＃主人公
-「ありがとうございます。なるみさんも探している筈なので、手分けしましょう。ぼくは一階を見てきます」
-＃紅緒
-「わかった。では後で」
+I passed through the second-floor atrium and headed west.
+I'll try talking to Benio-san.
+#Main Character
+"Benio-san, it's me."
+#Benio
+"What is it? What's wrong?"
+#Main Character
+"Have you seen Akane-san? She's been missing since this morning."
+#Benio
+"Akane...? Now that you mention it, I haven't seen her..."
+#Main Character
+"Do you know anything?"
+#Benio
+"Even if you ask me that..."
+Benio-san fell into thought.
+#Benio
+"If we haven't seen her this morning, then there's a high probability she disappeared during the night..."
+#Main Character
+"Yeah..."
+#Benio
+"If that's the case, I'm at a loss. Since you were here too, you couldn't have known anything either."
+#Main Character
+"...Yeah."
+#Benio
+"...Was she kidnapped by the killer...? If so, is she being held prisoner somewhere...?"
+#Main Character
+"...I'll find her as soon as possible."
+#Benio
+"Yeah. I'll help too."
+#Main Character
+"Thank you. Narumi-san is likely searching as well, so let's split up. I'll check the first floor."
+#Benio
+"Alright. See you later."

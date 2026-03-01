@@ -1,25 +1,25 @@
-部屋に戻ってきた。
-＃想子
-「とんでもないことになっちゃったわね……」
-一緒に戻ってきた想子さんが洩らす。
-＃主人公
-「そうですね……これからどうします？」
-＃想子
-「二日後に救援が来るとして……警察も来て詩音さんは逮捕されるでしょうね。そうなるとこの辺りの伝承を調べるのも難しくなるわ」
-＃主人公
-「帰りますか？」
-＃想子
-「……そうね。大人しくしていた方がよさそうだわ」
-そう言って想子さんがコーラの瓶を取り出す。
-＃想子
-「これもあと二日もつかどうか……大事に飲まないとね」
-＃主人公
-「でも……まだ不明な事はありますよね。動機もそうですが、六曜さんの頭部の行方とか、電話線、吊り橋だって――」
-＃想子
-「そういうのはやってくる警察に任せましょ。彼女が自供した以上、あちらさんが強引にでも結びつけるわよ」
-＃主人公
-「ですが――」
-なんだか納得いかない。
-ぼくは事件を解決したはずなのに――なんだろう、このもやもやは。
-犯人は見付かった。
-でも……そのほかの何もかもが闇に葬り去られたような気がしていた。
+I've returned to my room.
+#Souko
+"Things turned out quite horribly, didn't they窶ｦ窶ｦ"
+Souko-san, who returned with me, murmured.
+#Satoshi
+"They really did窶ｦ窶ｦ what should we do now?"
+#Souko
+"Assuming help arrives in two days窶ｦ窶ｦ the police will come, and Shion-san will be arrested, I suppose. That'll make it difficult to research the local legends around here."
+#Satoshi
+"Are we going home?"
+#Souko
+"窶ｦ窶ｦYeah. It seems best to just stay quiet."
+Saying so, Souko-san took out a bottle of Coke.
+#Souko
+"I wonder if this will last another two days窶ｦ窶ｦ I'll have to drink it sparingly."
+#Satoshi
+"But窶ｦ窶ｦ there are still things that aren't clear. The motive, for one, and the whereabouts of Rokuyou-san's head, the phone line, even the suspension bridge窶披�"
+#Souko
+"Let's leave all that to the police when they arrive. Since she confessed, they'll find a way to tie it all together, even if they have to force it."
+#Satoshi
+"But窶披�"
+Somehow, it didn't sit right with me.
+I should have solved the case窶披敗o what was this nagging feeling?
+The culprit had been found.
+But窶ｦ窶ｦ I felt as though everything else had been buried away in the darkness.

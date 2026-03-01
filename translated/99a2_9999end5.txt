@@ -1,59 +1,60 @@
-‚Ú‚­‚ç‚Í“Œ‹ž‚É–ß‚èA•½‰¸‚È“úí‚É‰ñ‹A‚µ‚Ä‚¢‚½B
-H‚É‚È‚èAŒŽ‚Ìo‚Ä‚¢‚é–é“¹‚ð•à‚¢‚Ä‚¢‚é‚Ú‚­‚Ì‘O‚ÉAŒ©Šo‚¦‚Ì‚ ‚él‚ªŒ»‚ê‚½B
-”ŽålŒö
-u‚¦ccHv
-”HHH
-ucc‚¤‚ív
-”ŽålŒö
-u‚È‚é‚Ý‚³‚ñcc‚Å‚·‚æ‚ËHv
-”‚È‚é‚Ý
-ucc‚ÐAlˆá‚¢‚¶‚á‚ ‚è‚Ü‚¹‚ñ‚±‚ÆHv
-”ŽålŒö
-ucc‚¢‚âA‚È‚é‚Ý‚³‚ñ‚Å‚µ‚åB‰½‚µ‚Ä‚é‚ñ‚Å‚·‚©Hv
-”‚È‚é‚Ý
-u‚µccŽdŽ–’†‚æv
-”ŽålŒö
-uŽdŽ–‚Á‚Äcc“D–_‚Å‚·‚©Hv
-”‚È‚é‚Ý
-u‚µ[‚ÁI@º‚ª‘å‚«‚¢‚í‚æIv
-‚È‚é‚Ý‚³‚ñ‚ª‚Ú‚­‚Ì•ž‚Ì‘³‚ðˆø‚Á’£‚Á‚Ä“¹‚Ì’[‚Ö˜A‚ê‚Äs‚­B
-”‚È‚é‚Ý
-ucc‚±‚ÌŠiD‚Å“D–_‚È‚ñ‚Ä‚·‚é–ó‚È‚¢‚¶‚á‚È‚¢v
-”ŽålŒö
-u‚Å‚·‚¯‚Çcc‚Ç‚¤‚¹‰½ˆ‚©‚Ì—·ŠÙ‚©‰½‚©‚Éö“ü‚µ‚Ä‚¢‚é‚ñ‚Å‚µ‚å‚¤H@ŽµœßŠÙ‚ÌŽž‚à‚»‚¤‚Å‚µ‚½‚µccv
-”‚È‚é‚Ý
-u‚¤‚Ácc‚ÜA‚Ü‚ ‚Ëcc‚ ‚»‚±‚¶‚á‚ë‚­‚É‰Ò‚°‚È‚©‚Á‚½‚©‚ç‚³‚ cc‚»‚¤‚¾A‚¿‚å‚Á‚ÆŽè“`‚Á‚Ä‚­‚ê‚È‚¢‚©‚ÈHv
-”ŽålŒö
-u‚¦cc‰}‚Å‚·‚æv
-”‚È‚é‚Ý
-u‚»‚ñ‚ÈŽ–Œ¾‚í‚¸‚É‚³‚ Bˆê‚ÉŽ€ü‚ð‚­‚®‚è”²‚¯‚Ä‚«‚½’‡‚¶‚á‚È‚¢v
-”ŽålŒö
-u‚ ‚ê‚Æ‚±‚ê‚Æ‚Í‘S‘Rˆá‚¤‚¶‚á‚È‚¢‚Å‚·‚©v
-”‚È‚é‚Ý
-u¡‚ ‚½‚µ‚ª‚¢‚é—¿’à‚È‚ñ‚¾‚¯‚Ç‚³A‘åŠé‹Æ‚Ì‚¨ˆÌ‚¢‚³‚ñ‚à‚æ‚­—ˆ‚é‚Ì‚æB‚±‚È‚¢‚¾‚àƒoƒCƒN‚ðì‚Á‚Ä‚éŠ‚Ìl‚ª—ˆ‚Ä‚Ë\\v
-‚È‚é‚Ý‚³‚ñ‚Í‚Ú‚­‚ÌŒ¾—t‚ð–³Ž‹‚µ‚Ä‚µ‚á‚×‚èo‚·B
-”‚È‚é‚Ý
-u‚È‚ñ‚Æ‚©‚Á‚Ä‚¢‚¤ŠCŠO‚ÌŽ©“®ŽÔƒŒ[ƒX‚Éo‚Ä‚é‚ç‚µ‚¢‚ñ‚¾‚¯‚ÇA‚»‚ê—p‚Éì‚Á‚½ŽÔ‚ð‰½‚Æ‚©“‚Ýo‚¹‚È‚¢‚©‚È[‚ÆŽv‚Á‚Ä‚³v
-”ŽålŒö
-u–³’ƒŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢‚æccŠCŠO‚Ü‚Ås‚­‚Â‚à‚è‚Å‚·‚©Hv
-”‚È‚é‚Ý
-u‚»‚ê‚ª‚³AŽOd‚ÌƒŒ[ƒXê‚ÉƒeƒXƒg—p‚ÌŽÔ‚ª’u‚¢‚Ä‚ ‚é‚ñ‚¾‚Á‚ÄB‚»‚ê‚¾‚Á‚½‚ç‚È‚ñ‚Æ‚©‚È‚é‚æ‚¤‚È‹C‚ª‚µ‚È‚¢Hv
-”ŽålŒö
-u‹C‚ª‚µ‚Ü‚¹‚ñB’ú‚ß‚Ä‚­‚¾‚³‚¢v
-”‚È‚é‚Ý
-u‚¢‚¯‚¸‚¾‚Ë‚¦cc­‚µ‚­‚ç‚¢•t‚«‡‚Á‚Ä‚­‚ê‚Ä‚à‚¢‚¢‚¶‚á‚È‚¢‚Ìv
-”ŽålŒö
-u‚Ú‚­‚ÍŒ˜ŽÀ‚É¶‚«‚½‚¢‚ñ‚Å‚·‚æv
-”‚È‚é‚Ý
-uj“n‚èl¶‚àŠy‚µ‚¢‚í‚æHv
-”ŽålŒö
-ucc‚Ü‚ A­‚µ‚­‚ç‚¢‚È‚ç‚»‚¤‰]‚¤‚Ì‚à\\v
-‚»‚¤™ê‚¢‚½“r’[A‚ª‚Á‚µ‚Æ˜r‚ð’Í‚Ü‚ê‚½B
-”‚È‚é‚Ý
-u‚æ‚µŒˆ‚Ü‚èI@‚»‚ê‚¶‚á“Œ‹ž‰w‚És‚­‚æB–¼ŒÃ‰®‚Ü‚ÅVŠ²ü‚Å‚·‚®‚¾‚©‚ç‚³v
-”ŽålŒö
-u‚¢A‚¢‚âA‚Ú‚­‚Í‚Ü‚¾‚»‚ñ‚È‚Â‚à‚è‚¶‚á\\IHv
-”‚È‚é‚Ý
-u‘åä•v‚¾‚Á‚ÄIv
-‚»‚Ì‚Ü‚Ü‚¸‚é‚¸‚é‚Æˆø‚« ‚ç‚ê‚Äs‚­B
-‚â‚ê‚â‚êcc“úX•½‰¸‚ª‚¢‚¢‚Ì‚¾‚¯‚Ç‚È‚ cc
+
+We returned to Tokyo and went back to our peaceful daily lives.
+It was autumn, and I was walking down a moonlit path when a familiar person appeared before me.
+#Main Character
+"Eh...?"
+#???
+"â€¦â€¦Whoops."
+#Main Character
+"Narumi-san... right?"
+#Narumi
+"â€¦â€¦M-might you have the wrong person?"
+#Main Character
+"â€¦â€¦No, you're definitely Narumi-san. What are you doing?"
+#Narumi
+"I... I'm working."
+#Main Character
+"Working... you mean as a thief?"
+#Narumi
+"Shhh! You're being too loud!"
+Narumi-san pulled on my sleeve and led me to the edge of the path.
+#Narumi
+"â€¦â€¦I wouldn't be a thief dressed like this."
+#Main Character
+"But still... you're likely infiltrating some inn or something, aren't you? Just like at the Nanatsuki mansion..."
+#Narumi
+"Ugh... well, yeah... I couldn't exactly make a decent profit there... hey, I've got an idea. Could you help me out for a bit?"
+#Main Character
+"Eh... no thanks."
+#Narumi
+"Don't be like that. We've survived death together, haven't we?"
+#Main Character
+"That's completely different from this."
+#Narumi
+"So, the restaurant where I'm working now gets a lot of big shots from major corporations. The other day, a guy from a motorcycle company came inâ€”â€”"
+Narumi-san started talking, ignoring my words.
+#Narumi
+"Apparently they're entering some kind of car race abroad, and I was thinking if there was some way I could steal the car they made for it."
+#Main Character
+"Don't be ridiculous... do you intend to go all the way abroad?"
+#Narumi
+"The thing is, there's a test car at a racetrack in Mie. Don't you think we could manage something with that?"
+#Main Character
+"No, I don't. Give it up."
+#Narumi
+"You're so mean... you could at least tag along for a bit."
+#Main Character
+"I want to live a stable life."
+#Narumi
+"Living life on a tightrope can be fun too, you know?"
+#Main Character
+"â€¦â€¦Well, I suppose a little bit of that mightâ€”â€”"
+As soon as I muttered that, she grabbed my arm firmly.
+#Narumi
+"Alright, it's decided! We're heading to Tokyo Station then. It's just a short ride to Nagoya on the Shinkansen."
+#Main Character
+"W-wait, I didn't meanâ€”â€”!?"
+#Narumi
+"It'll be fine!"
+And so, I was dragged away.
+Good grief... I really do prefer a quiet life.

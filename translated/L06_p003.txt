@@ -1,0 +1,36 @@
+#Souko
+"Even if Ai-san died during the second blackout... we should probably scrutinize everyone's movements starting from the first blackout."
+#Satoshi
+"True..."
+#Maya
+"To think Ai has been murdered... I simply don't know what to do anymore..."
+#Satoshi
+"True..."
+#Benio
+"...So my sister was targeted again... The killer seems remarkably persistent..."
+#Satoshi
+"True..."
+#Shion
+"Lady Ai... How could this have happened..."
+#Satoshi
+"Shion-san..."
+#Tsujimura
+"Lady Ai... Why did this happen...?"
+#Satoshi
+"True..."
+#Takamine
+"So even Ai-kun was killed... What on earth is the killer's intent!?"
+#Satoshi
+"I... I don't know..."
+#Mikanagi
+"...If the head were found, the cause of death would be clearer... but given the situation, I can only call it death by electrocution for now."
+#Satoshi
+"I see..."
+#Akane
+"...You were with Lady Ai, weren't you...? If only you had been a little more attentive..."
+#Satoshi
+"...I'm sorry."
+#Narumi
+"It was during a blackout, after all... If only someone had been doing proper rounds..."
+#Satoshi
+"True..."

@@ -1,83 +1,83 @@
-ホールまで出てくると、ちょうど反対側の廊下から来た辻村さんと遭遇した。
-＃主人公
-「あ、辻村さん」
-＃辻村
-「どうかなさいましたか？」
-＃主人公
-「いえ、みんなの無事を確認しようと思ったんですが……」
-＃辻村
-「……何かあったのですか？」
-＃主人公
-「ええ、まあ……」
-ぼくは簡単に地下へ閉じこめられた事を話した。
-＃辻村
-「なんと……そんな事があったのですか……」
-＃主人公
-「あの、詩音さんはお部屋にいらっしゃいますか？」
-＃辻村
-「ええ……ずっと出てきておりませんが……」
-＃主人公
-「そうですか。じゃあ二階へ行って摩夜さんたちの様子を見てきます」
-＃辻村
-「わかりました。それではよろしくお願いいたします」
-ぼくは階段を上っていった。
-廊下の一番奥の摩夜さんの部屋。
-扉を叩く。
-＃主人公
-「摩夜さん、いらっしゃいますか？」
-扉が開き、疲れた様子の摩夜さんが顔を出した。
-＃摩夜
-「どうかなさいましたか？」
-＃主人公
-「何か変わったことなどはありませんでしたか？」
-＃摩夜
-「いえ、特には……」
-＃主人公
-「そうですか。申し訳ありませんがしばらくの間部屋でじっとしていて下さいませんか？」
-＃摩夜
-「ええ……構いませんが……」
-訝しげな表情を浮かべながらも、摩夜さんは部屋に戻って扉を閉めた。
-後は……藍さんか。
-藍さんの部屋の前に来て扉を叩く。
-＃主人公
-「藍さん、いらっしゃいますか？」
-＃藍
-「はい……どうしました？」
-藍さんが顔を出した。
-＃主人公
-「何か変わった事はありませんか？」
-＃藍
-「変わった事……いえ、ありませんけど？」
-＃主人公
-「そうですか、よかった」
-＃藍
-「何かありましたか？」
-藍さんが首を傾げる。
-＃主人公
-「いえ、たいしたことじゃないんです」
-ぼくは藍さんにも詳細を伏せておく事にした。
-＃藍
-「はあ……」
-＃主人公
-「まだ何があるかわかりませんので、注意は怠らないようにしてください」
-＃藍
-「ええ、わかったわ」
-藍さんが部屋に戻っていった。
-廊下の向こうから想子さんがやってきた。
-＃想子
-「こっちはどう？」
-＃主人公
-「特に問題はありませんでした」
-＃想子
-「高嶺さんも部屋に居たわ。御巫先生は……あかねさんが見に行ってるわね」
-＃主人公
-「何も無かったと考えてよさそうですね」
-＃想子
-「そうね……まだ油断は出来ないけど」
-＃主人公
-「想子さんも部屋に居て貰えますか？　食事が出来たら呼びますんで」
-＃想子
-「ええ、わかったわ。きみはどうするの？」
-＃主人公
-「ぼくは食堂に戻ります。あかねさんにも聞かないといけませんし」
-そう言ってぼくはまた一階へ戻る事にした。
+Reaching the hall, I ran into Tsujimura-san, who had just come from the corridor on the opposite side.
+#Main Character
+"Ah, Tsujimura-san."
+#Tsujimura
+"Is something the matter?"
+#Main Character
+"Nothing, I just thought I should check to make sure everyone is safe..."
+#Tsujimura
+"...Has something occurred?"
+#Main Character
+"Yeah, well..."
+I briefly told him about being locked in the basement.
+#Tsujimura
+"Good heavens... such a thing happened...?"
+#Main Character
+"Um, is Shion-san in her room?"
+#Tsujimura
+"Yes... she has not come out at all, however..."
+#Main Character
+"I see. Then I'll go upstairs and check on Maya-san and the others."
+#Tsujimura
+"I understand. I leave it in your hands."
+I climbed the stairs.
+To Maya-san's room at the very end of the corridor.
+I knocked on the door.
+#Main Character
+"Maya-san, are you there?"
+The door opened, and a weary-looking Maya-san peered out.
+#Maya
+"Is something the matter?"
+#Main Character
+"Has anything unusual happened?"
+#Maya
+"No, nothing in particular..."
+#Main Character
+"I see. I窶冦 sorry to ask this, but would you mind staying in your room for a while?"
+#Maya
+"Yes... I don't mind..."
+Though she looked suspicious, Maya-san returned to her room and closed the door.
+Next was... Ai-san.
+I reached Ai-san's room and knocked.
+#Main Character
+"Ai-san, are you there?"
+#Ai
+"Yes... what is it?"
+Ai-san peered out.
+#Main Character
+"Has anything unusual happened?"
+#Ai
+"Unusual... no, nothing?"
+#Main Character
+"I see. That's good."
+#Ai
+"Did something happen?"
+Ai-san tilted her head.
+#Main Character
+"No, it's nothing major."
+I decided to keep the details hidden from Ai-san as well.
+#Ai
+"I see..."
+#Main Character
+"We still don't know what might happen, so please be careful and stay alert."
+#Ai
+"Yes, I understand."
+Ai-san went back into her room.
+Souko-san approached from the other end of the corridor.
+#Souko
+"How are things on this side?"
+#Main Character
+"No problems here."
+#Souko
+"Takamine-san was in his room too. Dr. Mikanagi... Akane-san went to check on him."
+#Main Character
+"It seems we can assume nothing has happened yet."
+#Souko
+"Right... though we can't let our guard down."
+#Main Character
+"Souko-san, could you stay in your room as well? I'll call you when the food is ready."
+#Souko
+"Sure, I understand. What about you?"
+#Main Character
+"I'm going back to the dining room. I need to talk to Akane-san too."
+With that, I decided to head back down to the first floor.

@@ -1,49 +1,49 @@
-á‚Í•ª‚Æ¬U‚è‚É‚È‚Á‚Ä‚¢‚é‚æ‚¤‚Év‚¦‚½B
-¯–¾‚©‚è‚ªŒ©‚¦‚é‚Ù‚Ç‚Å‚Í‚È‚¢‚ªA‰_‚à•ª”–‚­‚È‚Á‚Ä‚¢‚é‚æ‚¤‚¾B
-“ƒ‚Ì’†‚Ö“ü‚éB
-”g
-uŒ®‚ÍŠ|‚¯‚Ä‚¢‚È‚¢‚Ì‚¾‚Èv
-“ü‚Á‚Ä‚«‚½”à‚ğŒ©‚Äg‚³‚ñ‚ªŒ¾‚¤B
-”Œä›Ş
-uŠ|‚¯‚Ä‚¨‚­‚æ‚¤‚É‚ÍŒ¾‚Á‚Ä‚¨‚¢‚½‚Ì‚¾‚¯‚ê‚Ç‚Ëccv
-”ålŒö
-u‚¿‚å‚Á‚Æ‹C‚É‚È‚è‚Ü‚·‚Ëccs‚«‚Ü‚µ‚å‚¤v
-‚Ú‚­‚ªæ“ª‚É—§‚Á‚ÄŠK’i‚ğã‚Á‚Ä‚¢‚­B
-”ålŒö
-u‰¹‚³‚ñA‚Ú‚­‚Å‚·B‹N‚«‚Ä‚Ü‚·‚©ccHv
-b‚­‘Ò‚Á‚Ä‚İ‚½‚ªA’†‚©‚ç‚Ì”½‰‚Í‚È‚©‚Á‚½B
-”ålŒö
-u‰¹‚³‚ñ\\Hv
-”g
-u‚Ç‚¢‚Ä‚­‚êv
-g‚³‚ñ‚ª‚Ú‚­‚ÆêŠ‚ğ“ü‚ê‘Ö‚í‚èA”à‚Ìƒmƒu‚ğ”P‚Á‚½B
-”g
-uŠJ‚¢‚Ä‚écc‰¹Iv
-g‚³‚ñ‚É‘±‚¢‚Ä•”‰®‚Ì’†‚É“ü‚éB
-‰¹‚³‚ñ‚Íƒxƒbƒh‚Ìã‚É‰ç‚¹‚Á‚Ä‚¢‚½B
-”ålŒö
-u‰¹‚³‚ñccHv
-‚Ú‚­‚æ‚è‚àæ‚ÉAg‚³‚ñ‚ª‰¹‚³‚ñ‚É‹ì‚¯Šñ‚éB
-”g
-u‰¹‚ÁI@cc‚Í‚©‚¹A—ˆ‚Ä‚­‚êv
-”Œä›Ş
-u‰¹‚³‚ñcc‚±‚ê‚Í\\v
-”ålŒö
-u‚ÈA‚È‚ñ‚Å‚·‚©ccHv
-”g
-ucc€‚ñ‚Å‚¢‚év
-g‚³‚ñ‚ªñ‚ğU‚Á‚½B
-”ålŒö
-u‚ÇA‚Ç‚¤‚µ‚Äccv
-”Œä›Ş
-ucc‹°‚ç‚­AƒVƒAƒ“‰»ƒJƒŠƒEƒ€‚¾‚ë‚¤B“Å•¨‚¾v
-”ålŒö
-u“ÅccHv
-”g
-ucc©E‚©A‘¼E‚©‚Í‚í‚©‚é‚©Hv
-”Œä›Ş
-u‚»‚±‚Ü‚Å‚Ícc‚½‚¾AÂ_‚ğ‹C•t‚©‚ê‚¸‚Éˆù‚Ü‚¹‚é‚Ì‚Í“ï‚µ‚¢‚©‚çA©E‚Ì‰Â”\«‚Í‚ ‚é‚ªccv
-”ålŒö
-ucc‰½‚©Ø‹’‚ğŒ©‚Â‚¯‚Ü‚µ‚å‚¤B©E‚É‚¹‚æ‘¼E‚É‚¹‚æA•K‚¸‰½‚©ˆâ‚³‚ê‚Ä‚¢‚é”¤‚Å‚·v
-”g
-ucc‚ ‚ A‚»‚¤‚¾‚Èv
+It seemed the snow had weakened considerably.
+Though the starlight was not yet visible, the clouds appeared to have thinned significantly.
+We entered the tower.
+#Benio
+"It's not locked."
+Benio-san said, looking at the door weâ€™d just entered.
+#Mikanagi
+"I told her to keep it locked, but..."
+#Main Character
+"I'm a bit concerned... let's go."
+I led the way up the stairs.
+#Main Character
+"Shion-san, it's me. Are you awake...?"
+I waited for a moment, but there was no response from inside.
+#Main Character
+"Shion-sanâ€”?"
+#Benio
+"Step aside."
+Benio-san swapped places with me and turned the doorknob.
+#Benio
+"It's open... Shion!"
+I followed Benio-san into the room.
+Shion-san was slumped over the bed.
+#Main Character
+"Shion-san...?"
+Benio-san rushed to Shion-san's side before I could.
+#Benio
+"Shion! ...Doctor, come here."
+#Mikanagi
+"Shion-san... this isâ€”"
+#Main Character
+"W-What is it...?"
+#Benio
+"...She's dead."
+Benio-san shook her head.
+#Main Character
+"Why... how..."
+#Mikanagi
+"...Most likely potassium cyanide. Poison."
+#Main Character
+"Poison...?"
+#Benio
+"...Can you tell if it was suicide or murder?"
+#Mikanagi
+"As for that... itâ€™s hard to make someone drink cyanide without them noticing, so there's a possibility of suicide, but..."
+#Main Character
+"...Let's find some proof. Whether it was suicide or murder, something must have been left behind."
+#Benio
+"...Right."

@@ -1,27 +1,27 @@
-藍さんが乱れた服を直して立ち上がる。
-＃藍
-「……ありがとうございました」
-＃主人公
-「……よしてください。ぼくは何も――紅緒さんも救えなかったんですから」
-＃藍
-「ですが……私の心を助けてくださいました」
-藍さんが深く頭を下げてくる。
-＃藍
-「もちろん、紅緒を失った疵はそのままですが……それに押しつぶされる事無くいけるような気がします」
-＃主人公
-「そうですか……」
-ぼくがそれだけの事をしたとは思っていない。
-藍さんが紅緒さんの死を乗り越えていく決意をしただけだ。
-ただ……これから何があっても、ぼくは藍さんを支えていきたい。
-まずは――このふざけた事態をなんとかして改善しなくては。
-＃主人公
-「……藍さんは部屋にこもって、じっとしていてください。誰が来ても、不用意に扉を開けないようにしてください」
-＃藍
-「往かれるのですね……」
-＃主人公
-「ええ……ぼくが動かないと、犯人を見つけられないと思いますから」
-＃藍
-「そう……どうか、お気をつけて……」
-＃主人公
-「ええ。……それでは」
-ぼくは藍さんに口付けをしてから、彼女の部屋を出た。
+Ai-san straightened her disheveled clothes and stood up.
+#Ai
+"...Thank you very much."
+#Main Character
+"...Please, don't. I haven't done anything窶祢 couldn't even save Benio-san."
+#Ai
+"But... you saved my heart."
+Ai-san bowed her head deeply.
+#Ai
+"Of course, the wound from losing Benio remains... but I feel like I can go on without being crushed by it."
+#Main Character
+"I see..."
+I didn't feel like I窶囘 done anything special.
+Ai-san had simply made the decision to overcome Benio-san's death.
+But... no matter what happens from now on, I want to support Ai-san.
+First窶祢 have to find a way to fix this ridiculous situation.
+#Main Character
+"...Ai-san, please stay cooped up in your room. Don't open the door for anyone, no matter who it is."
+#Ai
+"You窶决e going, then...?"
+#Main Character
+"Yeah... if I don't move, I don't think I'll ever find the culprit."
+#Ai
+"I see... please, be careful..."
+#Main Character
+"Yeah. ...Well then."
+I gave Ai-san a kiss and then left her room.

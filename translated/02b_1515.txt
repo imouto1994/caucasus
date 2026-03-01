@@ -1,14 +1,14 @@
-医務室の前にまでやって来て、扉を軽く叩いてから開ける。
-＃主人公
-「失礼します。昼食を持ってきました」
-医務室には御巫先生と摩夜さんが居た。
-＃御巫
-「ああ、ありがとう」
-＃摩夜
-「……ありがとうございます」
-＃主人公
-「ここに置いておきますね」
-御巫先生の机の上に皿を置く。
-＃主人公
-「……じゃあ、ぼくはこれで」
-沈痛な雰囲気に居たたまれなくなり、ぼくは医務室を出た。
+I arrive in front of the infirmary, knock lightly on the door, and open it.
+#Satoshi
+"Excuse me. I've brought lunch."
+Dr. Mikanagi and Maya-san are in the infirmary.
+#Mikanagi
+"Ah, thank you."
+#Maya
+"窶ｦ窶ｦThank you very much."
+#Satoshi
+"I'll leave it right here."
+I place the plate on Dr. Mikanagi's desk.
+#Satoshi
+"窶ｦ窶ｦWell then, I'll be going."
+Unable to bear the somber atmosphere any longer, I leave the infirmary.

@@ -61,7 +61,7 @@ So there are flowers that bloom in this kind of season.
 #Protagonist
 "Even though they also mean hope?"
 #Benio
-"Indeed. A flower that must never be given to another?for it carries the meaning of wishing for the recipient's death."
+"Indeed. A flower that must never be given to another—for it carries the meaning of wishing for the recipient's death."
 #Protagonist
 "...That's a bit creepy."
 #Souko

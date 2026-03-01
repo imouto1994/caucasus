@@ -1,11 +1,11 @@
-ぼくは衣服を整えてから、あかねさんの方を向いた。
-＃主人公
-「あの、ぼくは厨房を見てきますので、代わりの看病になるみさんを呼んできます」
-＃あかね
-「はい、わかりました」
-あかねさんが頷く。
-＃主人公
-「それじゃ、また後で」
-＃あかね
-「ええ……本当に、ありがとうございました」
-あかねさんに見送られ、ぼくは彼女の部屋を出た。
+I straightened my clothes and then turned toward Akane-san.
+#Main Character
+"Um, I'm going to go check on the kitchen, so I'll call Narumi-san to come look after you."
+#Akane
+"Yes, I understand."
+Akane-san nodded.
+#Main Character
+"Well then, see you later."
+#Akane
+"Yes... really, thank you very much."
+With Akane-san seeing me off, I left her room.

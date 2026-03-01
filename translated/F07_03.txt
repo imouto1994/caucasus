@@ -1,0 +1,49 @@
+When I entered the grand hall, Mikanagi-sensei was drinking tea.
+#Satoshi
+"Oh, that's rare for you."
+#Mikanagi
+"I don't spend *all* my time cooped up in the infirmary, you know."
+#Satoshi
+"No, I didn't mean it like that, but..."
+#Mikanagi
+"Hahaha... By the way, do you need something?"
+Mikanagi-sensei was still in the grand hall.
+#Mikanagi
+"Oh, do you still need something from me?"
+Akane-san and Mikanagi-sensei were in the grand hall.
+I wonder which one I should talk to...
+There was no one in the grand hall.
+Well... what should I do?
+When I entered the grand hall, Akane-san was there.
+#Akane
+"Is something the matter?"
+#Satoshi
+"I'm just doing a quick patrol of the mansion..."
+#Akane
+"I see. Thank you for your hard work."
+#Satoshi
+"Has anything unusual happened?"
+#Akane
+"No, nothing in particular..."
+#Satoshi
+"I see... We don't know what might happen, so please be careful, Akane-san."
+#Akane
+"Yes, I understand."
+When I entered the grand hall, Akane-san was still there.
+#Akane
+"Ah, is something wrong?"
+#Satoshi
+"Uh, well..."
+In the grand hall, Takamine-san was drinking coffee alone.
+#Satoshi
+"Ah, Takamine-san."
+#Takamine
+"What is it...?"
+He gives me a sharp, sideways glare.
+#Satoshi
+"Uh, well..."
+Entering the grand hall, I locked eyes with Takamine-san.
+#Takamine
+"...What?"
+#Satoshi
+"Uh, well..."

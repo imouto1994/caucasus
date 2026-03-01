@@ -1,51 +1,51 @@
-自分の部屋に戻り、扉を閉める。
-＃主人公
-「ふう……」
-ベッドの上に倒れ込む。
-さすがに今日は疲れた。
-どうして一日の間にこんなにも色々な事が起こるのだろう。
-六曜さんが殺されたのだって今朝なのだ。
-もうずっと前の事のように思えてしまう。
-だからといって印象が薄れてしまったわけでもなく、あの首のない遺体ははっきりと脳裏に焼き付いてしまっている。
-まるで――ぼくがここに来たことで全ての事態が発生したかのようだ。
-そんな莫迦な事はない筈だけど。
-今回の一連の騒動……やはり七月恒星氏の遺産が関係しているのだろうか。
-そうなると、紅緒さんや摩夜さんだって狙われているのかもしれない。
-もちろん詩音さんだって。
-藍さんだって、まだ狙われる可能性が高い。
-ただ……そうなると、犯人はいったい誰なのだろう。
-これ以上の犠牲を出させないためにも、ある程度的を絞っておいた方がいいのかもしれないけど……
-誰かに集中して一緒に居るよう努めるか、それとも館内を万遍なく見張るか……
-誰かに集中して警戒に当たる
-館内を万遍なく見張る
-ここは山を張るべきかもしれない。
-そうなると、誰の所へ行くべきかだけど……
-想子さんと一緒にいる事にしよう。
-遺産云々とは無関係だけれど、狙われる可能性が零だと断言は出来ない。
-ぼくは想子さんの部屋へ向かうことにした。
-やはり次に狙われる可能性が高いのは紅緒さんだろう。
-ぼくは紅緒さんの部屋へ向かうことにした。
-やはり次に狙われる可能性が高いのは詩音さんだろう。
-ぼくは詩音さんの居る塔へ向かうことにした。
-もしかすると摩夜さんが狙われるかもしれない。
-ぼくは摩夜さんの部屋へ向かうことにした。
-もう一度藍さんが狙われる可能性だってある。
-ぼくは藍さんの部屋へ向かうことにした。
-辻村さんが狙われる可能性だって充分にあるだろう。
-ぼくは辻村さんの所へ向かうことにした。
-高嶺さんが狙われる可能性もあるかもしれない。
-ぼくは高嶺さんの部屋へ向かうことにした。
-ひょっとしたら御巫先生が危険かも知れない。
-遺産云々とは無関係だけれど、狙われる可能性が零だと断言は出来ない。
-ぼくは御巫先生の部屋へ行くことにした。
-もしかしたら、あかねさんが被害に遭う可能性だってあるだろう。
-遺産云々とは無関係だけれど、狙われる可能性が零だと断言は出来ない。
-ぼくはあかねさんの所へ行くことにした。
-なるみさんだって被害に遭うかもしれない。
-遺産云々とは無関係だけれど、狙われる可能性が零だと断言は出来ない。
-ぼくはなるみさんの所へ行くことにした。
-一箇所に留まっていては駄目だろう。
-相手だって人間だ。
-ぼくが居る所を意図的に外して、他の人を狙うかもしれない。
-やはりここは夜通し館内を巡回するべきだろう。
-ぼくは部屋を出ることにした。
+I returned to my room and closed the door.
+#Satoshi
+"Phew..."
+I flopped down onto the bed.
+I'm definitely tired today.
+I wonder why so many different things have to happen in a single day.
+It was only this morning that Rokuyou-san was killed.
+It feels like such a long time ago.
+That doesn't mean the impression has faded, though; that headless body is clearly burned into my mind.
+It's as if窶覇verything started happening because I came here.
+There's no way that's true, of course.
+This series of disturbances... is Mr. Kousei Nanatsuki's inheritance involved after all?
+If that's the case, then Benio-san and Maya-san might be targets as well.
+And Shion-san too, of course.
+And there's a high probability that Ai-san will be targeted again.
+But... if that's the case, then who on earth is the culprit?
+To prevent any further casualties, it might be best to narrow down the target to some extent...
+Should I focus on staying with someone, or should I keep watch over the manor as a whole...?
+Focus on being on guard with someone.
+Watch over the manor as a whole.
+Maybe I should take a gamble.
+In that case, who should I go to...?
+I'll stay with Souko-san.
+She has nothing to do with the inheritance, but I can't say for certain that there's zero chance of her being targeted.
+I decided to head to Souko-san's room.
+The one most likely to be targeted next is Benio-san, I suppose.
+I decided to head to Benio-san's room.
+The one most likely to be targeted next is Shion-san, I suppose.
+I decided to head to the tower where Shion-san is.
+Maybe Maya-san will be targeted.
+I decided to head to Maya-san's room.
+There's even a chance Ai-san will be targeted again.
+I decided to head to Ai-san's room.
+There's a good chance Tsujimura-san will be targeted too.
+I decided to head to Tsujimura-san's place.
+Maybe Takamine-san will be targeted.
+I decided to head to Takamine-san's room.
+Maybe Dr. Mikanagi is in danger.
+He has nothing to do with the inheritance, but I can't say for certain that there's zero chance of him being targeted.
+I decided to go to Dr. Mikanagi's room.
+Maybe Akane-san will be a victim.
+She has nothing to do with the inheritance, but I can't say for certain that there's zero chance of her being targeted.
+I decided to go to Akane-san's place.
+Narumi-san might be a victim too.
+She has nothing to do with the inheritance, but I can't say for certain that there's zero chance of her being targeted.
+I decided to go to Narumi-san's place.
+It won't do to stay in one place.
+My opponent is a human too.
+They might intentionally avoid where I am and target someone else.
+I should probably patrol the manor through the night.
+I decided to leave the room.

@@ -1,28 +1,28 @@
-ホールでぼくは辻村さんに先程の物音について尋ねる事にした。
-＃主人公
-「辻村さん、さっき何か物音がしませんでしたか？」
-＃辻村
-「物音……ですか」
-辻村さんが首を傾げる。
-＃辻村
-「いや、私は特に気付きませんでしたが……風の音か何かではないのですか？」
-＃主人公
-「風とは違うように思えたんですが……」
-＃辻村
-「だとしたら……山の精霊の仕業かもしれませんね」
-＃主人公
-「山の精霊？」
-＃辻村
-「このあたりにはそういう伝承が多く残っているのですよ。……まあ、多分に七月家が由縁になっている事があるのですが」
-＃主人公
-「……『七憑きの呪い』ですか？」
-＃辻村
-「口さがない方たちはそう仰るようですね」
-＃主人公
-「あ……済みません」
-＃辻村
-「いえ、お気になさらず。私はそろそろ休ませていただきますので」
-＃主人公
-「ええ……お休みなさい」
-ぼくは頭を下げ、一階の奥へ去る辻村さんを見送った。
-また――『七憑きの呪い』か。
+In the hall, I decided to ask Tsujimura-san about the noise I'd heard earlier.
+#Protagonist
+"Tsujimura-san, did you hear a noise just now?"
+#Tsujimura
+"A noise...?"
+Tsujimura-san tilted his head.
+#Tsujimura
+"No, I didn't notice anything in particular... Could it have been the wind?"
+#Protagonist
+"It felt different from the wind, though..."
+#Tsujimura
+"If that's the case... it might be the work of the mountain spirits."
+#Protagonist
+"Mountain spirits?"
+#Tsujimura
+"Many such legends remain in this area. ...Though, much of it is likely rooted in the history of the Nanatsuki family."
+#Protagonist
+"...The 'Curse of the Seven'?"
+#Tsujimura
+"That's what those with wagging tongues seem to call it."
+#Protagonist
+"Ah... my apologies."
+#Tsujimura
+"No, don't worry about it. I think I'll be heading to bed now."
+#Protagonist
+"Right... good night."
+I bowed and watched Tsujimura-san walk away toward the back of the first floor.
+There it was again窶杯he 'Curse of the Seven.'

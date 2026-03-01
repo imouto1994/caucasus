@@ -1,0 +1,59 @@
+#Souko
+"Is this enough for now?"
+#Protagonist
+"Yes, thank you very much."
+#Souko
+"Well then, good luck with the rest of your investigation."
+#Protagonist
+"I will."
+I decided to head somewhere else.
+#Maya
+"Is that all for now?"
+#Protagonist
+"Yes, thank you very much. You seem busy, so I'll take my leave now."
+I bowed and decided to head somewhere else.
+#Ai
+"Is that all for now?"
+#Protagonist
+"Yes, thank you very much. You seem busy, so I'll be going now."
+I bowed and decided to head somewhere else.
+#Benio
+"Will this do?"
+#Protagonist
+"Yes, thank you very much."
+I thanked Benio-san and decided to head somewhere else.
+#Shion
+"Would this be sufficient?"
+#Protagonist
+"Yes, thank you very much."
+I thanked Shion-san and decided to head somewhere else.
+#Tsujimura
+"Will this be enough for you?"
+#Protagonist
+"Yes, thank you for being so thorough. You seem busy, so I'll take my leave now."
+I offered my thanks and decided to head somewhere else.
+#Takamine
+"Is this enough?"
+#Protagonist
+"Y-Yes. Thank you very much. You seem busy, so I'll be going now."
+I bowed and decided to head somewhere else.
+#Mikanagi
+"Will this do for now?"
+#Protagonist
+"Yes, thank you very much. Well then, excuse me."
+I decided to head somewhere else.
+#Akane
+"Is that all you need?"
+#Protagonist
+"Yes, thank you very much. You still seem busy, so I'll take my leave."
+I bowed and decided to head somewhere else.
+#Narumi
+"Well, I guess I'll get back to work too. Even if it is a pain."
+#Protagonist
+"Well then, I'll be going. Excuse me."
+#Narumi
+"Sure thing. Come by again."
+I decided to head somewhere else.
+Now then, what should I do next...
+About an hour has passed.
+I'm starting to get hungry, so I think I'll ask Narumi-san to whip something up for me.

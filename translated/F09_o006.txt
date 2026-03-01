@@ -1,0 +1,38 @@
+#Souko
+"The lid of that coffin in the chapel is heavy, so it doesn't look like a girl could open it alone."
+#Satoshi
+"You're right..."
+#Maya
+"The chapel is only used for things like weddings, so it's usually kept locked."
+#Satoshi
+"I see..."
+#Ai
+"I'm told that chapel was always used for weddings in the Nanatsuki family."
+#Satoshi
+"Is that so..."
+#Benio
+"The chapel is almost never used in our daily lives."
+#Satoshi
+"I see."
+#Shion
+"The chapel... I don't want to spend any more time there."
+#Tsujimura
+"The chapel is locked. I doubt it will be used again for quite some time."
+#Satoshi
+"I see..."
+#Takamine
+"Please don't hang around places where you have no business."
+#Satoshi
+"I see..."
+#Mikanagi
+"I hear the chapel isn't used under normal circumstances."
+#Satoshi
+"I see."
+#Akane
+"Cleaning the chapel is quite a chore. It doesn't get that dirty since it's not normally used, though."
+#Satoshi
+"I see."
+#Narumi
+"A chapel that's only used for weddings... feels a bit extravagant, doesn't it?"
+#Satoshi
+"Yeah, it does..."

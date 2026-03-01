@@ -1,0 +1,50 @@
+#Souko
+"Is this enough?"
+#Protagonist
+"Yes, thank you."
+#Souko
+"Well then, keep up the good work with the investigation."
+#Protagonist
+"Understood."
+I decided to go elsewhere.
+#Maya
+"Is that all?"
+#Protagonist
+"Yes, thank you very much. You seem busy, so I'll take my leave now."
+I bowed and decided to go elsewhere.
+#Benio
+"Is this enough?"
+#Protagonist
+"Yes, thank you very much."
+I thanked Benio-san and decided to go elsewhere.
+#Shion
+"Is this enough?"
+#Protagonist
+"Yes, thank you very much."
+I thanked Shion-san and decided to go elsewhere.
+#Tsujimura
+"Will this suffice?"
+#Protagonist
+"Yes, thank you for being so thorough. You seem busy, so I'll take my leave now."
+I said my thanks and decided to go elsewhere.
+#Takamine
+"Is this enough?"
+#Protagonist
+"Y-Yeah. Thank you. You seem busy, so I'll take my leave now."
+I bowed and decided to go elsewhere.
+#Mikanagi
+"Is this enough?"
+#Protagonist
+"Yes, thank you very much. Please excuse me."
+I decided to go elsewhere.
+#Narumi
+"Well, I guess I'll get back to work then. It's a pain, though."
+#Protagonist
+"Well then, I'll be going. Excuse me."
+#Narumi
+"See ya. Come by again."
+I decided to go elsewhere.
+Now then, what should I do next...?
+An hour has passed since I started the patrol.
+There didn't seem to be any particular problems, but...
+I'm thirsty, so I'll go to the grand hall.

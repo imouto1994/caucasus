@@ -97,7 +97,7 @@ async function main() {
   }
 
   console.log(
-    `\nDone. ${sortedDays.length} merged files written to ${OUTPUT_DIR}/`,
+    `\nDone. ${sortedDays.length} merged files written to ${OUTPUT_DIR}/`
   );
 }
 

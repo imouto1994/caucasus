@@ -1,58 +1,58 @@
-ˆêŠK‚É–ß‚Á‚Ä‚«‚Ä~–[‚Ì‘O‚Ü‚Å—ˆ‚½B
-‰½ŒÌ‚±‚±‚ª‘_‚í‚ê‚½‚Ì‚©‚ğ’²‚×‚Ä‚¨‚«‚½‚¢B
-”‚¯‚½~–[‚É“ü‚éB
-‚±‚±‚ğg‚¦‚È‚­‚µ‚ÄA‰½‚ÌˆÓ–¡‚ª‚ ‚é‚Ì‚©\\
-”HHH
-u‰½‚µ‚Ä‚é‚ÌHv
-º‚ÉU‚èŒü‚­‚ÆA“üŒû‚ÌŠ‚©‚ç‘zq‚³‚ñ‚ª‚±‚¿‚ç‚ğ”`‚¢‚Ä‚¢‚½B
-”ålŒö
-u‘zq‚³‚ñcc‚¢‚¦A‚±‚±‚ğ‚à‚¤­‚µ’²‚×‚æ‚¤‚Æv‚¢‚Ü‚µ‚Äccv
-”‘zq
-u’²‚×‚é‚Æ‚¢‚Á‚Ä‚à‚Ë‚¦ccv
-’†‚É“ü‚Á‚Ä‚«‚½‘zq‚³‚ñ‚ªº“à‚ğŒ©‰ñ‚·B
-”‘zq
-u”Æl‚ªdŠ|‚¯‚ğ{‚µ‚ÄˆÓ}“I‚É”š”­‚³‚¹‚½‚Ì‚ÍŠm‚©‚Å‚µ‚å‚¤‚¯‚Çccv
-”ålŒö
-u’N‚©‚ª”à‚ğŠJ‚¯‚æ‚¤‚Æ‚·‚é‚Æ”š”­‚·‚é‚æ‚¤‚É‚µ‚Ä‚¢‚½‚Æl‚¦‚Ä‚¢‚¢‚ñ‚Å‚·‚æ‚ËHv
-”‘zq
-u‹°‚ç‚­‚ËB‚»‚ê‚ç‚µ‚«dŠ|‚¯‚à‚ ‚Á‚½‚©‚çv
-”ålŒö
-u‚»‚¤‚È‚é‚Æ”à‚ğŠJ‚¯‚él‚ª‰ö‰ä‚ğ‚·‚éŠm—¦‚Í‚‚¢‚Å‚·‚æ‚ËB‚Å‚àccŠmÀ‚É’N‚ªŠJ‚¯‚é‚ÆŒˆ‚Ü‚Á‚Ä‚¢‚é‚í‚¯‚¶‚á‚È‚¢v
-”‘zq
-uˆê”Ô‰Â”\«‚ª‚ ‚é‚Ì‚Í‚È‚é‚İ‚³‚ñ‚Å‚µ‚å‚¤‚¯‚ê‚Çcc‰ö‰ä‚ğ‚µ‚½‚Ì‚Í‚ ‚©‚Ë‚³‚ñ‚¾‚Á‚½v
-”ålŒö
-uŠmÀ‚É‹ô‘R‚Å‚µ‚å‚¤‚Ëccv
-”‘zq
-u‚»‚¤‚ËB”Ş—‚½‚¿‚ª‘_‚í‚ê‚é——R‚ª‚È‚¢‚à‚ÌB‚¾‚©‚ç‚±‚ÌêŠ©‘Ì‚ª‘_‚í‚ê‚½‚Æl‚¦‚é‚Ì‚ª©‘R‚æv
-”ålŒö
-u‚»‚¤‚È‚ñ‚Å‚·‚æ‚Ëccv
-‚½‚¾A~–[‚ª‘_‚í‚ê‚½‚Æ‚í‚©‚éØ‹’‚à‚È‚É‚à‚È‚¢B
-‘zq‚³‚ñ‚Í•ÇÛ‚Ö•à‚İŠñ‚èA—q‚ÌŠW‚ğŠJ‚¯‚æ‚¤‚Æ‚·‚éB
-”‘zq
-u”š”­‚Å˜c‚ñ‚¾‚Ì‚©‚µ‚çcc‚æ‚ÁA‚Æv
-‘zq‚³‚ñ‚ªˆø‚Á’£‚Á‚Ä‚àA—q‚ÌŠW‚Í‚Ñ‚­‚Æ‚à‚µ‚È‚¢B
-”‘zq
-u‚±‚ê‚à‚à‚¤g‚¦‚»‚¤‚É‚È‚¢‚í‚Ëv
-”ålŒö
-uccŠO‚Í‚Ç‚¤‚È‚ñ‚Å‚µ‚å‚¤‚©v
-ŸèŒû‚Í‰½‚©ŠÖŒW‚È‚¢‚¾‚ë‚¤‚©B
-”ålŒö
-uoŒû‚ğ••‚¶‚é‚Æ‚©A‚»‚¤‰]‚Á‚½ˆÓ–¡‚Í\\v
-”‘zq
-u‚±‚Ìá‚¾‚µA‚Ç‚±‚Ö‚às‚¯‚»‚¤‚É‚È‚¢‚¯‚ê‚Ç‚Ëv
-”ålŒö
-u‚Å‚à‘¼‚É‚ào“ü‚èo—ˆ‚éŠ‚Í‚ ‚è‚Ü‚·‚µccv
-l‚¦‚ê‚Îl‚¦‚é‚Ù‚Ç‚í‚©‚ç‚È‚­‚È‚Á‚Ä‚­‚éB
-”ålŒö
-ucc‘zq‚³‚ñ‚Í‚Ç‚¤v‚¢‚Ü‚·‚©Hv
-”‘zq
-u‚±‚±‚ğ”š”j‚µ‚½——R‚Ë‚¦cc‚«‚İ‚ªŒ¾‚Á‚Ä‚¢‚½‚Æ‚¨‚èA•º—ÆÓ‚ß‚È‚Ì‚©‚à‚µ‚ê‚È‚¢‚í‚Ëv
-”ålŒö
-u‚½‚¾”Æl‚à‚±‚Ì‰®•~‚Ì’†‚É‚¢‚é‚Å‚µ‚å‚¤‚©‚çA©•ª‚àŒµ‚µ‚­‚È‚é‚Æv‚¤‚ñ‚Å‚·‚ªv
-”‘zq
-u‹Q‚¦‚³‚¹‚é‚Ì‚ª–Ú“I‚¶‚á‚È‚¢‚íB‚±‚ñ‚È•Â‚¶‚±‚ß‚ç‚ê‚ÄAH—¿‚à‚È‚­‚È‚ê‚Î‹C‚ª—§‚Á‚Ä‚µ‚å‚¤‚ª‚È‚­‚È‚é‚Å‚µ‚åHv
-”ålŒö
-u—âÃ‚È”»’f—Í‚ğ‘r‚í‚¹‚éˆ×ccHv
-”‘zq
-ucc‚»‚ê‚É‚«‚İ‚ª‹C•t‚¢‚½‚ñ‚È‚çA‚Ü‚¾‚Ü‚¾—âÃ‚Å‹‚ç‚ê‚é‚Á‚Ä–‚æv
-‘zq‚³‚ñ‚Í‚Ú‚­‚ÌŒ¨‚ğ’@‚«A‚»‚¤Œ¾‚Á‚Ä”÷Î‚ñ‚¾B
+Returning to the first floor, I stood before the kitchen.
+I wanted to investigate why this place had been targeted.
+I stepped into the soot-stained kitchen.
+What was the point of making this place unusableâ€”
+#???
+"What are you doing?"
+Turning at the voice, I saw Souko-san peering in from the entrance.
+#Main Character
+"Souko-san... No, I just thought I'd investigate this place a bit more..."
+#Souko
+"Investigate, huh...?"
+Entering the room, Souko-san scanned the interior.
+#Souko
+"Thereâ€™s no doubt the culprit set a trap to trigger the explosion intentionally..."
+#Main Character
+"We can assume it was designed to blow up when someone tried to open the door, right?"
+#Souko
+"Likely. There were traces of that kind of mechanism."
+#Main Character
+"In that case, the probability of whoever opened the door getting injured was high. But... it wasn't guaranteed who would open it."
+#Souko
+"The most likely person would have been Narumi-san... but the one who got hurt was Akane-san."
+#Main Character
+"It must have been pure coincidence..."
+#Souko
+"True. Thereâ€™s no reason for those two to be targeted. So itâ€™s natural to assume the place itself was the target."
+#Main Character
+"Exactly..."
+However, there was no evidence to prove exactly why the kitchen was targeted.
+Souko-san walked over to the wall and tried to pry open the oven lid.
+#Souko
+"Maybe it warped from the blast... Hrrgh."
+No matter how hard she pulled, the oven lid wouldn't budge an inch.
+#Souko
+"This looks unusable now, too."
+#Main Character
+"...I wonder about the outside."
+I wondered if the side entrance had any connection.
+#Main Character
+"Maybe to block off an exit, or something likeâ€”"
+#Souko
+"With this snow, it doesn't look like anyone's going anywhere regardless."
+#Main Character
+"But there are other places to go in and out..."
+The more I thought about it, the more confused I became.
+#Main Character
+"...What do you think, Souko-san?"
+#Souko
+"The reason for the explosion... as you mentioned, it might be a scorched-earth tactic."
+#Main Character
+"But the culprit is also in this mansion, so it would make things difficult for them as well, wouldn't it?"
+#Souko
+"The goal isn't to starve everyone. Being trapped like this, if the food runs out, everyone will inevitably lose their cool, right?"
+#Main Character
+"To rob us of our calm judgment...?"
+#Souko
+"...The fact that you realized that means youâ€™re still keeping your head."
+Souko-san patted my shoulder and smiled.

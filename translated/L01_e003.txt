@@ -1,0 +1,40 @@
+#Souko
+"The body's head was missing. I wonder where on earth they've hidden it..."
+#Satoshi
+"True..."
+#Maya
+"...I am sorry, I do not really know."
+#Satoshi
+"I see..."
+#Ai
+"...I'm sorry, I don't really know."
+#Satoshi
+"I see..."
+#Benio
+"...The back of the corpse was slightly soiled. It looked like dust or something similar..."
+#Satoshi
+"True..."
+#Shion
+"Um... I'm sorry, I don't really know..."
+#Satoshi
+"I see..."
+#Tsujimura
+"I... don't really know..."
+#Satoshi
+"I see..."
+#Takamine
+"I wouldn't know."
+#Satoshi
+"I see..."
+#Mikanagi
+"As I thought, without the head, we can't determine a detailed cause of death... I wonder if they hid it specifically because they didn't want that known..."
+#Satoshi
+"Maybe so..."
+#Akane
+"I'm sorry... I don't really know."
+#Satoshi
+"I see..."
+#Narumi
+"I don't really know about that."
+#Satoshi
+"I see..."

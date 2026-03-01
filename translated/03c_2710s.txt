@@ -1,31 +1,31 @@
-＃主人公
-「御巫先生、いつ頃詩音さんが亡くなったかはわかりますか？」
-＃御巫
-「どうだろう……恐らく一時間以内だとは思うけれど……はっきりしたことは言えないな」
-＃主人公
-「そうですか……」
-詩音さん……どうして……
-絵画が飾られている。
-……辻村さんの絵だ。
-辻村さんが描いた絵が、物言わぬ詩音さんの亡骸を見下ろしていた。
-床にコップが転がっている。
-＃主人公
-「……これで毒を飲んだのでしょうか」
-＃紅緒
-「迂闊に触れない方がいいだろうな。指紋が残っているかもしれん」
-＃主人公
-「ええ、わかっています」
-ハンカチを取り出して慎重に包み、持ち上げる。
-＃主人公
-「……中に少しだけ液体が残ってますね」
-＃御巫
-「貸してくれ」
-御巫先生にコップを渡す。
-＃御巫
-「迂闊に臭いを嗅がない方がいい。予想通り青酸だったら、ガスだけでも死亡するおそれがある」
-＃主人公
-「……わかりました」
-どうしてこんな事に……
-雪は弱まっているようだ。
-明日は晴れるだろうけれど、この館は……
-雪は弱くなっている。
+#Main Character
+"Dr. Mikanagi, can you tell when Shion-san died?"
+#Mikanagi
+"I'm not sure... probably within the last hour, but I can't say for certain."
+#Main Character
+"I see..."
+Shion-san... why...
+Paintings are hanging on the wall.
+...They're Tsujimura-san's paintings.
+The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
+A cup was rolling on the floor.
+#Main Character
+"...Did she drink the poison with this?"
+#Benio
+"We shouldn't touch it carelessly. Fingerprints might remain."
+#Main Character
+"Yes, I know."
+I took out a handkerchief, carefully wrapped the cup, and lifted it.
+#Main Character
+"...A little bit of liquid remains inside."
+#Mikanagi
+"Let me see."
+I handed the cup to the doctor.
+#Mikanagi
+"Don't sniff it. If it's cyanide like we suspect, even the gas alone can be lethal."
+#Main Character
+"...Understood."
+How could this happen...
+The snow seems to be weakening.
+It'll likely be clear tomorrow, but this mansion...
+The snow is letting up.

@@ -1,0 +1,40 @@
+#Souko
+"About Mikanagi-sensei? Hmm, he did treat my finger, but how should I put it... he seems a bit flighty."
+#Protagonist
+"...I suppose so."
+#Maya
+"We owe Mikanagi-sensei's father a great debt. I am who I am today thanks to the Mikanagi family."
+#Protagonist
+"I see..."
+#Ai
+"Mikanagi-sensei looks after us often. Since other doctors won't come out to such a remote place, he's a lifesaver."
+#Protagonist
+"I see."
+#Benio
+"You mean the Good Doctor? Well, he might look serious, but he's a frivolous man."
+#Protagonist
+"...Oh."
+#Tsujimura
+"Mikanagi-sensei is indispensable to this house. Neither the Mistress nor Lady Shion are particularly robust..."
+#Protagonist
+"I see..."
+#Takamine
+"Mikanagi-sensei seems to be an excellent physician. His specialty is internal medicine, but I imagine he could handle simple surgery."
+#Protagonist
+"I see."
+#御巫
+"Me? My father is the true family physician for the Nanatsuki. But he's getting on in years, so I've been staying here lately."
+#Protagonist
+"Is that so?"
+#Akane
+"U-um... about last night... did you tell anyone...?"
+#Protagonist
+"...No, I haven't told anyone yet."
+#Akane
+"Please, you absolutely mustn't tell a soul, okay!?"
+#Protagonist
+"Sure... I get it..."
+#Narumi
+"Mikanagi-sensei? He has a bit of a flighty vibe. Well, it's not like he ever talks to me anyway."
+#Protagonist
+"I-is that so..."
