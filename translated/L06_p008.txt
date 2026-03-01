@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒMikanagi-sensei, huh... If he were the killer, that cause of death he just gave might be total bullshit. If that's the case... we won't know anything for sure.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒMaya
-ã€ŒIf it's Mikanagi-sensei, he came to my room immediately after the blackout. He stayed for about ten minutes before heading back to the infirmary...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒHiroshi would have no reason to murder my sister. Inheritance has nothing to do with him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒAs for Mikanagi-sensei... I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒIf it's Mikanagi-sensei, I believe he was in the infirmary...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒWhen the first blackout happened, I went to check on Maya-san first. After that, I went back to the infirmary to stand by. You never know what might happen, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒMikanagi-sensei was in the infirmary.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒMikanagi-sensei? He was in the infirmary.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uMikanagi-sensei, huh... If he were the killer, that cause of death he just gave might be total bullshit. If that's the case... we won't know anything for sure.v
+”Protagonist
+u...True.v
+”Maya
+uIf it's Mikanagi-sensei, he came to my room immediately after the blackout. He stayed for about ten minutes before heading back to the infirmary...v
+”Protagonist
+uI see.v
+”Benio
+uHiroshi would have no reason to murder my sister. Inheritance has nothing to do with him.v
+”Protagonist
+uI see...v
+”Shion
+uAs for Mikanagi-sensei... I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Tsujimura
+uIf it's Mikanagi-sensei, I believe he was in the infirmary...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+uWhen the first blackout happened, I went to check on Maya-san first. After that, I went back to the infirmary to stand by. You never know what might happen, after all.v
+”Protagonist
+uI see...v
+”Akane
+uMikanagi-sensei was in the infirmary.v
+”Protagonist
+uI see...v
+”Narumi
+uMikanagi-sensei? He was in the infirmary.v
+”Protagonist
+uI see...v

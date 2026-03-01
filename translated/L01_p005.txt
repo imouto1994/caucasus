@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒThe possibility of Shion-san being the killer... I can't say it's zero.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒMaya
-ã€ŒShion was inside the chapel all night. Although, I doubt there is anyone who can confirm that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒAre you suggesting Shion killed Isamu-san!? That child couldn't possibly do such a thing!ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒBenio
-ã€ŒShion being forced into an unwanted marriage and killing Rokuyou... it's not entirely out of the question...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒI was... sleeping inside the coffin. I did not step outside.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThe idea of Lady Shion killing Master Rokuyou... it is unthinkable.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒThe lid of the coffin used in the ritual has hinges, but it's far too heavy for someone with Shion-kun's strength to open.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€Œ...Shion-san might not have been enthusiastic about the marriage to Isamu. Her own will wasn't exactly being respected, after all...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI believe Lady Shion was in the coffin the entire time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒNow that you mention it, I've never seen Lady Shion and Rokuyou-san talking. Of course, they must have spoken when I wasn't around.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+uThe possibility of Shion-san being the killer... I can't say it's zero.v
+”Protagonist
+u...True.v
+”Maya
+uShion was inside the chapel all night. Although, I doubt there is anyone who can confirm that.v
+”Protagonist
+uI see...v
+”Ai
+uAre you suggesting Shion killed Isamu-san!? That child couldn't possibly do such a thing!v
+”Protagonist
+uY-You're right...v
+”Benio
+uShion being forced into an unwanted marriage and killing Rokuyou... it's not entirely out of the question...v
+”Protagonist
+uTrue...v
+”Shion
+uI was... sleeping inside the coffin. I did not step outside.v
+”Protagonist
+uI see...v
+”Tsujimura
+uThe idea of Lady Shion killing Master Rokuyou... it is unthinkable.v
+”Protagonist
+uI see...v
+”Takamine
+uThe lid of the coffin used in the ritual has hinges, but it's far too heavy for someone with Shion-kun's strength to open.v
+”Protagonist
+uI see.v
+”Mikanagi
+u...Shion-san might not have been enthusiastic about the marriage to Isamu. Her own will wasn't exactly being respected, after all...v
+”Protagonist
+uI see...v
+”Akane
+uI believe Lady Shion was in the coffin the entire time.v
+”Protagonist
+uI see...v
+”Narumi
+uNow that you mention it, I've never seen Lady Shion and Rokuyou-san talking. Of course, they must have spoken when I wasn't around.v
+”Protagonist
+uTrue...v

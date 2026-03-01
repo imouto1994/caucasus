@@ -1,30 +1,30 @@
-ï¼ƒProtagonist
-ã€ŒDr. Mikanagi, can you tell when Shion-san died?ã€
-ï¼ƒMikanagi
-ã€ŒI'm not sure... probably within the last hour, but I can't say for certain.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Protagonist
+uDr. Mikanagi, can you tell when Shion-san died?v
+”Mikanagi
+uI'm not sure... probably within the last hour, but I can't say for certain.v
+”Protagonist
+uI see...v
 Shion-san... why...
 Paintings are hanging on the wall.
 ...They're Tsujimura-san's paintings.
 The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
 A cup was rolling on the floor.
-ï¼ƒProtagonist
-ã€Œ...Did she drink the poison with this?ã€
-ï¼ƒBenio
-ã€ŒWe shouldn't touch it carelessly. Fingerprints might remain.ã€
-ï¼ƒProtagonist
-ã€ŒYes, I know.ã€
+”Protagonist
+u...Did she drink the poison with this?v
+”Benio
+uWe shouldn't touch it carelessly. Fingerprints might remain.v
+”Protagonist
+uYes, I know.v
 I took out a handkerchief, carefully wrapped the cup, and lifted it.
-ï¼ƒProtagonist
-ã€Œ...A little bit of liquid remains inside.ã€
-ï¼ƒMikanagi
-ã€ŒLet me see.ã€
+”Protagonist
+u...A little bit of liquid remains inside.v
+”Mikanagi
+uLet me see.v
 I handed the cup to the doctor.
-ï¼ƒMikanagi
-ã€ŒDon't sniff it. If it's cyanide like we suspect, even the gas alone can be lethal.ã€
-ï¼ƒProtagonist
-ã€Œ...Understood.ã€
+”Mikanagi
+uDon't sniff it. If it's cyanide like we suspect, even the gas alone can be lethal.v
+”Protagonist
+u...Understood.v
 How could this happen...
 The snow seems to be weakening.
 It'll likely be clear tomorrow, but this mansion...

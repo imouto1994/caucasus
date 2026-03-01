@@ -1,26 +1,26 @@
-Iâ€™ve come to the kitchen.
-ï¼ƒNarumi
-ã€ŒMornin'.ã€
+Ifve come to the kitchen.
+”Narumi
+uMornin'.v
 Narumi-san was looking rather listless.
-ï¼ƒProtagonist
-ã€ŒGood morning, Narumi-san.ã€
-ï¼ƒNarumi
-ã€ŒYou're looking energetic for this early...ã€
-ï¼ƒProtagonist
-ã€ŒAre you still sleepy?ã€
-ï¼ƒNarumi
-ã€ŒNah, I'm just feeling lazy and bored.ã€
-ï¼ƒProtagonist
-ã€ŒOh...ã€
-ï¼ƒNarumi
-ã€ŒI mean, I have to make food for over ten people starting first thing in the morning, you know? It's a total pain in the ass.ã€
+”Protagonist
+uGood morning, Narumi-san.v
+”Narumi
+uYou're looking energetic for this early...v
+”Protagonist
+uAre you still sleepy?v
+”Narumi
+uNah, I'm just feeling lazy and bored.v
+”Protagonist
+uOh...v
+”Narumi
+uI mean, I have to make food for over ten people starting first thing in the morning, you know? It's a total pain in the ass.v
 Wait, isn't that exactly why she's here...?
-ï¼ƒNarumi
-ã€ŒSo, did you need something?ã€
-ï¼ƒProtagonist
-ã€ŒWell...ã€
-Iâ€™ve returned to the kitchen.
-ï¼ƒNarumi
-ã€ŒOh, do you need something else?ã€
-ï¼ƒProtagonist
-ã€ŒWell...ã€
+”Narumi
+uSo, did you need something?v
+”Protagonist
+uWell...v
+Ifve returned to the kitchen.
+”Narumi
+uOh, do you need something else?v
+”Protagonist
+uWell...v

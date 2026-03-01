@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€ŒI'm getting sick of this... at this point, Iâ€™m just praying there won't be any more victims.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒWe have caused you so much trouble... I am truly sorry.ã€
-ï¼ƒProtagonist
-ã€ŒNo, please don't worry about it.ã€
-ï¼ƒAi
-ã€ŒKirihara-san is quite composed, isn't she? Even in a situation like this...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒShe seemed quite concerned about the kitchen. Sheâ€™s investigating it even now... I think Iâ€™ll go take a look myself later.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAs for Kirihara-sama, she was investigating the kitchen...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒIf you're looking for the culprit, I wish you'd hurry up and find them already.ã€
-ï¼ƒProtagonist
-ã€ŒT-That's true...ã€
-ï¼ƒMikanagi
-ã€ŒIt seemed Kirihara-san was investigating the kitchen.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uI'm getting sick of this... at this point, Ifm just praying there won't be any more victims.v
+”Protagonist
+uRight...v
+”Maya
+uWe have caused you so much trouble... I am truly sorry.v
+”Protagonist
+uNo, please don't worry about it.v
+”Ai
+uKirihara-san is quite composed, isn't she? Even in a situation like this...v
+”Protagonist
+uRight...v
+”Benio
+uShe seemed quite concerned about the kitchen. Shefs investigating it even now... I think Ifll go take a look myself later.v
+”Protagonist
+uI see...v
+”Tsujimura
+uAs for Kirihara-sama, she was investigating the kitchen...v
+”Protagonist
+uI see...v
+”Takamine
+uIf you're looking for the culprit, I wish you'd hurry up and find them already.v
+”Protagonist
+uT-That's true...v
+”Mikanagi
+uIt seemed Kirihara-san was investigating the kitchen.v
+”Protagonist
+uI see...v

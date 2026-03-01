@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒI wonder if Shion-san could really set up such an elaborate mechanism? It's not impossible, of course... but I think it would be difficult.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒBenio
-ã€ŒShion would have no reason to kill my sister. Those two are very close... almost abnormally so.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€ŒLady Shion emerged from her room around noon. She should have been in the tower the entire time before that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒShion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒAkane
-ã€ŒI believe Lady Shion was in her room the entire time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒLady Shion? I'm pretty sure she was in her room... though come to think of it, it seemed like Lady Ai was with her...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uI wonder if Shion-san could really set up such an elaborate mechanism? It's not impossible, of course... but I think it would be difficult.v
+”Protagonist
+u...True.v
+”Benio
+uShion would have no reason to kill my sister. Those two are very close... almost abnormally so.v
+”Protagonist
+uTrue...v
+”Tsujimura
+uLady Shion emerged from her room around noon. She should have been in the tower the entire time before that.v
+”Protagonist
+uI see...v
+”Takamine
+uShion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that.v
+”Protagonist
+uRight.v
+”Akane
+uI believe Lady Shion was in her room the entire time.v
+”Protagonist
+uI see...v
+”Narumi
+uLady Shion? I'm pretty sure she was in her room... though come to think of it, it seemed like Lady Ai was with her...v
+”Protagonist
+uI see...v

@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€ŒWhen I went to fetch Mikanagi-sensei, he was in his room. Nothing seemed out of the ordinary, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒI wouldn't know; I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI don't know... I've been in my room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€Œ...I don't know. My room is in the annex, after all...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€Œ...I believe he was either in the infirmary or in his room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒHow could I possibly know? I was right there with you.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+uWhen I went to fetch Mikanagi-sensei, he was in his room. Nothing seemed out of the ordinary, but...v
+”Protagonist
+uI see...v
+”Maya
+uI wouldn't know; I was resting in my room as well.v
+”Protagonist
+uI see...v
+”Ai
+uI don't know... I've been in my room the whole time.v
+”Protagonist
+uI see...v
+”Shion
+u...I don't know. My room is in the annex, after all...v
+”Protagonist
+uI see...v
+”Tsujimura
+u...I believe he was either in the infirmary or in his room.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Narumi
+uHow could I possibly know? I was right there with you.v
+”Protagonist
+uTrue...v

@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAbout the late Mr. Kousei? He was a famous musician. I know a few of his songs myself.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒMy husband was a great composer. He was the one who built the performance room in this manor, after all.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒFather? He was a kind man. When I was small, he often read books to me.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒMy father? He was kind to everyone.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒThe Master... he was my elder brother, and he hired me here when I had nowhere else to go. I am very grateful to him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒKousei-san? He was a famous composer, so I'm sure he had his own hidden troubles... dying the way he did.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMy father was Mr. Kousei's legal counsel. He seems to have made quite a fortune from his compositions.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒMy father was Mr. Kousei's family doctor. That's why I'm here now, following in his footsteps.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒThe Master? I didn't know him well, but I've heard he was a very good person.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe Master? I never met him directly, so I wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAbout the late Mr. Kousei? He was a famous musician. I know a few of his songs myself.v
+”Protagonist
+uI see.v
+”Maya
+uMy husband was a great composer. He was the one who built the performance room in this manor, after all.v
+”Protagonist
+uIs that so...v
+”Ai
+uFather? He was a kind man. When I was small, he often read books to me.v
+”Protagonist
+uI see.v
+”Benio
+uMy father? He was kind to everyone.v
+”Protagonist
+uI see.v
+”Tsujimura
+uThe Master... he was my elder brother, and he hired me here when I had nowhere else to go. I am very grateful to him.v
+”Protagonist
+uI see...v
+”Rokuyou
+uKousei-san? He was a famous composer, so I'm sure he had his own hidden troubles... dying the way he did.v
+”Protagonist
+uI see...v
+”Takamine
+uMy father was Mr. Kousei's legal counsel. He seems to have made quite a fortune from his compositions.v
+”Protagonist
+uI see...v
+”Mikanagi
+uMy father was Mr. Kousei's family doctor. That's why I'm here now, following in his footsteps.v
+”Protagonist
+uI see.v
+”Akane
+uThe Master? I didn't know him well, but I've heard he was a very good person.v
+”Protagonist
+uI see...v
+”Narumi
+uThe Master? I never met him directly, so I wouldn't know.v
+”Protagonist
+uI see...v

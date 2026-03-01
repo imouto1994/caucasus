@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒThat bell that rang in the middle of the night. I wonder if we'll hear it at noon today too.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so.ã€
-ï¼ƒMaya
-ã€ŒThere has been a clock attached to this mansion since before it was relocated. As a remnant of that time, we still have the bell ring.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒAi
-ã€ŒThe clock is visible from outside the mansion, but being in such a remote place, no one ever sees it.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒBenio
-ã€ŒDoes the sound of the bell bother you that much? The machine room is in the attic.ã€
-ï¼ƒProtagonist
-ã€ŒOh... I see.ã€
-ï¼ƒTsujimura
-ã€ŒThe bell is rung from the machine room above the main entrance. Itâ€™s synchronized with the clock facing the outside.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒIt certainly rang last night... but it isn't something worth being concerned about.ã€
-ï¼ƒProtagonist
-ã€ŒI guess so...ã€
-ï¼ƒMikanagi
-ã€ŒThe bell, eh...? I don't think youâ€™d notice it much while inside your room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒIt rings at noon, so itâ€™s quite convenient for keeping track of the time.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒNarumi
-ã€ŒA bell? Did one ring...? I don't really remember.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
+”Souko
+uThat bell that rang in the middle of the night. I wonder if we'll hear it at noon today too.v
+”Protagonist
+uMaybe so.v
+”Maya
+uThere has been a clock attached to this mansion since before it was relocated. As a remnant of that time, we still have the bell ring.v
+”Protagonist
+uIs that so?v
+”Ai
+uThe clock is visible from outside the mansion, but being in such a remote place, no one ever sees it.v
+”Protagonist
+uYou're right...v
+”Benio
+uDoes the sound of the bell bother you that much? The machine room is in the attic.v
+”Protagonist
+uOh... I see.v
+”Tsujimura
+uThe bell is rung from the machine room above the main entrance. Itfs synchronized with the clock facing the outside.v
+”Protagonist
+uI see.v
+”Takamine
+uIt certainly rang last night... but it isn't something worth being concerned about.v
+”Protagonist
+uI guess so...v
+”Mikanagi
+uThe bell, eh...? I don't think youfd notice it much while inside your room.v
+”Protagonist
+uI see.v
+”Akane
+uIt rings at noon, so itfs quite convenient for keeping track of the time.v
+”Protagonist
+uIs that so?v
+”Narumi
+uA bell? Did one ring...? I don't really remember.v
+”Protagonist
+u...I see.v

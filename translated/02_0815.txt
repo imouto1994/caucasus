@@ -1,33 +1,33 @@
 I ran into Tsujimura-san just as I reached the west corridor.
-ï¼ƒProtagonist
-ã€ŒAh, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒIs something wrong?ã€
-ï¼ƒProtagonist
-ã€ŒSouko-sanâ€”Kirihara-senpai asked if you could bring the chapel key as well.ã€
-ï¼ƒTsujimura
-ã€ŒAhâ€”don't worry, I have it right here.ã€
+”Protagonist
+uAh, Tsujimura-san.v
+”Tsujimura
+uIs something wrong?v
+”Protagonist
+uSouko-san?Kirihara-senpai asked if you could bring the chapel key as well.v
+”Tsujimura
+uAh?don't worry, I have it right here.v
 Tsujimura-san showed me his ring of keys.
-ï¼ƒTsujimura
-ã€ŒI keep all the spare keys together.ã€
-ï¼ƒProtagonist
-ã€ŒOh, good. Let's get back, then.ã€
-ï¼ƒSouko
-ã€ŒTsujimura-san, let me see the chapel key.ã€
+”Tsujimura
+uI keep all the spare keys together.v
+”Protagonist
+uOh, good. Let's get back, then.v
+”Souko
+uTsujimura-san, let me see the chapel key.v
 Souko-san called out as we returned.
-ï¼ƒTsujimura
-ã€ŒOne moment, please.ã€
+”Tsujimura
+uOne moment, please.v
 Tsujimura-san began sorting through the bundle.
-ï¼ƒTsujimura
-ã€ŒFirst, this is the key to Rokuyou-samaâ€™s room.ã€
+”Tsujimura
+uFirst, this is the key to Rokuyou-samafs room.v
 I took the key from him.
-ï¼ƒProtagonist
-ã€ŒIt's okay for me to open it, right?ã€
-ï¼ƒBenio
-ã€ŒWe brought the key to open it, didn't we?ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
+”Protagonist
+uIt's okay for me to open it, right?v
+”Benio
+uWe brought the key to open it, didn't we?v
+”Protagonist
+u...Right.v
 I waited for Tsujimura-san to nod, then inserted the key into the lock.
-ï¼ƒProtagonist
-ã€Œ...Excuse me.ã€
+”Protagonist
+u...Excuse me.v
 I slowly pushed the door open.

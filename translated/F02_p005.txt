@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒShion-san looked beautiful yesterday. Though I suppose sheâ€™s still inside her coffin right now...ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
-ï¼ƒMaya
-ã€ŒWe will continue the wedding ceremony starting at eight o'clock, but until then, she remains inside her coffin in the cathedral.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒTo think that Shion is getting married... Iâ€™m happy for her, but my feelings are complicated...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒIs it almost time to continue the ceremony? We were supposed to gather in the Great Hall, weren't we?ã€
-ï¼ƒProtagonist
-ã€ŒYes, that should be it.ã€
-ï¼ƒTsujimura
-ã€Œ...Once Lady Shion gets married, it will become quite lonely around here...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒShion-kun, eh...? I was against her spending the night in a coffin in the middle of winter, but I was told it was the custom.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒMikanagi
-ã€ŒShion-san has delicate health, you see. I just hope nothing happens during the night...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Shion is in the middle of her wedding ritual in the cathedral right now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒWe really need to get some warm food into Lady Shion. It must be freezing spending all night in the cathedral.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Souko
+uShion-san looked beautiful yesterday. Though I suppose shefs still inside her coffin right now...v
+”Protagonist
+u...Yeah.v
+”Maya
+uWe will continue the wedding ceremony starting at eight o'clock, but until then, she remains inside her coffin in the cathedral.v
+”Protagonist
+uIs that so...v
+”Ai
+uTo think that Shion is getting married... Ifm happy for her, but my feelings are complicated...v
+”Protagonist
+uIs that so...v
+”Benio
+uIs it almost time to continue the ceremony? We were supposed to gather in the Great Hall, weren't we?v
+”Protagonist
+uYes, that should be it.v
+”Tsujimura
+u...Once Lady Shion gets married, it will become quite lonely around here...v
+”Protagonist
+uI see...v
+”Takamine
+uShion-kun, eh...? I was against her spending the night in a coffin in the middle of winter, but I was told it was the custom.v
+”Protagonist
+uIs that so...v
+”Mikanagi
+uShion-san has delicate health, you see. I just hope nothing happens during the night...v
+”Protagonist
+uI see...v
+”Akane
+uLady Shion is in the middle of her wedding ritual in the cathedral right now.v
+”Protagonist
+uI see.v
+”Narumi
+uWe really need to get some warm food into Lady Shion. It must be freezing spending all night in the cathedral.v
+”Protagonist
+uYou're right...v

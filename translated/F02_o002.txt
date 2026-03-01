@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒA will, huh... Iâ€™m certainly curious about what kind of things were left in it...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒI am sorry... but that is not something I can easily discuss with an outsider...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAi
-ã€ŒA will? ...I don't know the specifics, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒYou should ask Takamine about my father's will. Heâ€™s the one managing it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€Œ...As far as that matter is concerned, there is nothing I can say.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒTakamine
-ã€ŒThereâ€™s no way I could discuss that with an outsider like you.ã€
-ï¼ƒProtagonist
-ã€ŒY-you're right...ã€
-ï¼ƒMikanagi
-ã€ŒThatâ€™s... not a matter Iâ€™m in any position to comment on.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒA will...? I wonder if the lawyer, Takamine-sama, might know something.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒA will, huh... I suppose itâ€™s where the distribution of the inheritance and such is written... but naturally, I don't know the details.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
+”Souko
+uA will, huh... Ifm certainly curious about what kind of things were left in it...v
+”Protagonist
+uRight...v
+”Maya
+uI am sorry... but that is not something I can easily discuss with an outsider...v
+”Protagonist
+uYou're right...v
+”Ai
+uA will? ...I don't know the specifics, but...v
+”Protagonist
+uI see...v
+”Benio
+uYou should ask Takamine about my father's will. Hefs the one managing it.v
+”Protagonist
+uI see...v
+”Tsujimura
+u...As far as that matter is concerned, there is nothing I can say.v
+”Protagonist
+uYou're right...v
+”Takamine
+uTherefs no way I could discuss that with an outsider like you.v
+”Protagonist
+uY-you're right...v
+”Mikanagi
+uThatfs... not a matter Ifm in any position to comment on.v
+”Protagonist
+uYou're right...v
+”Akane
+uA will...? I wonder if the lawyer, Takamine-sama, might know something.v
+”Protagonist
+uI see.v
+”Narumi
+uA will, huh... I suppose itfs where the distribution of the inheritance and such is written... but naturally, I don't know the details.v
+”Protagonist
+uYou're right.v

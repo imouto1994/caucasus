@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒTsujimura-san? Even though he's Mr. Kousei's younger brother, he acts like a servant here... it's a bit strange.ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
-ï¼ƒMaya
-ã€ŒTsujimura? He was my husband's younger brother, so we hired him. He works hard, and I am very grateful to him.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒTsujimura-san? He is our uncle, but he's a very kind man.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒTsujimura? ...He serves me well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAbout me...? No, I have nothing to say that I could be proud of.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒAbout Tsujimura? ...Well, I only know that he's the younger brother of the deceased Master...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒAbout Tsujimura-san? He's the previous head's younger brother and currently acts as the caretaker here, I hear.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒTsujimura-san is the one who handles all the paperwork for the Nanatsuki family. You could even call him a butler.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒTsujimura-san? He usually works in the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒTsujimura-san? He's a kind man. A bit timid at times, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uTsujimura-san? Even though he's Mr. Kousei's younger brother, he acts like a servant here... it's a bit strange.v
+”Protagonist
+uI suppose so...v
+”Maya
+uTsujimura? He was my husband's younger brother, so we hired him. He works hard, and I am very grateful to him.v
+”Protagonist
+uI see.v
+”Ai
+uTsujimura-san? He is our uncle, but he's a very kind man.v
+”Protagonist
+uI see.v
+”Benio
+uTsujimura? ...He serves me well.v
+”Protagonist
+uI see...v
+”Tsujimura
+uAbout me...? No, I have nothing to say that I could be proud of.v
+”Protagonist
+uI see...v
+”Rokuyou
+uAbout Tsujimura? ...Well, I only know that he's the younger brother of the deceased Master...v
+”Protagonist
+uI see.v
+”Takamine
+uAbout Tsujimura-san? He's the previous head's younger brother and currently acts as the caretaker here, I hear.v
+”Protagonist
+uI see.v
+”Mikanagi
+uTsujimura-san is the one who handles all the paperwork for the Nanatsuki family. You could even call him a butler.v
+”Protagonist
+uI see.v
+”Akane
+uTsujimura-san? He usually works in the office.v
+”Protagonist
+uI see.v
+”Narumi
+uTsujimura-san? He's a kind man. A bit timid at times, though...v
+”Protagonist
+uI see.v

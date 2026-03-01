@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒWhat is this...? They look like symbols, but I don't really understand them...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒWhat is this...? I'm not quite sure.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒThis is... what could it be...?ã€
-ï¼ƒProtagonist
-ã€ŒYou don't know...?ã€
-ï¼ƒBenio
-ã€ŒSymbols...? No, this last part looks like an actual word... I wonder what it means...ã€
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI... don't quite understand this...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...Please try not to show this to anyone else. It could become a problem later if word got out that an outsider was shown part of the will.ã€
-ï¼ƒProtagonist
-ã€ŒU-Understood...ã€
-ï¼ƒMikanagi
-ã€ŒI wonder what this is... it almost looks like some kind of code...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI'm not quite sure about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uWhat is this...? They look like symbols, but I don't really understand them...v
+”Protagonist
+uI see...v
+”Maya
+uWhat is this...? I'm not quite sure.v
+”Protagonist
+uI see...v
+”Ai
+uThis is... what could it be...?v
+”Protagonist
+uYou don't know...?v
+”Benio
+uSymbols...? No, this last part looks like an actual word... I wonder what it means...v
+”Protagonist
+uI wonder...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI... don't quite understand this...v
+”Protagonist
+uI see...v
+”Takamine
+u...Please try not to show this to anyone else. It could become a problem later if word got out that an outsider was shown part of the will.v
+”Protagonist
+uU-Understood...v
+”Mikanagi
+uI wonder what this is... it almost looks like some kind of code...v
+”Protagonist
+uYou're right...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI'm not quite sure about that.v
+”Protagonist
+uI see...v

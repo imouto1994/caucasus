@@ -1,59 +1,59 @@
-Itâ€™s pure white outside the window; I can't see a thing.
+Itfs pure white outside the window; I can't see a thing.
 I wonder when this blizzard will let up...
 The blizzard outside seems to be getting stronger.
-ï¼ƒProtagonist
-ã€ŒThe fire is still burning.ã€
-ï¼ƒAkane
-ã€ŒIt's unlikely to start a fire, but... I believe Lady Ai was in this room until just a moment ago. ...Oh?ã€
+”Protagonist
+uThe fire is still burning.v
+”Akane
+uIt's unlikely to start a fire, but... I believe Lady Ai was in this room until just a moment ago. ...Oh?v
 Akane-san peeks into the fireplace.
-ï¼ƒAkane
-ã€ŒSomething fell in there... looks like a piece of paper.ã€
-ï¼ƒProtagonist
-ã€ŒEh... you're right.ã€
+”Akane
+uSomething fell in there... looks like a piece of paper.v
+”Protagonist
+uEh... you're right.v
 Inside the hearth, a scrap of paper was lying there.
-ï¼ƒProtagonist
-ã€ŒWas she trying to burn something...?ã€
+”Protagonist
+uWas she trying to burn something...?v
 The paper is quite badly charred.
-ï¼ƒAkane
-ã€ŒIt might be a clue. Can you get it?ã€
-ï¼ƒProtagonist
-ã€Œ...It's too hot, no way.ã€
+”Akane
+uIt might be a clue. Can you get it?v
+”Protagonist
+u...It's too hot, no way.v
 I certainly can't shove my hand into a roaring fire.
-ï¼ƒProtagonist
-ã€ŒIf I had something to use, I think I could get it...ã€
+”Protagonist
+uIf I had something to use, I think I could get it...v
 Use a tool
 Leave it for now
 Before that, let's search the room a bit more.
-ï¼ƒProtagonist
-ã€ŒI think I can get it with this.ã€
+”Protagonist
+uI think I can get it with this.v
 I decided to try using the poker.
 I poke the rod into the fireplace and pull the paper out.
-ï¼ƒAkane
-ã€ŒHurry up, or it'll burn up completely...ã€
-ï¼ƒProtagonist
-ã€ŒI know... there!ã€
+”Akane
+uHurry up, or it'll burn up completely...v
+”Protagonist
+uI know... there!v
 I managed to drag it close enough to reach.
-ï¼ƒAkane
-ã€Œ...It's mostly burnt.ã€
-ï¼ƒProtagonist
-ã€ŒIt really is just a fragment...ã€
-ï¼ƒAkane
-ã€ŒI wonder what was written on it...ã€
-ï¼ƒProtagonist
-ã€Œ...Maybe. But we'll never know now...ã€
-ï¼ƒAkane
-ã€ŒAh, but this pattern... I believe it's the same as the notepad in the telephone room.ã€
-ï¼ƒProtagonist
-ã€ŒThe one in the telephone room?ã€
-ï¼ƒAkane
-ã€ŒYes. It's kept there for jotting down messages when the phone rings... it's a bound pad of paper.ã€
-ï¼ƒProtagonist
-ã€Œ...If she wrote something there, a clue might still remain.ã€
-ï¼ƒAkane
-ã€ŒYou're right.ã€
-Itâ€™s no good, I can't seem to get it.
+”Akane
+u...It's mostly burnt.v
+”Protagonist
+uIt really is just a fragment...v
+”Akane
+uI wonder what was written on it...v
+”Protagonist
+u...Maybe. But we'll never know now...v
+”Akane
+uAh, but this pattern... I believe it's the same as the notepad in the telephone room.v
+”Protagonist
+uThe one in the telephone room?v
+”Akane
+uYes. It's kept there for jotting down messages when the phone rings... it's a bound pad of paper.v
+”Protagonist
+u...If she wrote something there, a clue might still remain.v
+”Akane
+uYou're right.v
+Itfs no good, I can't seem to get it.
 Let's look around for something else.
-Iâ€™m curious about that scrap of paper in the fireplace... I wonder how I can get it out.
+Ifm curious about that scrap of paper in the fireplace... I wonder how I can get it out.
 I should hurry to the telephone room and check.
 It's likely a door connecting to the adjacent room.
 It seems to be firmly locked.
@@ -70,16 +70,16 @@ I probably shouldn't be rummaging through a lady's room like this.
 Accessories and small trinkets are inside.
 There's nothing that gives a clue to Ai-san's whereabouts.
 I probably shouldn't be rummaging through a lady's room like this.
-ï¼ƒProtagonist
-ã€ŒHm...?ã€
+”Protagonist
+uHm...?v
 A scrap of paper fell out from inside a book.
 What could this be...?
-ã€Story of a Certain Man - Chapter 7ã€
-â€”The man was crying. I felt a surge of deep regret. I had been so caught up in the man's aura and appearance that I failed to see the person within.
+wStory of a Certain Man - Chapter 7x
+?The man was crying. I felt a surge of deep regret. I had been so caught up in the man's aura and appearance that I failed to see the person within.
 I felt ashamed. Despite working in a profession like composing, meant to give dreams and hope to people, I had failed to notice such an obvious emotion.
 I should have considered the feelings the man had while grilling all that takoyaki. ~To be continued~
-ï¼ƒProtagonist
-ã€Œ...What the hell is this?ã€
+”Protagonist
+u...What the hell is this?v
 A scrap of paper titled "Story of a Certain Man - Chapter 7" is lying here.
 I flip through the book, but there's nothing unusual about it.
 It's a perfectly ordinary novel.
@@ -90,11 +90,11 @@ There are no clues to Ai-san's whereabouts.
 This is the bed Ai-san uses.
 I peeked under the pillow and the bed, but I couldn't find anything resembling a clue.
 It's probably better to search somewhere else.
-ï¼ƒProtagonist
-ã€ŒThis is... a fire poker.ã€
+”Protagonist
+uThis is... a fire poker.v
 It's a sturdy iron rod.
-ï¼ƒAkane
-ã€ŒYou need it for the fireplace. To stir the logs and such.ã€
-ï¼ƒProtagonist
-ã€Œ...It might be useful for something, let's take it.ã€
+”Akane
+uYou need it for the fireplace. To stir the logs and such.v
+”Protagonist
+u...It might be useful for something, let's take it.v
 I now have the poker that was here.

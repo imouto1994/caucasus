@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒSo that was Shion-san's room... She's the only one made to live out in the annex.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMaya
-ã€ŒThat is the room of my youngest daughter, Shion. Since she's frail, we have her live in the annex.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€Œ...Yes, that is Shion's room. She's always lived there because of her weak constitution.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒThe only way to get to the tower is through the door behind the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒShion
-ã€Œ...Because it's my room.ã€
-ï¼ƒProtagonist
-ã€Œ...Right, of course.ã€
-ï¼ƒTsujimura
-ã€ŒWith this snow, I'll have to do some shoveling myself. It would be terrible if Lady Shion were to fall.ã€
-ï¼ƒProtagonist
-ã€ŒGood point.ã€
-ï¼ƒTakamine
-ã€Œ...I'm told Shion-kun has lived in that tower for a long time.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒMikanagi
-ã€ŒI heard Shion-san lives in the annex because of her frail health... but perhaps my father was the one who gave those instructions...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm the one who brings Lady Shion her meals, but she usually eats them in the office.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒNarumi
-ã€ŒOnly Lady Shion lives out in the annex, doesn't she... It's kind of strange.ã€
-ï¼ƒProtagonist
-ã€ŒYeah, it is...ã€
+”Souko
+uSo that was Shion-san's room... She's the only one made to live out in the annex.v
+”Protagonist
+uYeah...v
+”Maya
+uThat is the room of my youngest daughter, Shion. Since she's frail, we have her live in the annex.v
+”Protagonist
+uIs that so...v
+”Ai
+u...Yes, that is Shion's room. She's always lived there because of her weak constitution.v
+”Protagonist
+uIs that so...v
+”Benio
+uThe only way to get to the tower is through the door behind the office.v
+”Protagonist
+uI see.v
+”Shion
+u...Because it's my room.v
+”Protagonist
+u...Right, of course.v
+”Tsujimura
+uWith this snow, I'll have to do some shoveling myself. It would be terrible if Lady Shion were to fall.v
+”Protagonist
+uGood point.v
+”Takamine
+u...I'm told Shion-kun has lived in that tower for a long time.v
+”Protagonist
+uIs that so...v
+”Mikanagi
+uI heard Shion-san lives in the annex because of her frail health... but perhaps my father was the one who gave those instructions...v
+”Protagonist
+uI see...v
+”Akane
+uI'm the one who brings Lady Shion her meals, but she usually eats them in the office.v
+”Protagonist
+uIs that so...v
+”Narumi
+uOnly Lady Shion lives out in the annex, doesn't she... It's kind of strange.v
+”Protagonist
+uYeah, it is...v

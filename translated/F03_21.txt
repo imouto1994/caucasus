@@ -1,45 +1,45 @@
-Iâ€™ve come to Benio-san's room.
+Ifve come to Benio-san's room.
 I wonder if she's inside.
-ï¼ƒAkane
-ã€ŒLady Benio, it's Hiyama.ã€
+”Akane
+uLady Benio, it's Hiyama.v
 Akane-san knocks on the door, but there's no response from inside.
-ï¼ƒProtagonist
-ã€ŒIs she not here...?ã€
-ï¼ƒAkane
-ã€Œ...It seems so.ã€
-ï¼ƒProtagonist
-ã€ŒThen let's head elsewhere. We don't have time to waste.ã€
-ï¼ƒAkane
-ã€ŒYes... you're right.ã€
+”Protagonist
+uIs she not here...?v
+”Akane
+u...It seems so.v
+”Protagonist
+uThen let's head elsewhere. We don't have time to waste.v
+”Akane
+uYes... you're right.v
 We decided to head for another location.
-Iâ€™ve come to Benio-san's room.
+Ifve come to Benio-san's room.
 I wonder if she's inside.
-ï¼ƒAkane
-ã€ŒLady Benio, it's Hiyama.ã€
+”Akane
+uLady Benio, it's Hiyama.v
 Akane-san knocks on the door.
-ï¼ƒBenio
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€ŒBenio-san, have you seen Ai-san?ã€
-ï¼ƒBenio
-ã€ŒSister? ...No, I haven't.ã€
-ï¼ƒAkane
-ã€ŒShe hasn't been seen for a while now.ã€
-ï¼ƒBenio
-ã€ŒHmm... I wonder what she's up to.ã€
-ï¼ƒProtagonist
-ã€ŒPlease let us know if you see her.ã€
-ï¼ƒBenio
-ã€ŒYeah, I got it.ã€
+”Benio
+uWhat is it?v
+”Protagonist
+uBenio-san, have you seen Ai-san?v
+”Benio
+uSister? ...No, I haven't.v
+”Akane
+uShe hasn't been seen for a while now.v
+”Benio
+uHmm... I wonder what she's up to.v
+”Protagonist
+uPlease let us know if you see her.v
+”Benio
+uYeah, I got it.v
 We decided to search elsewhere.
-ï¼ƒBenio
-ã€ŒWhat is it? Still haven't found my sister?ã€
-ï¼ƒProtagonist
-ã€ŒNo...ã€
-ï¼ƒBenio
-ã€ŒHmm... I don't really keep track of her movements...ã€
-ï¼ƒAkane
-ã€ŒWe'll try searching a few more places.ã€
-ï¼ƒBenio
-ã€ŒAlright.ã€
+”Benio
+uWhat is it? Still haven't found my sister?v
+”Protagonist
+uNo...v
+”Benio
+uHmm... I don't really keep track of her movements...v
+”Akane
+uWe'll try searching a few more places.v
+”Benio
+uAlright.v
 We decided to head elsewhere.

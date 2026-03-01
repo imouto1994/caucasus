@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...So, did anything happen while you were locked in the basement together, just the two of you?ã€
-ï¼ƒProtagonist
-ã€ŒN-Nothing happened...!ã€
-ï¼ƒMaya
-ã€ŒNarumi? Her talent for cooking is magnificent. Though... I wish she would be a bit more serious...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒAi
-ã€ŒNarumi-san? Her cooking is always delicious... but, well, her other work is a bit...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒNarumi? Her cooking skills are top-notch. As for the rest... well, it's pretty self-evident.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒI heard you were locked in the basement... were you all right?ã€
-ï¼ƒProtagonist
-ã€ŒYes... I'm fine.ã€
-ï¼ƒTsujimura
-ã€ŒAs for Mistress Minakami... it would be a help to me as well if she worked properly at things other than cooking...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI heard Minakami-kun was also locked in the basement. I'm glad she's safe, but...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMikanagi
-ã€ŒNarumi-san? Her cooking is wonderful. As for anything else... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒIf it's Narumi-san, she's likely in her room or the dining hall... since she can't get into the kitchen.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€Œ...Maybe I should've just pounced on you in the basement.ã€
-ï¼ƒProtagonist
-ã€Œ...What are you saying...?ã€
+”Souko
+u...So, did anything happen while you were locked in the basement together, just the two of you?v
+”Protagonist
+uN-Nothing happened...!v
+”Maya
+uNarumi? Her talent for cooking is magnificent. Though... I wish she would be a bit more serious...v
+”Protagonist
+u...I see.v
+”Ai
+uNarumi-san? Her cooking is always delicious... but, well, her other work is a bit...v
+”Protagonist
+uI see.v
+”Benio
+uNarumi? Her cooking skills are top-notch. As for the rest... well, it's pretty self-evident.v
+”Protagonist
+uI see...v
+”Shion
+uI heard you were locked in the basement... were you all right?v
+”Protagonist
+uYes... I'm fine.v
+”Tsujimura
+uAs for Mistress Minakami... it would be a help to me as well if she worked properly at things other than cooking...v
+”Protagonist
+uI see...v
+”Takamine
+uI heard Minakami-kun was also locked in the basement. I'm glad she's safe, but...v
+”Protagonist
+uYeah...v
+”Mikanagi
+uNarumi-san? Her cooking is wonderful. As for anything else... I don't really know.v
+”Protagonist
+uI see.v
+”Akane
+uIf it's Narumi-san, she's likely in her room or the dining hall... since she can't get into the kitchen.v
+”Protagonist
+uI see.v
+”Narumi
+u...Maybe I should've just pounced on you in the basement.v
+”Protagonist
+u...What are you saying...?v

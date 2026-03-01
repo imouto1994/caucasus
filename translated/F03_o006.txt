@@ -1,30 +1,30 @@
-ï¼ƒSouko
-ã€ŒThe lid of the coffin in the chapel is heavy, so it doesn't look like a girl could open it alone.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMaya
-ã€ŒThe chapel is only used for things like weddings, so it's usually kept locked.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒThe chapel is almost never used in our daily lives.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒShion
-ã€ŒThe chapel... I was in there the whole time...ã€
-ï¼ƒTsujimura
-ã€ŒI intend to lock the chapel later. It likely won't be used again for a while.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒDon't go wandering in and out of places where you have no business.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI hear the chapel isn't used normally.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒNarumi
-ã€ŒA chapel that's only used for weddings is quite a luxury, isn't it?ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
+”Souko
+uThe lid of the coffin in the chapel is heavy, so it doesn't look like a girl could open it alone.v
+”Protagonist
+uYou're right...v
+”Maya
+uThe chapel is only used for things like weddings, so it's usually kept locked.v
+”Protagonist
+uI see...v
+”Benio
+uThe chapel is almost never used in our daily lives.v
+”Protagonist
+uIs that so?v
+”Shion
+uThe chapel... I was in there the whole time...v
+”Tsujimura
+uI intend to lock the chapel later. It likely won't be used again for a while.v
+”Protagonist
+uI see...v
+”Takamine
+uDon't go wandering in and out of places where you have no business.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI hear the chapel isn't used normally.v
+”Protagonist
+uIs that so?v
+”Narumi
+uA chapel that's only used for weddings is quite a luxury, isn't it?v
+”Protagonist
+uI suppose so...v

@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒYou want to hear about cola? Well, you know, I was the very first person in Japan to drink cola. Impressive, right?ã€
-ï¼ƒProtagonist
-ã€Œ...I can tell that's a lie.ã€
-ï¼ƒMaya
-ã€ŒCola... is it? Unfortunately, I have never had it.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒCola? I have heard of it... it's the drink Kirihara-san was having, right?ã€
-ï¼ƒProtagonist
-ã€ŒYes, that's right.ã€
-ï¼ƒBenio
-ã€ŒI drink cola every once in a while. That fizzy feeling is irresistible.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒCola... is it? I... have no idea what that is...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒCola... I remember getting some from the Occupation forces long ago. That was nearly twenty years ago now...ã€
-ï¼ƒProtagonist
-ã€ŒOh... I see.ã€
-ï¼ƒTakamine
-ã€ŒCola? I don't drink such things.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒMikanagi
-ã€ŒCola contains a lot of caffeine, you see. You should be careful, as drinking too much can sometimes make it hard to sleep.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒAkane
-ã€ŒCola? ...I'm terribly sorry, we don't have any prepared here...ã€
-ï¼ƒProtagonist
-ã€ŒOh, no, it's fine. Souko-san brought plenty with her.ã€
-ï¼ƒNarumi
-ã€ŒCola? ...Come to think of it, I heard that simmering chicken in cola makes it delicious.ã€
-ï¼ƒProtagonist
-ã€Œ...Please ask Souko-san to do that, not me.ã€
+”Souko
+uYou want to hear about cola? Well, you know, I was the very first person in Japan to drink cola. Impressive, right?v
+”Protagonist
+u...I can tell that's a lie.v
+”Maya
+uCola... is it? Unfortunately, I have never had it.v
+”Protagonist
+uI see.v
+”Ai
+uCola? I have heard of it... it's the drink Kirihara-san was having, right?v
+”Protagonist
+uYes, that's right.v
+”Benio
+uI drink cola every once in a while. That fizzy feeling is irresistible.v
+”Protagonist
+uI see...v
+”Shion
+uCola... is it? I... have no idea what that is...v
+”Protagonist
+uI see...v
+”Tsujimura
+uCola... I remember getting some from the Occupation forces long ago. That was nearly twenty years ago now...v
+”Protagonist
+uOh... I see.v
+”Takamine
+uCola? I don't drink such things.v
+”Protagonist
+uI-I see...v
+”Mikanagi
+uCola contains a lot of caffeine, you see. You should be careful, as drinking too much can sometimes make it hard to sleep.v
+”Protagonist
+uI-I see...v
+”Akane
+uCola? ...I'm terribly sorry, we don't have any prepared here...v
+”Protagonist
+uOh, no, it's fine. Souko-san brought plenty with her.v
+”Narumi
+uCola? ...Come to think of it, I heard that simmering chicken in cola makes it delicious.v
+”Protagonist
+u...Please ask Souko-san to do that, not me.v

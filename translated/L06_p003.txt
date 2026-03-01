@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒEven if Ai-san died during the second blackout... we should probably scrutinize everyone's movements starting from the first blackout.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒTo think Ai has been murdered... I simply don't know what to do anymore...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€Œ...So my sister was targeted again... The killer seems remarkably persistent...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒLady Ai... How could this have happened...ã€
-ï¼ƒProtagonist
-ã€ŒShion-san...ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai... Why did this happen...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒSo even Ai-kun was killed... What on earth is the killer's intent!?ã€
-ï¼ƒProtagonist
-ã€ŒI... I don't know...ã€
-ï¼ƒMikanagi
-ã€Œ...If the head were found, the cause of death would be clearer... but given the situation, I can only call it death by electrocution for now.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€Œ...You were with Lady Ai, weren't you...? If only you had been a little more attentive...ã€
-ï¼ƒProtagonist
-ã€Œ...I'm sorry.ã€
-ï¼ƒNarumi
-ã€ŒIt was during a blackout, after all... If only someone had been doing proper rounds...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+uEven if Ai-san died during the second blackout... we should probably scrutinize everyone's movements starting from the first blackout.v
+”Protagonist
+uTrue...v
+”Maya
+uTo think Ai has been murdered... I simply don't know what to do anymore...v
+”Protagonist
+uTrue...v
+”Benio
+u...So my sister was targeted again... The killer seems remarkably persistent...v
+”Protagonist
+uTrue...v
+”Shion
+uLady Ai... How could this have happened...v
+”Protagonist
+uShion-san...v
+”Tsujimura
+uLady Ai... Why did this happen...?v
+”Protagonist
+uTrue...v
+”Takamine
+uSo even Ai-kun was killed... What on earth is the killer's intent!?v
+”Protagonist
+uI... I don't know...v
+”Mikanagi
+u...If the head were found, the cause of death would be clearer... but given the situation, I can only call it death by electrocution for now.v
+”Protagonist
+uI see...v
+”Akane
+u...You were with Lady Ai, weren't you...? If only you had been a little more attentive...v
+”Protagonist
+u...I'm sorry.v
+”Narumi
+uIt was during a blackout, after all... If only someone had been doing proper rounds...v
+”Protagonist
+uTrue...v

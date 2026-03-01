@@ -1,66 +1,66 @@
-ï¼ƒSouko
-ã€ŒWill this do?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you.ã€
-ï¼ƒSouko
-ã€ŒThen keep up the good work with the investigation.ã€
-ï¼ƒProtagonist
-ã€ŒI will.ã€
+”Souko
+uWill this do?v
+”Protagonist
+uYes, thank you.v
+”Souko
+uThen keep up the good work with the investigation.v
+”Protagonist
+uI will.v
 I decided to head somewhere else.
-ï¼ƒMaya
-ã€ŒIs that everything?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now.ã€
+”Maya
+uIs that everything?v
+”Protagonist
+uYes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now.v
 I bowed and decided to head somewhere else.
-ï¼ƒAi
-ã€ŒIs that everything?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. You seem busy, so I'll be going now.ã€
+”Ai
+uIs that everything?v
+”Protagonist
+uYes, thank you very much. You seem busy, so I'll be going now.v
 I bowed and decided to head somewhere else.
-ï¼ƒBenio
-ã€ŒWill this suffice?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much.ã€
-ï¼ƒBenio
-ã€ŒIf anything else comes up, please don't hesitate to ask.ã€
-ï¼ƒProtagonist
-ã€ŒYes, I'll do that.ã€
+”Benio
+uWill this suffice?v
+”Protagonist
+uYes, thank you very much.v
+”Benio
+uIf anything else comes up, please don't hesitate to ask.v
+”Protagonist
+uYes, I'll do that.v
 I decided to head somewhere else.
-ï¼ƒTsujimura
-ã€ŒWill this be enough for you?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you for your detailed help. You seem busy, so I'll take my leave now.ã€
+”Tsujimura
+uWill this be enough for you?v
+”Protagonist
+uYes, thank you for your detailed help. You seem busy, so I'll take my leave now.v
 I expressed my thanks and decided to head somewhere else.
-ï¼ƒRokuyou
-ã€ŒIs that everything?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much.ã€
-ï¼ƒRokuyou
-ã€ŒIf you need anything else, feel free to ask.ã€
-ï¼ƒProtagonist
-ã€ŒThank you. Well then, excuse me.ã€
+”Rokuyou
+uIs that everything?v
+”Protagonist
+uYes, thank you very much.v
+”Rokuyou
+uIf you need anything else, feel free to ask.v
+”Protagonist
+uThank you. Well then, excuse me.v
 I decided to head somewhere else.
-ï¼ƒTakamine
-ã€ŒWill this do?ã€
-ï¼ƒProtagonist
-ã€ŒY-Yes. Thank you. You seem busy, so I'll excuse myself now.ã€
+”Takamine
+uWill this do?v
+”Protagonist
+uY-Yes. Thank you. You seem busy, so I'll excuse myself now.v
 I bowed and decided to head somewhere else.
-ï¼ƒMikanagi
-ã€ŒWill this be enough for you?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. Excuse me.ã€
+”Mikanagi
+uWill this be enough for you?v
+”Protagonist
+uYes, thank you very much. Excuse me.v
 I decided to head somewhere else.
-ï¼ƒAkane
-ã€ŒIs that everything?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you. You still seem busy, so I'll take my leave now.ã€
+”Akane
+uIs that everything?v
+”Protagonist
+uYes, thank you. You still seem busy, so I'll take my leave now.v
 I bowed and decided to head somewhere else.
-ï¼ƒNarumi
-ã€ŒAlright then, I guess I'll get back to work too. What a pain.ã€
+”Narumi
+uAlright then, I guess I'll get back to work too. What a pain.v
 Narumi-san heads toward the kitchen.
-ï¼ƒProtagonist
-ã€ŒWell then, I'll be going now. Excuse me.ã€
-ï¼ƒNarumi
-ã€ŒSee ya. Come back anytime.ã€
+”Protagonist
+uWell then, I'll be going now. Excuse me.v
+”Narumi
+uSee ya. Come back anytime.v
 I decided to head somewhere else.
 Now then, what should I do next...

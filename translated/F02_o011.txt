@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒI wonder if a line got cut somewhere.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe.ã€
-ï¼ƒMaya
-ã€ŒOh dear, the phones... that is quite a problem...ã€
-ï¼ƒProtagonist
-ã€ŒIt is...ã€
-ï¼ƒAi
-ã€ŒThe phones aren't working? That will be a disaster if something happens...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒBenio
-ã€ŒThe phones are out...? Thatâ€™s a nuisance. It means we can't call for a carriage from the foot of the mountain.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTsujimura
-ã€ŒThe phones are down... Perhaps the line was cut by last night's blizzard... I should investigate it as soon as possible.ã€
-ï¼ƒProtagonist
-ã€ŒI agree.ã€
-ï¼ƒTakamine
-ã€ŒThe phones... You should be telling Tsujimura-san that, not me.ã€
-ï¼ƒProtagonist
-ã€ŒY-you're right...ã€
-ï¼ƒMikanagi
-ã€ŒThe phones aren't working...? That would be a problem if we had a medical emergency...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒThe phones are out...? Thatâ€™s so inconvenient if something were to happen...ã€
-ï¼ƒProtagonist
-ã€ŒIt is...ã€
-ï¼ƒNarumi
-ã€ŒThe phones are down? I wonder if the weight of the snow snapped the line...ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
+”Souko
+uI wonder if a line got cut somewhere.v
+”Protagonist
+uMaybe.v
+”Maya
+uOh dear, the phones... that is quite a problem...v
+”Protagonist
+uIt is...v
+”Ai
+uThe phones aren't working? That will be a disaster if something happens...v
+”Protagonist
+uYou're right...v
+”Benio
+uThe phones are out...? Thatfs a nuisance. It means we can't call for a carriage from the foot of the mountain.v
+”Protagonist
+uRight...v
+”Tsujimura
+uThe phones are down... Perhaps the line was cut by last night's blizzard... I should investigate it as soon as possible.v
+”Protagonist
+uI agree.v
+”Takamine
+uThe phones... You should be telling Tsujimura-san that, not me.v
+”Protagonist
+uY-you're right...v
+”Mikanagi
+uThe phones aren't working...? That would be a problem if we had a medical emergency...v
+”Protagonist
+uYou're right...v
+”Akane
+uThe phones are out...? Thatfs so inconvenient if something were to happen...v
+”Protagonist
+uIt is...v
+”Narumi
+uThe phones are down? I wonder if the weight of the snow snapped the line...v
+”Protagonist
+uMaybe so...v

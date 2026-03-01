@@ -1,61 +1,61 @@
 I've come to the kitchen.
-ï¼ƒNarumi
-ã€ŒOh, what's up?ã€
+”Narumi
+uOh, what's up?v
 Narumi-san was washing dishes with a listless air.
-ï¼ƒProtagonist
-ã€ŒAh, were you in the middle of work?ã€
-ï¼ƒNarumi
-ã€ŒI'm technically working, but... oh, I know, why don't you help me with the dishes?ã€
-ï¼ƒProtagonist
-ã€ŒEh!? Me...?ã€
-ï¼ƒNarumi
-ã€ŒThere's no one else, is there? It's such a pain doing it by myself, don't you think?ã€
+”Protagonist
+uAh, were you in the middle of work?v
+”Narumi
+uI'm technically working, but... oh, I know, why don't you help me with the dishes?v
+”Protagonist
+uEh!? Me...?v
+”Narumi
+uThere's no one else, is there? It's such a pain doing it by myself, don't you think?v
 What should I do...
 Help
 Don't help
-ï¼ƒProtagonist
-ã€ŒAll right.ã€
+”Protagonist
+uAll right.v
 Well, I'm bored anyway, so a little bit should be fine.
-ï¼ƒNarumi
-ã€ŒThen I'll leave the rest to you.ã€
+”Narumi
+uThen I'll leave the rest to you.v
 With that, Narumi-san sat down in a chair.
-ï¼ƒProtagonist
-ã€ŒWait, Narumi-san?ã€
-ï¼ƒNarumi
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€ŒWhat about washing the dishes?ã€
-ï¼ƒNarumi
-ã€ŒThat's why I said I'm leaving it to you, so do your best.ã€
-ï¼ƒProtagonist
-ã€Œ...*Sigh*ã€
+”Protagonist
+uWait, Narumi-san?v
+”Narumi
+uWhat is it?v
+”Protagonist
+uWhat about washing the dishes?v
+”Narumi
+uThat's why I said I'm leaving it to you, so do your best.v
+”Protagonist
+u...*Sigh*v
 Well, I'm the one who said I'd help, so I guess I have no choice.
 I turn on the water at the tap and wash the dishes.
-ï¼ƒNarumi
-ã€ŒThe water's cold, right? It's tough this time of year.ã€
+”Narumi
+uThe water's cold, right? It's tough this time of year.v
 Narumi-san is snacking on leftovers from dinner.
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Protagonist
+uYou're right...v
 I give a vague reply while silently washing the dishes.
 If I focus on how cold the water is, my hands feel like they'll stop.
-ï¼ƒNarumi
-ã€ŒBy the way, what did you come here for?ã€
-ï¼ƒProtagonist
-ã€ŒUh... well...ã€
-ï¼ƒProtagonist
-ã€ŒI'm sorry, I just remembered I have something to do.ã€
+”Narumi
+uBy the way, what did you come here for?v
+”Protagonist
+uUh... well...v
+”Protagonist
+uI'm sorry, I just remembered I have something to do.v
 I bowed while taking a few steps back.
-ï¼ƒNarumi
-ã€ŒHey, that's obviously a lie! Wait!ã€
+”Narumi
+uHey, that's obviously a lie! Wait!v
 With Narumi-san's shouts at my back, I fled the kitchen.
 I've come to the kitchen again.
-ï¼ƒNarumi
-ã€ŒOh, you need something again?ã€
-ï¼ƒProtagonist
-ã€ŒUh... well...ã€
+”Narumi
+uOh, you need something again?v
+”Protagonist
+uUh... well...v
 I've come to the kitchen.
-ï¼ƒProtagonist
-ã€ŒHuh... no one's here.ã€
+”Protagonist
+uHuh... no one's here.v
 The place was empty, and Narumi-san was nowhere to be seen.
 If she's not here, there's nothing I can do.
 What should I do...

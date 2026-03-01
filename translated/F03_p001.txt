@@ -1,32 +1,32 @@
-ï¼ƒProtagonist
-ã€ŒSouko-san, you're surprisingly calm in this situation.ã€
-ï¼ƒSouko
-ã€ŒYou're plenty calm yourself. Well, it's highly likely to be an internal dispute, so I figure it's unlikely to catch us in the crossfire.ã€
-ï¼ƒMaya
-ã€ŒFor things to turn out like this... I feel terribly sorry for our guests.ã€
-ï¼ƒProtagonist
-ã€ŒN-No, please don't let it trouble you.ã€
-ï¼ƒBenio
-ã€ŒIt feels like someone who can finally hold their own against me has arrived.ã€
-ï¼ƒProtagonist
-ã€ŒI-Is that so...ã€
-ï¼ƒShion
-ã€ŒKirihara-san... she has a somewhat frightening atmosphere about her...ã€
-ï¼ƒProtagonist
-ã€ŒDo you think so...?ã€
-ï¼ƒTsujimura
-ã€ŒI feel terribly sorry to Kirihara-sama and the others that things have turned out this way...ã€
-ï¼ƒProtagonist
-ã€ŒNo, please don't worry about it...ã€
-ï¼ƒTakamine
-ã€ŒIt seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary.ã€
-ï¼ƒProtagonist
-ã€ŒThat might be true, but...ã€
-ï¼ƒMikanagi
-ã€ŒThe swelling in Kirihara-san's finger hasn't gone down yet. It's possible... that it might be fractured.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒKirihara-san? She seems to be investigating all sorts of things.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
+”Protagonist
+uSouko-san, you're surprisingly calm in this situation.v
+”Souko
+uYou're plenty calm yourself. Well, it's highly likely to be an internal dispute, so I figure it's unlikely to catch us in the crossfire.v
+”Maya
+uFor things to turn out like this... I feel terribly sorry for our guests.v
+”Protagonist
+uN-No, please don't let it trouble you.v
+”Benio
+uIt feels like someone who can finally hold their own against me has arrived.v
+”Protagonist
+uI-Is that so...v
+”Shion
+uKirihara-san... she has a somewhat frightening atmosphere about her...v
+”Protagonist
+uDo you think so...?v
+”Tsujimura
+uI feel terribly sorry to Kirihara-sama and the others that things have turned out this way...v
+”Protagonist
+uNo, please don't worry about it...v
+”Takamine
+uIt seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary.v
+”Protagonist
+uThat might be true, but...v
+”Mikanagi
+uThe swelling in Kirihara-san's finger hasn't gone down yet. It's possible... that it might be fractured.v
+”Protagonist
+uI see...v
+”Narumi
+uKirihara-san? She seems to be investigating all sorts of things.v
+”Protagonist
+uRight.v

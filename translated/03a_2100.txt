@@ -1,116 +1,116 @@
 I returned to the corridor in front of my room.
-ï¼ƒProtagonist
-ã€ŒOh... Benio-san?ã€
-ï¼ƒBenio
-ã€ŒNn... yeah.ã€
+”Protagonist
+uOh... Benio-san?v
+”Benio
+uNn... yeah.v
 Benio-san was standing in front of my room.
-ï¼ƒProtagonist
-ã€ŒWhat happened?ã€
-ï¼ƒBenio
-ã€ŒThereâ€™s something thatâ€™s still bothering me.ã€
-ï¼ƒProtagonist
-ã€ŒIs it about what was written in Souko-sanâ€™s room earlier?ã€
-ï¼ƒBenio
-ã€ŒThat too... but come to my room for a moment.ã€
-ï¼ƒProtagonist
-ã€ŒSure, I don't mind...ã€
+”Protagonist
+uWhat happened?v
+”Benio
+uTherefs something thatfs still bothering me.v
+”Protagonist
+uIs it about what was written in Souko-sanfs room earlier?v
+”Benio
+uThat too... but come to my room for a moment.v
+”Protagonist
+uSure, I don't mind...v
 I entered Benio-san's room.
-ï¼ƒProtagonist
-ã€ŒSo, whatâ€™s on your mind?ã€
-ï¼ƒBenio
-ã€Œ...Itâ€™s about the heads.ã€
-ï¼ƒProtagonist
-ã€ŒHeads...?ã€
-ï¼ƒBenio
-ã€ŒYes. When Rokuyou was killed, the head was missing, right?ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒBenio
-ã€ŒThe meaning behind that still isn't clear. Nor where the head went...ã€
-ï¼ƒProtagonist
-ã€ŒThe meaning, huh... When I talked about it with Souko-san before, she thought it might be related to the 'Curse of the Nanatsuki'...ã€
-ï¼ƒBenio
-ã€Œ...The 'Nanatsuki Sacrifice' might be closer.ã€
-ï¼ƒProtagonist
-ã€ŒSacrifice...?ã€
-ï¼ƒBenio
-ã€Œ...The Nanatsuki family carries tainted blood. Apparently, there was a custom of decapitating daughters who showed abnormalities in order to purify the bloodline.ã€
-ï¼ƒProtagonist
-ã€ŒThatâ€™s...ã€
-ï¼ƒBenio
-ã€ŒFortunately, it hasn't been practiced recently. If it were, Iâ€™d likely have been the first to go.ã€
+”Protagonist
+uSo, whatfs on your mind?v
+”Benio
+u...Itfs about the heads.v
+”Protagonist
+uHeads...?v
+”Benio
+uYes. When Rokuyou was killed, the head was missing, right?v
+”Protagonist
+uYeah...v
+”Benio
+uThe meaning behind that still isn't clear. Nor where the head went...v
+”Protagonist
+uThe meaning, huh... When I talked about it with Souko-san before, she thought it might be related to the 'Curse of the Nanatsuki'...v
+”Benio
+u...The 'Nanatsuki Sacrifice' might be closer.v
+”Protagonist
+uSacrifice...?v
+”Benio
+u...The Nanatsuki family carries tainted blood. Apparently, there was a custom of decapitating daughters who showed abnormalities in order to purify the bloodline.v
+”Protagonist
+uThatfs...v
+”Benio
+uFortunately, it hasn't been practiced recently. If it were, Ifd likely have been the first to go.v
 Benio-san gave a cynical laugh.
-ï¼ƒBenio
-ã€ŒThatâ€™s why that strange custom from the other day came to be practiced for weddings.ã€
-ï¼ƒProtagonist
-ã€Œ...You mean spending the night in the coffin?ã€
-ï¼ƒBenio
-ã€ŒExactly. It was meant to prove oneâ€™s innocence, but...ã€
-ï¼ƒProtagonist
-ã€ŒBut... Rokuyou-san was killed.ã€
-ï¼ƒBenio
-ã€Œ...Shion has a weak constitution. That might be because of the tainted Nanatsuki blood... no, sheâ€™s adopted, so that shouldn't matter...ã€
-ï¼ƒProtagonist
-ã€ŒUm... who knows about the 'Nanatsuki Sacrifice'?ã€
-ï¼ƒBenio
-ã€ŒAnyone in our family would know. Itâ€™s not something we want leaked to the outside, though.ã€
-ï¼ƒProtagonist
-ã€ŒBut... Rokuyou-san is a man. He wouldn't be a sacrifice.ã€
-ï¼ƒBenio
-ã€ŒTrue... itâ€™s possible that instead of an actual sacrifice, someone who knows the story is imitating it.ã€
-ï¼ƒProtagonist
-ã€ŒSo theyâ€™re staging it to look like the 'Nanatsuki Sacrifice'...?ã€
-ï¼ƒBenio
-ã€ŒNot necessarily. They might have just wanted to hide the head.ã€
-ï¼ƒProtagonist
-ã€Œ...Iâ€™m not sure.ã€
-ï¼ƒBenio
-ã€ŒNone of us are.ã€
+”Benio
+uThatfs why that strange custom from the other day came to be practiced for weddings.v
+”Protagonist
+u...You mean spending the night in the coffin?v
+”Benio
+uExactly. It was meant to prove onefs innocence, but...v
+”Protagonist
+uBut... Rokuyou-san was killed.v
+”Benio
+u...Shion has a weak constitution. That might be because of the tainted Nanatsuki blood... no, shefs adopted, so that shouldn't matter...v
+”Protagonist
+uUm... who knows about the 'Nanatsuki Sacrifice'?v
+”Benio
+uAnyone in our family would know. Itfs not something we want leaked to the outside, though.v
+”Protagonist
+uBut... Rokuyou-san is a man. He wouldn't be a sacrifice.v
+”Benio
+uTrue... itfs possible that instead of an actual sacrifice, someone who knows the story is imitating it.v
+”Protagonist
+uSo theyfre staging it to look like the 'Nanatsuki Sacrifice'...?v
+”Benio
+uNot necessarily. They might have just wanted to hide the head.v
+”Protagonist
+u...Ifm not sure.v
+”Benio
+uNone of us are.v
 Benio-san lay down on her bed.
-ï¼ƒProtagonist
-ã€ŒIâ€™ll go back to my room and think about it a bit more.ã€
-Given the time, it probably wasn't a good idea to stay in a womanâ€™s room forever.
-ï¼ƒBenio
-ã€ŒI see. ...Make sure you don't let your guard down.ã€
-ï¼ƒProtagonist
-ã€ŒYeah, I know.ã€
-ï¼ƒBenio
-ã€Œ...Hey.ã€
-ï¼ƒProtagonist
-ã€ŒYes?ã€
-ï¼ƒBenio
-ã€Œ...You try lying down, too.ã€
-ï¼ƒProtagonist
-ã€Œ...Uh, okay.ã€
+”Protagonist
+uIfll go back to my room and think about it a bit more.v
+Given the time, it probably wasn't a good idea to stay in a womanfs room forever.
+”Benio
+uI see. ...Make sure you don't let your guard down.v
+”Protagonist
+uYeah, I know.v
+”Benio
+u...Hey.v
+”Protagonist
+uYes?v
+”Benio
+u...You try lying down, too.v
+”Protagonist
+u...Uh, okay.v
 As instructed, I lay down next to Benio-san.
-ï¼ƒProtagonist
-ã€ŒOuch!ã€
+”Protagonist
+uOuch!v
 Our heads bumped together.
-ï¼ƒBenio
-ã€ŒYou idiot! Did you do that on purpose!?ã€
+”Benio
+uYou idiot! Did you do that on purpose!?v
 Sitting up and leaning over me, Benio-san grabbed my collar.
-ï¼ƒProtagonist
-ã€ŒN-No! I mean, please don't move around so much!ã€
-ï¼ƒBenio
-ã€ŒDo you have a problem with it!?ã€
-ï¼ƒProtagonist
-ã€ŒNo, well... when you move while straddling me, well...ã€
-Iâ€™m a young man, after all; that kind of stimulation...
-ï¼ƒBenio
-ã€ŒWhat about...!?ã€
+”Protagonist
+uN-No! I mean, please don't move around so much!v
+”Benio
+uDo you have a problem with it!?v
+”Protagonist
+uNo, well... when you move while straddling me, well...v
+Ifm a young man, after all; that kind of stimulation...
+”Benio
+uWhat about...!?v
 Finally realizing, Benio-san suddenly went silent.
-ï¼ƒBenio
-ã€Œ...Ah, uuh... itâ€™s hitting me...?ã€
-ï¼ƒProtagonist
-ã€Œ...Well, thatâ€™s only natural after this much stimulation.ã€
-ï¼ƒBenio
-ã€ŒW-What should I do...?ã€
-ï¼ƒProtagonist
-ã€ŒUm...ã€
-Benio-sanâ€™s face was bright red.
-ï¼ƒProtagonist
-ã€ŒW-What should we do...ã€
-ï¼ƒBenio
-ã€ŒWell... if you just tell me, Iâ€™ll do it...ã€
-ï¼ƒProtagonist
-ã€ŒUh... in that case...ã€
+”Benio
+u...Ah, uuh... itfs hitting me...?v
+”Protagonist
+u...Well, thatfs only natural after this much stimulation.v
+”Benio
+uW-What should I do...?v
+”Protagonist
+uUm...v
+Benio-sanfs face was bright red.
+”Protagonist
+uW-What should we do...v
+”Benio
+uWell... if you just tell me, Ifll do it...v
+”Protagonist
+uUh... in that case...v

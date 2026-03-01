@@ -1,77 +1,77 @@
 I leave the dining room and head to the north hallway on the first floor.
-ï¼ƒProtagonist
-ã€ŒTakamine-san, it's me.ã€
+”Protagonist
+uTakamine-san, it's me.v
 The door opens.
-ï¼ƒTakamine
-ã€ŒDo you need something?ã€
+”Takamine
+uDo you need something?v
 A blunt Takamine-san appears, though he doesn't seem particularly grumpy.
-ï¼ƒProtagonist
-ã€ŒI brought food. Andâ€¦â€¦ can we talk for a bit?ã€
+”Protagonist
+uI brought food. Andcc can we talk for a bit?v
 There's something I want to confirm.
-ï¼ƒTakamine
-ã€Œâ€¦â€¦I don't mind.ã€
+”Takamine
+uccI don't mind.v
 Takamine-san opens the door wide.
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 Takamine-san's room is neatly organized.
 A photo frame is placed on the shelf.
-ï¼ƒTakamine
-ã€ŒWell, have a seat.ã€
+”Takamine
+uWell, have a seat.v
 Takamine-san offers me a chair, so I sit down quietly.
-ï¼ƒTakamine
-ã€ŒI believe I told you I didn't need any food.ã€
-ï¼ƒProtagonist
-ã€ŒBut you won't last long if you don't eat, you know? I've performed a poison test, so it's fine.ã€
-ï¼ƒTakamine
-ã€Œâ€¦â€¦Hmph.ã€
+”Takamine
+uI believe I told you I didn't need any food.v
+”Protagonist
+uBut you won't last long if you don't eat, you know? I've performed a poison test, so it's fine.v
+”Takamine
+uccHmph.v
 Takamine-san reluctantly accepts the plate of fried rice.
 He places the plate on the shelf and knocks over the photo frame.
-ï¼ƒTakamine
-ã€Œâ€”â€”So, what did you want to talk about?ã€
-ï¼ƒProtagonist
-ã€ŒAh, umâ€¦â€¦ I wanted to ask about Mr. Kousei's willâ€¦â€¦ã€
+”Takamine
+u??So, what did you want to talk about?v
+”Protagonist
+uAh, umcc I wanted to ask about Mr. Kousei's willccv
 Takamine-san's gaze sharpens.
-ï¼ƒTakamine
-ã€Œâ€¦â€¦Do you think I can tell that to an outsider?ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right, of courseâ€¦â€¦ã€
-I guess it's impossible after allâ€¦â€¦
-ï¼ƒTakamine
-ã€Œâ€¦â€¦However, given the situation.ã€
-ï¼ƒProtagonist
-ã€ŒEhâ€¦â€¦?ã€
-ï¼ƒTakamine
-ã€ŒYou're looking for the culprit, aren't you? It might provide some sort of clue.ã€
+”Takamine
+uccDo you think I can tell that to an outsider?v
+”Protagonist
+uY-You're right, of courseccv
+I guess it's impossible after allcc
+”Takamine
+uccHowever, given the situation.v
+”Protagonist
+uEhcc?v
+”Takamine
+uYou're looking for the culprit, aren't you? It might provide some sort of clue.v
 It seems Takamine-san is willing to cooperate.
-ï¼ƒProtagonist
-ã€ŒTh-Thank you very much.ã€
-ï¼ƒTakamine
-ã€ŒKeep in mind, it's only what I can remember. Mainly the method of distributing the inheritance.ã€
-ï¼ƒProtagonist
-ã€ŒThat's more than enough. â€¦â€¦I heard that even if Rokuyou-san married Shion-san, there would be no benefit.ã€
-ï¼ƒTakamine
-ã€ŒAhâ€¦â€¦ that matter.ã€
-ï¼ƒProtagonist
-ã€ŒIs that because Shion-san is adopted?ã€
-ï¼ƒTakamine
-ã€ŒI don't know what his personal motives were. However, the will stated that the inheritance was to be divided equally among Nanatsuki Maya, Nanatsuki Ai, and Nanatsuki Benio, one-third each.ã€
-ï¼ƒProtagonist
-ã€ŒIf that's the caseâ€¦â€¦ then Shion-san really wouldn't receive a single cent.ã€
-ï¼ƒTakamine
-ã€ŒIf she had married Rokuyou-kun, she would have gained access to the Rokuyou family's assets. But even that is no longer possible.ã€
-ï¼ƒProtagonist
-ã€ŒWas this marriage proposed by Rokuyou-san?ã€
-ï¼ƒTakamine
-ã€ŒThat's what I heard. I don't know what his intentions were, but Maya-san was said to be delighted.ã€
-ï¼ƒProtagonist
-ã€ŒWas it just getting rid of a nuisance after allâ€¦â€¦?ã€
-ï¼ƒTakamine
-ã€Œâ€¦â€¦Perhaps.ã€
+”Protagonist
+uTh-Thank you very much.v
+”Takamine
+uKeep in mind, it's only what I can remember. Mainly the method of distributing the inheritance.v
+”Protagonist
+uThat's more than enough. ccI heard that even if Rokuyou-san married Shion-san, there would be no benefit.v
+”Takamine
+uAhcc that matter.v
+”Protagonist
+uIs that because Shion-san is adopted?v
+”Takamine
+uI don't know what his personal motives were. However, the will stated that the inheritance was to be divided equally among Nanatsuki Maya, Nanatsuki Ai, and Nanatsuki Benio, one-third each.v
+”Protagonist
+uIf that's the casecc then Shion-san really wouldn't receive a single cent.v
+”Takamine
+uIf she had married Rokuyou-kun, she would have gained access to the Rokuyou family's assets. But even that is no longer possible.v
+”Protagonist
+uWas this marriage proposed by Rokuyou-san?v
+”Takamine
+uThat's what I heard. I don't know what his intentions were, but Maya-san was said to be delighted.v
+”Protagonist
+uWas it just getting rid of a nuisance after allcc?v
+”Takamine
+uccPerhaps.v
 Takamine-san lets out a long breath.
-ï¼ƒTakamine
-ã€ŒThat's about all I can tell you.ã€
-ï¼ƒProtagonist
-ã€ŒThank you very much.ã€
+”Takamine
+uThat's about all I can tell you.v
+”Protagonist
+uThank you very much.v
 I wanted to ask more, but this seems like the right time to leave.
-ï¼ƒProtagonist
-ã€ŒWell then, excuse me.ã€
+”Protagonist
+uWell then, excuse me.v

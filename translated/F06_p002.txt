@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€ŒMaya-san seems quite exhausted too... though I suppose it can't be helped.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€Œ...I will be fine, thank you.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI believe Mother is resting in her room...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒMother looks quite haggard. It's only natural, but...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒTsujimura
-ã€ŒThe Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒIt seems Maya-san has cooped herself up in her room. Well, thatâ€™s probably for the best...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMikanagi
-ã€ŒMaya-san has been feeling unwell since last night, so I'm having her rest in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uMaya-san seems quite exhausted too... though I suppose it can't be helped.v
+”Protagonist
+uRight...v
+”Maya
+u...I will be fine, thank you.v
+”Protagonist
+uI see...v
+”Ai
+uI believe Mother is resting in her room...v
+”Protagonist
+uI see...v
+”Benio
+uMother looks quite haggard. It's only natural, but...v
+”Protagonist
+u...I see.v
+”Tsujimura
+uThe Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless...v
+”Protagonist
+uI see...v
+”Takamine
+uIt seems Maya-san has cooped herself up in her room. Well, thatfs probably for the best...v
+”Protagonist
+uRight...v
+”Mikanagi
+uMaya-san has been feeling unwell since last night, so I'm having her rest in her room.v
+”Protagonist
+uI see.v

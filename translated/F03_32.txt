@@ -5,46 +5,46 @@ Is he not here?
 I gave up and decided to head elsewhere.
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-ï¼ƒMikanagi
-ã€ŒAh... it's you. What's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Dr. Mikanagi. Do you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, I don't mind, but what is it?ã€
+”Mikanagi
+uAh... it's you. What's the matter?v
+”Protagonist
+uHello, Dr. Mikanagi. Do you have a moment?v
+”Mikanagi
+uYes, I don't mind, but what is it?v
 Now, what should I do?
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
 But there was no response from inside.
-ï¼ƒProtagonist
-ã€ŒIt seems he isn't here.ã€
-ï¼ƒAkane
-ã€ŒSo it seems...ã€
+”Protagonist
+uIt seems he isn't here.v
+”Akane
+uSo it seems...v
 We gave up and decided to head elsewhere.
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-ï¼ƒMikanagi
-ã€ŒAh... it's you. What's the matter?ã€
-ï¼ƒAkane
-ã€ŒDr. Mikanagi, have you seen Lady Ai?ã€
-ï¼ƒMikanagi
-ã€ŒAi-san? ...No, I haven't.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒPlease let us know if you see her.ã€
-ï¼ƒMikanagi
-ã€ŒYes, understood.ã€
+”Mikanagi
+uAh... it's you. What's the matter?v
+”Akane
+uDr. Mikanagi, have you seen Lady Ai?v
+”Mikanagi
+uAi-san? ...No, I haven't.v
+”Protagonist
+uI see...v
+”Akane
+uPlease let us know if you see her.v
+”Mikanagi
+uYes, understood.v
 We decided to head elsewhere.
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-ï¼ƒMikanagi
-ã€ŒOh, it's you two... Have you still not found Ai-san?ã€
-ï¼ƒAkane
-ã€ŒNo... that's right.ã€
-ï¼ƒMikanagi
-ã€ŒI wonder what happened... I'm starting to get worried.ã€
-ï¼ƒProtagonist
-ã€ŒWell, we're going to keep looking around other areas.ã€
-ï¼ƒMikanagi
-ã€ŒRight, I'm counting on you.ã€
+”Mikanagi
+uOh, it's you two... Have you still not found Ai-san?v
+”Akane
+uNo... that's right.v
+”Mikanagi
+uI wonder what happened... I'm starting to get worried.v
+”Protagonist
+uWell, we're going to keep looking around other areas.v
+”Mikanagi
+uRight, I'm counting on you.v
 We left the room.

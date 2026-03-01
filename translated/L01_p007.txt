@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒTakamine-san, huh... I don't see any particular reason for him to kill Rokuyou-san. Don't judge him just by his looks.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒAttorney Takamine and Isamu-san weren't exactly close. They may have spoken regarding the ceremony and such, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒTakamine-san took over the role of the Nanatsuki family's legal counsel from his father. I believe he's someone who sees things very clearly.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒIn Takamine's case, you notice that face before you even think about a crime. That doesn't mean I'm prepared to say he's not the killer, though.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒShion
-ã€ŒMaster Takamine... I'm sorry. I... don't know him well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI don't think there was anything in particular between Master Takamine and Master Rokuyou...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒLast night I went straight to my room and slept. I'm a heavy sleeper, so I wouldn't know what was happening outside.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒTakamine-san is a lawyer specifically for the Nanatsuki family. He couldn't be stationed here if he were working elsewhere.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒMaster Takamine's room is opposite Master Rokuyou's... but the soundproofing is good, so I doubt he heard a thing.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒTakamine-san? He's a bit shady, but I guess he's still a lawyer.ã€
-ï¼ƒProtagonist
-ã€ŒI... I see.ã€
+”Souko
+uTakamine-san, huh... I don't see any particular reason for him to kill Rokuyou-san. Don't judge him just by his looks.v
+”Protagonist
+uTrue...v
+”Maya
+uAttorney Takamine and Isamu-san weren't exactly close. They may have spoken regarding the ceremony and such, but...v
+”Protagonist
+uI see...v
+”Ai
+uTakamine-san took over the role of the Nanatsuki family's legal counsel from his father. I believe he's someone who sees things very clearly.v
+”Protagonist
+uI see...v
+”Benio
+uIn Takamine's case, you notice that face before you even think about a crime. That doesn't mean I'm prepared to say he's not the killer, though.v
+”Protagonist
+u...I see.v
+”Shion
+uMaster Takamine... I'm sorry. I... don't know him well.v
+”Protagonist
+uI see...v
+”Tsujimura
+uI don't think there was anything in particular between Master Takamine and Master Rokuyou...v
+”Protagonist
+uI see.v
+”Takamine
+uLast night I went straight to my room and slept. I'm a heavy sleeper, so I wouldn't know what was happening outside.v
+”Protagonist
+uI see...v
+”Mikanagi
+uTakamine-san is a lawyer specifically for the Nanatsuki family. He couldn't be stationed here if he were working elsewhere.v
+”Protagonist
+uI see.v
+”Akane
+uMaster Takamine's room is opposite Master Rokuyou's... but the soundproofing is good, so I doubt he heard a thing.v
+”Protagonist
+uI see.v
+”Narumi
+uTakamine-san? He's a bit shady, but I guess he's still a lawyer.v
+”Protagonist
+uI... I see.v

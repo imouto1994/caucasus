@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAkane-san? she seems like a serious, good girl.ã€
-ï¼ƒProtagonist
-ã€ŒShe does.ã€
-ï¼ƒMaya
-ã€ŒAkane works very hard. She's very attentive to the smallest details.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAkane-san? She works very hard.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAkane-san? She is a very good person. A bit scatterbrained at times, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMs. Hiyama? She handles her work properly, and I have no complaints...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒRokuyou
-ã€ŒAkane? She seems a bit flighty, but she's giving it her all, isn't she?ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒHiyama-kun... to think someone would come to the depths of the mountains to work so hard.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒAkane-san... maybe she's shy, she hasn't talked to me much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒEh, about me!? No, there's nothing to tell, really!ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒAbout Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... ah, don't tell anyone I said that, okay?ã€
-ï¼ƒProtagonist
-ã€ŒUh, sure...ã€
+”Souko
+uAkane-san? she seems like a serious, good girl.v
+”Protagonist
+uShe does.v
+”Maya
+uAkane works very hard. She's very attentive to the smallest details.v
+”Protagonist
+uI see.v
+”Ai
+uAkane-san? She works very hard.v
+”Protagonist
+uI see.v
+”Benio
+uAkane-san? She is a very good person. A bit scatterbrained at times, but...v
+”Protagonist
+uI see...v
+”Tsujimura
+uMs. Hiyama? She handles her work properly, and I have no complaints...v
+”Protagonist
+uI see.v
+”Rokuyou
+uAkane? She seems a bit flighty, but she's giving it her all, isn't she?v
+”Protagonist
+uI see.v
+”Takamine
+uHiyama-kun... to think someone would come to the depths of the mountains to work so hard.v
+”Protagonist
+uI see.v
+”Mikanagi
+uAkane-san... maybe she's shy, she hasn't talked to me much.v
+”Protagonist
+uI see...v
+”Akane
+uEh, about me!? No, there's nothing to tell, really!v
+”Protagonist
+uI see...v
+”Narumi
+uAbout Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... ah, don't tell anyone I said that, okay?v
+”Protagonist
+uUh, sure...v

@@ -1,81 +1,81 @@
 I've returned to the dining room.
-ï¼ƒProtagonist
-ã€ŒOh, where's Souko-san?ã€
+”Protagonist
+uOh, where's Souko-san?v
 Souko-san is nowhere to be seen.
-ï¼ƒBenio
-ã€ŒIt seems she went back to her room.ã€
+”Benio
+uIt seems she went back to her room.v
 Benio-san is relaxing while drinking cocoa.
 Tsujimura-san and Narumi-san aren't here either.
-ï¼ƒBenio
-ã€ŒI suppose she can't settle down in a place where a murderer might be lurking nearby.ã€
-ï¼ƒProtagonist
-ã€ŒHow about you, Benio-san?ã€
-ï¼ƒBenio
-ã€ŒMe? â€¦â€¦Well, I suppose it's the same for me.ã€
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦Are you actually feeling anxious?ã€
-ï¼ƒBenio
-ã€ŒI am a delicate maiden, after all.ã€
+”Benio
+uI suppose she can't settle down in a place where a murderer might be lurking nearby.v
+”Protagonist
+uHow about you, Benio-san?v
+”Benio
+uMe? ccWell, I suppose it's the same for me.v
+”Protagonist
+uccAre you actually feeling anxious?v
+”Benio
+uI am a delicate maiden, after all.v
 Benio-san blurts out something unexpected.
 No, she's right, but she has an air about her that makes it seem like she's almost enjoying this situation.
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦I see.ã€
+”Protagonist
+uccI see.v
 Of course, I can't say that to her face, so I stay quiet.
 With Rokuyou-san and Ai-san both murdered, there's no telling when Benio-san might be targeted.
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦Please be careful too, Benio-san.ã€
-ï¼ƒBenio
-ã€ŒWhat's this? Are you that worried about me?ã€
+”Protagonist
+uccPlease be careful too, Benio-san.v
+”Benio
+uWhat's this? Are you that worried about me?v
 Benio-san's lips curl into a smirk.
-ï¼ƒProtagonist
-ã€ŒOf course I am.ã€
-ï¼ƒBenio
-ã€Œâ€¦â€¦I see.ã€
+”Protagonist
+uOf course I am.v
+”Benio
+uccI see.v
 Benio-san suddenly crosses her arms as if lost in thought.
-ï¼ƒBenio
-ã€Œâ€¦â€¦Hey, are youâ€”â€”ã€
+”Benio
+uccHey, are you??v
 Benio-san's words are cut short by the sudden meow of a cat.
-ï¼ƒBenio
-ã€Œâ€¦â€¦Are you worried too, Love?ã€
-ï¼ƒBenio
-ã€ŒHeheâ€¦â€¦ I see.ã€
+”Benio
+uccAre you worried too, Love?v
+”Benio
+uHehecc I see.v
 Benio-san picks up the cat.
-ï¼ƒBenio
-ã€Œâ€”â€”I think I'll head back to my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒIs that soâ€¦â€¦ Um, about what you were going to say just nowâ€”â€”ã€
-ï¼ƒBenio
-ã€Œâ€¦â€¦It's nothing. Forget it.ã€
+”Benio
+u??I think I'll head back to my room as well.v
+”Protagonist
+uIs that socc Um, about what you were going to say just now??v
+”Benio
+uccIt's nothing. Forget it.v
 Benio-san turns her face away.
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦â€¦ã€
-ï¼ƒBenio
-ã€ŒWell then, see you later.ã€
+”Protagonist
+uI seeccv
+”Benio
+uWell then, see you later.v
 Benio-san leaves the dining room.
-I wonder what she wanted to sayâ€¦â€¦
-ï¼ƒ???
-ã€Œâ€¦â€¦Um, are you finished?ã€
-ï¼ƒProtagonist
-ã€ŒWhoa!?ã€
+I wonder what she wanted to saycc
+”???
+uccUm, are you finished?v
+”Protagonist
+uWhoa!?v
 Startled by the sudden voice, I turn around to find Akane-san standing there looking apologetic.
-ï¼ƒProtagonist
-ã€ŒA-Akane-sanâ€¦â€¦ã€
-ï¼ƒAkane
-ã€Œâ€¦â€¦I thought it would be rude to interrupt since you two seemed to be in your own little worldâ€¦â€¦ã€
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦No, it wasn't anything like thatâ€¦â€¦ã€
-ï¼ƒAkane
-ã€ŒI-Is that soâ€¦â€¦?ã€
-How do I put itâ€¦â€¦ this person is pretty unusual tooâ€¦â€¦
-ï¼ƒAkane
-ã€ŒOh, that's right.ã€
+”Protagonist
+uA-Akane-sanccv
+”Akane
+uccI thought it would be rude to interrupt since you two seemed to be in your own little worldccv
+”Protagonist
+uccNo, it wasn't anything like thatccv
+”Akane
+uI-Is that socc?v
+How do I put itcc this person is pretty unusual toocc
+”Akane
+uOh, that's right.v
 Akane-san brings over a plate of fried rice.
-ï¼ƒAkane
-ã€ŒUm, I'd like you to take this to Takamine-sama's room, if you wouldâ€¦â€¦ã€
-ï¼ƒProtagonist
-ã€ŒEh? But Takamine-san said he didn't want anyâ€¦â€¦ã€
-ï¼ƒAkane
-ã€ŒEven so, he needs to eat. Please tell him that I've performed a poison test myself, so he can rest easy.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+”Akane
+uUm, I'd like you to take this to Takamine-sama's room, if you wouldccv
+”Protagonist
+uEh? But Takamine-san said he didn't want anyccv
+”Akane
+uEven so, he needs to eat. Please tell him that I've performed a poison test myself, so he can rest easy.v
+”Protagonist
+uUnderstood.v
 Well, it might be better for me to take it rather than Akane-san or someone else from this house.

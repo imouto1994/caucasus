@@ -1,19 +1,19 @@
-Iâ€™ve come to the second-floor restroom.
+Ifve come to the second-floor restroom.
 No one is here.
 What should I do...?
-ï¼ƒAkane
-ã€ŒEh... where on earth do you think you're going!?ã€
-ï¼ƒProtagonist
-ã€ŒWhere? To the restroom...ã€
-ï¼ƒAkane
-ã€Œ...Fine, I'll wait here, so please hurry up.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yes...ã€
+”Akane
+uEh... where on earth do you think you're going!?v
+”Protagonist
+uWhere? To the restroom...v
+”Akane
+u...Fine, I'll wait here, so please hurry up.v
+”Protagonist
+uY-Yes...v
 I went into the restroom, but of course, no one was there.
 Naturally, Ai-san wasn't there either.
 I finished my business, washed my hands, and left the restroom.
-ï¼ƒProtagonist
-ã€ŒSorry to keep you waiting.ã€
-ï¼ƒAkane
-ã€Œ...Well then, let's go search elsewhere.ã€
+”Protagonist
+uSorry to keep you waiting.v
+”Akane
+u...Well then, let's go search elsewhere.v
 I followed Akane-san and headed for another location.

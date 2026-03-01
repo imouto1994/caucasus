@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒA song...? I haven't heard anything, so I wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒA song...? It is likely Shion who is singing.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒThat must be Shion singing. Her voice is truly beautiful.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒA song... Isn't it just Shion?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThat would likely be Lady Shion. She is often heard singing to herself.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒA song, eh...? Someone must be singing, then.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒMikanagi
-ã€ŒA song, you say... Itâ€™s probably Shion-san.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒA song...? It seems Lady Shion is often heard singing, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe one singing all the time is probably Lady Shion. Though Lady Benio plays the piano as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uA song...? I haven't heard anything, so I wouldn't know.v
+”Protagonist
+uI see.v
+”Maya
+uA song...? It is likely Shion who is singing.v
+”Protagonist
+uI see...v
+”Ai
+uThat must be Shion singing. Her voice is truly beautiful.v
+”Protagonist
+uIs that so...v
+”Benio
+uA song... Isn't it just Shion?v
+”Protagonist
+uI see...v
+”Tsujimura
+uThat would likely be Lady Shion. She is often heard singing to herself.v
+”Protagonist
+uI see...v
+”Takamine
+uA song, eh...? Someone must be singing, then.v
+”Protagonist
+uRight.v
+”Mikanagi
+uA song, you say... Itfs probably Shion-san.v
+”Protagonist
+uI see...v
+”Akane
+uA song...? It seems Lady Shion is often heard singing, but...v
+”Protagonist
+uI see...v
+”Narumi
+uThe one singing all the time is probably Lady Shion. Though Lady Benio plays the piano as well.v
+”Protagonist
+uI see.v

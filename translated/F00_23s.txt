@@ -1,11 +1,11 @@
-Iâ€™ve searched all over, but I can't find anything that looks like a key.
+Ifve searched all over, but I can't find anything that looks like a key.
 The fire in the hearth has been extinguished.
 There should be no problem investigating it.
 I clear away the accumulated ash and peer deep into the chimney, but I find nothing out of the ordinary.
-ï¼ƒProtagonist
-ã€Œ...Doesn't look like it's here.ã€
-ï¼ƒNarumi
-ã€ŒSo it seems. Let's search elsewhere.ã€
+”Protagonist
+u...Doesn't look like it's here.v
+”Narumi
+uSo it seems. Let's search elsewhere.v
 It appears that this is not the place.
 There is another door further inside, separate from the one we entered through.
 It likely connects to the adjacent room.

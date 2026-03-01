@@ -1,94 +1,94 @@
 When I reached the hall, I ran into Benio-san coming from the corridor on the opposite side.
-ï¼ƒProtagonist
-ã€ŒOh, Benio-san.ã€
-ï¼ƒBenio
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€ŒNothing, I just thought I should check to make sure everyone is safe...ã€
-ï¼ƒBenio
-ã€Œ...Did something happen?ã€
-ï¼ƒProtagonist
-ã€ŒYeah, well...ã€
-I briefly explained that Iâ€™d been locked in the basement.
-ï¼ƒBenio
-ã€ŒHmm... that is certainly a problem. It wouldn't be surprising if someone was up to something...ã€
-ï¼ƒProtagonist
-ã€ŒWas Tsujimura-san around?ã€
-ï¼ƒBenio
-ã€ŒYes, he was in the office. Shion is likely in her room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see. Then I'll go upstairs and check on Maya-san and the others.ã€
-ï¼ƒBenio
-ã€ŒI'll go too.ã€
+”Protagonist
+uOh, Benio-san.v
+”Benio
+uWhat is it?v
+”Protagonist
+uNothing, I just thought I should check to make sure everyone is safe...v
+”Benio
+u...Did something happen?v
+”Protagonist
+uYeah, well...v
+I briefly explained that Ifd been locked in the basement.
+”Benio
+uHmm... that is certainly a problem. It wouldn't be surprising if someone was up to something...v
+”Protagonist
+uWas Tsujimura-san around?v
+”Benio
+uYes, he was in the office. Shion is likely in her room as well.v
+”Protagonist
+uI see. Then I'll go upstairs and check on Maya-san and the others.v
+”Benio
+uI'll go too.v
 Benio-san and I climbed the stairs together.
 We reached Maya-san's room at the very end of the corridor.
 I knocked on the door.
-ï¼ƒProtagonist
-ã€ŒMaya-san, are you there?ã€
+”Protagonist
+uMaya-san, are you there?v
 The door opened, and a tired-looking Maya-san peered out.
-ï¼ƒMaya
-ã€ŒIs something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHas anything unusual happened?ã€
-ï¼ƒMaya
-ã€ŒNo, nothing in particular...ã€
-ï¼ƒBenio
-ã€ŒMother, please stay in your room for a while.ã€
-ï¼ƒMaya
-ã€ŒVery well...ã€
+”Maya
+uIs something the matter?v
+”Protagonist
+uHas anything unusual happened?v
+”Maya
+uNo, nothing in particular...v
+”Benio
+uMother, please stay in your room for a while.v
+”Maya
+uVery well...v
 Though she looked suspicious, Maya-san returned to her room and closed the door.
-ï¼ƒBenio
-ã€ŒI don't want her hearing anything unnecessary.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
+”Benio
+uI don't want her hearing anything unnecessary.v
+”Protagonist
+uRight.v
 Next was... Ai-san.
 I reached Ai-san's room and knocked.
-ï¼ƒProtagonist
-ã€ŒAi-san, are you there?ã€
-ï¼ƒAi
-ã€ŒYes... what is it?ã€
+”Protagonist
+uAi-san, are you there?v
+”Ai
+uYes... what is it?v
 Ai-san peered out.
-ï¼ƒBenio
-ã€ŒSister, has anything unusual happened?ã€
-ï¼ƒAi
-ã€ŒUnusual... no, nothing?ã€
-ï¼ƒProtagonist
-ã€ŒI see. That's good.ã€
-ï¼ƒAi
-ã€ŒDid something happen?ã€
+”Benio
+uSister, has anything unusual happened?v
+”Ai
+uUnusual... no, nothing?v
+”Protagonist
+uI see. That's good.v
+”Ai
+uDid something happen?v
 Ai-san tilted her head.
-ï¼ƒProtagonist
-ã€ŒNo, it's nothing major.ã€
+”Protagonist
+uNo, it's nothing major.v
 I decided to keep the details hidden from Ai-san as well.
-ï¼ƒAi
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒWe still don't know what might happen, so please stay alert, Sister.ã€
-ï¼ƒAi
-ã€ŒYes, I understand.ã€
+”Ai
+uI see...v
+”Benio
+uWe still don't know what might happen, so please stay alert, Sister.v
+”Ai
+uYes, I understand.v
 Ai-san went back into her room.
 Souko-san approached from the other end of the corridor.
-ï¼ƒSouko
-ã€ŒHow is it here?ã€
-ï¼ƒProtagonist
-ã€ŒNo problems here.ã€
-ï¼ƒSouko
-ã€ŒTakamine-san was in his room too. Dr. Mikanagi... Akane-san went to check on him.ã€
-ï¼ƒBenio
-ã€ŒIt seems we can assume nothing has happened yet.ã€
-ï¼ƒSouko
-ã€ŒRight... though we can't let our guard down.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... so Benio-san, please wait in your room too.ã€
-ï¼ƒBenio
-ã€ŒHmm... that would probably be best.ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san, could you stay in your room as well? I'll call you when the food is ready.ã€
-ï¼ƒSouko
-ã€ŒSure, I understand. What about you?ã€
-ï¼ƒProtagonist
-ã€ŒI'm going back to the dining room. I need to talk to Akane-san too.ã€
-ï¼ƒBenio
-ã€ŒI see. Bring some food by later, then.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+”Souko
+uHow is it here?v
+”Protagonist
+uNo problems here.v
+”Souko
+uTakamine-san was in his room too. Dr. Mikanagi... Akane-san went to check on him.v
+”Benio
+uIt seems we can assume nothing has happened yet.v
+”Souko
+uRight... though we can't let our guard down.v
+”Protagonist
+uYeah... so Benio-san, please wait in your room too.v
+”Benio
+uHmm... that would probably be best.v
+”Protagonist
+uSouko-san, could you stay in your room as well? I'll call you when the food is ready.v
+”Souko
+uSure, I understand. What about you?v
+”Protagonist
+uI'm going back to the dining room. I need to talk to Akane-san too.v
+”Benio
+uI see. Bring some food by later, then.v
+”Protagonist
+uUnderstood.v

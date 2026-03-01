@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒI wonder why Rokuyou-san had to be murdered... that question simply won't leave my mind.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMaya
-ã€Œ...Why was someone like Isamu-san killed...?ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒAi
-ã€ŒIsamu-san... why...?ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€Œ...I have my doubts about whether Rokuyou truly loved Shion. I never once saw even a flicker of intimacy between them.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...?ã€
-ï¼ƒShion
-ã€ŒWhat on earth happened...?ã€
-ï¼ƒProtagonist
-ã€Œ...I'm in the middle of investigating that right now.ã€
-ï¼ƒTsujimura
-ã€ŒMaster Rokuyou's remains are being kept in his room. We can't simply bury him without permission...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒIt seems Rokuyou-kun was killed during the night... but there weren't any sounds of a struggle. It might be because the rooms are well soundproofed...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒTo think this would happen to Isamu...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒAkane
-ã€ŒFor Master Rokuyou to pass away like this...ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san...ã€
-ï¼ƒNarumi
-ã€Œ...I thought it was strange when he didn't show himself this morning, but I never imagined he'd been killed...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
+”Souko
+uI wonder why Rokuyou-san had to be murdered... that question simply won't leave my mind.v
+”Protagonist
+uYou're right...v
+”Maya
+u...Why was someone like Isamu-san killed...?v
+”Protagonist
+uRight...v
+”Ai
+uIsamu-san... why...?v
+”Protagonist
+uAi-san...v
+”Benio
+u...I have my doubts about whether Rokuyou truly loved Shion. I never once saw even a flicker of intimacy between them.v
+”Protagonist
+uIs that so...?v
+”Shion
+uWhat on earth happened...?v
+”Protagonist
+u...I'm in the middle of investigating that right now.v
+”Tsujimura
+uMaster Rokuyou's remains are being kept in his room. We can't simply bury him without permission...v
+”Protagonist
+uRight...v
+”Takamine
+uIt seems Rokuyou-kun was killed during the night... but there weren't any sounds of a struggle. It might be because the rooms are well soundproofed...v
+”Protagonist
+uI see...v
+”Mikanagi
+uTo think this would happen to Isamu...v
+”Protagonist
+uRight...v
+”Akane
+uFor Master Rokuyou to pass away like this...v
+”Protagonist
+uAkane-san...v
+”Narumi
+u...I thought it was strange when he didn't show himself this morning, but I never imagined he'd been killed...v
+”Protagonist
+uRight...v

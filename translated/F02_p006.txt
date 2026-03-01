@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒTsujimura-san? Heâ€™s Kousei-shi's younger brother, yet heâ€™s acting like a servant here... Itâ€™s a bit strange.ã€
-ï¼ƒProtagonist
-ã€ŒYeah.ã€
-ï¼ƒMaya
-ã€ŒTsujimura? He was my husband's younger brother, so we hired him here. He works very hard, and I am very grateful to him.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒTsujimura-san? He is our uncle, and a very kind man.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒTsujimura has been doing things like babysitting me since long ago.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAbout me...? No, Iâ€™ve done nothing I can speak of with pride.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒAbout Tsujimura-san? I hear heâ€™s the younger brother of the previous head and now acts as the manager here.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒTsujimura-san is the one handling all the clerical work for the Nanatsuki family. You could even call him a butler.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒTsujimura-san? Heâ€™s usually working in the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒTsujimura-san? Heâ€™s a kind man. Though he can be a bit timid at times...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uTsujimura-san? Hefs Kousei-shi's younger brother, yet hefs acting like a servant here... Itfs a bit strange.v
+”Protagonist
+uYeah.v
+”Maya
+uTsujimura? He was my husband's younger brother, so we hired him here. He works very hard, and I am very grateful to him.v
+”Protagonist
+uI see.v
+”Ai
+uTsujimura-san? He is our uncle, and a very kind man.v
+”Protagonist
+uI see.v
+”Benio
+uTsujimura has been doing things like babysitting me since long ago.v
+”Protagonist
+uI see...v
+”Tsujimura
+uAbout me...? No, Ifve done nothing I can speak of with pride.v
+”Protagonist
+uI see...v
+”Takamine
+uAbout Tsujimura-san? I hear hefs the younger brother of the previous head and now acts as the manager here.v
+”Protagonist
+uI see.v
+”Mikanagi
+uTsujimura-san is the one handling all the clerical work for the Nanatsuki family. You could even call him a butler.v
+”Protagonist
+uI see.v
+”Akane
+uTsujimura-san? Hefs usually working in the office.v
+”Protagonist
+uI see.v
+”Narumi
+uTsujimura-san? Hefs a kind man. Though he can be a bit timid at times...v
+”Protagonist
+uI see.v

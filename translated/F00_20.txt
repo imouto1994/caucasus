@@ -1,20 +1,20 @@
-ï¼ƒNarumi
-ã€ŒLet's avoid any rooms that are currently occupied.ã€
-ï¼ƒProtagonist
-ã€ŒGood point.ã€
+”Narumi
+uLet's avoid any rooms that are currently occupied.v
+”Protagonist
+uGood point.v
 We decided to head elsewhere.
-Iâ€™ve come to the room Ai-san was using.
+Ifve come to the room Ai-san was using.
 There's a fireplace here too, but...
-ï¼ƒNarumi
-ã€Œ...Let's not.ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
+”Narumi
+u...Let's not.v
+”Protagonist
+u...Right.v
 We'll only check here if we've searched everywhere else and found nothing.
 I didn't want to disturb her sleep.
-Iâ€™ve come to the room Ai-san was using.
-ï¼ƒNarumi
-ã€Œ...Let's not.ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
+Ifve come to the room Ai-san was using.
+”Narumi
+u...Let's not.v
+”Protagonist
+u...Right.v
 We'll only check here if we've searched everywhere else and found nothing.
 I didn't want to disturb her sleep.

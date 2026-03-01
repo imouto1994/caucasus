@@ -1,157 +1,157 @@
 I arrived at Benio-san's room.
 I knocked lightly on the door.
-ï¼ƒBenio
-ã€Œ...Who is it?ã€
-ï¼ƒProtagonist
-ã€ŒIt's me.ã€
+”Benio
+u...Who is it?v
+”Protagonist
+uIt's me.v
 The door opened.
-ï¼ƒBenio
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€Œ...Benio-san, is it alright if I stay in this room tonight?ã€
-ï¼ƒBenio
-ã€Œ...Begone, you fool.ã€
-ï¼ƒProtagonist
-ã€ŒW-Wait! I don't mean anything strange by it at all!ã€
+”Benio
+uWhat is it?v
+”Protagonist
+u...Benio-san, is it alright if I stay in this room tonight?v
+”Benio
+u...Begone, you fool.v
+”Protagonist
+uW-Wait! I don't mean anything strange by it at all!v
 I desperately tried to hold the door open as Benio-san tried to close it.
-ï¼ƒBenio
-ã€Œ...Then why?ã€
-ï¼ƒProtagonist
-ã€ŒI... I want to protect you, Benio-san.ã€
-ï¼ƒBenio
-ã€ŒWha... d-don't say such ridiculous things.ã€
+”Benio
+u...Then why?v
+”Protagonist
+uI... I want to protect you, Benio-san.v
+”Benio
+uWha... d-don't say such ridiculous things.v
 Benio-san turned her face away.
-ï¼ƒBenio
-ã€ŒW-Well... if you insist that much, I suppose I could consider it.ã€
-ï¼ƒBenio
-ã€ŒWhy did you come to my place?ã€
-ï¼ƒProtagonist
-ã€ŒI think you're the one most likely to be targeted next, Benio-san. So I thought maybe if I was by your side, I could protect you...ã€
-ï¼ƒBenio
-ã€ŒTargeted... me? To eliminate a nuisance, you mean.ã€
-ï¼ƒProtagonist
-ã€ŒI don't know what the culprit's intentions are. But... I don't want any more sacrifices.ã€
-ï¼ƒBenio
-ã€ŒHmm...ã€
-ï¼ƒProtagonist
-ã€ŒI might not be reliable, but even so... I'll prove that I can be useful.ã€
-ï¼ƒBenio
-ã€Œ...Alright. Then I'll count on you.ã€
-ï¼ƒProtagonist
-ã€ŒLeave it to me.ã€
+”Benio
+uW-Well... if you insist that much, I suppose I could consider it.v
+”Benio
+uWhy did you come to my place?v
+”Protagonist
+uI think you're the one most likely to be targeted next, Benio-san. So I thought maybe if I was by your side, I could protect you...v
+”Benio
+uTargeted... me? To eliminate a nuisance, you mean.v
+”Protagonist
+uI don't know what the culprit's intentions are. But... I don't want any more sacrifices.v
+”Benio
+uHmm...v
+”Protagonist
+uI might not be reliable, but even so... I'll prove that I can be useful.v
+”Benio
+u...Alright. Then I'll count on you.v
+”Protagonist
+uLeave it to me.v
 I bowed to Benio-san and made a move to step out into the hallway.
-ï¼ƒBenio
-ã€ŒHmm...? Where do you think you're going?ã€
-ï¼ƒProtagonist
-ã€ŒEh... well, the hallway, of course. We can't exactly be in the same room, can we?ã€
-ï¼ƒBenio
-ã€ŒAh... no, that might be true, but... it'll be cold in the hallway, won't it?ã€
-ï¼ƒProtagonist
-ã€ŒThat's true too. Then I'll go and grab a blanket.ã€
-ï¼ƒBenio
-ã€Œ...There's no need for that, you can just stay in the room, can't you?ã€
-ï¼ƒProtagonist
-ã€ŒBut that'sâ€”ã€
-ï¼ƒBenio
-ã€ŒIt's fine. ...I couldn't bear it if you caught a cold.ã€
+”Benio
+uHmm...? Where do you think you're going?v
+”Protagonist
+uEh... well, the hallway, of course. We can't exactly be in the same room, can we?v
+”Benio
+uAh... no, that might be true, but... it'll be cold in the hallway, won't it?v
+”Protagonist
+uThat's true too. Then I'll go and grab a blanket.v
+”Benio
+u...There's no need for that, you can just stay in the room, can't you?v
+”Protagonist
+uBut that's?v
+”Benio
+uIt's fine. ...I couldn't bear it if you caught a cold.v
 Benio-san pulled on my arm and closed the door.
-ï¼ƒProtagonist
-ã€ŒW-Well then... I'll stay here.ã€
+”Protagonist
+uW-Well then... I'll stay here.v
 I leaned my back against the door and sat down on the floor.
-ï¼ƒBenio
-ã€ŒYou didn't have to go that far...ã€
+”Benio
+uYou didn't have to go that far...v
 Benio-san let out a breath, hands on her hips.
-ï¼ƒBenio
-ã€ŒYou're quite stubborn, aren't you.ã€
+”Benio
+uYou're quite stubborn, aren't you.v
 Benio-san pulled a blanket off the bed and tossed it over to me.
-ï¼ƒBenio
-ã€ŒTell me if you're cold. I'll get another one.ã€
-ï¼ƒProtagonist
-ã€ŒNo, I'm fine. Thank you.ã€
-ï¼ƒBenio
-ã€ŒHmph...ã€
+”Benio
+uTell me if you're cold. I'll get another one.v
+”Protagonist
+uNo, I'm fine. Thank you.v
+”Benio
+uHmph...v
 I wrapped myself in the blanket.
 At least if I'm here, nobody will be coming in from the outside.
 Besides, I'll also be able to tell what's going on in the hallway out front, if only a little.
 If something happens to Maya-san, I'll be able to notice.
 If something happens to Ai-san or Maya-san, I'll be able to notice.
-ï¼ƒBenio
-ã€Œ...Hey.ã€
-ï¼ƒProtagonist
-ã€ŒYes?ã€
-ï¼ƒBenio
-ã€ŒDon't people often tell you that you're a fool?ã€
-ï¼ƒProtagonist
-ã€ŒThat's not true at all.ã€
+”Benio
+u...Hey.v
+”Protagonist
+uYes?v
+”Benio
+uDon't people often tell you that you're a fool?v
+”Protagonist
+uThat's not true at all.v
 I retorted a bit heatedly.
-ï¼ƒProtagonist
-ã€ŒDon't people often tell you that you're strange, Benio-san?ã€
-ï¼ƒBenio
-ã€ŒI've never been told that.ã€
+”Protagonist
+uDon't people often tell you that you're strange, Benio-san?v
+”Benio
+uI've never been told that.v
 She pufffed out her chest and lied straight to my face.
-ï¼ƒProtagonist
-ã€ŒJeez... but you have all sorts of strange things in this room, don't you.ã€
-ï¼ƒBenio
-ã€ŒWhat do you mean, 'strange'? How rude.ã€
+”Protagonist
+uJeez... but you have all sorts of strange things in this room, don't you.v
+”Benio
+uWhat do you mean, 'strange'? How rude.v
 Benio-san pulled a book from the bookshelf.
-ï¼ƒBenio
-ã€ŒThis is a book recording the secret arts of the Kabbalah left behind by Agrippa. I studied German and Hebrew solely to read this, you know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Benio
+uThis is a book recording the secret arts of the Kabbalah left behind by Agrippa. I studied German and Hebrew solely to read this, you know.v
+”Protagonist
+uI see...v
 I don't really get it.
-ï¼ƒBenio
-ã€ŒThanks to that, my understanding of tarot has deepened considerably; shall I tell your fortune?ã€
-ï¼ƒProtagonist
-ã€ŒIs it accurate?ã€
-ï¼ƒBenio
-ã€ŒOf course it is. Who do you think I am?ã€
+”Benio
+uThanks to that, my understanding of tarot has deepened considerably; shall I tell your fortune?v
+”Protagonist
+uIs it accurate?v
+”Benio
+uOf course it is. Who do you think I am?v
 ...I wonder where this confidence comes from.
 I wanted her to guess who the culprit in this case was, but I felt hesitant to ask.
 It'd be a disaster if she named the wrong person as the culprit.
 Besides... it seemed as though Benio-san was deliberately trying to steer the conversation away from the case right now.
 She must be anxious after all.
-ï¼ƒBenio
-ã€ŒWell then, shall I tell your fortune in love? Mind you, don't complain even if it comes out as hopeless.ã€
+”Benio
+uWell then, shall I tell your fortune in love? Mind you, don't complain even if it comes out as hopeless.v
 Benio-san began happily shuffling the cards.
 Wait, I didn't ask for that...
-ï¼ƒProtagonist
-ã€Œ...You're cute.ã€
-ï¼ƒBenio
-ã€ŒPfftâ€”!?ã€
+”Protagonist
+u...You're cute.v
+”Benio
+uPfft?!?v
 Benio-san choked at my casual remark.
 The cards scattered across the bed.
-ï¼ƒBenio
-ã€ŒWh-What are you saying, you bastard!?ã€
-ï¼ƒProtagonist
-ã€ŒNo, it just felt... heartwarming, somehow.ã€
-ï¼ƒBenio
-ã€Œ...Don't tease your elders, you fool.ã€
-ï¼ƒProtagonist
-ã€ŒWeren't we the same age?ã€
-ï¼ƒBenio
-ã€ŒI am much more mature mentally.ã€
+”Benio
+uWh-What are you saying, you bastard!?v
+”Protagonist
+uNo, it just felt... heartwarming, somehow.v
+”Benio
+u...Don't tease your elders, you fool.v
+”Protagonist
+uWeren't we the same age?v
+”Benio
+uI am much more mature mentally.v
 The way she gets all heated like that is what's heartwarming... I thought, but I didn't say it out loud.
 It wouldn't be strange if a fist came flying my way soon.
-ï¼ƒBenio
-ã€Œ...You really are a fool.ã€
+”Benio
+u...You really are a fool.v
 Benio-san said that and showed me one of the scattered cards.
 It had 'THE FOOL' written on it.
-ï¼ƒProtagonist
-ã€ŒHaha... I guess so.ã€
-ï¼ƒBenio
-ã€ŒHe's a fool, but on the other hand, it can also be read as an unconventional genius. I look forward to seeing which one you become.ã€
+”Protagonist
+uHaha... I guess so.v
+”Benio
+uHe's a fool, but on the other hand, it can also be read as an unconventional genius. I look forward to seeing which one you become.v
 Benio-san chuckled.
-ï¼ƒBenio
-ã€ŒWell... shall we get some sleep soon?ã€
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
-I re-wrapped myself in the blanket sheâ€™d given me.
-ï¼ƒBenio
-ã€ŒWell then, good night.ã€
+”Benio
+uWell... shall we get some sleep soon?v
+”Protagonist
+uYou're right.v
+I re-wrapped myself in the blanket shefd given me.
+”Benio
+uWell then, good night.v
 The light went out.
 I heard the sound of Benio-san getting into bed.
-ï¼ƒBenio
-ã€ŒPhew...ã€
+”Benio
+uPhew...v
 After she let out a long breath, everything grew quiet.
 Still, the blizzard outside occasionally shook the window.
 I hope nothing happens tonight...

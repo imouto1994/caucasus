@@ -1,14 +1,14 @@
-ï¼ƒTsujimura
-ã€ŒOh, is something the matter?ã€
+”Tsujimura
+uOh, is something the matter?v
 Tsujimura-san was in the office.
-ï¼ƒProtagonist
-ã€ŒHello. Were you in the middle of working?ã€
-ï¼ƒTsujimura
-ã€ŒNot at all. Was there something you needed?ã€
-ï¼ƒProtagonist
-ã€ŒWell...ã€
-ï¼ƒTsujimura
-ã€ŒOh, what is it this time?ã€
+”Protagonist
+uHello. Were you in the middle of working?v
+”Tsujimura
+uNot at all. Was there something you needed?v
+”Protagonist
+uWell...v
+”Tsujimura
+uOh, what is it this time?v
 Tsujimura-san was still in the office.
-ï¼ƒProtagonist
-ã€ŒWell...ã€
+”Protagonist
+uWell...v

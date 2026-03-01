@@ -16,6 +16,7 @@
  *      either 「...」 or 『...』.
  *   6. Append a trailing empty line if the corresponding original file in
  *      `original/` also ends with one.
+ *   7. Encode the output as Shift-JIS to match the original script encoding.
  *
  * Files are overwritten in place.
  *
@@ -25,11 +26,23 @@
 
 import { readFile, readdir, writeFile } from "fs/promises";
 import path from "path";
+import Encoding from "encoding-japanese";
 
 const ORIGINAL_DIR = "original";
 const DIRS = ["translated", "translated-vertical"];
 
 const sjisDecoder = new TextDecoder("shift_jis");
+
+/**
+ * Encode a Unicode string to a Shift-JIS Buffer.
+ */
+function encodeShiftJIS(str) {
+  const codeArray = Encoding.convert(Encoding.stringToCode(str), {
+    to: "SJIS",
+    from: "UNICODE",
+  });
+  return Buffer.from(codeArray);
+}
 
 /**
  * Read the original file and return its non-empty content lines and raw
@@ -49,6 +62,19 @@ async function readOriginal(originalPath) {
 }
 
 /**
+ * Read a translated file, decoding from either Shift-JIS or UTF-8 depending
+ * on the detected encoding.
+ */
+async function readTranslated(filePath) {
+  const raw = await readFile(filePath);
+  const detected = Encoding.detect(raw);
+  if (detected === "SJIS") {
+    return sjisDecoder.decode(raw);
+  }
+  return raw.toString("utf-8");
+}
+
+/**
  * Determine the bracket pair used by an original line's speech content.
  * Returns the [open, close] pair, or null if the line isn't speech content.
  */
@@ -63,7 +89,7 @@ function getOriginalBrackets(origLine) {
  * Clean a single file against its original. Returns true if modified.
  */
 async function cleanFile(filePath, originalPath) {
-  const content = await readFile(filePath, "utf-8");
+  const content = await readTranslated(filePath);
   const lines = content.split("\n");
 
   // Steps 1–4: trim, drop empties, fix quotes, fix speech source prefix.
@@ -110,9 +136,13 @@ async function cleanFile(filePath, originalPath) {
     }
   }
 
-  if (result === content) return false;
+  // Step 7: Encode as Shift-JIS and write.
+  const encoded = encodeShiftJIS(result);
 
-  await writeFile(filePath, result, "utf-8");
+  const existingRaw = await readFile(filePath);
+  if (Buffer.compare(encoded, existingRaw) === 0) return false;
+
+  await writeFile(filePath, encoded);
   return true;
 }
 
@@ -121,7 +151,6 @@ async function main() {
   let modifiedFiles = 0;
 
   for (const dir of DIRS) {
-    // Step 1: Discover all .txt files in the directory.
     let fileNames;
     try {
       fileNames = (await readdir(dir))
@@ -134,7 +163,6 @@ async function main() {
 
     console.log(`Processing ${dir}/ (${fileNames.length} files)...`);
 
-    // Step 2: Clean each file in place.
     for (const fileName of fileNames) {
       const filePath = path.join(dir, fileName);
       const originalPath = path.join(ORIGINAL_DIR, fileName);
@@ -146,7 +174,6 @@ async function main() {
     }
   }
 
-  // Step 3: Print summary.
   console.log();
   console.log("— Summary —");
   console.log(`  Total files scanned: ${totalFiles}`);

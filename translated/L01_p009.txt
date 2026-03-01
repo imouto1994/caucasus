@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAkane-san, huh... The possibility is likely low, but you never know if someone had some kind of leverage over her.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒAkane... took care of Isamu-san while he was here. Inevitably, I imagine they spent a fair amount of time together...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒAkane-san? I don't see any particular problem there...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAkane and Rokuyou were often together. But I think it's premature to label her the killer based solely on that...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒAkane-san... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€Œ...Actually, Master Rokuyou specifically requested Mistress Hiyama to attend to his personal needs...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI don't think there was much contact between Rokuyou-kun and her. Though Hiyama-kun likely did attend to his needs.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€Œ...Isamu never spoke to me about Akane-san. Although he did mention she was looking after him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒMe...? I haven't seen Master Rokuyou since the ceremony...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒAs for Akane, she returned to our room with me after the ceremony yesterday.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uAkane-san, huh... The possibility is likely low, but you never know if someone had some kind of leverage over her.v
+”Protagonist
+uI see...v
+”Maya
+uAkane... took care of Isamu-san while he was here. Inevitably, I imagine they spent a fair amount of time together...v
+”Protagonist
+uI see...v
+”Ai
+uAkane-san? I don't see any particular problem there...v
+”Protagonist
+uI see.v
+”Benio
+uAkane and Rokuyou were often together. But I think it's premature to label her the killer based solely on that...v
+”Protagonist
+uI see...v
+”Shion
+uAkane-san... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+u...Actually, Master Rokuyou specifically requested Mistress Hiyama to attend to his personal needs...v
+”Protagonist
+uI see...v
+”Takamine
+uI don't think there was much contact between Rokuyou-kun and her. Though Hiyama-kun likely did attend to his needs.v
+”Protagonist
+uI see.v
+”Mikanagi
+u...Isamu never spoke to me about Akane-san. Although he did mention she was looking after him.v
+”Protagonist
+uI see...v
+”Akane
+uMe...? I haven't seen Master Rokuyou since the ceremony...v
+”Protagonist
+uI see...v
+”Narumi
+uAs for Akane, she returned to our room with me after the ceremony yesterday.v
+”Protagonist
+uI see.v

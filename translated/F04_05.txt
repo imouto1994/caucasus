@@ -1,157 +1,157 @@
 The office was dark as well, as expected.
 Benio-san was there.
-ï¼ƒProtagonist
-ã€ŒBenio-san, this blackout...?ã€
-ï¼ƒBenio
-ã€ŒTsujimura should be down in the basement checking the generator right now.ã€
-ï¼ƒProtagonist
-ã€ŒThere's a generator?ã€
-ï¼ƒBenio
-ã€ŒYeah. There should be fuel for it, so it's likely some kind of trouble... I don't like this.ã€
+”Protagonist
+uBenio-san, this blackout...?v
+”Benio
+uTsujimura should be down in the basement checking the generator right now.v
+”Protagonist
+uThere's a generator?v
+”Benio
+uYeah. There should be fuel for it, so it's likely some kind of trouble... I don't like this.v
 Benio-san spat the words out irritably.
-ï¼ƒProtagonist
-ã€Œ...It's certainly unsettling, given the current situation.ã€
-ï¼ƒBenio
-ã€ŒIt could be that someone did this with malicious intent. Don't let your guard down.ã€
-ï¼ƒProtagonist
-ã€ŒYeah, I know. You be careful too, Benio-san.ã€
+”Protagonist
+u...It's certainly unsettling, given the current situation.v
+”Benio
+uIt could be that someone did this with malicious intent. Don't let your guard down.v
+”Protagonist
+uYeah, I know. You be careful too, Benio-san.v
 Leaving her with those words, I decided to exit the office.
-Iâ€™ve returned to the office.
-ï¼ƒProtagonist
-ã€ŒHas Tsujimura-san still not returned?ã€
+Ifve returned to the office.
+”Protagonist
+uHas Tsujimura-san still not returned?v
 I spoke to Benio-san, who was alone in the office.
-ï¼ƒBenio
-ã€ŒHonestly... you just left a second ago.ã€
+”Benio
+uHonestly... you just left a second ago.v
 Benio-san sighed in exasperation.
-ï¼ƒProtagonist
-ã€ŒWell, yes, but... I don't know, I was just concerned...ã€
-ï¼ƒBenio
-ã€ŒPanicking won't help anything.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right... sorry to bother you.ã€
+”Protagonist
+uWell, yes, but... I don't know, I was just concerned...v
+”Benio
+uPanicking won't help anything.v
+”Protagonist
+uYou're right... sorry to bother you.v
 I bowed and decided to leave the office.
 When I entered the office, Benio-san and Shion-san were there along with Tsujimura-san.
 However... Tsujimura-san was pressing a wet hand towel to his head.
-ï¼ƒProtagonist
-ã€ŒTsujimura-san, what happened!?ã€
-ï¼ƒTsujimura
-ã€ŒOh, how embarrassing... it seems I was struck by someone...ã€
-ï¼ƒProtagonist
-ã€ŒEh... when did this happen?ã€
-ï¼ƒTsujimura
-ã€ŒAbout twenty minutes ago, I suppose... I was in the hall when I was suddenly hit from behind... ow...ã€
-ï¼ƒShion
-ã€ŒSeiji-san, please don't move too much...ã€
+”Protagonist
+uTsujimura-san, what happened!?v
+”Tsujimura
+uOh, how embarrassing... it seems I was struck by someone...v
+”Protagonist
+uEh... when did this happen?v
+”Tsujimura
+uAbout twenty minutes ago, I suppose... I was in the hall when I was suddenly hit from behind... ow...v
+”Shion
+uSeiji-san, please don't move too much...v
 Shion-san, who was gently holding the towel in place, spoke up.
-ï¼ƒTsujimura
-ã€ŒDear me, how pathetic of me...ã€
-ï¼ƒProtagonist
-ã€ŒUm, do you have any idea who did it?ã€
-ï¼ƒTsujimura
-ã€ŒI haven't the slightest clue... after all, it came from behind...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAh, also, the cause of the blackout was a blown fuse in the basement generator.ã€
-ï¼ƒProtagonist
-ã€ŒA fuse?ã€
-ï¼ƒTsujimura
-ã€ŒI didn't see any other broken lines, so I don't think it was intentional, but...ã€
+”Tsujimura
+uDear me, how pathetic of me...v
+”Protagonist
+uUm, do you have any idea who did it?v
+”Tsujimura
+uI haven't the slightest clue... after all, it came from behind...v
+”Protagonist
+uI see...v
+”Tsujimura
+uAh, also, the cause of the blackout was a blown fuse in the basement generator.v
+”Protagonist
+uA fuse?v
+”Tsujimura
+uI didn't see any other broken lines, so I don't think it was intentional, but...v
 Tsujimura-san seemed concerned about that as well.
-ï¼ƒBenio
-ã€ŒSo, just how much longer must we spend our time in the dark?ã€
-ï¼ƒTsujimura
-ã€Œ...If I recall, there should be spare fuses left in the storage room. If I find those first... it might be after six o'clock.ã€
-ï¼ƒBenio
-ã€ŒHmm...ã€
+”Benio
+uSo, just how much longer must we spend our time in the dark?v
+”Tsujimura
+u...If I recall, there should be spare fuses left in the storage room. If I find those first... it might be after six o'clock.v
+”Benio
+uHmm...v
 Benio-san looked at the clock and fell silent.
-ï¼ƒShion
-ã€ŒUm, Seiji-san. You've injured your head, so it would be better if you didn't move around...ã€
-ï¼ƒTsujimura
-ã€Œ...But, if I don't fix it...ã€
-ï¼ƒProtagonist
-ã€ŒUm, I'll help you.ã€
-ï¼ƒTsujimura
-ã€ŒB-But... I couldn't possibly let a guest do such a thing...ã€
-ï¼ƒBenio
-ã€ŒTsujimura, just take him up on his offer. I know absolutely nothing about machinery, and it's best if you don't move.ã€
-ï¼ƒProtagonist
-ã€ŒI'll be fine.ã€
-ï¼ƒTsujimura
-ã€ŒIs that so... my apologies.ã€
+”Shion
+uUm, Seiji-san. You've injured your head, so it would be better if you didn't move around...v
+”Tsujimura
+u...But, if I don't fix it...v
+”Protagonist
+uUm, I'll help you.v
+”Tsujimura
+uB-But... I couldn't possibly let a guest do such a thing...v
+”Benio
+uTsujimura, just take him up on his offer. I know absolutely nothing about machinery, and it's best if you don't move.v
+”Protagonist
+uI'll be fine.v
+”Tsujimura
+uIs that so... my apologies.v
 Tsujimura-san tried to bow his head but was stopped by Shion-san.
-ï¼ƒShion
-ã€Œ...Please, just stay still for now.ã€
-ï¼ƒTsujimura
-ã€ŒHaha... I'm sorry.ã€
-ï¼ƒProtagonist
-ã€ŒUm, so what should I do?ã€
-ï¼ƒTsujimura
-ã€ŒThere should be replacement fuses and tools in the storage room. If you could use those to fix the generator in the basement...ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood, leave it to me.ã€
+”Shion
+u...Please, just stay still for now.v
+”Tsujimura
+uHaha... I'm sorry.v
+”Protagonist
+uUm, so what should I do?v
+”Tsujimura
+uThere should be replacement fuses and tools in the storage room. If you could use those to fix the generator in the basement...v
+”Protagonist
+uUnderstood, leave it to me.v
 First, the storage room.
 I bowed to Tsujimura-san and the others and decided to leave the office.
-ï¼ƒBenio
-ã€ŒHm, haven't you left yet?ã€
+”Benio
+uHm, haven't you left yet?v
 Benio-san and the others were still in the office.
-ï¼ƒProtagonist
-ã€ŒAh, no, I didn't really have any business, but...ã€
-ï¼ƒBenio
-ã€ŒHurry up and fix that generator. I can't stand it being this dark.ã€
-ï¼ƒProtagonist
-ã€ŒYeah, I know.ã€
+”Protagonist
+uAh, no, I didn't really have any business, but...v
+”Benio
+uHurry up and fix that generator. I can't stand it being this dark.v
+”Protagonist
+uYeah, I know.v
 I turned on my heel and decided to leave the office.
 When I entered the office, Takamine-san was there.
-ï¼ƒProtagonist
-ã€ŒOh... Takamine-san.ã€
-ï¼ƒTakamine
-ã€Œ...It's you. What on earth is happening?ã€
-ï¼ƒProtagonist
-ã€ŒIt seems there's a blackout.ã€
-ï¼ƒTakamine
-ã€Œ...I see. Since when?ã€
-ï¼ƒProtagonist
-ã€Œ...The power went out a little before five-thirty, but did you not notice until now?ã€
-ï¼ƒTakamine
-ã€Œ...I was asleep in my room. I woke up to find the lights wouldn't turn on, so I came here to ask Tsujimura-san about it.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€Œ...Something seems to be up.ã€
+”Protagonist
+uOh... Takamine-san.v
+”Takamine
+u...It's you. What on earth is happening?v
+”Protagonist
+uIt seems there's a blackout.v
+”Takamine
+u...I see. Since when?v
+”Protagonist
+u...The power went out a little before five-thirty, but did you not notice until now?v
+”Takamine
+u...I was asleep in my room. I woke up to find the lights wouldn't turn on, so I came here to ask Tsujimura-san about it.v
+”Protagonist
+uI see.v
+”Takamine
+u...Something seems to be up.v
 Takamine-san muttered under his breath.
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
+”Protagonist
+uYou're right.v
 I nodded too.
 A blackout in the middle of such a bizarre situation is just too convenient.
-ï¼ƒTakamine
-ã€ŒIt would be wise not to let your guard down.ã€
-ï¼ƒProtagonist
-ã€ŒYeah. I'm going to look around the building a bit more.ã€
-ï¼ƒTakamine
-ã€ŒI see. I'll stay here for a while longer.ã€
+”Takamine
+uIt would be wise not to let your guard down.v
+”Protagonist
+uYeah. I'm going to look around the building a bit more.v
+”Takamine
+uI see. I'll stay here for a while longer.v
 I bowed to Takamine-san and left the area.
 Takamine-san was still in the office.
-ï¼ƒTakamine
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€ŒNo... I didn't really have any business, but...ã€
-ï¼ƒTakamine
-ã€ŒYou shouldn't wander around too much. There's no telling where the culprit might be lurking.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I'm being careful.ã€
-ï¼ƒTakamine
-ã€ŒLocking yourself in your room is the best course... come to think of it, did I lock my door...?ã€
-ï¼ƒProtagonist
-ã€ŒEh... isn't that dangerous?ã€
-ï¼ƒTakamine
-ã€ŒIf I know there's danger right in front of me, there are plenty of ways to handle it. As long as I'm not caught off guard, I'll be fine.ã€
-ï¼ƒProtagonist
-ã€ŒWell, you do have the most solid build among us, Takamine-san...ã€
+”Takamine
+uWhat is it?v
+”Protagonist
+uNo... I didn't really have any business, but...v
+”Takamine
+uYou shouldn't wander around too much. There's no telling where the culprit might be lurking.v
+”Protagonist
+uYeah... I'm being careful.v
+”Takamine
+uLocking yourself in your room is the best course... come to think of it, did I lock my door...?v
+”Protagonist
+uEh... isn't that dangerous?v
+”Takamine
+uIf I know there's danger right in front of me, there are plenty of ways to handle it. As long as I'm not caught off guard, I'll be fine.v
+”Protagonist
+uWell, you do have the most solid build among us, Takamine-san...v
 I don't think I could win even if I challenged this man head-on.
 Actually, I don't think someone like me could take him even if I caught him off guard.
-ï¼ƒProtagonist
-ã€ŒW-Well then, I'll be going.ã€
-ï¼ƒTakamine
-ã€ŒYeah.ã€
+”Protagonist
+uW-Well then, I'll be going.v
+”Takamine
+uYeah.v
 I decided to leave the office.

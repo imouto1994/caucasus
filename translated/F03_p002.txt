@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒMaya-san has it rough too. Having the groom murdered on the day of her daughter's wedding...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€Œ...I believe Isamu-san's situation is more important than mine right now...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒMother... she seemed to be looking forward to the marriage between Shion and Rokuyou, so her grief must be profound.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒMother... was happy about the marriage.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThe Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMaya-san has it hard. As things stand, the wedding can't continue...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMikanagi
-ã€ŒMaya-san seems a bit exhausted, so I'm having her rest in her room. ...Well, it's only natural after something like that.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒThe Madam? She's resting in her room, isn't she?ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uMaya-san has it rough too. Having the groom murdered on the day of her daughter's wedding...v
+”Protagonist
+uRight...v
+”Maya
+u...I believe Isamu-san's situation is more important than mine right now...v
+”Protagonist
+uRight...v
+”Benio
+uMother... she seemed to be looking forward to the marriage between Shion and Rokuyou, so her grief must be profound.v
+”Protagonist
+uI see...v
+”Shion
+uMother... was happy about the marriage.v
+”Protagonist
+uI see...v
+”Tsujimura
+uThe Madam has always been of delicate health... With such an incident occurring, the mental strain must be relentless...v
+”Protagonist
+uI see...v
+”Takamine
+uMaya-san has it hard. As things stand, the wedding can't continue...v
+”Protagonist
+uRight...v
+”Mikanagi
+uMaya-san seems a bit exhausted, so I'm having her rest in her room. ...Well, it's only natural after something like that.v
+”Protagonist
+uI see.v
+”Narumi
+uThe Madam? She's resting in her room, isn't she?v
+”Protagonist
+uI see.v

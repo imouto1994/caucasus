@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒKousei-shi's old room, huh? Iâ€™m curious, but if itâ€™s locked up tight, thereâ€™s not much we can do.ã€
-ï¼ƒProtagonist
-ã€ŒI suppose you're right.ã€
-ï¼ƒMaya
-ã€ŒThat was my husband's room while he was alive. Weâ€™ve left it exactly as it was back then.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒThat room belonged to my father. Even I have almost never set foot inside.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒFather's room is strictly off-limits. Even Iâ€™ve hardly ever been allowed in there.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThat is the room the Master used to occupy, but it is kept locked now. I am the one in charge of the key.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒKousei-shi's room is sealed off from everyone. Itâ€™s a place that has nothing to do with you people.ã€
-ï¼ƒProtagonist
-ã€ŒY-you're right...ã€
-ï¼ƒMikanagi
-ã€ŒI don't know much about that room myself. It belonged to the previous head of the house, apparently... but I doubt you'll get a look inside.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThat room...? Iâ€™ve never been inside it myself, so...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI heard theyâ€™re preserving that room exactly as it was when the Master was alive... but I doubt thereâ€™s anything particularly unusual in there.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uKousei-shi's old room, huh? Ifm curious, but if itfs locked up tight, therefs not much we can do.v
+”Protagonist
+uI suppose you're right.v
+”Maya
+uThat was my husband's room while he was alive. Wefve left it exactly as it was back then.v
+”Protagonist
+uI see.v
+”Ai
+uThat room belonged to my father. Even I have almost never set foot inside.v
+”Protagonist
+uI see.v
+”Benio
+uFather's room is strictly off-limits. Even Ifve hardly ever been allowed in there.v
+”Protagonist
+uI see...v
+”Tsujimura
+uThat is the room the Master used to occupy, but it is kept locked now. I am the one in charge of the key.v
+”Protagonist
+uI see.v
+”Takamine
+uKousei-shi's room is sealed off from everyone. Itfs a place that has nothing to do with you people.v
+”Protagonist
+uY-you're right...v
+”Mikanagi
+uI don't know much about that room myself. It belonged to the previous head of the house, apparently... but I doubt you'll get a look inside.v
+”Protagonist
+uI see...v
+”Akane
+uThat room...? Ifve never been inside it myself, so...v
+”Protagonist
+uI see...v
+”Narumi
+uI heard theyfre preserving that room exactly as it was when the Master was alive... but I doubt therefs anything particularly unusual in there.v
+”Protagonist
+uI see...v

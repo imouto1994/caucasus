@@ -1,187 +1,187 @@
-Iâ€™ve arrived at the dining hall.
-ï¼ƒBenio
-ã€ŒHm, oh, it's just you.ã€
+Ifve arrived at the dining hall.
+”Benio
+uHm, oh, it's just you.v
 Benio-san was there.
-ï¼ƒProtagonist
-ã€ŒBenio-san, are you alone?ã€
-ï¼ƒBenio
-ã€ŒCan't you tell just by looking?ã€
-ï¼ƒProtagonist
-ã€ŒWell, yes, but... it's dangerous to be by yourself.ã€
-ï¼ƒBenio
-ã€ŒDangerous? You think someone is targeting me?ã€
-ï¼ƒProtagonist
-ã€ŒIt's a possibility.ã€
-ï¼ƒBenio
-ã€ŒHumph... I see.ã€
+”Protagonist
+uBenio-san, are you alone?v
+”Benio
+uCan't you tell just by looking?v
+”Protagonist
+uWell, yes, but... it's dangerous to be by yourself.v
+”Benio
+uDangerous? You think someone is targeting me?v
+”Protagonist
+uIt's a possibility.v
+”Benio
+uHumph... I see.v
 Nodding, Benio-san began to sink into thought.
-ï¼ƒProtagonist
-ã€ŒUm... do you have a moment right now?ã€
-ï¼ƒBenio
-ã€ŒHm? Oh, I don't mind.ã€
-Iâ€™ve arrived at the dining hall again.
-ï¼ƒBenio
-ã€ŒHm, is something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒUm...ã€
+”Protagonist
+uUm... do you have a moment right now?v
+”Benio
+uHm? Oh, I don't mind.v
+Ifve arrived at the dining hall again.
+”Benio
+uHm, is something the matter?v
+”Protagonist
+uUm...v
 When I entered the dining hall, Souko-san and Benio-san were there.
-ï¼ƒSouko
-ã€ŒOh, what's wrong?ã€
-ï¼ƒProtagonist
-ã€ŒNo, I don't really have any particular business, but...ã€
-ï¼ƒBenio
-ã€ŒIs it lunchtime?ã€
-ï¼ƒProtagonist
-ã€ŒWell, I am getting hungry.ã€
-ï¼ƒSouko
-ã€ŒIf you're looking for Narumi-san, she's in the kitchen.ã€
+”Souko
+uOh, what's wrong?v
+”Protagonist
+uNo, I don't really have any particular business, but...v
+”Benio
+uIs it lunchtime?v
+”Protagonist
+uWell, I am getting hungry.v
+”Souko
+uIf you're looking for Narumi-san, she's in the kitchen.v
 I should probably ask some questions rather than worry about lunch right now.
 Souko-san was in the dining hall.
-ï¼ƒProtagonist
-ã€ŒOh, Souko-san, are you alone?ã€
-ï¼ƒSouko
-ã€ŒYes, why? Are you hungry?ã€
-ï¼ƒProtagonist
-ã€ŒWell, there's that, but I actually have a bit of business with you, Souko-san.ã€
-ï¼ƒSouko
-ã€ŒWhat is it?ã€
+”Protagonist
+uOh, Souko-san, are you alone?v
+”Souko
+uYes, why? Are you hungry?v
+”Protagonist
+uWell, there's that, but I actually have a bit of business with you, Souko-san.v
+”Souko
+uWhat is it?v
 Souko-san was still in the dining hall.
-ï¼ƒSouko
-ã€ŒOh, do you still need something?ã€
-ï¼ƒProtagonist
-ã€ŒYes, is that alright?ã€
+”Souko
+uOh, do you still need something?v
+”Protagonist
+uYes, is that alright?v
 Souko-san and Narumi-san were in the dining hall.
-ï¼ƒSouko
-ã€ŒOh, what's wrong?ã€
-ï¼ƒProtagonist
-ã€ŒNo, well, I don't really have any particular business.ã€
-ï¼ƒNarumi
-ã€ŒDo you want something to eat?ã€
-ï¼ƒProtagonist
-ã€ŒI can wait a little longer.ã€
-ï¼ƒNarumi
-ã€ŒI see. I'm planning to have lunch ready a bit after one.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+”Souko
+uOh, what's wrong?v
+”Protagonist
+uNo, well, I don't really have any particular business.v
+”Narumi
+uDo you want something to eat?v
+”Protagonist
+uI can wait a little longer.v
+”Narumi
+uI see. I'm planning to have lunch ready a bit after one.v
+”Protagonist
+uUnderstood.v
 Now then, what should I do next?
 Souko-san and Narumi-san were in the dining hall.
-ï¼ƒSouko
-ã€ŒOh, do you still need something?ã€
-ï¼ƒProtagonist
-ã€ŒYes, well.ã€
+”Souko
+uOh, do you still need something?v
+”Protagonist
+uYes, well.v
 Now, which one should I talk to?
-Iâ€™ve arrived at the dining hall.
-ï¼ƒBenio
-ã€ŒHm, oh, it's just you.ã€
+Ifve arrived at the dining hall.
+”Benio
+uHm, oh, it's just you.v
 Benio-san was there.
-ï¼ƒAkane
-ã€ŒLady Benio, have you seen Lady Ai?ã€
-ï¼ƒBenio
-ã€ŒSister? ...No, I haven't.ã€
+”Akane
+uLady Benio, have you seen Lady Ai?v
+”Benio
+uSister? ...No, I haven't.v
 Benio-san tilts her head curiously.
-ï¼ƒProtagonist
-ã€ŒIt seems she hasn't been seen for a while now.ã€
-ï¼ƒBenio
-ã€ŒHmm... I wonder what she's up to.ã€
-ï¼ƒAkane
-ã€ŒPlease let us know if you see her.ã€
-ï¼ƒBenio
-ã€ŒYeah, I got it.ã€
+”Protagonist
+uIt seems she hasn't been seen for a while now.v
+”Benio
+uHmm... I wonder what she's up to.v
+”Akane
+uPlease let us know if you see her.v
+”Benio
+uYeah, I got it.v
 We decided to search elsewhere.
 Benio-san was still in the dining hall.
-ï¼ƒBenio
-ã€ŒDid you find my sister?ã€
-ï¼ƒProtagonist
-ã€ŒNo... not yet.ã€
-ï¼ƒAkane
-ã€ŒLady Benio, do you know anything at all?ã€
-ï¼ƒBenio
-ã€ŒMe? ...I wouldn't know. I'm not really interested in what my sister does in her spare time...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Benio
+uDid you find my sister?v
+”Protagonist
+uNo... not yet.v
+”Akane
+uLady Benio, do you know anything at all?v
+”Benio
+uMe? ...I wouldn't know. I'm not really interested in what my sister does in her spare time...v
+”Protagonist
+uI see...v
 It can't be helped; let's go search somewhere else.
 When I entered the large dining hall, Souko-san and Benio-san were there.
-ï¼ƒProtagonist
-ã€ŒSouko-san, have you seen Ai-san?ã€
-ï¼ƒSouko
-ã€ŒAi-san? No, I haven't, but did something happen?ã€
-ï¼ƒAkane
-ã€ŒShe hasn't been seen for a while.ã€
-ï¼ƒSouko
-ã€ŒI see... Benio-san, have you seen her?ã€
-ï¼ƒBenio
-ã€ŒNo, I haven't seen her either.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒSouko
-ã€Œ...I have a bad feeling about this.ã€
+”Protagonist
+uSouko-san, have you seen Ai-san?v
+”Souko
+uAi-san? No, I haven't, but did something happen?v
+”Akane
+uShe hasn't been seen for a while.v
+”Souko
+uI see... Benio-san, have you seen her?v
+”Benio
+uNo, I haven't seen her either.v
+”Protagonist
+uIs that so...v
+”Souko
+u...I have a bad feeling about this.v
 Souko-san mutters quietly.
-ï¼ƒBenio
-ã€ŒYou're right. Go find her quickly.ã€
-ï¼ƒProtagonist
-ã€ŒYes, I know.ã€
+”Benio
+uYou're right. Go find her quickly.v
+”Protagonist
+uYes, I know.v
 Akane-san and I decided to go search elsewhere.
 When I entered the large dining hall, Souko-san and Benio-san were there.
-ï¼ƒSouko
-ã€ŒDid you find Ai-san?ã€
-ï¼ƒProtagonist
-ã€ŒThe thing is... not yet.ã€
-ï¼ƒSouko
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒWe should try looking for her as well.ã€
-ï¼ƒAkane
-ã€ŒYes. Thank you very much.ã€
+”Souko
+uDid you find Ai-san?v
+”Protagonist
+uThe thing is... not yet.v
+”Souko
+uI see...v
+”Benio
+uWe should try looking for her as well.v
+”Akane
+uYes. Thank you very much.v
 Akane-san bows deeply.
 Let's go search somewhere else too.
 Souko-san was in the dining hall.
-ï¼ƒSouko
-ã€ŒOh, what are you two up to?ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san, have you seen Ai-san?ã€
-ï¼ƒSouko
-ã€ŒAi-san...? I haven't.ã€
-ï¼ƒAkane
-ã€ŒI see...ã€
+”Souko
+uOh, what are you two up to?v
+”Protagonist
+uSouko-san, have you seen Ai-san?v
+”Souko
+uAi-san...? I haven't.v
+”Akane
+uI see...v
 Akane-san's shoulders slump.
-ï¼ƒProtagonist
-ã€ŒPlease let us know if you see her. We'll be looking elsewhere.ã€
-ï¼ƒSouko
-ã€ŒYes, I understand.ã€
+”Protagonist
+uPlease let us know if you see her. We'll be looking elsewhere.v
+”Souko
+uYes, I understand.v
 We decided to go somewhere else.
 Souko-san was still in the dining hall.
-ï¼ƒSouko
-ã€ŒDid you find Ai-san?ã€
-ï¼ƒAkane
-ã€ŒThe thing is... not yet.ã€
-ï¼ƒSouko
-ã€ŒI see... It's strange that she can't be found within this building...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒWe'll try looking elsewhere.ã€
+”Souko
+uDid you find Ai-san?v
+”Akane
+uThe thing is... not yet.v
+”Souko
+uI see... It's strange that she can't be found within this building...v
+”Protagonist
+uYou're right...v
+”Akane
+uWe'll try looking elsewhere.v
 We decided to go somewhere else.
 Souko-san and Narumi-san were in the dining hall.
-ï¼ƒSouko
-ã€ŒOh, what's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san, have you seen Ai-san?ã€
-ï¼ƒSouko
-ã€ŒAi-san...? No, I haven't.ã€
-ï¼ƒNarumi
-ã€ŒShe hasn't come here either.ã€
-ï¼ƒAkane
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€ŒWe'll try looking elsewhere.ã€
+”Souko
+uOh, what's the matter?v
+”Protagonist
+uSouko-san, have you seen Ai-san?v
+”Souko
+uAi-san...? No, I haven't.v
+”Narumi
+uShe hasn't come here either.v
+”Akane
+uI see...v
+”Protagonist
+uWe'll try looking elsewhere.v
 We decided to go somewhere else.
 Souko-san and Narumi-san were in the dining hall.
-ï¼ƒSouko
-ã€ŒOh, are you still looking?ã€
-ï¼ƒAkane
-ã€ŒYes...ã€
-ï¼ƒNarumi
-ã€ŒLady Ai, huh...ã€
-ï¼ƒProtagonist
-ã€Œ...We'll try somewhere else.ã€
+”Souko
+uOh, are you still looking?v
+”Akane
+uYes...v
+”Narumi
+uLady Ai, huh...v
+”Protagonist
+u...We'll try somewhere else.v
 We decided to search another location.

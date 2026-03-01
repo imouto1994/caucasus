@@ -1,37 +1,37 @@
-Iâ€™ve arrived at the grand hall.
+Ifve arrived at the grand hall.
 Naturally, it remains pitch black in here too.
-ï¼ƒAkane
-ã€ŒAh... are you alright?ã€
+”Akane
+uAh... are you alright?v
 Akane-san, who had been gazing anxiously out the window, turned around.
-ï¼ƒProtagonist
-ã€ŒAkane-san... what happened?ã€
-ï¼ƒAkane
-ã€ŒI'm not entirely sure myself... is it a power outage...?ã€
-ï¼ƒProtagonist
-ã€ŒIt could be dangerous if something happens, so please try not to leave your room.ã€
-ï¼ƒAkane
-ã€ŒYes... I suppose so.ã€
+”Protagonist
+uAkane-san... what happened?v
+”Akane
+uI'm not entirely sure myself... is it a power outage...?v
+”Protagonist
+uIt could be dangerous if something happens, so please try not to leave your room.v
+”Akane
+uYes... I suppose so.v
 Akane-san nodded.
-ï¼ƒProtagonist
-ã€ŒI'm going to look around the interior a bit more.ã€
-ï¼ƒAkane
-ã€ŒAlright... please be careful.ã€
+”Protagonist
+uI'm going to look around the interior a bit more.v
+”Akane
+uAlright... please be careful.v
 Seen off by Akane-san, I left the hall.
-Iâ€™ve returned to the grand hall.
+Ifve returned to the grand hall.
 Akane-san was still in the room.
-ï¼ƒProtagonist
-ã€ŒAkane-san.ã€
-ï¼ƒAkane
-ã€ŒYes, what is it?ã€
-ï¼ƒProtagonist
-ã€ŒHas anything unusual happened?ã€
-ï¼ƒAkane
-ã€ŒNo, nothing in particular... no one else has come by...ã€
-ï¼ƒProtagonist
-ã€ŒPerhaps everyone is staying cooped up in their rooms.ã€
-Well, thatâ€™s probably for the best safety-wise.
-ï¼ƒProtagonist
-ã€ŒI'm going to look around the interior a bit more.ã€
-ï¼ƒAkane
-ã€ŒYes... please be careful.ã€
+”Protagonist
+uAkane-san.v
+”Akane
+uYes, what is it?v
+”Protagonist
+uHas anything unusual happened?v
+”Akane
+uNo, nothing in particular... no one else has come by...v
+”Protagonist
+uPerhaps everyone is staying cooped up in their rooms.v
+Well, thatfs probably for the best safety-wise.
+”Protagonist
+uI'm going to look around the interior a bit more.v
+”Akane
+uYes... please be careful.v
 Seen off by Akane-san, I left the hall.

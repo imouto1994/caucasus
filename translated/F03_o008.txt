@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒIt was placed in the performance room. It looked like quite an antique...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒThat is something my husband purchased before the war. Apparently, he went to the trouble of importing it from Germany.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒSince this is German-made, its name is 'Klavier,' not 'Piano.'ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒShion
-ã€ŒA piano... I know it's there, but I've never played it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI'm ashamed to say I've dabbled in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI don't mind if you play it, but don't break it.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah...ã€
-ï¼ƒMikanagi
-ã€ŒA piano... It seems to be quite an old one. It was apparently Mr. Kousei's favorite instrument.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe piano in the performance room? I've only ever seen Lady Benio playing it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uIt was placed in the performance room. It looked like quite an antique...v
+”Protagonist
+uI see.v
+”Maya
+uThat is something my husband purchased before the war. Apparently, he went to the trouble of importing it from Germany.v
+”Protagonist
+uIs that so...v
+”Benio
+uSince this is German-made, its name is 'Klavier,' not 'Piano.'v
+”Protagonist
+uI-I see...v
+”Shion
+uA piano... I know it's there, but I've never played it.v
+”Protagonist
+uI see...v
+”Tsujimura
+uI'm ashamed to say I've dabbled in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio.v
+”Protagonist
+uI see...v
+”Takamine
+uI don't mind if you play it, but don't break it.v
+”Protagonist
+uY-Yeah...v
+”Mikanagi
+uA piano... It seems to be quite an old one. It was apparently Mr. Kousei's favorite instrument.v
+”Protagonist
+uI see...v
+”Narumi
+uThe piano in the performance room? I've only ever seen Lady Benio playing it.v
+”Protagonist
+uI see...v

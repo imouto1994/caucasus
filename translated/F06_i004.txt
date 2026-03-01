@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...A snowdrop, I see. I think you understand what this implies... but it's not enough. We need more concrete evidence...ã€
-ï¼ƒProtagonist
-ã€Œ...I understand.ã€
-ï¼ƒMaya
-ã€Œ...I am sorry, I do not quite understand.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€Œ...So, this is proof that Rokuyou entered the chapel, then?ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know yet. It could be that someone wants us to think that...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒTsujimura
-ã€ŒI... don't quite understand...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI'm not really sure.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI really don't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI'm not quite sure about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...A snowdrop, I see. I think you understand what this implies... but it's not enough. We need more concrete evidence...v
+”Protagonist
+u...I understand.v
+”Maya
+u...I am sorry, I do not quite understand.v
+”Protagonist
+uI see...v
+”Ai
+u...I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Benio
+u...So, this is proof that Rokuyou entered the chapel, then?v
+”Protagonist
+u...We don't know yet. It could be that someone wants us to think that...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+u...I see.v
+”Tsujimura
+uI... don't quite understand...v
+”Protagonist
+uI see...v
+”Takamine
+uI'm not really sure.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI really don't know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI'm not quite sure about that.v
+”Protagonist
+uI see...v

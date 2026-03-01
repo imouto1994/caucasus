@@ -1,18 +1,18 @@
 There's a small window for letting in light.
 It doesn't seem to be locked, but it's so small that it'd be impossible for a person to pass through.
 There's no chance the culprit came in or out through here.
-ï¼ƒProtagonist
-ã€ŒThis is the rope that was around Ai-san's neck...ã€
-ï¼ƒSouko
-ã€ŒWire is woven into it... it doesn't look like it'd be easy to cut.ã€
-ï¼ƒProtagonist
-ã€ŒOne end is firmly fixed to the wall... the other end was caught in the gears of the clock.ã€
+”Protagonist
+uThis is the rope that was around Ai-san's neck...v
+”Souko
+uWire is woven into it... it doesn't look like it'd be easy to cut.v
+”Protagonist
+uOne end is firmly fixed to the wall... the other end was caught in the gears of the clock.v
 ...This rope is likely what took Ai-san's life.
-ï¼ƒProtagonist
-ã€ŒWhat is this stick...?ã€
+”Protagonist
+uWhat is this stick...?v
 I picked up a piece of wood that had fallen to the floor.
-ï¼ƒSouko
-ã€ŒIt doesn't look like something that has any particular meaning, but...ã€
+”Souko
+uIt doesn't look like something that has any particular meaning, but...v
 A wooden stick is lying there.
 The gears that move the clock.
 Their movement has been stopped now.
@@ -21,8 +21,8 @@ A small piece of trash, like a scrap of paper, is lying on the floor.
 It doesn't seem to be anything special, but...
 No matter how many times I look at it, it just looks like trash.
 Dr. Mikanagi placed his hands together in prayer before Ai-san's body and began the autopsy.
-ï¼ƒMikanagi
-ã€Œ...There's a contusion on the head, but this isn't the direct cause of death. It seems death was indeed caused by suffocation due to neck compression.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Mikanagi
+u...There's a contusion on the head, but this isn't the direct cause of death. It seems death was indeed caused by suffocation due to neck compression.v
+”Protagonist
+uI see...v
 ...It seems Ai-san's cause of death was suffocation.

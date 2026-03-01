@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒThe head was gone again... Just like before...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒCould you... please not ask me about such things...?ã€
-ï¼ƒProtagonist
-ã€ŒMaya-san...ã€
-ï¼ƒAi
-ã€ŒAh... Benio...! Why, why...!ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒShion
-ã€Œ...Why did this happen to Lady Benio too...?ã€
-ï¼ƒProtagonist
-ã€ŒI don't know...ã€
-ï¼ƒTsujimura
-ã€Œ...Lady Benio's remains are laid to rest in her room. I truly wish she could have remained whole, but...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒI'm told Lady Benio's exact cause of death hasn't been determined yet... I only hope it wasn't poisoning.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒMikanagi
-ã€ŒI don't know the direct cause of Benio-san's death. However, I believe her neck was severed either immediately after death or just before she expired.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Benio... Why...?ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san...ã€
-ï¼ƒNarumi
-ã€Œ...With Lady Benio murdered as well, it's looking more and more like a dispute over the inheritance...ã€
-ï¼ƒProtagonist
-ã€Œ...Maybe so...ã€
+”Souko
+uThe head was gone again... Just like before...v
+”Protagonist
+uTrue...v
+”Maya
+uCould you... please not ask me about such things...?v
+”Protagonist
+uMaya-san...v
+”Ai
+uAh... Benio...! Why, why...!v
+”Protagonist
+uAi-san...v
+”Shion
+u...Why did this happen to Lady Benio too...?v
+”Protagonist
+uI don't know...v
+”Tsujimura
+u...Lady Benio's remains are laid to rest in her room. I truly wish she could have remained whole, but...v
+”Protagonist
+uTrue...v
+”Takamine
+uI'm told Lady Benio's exact cause of death hasn't been determined yet... I only hope it wasn't poisoning.v
+”Protagonist
+u...I see.v
+”Mikanagi
+uI don't know the direct cause of Benio-san's death. However, I believe her neck was severed either immediately after death or just before she expired.v
+”Protagonist
+uI see...v
+”Akane
+uLady Benio... Why...?v
+”Protagonist
+uAkane-san...v
+”Narumi
+u...With Lady Benio murdered as well, it's looking more and more like a dispute over the inheritance...v
+”Protagonist
+u...Maybe so...v

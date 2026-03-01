@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€Œ...He said he only had basic knowledge of forensic medicine, but I don't think he's said anything far off the mark.ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
-ï¼ƒMaya
-ã€ŒI'm always causing trouble for Dr. Mikanagi... I feel terribly sorry about it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒI feel I've done something wrong to Hiroshi. Even if he is a doctor, I made him examine the body of his friend.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒShion
-ã€Œ...Dr. Mikanagi always prescribes me headache medicine. It's a bit bitter, but it's for my own sake.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒHaving Dr. Mikanagi here was a help. We wouldn't know what to do ourselves...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒDr. Mikanagi is usually in the infirmary. Other than that... he's often off performing checkups for Maya-san.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€Œ...To think I would be the one to perform Isamu's autopsy. I've never cursed my being a doctor so much as I do now.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒDr. Mikanagi is often performing checkups for the Madam... but those two are suspicious, aren't they?ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
+”Souko
+u...He said he only had basic knowledge of forensic medicine, but I don't think he's said anything far off the mark.v
+”Protagonist
+u...Right.v
+”Maya
+uI'm always causing trouble for Dr. Mikanagi... I feel terribly sorry about it.v
+”Protagonist
+uI see...v
+”Benio
+uI feel I've done something wrong to Hiroshi. Even if he is a doctor, I made him examine the body of his friend.v
+”Protagonist
+uRight...v
+”Shion
+u...Dr. Mikanagi always prescribes me headache medicine. It's a bit bitter, but it's for my own sake.v
+”Protagonist
+uI see...v
+”Tsujimura
+uHaving Dr. Mikanagi here was a help. We wouldn't know what to do ourselves...v
+”Protagonist
+uRight...v
+”Takamine
+uDr. Mikanagi is usually in the infirmary. Other than that... he's often off performing checkups for Maya-san.v
+”Protagonist
+uI see.v
+”Mikanagi
+u...To think I would be the one to perform Isamu's autopsy. I've never cursed my being a doctor so much as I do now.v
+”Protagonist
+uI see...v
+”Narumi
+uDr. Mikanagi is often performing checkups for the Madam... but those two are suspicious, aren't they?v
+”Protagonist
+uI-I see...v

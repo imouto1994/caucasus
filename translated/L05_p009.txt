@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒAkane-san, huh... I haven't found any reason for her to be the killer so far.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒAkane seemed to be in the second-floor corridor... perhaps she was looking for my sister.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAs for Mistress Hiyama, I believe she would have been preparing lunch around that time...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI... was looking for Lady Ai. But she wasn't in her room... I can't believe it turned out like this...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒAkane was supposed to go look for Lady Ai, but... to think this would happen...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAkane-san, huh... I haven't found any reason for her to be the killer so far.v
+”Protagonist
+uI see...v
+”Benio
+uAkane seemed to be in the second-floor corridor... perhaps she was looking for my sister.v
+”Protagonist
+uI see...v
+”Tsujimura
+uAs for Mistress Hiyama, I believe she would have been preparing lunch around that time...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uI... was looking for Lady Ai. But she wasn't in her room... I can't believe it turned out like this...v
+”Protagonist
+uI see...v
+”Narumi
+uAkane was supposed to go look for Lady Ai, but... to think this would happen...v
+”Protagonist
+uI see...v

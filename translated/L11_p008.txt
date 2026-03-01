@@ -1,24 +1,24 @@
-ï¼ƒAi
-ã€ŒI don't know... I've been in my room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€Œ...If Hiroshi were the killer, then the identity of that body, the cause of deathâ€”nothing could be trusted anymore. I'd like to avoid that conclusion, but...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€Œ...I believe he was either in the infirmary or in his room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€Œ...The body was likely burned starting around six o'clock... I was back in my room then. You two were using the infirmary, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒNarumi
-ã€ŒIf you mean Mikanagi-sensei, around six o'clock... he was wandering around the north corridor on the second floor.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Ai
+uI don't know... I've been in my room the whole time.v
+”Protagonist
+uI see...v
+”Benio
+u...If Hiroshi were the killer, then the identity of that body, the cause of death?nothing could be trusted anymore. I'd like to avoid that conclusion, but...v
+”Protagonist
+uTrue...v
+”Tsujimura
+u...I believe he was either in the infirmary or in his room.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Mikanagi
+u...The body was likely burned starting around six o'clock... I was back in my room then. You two were using the infirmary, after all.v
+”Protagonist
+uI-I see...v
+”Narumi
+uIf you mean Mikanagi-sensei, around six o'clock... he was wandering around the north corridor on the second floor.v
+”Protagonist
+uI see...v

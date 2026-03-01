@@ -8,7 +8,7 @@ The world outside the window is a wall of white; I can't see a thing.
 I wonder when this blizzard will finally let up...
 The storm outside seems to be growing even more violent.
 That looks like a remarkably expensive sofa.
-Iâ€™d be nervous just sitting there to have a drink...
+Ifd be nervous just sitting there to have a drink...
 An elegant, high-end sofa sits right in the center of the room.
 A heavy, dignified table has been placed here.
 The surface appears to be polished to a brilliant shine.
@@ -17,24 +17,24 @@ An incredibly expensive-looking painting is on display.
 I have no idea who the artist might be.
 That really is a pricey-looking painting...
 A bright red fire flickers within the hearth.
-ï¼ƒProtagonist
-ã€ŒWait... this is impossible.ã€
+”Protagonist
+uWait... this is impossible.v
 It's far too hot to investigate.
-ï¼ƒNarumi
-ã€ŒI don't think this is the fireplace the code meant, anyway...ã€
-ï¼ƒProtagonist
-ã€ŒIf we can't find anything elsewhere, let's come back and check it again later.ã€
-ï¼ƒNarumi
-ã€ŒI think that's for the best.ã€
+”Narumi
+uI don't think this is the fireplace the code meant, anyway...v
+”Protagonist
+uIf we can't find anything elsewhere, let's come back and check it again later.v
+”Narumi
+uI think that's for the best.v
 It's simply too hot to even attempt an investigation.
 An old-fashioned wall clock.
-ï¼ƒProtagonist
-ã€ŒHm...?ã€
+”Protagonist
+uHm...?v
 Something has fallen into the space where the pendulum swings.
 I carefully pull open the glass door to peer inside and find a small fragment of wood.
 What is this...? It looks like a piece of parquetry.
-ï¼ƒProtagonist
-ã€Œ...I suppose I'll hang onto this for now.ã€
+”Protagonist
+u...I suppose I'll hang onto this for now.v
 An antique clock hangs upon the wall.
 An incredibly expensive-looking painting is on display.
 I have no idea who the artist might be.

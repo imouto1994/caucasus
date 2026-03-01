@@ -1,20 +1,20 @@
-ï¼ƒMaya
-ã€ŒI wouldn't know, I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒAi
-ã€ŒI was in my room the whole timeâ€¦ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTsujimura
-ã€ŒI believe she was in her roomâ€¦ but I haven't confirmed it.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTakamine
-ã€ŒI wouldnâ€™t know what was happening outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒNarumi
-ã€Œâ€¦At the very least, Lady Ai didnâ€™t leave her room while I was out here in the hallway.ã€
-ï¼ƒProtagonist
-ã€Œâ€¦I see.ã€
+”Maya
+uI wouldn't know, I was resting in my room as well.v
+”Protagonist
+uI seecv
+”Ai
+uI was in my room the whole timecv
+”Protagonist
+uI seecv
+”Tsujimura
+uI believe she was in her roomc but I haven't confirmed it.v
+”Protagonist
+uI seecv
+”Takamine
+uI wouldnft know what was happening outside my room.v
+”Protagonist
+uI seecv
+”Narumi
+ucAt the very least, Lady Ai didnft leave her room while I was out here in the hallway.v
+”Protagonist
+ucI see.v

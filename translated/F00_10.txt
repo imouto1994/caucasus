@@ -1,13 +1,13 @@
-ï¼ƒNarumi
-ã€ŒLet's avoid any rooms that are currently occupied.ã€
-ï¼ƒProtagonist
-ã€ŒGood point.ã€
+”Narumi
+uLet's avoid any rooms that are currently occupied.v
+”Protagonist
+uGood point.v
 We decided to head elsewhere.
-Iâ€™ve come to Akane-san's room.
+Ifve come to Akane-san's room.
 There's a fireplace here as well, but...
-ï¼ƒNarumi
-ã€Œ...Let's not.ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
+”Narumi
+u...Let's not.v
+”Protagonist
+u...Right.v
 We'll only check here if we've searched everywhere else and found nothing.
 I wonder where on earth Akane-san could have gone...

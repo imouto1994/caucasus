@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒIt was sitting in the performance room. It certainly looked like an antique...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒThat is something my husband purchased before the war. It was imported all the way from Germany.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒI do not play it myself... but Benio plays quite often.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒI didn't learn the piano from my father, but from Tsujimura. I still play it from time to time.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€Œ...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒA piano? It likely belonged to the previous head. I don't know how much it's worth, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI don't think anyone would mind if you played it, but don't break it.ã€
-ï¼ƒProtagonist
-ã€ŒO-Oh, right...ã€
-ï¼ƒMikanagi
-ã€ŒA piano? It's apparently quite old. It seems to have been one of Mr. Kousei's favorite instruments.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe piano in the performance room, right. I always make sure to polish it until it shines.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒThe piano in the performance room? I've never seen anyone but Lady Benio playing it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uIt was sitting in the performance room. It certainly looked like an antique...v
+”Protagonist
+uI see.v
+”Maya
+uThat is something my husband purchased before the war. It was imported all the way from Germany.v
+”Protagonist
+uIs that so...v
+”Ai
+uI do not play it myself... but Benio plays quite often.v
+”Protagonist
+uI see.v
+”Benio
+uI didn't learn the piano from my father, but from Tsujimura. I still play it from time to time.v
+”Protagonist
+uI see.v
+”Tsujimura
+u...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was busy, I was the one who taught Lady Benio.v
+”Protagonist
+uI see...v
+”Rokuyou
+uA piano? It likely belonged to the previous head. I don't know how much it's worth, though...v
+”Protagonist
+uI see...v
+”Takamine
+uI don't think anyone would mind if you played it, but don't break it.v
+”Protagonist
+uO-Oh, right...v
+”Mikanagi
+uA piano? It's apparently quite old. It seems to have been one of Mr. Kousei's favorite instruments.v
+”Protagonist
+uI see...v
+”Akane
+uThe piano in the performance room, right. I always make sure to polish it until it shines.v
+”Protagonist
+uI see.v
+”Narumi
+uThe piano in the performance room? I've never seen anyone but Lady Benio playing it.v
+”Protagonist
+uI see...v

@@ -1,21 +1,21 @@
-Iâ€™ve come to the front of Ai-san's room.
-ï¼ƒAkane
-ã€ŒIt's unlocked.ã€
+Ifve come to the front of Ai-san's room.
+”Akane
+uIt's unlocked.v
 Akane-san turns the doorknob.
 We enter the room.
 Naturally, Ai-san is nowhere to be seen.
-ï¼ƒProtagonist
-ã€ŒThere might be some kind of clue. Let's look around.ã€
-ï¼ƒAkane
-ã€ŒYes, understood.ã€
-Iâ€™ve come to Ai-san's room once more.
-ï¼ƒAkane
-ã€ŒAre you going to search it again?ã€
-ï¼ƒProtagonist
-ã€ŒYes, there might still be something here.ã€
+”Protagonist
+uThere might be some kind of clue. Let's look around.v
+”Akane
+uYes, understood.v
+Ifve come to Ai-san's room once more.
+”Akane
+uAre you going to search it again?v
+”Protagonist
+uYes, there might still be something here.v
 Akane-san turns the doorknob.
 We enter the room.
-ï¼ƒProtagonist
-ã€ŒWell then, let's take a look.ã€
-ï¼ƒAkane
-ã€ŒYes, understood.ã€
+”Protagonist
+uWell then, let's take a look.v
+”Akane
+uYes, understood.v

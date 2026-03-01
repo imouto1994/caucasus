@@ -1,90 +1,90 @@
-Iâ€™ve come to the front of Tsujimura-san's room.
+Ifve come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒHuh... I guess he's not in.ã€
+”Protagonist
+uHuh... I guess he's not in.v
 Even after waiting, there was no response.
 It can't be helped; I'll head elsewhere.
-Iâ€™ve come to the front of Tsujimura-san's room.
+Ifve come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒTsujimura
-ã€ŒYes, who is it?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒAh, it was you.ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒTsujimura
-ã€ŒYes, I don't mind. Please, come inside.ã€
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Tsujimura
+uYes, who is it?v
+”Protagonist
+uHello, Tsujimura-san.v
+”Tsujimura
+uAh, it was you.v
+”Protagonist
+uDo you have a moment?v
+”Tsujimura
+uYes, I don't mind. Please, come inside.v
+”Protagonist
+uExcuse me.v
 I enter Tsujimura-san's room.
-ï¼ƒTsujimura
-ã€ŒPardon the mess. So, what can I do for you?ã€
-ï¼ƒProtagonist
-ã€ŒUm...ã€
-Iâ€™ve come to the front of Tsujimura-san's room again.
+”Tsujimura
+uPardon the mess. So, what can I do for you?v
+”Protagonist
+uUm...v
+Ifve come to the front of Tsujimura-san's room again.
 I knock on the door.
-ï¼ƒTsujimura
-ã€ŒYes, who is it?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒAh, it was you. What is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒTsujimura
-ã€ŒYes, I don't mind. Please, come inside.ã€
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Tsujimura
+uYes, who is it?v
+”Protagonist
+uHello, Tsujimura-san.v
+”Tsujimura
+uAh, it was you. What is it this time?v
+”Protagonist
+uDo you have a moment?v
+”Tsujimura
+uYes, I don't mind. Please, come inside.v
+”Protagonist
+uExcuse me.v
 I enter Tsujimura-san's room.
-ï¼ƒTsujimura
-ã€ŒWhat can I do for you?ã€
-ï¼ƒProtagonist
-ã€ŒUm...ã€
-Iâ€™ve come to the front of Tsujimura-san's room.
+”Tsujimura
+uWhat can I do for you?v
+”Protagonist
+uUm...v
+Ifve come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒHuh... I guess he's not in.ã€
+”Protagonist
+uHuh... I guess he's not in.v
 Even after waiting, there was no response.
-ï¼ƒAkane
-ã€ŒTsujimura-san is usually in the office, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Akane
+uTsujimura-san is usually in the office, after all.v
+”Protagonist
+uI see...v
 It can't be helped; I'll head elsewhere.
-Iâ€™ve come to the front of Tsujimura-san's room.
+Ifve come to the front of Tsujimura-san's room.
 Akane-san knocks on the door.
-ï¼ƒTsujimura
-ã€ŒYes, who is it?ã€
-ï¼ƒAkane
-ã€ŒTsujimura-san, it's Hiyama.ã€
-ï¼ƒTsujimura
-ã€ŒWhat's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHave you seen Ai-san?ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai...? No, I haven't seen her.ã€
-ï¼ƒAkane
-ã€ŒWe haven't been able to find her anywhere for a while now.ã€
-ï¼ƒTsujimura
-ã€ŒPlease search thoroughly. I shall search as well.ã€
-ï¼ƒProtagonist
-ã€ŒSorry to trouble you, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒNot at all, it's not something you should apologize for. This is a duty we servants should be performing ourselves. Well then.ã€
+”Tsujimura
+uYes, who is it?v
+”Akane
+uTsujimura-san, it's Hiyama.v
+”Tsujimura
+uWhat's the matter?v
+”Protagonist
+uHave you seen Ai-san?v
+”Tsujimura
+uLady Ai...? No, I haven't seen her.v
+”Akane
+uWe haven't been able to find her anywhere for a while now.v
+”Tsujimura
+uPlease search thoroughly. I shall search as well.v
+”Protagonist
+uSorry to trouble you, Tsujimura-san.v
+”Tsujimura
+uNot at all, it's not something you should apologize for. This is a duty we servants should be performing ourselves. Well then.v
 With that, Tsujimura-san hurried off down the corridor.
-ï¼ƒAkane
-ã€ŒLet's go too.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
+”Akane
+uLet's go too.v
+”Protagonist
+uRight.v
 We decided to search for her in another location.
-Iâ€™ve come to the front of Tsujimura-san's room.
+Ifve come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒHuh... I guess he's not in.ã€
+”Protagonist
+uHuh... I guess he's not in.v
 Even after waiting, there was no response.
-ï¼ƒAkane
-ã€ŒWell, Tsujimura-san is also out searching for Lady Ai.ã€
-ï¼ƒProtagonist
-ã€Œ...That's right.ã€
+”Akane
+uWell, Tsujimura-san is also out searching for Lady Ai.v
+”Protagonist
+u...That's right.v
 It can't be helped; I'll head elsewhere.

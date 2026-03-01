@@ -1,10 +1,10 @@
-ï¼ƒNarumi
-ã€ŒHey, where do you think you're going?ã€
+”Narumi
+uHey, where do you think you're going?v
 Narumi-san stopped me just as I was about to head down the stairs.
-ï¼ƒProtagonist
-ã€ŒTo the first floor...?ã€
-ï¼ƒNarumi
-ã€ŒDidn't I tell you the place indicated by the code is on the second floor?ã€
-ï¼ƒProtagonist
-ã€ŒO-oh, right...ã€
+”Protagonist
+uTo the first floor...?v
+”Narumi
+uDidn't I tell you the place indicated by the code is on the second floor?v
+”Protagonist
+uO-oh, right...v
 We don't have much time, so for now, let's focus our investigation on the second floor.

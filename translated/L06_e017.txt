@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒI wonder what was used for the decapitation... From what I can see, nothing that could serve as a weapon was left behind...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒAh... Ai... Why did it come to this...?ã€
-ï¼ƒProtagonist
-ã€ŒMaya-san...ã€
-ï¼ƒBenio
-ã€Œ...It was only about ten minutes between the second blackout and the discovery of the body... It wouldn't be impossible to take off a head in that time, but still...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒLady Ai... why...?ã€
-ï¼ƒProtagonist
-ã€ŒShion-san...ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai... How tragic...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒTakamine
-ã€ŒTo think even Ai-kun would be killed... Just what on earth is happening here?ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMikanagi
-ã€Œ...It was likely a saw that severed the neck. I imagine they did it in the bathtub with the water running to wash away the blood as they worked.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Ai... Why did this happen...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒNarumi
-ã€Œ...The fact that Lady Ai was murdered might mean that no one is safe... except for the killer.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
+”Souko
+uI wonder what was used for the decapitation... From what I can see, nothing that could serve as a weapon was left behind...v
+”Protagonist
+uTrue...v
+”Maya
+uAh... Ai... Why did it come to this...?v
+”Protagonist
+uMaya-san...v
+”Benio
+u...It was only about ten minutes between the second blackout and the discovery of the body... It wouldn't be impossible to take off a head in that time, but still...v
+”Protagonist
+uTrue...v
+”Shion
+uLady Ai... why...?v
+”Protagonist
+uShion-san...v
+”Tsujimura
+uLady Ai... How tragic...v
+”Protagonist
+uYeah...v
+”Takamine
+uTo think even Ai-kun would be killed... Just what on earth is happening here?v
+”Protagonist
+uYeah...v
+”Mikanagi
+u...It was likely a saw that severed the neck. I imagine they did it in the bathtub with the water running to wash away the blood as they worked.v
+”Protagonist
+uI see...v
+”Akane
+uLady Ai... Why did this happen...?v
+”Protagonist
+uTrue...v
+”Narumi
+u...The fact that Lady Ai was murdered might mean that no one is safe... except for the killer.v
+”Protagonist
+uMaybe so...v

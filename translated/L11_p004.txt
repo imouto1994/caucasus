@@ -1,24 +1,24 @@
-ï¼ƒAi
-ã€Œ...Benio seems strangely lively, even though she was attacked herself.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒThe possibility of me being the killer? I won't say it's nonexistent, but I was resting in the infirmary the whole time, wasn't I?ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒTsujimura
-ã€ŒLady Benio was resting in her room even before Mistress Kirihara's body was discovered. I do not believe she had recovered yet.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI don't think Benio-kun is the culprit... but weren't you right there with her?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMikanagi
-ã€Œ...I don't care what you two get up to, really, but I'd appreciate it if you kept it out of my workspace.ã€
-ï¼ƒProtagonist
-ã€ŒI-I'm not sure what you mean...ã€
-ï¼ƒNarumi
-ã€ŒThere's almost no chance Lady Benio is the killer, right? She was asleep in the infirmary the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Ai
+u...Benio seems strangely lively, even though she was attacked herself.v
+”Protagonist
+uI see...v
+”Benio
+uThe possibility of me being the killer? I won't say it's nonexistent, but I was resting in the infirmary the whole time, wasn't I?v
+”Protagonist
+uThat's true...v
+”Tsujimura
+uLady Benio was resting in her room even before Mistress Kirihara's body was discovered. I do not believe she had recovered yet.v
+”Protagonist
+uI see...v
+”Takamine
+uI don't think Benio-kun is the culprit... but weren't you right there with her?v
+”Protagonist
+uTrue...v
+”Mikanagi
+u...I don't care what you two get up to, really, but I'd appreciate it if you kept it out of my workspace.v
+”Protagonist
+uI-I'm not sure what you mean...v
+”Narumi
+uThere's almost no chance Lady Benio is the killer, right? She was asleep in the infirmary the whole time.v
+”Protagonist
+uTrue...v

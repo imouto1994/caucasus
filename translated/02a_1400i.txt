@@ -1,161 +1,161 @@
-ï¼ƒSouko
-ã€ŒI think that's enough for now.ã€
+”Souko
+uI think that's enough for now.v
 The clock struck two, and Souko-san brought the meeting to a close.
-ï¼ƒProtagonist
-ã€Œ...Did you find anything out?ã€
-ï¼ƒSouko
-ã€ŒThatâ€™s my line.ã€
+”Protagonist
+u...Did you find anything out?v
+”Souko
+uThatfs my line.v
 Souko-san said with a wry smile.
-ï¼ƒSouko
-ã€ŒBut well... if I had to give my own impression, there wasn't anything that counts as decisive evidence.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒSouko
-ã€ŒA delayed-action murder attempt using the clock mechanismâ€”no one had a solid alibi during the window when it was likely set up. That includes you and me, for that matter.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒSouko
-ã€ŒNow we just have to wait and see if Ai-san saw the killerâ€™s faceâ€”but we can't confirm that until she regains consciousness.ã€
-ï¼ƒProtagonist
-ã€ŒWe'll have to leave that for later, then.ã€
-ï¼ƒSouko
-ã€ŒRight. To summarize where we are: finding the killer is going to be difficult. So, letâ€™s try thinking about it from the perspective of motive.ã€
-ï¼ƒProtagonist
-ã€ŒMotive, huh? The reason someone would kill Rokuyou-san and try to kill Ai-san...ã€
-ï¼ƒBenio
-ã€Œâ€”Itâ€™s about the inheritance, obviously.ã€
-ï¼ƒProtagonist
-ã€ŒWhoa!?ã€
+”Souko
+uBut well... if I had to give my own impression, there wasn't anything that counts as decisive evidence.v
+”Protagonist
+uI see...v
+”Souko
+uA delayed-action murder attempt using the clock mechanism?no one had a solid alibi during the window when it was likely set up. That includes you and me, for that matter.v
+”Protagonist
+uYeah...v
+”Souko
+uNow we just have to wait and see if Ai-san saw the killerfs face?but we can't confirm that until she regains consciousness.v
+”Protagonist
+uWe'll have to leave that for later, then.v
+”Souko
+uRight. To summarize where we are: finding the killer is going to be difficult. So, letfs try thinking about it from the perspective of motive.v
+”Protagonist
+uMotive, huh? The reason someone would kill Rokuyou-san and try to kill Ai-san...v
+”Benio
+u?Itfs about the inheritance, obviously.v
+”Protagonist
+uWhoa!?v
 Benio-san suddenly interjected from behind us.
-ï¼ƒBenio
-ã€ŒOf course, that makes me the primary suspect, doesn't it?ã€
+”Benio
+uOf course, that makes me the primary suspect, doesn't it?v
 Benio-san gave a mocking laugh.
-ï¼ƒSouko
-ã€Œ...Do you want the inheritance that badly?ã€
-ï¼ƒBenio
-ã€ŒDidn't I tell you this morning? I have no interest in it.ã€
+”Souko
+u...Do you want the inheritance that badly?v
+”Benio
+uDidn't I tell you this morning? I have no interest in it.v
 Benio-san continued.
-ï¼ƒBenio
-ã€ŒThough, even if I have no interest, I'll still receive my share as long as I'm an eligible heir.ã€
-ï¼ƒSouko
-ã€Œ...It seems wise to keep the possibility of an inheritance-related crime in mind.ã€
-ï¼ƒProtagonist
-ã€ŒBut if that's the caseâ€”ã€
+”Benio
+uThough, even if I have no interest, I'll still receive my share as long as I'm an eligible heir.v
+”Souko
+u...It seems wise to keep the possibility of an inheritance-related crime in mind.v
+”Protagonist
+uBut if that's the case?v
 I looked at Benio-san.
-ï¼ƒBenio
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€Œ...I think itâ€™s highly likely that Benio-san will be the next victim.ã€
-ï¼ƒSouko
-ã€ŒYou're right... either her or Shion-san.ã€
-ï¼ƒBenio
-ã€ŒHmm... thatâ€™s not a very pleasant thought.ã€
+”Benio
+uWhat is it?v
+”Protagonist
+u...I think itfs highly likely that Benio-san will be the next victim.v
+”Souko
+uYou're right... either her or Shion-san.v
+”Benio
+uHmm... thatfs not a very pleasant thought.v
 Benio-san crossed her arms.
-ï¼ƒProtagonist
-ã€ŒPlease, be extremely careful, Benio-san.ã€
-ï¼ƒBenio
-ã€ŒI know, I know.ã€
-ï¼ƒSouko
-ã€ŒBy the way, who do you think is the killer at this point?ã€
-ï¼ƒProtagonist
-ã€ŒEh... me...?ã€
-ï¼ƒSouko
-ã€ŒOf course, we can't tell anyone else right now. We don't want to breed any unnecessary suspicion. But... I want to know where you stand.ã€
-ï¼ƒBenio
-ã€ŒHmm... she's right. I'd love to hear your brilliant reasoning. I don't mind even if you point the finger at me.ã€
-ï¼ƒProtagonist
-ã€ŒWell... let's see...ã€
-ï¼ƒSouko
-ã€ŒMe? Why?ã€
-ï¼ƒProtagonist
-ã€ŒNow, don't get angry, okay?ã€
-ï¼ƒSouko
-ã€ŒIt's your opinion, so I'm not going to get upset, but...ã€
-ï¼ƒProtagonist
-ã€ŒIt's simply because you don't have an alibi...ã€
-ï¼ƒSouko
-ã€ŒMaya-san, eh... I wonder.ã€
-ï¼ƒBenio
-ã€Œ...If we're talking about inheritance, itâ€™s not outside the realm of possibility. The fewer heirs there are, the larger her own share becomes.ã€
-ï¼ƒProtagonist
-ã€Œ...Though it doesn't seem very realistic, I suppose.ã€
-ï¼ƒSouko
-ã€Œ...Are you suggesting Ai-san set the whole thing up herself?ã€
-ï¼ƒProtagonist
-ã€ŒI can't say the possibility is zero. After all, Ai-san didn't actually die...ã€
-ï¼ƒBenio
-ã€Œ...Wouldn't she have certainly died if you hadn't come to her rescue? No one would take such a high-risk gamble, would they?ã€
-ï¼ƒProtagonist
-ã€ŒI suppose you're right...ã€
-ï¼ƒBenio
-ã€Œ...Hmm, you make a fair point. If you consider it from the perspective of inheritance, it's not entirely inconceivable.ã€
-ï¼ƒProtagonist
-ã€ŒI'm just discussing the possibilities, okay? Please don't get mad.ã€
-ï¼ƒBenio
-ã€ŒI'm not mad.ã€
-ï¼ƒProtagonist
-ã€ŒYou clearly are...ã€
-ï¼ƒSouko
-ã€ŒShion-san, eh... She and Ai-san seemed to get along well, but I wonder...ã€
-ï¼ƒBenio
-ã€ŒThere's no proof... but she might have a motive, just like me.ã€
-ï¼ƒProtagonist
-ã€ŒExactly...ã€
-ï¼ƒBenio
-ã€ŒTsujimura, huh... It's not impossible, I suppose...ã€
-ï¼ƒSouko
-ã€ŒSince he's Kousei-shi's younger brother, there might be a chance for him to inherit... but I have to wonder if a man like him would really come up with something like this.ã€
-ï¼ƒBenio
-ã€ŒI'm inclined to agree with you on that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒSouko
-ã€Œ...Listen, Rokuyou-san is already dead.ã€
-ï¼ƒBenio
-ã€ŒAre you suggesting heâ€™s risen from the grave?ã€
-ï¼ƒProtagonist
-ã€ŒNo, Iâ€™m just saying... itâ€™s a possibility.ã€
-ï¼ƒSouko
-ã€ŒIf that corpse isn't Rokuyou-san, then who on earth is it?ã€
-ï¼ƒProtagonist
-ã€ŒWell... sorry, I was wrong.ã€
-ï¼ƒBenio
-ã€ŒGet a grip, honestly...ã€
-ï¼ƒBenio
-ã€ŒSo Takamine is the killer... He did claim to be holed up in his room the entire time, itâ€™s true...ã€
-ï¼ƒSouko
-ã€ŒBut there isn't a shred of evidence. ...Honestly, I'm glad he isn't here to hear this.ã€
-ï¼ƒBenio
-ã€ŒNo kidding. He'd probably punch you if he heard that.ã€
-ï¼ƒProtagonist
-ã€ŒYou're probably right...ã€
-ï¼ƒBenio
-ã€Œ...If Hakase were the killer, that would be a nightmare. We wouldn't be able to trust anything.ã€
-ï¼ƒSouko
-ã€Œ...True. Forget the autopsyâ€”we wouldn't even be able to take medicine if we felt sick.ã€
-ï¼ƒProtagonist
-ã€ŒThat's a scary thought...ã€
-ï¼ƒSouko
-ã€ŒWasn't Akane-san with you the whole time?ã€
-ï¼ƒProtagonist
-ã€Œ...But couldn't you argue that was just a convenient excuse to establish an alibi?ã€
-ï¼ƒSouko
-ã€ŒYou're free to think what you like, but... if that were the case, there's no way Ai-san would have survived.ã€
-ï¼ƒBenio
-ã€ŒTrue. No one would go to the trouble of faking their own suspicion only to fail to finish the job.ã€
-ï¼ƒProtagonist
-ã€ŒI-I guess so...ã€
-ï¼ƒBenio
-ã€ŒThe thought of Narumi being the killer is terrifying. I'd never be able to finish a meal again.ã€
-ï¼ƒSouko
-ã€ŒThatâ€™s true... so, are you saying you won't eat anything Narumi-san makes?ã€
-ï¼ƒProtagonist
-ã€ŒEh... how did we get to that?ã€
-ï¼ƒBenio
-ã€ŒBecause there's a chance she could poison us, isn't there? If you really can't stand the thought, I guess you'll just have to cook for yourself.ã€
-ï¼ƒProtagonist
-ã€ŒThat sounds rough...ã€
-ï¼ƒSouko
-ã€ŒIn the end, since we don't know who the killer is, our only defense is self-preservation.ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
+”Protagonist
+uPlease, be extremely careful, Benio-san.v
+”Benio
+uI know, I know.v
+”Souko
+uBy the way, who do you think is the killer at this point?v
+”Protagonist
+uEh... me...?v
+”Souko
+uOf course, we can't tell anyone else right now. We don't want to breed any unnecessary suspicion. But... I want to know where you stand.v
+”Benio
+uHmm... she's right. I'd love to hear your brilliant reasoning. I don't mind even if you point the finger at me.v
+”Protagonist
+uWell... let's see...v
+”Souko
+uMe? Why?v
+”Protagonist
+uNow, don't get angry, okay?v
+”Souko
+uIt's your opinion, so I'm not going to get upset, but...v
+”Protagonist
+uIt's simply because you don't have an alibi...v
+”Souko
+uMaya-san, eh... I wonder.v
+”Benio
+u...If we're talking about inheritance, itfs not outside the realm of possibility. The fewer heirs there are, the larger her own share becomes.v
+”Protagonist
+u...Though it doesn't seem very realistic, I suppose.v
+”Souko
+u...Are you suggesting Ai-san set the whole thing up herself?v
+”Protagonist
+uI can't say the possibility is zero. After all, Ai-san didn't actually die...v
+”Benio
+u...Wouldn't she have certainly died if you hadn't come to her rescue? No one would take such a high-risk gamble, would they?v
+”Protagonist
+uI suppose you're right...v
+”Benio
+u...Hmm, you make a fair point. If you consider it from the perspective of inheritance, it's not entirely inconceivable.v
+”Protagonist
+uI'm just discussing the possibilities, okay? Please don't get mad.v
+”Benio
+uI'm not mad.v
+”Protagonist
+uYou clearly are...v
+”Souko
+uShion-san, eh... She and Ai-san seemed to get along well, but I wonder...v
+”Benio
+uThere's no proof... but she might have a motive, just like me.v
+”Protagonist
+uExactly...v
+”Benio
+uTsujimura, huh... It's not impossible, I suppose...v
+”Souko
+uSince he's Kousei-shi's younger brother, there might be a chance for him to inherit... but I have to wonder if a man like him would really come up with something like this.v
+”Benio
+uI'm inclined to agree with you on that.v
+”Protagonist
+uI see...v
+”Souko
+u...Listen, Rokuyou-san is already dead.v
+”Benio
+uAre you suggesting hefs risen from the grave?v
+”Protagonist
+uNo, Ifm just saying... itfs a possibility.v
+”Souko
+uIf that corpse isn't Rokuyou-san, then who on earth is it?v
+”Protagonist
+uWell... sorry, I was wrong.v
+”Benio
+uGet a grip, honestly...v
+”Benio
+uSo Takamine is the killer... He did claim to be holed up in his room the entire time, itfs true...v
+”Souko
+uBut there isn't a shred of evidence. ...Honestly, I'm glad he isn't here to hear this.v
+”Benio
+uNo kidding. He'd probably punch you if he heard that.v
+”Protagonist
+uYou're probably right...v
+”Benio
+u...If Hakase were the killer, that would be a nightmare. We wouldn't be able to trust anything.v
+”Souko
+u...True. Forget the autopsy?we wouldn't even be able to take medicine if we felt sick.v
+”Protagonist
+uThat's a scary thought...v
+”Souko
+uWasn't Akane-san with you the whole time?v
+”Protagonist
+u...But couldn't you argue that was just a convenient excuse to establish an alibi?v
+”Souko
+uYou're free to think what you like, but... if that were the case, there's no way Ai-san would have survived.v
+”Benio
+uTrue. No one would go to the trouble of faking their own suspicion only to fail to finish the job.v
+”Protagonist
+uI-I guess so...v
+”Benio
+uThe thought of Narumi being the killer is terrifying. I'd never be able to finish a meal again.v
+”Souko
+uThatfs true... so, are you saying you won't eat anything Narumi-san makes?v
+”Protagonist
+uEh... how did we get to that?v
+”Benio
+uBecause there's a chance she could poison us, isn't there? If you really can't stand the thought, I guess you'll just have to cook for yourself.v
+”Protagonist
+uThat sounds rough...v
+”Souko
+uIn the end, since we don't know who the killer is, our only defense is self-preservation.v
+”Protagonist
+u...Right.v

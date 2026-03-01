@@ -1,52 +1,52 @@
-ï¼ƒSouko
-ã€ŒIs this enough for you?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you.ã€
-ï¼ƒSouko
-ã€ŒThen keep up the good work with the investigation.ã€
-ï¼ƒProtagonist
-ã€ŒWill do.ã€
+”Souko
+uIs this enough for you?v
+”Protagonist
+uYes, thank you.v
+”Souko
+uThen keep up the good work with the investigation.v
+”Protagonist
+uWill do.v
 I decided to go somewhere else.
-ï¼ƒMaya
-ã€ŒIs that all, then?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you. You seem busy before the wedding, so I'll take my leave now.ã€
+”Maya
+uIs that all, then?v
+”Protagonist
+uYes, thank you. You seem busy before the wedding, so I'll take my leave now.v
 I bowed and decided to go somewhere else.
-ï¼ƒAi
-ã€ŒIs that all, then?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you. You seem busy, so I'll be going.ã€
+”Ai
+uIs that all, then?v
+”Protagonist
+uYes, thank you. You seem busy, so I'll be going.v
 I bowed and decided to go somewhere else.
-ï¼ƒBenio
-ã€ŒWill this do?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much.ã€
+”Benio
+uWill this do?v
+”Protagonist
+uYes, thank you very much.v
 I thanked Benio-san and decided to go somewhere else.
-ï¼ƒTsujimura
-ã€ŒI suppose this will be enough.ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you for being so thorough. You seem busy, so I'll take my leave.ã€
+”Tsujimura
+uI suppose this will be enough.v
+”Protagonist
+uYes, thank you for being so thorough. You seem busy, so I'll take my leave.v
 I expressed my thanks and decided to go somewhere else.
-ï¼ƒTakamine
-ã€ŒWill this do?ã€
-ï¼ƒProtagonist
-ã€ŒY-yes. Thank you very much. You seem busy, so please excuse me.ã€
+”Takamine
+uWill this do?v
+”Protagonist
+uY-yes. Thank you very much. You seem busy, so please excuse me.v
 I bowed and decided to go somewhere else.
-ï¼ƒMikanagi
-ã€ŒIs this enough for you?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. Please excuse me.ã€
+”Mikanagi
+uIs this enough for you?v
+”Protagonist
+uYes, thank you very much. Please excuse me.v
 I decided to go somewhere else.
-ï¼ƒAkane
-ã€ŒWill that be all?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you. You still seem busy, so I'll be going.ã€
+”Akane
+uWill that be all?v
+”Protagonist
+uYes, thank you. You still seem busy, so I'll be going.v
 I bowed and decided to go somewhere else.
-ï¼ƒNarumi
-ã€ŒWell, I guess I'll get back to work too. Even if it's a pain.ã€
-ï¼ƒProtagonist
-ã€ŒThen I'll be on my way. Thanks again.ã€
-ï¼ƒNarumi
-ã€ŒSure thing. Come back again soon.ã€
+”Narumi
+uWell, I guess I'll get back to work too. Even if it's a pain.v
+”Protagonist
+uThen I'll be on my way. Thanks again.v
+”Narumi
+uSure thing. Come back again soon.v
 I decided to go somewhere else.
 Now then, what should I do next...?

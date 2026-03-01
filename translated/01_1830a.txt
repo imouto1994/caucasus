@@ -1,178 +1,178 @@
 We passed through the door and returned to the entrance hall from earlier.
-ï¼ƒAi
-ã€ŒThis is the main hall and entrance. These stairs are the only way to reach the second floor.ã€
-ï¼ƒProtagonist
-ã€ŒIt really is spacious...ã€
+”Ai
+uThis is the main hall and entrance. These stairs are the only way to reach the second floor.v
+”Protagonist
+uIt really is spacious...v
 I let out my honest impression of the place.
-ï¼ƒAi
-ã€ŒHeh... it is. Though in this season, all the warm air drifts up to the second floor, so it's not the best place to linger.ã€
-With that, Ai-san opened the door on the opposite side of the one we had just come throughâ€”the right side when facing the entrance.
-ï¼ƒAi
-ã€ŒOver here we have the servants' quarters and the dining room. The two on the right are the servants' rooms, while on the left, the first door is the restroom, the one behind it is the kitchen, and at the end is the grand dining hall.ã€
+”Ai
+uHeh... it is. Though in this season, all the warm air drifts up to the second floor, so it's not the best place to linger.v
+With that, Ai-san opened the door on the opposite side of the one we had just come through?the right side when facing the entrance.
+”Ai
+uOver here we have the servants' quarters and the dining room. The two on the right are the servants' rooms, while on the left, the first door is the restroom, the one behind it is the kitchen, and at the end is the grand dining hall.v
 Ai-san walked us through, explaining each room as we went.
-ï¼ƒAi
-ã€ŒI'll introduce them to you later, but we have two servants on staff, so please don't hesitate to ask if you need anything.ã€
-ï¼ƒProtagonist
-ã€ŒO-oh, alright...ã€
-Iâ€™ve never lived a life with servants before, so I wasn't quite sure how to handle that.
+”Ai
+uI'll introduce them to you later, but we have two servants on staff, so please don't hesitate to ask if you need anything.v
+”Protagonist
+uO-oh, alright...v
+Ifve never lived a life with servants before, so I wasn't quite sure how to handle that.
 Just then, a woman stepped out from the kitchen entrance, carrying a stack of plates in her hands.
-ï¼ƒAi
-ã€ŒAh, Akane-san.ã€
-ï¼ƒ???
-ã€ŒYes?ã€
+”Ai
+uAh, Akane-san.v
+”???
+uYes?v
 The moment the woman called out turned around, the plates she was holding came crashing down with a clatter.
-ï¼ƒ???
-ã€ŒA-ah...!ã€
+”???
+uA-ah...!v
 The woman stumbled as well, losing her balance.
-ï¼ƒProtagonist
-ã€ŒLook out!ã€
+”Protagonist
+uLook out!v
 [Help the woman]
 [Catch the plates]
 I instinctively reached out and caught the woman before she could fall.
-ï¼ƒ???
-ã€ŒKyah!ã€
-ï¼ƒProtagonist
-ã€ŒA-are you alright?ã€
+”???
+uKyah!v
+”Protagonist
+uA-are you alright?v
 I managed to support her...
 ...Wait.
 U-um, what do I do...
 They're surprisingly big... I mean.
-ï¼ƒProtagonist
-ã€ŒY-you didn't hit anything, did you...?ã€
+”Protagonist
+uY-you didn't hit anything, did you...?v
 I asked while still holding her.
-ï¼ƒ???
-ã€ŒEh... A-ah... thank... you very much.ã€
+”???
+uEh... A-ah... thank... you very much.v
 The woman addressed as Akane-san murmured in a small voice, her face turning bright red, and quickly pulled away from me.
-ï¼ƒAi
-ã€Œ...Akane-san.ã€
+”Ai
+u...Akane-san.v
 Ai-san let out an exasperated sigh.
-ï¼ƒ???
-ã€ŒU-um, I'm so sorry...ã€
-ï¼ƒAi
-ã€Œ...Don't apologize to me. Apologize to our guest.ã€
+”???
+uU-um, I'm so sorry...v
+”Ai
+u...Don't apologize to me. Apologize to our guest.v
 Souko-san, who was standing next to Ai-san... was now holding the massive stack of plates in both hands.
-ï¼ƒ???
-ã€ŒEek!? I-I'm so sorry!!ã€
-ï¼ƒProtagonist
-ã€ŒS-Souko-san, are you okay?ã€
+”???
+uEek!? I-I'm so sorry!!v
+”Protagonist
+uS-Souko-san, are you okay?v
 I let go of Akane-san and rushed over to Souko-san to take the plates from her.
-ï¼ƒSouko
-ã€Œ...Well, I suppose it's fine.ã€
+”Souko
+u...Well, I suppose it's fine.v
 I wasn't sure if I should praise her for not dropping a single plate on the floor.
-ï¼ƒSouko
-ã€Œ...I already knew you liked girls, after all.ã€
-ï¼ƒProtagonist
-ã€ŒT-That's a misunderstanding!ã€
-ï¼ƒSouko
-ã€ŒSo, you hate them then?ã€
-ï¼ƒProtagonist
-ã€ŒHow did you even reach that conclusion...ã€
+”Souko
+u...I already knew you liked girls, after all.v
+”Protagonist
+uT-That's a misunderstanding!v
+”Souko
+uSo, you hate them then?v
+”Protagonist
+uHow did you even reach that conclusion...v
 I instinctively reached out for the plates that were about to go flying.
-ï¼ƒ???
-ã€ŒKyah!ã€
+”???
+uKyah!v
 The woman went tumbling to the floor.
-ï¼ƒ???
-ã€ŒOuch...ã€
-ï¼ƒAi
-ã€ŒAkane-san... are you alright?ã€
-ï¼ƒ???
-ã€ŒY-yes... my deepest apologies...ã€
+”???
+uOuch...v
+”Ai
+uAkane-san... are you alright?v
+”???
+uY-yes... my deepest apologies...v
 Ai-san offered a hand, and the woman called Akane-san stood up.
-ï¼ƒ???
-ã€ŒU-um... I'm sorry for the trouble.ã€
-ï¼ƒProtagonist
-ã€ŒN-no, it's alright.ã€
+”???
+uU-um... I'm sorry for the trouble.v
+”Protagonist
+uN-no, it's alright.v
 I nodded, still clutching the stack of plates I had managed to save at the last second.
-ï¼ƒAi
-ã€ŒI'm terribly sorry. Our servant can be a bit clumsy.ã€
+”Ai
+uI'm terribly sorry. Our servant can be a bit clumsy.v
 Ai-san bowed her head.
-ï¼ƒ???
-ã€ŒUm, I'm very sorry. My name is Akane Hiyama, and I serve as a maid for this house.ã€
-ï¼ƒProtagonist
-ã€ŒAh, I'm (NAME01) (NAME02).ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara. Nice to meet you.ã€
-ï¼ƒAkane
-ã€ŒU-um, I'm truly sorry for what happened!ã€
+”???
+uUm, I'm very sorry. My name is Akane Hiyama, and I serve as a maid for this house.v
+”Protagonist
+uAh, I'm (NAME01) (NAME02).v
+”Souko
+uI'm Souko Kirihara. Nice to meet you.v
+”Akane
+uU-um, I'm truly sorry for what happened!v
 She bowed so deeply that it made me feel a bit awkward.
-ï¼ƒProtagonist
-ã€ŒNo, really, don't worry about it.ã€
-ï¼ƒSouko
-ã€ŒYou certainly got a nice bonus out of it, didn't you?ã€
-ï¼ƒProtagonist
-ã€ŒIt wasn't like that at all.ã€
-ï¼ƒ???
-ã€ŒWhat's all the racket?ã€
+”Protagonist
+uNo, really, don't worry about it.v
+”Souko
+uYou certainly got a nice bonus out of it, didn't you?v
+”Protagonist
+uIt wasn't like that at all.v
+”???
+uWhat's all the racket?v
 Another woman poked her head out from the kitchen.
-ï¼ƒAkane
-ã€ŒI-it's nothing, Narumi-san!ã€
+”Akane
+uI-it's nothing, Narumi-san!v
 Akane-san rushed over to the woman.
-ï¼ƒAi
-ã€ŒPerfect timing. Narumi-san, these people are our new guests.ã€
-ï¼ƒ???
-ã€ŒOh.ã€
-ï¼ƒProtagonist
-ã€ŒUm, my name is (NAME01) (NAME02).ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara.ã€
-ï¼ƒ???
-ã€ŒI'm Narumi Minakami. Nice to meet ya.ã€
+”Ai
+uPerfect timing. Narumi-san, these people are our new guests.v
+”???
+uOh.v
+”Protagonist
+uUm, my name is (NAME01) (NAME02).v
+”Souko
+uI'm Souko Kirihara.v
+”???
+uI'm Narumi Minakami. Nice to meet ya.v
 After the introductions were finished, Ai-san spoke to Narumi-san.
-ï¼ƒAi
-ã€ŒNow then, please prepare some extra food for dinner.ã€
-ï¼ƒNarumi
-ã€ŒEeeh? Starting now?ã€
+”Ai
+uNow then, please prepare some extra food for dinner.v
+”Narumi
+uEeeh? Starting now?v
 Narumi-san let out a blatantly annoyed groan.
-ï¼ƒAi
-ã€ŒWe have enough ingredients, don't we?ã€
-ï¼ƒNarumi
-ã€ŒWell, yeah, I guess... but it's such a pain.ã€
+”Ai
+uWe have enough ingredients, don't we?v
+”Narumi
+uWell, yeah, I guess... but it's such a pain.v
 ...I wondered if it was really okay to say something like that to your employer.
-ï¼ƒAi
-ã€ŒI'm counting on you regardless.ã€
+”Ai
+uI'm counting on you regardless.v
 ...Since Ai-san didn't seem to mind, I suppose this was a common occurrence here.
-ï¼ƒNarumi
-ã€ŒFine, fine. So, is there anything you guests can't eat?ã€
-ï¼ƒSouko
-ã€ŒNothing in particular for me.ã€
-ï¼ƒProtagonist
-ã€ŒI...ã€
+”Narumi
+uFine, fine. So, is there anything you guests can't eat?v
+”Souko
+uNothing in particular for me.v
+”Protagonist
+uI...v
 [Nothing in particular]
 [I can't stand baran]
-ï¼ƒProtagonist
-ã€ŒI don't have any specific dislikes.ã€
-ï¼ƒNarumi
-ã€ŒGot it. Then maybe some shaved ice would be fine? We can just use the snow from outside.ã€
+”Protagonist
+uI don't have any specific dislikes.v
+”Narumi
+uGot it. Then maybe some shaved ice would be fine? We can just use the snow from outside.v
 Narumi-san said something outrageous with a straight face.
-ï¼ƒAkane
-ã€ŒNarumi-san!ã€
-ï¼ƒNarumi
-ã€ŒI'm just kidding.ã€
-ï¼ƒProtagonist
-ã€ŒI just can't stand baran, no matter what.ã€
-ï¼ƒNarumi
-ã€ŒOh? Then I'll make sure to put plenty in for you. ...Wait, what's baran again?ã€
-ï¼ƒProtagonist
-ã€ŒIt's those plastic leaves they use as decoration for sushi.ã€
-ï¼ƒNarumi
-ã€ŒAh, right. ...Wait, that's not even food, is it!?ã€
-ï¼ƒProtagonist
-ã€ŒThat's why I said I can't eat it.ã€
-ï¼ƒNarumi
-ã€ŒUgh, you're kind of annoying...ã€
-ï¼ƒAkane
-ã€ŒNarumi-san, please calm down.ã€
-ï¼ƒSouko
-ã€ŒHonestly, this isn't the time or place for teasing people.ã€
+”Akane
+uNarumi-san!v
+”Narumi
+uI'm just kidding.v
+”Protagonist
+uI just can't stand baran, no matter what.v
+”Narumi
+uOh? Then I'll make sure to put plenty in for you. ...Wait, what's baran again?v
+”Protagonist
+uIt's those plastic leaves they use as decoration for sushi.v
+”Narumi
+uAh, right. ...Wait, that's not even food, is it!?v
+”Protagonist
+uThat's why I said I can't eat it.v
+”Narumi
+uUgh, you're kind of annoying...v
+”Akane
+uNarumi-san, please calm down.v
+”Souko
+uHonestly, this isn't the time or place for teasing people.v
 Souko-san gave my head a playful nudge.
-ï¼ƒAi
-ã€ŒNarumi-san prepares all the meals for this household.ã€
-ï¼ƒProtagonist
-ã€ŒOh, so she's not a professional chef?ã€
-ï¼ƒNarumi
-ã€ŒNothing fancy like that. I'm just doing it because I don't have any other useful skills.ã€
-ï¼ƒAi
-ã€ŒYou should follow Akane-san's example and learn how to handle other chores as well.ã€
-ï¼ƒNarumi
-ã€ŒSuuure.ã€
+”Ai
+uNarumi-san prepares all the meals for this household.v
+”Protagonist
+uOh, so she's not a professional chef?v
+”Narumi
+uNothing fancy like that. I'm just doing it because I don't have any other useful skills.v
+”Ai
+uYou should follow Akane-san's example and learn how to handle other chores as well.v
+”Narumi
+uSuuure.v
 ...That was an incredibly half-hearted response.

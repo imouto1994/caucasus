@@ -1,44 +1,44 @@
 I've come to the front of Takamine-san's room.
 I wonder if he's in... I knock on the door, feeling a bit nervous.
-ï¼ƒTakamine
-ã€ŒIs it you... What do you want?ã€
-ï¼ƒProtagonist
-ã€ŒUm, have you seen Souko-sanâ€”I mean, Kirihara?ã€
-ï¼ƒTakamine
-ã€ŒKirihara... Ah, her. She was in the grand hall, but...ã€
-ï¼ƒProtagonist
-ã€ŒWhen was that?ã€
-ï¼ƒTakamine
-ã€Œ...It was after six. She came into the grand hall while I was drinking coffee.ã€
-ï¼ƒProtagonist
-ã€ŒWas there anything strange about her?ã€
-ï¼ƒTakamine
-ã€Œ...I couldn't really tell. We didn't really talk.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒCan't you find her?ã€
-ï¼ƒProtagonist
-ã€ŒNo... her room had been ransacked.ã€
-ï¼ƒTakamine
-ã€ŒRansacked...? Nothing like that has happened until now...ã€
-ï¼ƒProtagonist
-ã€ŒYeah... this feels different from before. Otherwise... there'd be no reason for Souko-san to be targeted.ã€
-ï¼ƒTakamine
-ã€ŒHmm... Hiyama-kun hasn't been found yet, either.ã€
-ï¼ƒProtagonist
-ã€ŒPlease let me know immediately if anything happens.ã€
-ï¼ƒTakamine
-ã€ŒYeah, understood.ã€
+”Takamine
+uIs it you... What do you want?v
+”Protagonist
+uUm, have you seen Souko-san?I mean, Kirihara?v
+”Takamine
+uKirihara... Ah, her. She was in the grand hall, but...v
+”Protagonist
+uWhen was that?v
+”Takamine
+u...It was after six. She came into the grand hall while I was drinking coffee.v
+”Protagonist
+uWas there anything strange about her?v
+”Takamine
+u...I couldn't really tell. We didn't really talk.v
+”Protagonist
+uI see...v
+”Takamine
+uCan't you find her?v
+”Protagonist
+uNo... her room had been ransacked.v
+”Takamine
+uRansacked...? Nothing like that has happened until now...v
+”Protagonist
+uYeah... this feels different from before. Otherwise... there'd be no reason for Souko-san to be targeted.v
+”Takamine
+uHmm... Hiyama-kun hasn't been found yet, either.v
+”Protagonist
+uPlease let me know immediately if anything happens.v
+”Takamine
+uYeah, understood.v
 I've come to the front of Takamine-san's room.
 I wonder if he's in... I knock on the door, feeling a bit nervous.
-ï¼ƒTakamine
-ã€ŒIs it you? Did you find her?ã€
-ï¼ƒProtagonist
-ã€ŒNo, not yet...ã€
-ï¼ƒTakamine
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€ŒUm, I'll be looking a bit more, so if anything happens...ã€
-ï¼ƒTakamine
-ã€ŒYeah, I know.ã€
+”Takamine
+uIs it you? Did you find her?v
+”Protagonist
+uNo, not yet...v
+”Takamine
+uI see...v
+”Protagonist
+uUm, I'll be looking a bit more, so if anything happens...v
+”Takamine
+uYeah, I know.v

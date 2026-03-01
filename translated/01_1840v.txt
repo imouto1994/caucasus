@@ -1,119 +1,119 @@
-ï¼ƒSouko
-ã€ŒThey're certainly a lively bunch, aren't they?ã€
+”Souko
+uThey're certainly a lively bunch, aren't they?v
 Once we were back in the hall, Souko-san finally spoke up.
-ï¼ƒBenio
-ã€ŒEven so, they're both quite capable. Now then, let's head this way.ã€
+”Benio
+uEven so, they're both quite capable. Now then, let's head this way.v
 Benio-san offered a small smile as she opened the door directly ahead.
 Beyond it was a hallway similar to the ones we had seen so far.
-ï¼ƒBenio
-ã€ŒThe north wing contains the guest rooms and the chapel. The door at the far end is the chapel, where the wedding is scheduled to take place tonight.ã€
-ï¼ƒProtagonist
-ã€ŒThere's even a chapel here?ã€
-ï¼ƒBenio
-ã€ŒYes. The Nanatsuki family has been Christian for generations.ã€
-ï¼ƒSouko
-ã€ŒWill our rooms be in this wing as well?ã€
-ï¼ƒBenio
-ã€ŒSince most of these are occupied, I'll have yours prepared on the second floor. But first, allow me to introduce you to Takamine-san.ã€
+”Benio
+uThe north wing contains the guest rooms and the chapel. The door at the far end is the chapel, where the wedding is scheduled to take place tonight.v
+”Protagonist
+uThere's even a chapel here?v
+”Benio
+uYes. The Nanatsuki family has been Christian for generations.v
+”Souko
+uWill our rooms be in this wing as well?v
+”Benio
+uSince most of these are occupied, I'll have yours prepared on the second floor. But first, allow me to introduce you to Takamine-san.v
 Benio-san gave a light knock on the first door to the right.
-ï¼ƒBenio
-ã€ŒTakamine-san, are you in?ã€
+”Benio
+uTakamine-san, are you in?v
 A few moments after she called out, the door creaked open with a groan.
-ï¼ƒ???
-ã€Œ...Can I help you?ã€
+”???
+u...Can I help you?v
 The man who appeared was a large, imposing figure wearing an eyepatch over one eye.
 If I met someone like him on the street, I'd make a point of never making eye contact.
 ...In fact, I still couldn't bring myself to look him in the eye even now.
-ï¼ƒBenio
-ã€ŒThese are our new guests. Since they'll be staying the night, I thought I'd introduce them.ã€
-ï¼ƒ???
-ã€ŒI see.ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara. I apologize for the intrusion, but we'll be staying here for the night.ã€
+”Benio
+uThese are our new guests. Since they'll be staying the night, I thought I'd introduce them.v
+”???
+uI see.v
+”Souko
+uI'm Souko Kirihara. I apologize for the intrusion, but we'll be staying here for the night.v
 As expected of Souko-san, she didn't seem even slightly rattled by the man's intimidating presence.
-ï¼ƒProtagonist
-ã€ŒAh, I'm (NAME01) (NAME02).ã€
-ï¼ƒ???
-ã€ŒI'm Jin Takamine, the legal counsel for this family. Pleasure.ã€
-ï¼ƒProtagonist
-ã€ŒYou're a lawyer?ã€
-ï¼ƒTakamine
-ã€Œ...Is there a problem?ã€
+”Protagonist
+uAh, I'm (NAME01) (NAME02).v
+”???
+uI'm Jin Takamine, the legal counsel for this family. Pleasure.v
+”Protagonist
+uYou're a lawyer?v
+”Takamine
+u...Is there a problem?v
 He fixed me with a piercing, icy glare that sent a shiver down my spine.
-ï¼ƒProtagonist
-ã€ŒN-no, nothing at all...ã€
-ï¼ƒTakamine
-ã€ŒHmph... is that all then?ã€
-ï¼ƒBenio
-ã€ŒYes, that's all for now.ã€
-ï¼ƒTakamine
-ã€Œ...Very well. Until later.ã€
+”Protagonist
+uN-no, nothing at all...v
+”Takamine
+uHmph... is that all then?v
+”Benio
+uYes, that's all for now.v
+”Takamine
+u...Very well. Until later.v
 With a dull thud, the door was shut.
-ï¼ƒProtagonist
-ã€ŒPhew...ã€
-ï¼ƒSouko
-ã€ŒWhat an intense man.ã€
+”Protagonist
+uPhew...v
+”Souko
+uWhat an intense man.v
 Souko-san voiced exactly what I was feeling.
-ï¼ƒBenio
-ã€ŒHe's not a bad person. Takamine-san's father was the family's lawyer before him.ã€
-ï¼ƒSouko
-ã€ŒThere was a scar on his face... it looked like a burn.ã€
-ï¼ƒBenio
-ã€ŒYes, he apparently suffered it a long time ago, but I don't know the details.ã€
+”Benio
+uHe's not a bad person. Takamine-san's father was the family's lawyer before him.v
+”Souko
+uThere was a scar on his face... it looked like a burn.v
+”Benio
+uYes, he apparently suffered it a long time ago, but I don't know the details.v
 Benio-san shook her head.
-ï¼ƒBenio
-ã€ŒNow... across from Takamine-san's room is Isamu-samaâ€”Rokuyou-sama's room, whom you met in the hall. Next to that is Tsujimura, who handles the management of the estate.ã€
-ï¼ƒSouko
-ã€ŒThere's an estate manager as well?ã€
-ï¼ƒBenio
-ã€ŒTsujimura is my uncle. He used to be a painter, but now he serves as a sort of butler for us.ã€
+”Benio
+uNow... across from Takamine-san's room is Isamu-sama?Rokuyou-sama's room, whom you met in the hall. Next to that is Tsujimura, who handles the management of the estate.v
+”Souko
+uThere's an estate manager as well?v
+”Benio
+uTsujimura is my uncle. He used to be a painter, but now he serves as a sort of butler for us.v
 Benio-san knocked on the door a few times, then tilted her head.
-ï¼ƒBenio
-ã€ŒTsujimura, aren't you there? I'm coming in.ã€
+”Benio
+uTsujimura, aren't you there? I'm coming in.v
 Just when I thought her tone had become completely different from before, Benio-san opened the door without waiting for an answer.
-ï¼ƒProtagonist
-ã€ŒWait, Benio-san?ã€
+”Protagonist
+uWait, Benio-san?v
 Even I wasn't bold enough to just follow her inside.
-ï¼ƒBenio
-ã€ŒHmph, he really isn't here.ã€
+”Benio
+uHmph, he really isn't here.v
 Benio-san stepped back out with a pout.
-ï¼ƒProtagonist
-ã€ŒB-Benio-san...?ã€
-ï¼ƒBenio
-ã€ŒWhat is it? ...I mean, is something the matter?ã€
+”Protagonist
+uB-Benio-san...?v
+”Benio
+uWhat is it? ...I mean, is something the matter?v
 She corrected herself instantly, offering a sweet smile.
-ï¼ƒProtagonist
-ã€ŒAh... n-no, it's nothing.ã€
+”Protagonist
+uAh... n-no, it's nothing.v
 I knew it...
-ï¼ƒ???
-ã€ŒDid you need something, Benio-ojousama?ã€
+”???
+uDid you need something, Benio-ojousama?v
 A voice came from behind us, and we turned around.
 A middle-aged man was standing by the large door at the end of the hall, looking at us.
-ï¼ƒBenio
-ã€ŒWere you in the chapel, Tsujimura?ã€
-ï¼ƒ???
-ã€ŒYes, I was preparing for tonight's ceremony. ...And these are the guests who were stranded?ã€
+”Benio
+uWere you in the chapel, Tsujimura?v
+”???
+uYes, I was preparing for tonight's ceremony. ...And these are the guests who were stranded?v
 The man called Tsujimura closed the heavy door and walked toward us.
-ï¼ƒ???
-ã€ŒI'm Seiji Tsujimura, the manager of this estate.ã€
-ï¼ƒProtagonist
-ã€ŒI'm (NAME01) (NAME02).ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara. Um, Tsujimura-san, are you the Madam's brother?ã€
-ï¼ƒTsujimura
-ã€ŒNo, I was the younger brother of the previous head. I used to paint, but I couldn't make a living at it... so I've been under the care of this house, I'm ashamed to say.ã€
+”???
+uI'm Seiji Tsujimura, the manager of this estate.v
+”Protagonist
+uI'm (NAME01) (NAME02).v
+”Souko
+uI'm Souko Kirihara. Um, Tsujimura-san, are you the Madam's brother?v
+”Tsujimura
+uNo, I was the younger brother of the previous head. I used to paint, but I couldn't make a living at it... so I've been under the care of this house, I'm ashamed to say.v
 With that, Tsujimura-san gave a deep bow.
-ï¼ƒTsujimura
-ã€ŒI still have preparations to attend to, so if you'll excuse me.ã€
+”Tsujimura
+uI still have preparations to attend to, so if you'll excuse me.v
 After another deep bow, Tsujimura-san disappeared back inside the chapel doors.
-ï¼ƒProtagonist
-ã€ŒHe seems like a kind person.ã€
-ï¼ƒBenio
-ã€ŒHe's just timid. Even though he could have inherited the Nanatsuki family line.ã€
+”Protagonist
+uHe seems like a kind person.v
+”Benio
+uHe's just timid. Even though he could have inherited the Nanatsuki family line.v
 Benio-san muttered with a sigh.
 However, despite her blunt language from a moment ago, she didn't seem to actually dislike him.
-ï¼ƒBenio
-ã€ŒNow then, let me show you the second floor.ã€
+”Benio
+uNow then, let me show you the second floor.v
 Regaining her composure, Benio-san spoke and opened the door back to the hall.
 We climbed the stairs from the hall.
 Looking down from above, the sheer size of the place was even more apparent.

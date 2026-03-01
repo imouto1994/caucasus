@@ -1,26 +1,26 @@
 I've come to the dining hall.
-ï¼ƒProtagonist
-ã€ŒHuh...ã€
+”Protagonist
+uHuh...v
 Nobody's here.
 I thought someone would usually be in the dining hall.
 What should I do...
 I've come to the dining hall.
-ï¼ƒAkane
-ã€ŒAh, is something the matter?ã€
+”Akane
+uAh, is something the matter?v
 Akane-san spoke to me.
-ï¼ƒProtagonist
-ã€ŒI'm just doing some rounds...ã€
-ï¼ƒAkane
-ã€ŒI see... That must be hard.ã€
-ï¼ƒProtagonist
-ã€ŒNo, I'm just doing it on my own accord.ã€
-ï¼ƒAkane
-ã€ŒPlease be careful...ã€
-ï¼ƒProtagonist
-ã€ŒYeah, I know.ã€
+”Protagonist
+uI'm just doing some rounds...v
+”Akane
+uI see... That must be hard.v
+”Protagonist
+uNo, I'm just doing it on my own accord.v
+”Akane
+uPlease be careful...v
+”Protagonist
+uYeah, I know.v
 I've come to the dining hall.
-ï¼ƒAkane
-ã€ŒOh, what is it this time?ã€
+”Akane
+uOh, what is it this time?v
 Akane-san noticed me and spoke up.
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Protagonist
+uUh, well...v

@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒSo this was around Ai-san's neck... It's remarkably sturdy. Doesn't look like it'd snap easily.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€ŒIt was likely something left in the attic. I doubt it was brought in from elsewhere.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThis is... a spare wire for ringing the bell in the attic. It's quite noticeable as soon as you enter the room, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uSo this was around Ai-san's neck... It's remarkably sturdy. Doesn't look like it'd snap easily.v
+”Protagonist
+uTrue...v
+”Benio
+uIt was likely something left in the attic. I doubt it was brought in from elsewhere.v
+”Protagonist
+uI see...v
+”Tsujimura
+uThis is... a spare wire for ringing the bell in the attic. It's quite noticeable as soon as you enter the room, but...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

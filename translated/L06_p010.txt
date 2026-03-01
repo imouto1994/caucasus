@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒNarumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒMaya
-ã€ŒIf it's Narumi, I believe she would have been preparing dinner at that time...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒNarumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒAs for Narumi-san... I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMistress Minakami is cooped up in the kitchen for most of this time. She has dinner to prepare, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒNow that you mention it, I didn't see Narumi-san during the blackout...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒNarumi-san? I was in the grand hall, so I didn't see her...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒOnce the power went out, I was checking around here and there... but I didn't go as far as Lady Ai's room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uNarumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san.v
+”Protagonist
+u...True.v
+”Maya
+uIf it's Narumi, I believe she would have been preparing dinner at that time...v
+”Protagonist
+uI see...v
+”Benio
+uNarumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either.v
+”Protagonist
+uI see...v
+”Shion
+uAs for Narumi-san... I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Tsujimura
+uMistress Minakami is cooped up in the kitchen for most of this time. She has dinner to prepare, after all.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+uNow that you mention it, I didn't see Narumi-san during the blackout...v
+”Protagonist
+uI see...v
+”Akane
+uNarumi-san? I was in the grand hall, so I didn't see her...v
+”Protagonist
+uI see...v
+”Narumi
+uOnce the power went out, I was checking around here and there... but I didn't go as far as Lady Ai's room.v
+”Protagonist
+uI see...v

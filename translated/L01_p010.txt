@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒNarumi-san, huh... She's a bit of an enigma, but there's no real evidence to name her the killer.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒMaya
-ã€ŒI don't believe there was any point of contact between Narumi and Isamu-san...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒAi
-ã€ŒNarumi-san occasionally does the night rounds. Although it was Tsujimura-san's turn yesterday...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒI doubt there was any sort of relationship between Narumi and Rokuyou, but I can't definitively say she's not the killer either.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒNarumi-san... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMistress Minakami, Mistress Hiyama, and I take turns doing rounds after lights out, but I was the one on duty yesterday.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI've never seen Rokuyou-kun and Minakami-kun exchange a word. Aside from official business, of course...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒNarumi-san is usually in the kitchen. She likely hardly spoke to Isamu at all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLast night I returned to our room with Narumi-san, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒAfter the ceremony, I went back to the room with Akane. It was late, so I just went right to sleep.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uNarumi-san, huh... She's a bit of an enigma, but there's no real evidence to name her the killer.v
+”Protagonist
+u...True.v
+”Maya
+uI don't believe there was any point of contact between Narumi and Isamu-san...v
+”Protagonist
+u...I see.v
+”Ai
+uNarumi-san occasionally does the night rounds. Although it was Tsujimura-san's turn yesterday...v
+”Protagonist
+uI see...v
+”Benio
+uI doubt there was any sort of relationship between Narumi and Rokuyou, but I can't definitively say she's not the killer either.v
+”Protagonist
+uI see...v
+”Shion
+uNarumi-san... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uMistress Minakami, Mistress Hiyama, and I take turns doing rounds after lights out, but I was the one on duty yesterday.v
+”Protagonist
+uI see...v
+”Takamine
+uI've never seen Rokuyou-kun and Minakami-kun exchange a word. Aside from official business, of course...v
+”Protagonist
+uI see.v
+”Mikanagi
+uNarumi-san is usually in the kitchen. She likely hardly spoke to Isamu at all.v
+”Protagonist
+uI see...v
+”Akane
+uLast night I returned to our room with Narumi-san, though...v
+”Protagonist
+uI see.v
+”Narumi
+uAfter the ceremony, I went back to the room with Akane. It was late, so I just went right to sleep.v
+”Protagonist
+uI see...v

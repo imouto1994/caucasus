@@ -1,28 +1,28 @@
 I've come to Benio-san's room on the second floor.
 I wonder if she's in.
 I knock on the door.
-ï¼ƒBenio
-ã€ŒWho is it... Oh, what's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Benio-san. Do you have time right now?ã€
-ï¼ƒBenio
-ã€ŒYes, I don't mind.ã€
+”Benio
+uWho is it... Oh, what's the matter?v
+”Protagonist
+uHello, Benio-san. Do you have time right now?v
+”Benio
+uYes, I don't mind.v
 Benio-san invited me into the room.
-ï¼ƒBenio
-ã€ŒSo, what do you want?ã€
-ï¼ƒProtagonist
-ã€ŒUh... well...ã€
+”Benio
+uSo, what do you want?v
+”Protagonist
+uUh... well...v
 I've come to Benio-san's room on the second floor.
 I knock on the door and wait for a while.
-ï¼ƒBenio
-ã€ŒWho is it... Oh, what's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Benio-san. Do you have time right now?ã€
-ï¼ƒBenio
-ã€ŒYes, I don't mind.ã€
+”Benio
+uWho is it... Oh, what's the matter?v
+”Protagonist
+uHello, Benio-san. Do you have time right now?v
+”Benio
+uYes, I don't mind.v
 Benio-san invited me into the room.
-ï¼ƒBenio
-ã€ŒSo, what do you want?ã€
+”Benio
+uSo, what do you want?v
 Benio-san asks with a formal air.
-ï¼ƒProtagonist
-ã€ŒUh... well...ã€
+”Protagonist
+uUh... well...v

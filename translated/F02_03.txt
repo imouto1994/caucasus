@@ -1,59 +1,59 @@
-Iâ€™ve entered the Great Hall.
-ï¼ƒAi
-ã€ŒOh... good morning.ã€
+Ifve entered the Great Hall.
+”Ai
+uOh... good morning.v
 It seems Ai-san had already arrived.
-ï¼ƒProtagonist
-ã€ŒGood morning, Ai-san.ã€
-ï¼ƒAi
-ã€ŒWould you like some tea?ã€
-ï¼ƒProtagonist
-ã€ŒAh, yes, please.ã€
-ï¼ƒAi
-ã€ŒPlease, have a seat.ã€
+”Protagonist
+uGood morning, Ai-san.v
+”Ai
+uWould you like some tea?v
+”Protagonist
+uAh, yes, please.v
+”Ai
+uPlease, have a seat.v
 I settle onto the sofa as she suggested.
-ï¼ƒAi
-ã€ŒWould you like yours straight or with milk?ã€
-ï¼ƒProtagonist
-ã€ŒUm... milk tea, please.ã€
-ï¼ƒAi
-ã€ŒHehe... understood.ã€
+”Ai
+uWould you like yours straight or with milk?v
+”Protagonist
+uUm... milk tea, please.v
+”Ai
+uHehe... understood.v
 With a soft smile, Ai-san brews the tea.
 A wonderful aroma begins to waft through the air.
-ï¼ƒAi
-ã€ŒHere you go.ã€
-ï¼ƒProtagonist
-ã€ŒThank you.ã€
+”Ai
+uHere you go.v
+”Protagonist
+uThank you.v
 I wrap my hands around the warm cup.
-ï¼ƒProtagonist
-ã€ŒSay, Ai-san. Do you have a moment?ã€
-ï¼ƒAi
-ã€ŒYes, what is it?ã€
-Iâ€™ve entered the Great Hall.
-ï¼ƒAi
-ã€ŒOh, is something the matter?ã€
+”Protagonist
+uSay, Ai-san. Do you have a moment?v
+”Ai
+uYes, what is it?v
+Ifve entered the Great Hall.
+”Ai
+uOh, is something the matter?v
 Ai-san was enjoying some tea by herself.
-ï¼ƒProtagonist
-ã€ŒHello, Ai-san. Do you have a moment right now?ã€
-ï¼ƒAi
-ã€ŒYes, what's on your mind?ã€
+”Protagonist
+uHello, Ai-san. Do you have a moment right now?v
+”Ai
+uYes, what's on your mind?v
 When I entered the Great Hall, Takamine-san was there.
-ï¼ƒProtagonist
-ã€ŒGood morning.ã€
-ï¼ƒTakamine
-ã€ŒHm? ...Oh, it's you. Morning.ã€
+”Protagonist
+uGood morning.v
+”Takamine
+uHm? ...Oh, it's you. Morning.v
 He seems as grumpy as ever.
-ï¼ƒProtagonist
-ã€ŒUm, do you have a second?ã€
-ï¼ƒTakamine
-ã€Œ...What is it?ã€
+”Protagonist
+uUm, do you have a second?v
+”Takamine
+u...What is it?v
 When I entered the Great Hall, Takamine-san was there.
-ï¼ƒTakamine
-ã€ŒHm? ...Oh, it's you.ã€
+”Takamine
+uHm? ...Oh, it's you.v
 He seems as grumpy as ever.
-ï¼ƒProtagonist
-ã€ŒUm, do you have a second?ã€
-ï¼ƒTakamine
-ã€Œ...What is it?ã€
+”Protagonist
+uUm, do you have a second?v
+”Takamine
+u...What is it?v
 Souko-san had arrived in the Great Hall.
 She seems to be relaxing with Ai-san and Takamine-san.
 Now then, who should I talk to...?

@@ -1,22 +1,22 @@
 We gathered everyone in the Great Hall.
-ï¼ƒBenio
-ã€ŒWhat on earth do you intend to do?ã€
+”Benio
+uWhat on earth do you intend to do?v
 Benio-san asked, sounding irritated.
-ï¼ƒProtagonist
-ã€ŒIâ€™m going to reveal the person who murdered Rokuyou-san.ã€
-ï¼ƒMikanagi
-ã€ŒCan you really do that...?ã€
-ï¼ƒProtagonist
-ã€ŒWe can't just leave the killer alone when they're right here among us, can we?ã€
-ï¼ƒTsujimura
-ã€ŒThat may be true, but...ã€
-ï¼ƒTakamine
-ã€ŒHow many more days do you think we're stuck here? I refuse to tolerate staying next to a murderer all that time.ã€
-ï¼ƒAi
-ã€ŒBut... needlessly inciting suspicion is...ã€
+”Protagonist
+uIfm going to reveal the person who murdered Rokuyou-san.v
+”Mikanagi
+uCan you really do that...?v
+”Protagonist
+uWe can't just leave the killer alone when they're right here among us, can we?v
+”Tsujimura
+uThat may be true, but...v
+”Takamine
+uHow many more days do you think we're stuck here? I refuse to tolerate staying next to a murderer all that time.v
+”Ai
+uBut... needlessly inciting suspicion is...v
 The room suddenly grew noisy with chatter.
-ï¼ƒSouko
-ã€ŒQuite an uproar... if you name the killer now, there's no telling what they'll do in their desperation... are you still planning to go through with it?ã€
+”Souko
+uQuite an uproar... if you name the killer now, there's no telling what they'll do in their desperation... are you still planning to go through with it?v
 Souko-san checked with me.
 [Continue naming the killer]
 [Stop naming the killer]
@@ -24,17 +24,17 @@ Even if we figured out who the killer was now, the earliest we could hand them o
 Even if we confined them somewhere, there would be various issues like suicide or other problems.
 The most terrifying thing was the possibility of more murders.
 Not just the killer acting in desperation, but the possibility that someone might try to take revenge on the killer.
-ï¼ƒProtagonist
-ã€Œ...Maybe itâ€™s best to stop for now.ã€
-ï¼ƒSouko
-ã€Œ...True.ã€
+”Protagonist
+u...Maybe itfs best to stop for now.v
+”Souko
+u...True.v
 We decided to return to our rooms.
-ï¼ƒProtagonist
-ã€Œ...Iâ€™ll do it.ã€
-ï¼ƒSouko
-ã€Œ...Alright. Then first... could you show us the evidence you think is most crucial to identifying the killer?ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+”Protagonist
+u...Ifll do it.v
+”Souko
+u...Alright. Then first... could you show us the evidence you think is most crucial to identifying the killer?v
+”Protagonist
+uUnderstood.v
 [The key in the pocket]
 [The hand axe used as a weapon]
 [The door connecting to Tsujimura's room]
@@ -44,70 +44,70 @@ We decided to return to our rooms.
 [Rokuyou's corpse]
 [The snowdrop flower]
 ...And at that moment, I realized I didn't have any evidence I could actually present.
-ï¼ƒSouko
-ã€ŒI see... then who exactly is the killer that evidence points to?ã€
-ï¼ƒSouko
-ã€ŒI'm the killer? Why...?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒSouko
-ã€ŒSigh... it doesn't tell a story at all.ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒSouko
-ã€ŒYou're wrong. Get it together, honestly...ã€
-ï¼ƒMaya
-ã€ŒI am the killer...? And why is that...?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒMaya
-ã€Œ...This is absurd.ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒMaya
-ã€ŒOf course you are. Honestly... I've been forced to endure such needless embarrassment.ã€
-ï¼ƒAi
-ã€ŒI'm the killer... why?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒAi
-ã€Œ...How could that possibly be evidence...?ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒAi
-ã€ŒYou're wrong. ...How rude.ã€
-ï¼ƒBenio
-ã€ŒSo I'm the killer... interesting. What made you think that?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒBenio
-ã€ŒThis is pointless. How does that serve as evidence?ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒBenio
-ã€ŒOf course you are. Don't be ridiculous.ã€
-ï¼ƒShion
-ã€ŒMe...?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒShion
-ã€ŒThe key...?ã€
-ï¼ƒProtagonist
-ã€ŒAccording to Tsujimura-san, the key to the chapel was missing. If this key wasn't to Rokuyou-sanâ€™s room, but to the chapel instead...ã€
-ï¼ƒBenio
-ã€ŒIf that were the case... why did Rokuyou have it?ã€
-ï¼ƒProtagonist
-ã€ŒThis is just speculation, but... I imagine Rokuyou-san took the key himself. He went to the chapel in the middle of the nightâ€”to see Shion-san.ã€
-ï¼ƒProtagonist
-ã€ŒThe lid of the casket is heavy, so Shion-san couldn't have opened it alone. If Rokuyou-san opened it from the outsideâ€”it wouldn't be hard to close since it has hinges.ã€
-ï¼ƒShion
-ã€Œ...ã€
-ï¼ƒProtagonist
-ã€ŒI imagine she dragged Rokuyou-sanâ€™s body all the way to his room. The dirt on the back of the corpse tells that story.ã€
-ï¼ƒAi
-ã€ŒBut!! That's nothing more than a guess, isn't it!?ã€
-ï¼ƒProtagonist
-ã€ŒYes... which is why I need one more piece of decisive evidence.ã€
+”Souko
+uI see... then who exactly is the killer that evidence points to?v
+”Souko
+uI'm the killer? Why...?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Souko
+uSigh... it doesn't tell a story at all.v
+”Protagonist
+uWait... am I wrong?v
+”Souko
+uYou're wrong. Get it together, honestly...v
+”Maya
+uI am the killer...? And why is that...?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Maya
+u...This is absurd.v
+”Protagonist
+uWait... am I wrong?v
+”Maya
+uOf course you are. Honestly... I've been forced to endure such needless embarrassment.v
+”Ai
+uI'm the killer... why?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Ai
+u...How could that possibly be evidence...?v
+”Protagonist
+uWait... am I wrong?v
+”Ai
+uYou're wrong. ...How rude.v
+”Benio
+uSo I'm the killer... interesting. What made you think that?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Benio
+uThis is pointless. How does that serve as evidence?v
+”Protagonist
+uWait... am I wrong?v
+”Benio
+uOf course you are. Don't be ridiculous.v
+”Shion
+uMe...?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Shion
+uThe key...?v
+”Protagonist
+uAccording to Tsujimura-san, the key to the chapel was missing. If this key wasn't to Rokuyou-sanfs room, but to the chapel instead...v
+”Benio
+uIf that were the case... why did Rokuyou have it?v
+”Protagonist
+uThis is just speculation, but... I imagine Rokuyou-san took the key himself. He went to the chapel in the middle of the night?to see Shion-san.v
+”Protagonist
+uThe lid of the casket is heavy, so Shion-san couldn't have opened it alone. If Rokuyou-san opened it from the outside?it wouldn't be hard to close since it has hinges.v
+”Shion
+u...v
+”Protagonist
+uI imagine she dragged Rokuyou-sanfs body all the way to his room. The dirt on the back of the corpse tells that story.v
+”Ai
+uBut!! That's nothing more than a guess, isn't it!?v
+”Protagonist
+uYes... which is why I need one more piece of decisive evidence.v
 [The hand axe used as a weapon]
 [The snowdrop flower]
 [The key in the pocket]
@@ -117,135 +117,135 @@ We decided to return to our rooms.
 [The frozen window]
 [Rokuyou's corpse]
 ...And at that moment, I realized I didn't have any evidence I could actually present.
-ï¼ƒProtagonist
-ã€ŒThe snowdrop flower lying by the body... I imagine Rokuyou-san plucked it when he went to get the key.ã€
-ï¼ƒSouko
-ã€ŒThe possibility is high, but...ã€
-ï¼ƒProtagonist
-ã€ŒOne of the stamens is missing. If that stamen were found in the chapel... or if we could at least collect some of its pollen...ã€
-ï¼ƒAi
-ã€ŒThat's enough!!ã€
-ï¼ƒShion
-ã€ŒAi-oneesama...ã€
+”Protagonist
+uThe snowdrop flower lying by the body... I imagine Rokuyou-san plucked it when he went to get the key.v
+”Souko
+uThe possibility is high, but...v
+”Protagonist
+uOne of the stamens is missing. If that stamen were found in the chapel... or if we could at least collect some of its pollen...v
+”Ai
+uThat's enough!!v
+”Shion
+uAi-oneesama...v
 Shion-san quietly restrained Ai-san, who was on the verge of an outburst.
-ï¼ƒShion
-ã€ŒItâ€™s... alright. It was I... who took Rokuyou-samaâ€™s life with these hands.ã€
-ï¼ƒProtagonist
-ã€ŒYou admit it...?ã€
-ï¼ƒShion
-ã€ŒYes...ã€
+”Shion
+uItfs... alright. It was I... who took Rokuyou-samafs life with these hands.v
+”Protagonist
+uYou admit it...?v
+”Shion
+uYes...v
 Shion-san looked down.
-ï¼ƒAi
-ã€ŒWhy... Shion...ã€
+”Ai
+uWhy... Shion...v
 Ai-san clung to Shion-san, tears streaming down her face.
-ï¼ƒShion
-ã€ŒAi-oneesama... this was the only way...ã€
-ï¼ƒSouko
-ã€Œ...For now, letâ€™s move her somewhere else. I doubt there's any risk of her running away.ã€
-ï¼ƒTsujimura
-ã€Œ...In that case, letâ€™s take her to Shion-ojousama's room...ã€
-ï¼ƒProtagonist
-ã€ŒThat sounds best.ã€
-ï¼ƒSouko
-ã€ŒAlso, please make sure someone is watching her. ...To prevent her from taking her own life.ã€
-ï¼ƒTsujimura
-ã€ŒThat... yes, of course. Understood.ã€
+”Shion
+uAi-oneesama... this was the only way...v
+”Souko
+u...For now, letfs move her somewhere else. I doubt there's any risk of her running away.v
+”Tsujimura
+u...In that case, letfs take her to Shion-ojousama's room...v
+”Protagonist
+uThat sounds best.v
+”Souko
+uAlso, please make sure someone is watching her. ...To prevent her from taking her own life.v
+”Tsujimura
+uThat... yes, of course. Understood.v
 Tsujimura-san nodded and approached Shion-san.
-ï¼ƒTsujimura
-ã€ŒOjousama... letâ€™s go.ã€
-ï¼ƒShion
-ã€ŒYes... my apologies to you all.ã€
+”Tsujimura
+uOjousama... letfs go.v
+”Shion
+uYes... my apologies to you all.v
 Tsujimura-san and Shion-san left the room.
-ï¼ƒAi
-ã€ŒShion...ã€
+”Ai
+uShion...v
 Ai-san followed them out of the Great Hall.
-ï¼ƒBenio
-ã€ŒSo Shion killed Rokuyou... a few questions still remain, but since she confessed, I suppose thatâ€™s the truth.ã€
-ï¼ƒSouko
-ã€ŒYeah... what should we do now...?ã€
-ï¼ƒTakamine
-ã€ŒWe have no choice but to wait quietly for rescue. The person from the base of the mountain is due in two days, isn't that right?ã€
-ï¼ƒBenio
-ã€ŒThat's the plan. ...Good grief, it seems the 'Curse of the Seven' is about to grow.ã€
+”Benio
+uSo Shion killed Rokuyou... a few questions still remain, but since she confessed, I suppose thatfs the truth.v
+”Souko
+uYeah... what should we do now...?v
+”Takamine
+uWe have no choice but to wait quietly for rescue. The person from the base of the mountain is due in two days, isn't that right?v
+”Benio
+uThat's the plan. ...Good grief, it seems the 'Curse of the Seven' is about to grow.v
 Benio-san muttered wearily.
-Shion-san had confessed to her crime, but one thingâ€”one mystery still remained.
-The missing chapel keyâ€”it was in Rokuyou-sanâ€™s pocket, but if that was the case, how did she lock the chapel door...?
-...No, never mind. Shion-san is the killer, that's enough, isn't itâ€”
-ï¼ƒShion
-ã€Œ...I don't really understand, but I think you're wrong...ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒShion
-ã€ŒYes... you're wrong.ã€
-ï¼ƒTsujimura
-ã€ŒYou're saying I'm the killer...? And why is that?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒTsujimura
-ã€Œ...I don't really understand what you mean by that...ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒTsujimura
-ã€ŒYes, you are.ã€
-ï¼ƒSouko
-ã€ŒWait a second, why would Rokuyou be the killer?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒSouko
-ã€Œ...Itâ€™s far too much of a stretch to call it suicide.ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒSouko
-ã€ŒOf course you are. Get it together.ã€
-ï¼ƒTakamine
-ã€Œ...You're saying I'm the killer. Why?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒTakamine
-ã€ŒHow does that serve as evidence that I'm the killer?ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒTakamine
-ã€ŒOf course you are. This is ridiculous... I feel like I've wasted my time listening to this.ã€
-ï¼ƒMikanagi
-ã€ŒI'm the killer... why?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒMikanagi
-ã€Œ...Unfortunately, that doesn't serve as evidence that I'm the killer.ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒMikanagi
-ã€ŒOf course you are. Why on earth would I have a reason to kill Isamu?ã€
-ï¼ƒAkane
-ã€ŒI'm the killer...?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒAkane
-ã€ŒI don't really understand, but... I think you're completely wrong.ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒAkane
-ã€ŒOf course you are, honestly...ã€
-ï¼ƒNarumi
-ã€ŒSo I'm the killer, huh... you got any proof?ã€
-ï¼ƒProtagonist
-ã€ŒBecause... this evidence tells the whole story.ã€
-ï¼ƒNarumi
-ã€Œ...How on earth does that count as proof?ã€
-ï¼ƒProtagonist
-ã€ŒWait... am I wrong?ã€
-ï¼ƒNarumi
-ã€ŒYou're wrong. Did you even think this through?ã€
-ï¼ƒProtagonist
-ã€ŒAh... I-I'm sorry, everyone...ã€
+Shion-san had confessed to her crime, but one thing?one mystery still remained.
+The missing chapel key?it was in Rokuyou-sanfs pocket, but if that was the case, how did she lock the chapel door...?
+...No, never mind. Shion-san is the killer, that's enough, isn't it?
+”Shion
+u...I don't really understand, but I think you're wrong...v
+”Protagonist
+uWait... am I wrong?v
+”Shion
+uYes... you're wrong.v
+”Tsujimura
+uYou're saying I'm the killer...? And why is that?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Tsujimura
+u...I don't really understand what you mean by that...v
+”Protagonist
+uWait... am I wrong?v
+”Tsujimura
+uYes, you are.v
+”Souko
+uWait a second, why would Rokuyou be the killer?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Souko
+u...Itfs far too much of a stretch to call it suicide.v
+”Protagonist
+uWait... am I wrong?v
+”Souko
+uOf course you are. Get it together.v
+”Takamine
+u...You're saying I'm the killer. Why?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Takamine
+uHow does that serve as evidence that I'm the killer?v
+”Protagonist
+uWait... am I wrong?v
+”Takamine
+uOf course you are. This is ridiculous... I feel like I've wasted my time listening to this.v
+”Mikanagi
+uI'm the killer... why?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Mikanagi
+u...Unfortunately, that doesn't serve as evidence that I'm the killer.v
+”Protagonist
+uWait... am I wrong?v
+”Mikanagi
+uOf course you are. Why on earth would I have a reason to kill Isamu?v
+”Akane
+uI'm the killer...?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Akane
+uI don't really understand, but... I think you're completely wrong.v
+”Protagonist
+uWait... am I wrong?v
+”Akane
+uOf course you are, honestly...v
+”Narumi
+uSo I'm the killer, huh... you got any proof?v
+”Protagonist
+uBecause... this evidence tells the whole story.v
+”Narumi
+u...How on earth does that count as proof?v
+”Protagonist
+uWait... am I wrong?v
+”Narumi
+uYou're wrong. Did you even think this through?v
+”Protagonist
+uAh... I-I'm sorry, everyone...v
 I bowed my head deeply.
 Everyone stared at me with looks of exasperation before leaving the room.
 The only ones left were me and Souko-san.
-ï¼ƒProtagonist
-ã€ŒSouko-san, I...ã€
-ï¼ƒSouko
-ã€ŒThat was a disaster. Let's go back to your room and think it over some more.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
+”Protagonist
+uSouko-san, I...v
+”Souko
+uThat was a disaster. Let's go back to your room and think it over some more.v
+”Protagonist
+uYeah...v
 Souko-san and I decided to return to our rooms.

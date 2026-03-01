@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒMaya-san, huh... she definitely has that air of a mistress about her. She seems kind, though.ã€
-ï¼ƒProtagonist
-ã€ŒYeah.ã€
-ï¼ƒMaya
-ã€ŒAbout me? Surely it wouldn't be interesting to know about an old woman like me?ã€
-ï¼ƒProtagonist
-ã€ŒNo... that's not true at all...ã€
-ï¼ƒAi
-ã€ŒMother? She's a kind person.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒMy mother? She is a gentle and kind person.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒThe Mistress? She's a very kind person.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒRokuyou
-ã€ŒMaya-san? I'm grateful for her cooperation with this wedding.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒMaya-san... she seems to have done her best on her own since Mr. Kousei passed away.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒMaya-san... I believe she is a person full of affection.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒThe Mistress? I believe she is in her room, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe Mistress? She's a kind and good person.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uMaya-san, huh... she definitely has that air of a mistress about her. She seems kind, though.v
+”Protagonist
+uYeah.v
+”Maya
+uAbout me? Surely it wouldn't be interesting to know about an old woman like me?v
+”Protagonist
+uNo... that's not true at all...v
+”Ai
+uMother? She's a kind person.v
+”Protagonist
+uI see.v
+”Benio
+uMy mother? She is a gentle and kind person.v
+”Protagonist
+uI see.v
+”Tsujimura
+uThe Mistress? She's a very kind person.v
+”Protagonist
+uI see.v
+”Rokuyou
+uMaya-san? I'm grateful for her cooperation with this wedding.v
+”Protagonist
+uI see.v
+”Takamine
+uMaya-san... she seems to have done her best on her own since Mr. Kousei passed away.v
+”Protagonist
+uI see.v
+”Mikanagi
+uMaya-san... I believe she is a person full of affection.v
+”Protagonist
+uI see.v
+”Akane
+uThe Mistress? I believe she is in her room, but...v
+”Protagonist
+uI see...v
+”Narumi
+uThe Mistress? She's a kind and good person.v
+”Protagonist
+uI see.v

@@ -1,113 +1,113 @@
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Souko-san staring at the blood-written message on the wall.
-ï¼ƒProtagonist
-ã€ŒSouko-san.ã€
-ï¼ƒSouko
-ã€Œ...Oh, it's you.ã€
+”Protagonist
+uSouko-san.v
+”Souko
+u...Oh, it's you.v
 A slight smile flickers across Souko-san's face.
-ï¼ƒProtagonist
-ã€ŒWere you investigating?ã€
-ï¼ƒSouko
-ã€ŒIn a way. It's hard not to be curious about this.ã€
-ï¼ƒProtagonist
-ã€ŒThat's for sure...ã€
-ï¼ƒSouko
-ã€ŒDid you need something?ã€
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Protagonist
+uWere you investigating?v
+”Souko
+uIn a way. It's hard not to be curious about this.v
+”Protagonist
+uThat's for sure...v
+”Souko
+uDid you need something?v
+”Protagonist
+uUh, well...v
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Souko-san staring at the blood-written message on the wall.
-ï¼ƒProtagonist
-ã€ŒSouko-san.ã€
-ï¼ƒSouko
-ã€Œ...Oh, it's you. Do you need something again?ã€
+”Protagonist
+uSouko-san.v
+”Souko
+u...Oh, it's you. Do you need something again?v
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Benio-san staring at the blood-written message on the wall with a grim expression.
-ï¼ƒProtagonist
-ã€ŒAh, Benio-san.ã€
-ï¼ƒBenio
-ã€ŒHm... It's you.ã€
-ï¼ƒProtagonist
-ã€ŒWere you investigating?ã€
-ï¼ƒBenio
-ã€ŒYes. It was bothering me a bit.ã€
+”Protagonist
+uAh, Benio-san.v
+”Benio
+uHm... It's you.v
+”Protagonist
+uWere you investigating?v
+”Benio
+uYes. It was bothering me a bit.v
 Benio-san touched the writing on the wall.
-ï¼ƒBenio
-ã€Œ...I wonder who wrote this.ã€
-ï¼ƒProtagonist
-ã€ŒIsn't it... obviously the killer?ã€
-ï¼ƒBenio
-ã€Œ...If so, why send something like this to her?ã€
-ï¼ƒProtagonist
-ã€Œ...Maybe because she was investigating the case?ã€
-ï¼ƒBenio
-ã€ŒYou've been investigating as well, haven't you?ã€
-ï¼ƒProtagonist
-ã€ŒMaybe she was closer to the truth than I am...ã€
-ï¼ƒBenio
-ã€ŒHmm...ã€
+”Benio
+u...I wonder who wrote this.v
+”Protagonist
+uIsn't it... obviously the killer?v
+”Benio
+u...If so, why send something like this to her?v
+”Protagonist
+u...Maybe because she was investigating the case?v
+”Benio
+uYou've been investigating as well, haven't you?v
+”Protagonist
+uMaybe she was closer to the truth than I am...v
+”Benio
+uHmm...v
 Benio-san falls silent.
-ï¼ƒBenio
-ã€Œ...Perhaps they're getting impatient because things aren't going as planned.ã€
-ï¼ƒProtagonist
-ã€ŒImpatient? You mean the killer?ã€
-ï¼ƒBenio
-ã€ŒYes.ã€
-ï¼ƒProtagonist
-ã€ŒWhy would they be?ã€
-ï¼ƒBenio
-ã€ŒBecause I'm still alive after being attacked. Naturally, I haven't let my guard down since then. It's only natural the target would shift to her, as she's digging quite deep.ã€
-ï¼ƒProtagonist
-ã€Œ...I'll go tell her to be careful.ã€
-ï¼ƒBenio
-ã€ŒYes, that would be wise.ã€
+”Benio
+u...Perhaps they're getting impatient because things aren't going as planned.v
+”Protagonist
+uImpatient? You mean the killer?v
+”Benio
+uYes.v
+”Protagonist
+uWhy would they be?v
+”Benio
+uBecause I'm still alive after being attacked. Naturally, I haven't let my guard down since then. It's only natural the target would shift to her, as she's digging quite deep.v
+”Protagonist
+u...I'll go tell her to be careful.v
+”Benio
+uYes, that would be wise.v
 I decided to leave the room in a hurry.
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Benio-san was in the room.
-ï¼ƒBenio
-ã€ŒOh, what is it this time?ã€
+”Benio
+uOh, what is it this time?v
 I've arrived at the room Souko-san had been using.
 I knock lightly on the door.
-ï¼ƒProtagonist
-ã€ŒOh... is no one here?ã€
+”Protagonist
+uOh... is no one here?v
 She probably has no more business here.
 I decided to go somewhere else.
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Takamine-san.
-ï¼ƒProtagonist
-ã€ŒOh... Takamine-san.ã€
-ï¼ƒTakamine
-ã€Œ...It's you.ã€
-ï¼ƒProtagonist
-ã€ŒAre you investigating?ã€
-ï¼ƒTakamine
-ã€ŒYes.ã€
+”Protagonist
+uOh... Takamine-san.v
+”Takamine
+u...It's you.v
+”Protagonist
+uAre you investigating?v
+”Takamine
+uYes.v
 Answering with few words, Takamine-san stared at the blood-written message on the wall.
-ï¼ƒProtagonist
-ã€ŒCan you tell anything from it?ã€
-ï¼ƒTakamine
-ã€Œ...It's all Greek to a layman like me.ã€
-ï¼ƒProtagonist
-ã€ŒThe killer wrote this, right?ã€
-ï¼ƒTakamine
-ã€ŒI can't imagine anyone else having such twisted taste.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒDo you need something?ã€
-ï¼ƒProtagonist
-ã€ŒAh, uh...ã€
+”Protagonist
+uCan you tell anything from it?v
+”Takamine
+u...It's all Greek to a layman like me.v
+”Protagonist
+uThe killer wrote this, right?v
+”Takamine
+uI can't imagine anyone else having such twisted taste.v
+”Protagonist
+uTrue...v
+”Takamine
+uDo you need something?v
+”Protagonist
+uAh, uh...v
 I've arrived at the room Souko-san had been using.
 The door is wide open.
 Peeking inside, I see Takamine-san.
-ï¼ƒProtagonist
-ã€ŒOh, Takamine-san.ã€
-ï¼ƒTakamine
-ã€ŒYou again. Do you need something?ã€
-ï¼ƒProtagonist
-ã€ŒAh, uh...ã€
+”Protagonist
+uOh, Takamine-san.v
+”Takamine
+uYou again. Do you need something?v
+”Protagonist
+uAh, uh...v

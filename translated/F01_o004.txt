@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒThe room Mr. Kousei used to use, right. I'm curious, but if we can't get in, there's no helping it.ã€
-ï¼ƒProtagonist
-ã€ŒYeah.ã€
-ï¼ƒMaya
-ã€ŒIt is the room my husband used while he was alive. We have left it exactly as it was.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒThat is the room my father used. I have hardly ever set foot in there myself.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒMy father's room. It is locked now so that no one can enter.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThat is the room the Master used to use, but it is kept locked now. I am the one in charge of the key.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒRokuyou
-ã€ŒThe previous head's room... I've never been inside. I imagine it's filled with nothing but music-related things...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMr. Kousei's room is off-limits to everyone. It is not a place that concerns you.ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒMikanagi
-ã€ŒI don't know much about that room either. Apparently it was the previous head's room... but I don't think you can see the inside.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThat room... I haven't been inside either, so...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI hear that room is preserved exactly as it was when the Master was alive... but I don't think there's anything particularly unusual in there.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uThe room Mr. Kousei used to use, right. I'm curious, but if we can't get in, there's no helping it.v
+”Protagonist
+uYeah.v
+”Maya
+uIt is the room my husband used while he was alive. We have left it exactly as it was.v
+”Protagonist
+uI see.v
+”Ai
+uThat is the room my father used. I have hardly ever set foot in there myself.v
+”Protagonist
+uI see.v
+”Benio
+uMy father's room. It is locked now so that no one can enter.v
+”Protagonist
+uI see...v
+”Tsujimura
+uThat is the room the Master used to use, but it is kept locked now. I am the one in charge of the key.v
+”Protagonist
+uI see.v
+”Rokuyou
+uThe previous head's room... I've never been inside. I imagine it's filled with nothing but music-related things...v
+”Protagonist
+uI see...v
+”Takamine
+uMr. Kousei's room is off-limits to everyone. It is not a place that concerns you.v
+”Protagonist
+uY-You're right...v
+”Mikanagi
+uI don't know much about that room either. Apparently it was the previous head's room... but I don't think you can see the inside.v
+”Protagonist
+uI see...v
+”Akane
+uThat room... I haven't been inside either, so...v
+”Protagonist
+uI see...v
+”Narumi
+uI hear that room is preserved exactly as it was when the Master was alive... but I don't think there's anything particularly unusual in there.v
+”Protagonist
+uI see...v

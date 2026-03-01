@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€Œ...Her impression changed quite a bit in just one night. I guess she was just playing the part of the good girl before.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMaya
-ã€ŒBenio? She is a bit eccentric, but sheâ€™s a good girl.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAbout Benio? She has her quirks, but she isn't a bad girl.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒMe? This is just who I am, no matter what anyone says.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLady Benio...? She was quite demure yesterday since there were guests present, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒBenio-kun, eh...? Well, she is peculiar, to say the least...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒBenio-san? Sheâ€™s an interesting girl.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAkane
-ã€ŒLady Benio? ...Well, sheâ€™s that sort of person.ã€
-ï¼ƒProtagonist
-ã€ŒOh... I see.ã€
-ï¼ƒNarumi
-ã€ŒLady Benio? ...Well, it isn't my place to say anything.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...Her impression changed quite a bit in just one night. I guess she was just playing the part of the good girl before.v
+”Protagonist
+uYeah...v
+”Maya
+uBenio? She is a bit eccentric, but shefs a good girl.v
+”Protagonist
+uI see.v
+”Ai
+uAbout Benio? She has her quirks, but she isn't a bad girl.v
+”Protagonist
+uI see.v
+”Benio
+uMe? This is just who I am, no matter what anyone says.v
+”Protagonist
+uI see...v
+”Tsujimura
+uLady Benio...? She was quite demure yesterday since there were guests present, after all.v
+”Protagonist
+uI see...v
+”Takamine
+uBenio-kun, eh...? Well, she is peculiar, to say the least...v
+”Protagonist
+uI see...v
+”Mikanagi
+uBenio-san? Shefs an interesting girl.v
+”Protagonist
+uIs that so...v
+”Akane
+uLady Benio? ...Well, shefs that sort of person.v
+”Protagonist
+uOh... I see.v
+”Narumi
+uLady Benio? ...Well, it isn't my place to say anything.v
+”Protagonist
+uI see...v

@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒTo think there's even a chapel inside the building... the wealthy really are something else.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMaya
-ã€ŒI believe the chapel has been here since this building was first constructed.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒI've heard that chapel has always been used for the Nanatsuki family's weddings.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒYou will be able to see the inside of the chapel later.ã€
-ï¼ƒProtagonist
-ã€ŒTrue.ã€
-ï¼ƒTsujimura
-ã€ŒPreparations for the ceremony are underway now, so you cannot see the inside.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒNo need to rush; you'll be able to go inside later.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
-ï¼ƒTakamine
-ã€ŒThey're preparing for the ceremony, so you can't go in.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒAren't they preparing for the wedding in the chapel right now?ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒThe chapel is quite a chore to clean. We don't use it normally, so it doesn't get very dirty, though.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒA chapel that's only used for weddings... it's a bit of a luxury, isn't it?ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
+”Souko
+uTo think there's even a chapel inside the building... the wealthy really are something else.v
+”Protagonist
+uYou're right...v
+”Maya
+uI believe the chapel has been here since this building was first constructed.v
+”Protagonist
+uIs that so...v
+”Ai
+uI've heard that chapel has always been used for the Nanatsuki family's weddings.v
+”Protagonist
+uIs that so...v
+”Benio
+uYou will be able to see the inside of the chapel later.v
+”Protagonist
+uTrue.v
+”Tsujimura
+uPreparations for the ceremony are underway now, so you cannot see the inside.v
+”Protagonist
+uI see...v
+”Rokuyou
+uNo need to rush; you'll be able to go inside later.v
+”Protagonist
+uYou're right.v
+”Takamine
+uThey're preparing for the ceremony, so you can't go in.v
+”Protagonist
+uI see...v
+”Mikanagi
+uAren't they preparing for the wedding in the chapel right now?v
+”Protagonist
+uI see.v
+”Akane
+uThe chapel is quite a chore to clean. We don't use it normally, so it doesn't get very dirty, though.v
+”Protagonist
+uI see.v
+”Narumi
+uA chapel that's only used for weddings... it's a bit of a luxury, isn't it?v
+”Protagonist
+uI suppose so...v

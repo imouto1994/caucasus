@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€Œ...I really don't know what she's been doing since she went to check on Mikanagi-sensei. Apparently she was in the infirmary the whole time, but...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒI wouldn't know; I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI don't know... I've been in my room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€Œ...I don't know. My room is in the annex, after all...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI believe she was in the dining hall...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI went to check on Mikanagi-sensei... and stayed in the infirmary for a while after that. There was no real reason for it, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI was on the first floor the whole time, but Akane never came back.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...I really don't know what she's been doing since she went to check on Mikanagi-sensei. Apparently she was in the infirmary the whole time, but...v
+”Protagonist
+uTrue...v
+”Maya
+uI wouldn't know; I was resting in my room as well.v
+”Protagonist
+uI see...v
+”Ai
+uI don't know... I've been in my room the whole time.v
+”Protagonist
+uI see...v
+”Shion
+u...I don't know. My room is in the annex, after all...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI believe she was in the dining hall...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Akane
+uI went to check on Mikanagi-sensei... and stayed in the infirmary for a while after that. There was no real reason for it, though...v
+”Protagonist
+uI see...v
+”Narumi
+uI was on the first floor the whole time, but Akane never came back.v
+”Protagonist
+uI see...v

@@ -1,58 +1,58 @@
-ï¼ƒSouko
-ã€ŒIs this enough?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much.ã€
-ï¼ƒSouko
-ã€ŒThen good luck with the rest of your investigation.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+”Souko
+uIs this enough?v
+”Protagonist
+uYes, thank you very much.v
+”Souko
+uThen good luck with the rest of your investigation.v
+”Protagonist
+uUnderstood.v
 I decided to go somewhere else.
-ï¼ƒMaya
-ã€ŒIs that all?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. You seem busy, so I'll take my leave now.ã€
+”Maya
+uIs that all?v
+”Protagonist
+uYes, thank you very much. You seem busy, so I'll take my leave now.v
 I bowed and decided to go somewhere else.
-ï¼ƒAi
-ã€ŒIs that all?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. You seem busy, so I'll be going now.ã€
+”Ai
+uIs that all?v
+”Protagonist
+uYes, thank you very much. You seem busy, so I'll be going now.v
 I bowed and decided to go somewhere else.
-ï¼ƒBenio
-ã€ŒIs this enough?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much.ã€
+”Benio
+uIs this enough?v
+”Protagonist
+uYes, thank you very much.v
 I thanked Benio-san and decided to go somewhere else.
-ï¼ƒShion
-ã€ŒWould this be sufficient?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much.ã€
+”Shion
+uWould this be sufficient?v
+”Protagonist
+uYes, thank you very much.v
 I thanked Shion-san and decided to go somewhere else.
-ï¼ƒTsujimura
-ã€ŒWill this suffice?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you for being so thorough. You seem busy, so I'll take my leave now.ã€
+”Tsujimura
+uWill this suffice?v
+”Protagonist
+uYes, thank you for being so thorough. You seem busy, so I'll take my leave now.v
 I expressed my thanks and decided to go somewhere else.
-ï¼ƒTakamine
-ã€ŒIs this enough?ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah. Thank you very much. You seem busy, so I'll excuse myself now.ã€
+”Takamine
+uIs this enough?v
+”Protagonist
+uY-Yeah. Thank you very much. You seem busy, so I'll excuse myself now.v
 I bowed and decided to go somewhere else.
-ï¼ƒMikanagi
-ã€ŒIs this much all right?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. Well then, excuse me.ã€
+”Mikanagi
+uIs this much all right?v
+”Protagonist
+uYes, thank you very much. Well then, excuse me.v
 I decided to go somewhere else.
-ï¼ƒAkane
-ã€ŒIs that all you need?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you very much. You still seem busy, so I'll take my leave now.ã€
+”Akane
+uIs that all you need?v
+”Protagonist
+uYes, thank you very much. You still seem busy, so I'll take my leave now.v
 I bowed and decided to head somewhere else.
-ï¼ƒNarumi
-ã€ŒWell then, I'd better get back to work. Such a pain, though.ã€
-ï¼ƒProtagonist
-ã€ŒThen I'll be going. Excuse me.ã€
-ï¼ƒNarumi
-ã€ŒSure thing. Come back again.ã€
+”Narumi
+uWell then, I'd better get back to work. Such a pain, though.v
+”Protagonist
+uThen I'll be going. Excuse me.v
+”Narumi
+uSure thing. Come back again.v
 I decided to go somewhere else.
 Now then, what should I do...
 About an hour has passed.

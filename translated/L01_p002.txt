@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒMaya-san, huh... I don't see a motive for the crime at all. If you consider that she could get rid of Shion-san, her adopted daughter, the possibility is exactly zero.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒLast night? I returned to my room and went straight to sleep after the ceremony... Why do you ask?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒMother? Last night, she returned to her room with us...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒI don't think Mother has any reason to kill Rokuyou. She values the family name far too much to do anything that would drag it through the mud.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒShion
-ã€ŒIs something wrong... with Mother?ã€
-ï¼ƒProtagonist
-ã€Œ...No, it's nothing.ã€
-ï¼ƒTsujimura
-ã€ŒThe Mistress? She seemed quite pleased about the marriage, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMaya-san? It sounds nice to say she was happy for her daughter's departure, but in reality, it was just good riddance. It's hard to say.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒMaya-san, right... There shouldn't have been any particular falling out between her and Isamu.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe Mistress? She should have gone straight back to her room after the ceremony last night...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe Mistress? I don't think anything happened between her and Rokuyou-san, but men and women being what they are... you never know.ã€
-ï¼ƒProtagonist
-ã€ŒI... I see.ã€
+”Souko
+uMaya-san, huh... I don't see a motive for the crime at all. If you consider that she could get rid of Shion-san, her adopted daughter, the possibility is exactly zero.v
+”Protagonist
+uI see...v
+”Maya
+uLast night? I returned to my room and went straight to sleep after the ceremony... Why do you ask?v
+”Protagonist
+uI see...v
+”Ai
+uMother? Last night, she returned to her room with us...v
+”Protagonist
+uI see...v
+”Benio
+uI don't think Mother has any reason to kill Rokuyou. She values the family name far too much to do anything that would drag it through the mud.v
+”Protagonist
+u...I see.v
+”Shion
+uIs something wrong... with Mother?v
+”Protagonist
+u...No, it's nothing.v
+”Tsujimura
+uThe Mistress? She seemed quite pleased about the marriage, but...v
+”Protagonist
+uI see...v
+”Takamine
+uMaya-san? It sounds nice to say she was happy for her daughter's departure, but in reality, it was just good riddance. It's hard to say.v
+”Protagonist
+uI see...v
+”Mikanagi
+uMaya-san, right... There shouldn't have been any particular falling out between her and Isamu.v
+”Protagonist
+uI see...v
+”Akane
+uThe Mistress? She should have gone straight back to her room after the ceremony last night...v
+”Protagonist
+uI see...v
+”Narumi
+uThe Mistress? I don't think anything happened between her and Rokuyou-san, but men and women being what they are... you never know.v
+”Protagonist
+uI... I see.v

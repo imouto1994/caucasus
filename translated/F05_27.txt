@@ -1,26 +1,26 @@
-Iâ€™ve made it to Souko-san's room.
+Ifve made it to Souko-san's room.
 I knock lightly on the door.
-ï¼ƒSouko
-ã€ŒOh, it's you. What is it?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒSouko
-ã€ŒWell, I don't mind.ã€
+”Souko
+uOh, it's you. What is it?v
+”Protagonist
+uDo you have a moment?v
+”Souko
+uWell, I don't mind.v
 With that, Souko-san guided me into the room.
-ï¼ƒSouko
-ã€ŒSo, what's your business?ã€
-ï¼ƒProtagonist
-ã€ŒWell, you see...ã€
-Iâ€™ve come to Souko-san's room.
+”Souko
+uSo, what's your business?v
+”Protagonist
+uWell, you see...v
+Ifve come to Souko-san's room.
 I knock lightly on the door.
-ï¼ƒSouko
-ã€ŒOh, it's you again. What's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒCould I talk to you for a moment?ã€
-ï¼ƒSouko
-ã€ŒYes, of course.ã€
+”Souko
+uOh, it's you again. What's the matter?v
+”Protagonist
+uCould I talk to you for a moment?v
+”Souko
+uYes, of course.v
 With that, Souko-san guided me into the room.
-ï¼ƒSouko
-ã€ŒWhat is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒWell, you see...ã€
+”Souko
+uWhat is it this time?v
+”Protagonist
+uWell, you see...v

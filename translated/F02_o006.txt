@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒThe cathedral is closed off while they continue the wedding ceremony, it seems.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMaya
-ã€ŒThe cathedral will be opened again at eight o'clock.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒIâ€™ve heard that cathedral has always been used for weddings in the Nanatsuki family.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒIf you want to enter the cathedral, youâ€™ll have to wait a little longer.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒTsujimura
-ã€ŒThe ceremony is currently underway... Please wait just a bit more.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒYou can't go in; the ceremony is in progress.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI believe Shion-san is likely in the cathedral right now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒCleaning the cathedral is such a chore. It isn't used often so it doesn't get very dirty, but still.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒA cathedral that only gets used for weddings... seems a bit decadent, doesn't it?ã€
-ï¼ƒProtagonist
-ã€ŒI guess so...ã€
+”Souko
+uThe cathedral is closed off while they continue the wedding ceremony, it seems.v
+”Protagonist
+uYeah...v
+”Maya
+uThe cathedral will be opened again at eight o'clock.v
+”Protagonist
+uI see...v
+”Ai
+uIfve heard that cathedral has always been used for weddings in the Nanatsuki family.v
+”Protagonist
+uIs that so...v
+”Benio
+uIf you want to enter the cathedral, youfll have to wait a little longer.v
+”Protagonist
+uRight.v
+”Tsujimura
+uThe ceremony is currently underway... Please wait just a bit more.v
+”Protagonist
+uI see...v
+”Takamine
+uYou can't go in; the ceremony is in progress.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI believe Shion-san is likely in the cathedral right now.v
+”Protagonist
+uI see.v
+”Akane
+uCleaning the cathedral is such a chore. It isn't used often so it doesn't get very dirty, but still.v
+”Protagonist
+uI see.v
+”Narumi
+uA cathedral that only gets used for weddings... seems a bit decadent, doesn't it?v
+”Protagonist
+uI guess so...v

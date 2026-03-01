@@ -1,68 +1,68 @@
-Iâ€™ve come to the front of Tsujimura-san's room.
+Ifve come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒHuh... I guess he's not in.ã€
+”Protagonist
+uHuh... I guess he's not in.v
 Even after waiting, there was no response.
 It can't be helped; I'll head elsewhere.
-Iâ€™ve come to the front of Tsujimura-san's room.
+Ifve come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒTsujimura-san, it's me.ã€
+”Protagonist
+uTsujimura-san, it's me.v
 The door opened, and a weary-looking Tsujimura-san appeared.
-ï¼ƒTsujimura
-ã€ŒAh... it was you.ã€
-ï¼ƒProtagonist
-ã€ŒEh... um, Tsujimura-san, is something wrong?ã€
-ï¼ƒTsujimura
-ã€ŒOh, how embarrassing... it seems I was struck by someone...ã€
-ï¼ƒProtagonist
-ã€ŒEh... when did this happen?ã€
-ï¼ƒTsujimura
-ã€ŒAbout thirty minutes ago... I was in the hall when I was suddenly hit from behind... dear me, how pathetic...ã€
-ï¼ƒProtagonist
-ã€ŒUm, do you have any idea who did it?ã€
-ï¼ƒTsujimura
-ã€ŒI haven't the slightest clue... after all, it came from behind...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAh, also, the cause of the blackout was a blown fuse in the basement generator.ã€
-ï¼ƒProtagonist
-ã€ŒA fuse?ã€
-ï¼ƒTsujimura
-ã€ŒI didn't see any other broken lines, so I don't think it was intentional, but...ã€
+”Tsujimura
+uAh... it was you.v
+”Protagonist
+uEh... um, Tsujimura-san, is something wrong?v
+”Tsujimura
+uOh, how embarrassing... it seems I was struck by someone...v
+”Protagonist
+uEh... when did this happen?v
+”Tsujimura
+uAbout thirty minutes ago... I was in the hall when I was suddenly hit from behind... dear me, how pathetic...v
+”Protagonist
+uUm, do you have any idea who did it?v
+”Tsujimura
+uI haven't the slightest clue... after all, it came from behind...v
+”Protagonist
+uI see...v
+”Tsujimura
+uAh, also, the cause of the blackout was a blown fuse in the basement generator.v
+”Protagonist
+uA fuse?v
+”Tsujimura
+uI didn't see any other broken lines, so I don't think it was intentional, but...v
 Tsujimura-san seemed concerned about that as well.
-ï¼ƒProtagonist
-ã€ŒDoes it look like it can be fixed?ã€
-ï¼ƒTsujimura
-ã€Œ...If I recall, there should be spare fuses left in the storage room...ã€
-ï¼ƒProtagonist
-ã€ŒUm, I'll do it.ã€
-ï¼ƒTsujimura
-ã€ŒB-But... I couldn't possibly let a guest do such a thing...ã€
-ï¼ƒProtagonist
-ã€ŒI'll be fine. Besides, I can't leave it to you when you're injured, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒIs that so... my apologies.ã€
-ï¼ƒProtagonist
-ã€ŒUm, so what should I do?ã€
-ï¼ƒTsujimura
-ã€ŒThere should be replacement fuses and tools in the storage room. If you could use those to fix the generator in the basement...ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood, leave it to me.ã€
+”Protagonist
+uDoes it look like it can be fixed?v
+”Tsujimura
+u...If I recall, there should be spare fuses left in the storage room...v
+”Protagonist
+uUm, I'll do it.v
+”Tsujimura
+uB-But... I couldn't possibly let a guest do such a thing...v
+”Protagonist
+uI'll be fine. Besides, I can't leave it to you when you're injured, Tsujimura-san.v
+”Tsujimura
+uIs that so... my apologies.v
+”Protagonist
+uUm, so what should I do?v
+”Tsujimura
+uThere should be replacement fuses and tools in the storage room. If you could use those to fix the generator in the basement...v
+”Protagonist
+uUnderstood, leave it to me.v
 First, the storage room.
 I bowed to Tsujimura-san and decided to head for the storage room.
-Iâ€™ve come to the front of Tsujimura-san's room.
+Ifve come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒTsujimura-san, it's me.ã€
+”Protagonist
+uTsujimura-san, it's me.v
 The door opened, and a weary-looking Tsujimura-san appeared.
-ï¼ƒTsujimura
-ã€ŒHow can I help you?ã€
-ï¼ƒProtagonist
-ã€ŒUm... Tsujimura-san, is your head alright where you were hit?ã€
-ï¼ƒTsujimura
-ã€ŒYes, it still hurts, but I'm icing it, so there's no need to worry.ã€
-ï¼ƒProtagonist
-ã€ŒI see... take care of yourself.ã€
+”Tsujimura
+uHow can I help you?v
+”Protagonist
+uUm... Tsujimura-san, is your head alright where you were hit?v
+”Tsujimura
+uYes, it still hurts, but I'm icing it, so there's no need to worry.v
+”Protagonist
+uI see... take care of yourself.v
 I bowed and left the area.

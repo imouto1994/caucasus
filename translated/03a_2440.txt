@@ -1,41 +1,41 @@
 The very back of the first floor north.
 The door to the chapel was firmly locked.
-ï¼ƒProtagonist
-ã€ŒNarumi-san, if you would.ã€
-ï¼ƒNarumi
-ã€Œ...Yeah, yeah.ã€
+”Protagonist
+uNarumi-san, if you would.v
+”Narumi
+u...Yeah, yeah.v
 Narumi-san took out something like a wire and inserted it into the keyhole.
-ï¼ƒNarumi
-ã€ŒKeep a lookout and make sure no one comes.ã€
-ï¼ƒProtagonist
-ã€ŒDon't worry.ã€
+”Narumi
+uKeep a lookout and make sure no one comes.v
+”Protagonist
+uDon't worry.v
 As long as Takamine-san doesn't suddenly walk out of his room.
-ï¼ƒNarumi
-ã€ŒIt's open.ã€
+”Narumi
+uIt's open.v
 Narumi-san stood up.
-ï¼ƒProtagonist
-ã€Œ...That was fast.ã€
-ï¼ƒNarumi
-ã€ŒJust get inside, quickly.ã€
+”Protagonist
+u...That was fast.v
+”Narumi
+uJust get inside, quickly.v
 Urged on by Narumi-san, I stepped through the open door.
 Nothing has changed here.
 It seems to always maintain its silence.
-ï¼ƒNarumi
-ã€ŒWe don't have time to just stand around.ã€
-ï¼ƒProtagonist
-ã€ŒRight... first, the fireplaceâ€”ã€
+”Narumi
+uWe don't have time to just stand around.v
+”Protagonist
+uRight... first, the fireplace?v
 I looked around the room, and only then did I realize.
-ï¼ƒProtagonist
-ã€ŒThere isn't one... a fireplace.ã€
-ï¼ƒNarumi
-ã€Œ...You're right. I guess this wasn't what the code was pointing to.ã€
-ï¼ƒProtagonist
-ã€ŒThen is it... somewhere in the guest rooms after all?ã€
-ï¼ƒNarumi
-ã€ŒMaybe we misread the code.ã€
-ï¼ƒProtagonist
-ã€ŒI'm certain there's something in one of the fireplaces, so shall we just check them all?ã€
-ï¼ƒNarumi
-ã€ŒEven if we do... we'll have to aim for places where there aren't any people.ã€
-ï¼ƒProtagonist
-ã€ŒRight... let's go.ã€
+”Protagonist
+uThere isn't one... a fireplace.v
+”Narumi
+u...You're right. I guess this wasn't what the code was pointing to.v
+”Protagonist
+uThen is it... somewhere in the guest rooms after all?v
+”Narumi
+uMaybe we misread the code.v
+”Protagonist
+uI'm certain there's something in one of the fireplaces, so shall we just check them all?v
+”Narumi
+uEven if we do... we'll have to aim for places where there aren't any people.v
+”Protagonist
+uRight... let's go.v

@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒIf they were cut deliberately... then it must be the killer's work.ã€
-ï¼ƒProtagonist
-ã€ŒMost likely...ã€
-ï¼ƒMaya
-ã€ŒThe phone lines were cut... What ever shall we do...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒAi
-ã€ŒWhat should we do now...ã€
-ï¼ƒProtagonist
-ã€ŒGood question...ã€
-ï¼ƒBenio
-ã€ŒCutting the phone lines was likely to sever our contact with the outside world. This doesn't look like it's over yet...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒShion
-ã€ŒThe phone won't connect... I've never used it, so I don't really understand...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒIf the phone lines were cut along with the suspension bridge... it would be difficult for an amateur to restore them...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒThe phone lines were cut at the suspension bridge. It was probably the same person.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒMikanagi
-ã€ŒWe can't even call the police if the phones don't work... It'll be a problem if anything else happens...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒAkane
-ã€ŒWhat are we going to do...ã€
-ï¼ƒProtagonist
-ã€ŒI don't know...ã€
-ï¼ƒNarumi
-ã€Œ...If they cut the phone lines, we can't report this to the police. We're completely isolated now.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
+”Souko
+uIf they were cut deliberately... then it must be the killer's work.v
+”Protagonist
+uMost likely...v
+”Maya
+uThe phone lines were cut... What ever shall we do...v
+”Protagonist
+uYeah...v
+”Ai
+uWhat should we do now...v
+”Protagonist
+uGood question...v
+”Benio
+uCutting the phone lines was likely to sever our contact with the outside world. This doesn't look like it's over yet...v
+”Protagonist
+uYeah...v
+”Shion
+uThe phone won't connect... I've never used it, so I don't really understand...v
+”Protagonist
+uI see...v
+”Tsujimura
+uIf the phone lines were cut along with the suspension bridge... it would be difficult for an amateur to restore them...v
+”Protagonist
+uRight...v
+”Takamine
+uThe phone lines were cut at the suspension bridge. It was probably the same person.v
+”Protagonist
+uRight.v
+”Mikanagi
+uWe can't even call the police if the phones don't work... It'll be a problem if anything else happens...v
+”Protagonist
+uYeah...v
+”Akane
+uWhat are we going to do...v
+”Protagonist
+uI don't know...v
+”Narumi
+u...If they cut the phone lines, we can't report this to the police. We're completely isolated now.v
+”Protagonist
+uYeah...v

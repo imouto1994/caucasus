@@ -1,50 +1,50 @@
-ï¼ƒProtagonist
-ã€ŒHello, Dr. Mikanagi.ã€
+”Protagonist
+uHello, Dr. Mikanagi.v
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒAh, just in time.ã€
-ï¼ƒProtagonist
-ã€ŒEh, what is it?ã€
-ï¼ƒMikanagi
-ã€ŒI seem to have left my medical bag in my room. Would you mind going to fetch it for me?ã€
-ï¼ƒProtagonist
-ã€ŒSure, I don't mind, but...ã€
-ï¼ƒMikanagi
-ã€ŒHere, this is the key to my room. Iâ€™m counting on you.ã€
+”Mikanagi
+uAh, just in time.v
+”Protagonist
+uEh, what is it?v
+”Mikanagi
+uI seem to have left my medical bag in my room. Would you mind going to fetch it for me?v
+”Protagonist
+uSure, I don't mind, but...v
+”Mikanagi
+uHere, this is the key to my room. Ifm counting on you.v
 With that, Dr. Mikanagi turned his gaze back to the documents on his desk.
 It doesn't look like I'll be able to talk to him now. I'll take care of what he asked and then come back.
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒDid you bring the bag for me?ã€
-ï¼ƒProtagonist
-ã€ŒAh...ã€
+”Mikanagi
+uDid you bring the bag for me?v
+”Protagonist
+uAh...v
 I completely forgot.
-ï¼ƒMikanagi
-ã€ŒCould it be you didn't know which room was mine?ã€
-ï¼ƒProtagonist
-ã€ŒNo, it's not that...ã€
-Itâ€™s right next to mine, after all.
-ï¼ƒProtagonist
-ã€ŒI-I'll go get it right away.ã€
+”Mikanagi
+uCould it be you didn't know which room was mine?v
+”Protagonist
+uNo, it's not that...v
+Itfs right next to mine, after all.
+”Protagonist
+uI-I'll go get it right away.v
 I hurried out of the infirmary as if I were making an escape.
-ï¼ƒProtagonist
-ã€ŒHere, this is it, right?ã€
-I held out the bag Iâ€™d brought from Dr. Mikanagi's room.
-ï¼ƒMikanagi
-ã€ŒThank you, you've been a great help.ã€
+”Protagonist
+uHere, this is it, right?v
+I held out the bag Ifd brought from Dr. Mikanagi's room.
+”Mikanagi
+uThank you, you've been a great help.v
 Dr. Mikanagi took several documents out of the bag.
-ï¼ƒProtagonist
-ã€ŒUm... do you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, I don't mind.ã€
+”Protagonist
+uUm... do you have a moment?v
+”Mikanagi
+uYes, I don't mind.v
 Now, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒOh, what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, go ahead.ã€
+”Mikanagi
+uOh, what is it this time?v
+”Protagonist
+uDo you have a moment?v
+”Mikanagi
+uYes, go ahead.v
 Now, what should I do?

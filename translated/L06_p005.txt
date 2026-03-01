@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒShion-san, huh... She could have moved freely while we were down in the basement, I suppose...ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒMaya
-ã€ŒI believe Shion was in her room, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒShion would have no reason to kill my sister. Besides, I was with her during the blackout.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒWhen all the lights went out at once, I thought it was strange and went to the office. Lady Benio was there, and that's when I learned about the power failure...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI believe Lady Shion was with Lady Benio...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒShion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒMikanagi
-ã€ŒI don't know what Shion-san was doing during the blackout... I didn't run into her.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI believe Lady Shion was in the office with Lady Benio... though probably not the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒLady Shion? I saw her in the hall with Lady Benio.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uShion-san, huh... She could have moved freely while we were down in the basement, I suppose...v
+”Protagonist
+u...True.v
+”Maya
+uI believe Shion was in her room, but...v
+”Protagonist
+uI see...v
+”Benio
+uShion would have no reason to kill my sister. Besides, I was with her during the blackout.v
+”Protagonist
+uI see...v
+”Shion
+uWhen all the lights went out at once, I thought it was strange and went to the office. Lady Benio was there, and that's when I learned about the power failure...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI believe Lady Shion was with Lady Benio...v
+”Protagonist
+uI see...v
+”Takamine
+uShion-kun was in her room the whole time, wasn't she? You should probably ask Tsujimura-san about that.v
+”Protagonist
+uRight.v
+”Mikanagi
+uI don't know what Shion-san was doing during the blackout... I didn't run into her.v
+”Protagonist
+uI see...v
+”Akane
+uI believe Lady Shion was in the office with Lady Benio... though probably not the whole time.v
+”Protagonist
+uI see...v
+”Narumi
+uLady Shion? I saw her in the hall with Lady Benio.v
+”Protagonist
+uI see...v

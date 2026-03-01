@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒMikanagi-sensei seems quite exhausted as well... though I suppose that's only natural...ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
-ï¼ƒMaya
-ã€ŒMikanagi-sensei seems to be tired as well... I don't wish to burden him further.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...If Mikanagi-sensei weren't in this house right now... it's a terrifying thought.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒBenio
-ã€ŒHiroshi seems quite exhausted too. He likely hasn't slept much.ã€
-ï¼ƒProtagonist
-ã€ŒYeah, probably...ã€
-ï¼ƒShion
-ã€ŒMikanagi-sensei... he also prescribes my medicine...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒIt was a blessing that Mikanagi-sensei was here. We wouldn't have known what to do on our own...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒMikanagi-sensei is usually in the infirmary. Otherwise... he's often away examining Maya-san.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€Œ...I'm predictably exhausted. I've been staying ready for whatever might happen, so I haven't slept much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒMikanagi-sensei... I wonder if he's getting any rest at all...ã€
-ï¼ƒProtagonist
-ã€ŒHard to say...ã€
-ï¼ƒNarumi
-ã€ŒMikanagi-sensei? Isn't he in the infirmary?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uMikanagi-sensei seems quite exhausted as well... though I suppose that's only natural...v
+”Protagonist
+u...Yeah.v
+”Maya
+uMikanagi-sensei seems to be tired as well... I don't wish to burden him further.v
+”Protagonist
+uI see...v
+”Ai
+u...If Mikanagi-sensei weren't in this house right now... it's a terrifying thought.v
+”Protagonist
+uYeah...v
+”Benio
+uHiroshi seems quite exhausted too. He likely hasn't slept much.v
+”Protagonist
+uYeah, probably...v
+”Shion
+uMikanagi-sensei... he also prescribes my medicine...v
+”Protagonist
+uI see...v
+”Tsujimura
+uIt was a blessing that Mikanagi-sensei was here. We wouldn't have known what to do on our own...v
+”Protagonist
+uTrue...v
+”Takamine
+uMikanagi-sensei is usually in the infirmary. Otherwise... he's often away examining Maya-san.v
+”Protagonist
+uI see.v
+”Mikanagi
+u...I'm predictably exhausted. I've been staying ready for whatever might happen, so I haven't slept much.v
+”Protagonist
+uI see...v
+”Akane
+uMikanagi-sensei... I wonder if he's getting any rest at all...v
+”Protagonist
+uHard to say...v
+”Narumi
+uMikanagi-sensei? Isn't he in the infirmary?v
+”Protagonist
+uI see...v

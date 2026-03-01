@@ -1,56 +1,56 @@
-ï¼ƒSouko
-ã€ŒAs I thought, Shion-san was targeted too... but it didn't end in murder... something's fishy.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒSouko
-ã€Œ...There's a very real possibility Shion-san will be targeted next. She needs to be careful...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒTo think Shion would be targeted as well...ã€
-ï¼ƒProtagonist
-ã€ŒHer life isn't in danger, so don't worry.ã€
-ï¼ƒMaya
-ã€ŒShion is still safe, isn't she...?ã€
-ï¼ƒProtagonist
-ã€ŒYes... no need to worry.ã€
-ï¼ƒAi
-ã€ŒWhy Shion too... why...?ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know that yet.ã€
-ï¼ƒAi
-ã€ŒI'm glad I was the one targeted... if it had been Shion...ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€Œ...I understand that Shion could be targeted. However... something feels off...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒShion, huh... she likely feels some sense of debt for being an adopted child. Thatâ€™s why she never complains about her situation...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒSo even Lady Shion is not safe...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTsujimura
-ã€Œ...Lady Shion seems quite despondent...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...Shion-kun is safe, I assume?ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah...ã€
-ï¼ƒTakamine
-ã€ŒIt seems Shion-kun has returned to her room. Itâ€™s best for her to stay put for now.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMikanagi
-ã€Œ...It was my mistake for not properly checking the medicine. If I had verified it this morning, this could have been avoided...ã€
-ï¼ƒProtagonist
-ã€ŒPerhaps...ã€
-ï¼ƒMikanagi
-ã€ŒI expect Shion-san is in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uAs I thought, Shion-san was targeted too... but it didn't end in murder... something's fishy.v
+”Protagonist
+uI see...v
+”Souko
+u...There's a very real possibility Shion-san will be targeted next. She needs to be careful...v
+”Protagonist
+uRight...v
+”Maya
+uTo think Shion would be targeted as well...v
+”Protagonist
+uHer life isn't in danger, so don't worry.v
+”Maya
+uShion is still safe, isn't she...?v
+”Protagonist
+uYes... no need to worry.v
+”Ai
+uWhy Shion too... why...?v
+”Protagonist
+u...We don't know that yet.v
+”Ai
+uI'm glad I was the one targeted... if it had been Shion...v
+”Protagonist
+uAi-san...v
+”Benio
+u...I understand that Shion could be targeted. However... something feels off...v
+”Protagonist
+uI see...v
+”Benio
+uShion, huh... she likely feels some sense of debt for being an adopted child. Thatfs why she never complains about her situation...v
+”Protagonist
+uI see...v
+”Tsujimura
+uSo even Lady Shion is not safe...v
+”Protagonist
+uRight...v
+”Tsujimura
+u...Lady Shion seems quite despondent...v
+”Protagonist
+uI see...v
+”Takamine
+u...Shion-kun is safe, I assume?v
+”Protagonist
+uY-Yeah...v
+”Takamine
+uIt seems Shion-kun has returned to her room. Itfs best for her to stay put for now.v
+”Protagonist
+uRight...v
+”Mikanagi
+u...It was my mistake for not properly checking the medicine. If I had verified it this morning, this could have been avoided...v
+”Protagonist
+uPerhaps...v
+”Mikanagi
+uI expect Shion-san is in her room.v
+”Protagonist
+uI see.v

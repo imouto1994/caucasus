@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€ŒDr. Mikanagi seems quite exhausted too... though I suppose it's to be expected...ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
-ï¼ƒMaya
-ã€ŒDr. Mikanagi prescribed me some medicine this morning... I feel much better thanks to him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...The thought of Dr. Mikanagi not being in this house right now... it's terrifying.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒHiroshi seems quite exhausted. He likely hasn't slept much.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTsujimura
-ã€ŒHaving Dr. Mikanagi here was a help. We wouldn't know what to do ourselves...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒDr. Mikanagi is usually in the infirmary. Other than that... he's often off performing checkups for Maya-san.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€Œ...I'm truly exhausted. I haven't slept much, wanting to be ready for whatever might happen.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uDr. Mikanagi seems quite exhausted too... though I suppose it's to be expected...v
+”Protagonist
+u...Right.v
+”Maya
+uDr. Mikanagi prescribed me some medicine this morning... I feel much better thanks to him.v
+”Protagonist
+uI see...v
+”Ai
+u...The thought of Dr. Mikanagi not being in this house right now... it's terrifying.v
+”Protagonist
+uRight...v
+”Benio
+uHiroshi seems quite exhausted. He likely hasn't slept much.v
+”Protagonist
+uRight...v
+”Tsujimura
+uHaving Dr. Mikanagi here was a help. We wouldn't know what to do ourselves...v
+”Protagonist
+uRight...v
+”Takamine
+uDr. Mikanagi is usually in the infirmary. Other than that... he's often off performing checkups for Maya-san.v
+”Protagonist
+uI see.v
+”Mikanagi
+u...I'm truly exhausted. I haven't slept much, wanting to be ready for whatever might happen.v
+”Protagonist
+uI see...v

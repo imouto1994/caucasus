@@ -1,188 +1,188 @@
 We passed through the door and returned to the entrance hall from earlier.
-ï¼ƒBenio
-ã€ŒThis is the main hall and entrance. These stairs are the only way to reach the second floor.ã€
-ï¼ƒProtagonist
-ã€ŒIt really is spacious...ã€
+”Benio
+uThis is the main hall and entrance. These stairs are the only way to reach the second floor.v
+”Protagonist
+uIt really is spacious...v
 I let out my honest impression of the place.
-ï¼ƒBenio
-ã€ŒI feel the same way, even living here. Just cleaning my own room is quite a chore.ã€
-With that, Benio-san opened the door on the opposite side of the one we had just come throughâ€”the right side when facing the entrance.
-ï¼ƒBenio
-ã€ŒOver here we have the servants' quarters and the dining room. The two on the right are the servants' rooms, while on the left, the first door is the restroom, the one behind it is the kitchen, and at the end is the grand dining hall.ã€
+”Benio
+uI feel the same way, even living here. Just cleaning my own room is quite a chore.v
+With that, Benio-san opened the door on the opposite side of the one we had just come through?the right side when facing the entrance.
+”Benio
+uOver here we have the servants' quarters and the dining room. The two on the right are the servants' rooms, while on the left, the first door is the restroom, the one behind it is the kitchen, and at the end is the grand dining hall.v
 Benio-san explained each room as we walked along.
-ï¼ƒBenio
-ã€ŒWe have two servants on staff, so please don't hesitate to ask if you need anything.ã€
-ï¼ƒProtagonist
-ã€ŒO-oh, alright...ã€
-Iâ€™ve never lived a life with servants before, so I wasn't quite sure how to handle that.
+”Benio
+uWe have two servants on staff, so please don't hesitate to ask if you need anything.v
+”Protagonist
+uO-oh, alright...v
+Ifve never lived a life with servants before, so I wasn't quite sure how to handle that.
 Just then, a small black mass came tumbling down the hallway toward us.
-ï¼ƒProtagonist
-ã€ŒWait, is that a cat...?ã€
+”Protagonist
+uWait, is that a cat...?v
 It was a black cat.
 Its eyes were two different colors.
 It seemed to be carrying something in its mouth.
-ï¼ƒBenio
-ã€ŒAh, Love!ã€
+”Benio
+uAh, Love!v
 Benio-san cried out.
-ï¼ƒ???
-ã€ŒHey, wait! Aiko!ã€
+”???
+uHey, wait! Aiko!v
 A woman came rushing out from the kitchen entrance.
-ï¼ƒBenio
-ã€ŒAh... Akane-san?ã€
-ï¼ƒ???
-ã€ŒBenio-ojousama, please catch Aiko! She swiped the dried sardines I was going to use for the broth again!ã€
-ï¼ƒBenio
-ã€ŒI keep telling you her name is Love... honestly.ã€
+”Benio
+uAh... Akane-san?v
+”???
+uBenio-ojousama, please catch Aiko! She swiped the dried sardines I was going to use for the broth again!v
+”Benio
+uI keep telling you her name is Love... honestly.v
 Just as Benio-san muttered that and started to crouch down...
 The woman called Akane-san tripped on the carpet and stumbled.
-ï¼ƒ???
-ã€ŒHya, waah!?ã€
-ï¼ƒProtagonist
-ã€ŒLook out!ã€
+”???
+uHya, waah!?v
+”Protagonist
+uLook out!v
 [Help the woman]
 [Protect Benio-san]
 I instinctively reached out and caught the woman as she was about to fall.
-ï¼ƒ???
-ã€ŒKyah!ã€
-ï¼ƒProtagonist
-ã€ŒA-are you alright?ã€
+”???
+uKyah!v
+”Protagonist
+uA-are you alright?v
 I managed to support her as we tumbled together...
-ï¼ƒ???
-ã€ŒEh... A-ah... thank... you very much.ã€
+”???
+uEh... A-ah... thank... you very much.v
 The woman addressed as Akane-san murmured in a small voice, her face turning bright red.
 I instinctively threw myself over Benio-san, who was crouching on the floor.
-ï¼ƒBenio
-ã€ŒKyah!?ã€
-ï¼ƒ???
-ã€ŒKyah!ã€
+”Benio
+uKyah!?v
+”???
+uKyah!v
 The woman crashed into my back.
 The impact pushed my body against Benio-san...
-ï¼ƒBenio
-ã€ŒYou're in the way!ã€
+”Benio
+uYou're in the way!v
 She shoved me off with surprising force.
-ï¼ƒSouko
-ã€Œ...What on earth are you doing?ã€
+”Souko
+u...What on earth are you doing?v
 Souko-san offered me a hand with a look of sheer disbelief on her face.
-ï¼ƒProtagonist
-ã€ŒN-no... I was just trying to help.ã€
-ï¼ƒSouko
-ã€Œ...I know you like girls, but really.ã€
-ï¼ƒProtagonist
-ã€ŒT-That's a misunderstanding!ã€
-ï¼ƒSouko
-ã€ŒSo, you hate them then?ã€
-ï¼ƒProtagonist
-ã€ŒHow did you even reach that conclusion...ã€
-ï¼ƒBenio
-ã€ŒAkane-san, please watch your step.ã€
+”Protagonist
+uN-no... I was just trying to help.v
+”Souko
+u...I know you like girls, but really.v
+”Protagonist
+uT-That's a misunderstanding!v
+”Souko
+uSo, you hate them then?v
+”Protagonist
+uHow did you even reach that conclusion...v
+”Benio
+uAkane-san, please watch your step.v
 Benio-san let out an exasperated sigh.
-ï¼ƒ???
-ã€ŒU-um, I'm so sorry...ã€
-ï¼ƒBenio
-ã€ŒIt's just a few sardines, isn't it? Love gets hungry too, after all.ã€
-ï¼ƒ???
-ã€ŒBut still...ã€
-ï¼ƒBenio
-ã€ŒAnd besides, you seem to have something on the corner of your mouth.ã€
-ï¼ƒ???
-ã€ŒEh...!?ã€
+”???
+uU-um, I'm so sorry...v
+”Benio
+uIt's just a few sardines, isn't it? Love gets hungry too, after all.v
+”???
+uBut still...v
+”Benio
+uAnd besides, you seem to have something on the corner of your mouth.v
+”???
+uEh...!?v
 There was indeed something that looked like whipped cream on her lip.
-ï¼ƒ???
-ã€ŒU-um, this is just... I was only doing a little taste-testing.ã€
-ï¼ƒBenio
-ã€ŒI thought the cooking was Narumi-san's job?ã€
-ï¼ƒ???
-ã€ŒW-well, yes, it is, but...ã€
+”???
+uU-um, this is just... I was only doing a little taste-testing.v
+”Benio
+uI thought the cooking was Narumi-san's job?v
+”???
+uW-well, yes, it is, but...v
 While the woman continued to offer her fumbling excuses, Benio-san turned to us and bowed.
-ï¼ƒBenio
-ã€ŒI'm terribly sorry. Our servant can be a bit clumsy. Akane-san, introduce yourself.ã€
-ï¼ƒ???
-ã€ŒUm, I'm very sorry. My name is Akane Hiyama, and I serve as a maid for this house.ã€
-ï¼ƒProtagonist
-ã€ŒAh, I'm (NAME01) (NAME02).ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara. Nice to meet you.ã€
-ï¼ƒAkane
-ã€ŒU-um, I'm truly sorry for what happened!ã€
+”Benio
+uI'm terribly sorry. Our servant can be a bit clumsy. Akane-san, introduce yourself.v
+”???
+uUm, I'm very sorry. My name is Akane Hiyama, and I serve as a maid for this house.v
+”Protagonist
+uAh, I'm (NAME01) (NAME02).v
+”Souko
+uI'm Souko Kirihara. Nice to meet you.v
+”Akane
+uU-um, I'm truly sorry for what happened!v
 She bowed so deeply that it made me feel a bit awkward.
-ï¼ƒProtagonist
-ã€ŒNo, really, don't worry about it.ã€
-ï¼ƒSouko
-ã€ŒYou certainly got a nice bonus out of it, didn't you?ã€
-ï¼ƒProtagonist
-ã€ŒIt wasn't like that at all.ã€
-ï¼ƒ???
-ã€ŒWhat's all the racket?ã€
+”Protagonist
+uNo, really, don't worry about it.v
+”Souko
+uYou certainly got a nice bonus out of it, didn't you?v
+”Protagonist
+uIt wasn't like that at all.v
+”???
+uWhat's all the racket?v
 Another woman poked her head out from the kitchen.
-ï¼ƒAkane
-ã€ŒI-it's nothing, Narumi-san!ã€
+”Akane
+uI-it's nothing, Narumi-san!v
 Akane-san rushed over to the woman.
-ï¼ƒBenio
-ã€ŒNarumi-san, these people are our new guests.ã€
-ï¼ƒ???
-ã€ŒOh.ã€
-ï¼ƒProtagonist
-ã€ŒUm, my name is (NAME01) (NAME02).ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara.ã€
-ï¼ƒ???
-ã€ŒI'm Narumi Minakami. Nice to meet ya.ã€
+”Benio
+uNarumi-san, these people are our new guests.v
+”???
+uOh.v
+”Protagonist
+uUm, my name is (NAME01) (NAME02).v
+”Souko
+uI'm Souko Kirihara.v
+”???
+uI'm Narumi Minakami. Nice to meet ya.v
 After the introductions were finished, Benio-san spoke to Narumi-san.
-ï¼ƒBenio
-ã€ŒNow then, please prepare some extra food for dinner.ã€
-ï¼ƒNarumi
-ã€ŒEeeh? Starting now?ã€
+”Benio
+uNow then, please prepare some extra food for dinner.v
+”Narumi
+uEeeh? Starting now?v
 Narumi-san let out a blatantly annoyed groan.
-ï¼ƒBenio
-ã€ŒOf course. We can hardly fail to serve our guests a proper meal.ã€
-ï¼ƒNarumi
-ã€ŒWell, yeah, I guess... but it's such a pain.ã€
+”Benio
+uOf course. We can hardly fail to serve our guests a proper meal.v
+”Narumi
+uWell, yeah, I guess... but it's such a pain.v
 ...I wondered if it was really okay to say something like that to your employer.
-ï¼ƒBenio
-ã€ŒI'm counting on you.ã€
+”Benio
+uI'm counting on you.v
 ...Since Benio-san didn't seem to mind, I suppose this was a common occurrence here.
-ï¼ƒNarumi
-ã€ŒFine, fine. So, is there anything you guests can't eat?ã€
-ï¼ƒSouko
-ã€ŒNothing in particular for me.ã€
-ï¼ƒProtagonist
-ã€ŒI...ã€
+”Narumi
+uFine, fine. So, is there anything you guests can't eat?v
+”Souko
+uNothing in particular for me.v
+”Protagonist
+uI...v
 [Nothing in particular]
 [I can't stand baran]
-ï¼ƒProtagonist
-ã€ŒI don't have any specific dislikes.ã€
-ï¼ƒNarumi
-ã€ŒGot it. Then maybe some shaved ice would be fine? We can just use the snow from outside.ã€
+”Protagonist
+uI don't have any specific dislikes.v
+”Narumi
+uGot it. Then maybe some shaved ice would be fine? We can just use the snow from outside.v
 Narumi-san said something outrageous with a straight face.
-ï¼ƒAkane
-ã€ŒNarumi-san!ã€
-ï¼ƒNarumi
-ã€ŒI'm just kidding.ã€
-ï¼ƒProtagonist
-ã€ŒI just can't stand baran, no matter what.ã€
-ï¼ƒNarumi
-ã€ŒOh? Then I'll make sure to put plenty in for you. ...Wait, what's baran again?ã€
-ï¼ƒProtagonist
-ã€ŒIt's those plastic leaves they use as decoration for sushi.ã€
-ï¼ƒNarumi
-ã€ŒAh, right. ...Wait, that's not even food, is it!?ã€
-ï¼ƒProtagonist
-ã€ŒThat's why I said I can't eat it.ã€
-ï¼ƒNarumi
-ã€ŒUgh, you're kind of annoying...ã€
-ï¼ƒAkane
-ã€ŒNarumi-san, please calm down.ã€
-ï¼ƒSouko
-ã€ŒHonestly, this isn't the time or place for teasing people.ã€
+”Akane
+uNarumi-san!v
+”Narumi
+uI'm just kidding.v
+”Protagonist
+uI just can't stand baran, no matter what.v
+”Narumi
+uOh? Then I'll make sure to put plenty in for you. ...Wait, what's baran again?v
+”Protagonist
+uIt's those plastic leaves they use as decoration for sushi.v
+”Narumi
+uAh, right. ...Wait, that's not even food, is it!?v
+”Protagonist
+uThat's why I said I can't eat it.v
+”Narumi
+uUgh, you're kind of annoying...v
+”Akane
+uNarumi-san, please calm down.v
+”Souko
+uHonestly, this isn't the time or place for teasing people.v
 Souko-san gave my head a playful nudge.
-ï¼ƒBenio
-ã€ŒNarumi-san prepares all the meals for this household.ã€
-ï¼ƒProtagonist
-ã€ŒOh, so she's not a professional chef?ã€
-ï¼ƒNarumi
-ã€ŒNothing fancy like that. I'm just doing it because I don't have any other useful skills.ã€
-ï¼ƒBenio
-ã€ŒYou should follow Akane-san's example and learn how to handle other chores as well.ã€
-ï¼ƒNarumi
-ã€ŒSuuure.ã€
+”Benio
+uNarumi-san prepares all the meals for this household.v
+”Protagonist
+uOh, so she's not a professional chef?v
+”Narumi
+uNothing fancy like that. I'm just doing it because I don't have any other useful skills.v
+”Benio
+uYou should follow Akane-san's example and learn how to handle other chores as well.v
+”Narumi
+uSuuure.v
 ...That was an incredibly half-hearted response.

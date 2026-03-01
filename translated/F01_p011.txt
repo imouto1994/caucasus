@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒRokuyou-san? He's a handsome man. He doesn't exactly feel like a man of the sea, though.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒIsamu-san? I believe he is an impeccable match for Shion.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒIsamu-san? As a partner for Shion, he's perfect, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒMr. Rokuyou? He has been visiting us since long ago. I believe he was particularly close with my elder sister...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒMr. Rokuyou is from a branch of the Nanatsuki family. Apparently, the marriage was decided a long time ago.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒRokuyou
-ã€ŒAbout me? I'm not very good at talking about myself.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒRokuyou-kun? I've heard he's a serious and hardworking man.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒAbout Isamu? He can be a bit too serious at times. Actually, he's terrible at talking to girls, so I used to tease him about it all the time.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒMr. Rokuyou... um, I believe he's in his room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒMr. Rokuyou? Hmm... honestly, I don't know him that well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uRokuyou-san? He's a handsome man. He doesn't exactly feel like a man of the sea, though.v
+”Protagonist
+uI see...v
+”Maya
+uIsamu-san? I believe he is an impeccable match for Shion.v
+”Protagonist
+uI see.v
+”Ai
+uIsamu-san? As a partner for Shion, he's perfect, but...v
+”Protagonist
+uI see...v
+”Benio
+uMr. Rokuyou? He has been visiting us since long ago. I believe he was particularly close with my elder sister...v
+”Protagonist
+uI see.v
+”Tsujimura
+uMr. Rokuyou is from a branch of the Nanatsuki family. Apparently, the marriage was decided a long time ago.v
+”Protagonist
+uI see.v
+”Rokuyou
+uAbout me? I'm not very good at talking about myself.v
+”Protagonist
+uI see...v
+”Takamine
+uRokuyou-kun? I've heard he's a serious and hardworking man.v
+”Protagonist
+uI see.v
+”Mikanagi
+uAbout Isamu? He can be a bit too serious at times. Actually, he's terrible at talking to girls, so I used to tease him about it all the time.v
+”Protagonist
+uI see.v
+”Akane
+uMr. Rokuyou... um, I believe he's in his room.v
+”Protagonist
+uI see.v
+”Narumi
+uMr. Rokuyou? Hmm... honestly, I don't know him that well.v
+”Protagonist
+uI see...v

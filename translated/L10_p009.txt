@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€Œ...If Akane-san has hidden herself away for some reason... we should probably be careful.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€Œ...I wonder where on earth she could have gone... I'm so worried.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒAi
-ã€Œ...Could Akane-san have really been the one to attack Benio...!?ã€
-ï¼ƒProtagonist
-ã€ŒNo, nothing has been decided yet, so please, calm down...ã€
-ï¼ƒShion
-ã€Œ...I wonder where on earth she could have gone...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€ŒSince when exactly has she been missing...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒThere's a possibility that she, whose whereabouts are unknown, attacked Benio-kun... We can't afford to be careless.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so, but...ã€
-ï¼ƒNarumi
-ã€ŒAkane... what could have happened to her...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+u...If Akane-san has hidden herself away for some reason... we should probably be careful.v
+”Protagonist
+uTrue...v
+”Maya
+u...I wonder where on earth she could have gone... I'm so worried.v
+”Protagonist
+uTrue...v
+”Ai
+u...Could Akane-san have really been the one to attack Benio...!?v
+”Protagonist
+uNo, nothing has been decided yet, so please, calm down...v
+”Shion
+u...I wonder where on earth she could have gone...v
+”Protagonist
+uTrue...v
+”Tsujimura
+uSince when exactly has she been missing...?v
+”Protagonist
+uTrue...v
+”Takamine
+uThere's a possibility that she, whose whereabouts are unknown, attacked Benio-kun... We can't afford to be careless.v
+”Protagonist
+uMaybe so, but...v
+”Narumi
+uAkane... what could have happened to her...?v
+”Protagonist
+uTrue...v

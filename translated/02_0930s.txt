@@ -1,94 +1,94 @@
-ï¼ƒProtagonist
-ã€ŒItâ€™s quite a blizzard outside...ã€
-ï¼ƒSouko
-ã€ŒIt is... even the windows are frozen shut.ã€
-ï¼ƒProtagonist
-ã€ŒI thought we might be able to see Shion-sanâ€™s tower from here... but I can't see a thing.ã€
+”Protagonist
+uItfs quite a blizzard outside...v
+”Souko
+uIt is... even the windows are frozen shut.v
+”Protagonist
+uI thought we might be able to see Shion-sanfs tower from here... but I can't see a thing.v
 The window was covered in a thick layer of snow and ice.
-ï¼ƒSouko
-ã€ŒThe room is freezing, after all. The condensation must have frozen solid.ã€
+”Souko
+uThe room is freezing, after all. The condensation must have frozen solid.v
 The window is frozen shut and won't budge.
 There are paintings decorating this room as well.
-Thereâ€™s no need to pay them any special mind right now.
-Itâ€™s irrelevant for the moment.
-ï¼ƒProtagonist
-ã€ŒDoes this door... lead to Tsujimura-sanâ€™s room?ã€
-ï¼ƒSouko
-ã€ŒIt seems so... and itâ€™s locked tight.ã€
-ï¼ƒMikanagi
-ã€ŒThat door can only be locked from this side.ã€
-ï¼ƒProtagonist
-ã€ŒIs that right?ã€
-ï¼ƒSouko
-ã€ŒWestern-style mansions like this often have doors that allow you to move directly between rooms. Your room had one too, didn't it? The layout there is identical to this one.ã€
-ï¼ƒProtagonist
-ã€Œ...So that means if itâ€™s locked, no one can enter from Tsujimura-sanâ€™s side?ã€
-ï¼ƒMikanagi
-ã€ŒThatâ€™s how it works. Conversely, if the culprit left through this door, there would be no way for them to lock it behind them.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-The door leading to Tsujimura-sanâ€™s room is securely locked.
-ï¼ƒProtagonist
-ã€ŒInside the wardrobe... just some spare clothes.ã€
-ï¼ƒSouko
-ã€ŒIt doesn't look like it was rummaged through.ã€
+Therefs no need to pay them any special mind right now.
+Itfs irrelevant for the moment.
+”Protagonist
+uDoes this door... lead to Tsujimura-sanfs room?v
+”Souko
+uIt seems so... and itfs locked tight.v
+”Mikanagi
+uThat door can only be locked from this side.v
+”Protagonist
+uIs that right?v
+”Souko
+uWestern-style mansions like this often have doors that allow you to move directly between rooms. Your room had one too, didn't it? The layout there is identical to this one.v
+”Protagonist
+u...So that means if itfs locked, no one can enter from Tsujimura-sanfs side?v
+”Mikanagi
+uThatfs how it works. Conversely, if the culprit left through this door, there would be no way for them to lock it behind them.v
+”Protagonist
+uI see...v
+The door leading to Tsujimura-sanfs room is securely locked.
+”Protagonist
+uInside the wardrobe... just some spare clothes.v
+”Souko
+uIt doesn't look like it was rummaged through.v
 There are no signs that the wardrobe was disturbed.
-ï¼ƒProtagonist
-ã€ŒThis is Rokuyou-sanâ€™s bag.ã€
-ï¼ƒSouko
-ã€ŒYeah... at a glance, it doesn't look like itâ€™s been touched, but...ã€
-ï¼ƒProtagonist
-ã€ŒThat rules out robbery, then.ã€
-There are no signs that Rokuyou-sanâ€™s bag was tampered with.
-ï¼ƒProtagonist
-ã€ŒNo wonder itâ€™s so cold, the fire is out...ã€
-ï¼ƒMikanagi
-ã€ŒI hate to say it's for the best, but... itâ€™s slowed the rate of decomposition.ã€
-ï¼ƒSouko
-ã€Œ...It looks like it went out a while ago. It was likely already out by the time the murder occurred.ã€
+”Protagonist
+uThis is Rokuyou-sanfs bag.v
+”Souko
+uYeah... at a glance, it doesn't look like itfs been touched, but...v
+”Protagonist
+uThat rules out robbery, then.v
+There are no signs that Rokuyou-sanfs bag was tampered with.
+”Protagonist
+uNo wonder itfs so cold, the fire is out...v
+”Mikanagi
+uI hate to say it's for the best, but... itfs slowed the rate of decomposition.v
+”Souko
+u...It looks like it went out a while ago. It was likely already out by the time the murder occurred.v
 The fire in the fireplace seems to have gone out during the night.
-ï¼ƒProtagonist
-ã€ŒThe head... where could it have gone...?ã€
-ï¼ƒSouko
-ã€Œ...It was certainly taken out of this room.ã€
-ï¼ƒMikanagi
-ã€ŒHowever... there are no bloodstains on the floor. Perhaps it was wrapped in something...?ã€
-Rokuyou-sanâ€™s head... where could it be...?
-ï¼ƒProtagonist
-ã€Œ...This must be the murder weapon.ã€
-ï¼ƒSouko
-ã€ŒIt certainly looks that way... though itâ€™s hard to say if it was the direct cause of death.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒSouko
-ã€ŒBecause the head is missing. For all we know, he could have been shot in the head with a gun.ã€
-ï¼ƒMikanagi
-ã€Œ...If that were the case, the culprit might have severed the head to hide the gunshot wound.ã€
-ï¼ƒSouko
-ã€ŒWell, the gun thing is just a guess. If someone had been shot, the noise would have alerted everyone.ã€
-ï¼ƒProtagonist
-ã€ŒThatâ€™s true...ã€
+”Protagonist
+uThe head... where could it have gone...?v
+”Souko
+u...It was certainly taken out of this room.v
+”Mikanagi
+uHowever... there are no bloodstains on the floor. Perhaps it was wrapped in something...?v
+Rokuyou-sanfs head... where could it be...?
+”Protagonist
+u...This must be the murder weapon.v
+”Souko
+uIt certainly looks that way... though itfs hard to say if it was the direct cause of death.v
+”Protagonist
+uIs that so?v
+”Souko
+uBecause the head is missing. For all we know, he could have been shot in the head with a gun.v
+”Mikanagi
+u...If that were the case, the culprit might have severed the head to hide the gunshot wound.v
+”Souko
+uWell, the gun thing is just a guess. If someone had been shot, the noise would have alerted everyone.v
+”Protagonist
+uThatfs true...v
 It seems this axe is indeed the murder weapon.
-ï¼ƒProtagonist
-ã€ŒThis pillow... the axe is buried deep inside it.ã€
-ï¼ƒSouko
-ã€ŒFeathers are everywhere... but thereâ€™s hardly any blood spray.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Protagonist
+uThis pillow... the axe is buried deep inside it.v
+”Souko
+uFeathers are everywhere... but therefs hardly any blood spray.v
+”Protagonist
+uYou're right...v
 An axe is embedded in the pillow.
-ï¼ƒProtagonist
-ã€ŒWait... Souko-san, is there something sticking out of his trouser pocket?ã€
-ï¼ƒSouko
-ã€ŒThe pocket... looks like a key.ã€
-ï¼ƒProtagonist
-ã€ŒIt seems to be the key to this room.ã€
+”Protagonist
+uWait... Souko-san, is there something sticking out of his trouser pocket?v
+”Souko
+uThe pocket... looks like a key.v
+”Protagonist
+uIt seems to be the key to this room.v
 The room key was inside the pocket of his trousers.
-ï¼ƒProtagonist
-ã€ŒWhat about this flower...?ã€
-ï¼ƒSouko
-ã€ŒA snowdrop. They were arranged in the hall... but the fact that only the flower head has fallen, is it some kind of metaphor for the headless corpse...?ã€
-ï¼ƒMikanagi
-ã€Œ...If so, itâ€™s in incredibly poor taste.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
+”Protagonist
+uWhat about this flower...?v
+”Souko
+uA snowdrop. They were arranged in the hall... but the fact that only the flower head has fallen, is it some kind of metaphor for the headless corpse...?v
+”Mikanagi
+u...If so, itfs in incredibly poor taste.v
+”Protagonist
+uYeah...v
 A snowdrop flower has fallen.

@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒTsujimura-san, huh... He could have triggered the blackout, but he's not the only one who could've done it...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒIf it's Tsujimura, I imagine he was trying to fix the blackout.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€Œ...Tsujimura has no reason to kill my sister. Besides, he was attacked by someone just before the lights went out, you know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒWhen the lights went out and I went to the office because things seemed wrong, Seiji-san was clutching his head. He said someone had struck him...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒIt was just before the blackout, I believe... I was in the hall when I was suddenly struck from behind... When I came to, I was lying near the basement stairs.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...Apparently, someone attacked Tsujimura-san before the blackout. It might have been when the killer was tampering with the generator, but...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMikanagi
-ã€ŒIt looks like Tsujimura-san sustained a minor head injury, but it doesn't seem to be anything too serious.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI heard Tsujimura-san was injured... I wonder what on earth happened...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒNarumi
-ã€ŒIt sounds like Tsujimura-san got hurt. I don't know the details, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uTsujimura-san, huh... He could have triggered the blackout, but he's not the only one who could've done it...v
+”Protagonist
+uTrue...v
+”Maya
+uIf it's Tsujimura, I imagine he was trying to fix the blackout.v
+”Protagonist
+uI see...v
+”Benio
+u...Tsujimura has no reason to kill my sister. Besides, he was attacked by someone just before the lights went out, you know.v
+”Protagonist
+uI see...v
+”Shion
+uWhen the lights went out and I went to the office because things seemed wrong, Seiji-san was clutching his head. He said someone had struck him...v
+”Protagonist
+uI see...v
+”Tsujimura
+uIt was just before the blackout, I believe... I was in the hall when I was suddenly struck from behind... When I came to, I was lying near the basement stairs.v
+”Protagonist
+uI see...v
+”Takamine
+u...Apparently, someone attacked Tsujimura-san before the blackout. It might have been when the killer was tampering with the generator, but...v
+”Protagonist
+uTrue...v
+”Mikanagi
+uIt looks like Tsujimura-san sustained a minor head injury, but it doesn't seem to be anything too serious.v
+”Protagonist
+uI see...v
+”Akane
+uI heard Tsujimura-san was injured... I wonder what on earth happened...v
+”Protagonist
+uTrue...v
+”Narumi
+uIt sounds like Tsujimura-san got hurt. I don't know the details, though...v
+”Protagonist
+uI see.v

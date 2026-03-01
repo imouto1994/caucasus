@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€Œ...Rokuyou-san was killed while Shion-san was in the chapel...ã€
-ï¼ƒProtagonist
-ã€Œ...That's how it seems.ã€
-ï¼ƒMaya
-ã€ŒAnd after we went to such trouble for the wedding...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒShion is almost always in her room in the tower. Even when she comes to the manor, she does little more than drink tea in the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒI... don't really understand what's happening... I'm sorry...ã€
-ï¼ƒProtagonist
-ã€ŒNo...ã€
-ï¼ƒTsujimura
-ã€Œ...Lady Shion seems quite despondent. It's only natural since Master Rokuyou has passed away...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒThe person she was to marry was killed; it's only natural for Shion-kun to be depressed.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMikanagi
-ã€ŒI've prescribed medicine for Shion-san to suppress her headaches. It's an herbal mix. I'm likely the only one who can prepare it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒLady Shion? She's likely in her own room or the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...Rokuyou-san was killed while Shion-san was in the chapel...v
+”Protagonist
+u...That's how it seems.v
+”Maya
+uAnd after we went to such trouble for the wedding...v
+”Protagonist
+uRight...v
+”Benio
+uShion is almost always in her room in the tower. Even when she comes to the manor, she does little more than drink tea in the office.v
+”Protagonist
+uI see...v
+”Shion
+uI... don't really understand what's happening... I'm sorry...v
+”Protagonist
+uNo...v
+”Tsujimura
+u...Lady Shion seems quite despondent. It's only natural since Master Rokuyou has passed away...v
+”Protagonist
+uI see...v
+”Takamine
+uThe person she was to marry was killed; it's only natural for Shion-kun to be depressed.v
+”Protagonist
+uRight...v
+”Mikanagi
+uI've prescribed medicine for Shion-san to suppress her headaches. It's an herbal mix. I'm likely the only one who can prepare it.v
+”Protagonist
+uI see...v
+”Narumi
+uLady Shion? She's likely in her own room or the office.v
+”Protagonist
+uI see...v

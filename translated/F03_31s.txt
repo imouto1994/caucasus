@@ -33,20 +33,20 @@ Various documents are stored here.
 I probably shouldn't look at them without permission...
 It's probably better not to touch anything.
 In the bottom drawer, I found a pretty card.
-ï¼ƒProtagonist
-ã€ŒWhat's this...?ã€
+”Protagonist
+uWhat's this...?v
 The card had the letter 'r' written on it.
 I'm a bit curious, so I'll hold onto it.
 There's another piece of paper inside.
-ã€Campaign in progress! Collect similar cards and solve the puzzle! This is what the answer section on the survey postcard was for!ã€
-ï¼ƒProtagonist
-ã€Œ...What the hell is this?ã€
+wCampaign in progress! Collect similar cards and solve the puzzle! This is what the answer section on the survey postcard was for!x
+”Protagonist
+u...What the hell is this?v
 Well, I'm a little intrigued, so I'll keep this card.
 There's another piece of paper inside.
-ã€All the cards have been collected! Now for the question... if you rearrange the letters you've found, they form a certain word.ã€
-ã€Please provide the appropriate Japanese translation of that word for this work and send in your survey postcard!ã€
-ã€Deadline is January 11, 2010, based on the postmark! 10 lucky winners will receive a small gift!ã€
-ï¼ƒProtagonist
-ã€Œ...Phew.ã€
+wAll the cards have been collected! Now for the question... if you rearrange the letters you've found, they form a certain word.x
+wPlease provide the appropriate Japanese translation of that word for this work and send in your survey postcard!x
+wDeadline is January 11, 2010, based on the postmark! 10 lucky winners will receive a small gift!x
+”Protagonist
+u...Phew.v
 I feel like I kind of get it, but also kind of don't...
 There's nothing unusual inside.

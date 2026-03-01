@@ -1,88 +1,88 @@
-ï¼ƒSouko
-ã€ŒA photo of a foreign maid in Takamine-san's room, huh... I wonder who she is.ã€
-ï¼ƒProtagonist
-ã€ŒNo idea...ã€
-ï¼ƒMaya
-ã€ŒA foreign maid? ...No, there has never been such a person here.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒA foreigner... I don't recall anyone like that being here...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒA foreign maid? No, never heard of her... Maybe she was here before I was born...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒA foreign maid... I've never heard of one...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒA foreigner... There were a few in the past, but I can't say much from just that...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLady Marino... That's a name I haven't heard in a very long time...ã€
-ï¼ƒProtagonist
-ã€ŒYou know her...?ã€
-ï¼ƒTsujimura
-ã€ŒYes... Lady Marino was the daughter of Lady Liesche, who was a friend of the Master. When Lady Liesche passed away in Japan, she entrusted her to the Master.ã€
-ï¼ƒProtagonist
-ã€Œ...And that's how she came to work here?ã€
-ï¼ƒTsujimura
-ã€ŒSince the Mistress had no children at the time, the Master intended to adopt her, but Lady Marino declined.ã€
-ï¼ƒProtagonist
-ã€ŒThat happened...? But why does Takamine-san have a photo of her...?ã€
-ï¼ƒTsujimura
-ã€ŒMaster Takamine used to stay here when he was brought along by his father... Perhaps they met back then...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMaster Takamine used to stay here when he was brought along by his father... Perhaps they met back then...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...Did you see the photo?ã€
-ï¼ƒProtagonist
-ã€ŒS-Sorry, I didn't mean to...ã€
-ï¼ƒTakamine
-ã€Œ...She is a German woman named Marino Liesche. She worked here before the war.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so... But why do you have a photo of someone like that, Takamine-san?ã€
-ï¼ƒTakamine
-ã€Œ...No need to prying.ã€
-ï¼ƒProtagonist
-ã€ŒI-I understand...ã€
-ï¼ƒTakamine
-ã€Œ...Did you hear that from Tsujimura-san?ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah... I just got curious... What kind of person was she...?ã€
-ï¼ƒTakamine
-ã€Œ...She was a woman who sang beautiful songs.ã€
-ï¼ƒProtagonist
-ã€ŒSongs...ã€
-ï¼ƒTakamine
-ã€ŒI'm told her mother was also a famous singer in Germany. It seems talent is hereditary.ã€
-ï¼ƒProtagonist
-ã€ŒWhere is she now...?ã€
-ï¼ƒTakamine
-ã€Œ...She reportedly vanished about twenty years ago. Nothing is known of her whereabouts since.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...No need for prying.ã€
-ï¼ƒProtagonist
-ã€ŒI-I understand...ã€
-ï¼ƒMikanagi
-ã€ŒA foreign maid... I've heard there was one before the war, but I don't know the details.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒOh... So there was a foreigner working here too...ã€
-ï¼ƒProtagonist
-ã€ŒMaybe...ã€
-ï¼ƒNarumi
-ã€ŒThat's the photo in the lawyer's room, right? It's from a long time ago... Doesn't look like she was a girlfriend or anything.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
+”Souko
+uA photo of a foreign maid in Takamine-san's room, huh... I wonder who she is.v
+”Protagonist
+uNo idea...v
+”Maya
+uA foreign maid? ...No, there has never been such a person here.v
+”Protagonist
+uI see...v
+”Ai
+uA foreigner... I don't recall anyone like that being here...v
+”Protagonist
+uI see...v
+”Benio
+uA foreign maid? No, never heard of her... Maybe she was here before I was born...v
+”Protagonist
+uI see...v
+”Shion
+uA foreign maid... I've never heard of one...v
+”Protagonist
+uI see...v
+”Tsujimura
+uA foreigner... There were a few in the past, but I can't say much from just that...v
+”Protagonist
+uI see...v
+”Tsujimura
+uLady Marino... That's a name I haven't heard in a very long time...v
+”Protagonist
+uYou know her...?v
+”Tsujimura
+uYes... Lady Marino was the daughter of Lady Liesche, who was a friend of the Master. When Lady Liesche passed away in Japan, she entrusted her to the Master.v
+”Protagonist
+u...And that's how she came to work here?v
+”Tsujimura
+uSince the Mistress had no children at the time, the Master intended to adopt her, but Lady Marino declined.v
+”Protagonist
+uThat happened...? But why does Takamine-san have a photo of her...?v
+”Tsujimura
+uMaster Takamine used to stay here when he was brought along by his father... Perhaps they met back then...v
+”Protagonist
+uI see...v
+”Tsujimura
+uMaster Takamine used to stay here when he was brought along by his father... Perhaps they met back then...v
+”Protagonist
+uI see...v
+”Takamine
+u...Did you see the photo?v
+”Protagonist
+uS-Sorry, I didn't mean to...v
+”Takamine
+u...She is a German woman named Marino Liesche. She worked here before the war.v
+”Protagonist
+uIs that so... But why do you have a photo of someone like that, Takamine-san?v
+”Takamine
+u...No need to prying.v
+”Protagonist
+uI-I understand...v
+”Takamine
+u...Did you hear that from Tsujimura-san?v
+”Protagonist
+uY-Yeah... I just got curious... What kind of person was she...?v
+”Takamine
+u...She was a woman who sang beautiful songs.v
+”Protagonist
+uSongs...v
+”Takamine
+uI'm told her mother was also a famous singer in Germany. It seems talent is hereditary.v
+”Protagonist
+uWhere is she now...?v
+”Takamine
+u...She reportedly vanished about twenty years ago. Nothing is known of her whereabouts since.v
+”Protagonist
+uI see...v
+”Takamine
+u...No need for prying.v
+”Protagonist
+uI-I understand...v
+”Mikanagi
+uA foreign maid... I've heard there was one before the war, but I don't know the details.v
+”Protagonist
+uI see...v
+”Akane
+uOh... So there was a foreigner working here too...v
+”Protagonist
+uMaybe...v
+”Narumi
+uThat's the photo in the lawyer's room, right? It's from a long time ago... Doesn't look like she was a girlfriend or anything.v
+”Protagonist
+uRight...v

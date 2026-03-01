@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒI wonder why Rokuyou-san had to be killed... That's the one thing I can't stop thinking about.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMaya
-ã€Œ...Why would someone like Isamu-san be murdered...?ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAi
-ã€ŒIsamu-san... why...?ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€Œ...I have my doubts about whether Rokuyou truly loved Shion. I never once saw them acting affectionately toward each other.ã€
-ï¼ƒProtagonist
-ã€ŒIs that how it was...?ã€
-ï¼ƒShion
-ã€ŒWhat on earth could have happened...?ã€
-ï¼ƒProtagonist
-ã€Œ...I'm currently in the middle of investigating that.ã€
-ï¼ƒTsujimura
-ã€ŒWe have placed Rokuyou-sama's remains in his room. We can't simply bury him without authorization, after all...ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒTakamine
-ã€ŒIt seems Rokuyou-kun was killed during the night... but there were no sounds of a struggle. It might be because the rooms are well soundproofed...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒMikanagi
-ã€ŒI never imagined Isamu would end up like this...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒTo think that Rokuyou-sama would pass away...ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san...ã€
-ï¼ƒNarumi
-ã€Œ...I thought it was strange when he didn't show his face this morning, but I never dreamed he'd been murdered...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Souko
+uI wonder why Rokuyou-san had to be killed... That's the one thing I can't stop thinking about.v
+”Protagonist
+uYou're right...v
+”Maya
+u...Why would someone like Isamu-san be murdered...?v
+”Protagonist
+uYou're right...v
+”Ai
+uIsamu-san... why...?v
+”Protagonist
+uAi-san...v
+”Benio
+u...I have my doubts about whether Rokuyou truly loved Shion. I never once saw them acting affectionately toward each other.v
+”Protagonist
+uIs that how it was...?v
+”Shion
+uWhat on earth could have happened...?v
+”Protagonist
+u...I'm currently in the middle of investigating that.v
+”Tsujimura
+uWe have placed Rokuyou-sama's remains in his room. We can't simply bury him without authorization, after all...v
+”Protagonist
+uThat's true...v
+”Takamine
+uIt seems Rokuyou-kun was killed during the night... but there were no sounds of a struggle. It might be because the rooms are well soundproofed...v
+”Protagonist
+uIs that so...v
+”Mikanagi
+uI never imagined Isamu would end up like this...v
+”Protagonist
+uYou're right...v
+”Akane
+uTo think that Rokuyou-sama would pass away...v
+”Protagonist
+uAkane-san...v
+”Narumi
+u...I thought it was strange when he didn't show his face this morning, but I never dreamed he'd been murdered...v
+”Protagonist
+uYou're right...v

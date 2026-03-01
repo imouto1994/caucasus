@@ -1,60 +1,60 @@
-ï¼ƒSouko
-ã€ŒYou can't expect me to know if you ask me. You have to ask the people of this house.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€Œ...Something like that did happen... I don't remember much, as it was a long time ago...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...I believe it was right after I was born... I think Tsujimura-san would know.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒBenio
-ã€ŒThe cause of Takamine's injury, right? Ask him or Tsujimura.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒRight, of course...ã€
-ï¼ƒTsujimura
-ã€ŒDid Master Takamine mention it...? That was nearly twenty years ago. A fire broke out in a mountain hut nearby...ã€
-ï¼ƒProtagonist
-ã€ŒNearby... but that's beyond the suspension bridge, isn't it?ã€
-ï¼ƒTsujimura
-ã€ŒYes, that's right. A mother and daughter lived in that hut, but despite Master Takamine's efforts, the mother passed away...ã€
-ï¼ƒProtagonist
-ã€Œ...Did the children survive?ã€
-ï¼ƒTsujimura
-ã€ŒYes. There were two daughters, and they were rescued despite suffering burns.ã€
-ï¼ƒProtagonist
-ã€ŒTwo... They were sisters?ã€
-ï¼ƒTsujimura
-ã€ŒOne of them was seriously injured and couldn't be treated here, so we entrusted her to a doctor in town... but the other was raised here.ã€
-ï¼ƒProtagonist
-ã€Œ...Wait, that one who stayed... wasn't she an albino?ã€
-ï¼ƒTsujimura
-ã€Œ...She was a normal child at first. But she gradually became white... perhaps she lacked nutrition...ã€
-ï¼ƒProtagonist
-ã€Œ...You mean Shion-san?ã€
-ï¼ƒTsujimura
-ã€ŒThat is correct... Um, could I ask you to keep this a secret, please...?ã€
-ï¼ƒProtagonist
-ã€Œ...I understand.ã€
-ï¼ƒTakamine
-ã€Œ...I have nothing more to say about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI heard about the fire from my father. The rescued child's burns were so severe she was taken to a hospital in town, but apparently she suddenly vanished.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uYou can't expect me to know if you ask me. You have to ask the people of this house.v
+”Protagonist
+uTrue...v
+”Maya
+u...Something like that did happen... I don't remember much, as it was a long time ago...v
+”Protagonist
+uI see...v
+”Ai
+u...I believe it was right after I was born... I think Tsujimura-san would know.v
+”Protagonist
+u...I see.v
+”Benio
+uThe cause of Takamine's injury, right? Ask him or Tsujimura.v
+”Protagonist
+uTrue...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uRight, of course...v
+”Tsujimura
+uDid Master Takamine mention it...? That was nearly twenty years ago. A fire broke out in a mountain hut nearby...v
+”Protagonist
+uNearby... but that's beyond the suspension bridge, isn't it?v
+”Tsujimura
+uYes, that's right. A mother and daughter lived in that hut, but despite Master Takamine's efforts, the mother passed away...v
+”Protagonist
+u...Did the children survive?v
+”Tsujimura
+uYes. There were two daughters, and they were rescued despite suffering burns.v
+”Protagonist
+uTwo... They were sisters?v
+”Tsujimura
+uOne of them was seriously injured and couldn't be treated here, so we entrusted her to a doctor in town... but the other was raised here.v
+”Protagonist
+u...Wait, that one who stayed... wasn't she an albino?v
+”Tsujimura
+u...She was a normal child at first. But she gradually became white... perhaps she lacked nutrition...v
+”Protagonist
+u...You mean Shion-san?v
+”Tsujimura
+uThat is correct... Um, could I ask you to keep this a secret, please...?v
+”Protagonist
+u...I understand.v
+”Takamine
+u...I have nothing more to say about that.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI heard about the fire from my father. The rescued child's burns were so severe she was taken to a hospital in town, but apparently she suddenly vanished.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

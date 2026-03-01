@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒRokuyou-san? Come to think of it, I haven't seen him yet this morning.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
-ï¼ƒMaya
-ã€ŒIt is almost time for the marriage to be officially established.ã€
-ï¼ƒProtagonist
-ã€ŒIt is.ã€
-ï¼ƒAi
-ã€ŒIsamu-san... He is a perfect match for Shion, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒRokuyou? ...The ceremony is about to resume, yet he hasn't made an appearance. I wonder if he's having trouble getting ready...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒOnce the wedding is over, I intend to offer my greetings properly at breakfast...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒRokuyou-kun? He's likely preparing for the ceremony.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒIsamu isn't much of a morning person either, so he might still be asleep.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒRokuyou-sama is... um, I believe he's still in his room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒIt's breakfast after the wedding, but I don't really want to eat anything heavy so early in the morning...ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
+”Souko
+uRokuyou-san? Come to think of it, I haven't seen him yet this morning.v
+”Protagonist
+uYou're right.v
+”Maya
+uIt is almost time for the marriage to be officially established.v
+”Protagonist
+uIt is.v
+”Ai
+uIsamu-san... He is a perfect match for Shion, but...v
+”Protagonist
+uI see...v
+”Benio
+uRokuyou? ...The ceremony is about to resume, yet he hasn't made an appearance. I wonder if he's having trouble getting ready...v
+”Protagonist
+uI see.v
+”Tsujimura
+uOnce the wedding is over, I intend to offer my greetings properly at breakfast...v
+”Protagonist
+uI see.v
+”Takamine
+uRokuyou-kun? He's likely preparing for the ceremony.v
+”Protagonist
+uI see.v
+”Mikanagi
+uIsamu isn't much of a morning person either, so he might still be asleep.v
+”Protagonist
+uI see.v
+”Akane
+uRokuyou-sama is... um, I believe he's still in his room.v
+”Protagonist
+uI see.v
+”Narumi
+uIt's breakfast after the wedding, but I don't really want to eat anything heavy so early in the morning...v
+”Protagonist
+uI suppose so...v

@@ -1,20 +1,20 @@
-ï¼ƒMaya
-ã€ŒI wouldn't know, I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒAi
-ã€ŒIâ€™m not sureâ€¦ I was in my room the entire time.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTsujimura
-ã€ŒI heard that she was together with youâ€¦ã€
-ï¼ƒProtagonist
-ã€ŒY-yeah, thatâ€™s rightâ€¦ã€
-ï¼ƒTakamine
-ã€ŒI wouldnâ€™t know what was happening outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒNarumi
-ã€ŒI was with you the whole time. Given the situation, do you really think I could have killed Mikanagi-sensei?ã€
-ï¼ƒProtagonist
-ã€Œâ€¦I guess that would be impossible.ã€
+”Maya
+uI wouldn't know, I was resting in my room as well.v
+”Protagonist
+uI seecv
+”Ai
+uIfm not surec I was in my room the entire time.v
+”Protagonist
+uI seecv
+”Tsujimura
+uI heard that she was together with youcv
+”Protagonist
+uY-yeah, thatfs rightcv
+”Takamine
+uI wouldnft know what was happening outside my room.v
+”Protagonist
+uI seecv
+”Narumi
+uI was with you the whole time. Given the situation, do you really think I could have killed Mikanagi-sensei?v
+”Protagonist
+ucI guess that would be impossible.v

@@ -1,24 +1,24 @@
-ï¼ƒAi
-ã€Œ...I am sorry, I do not really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€Œ...I am not entirely convinced that is Kirihara-san. ...Do not give up hope just yet.ã€
-ï¼ƒProtagonist
-ã€Œ...Alright.ã€
-ï¼ƒTsujimura
-ã€ŒHow utterly gruesome...ã€
-ï¼ƒProtagonist
-ã€ŒIt really is...ã€
-ï¼ƒTakamine
-ã€ŒI can't say for certain.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI believe it is Kirihara-san's body. The only deciding factor is the signs of a fracture... though there is a possibility it could be Akane-san.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI'm not really sure about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Ai
+u...I am sorry, I do not really know.v
+”Protagonist
+uI see...v
+”Benio
+u...I am not entirely convinced that is Kirihara-san. ...Do not give up hope just yet.v
+”Protagonist
+u...Alright.v
+”Tsujimura
+uHow utterly gruesome...v
+”Protagonist
+uIt really is...v
+”Takamine
+uI can't say for certain.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI believe it is Kirihara-san's body. The only deciding factor is the signs of a fracture... though there is a possibility it could be Akane-san.v
+”Protagonist
+uI see...v
+”Narumi
+uI'm not really sure about that.v
+”Protagonist
+uI see...v

@@ -2,15 +2,15 @@ The world outside the window is a wall of white; I can't see a thing.
 I wonder when this blizzard will finally let up...
 The storm outside seems to be growing even more violent.
 A bright red fire flickers within the hearth.
-ï¼ƒProtagonist
-ã€ŒWait... this is impossible.ã€
+”Protagonist
+uWait... this is impossible.v
 It's far too hot to investigate.
-ï¼ƒNarumi
-ã€ŒI don't think this is the fireplace the code meant, anyway...ã€
-ï¼ƒProtagonist
-ã€ŒIf we can't find anything elsewhere, let's come back and check it again later.ã€
-ï¼ƒNarumi
-ã€ŒI think that's for the best.ã€
+”Narumi
+uI don't think this is the fireplace the code meant, anyway...v
+”Protagonist
+uIf we can't find anything elsewhere, let's come back and check it again later.v
+”Narumi
+uI think that's for the best.v
 It's simply too hot to even attempt an investigation.
 It's likely a cabinet for storing things like coffee cups.
 I can't exactly go around opening things as I please, so I can't check the contents.

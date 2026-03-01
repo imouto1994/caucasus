@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒShion-san? ...I haven't met her, so I can't really say. Though I'm sure we'll meet at the midnight wedding, so there's no rush.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒMaya
-ã€ŒShion? She's been frail since she was small, and we were afraid of her catching some sort of infection, so we have her living in the annex.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒShion... she hasn't set foot outside the manor since she was born. Perhaps because of that, she doesn't try to speak with people much.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒShion is an incredibly bright child. However... she is desperately lacking in experience.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒTsujimura
-ã€ŒLady Shion? ...She sings such beautiful songs. I often find myself listening in a daze... ah, how embarrassing...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒRokuyou
-ã€ŒAbout Shion? I was drawn to her gentle heart... haha, it's a bit embarrassing to talk about this so openly...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒShion-kun... she seems to have lived in that tower since long before I started coming here.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒMikanagi
-ã€ŒShion-san is frail and suffers from headaches, so she takes medicine to suppress them every day. I only wish she would get better...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Shion? She is always in the tower outside. You can go out through the door at the back of the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒLady Shion? She doesn't seem to be able to eat much. She really needs to get some nutrition into her system...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Souko
+uShion-san? ...I haven't met her, so I can't really say. Though I'm sure we'll meet at the midnight wedding, so there's no rush.v
+”Protagonist
+u...True.v
+”Maya
+uShion? She's been frail since she was small, and we were afraid of her catching some sort of infection, so we have her living in the annex.v
+”Protagonist
+uIs that so...v
+”Ai
+uShion... she hasn't set foot outside the manor since she was born. Perhaps because of that, she doesn't try to speak with people much.v
+”Protagonist
+uIs that so...v
+”Benio
+uShion is an incredibly bright child. However... she is desperately lacking in experience.v
+”Protagonist
+uIs that so...v
+”Tsujimura
+uLady Shion? ...She sings such beautiful songs. I often find myself listening in a daze... ah, how embarrassing...v
+”Protagonist
+uIs that so...v
+”Rokuyou
+uAbout Shion? I was drawn to her gentle heart... haha, it's a bit embarrassing to talk about this so openly...v
+”Protagonist
+uI see...v
+”Takamine
+uShion-kun... she seems to have lived in that tower since long before I started coming here.v
+”Protagonist
+uIs that so...v
+”Mikanagi
+uShion-san is frail and suffers from headaches, so she takes medicine to suppress them every day. I only wish she would get better...v
+”Protagonist
+uI see...v
+”Akane
+uLady Shion? She is always in the tower outside. You can go out through the door at the back of the office.v
+”Protagonist
+uI see.v
+”Narumi
+uLady Shion? She doesn't seem to be able to eat much. She really needs to get some nutrition into her system...v
+”Protagonist
+uYou're right...v

@@ -1,26 +1,26 @@
-ï¼ƒTsujimura
-ã€ŒOh, is something the matter?ã€
+”Tsujimura
+uOh, is something the matter?v
 Tsujimura-san was in the office.
-ï¼ƒProtagonist
-ã€ŒTsujimura-san... have you seen Souko-san?ã€
-ï¼ƒTsujimura
-ã€ŒMistress Kirihara? I remember her being in the grand hall about an hour ago, but...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒTsujimura
-ã€ŒWas there anything else?ã€
-ï¼ƒProtagonist
-ã€ŒNo, I don't have any other business. I'll see you later.ã€
-ï¼ƒTsujimura
-ã€ŒYes. ...Please be careful.ã€
+”Protagonist
+uTsujimura-san... have you seen Souko-san?v
+”Tsujimura
+uMistress Kirihara? I remember her being in the grand hall about an hour ago, but...v
+”Protagonist
+u...I see.v
+”Tsujimura
+uWas there anything else?v
+”Protagonist
+uNo, I don't have any other business. I'll see you later.v
+”Tsujimura
+uYes. ...Please be careful.v
 Tsujimura-san saw me off as I left the office.
-ï¼ƒTsujimura
-ã€ŒOh... have you still not found Mistress Kirihara?ã€
+”Tsujimura
+uOh... have you still not found Mistress Kirihara?v
 Tsujimura-san was still in the office.
-ï¼ƒProtagonist
-ã€ŒNo...ã€
-ï¼ƒTsujimura
-ã€ŒI see... That's worrying.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I'll try looking a bit more.ã€
+”Protagonist
+uNo...v
+”Tsujimura
+uI see... That's worrying.v
+”Protagonist
+uYeah... I'll try looking a bit more.v
 I decided to look elsewhere and left the office.

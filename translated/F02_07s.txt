@@ -9,8 +9,8 @@ The box itself seems like it would be quite valuable.
 It's a locked wooden box.
 It appears to be a toolbox.
 It contains a hammer and some rusted pliers.
-ï¼ƒProtagonist
-ã€ŒAh, that reminds me...ã€
+”Protagonist
+uAh, that reminds me...v
 The hardware on my bag had gotten a bit loose.
 I think I'll borrow these pliers to fix it.
 A toolbox is sitting here.
@@ -26,14 +26,14 @@ I try opening the drawer, but there's nothing unusual inside.
 There's nothing unusual inside.
 When I open the drawer, I find something inside that looks like stationery.
 What is this...?
-ã€A Certain Man's Story: Chapter Nineã€
-â€”I was crying. The man had stopped crying. I wonder what someone else would think, seeing two grown men weeping over a plate of takoyaki.
+wA Certain Man's Story: Chapter Ninex
+?I was crying. The man had stopped crying. I wonder what someone else would think, seeing two grown men weeping over a plate of takoyaki.
 I thought about that even as I wept.
 I told him honestly that it tasted awful. The man gave a satisfied smile and said:
-ã€ŒWell, yeah. I'm still in training, so of course it's gonna be bad. Thanks for being honest, pops.ã€
+uWell, yeah. I'm still in training, so of course it's gonna be bad. Thanks for being honest, pops.v
 I felt like I finally understood this man just a little bit. ~To be continued~
-ï¼ƒProtagonist
-ã€Œ...What the hell is this?ã€
+”Protagonist
+u...What the hell is this?v
 A scrap of paper titled 'A Certain Man's Story: Chapter Nine' is inside.
 I try opening the drawer, but there's nothing unusual inside.
 There's nothing unusual inside.

@@ -4,29 +4,29 @@ If there were a key in a place like this, it would probably throw off the piano'
 I don't see anything that looks like a key.
 I stare at the piano keys.
 No particularly strange sounds come out.
-ï¼ƒProtagonist
-ã€Œ...The keyhole in the fireplace was small, wasn't it?ã€
-ï¼ƒNarumi
-ã€ŒWell, yes...ã€
-ï¼ƒProtagonist
-ã€Œ...Doesn't it look like a key could fit inside one of these piano keys?ã€
-ï¼ƒNarumi
-ã€ŒInside the keys...?ã€
-ï¼ƒProtagonist
-ã€ŒI think if we hollowed out one of the white keys, it might just work...ã€
-ï¼ƒNarumi
-ã€ŒIf you have a reason for it, I suppose it's worth checking...ã€
-ï¼ƒProtagonist
-ã€ŒIf '1SO' refers to the music room... then I think 'K' stands for the piano, and 'H5' might be the key itself.ã€
-ï¼ƒNarumi
-ã€Œ...I believe the German word for piano was 'Klavier,' wasn't it?ã€
-ï¼ƒProtagonist
-ã€ŒNow all that's left is the location of 'H5'...ã€
-ï¼ƒNarumi
-ã€ŒYou can't just go tearing the whole thing apart, you know?ã€
-ï¼ƒProtagonist
-ã€ŒI know. Let's do this carefully.ã€
+”Protagonist
+u...The keyhole in the fireplace was small, wasn't it?v
+”Narumi
+uWell, yes...v
+”Protagonist
+u...Doesn't it look like a key could fit inside one of these piano keys?v
+”Narumi
+uInside the keys...?v
+”Protagonist
+uI think if we hollowed out one of the white keys, it might just work...v
+”Narumi
+uIf you have a reason for it, I suppose it's worth checking...v
+”Protagonist
+uIf '1SO' refers to the music room... then I think 'K' stands for the piano, and 'H5' might be the key itself.v
+”Narumi
+u...I believe the German word for piano was 'Klavier,' wasn't it?v
+”Protagonist
+uNow all that's left is the location of 'H5'...v
+”Narumi
+uYou can't just go tearing the whole thing apart, you know?v
+”Protagonist
+uI know. Let's do this carefully.v
 Outside is a wall of white; I can't see a thing.
 I wonder when this blizzard will finally let up...
 The storm outside seems to be growing even more violent.
-Iâ€™ve searched all over, but I can't find anything that looks like a key.
+Ifve searched all over, but I can't find anything that looks like a key.

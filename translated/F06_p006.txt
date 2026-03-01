@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€ŒTsujimura-san seems quite concerned about Shion-san.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒIt's only because Tsujimura is here that we are able to live so peacefully.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒIf anything comes up, please tell Tsujimura-san.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
-ï¼ƒBenio
-ã€ŒTsujimura? He's likely in his room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒI couldn't make a living with my artistic skills, which were barely better than an amateur's... I'm grateful to be allowed to work here.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI hear Tsujimura-san has endured many hardships until now.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒIf it's Tsujimura-san, he should be in the office. Otherwise, I expect he's back in his room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uTsujimura-san seems quite concerned about Shion-san.v
+”Protagonist
+uRight...v
+”Maya
+uIt's only because Tsujimura is here that we are able to live so peacefully.v
+”Protagonist
+uI see...v
+”Ai
+uIf anything comes up, please tell Tsujimura-san.v
+”Protagonist
+uUnderstood.v
+”Benio
+uTsujimura? He's likely in his room.v
+”Protagonist
+uI see.v
+”Tsujimura
+uI couldn't make a living with my artistic skills, which were barely better than an amateur's... I'm grateful to be allowed to work here.v
+”Protagonist
+uI see...v
+”Takamine
+uI hear Tsujimura-san has endured many hardships until now.v
+”Protagonist
+uI see...v
+”Mikanagi
+uIf it's Tsujimura-san, he should be in the office. Otherwise, I expect he's back in his room.v
+”Protagonist
+uI see.v

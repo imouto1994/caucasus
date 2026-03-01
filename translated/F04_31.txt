@@ -1,44 +1,44 @@
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
 I wonder if he's gone somewhere else.
 I don't have anything in particular to do, so I'll head elsewhere.
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 As I entered the infirmary, Dr. Mikanagi, who was sitting in a chair, looked up.
-ï¼ƒMikanagi
-ã€ŒAh, it's you.ã€
-ï¼ƒProtagonist
-ã€ŒHas anything unusual happened?ã€
-ï¼ƒMikanagi
-ã€ŒLet's see... only that it's pitch black and I can't even read a book.ã€
-ï¼ƒProtagonist
-ã€ŒThat's... well.ã€
-ï¼ƒMikanagi
-ã€ŒI'm joking. For now, only that Maya-san said she was feeling a bit unwell. Also, Iâ€™m concerned about Shion-san's health, but there don't seem to be any problems yet.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI just hope the power is restored soon...ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I think it should be fixed soon.ã€
-ï¼ƒMikanagi
-ã€ŒI see. Then I suppose I'll just have to bear with it a bit longer.ã€
-ï¼ƒProtagonist
-ã€ŒI'm going to look around a bit more.ã€
-ï¼ƒMikanagi
-ã€ŒAlright, I understand.ã€
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
-ï¼ƒMikanagi
-ã€ŒOh, what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒNo, it's not really a matter of having any business, but...ã€
-ï¼ƒMikanagi
-ã€ŒDid you notice anything particularly strange while looking around?ã€
-ï¼ƒProtagonist
-ã€ŒNo, not so far.ã€
-ï¼ƒMikanagi
-ã€ŒI just hope everything passes without anything else happening...ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I hope so too.ã€
+”Mikanagi
+uAh, it's you.v
+”Protagonist
+uHas anything unusual happened?v
+”Mikanagi
+uLet's see... only that it's pitch black and I can't even read a book.v
+”Protagonist
+uThat's... well.v
+”Mikanagi
+uI'm joking. For now, only that Maya-san said she was feeling a bit unwell. Also, Ifm concerned about Shion-san's health, but there don't seem to be any problems yet.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI just hope the power is restored soon...v
+”Protagonist
+uYeah... I think it should be fixed soon.v
+”Mikanagi
+uI see. Then I suppose I'll just have to bear with it a bit longer.v
+”Protagonist
+uI'm going to look around a bit more.v
+”Mikanagi
+uAlright, I understand.v
+”Protagonist
+uExcuse me.v
+”Mikanagi
+uOh, what is it this time?v
+”Protagonist
+uNo, it's not really a matter of having any business, but...v
+”Mikanagi
+uDid you notice anything particularly strange while looking around?v
+”Protagonist
+uNo, not so far.v
+”Mikanagi
+uI just hope everything passes without anything else happening...v
+”Protagonist
+uYeah... I hope so too.v

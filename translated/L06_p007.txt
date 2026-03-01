@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒTakamine-san, huh... He seemed to be moving around a lot during the blackout... but his intentions are a total mystery...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒI am not quite sure what Takamine-san was doing.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒJust as Shion and I were leaving the office, Takamine arrived. He seemed to be trying to grasp the situation, but...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒShion
-ã€ŒI passed Master Takamine as Lady Benio and I were leaving the office...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAs for Master Takamine, it seems he arrived at the office just as I was heading back to my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI was sleeping in my room, but I noticed the lights wouldn't turn on, so I intended to go to the office to find out what was going on.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒTakamine-san? He said he was resting in his room and didn't even notice the blackout...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒMaster Takamine? I believe I saw him coming out of the office around six o'clock...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒTakamine-san, huh... He claims he didn't notice the blackout, but I wonder if that's true...ã€
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
+”Souko
+uTakamine-san, huh... He seemed to be moving around a lot during the blackout... but his intentions are a total mystery...v
+”Protagonist
+uTrue...v
+”Maya
+uI am not quite sure what Takamine-san was doing.v
+”Protagonist
+uI see.v
+”Benio
+uJust as Shion and I were leaving the office, Takamine arrived. He seemed to be trying to grasp the situation, but...v
+”Protagonist
+u...I see.v
+”Shion
+uI passed Master Takamine as Lady Benio and I were leaving the office...v
+”Protagonist
+uI see...v
+”Tsujimura
+uAs for Master Takamine, it seems he arrived at the office just as I was heading back to my room.v
+”Protagonist
+uI see...v
+”Takamine
+uI was sleeping in my room, but I noticed the lights wouldn't turn on, so I intended to go to the office to find out what was going on.v
+”Protagonist
+uI see...v
+”Mikanagi
+uTakamine-san? He said he was resting in his room and didn't even notice the blackout...v
+”Protagonist
+uI see...v
+”Akane
+uMaster Takamine? I believe I saw him coming out of the office around six o'clock...v
+”Protagonist
+uI see.v
+”Narumi
+uTakamine-san, huh... He claims he didn't notice the blackout, but I wonder if that's true...v
+”Protagonist
+uI wonder...v

@@ -1,23 +1,23 @@
 Eventually, Tsujimura-san came running.
-ï¼ƒTsujimura
-ã€ŒU-Um... Dr. Mikanagi has passed away...ã€
-ï¼ƒProtagonist
-ã€ŒYes...ã€
-ï¼ƒTsujimura
-ã€ŒOh... how can this be... even Dr. Mikanagi...ã€
+”Tsujimura
+uU-Um... Dr. Mikanagi has passed away...v
+”Protagonist
+uYes...v
+”Tsujimura
+uOh... how can this be... even Dr. Mikanagi...v
 Tsujimura-san's shoulders slumped in despair.
-ï¼ƒProtagonist
-ã€ŒTsujimura-san, Shion-san is in the clinic. Her clothes are soiled, so please prepare a change for her.ã€
-ï¼ƒTsujimura
-ã€ŒY-Yes... but why...ã€
-ï¼ƒProtagonist
-ã€Œ...Shion-san was the first to discover him.ã€
-ï¼ƒTsujimura
-ã€ŒEh... she certainly... did say she was going to get some medicine, but...ã€
-ï¼ƒProtagonist
-ã€Œ...Please go let her change quickly.ã€
-ï¼ƒTsujimura
-ã€ŒY-Yes... understood.ã€
+”Protagonist
+uTsujimura-san, Shion-san is in the clinic. Her clothes are soiled, so please prepare a change for her.v
+”Tsujimura
+uY-Yes... but why...v
+”Protagonist
+u...Shion-san was the first to discover him.v
+”Tsujimura
+uEh... she certainly... did say she was going to get some medicine, but...v
+”Protagonist
+u...Please go let her change quickly.v
+”Tsujimura
+uY-Yes... understood.v
 Tsujimura-san entered the clinic.
 I... will investigate Dr. Mikanagi's room.
 The only person capable of performing an autopsy is gone now, but there must be something I can do.

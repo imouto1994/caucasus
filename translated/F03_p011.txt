@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒI wonder why Rokuyou-san had to be killed... I just can't help but be curious about that.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒMaya
-ã€Œ...Why was someone like Isamu-san killed...?ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒBenio
-ã€Œ...I question whether Rokuyou really loved Shion. I never saw them acting harmoniously.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒShion
-ã€ŒWhat on earth happened...?ã€
-ï¼ƒProtagonist
-ã€Œ...I'm in the middle of investigating that right now.ã€
-ï¼ƒTsujimura
-ã€ŒMaster Rokuyou's remains are being kept in his room. We can't simply bury him without permission...ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒTakamine
-ã€ŒIt seems Rokuyou-kun was killed during the night... but there weren't any sounds of a struggle. It might be because the rooms are well soundproofed...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒTo think this would happen to Isamu...ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒNarumi
-ã€Œ...I thought it was strange when he didn't show himself this morning, but I never imagined he'd been killed...ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
+”Souko
+uI wonder why Rokuyou-san had to be killed... I just can't help but be curious about that.v
+”Protagonist
+uRight.v
+”Maya
+u...Why was someone like Isamu-san killed...?v
+”Protagonist
+uRight.v
+”Benio
+u...I question whether Rokuyou really loved Shion. I never saw them acting harmoniously.v
+”Protagonist
+uIs that so?v
+”Shion
+uWhat on earth happened...?v
+”Protagonist
+u...I'm in the middle of investigating that right now.v
+”Tsujimura
+uMaster Rokuyou's remains are being kept in his room. We can't simply bury him without permission...v
+”Protagonist
+uRight.v
+”Takamine
+uIt seems Rokuyou-kun was killed during the night... but there weren't any sounds of a struggle. It might be because the rooms are well soundproofed...v
+”Protagonist
+uI see...v
+”Mikanagi
+uTo think this would happen to Isamu...v
+”Protagonist
+uRight.v
+”Narumi
+u...I thought it was strange when he didn't show himself this morning, but I never imagined he'd been killed...v
+”Protagonist
+uRight.v

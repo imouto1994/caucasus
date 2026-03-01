@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAbout Dr. Mikanagi? Hmm, he did treat my finger, but he feels a bit... flighty, I guess.ã€
-ï¼ƒProtagonist
-ã€Œ...I suppose so.ã€
-ï¼ƒMaya
-ã€ŒWe were very much indebted to Dr. Mikanagi's father. I am only where I am today thanks to the Mikanagi family.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒDr. Mikanagi often looks after us. Doctors won't come out to such a remote place, so it's a huge help.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAre you asking about Hiroshi? He's been here since long ago, so we're practically like family.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒDr. Mikanagi is indispensable here. The Mistress and Lady Shion aren't in the best of health, after all...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒHiroshi and I have been stuck with each other for years, so I know a lot. Even back in med school, he seemed to be breaking plenty of hearts.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒDr. Mikanagi appears to be an excellent physician. He specializes in internal medicine, but I'm sure he could handle simple surgeries if needed.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒMe? My father is the true family doctor for the Nanatsuki. But he's getting on in years, so I've been staying here lately.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒAkane
-ã€ŒEh, Dr. Mikanagi!? Um, well... wouldn't he be in the infirmary...?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒDr. Mikanagi? He has a bit of a light air about him. Though he hardly ever says a word to me.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
+”Souko
+uAbout Dr. Mikanagi? Hmm, he did treat my finger, but he feels a bit... flighty, I guess.v
+”Protagonist
+u...I suppose so.v
+”Maya
+uWe were very much indebted to Dr. Mikanagi's father. I am only where I am today thanks to the Mikanagi family.v
+”Protagonist
+uI see...v
+”Ai
+uDr. Mikanagi often looks after us. Doctors won't come out to such a remote place, so it's a huge help.v
+”Protagonist
+uI see.v
+”Benio
+uAre you asking about Hiroshi? He's been here since long ago, so we're practically like family.v
+”Protagonist
+uI see.v
+”Tsujimura
+uDr. Mikanagi is indispensable here. The Mistress and Lady Shion aren't in the best of health, after all...v
+”Protagonist
+uI see...v
+”Rokuyou
+uHiroshi and I have been stuck with each other for years, so I know a lot. Even back in med school, he seemed to be breaking plenty of hearts.v
+”Protagonist
+uI see...v
+”Takamine
+uDr. Mikanagi appears to be an excellent physician. He specializes in internal medicine, but I'm sure he could handle simple surgeries if needed.v
+”Protagonist
+uI see.v
+”Mikanagi
+uMe? My father is the true family doctor for the Nanatsuki. But he's getting on in years, so I've been staying here lately.v
+”Protagonist
+uIs that so?v
+”Akane
+uEh, Dr. Mikanagi!? Um, well... wouldn't he be in the infirmary...?v
+”Protagonist
+uI see...v
+”Narumi
+uDr. Mikanagi? He has a bit of a light air about him. Though he hardly ever says a word to me.v
+”Protagonist
+uI-I see...v

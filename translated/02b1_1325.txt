@@ -1,12 +1,12 @@
 Cooperating with Dr. Mikanagi, we carried Ai-san's body down to the second floor.
-ï¼ƒProtagonist
-ã€Œ...We should probably block this place off too, right?ã€
-ï¼ƒSouko
-ã€ŒLet's ask Tsujimura-san to do that later.ã€
-ï¼ƒMikanagi
-ã€ŒWell then, I'll take Ai-san to her room.ã€
+”Protagonist
+u...We should probably block this place off too, right?v
+”Souko
+uLet's ask Tsujimura-san to do that later.v
+”Mikanagi
+uWell then, I'll take Ai-san to her room.v
 Dr. Mikanagi picked up Ai-san's body.
-ï¼ƒProtagonist
-ã€ŒPlease.ã€
-ï¼ƒSouko
-ã€ŒLet's head to the hall. Everyone should be gathered there.ã€
+”Protagonist
+uPlease.v
+”Souko
+uLet's head to the hall. Everyone should be gathered there.v

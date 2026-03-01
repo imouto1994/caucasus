@@ -1,80 +1,80 @@
-ï¼ƒSouko
-ã€ŒI wonder if there's a connection between Shion-san being targeted and you two being locked in the basement...ã€
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
-ï¼ƒSouko
-ã€Œ...There's a good chance Shion-san will be targeted by the killer. We have to make sure she's careful...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒTo think even Shion was targeted...ã€
-ï¼ƒProtagonist
-ã€ŒHer life isn't in danger, so please don't worry.ã€
-ï¼ƒMaya
-ã€ŒShion is still safe, isn't she...?ã€
-ï¼ƒProtagonist
-ã€ŒYes... there's no need to worry.ã€
-ï¼ƒAi
-ã€ŒWhy even Shion... Why...!ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know that yet.ã€
-ï¼ƒAi
-ã€ŒI'm glad it was me who was targeted... if it had been Shion...ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€Œ...I understand there's a possibility Shion will be targeted. However... something feels off about it...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒShion, huh... She likely feels a sense of debt since she was adopted. That's why she never voices any complaints about her circumstances...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒI'm... all right now. I'm sorry to have worried you.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒI... don't really understand what is happening... I am sorry...ã€
-ï¼ƒProtagonist
-ã€ŒNo...ã€
-ï¼ƒTsujimura
-ã€ŒSo even Lady Shion is not safe after all...ã€
-ï¼ƒProtagonist
-ã€ŒIt seems so...ã€
-ï¼ƒTsujimura
-ã€Œ...Lady Shion seems to be quite depressed...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...Shion-kun is safe, I assume?ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah...ã€
-ï¼ƒTakamine
-ã€ŒThere's a possibility that danger could close in on Shion-kun as well. Keep an eye on her.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMikanagi
-ã€ŒShion-san's condition has mostly recovered. It seems the poison was a very small dose, and she threw it up immediately.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒIf you're looking for Shion-san, she's likely in her room or the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒSo even Lady Shion is being targeted... What on earth is the killer's objective...?ã€
-ï¼ƒProtagonist
-ã€ŒGood question...ã€
-ï¼ƒAkane
-ã€ŒLady Shion? I believe she is likely in her room...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒI don't think you need to worry about Lady Shion's condition... but who could have done it...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒNarumi
-ã€ŒIf it's Lady Shion, she's probably in her room or the office, right?ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uI wonder if there's a connection between Shion-san being targeted and you two being locked in the basement...v
+”Protagonist
+uI wonder...v
+”Souko
+u...There's a good chance Shion-san will be targeted by the killer. We have to make sure she's careful...v
+”Protagonist
+uRight...v
+”Maya
+uTo think even Shion was targeted...v
+”Protagonist
+uHer life isn't in danger, so please don't worry.v
+”Maya
+uShion is still safe, isn't she...?v
+”Protagonist
+uYes... there's no need to worry.v
+”Ai
+uWhy even Shion... Why...!v
+”Protagonist
+u...We don't know that yet.v
+”Ai
+uI'm glad it was me who was targeted... if it had been Shion...v
+”Protagonist
+uAi-san...v
+”Benio
+u...I understand there's a possibility Shion will be targeted. However... something feels off about it...v
+”Protagonist
+uI see...v
+”Benio
+uShion, huh... She likely feels a sense of debt since she was adopted. That's why she never voices any complaints about her circumstances...v
+”Protagonist
+uI see...v
+”Shion
+uI'm... all right now. I'm sorry to have worried you.v
+”Protagonist
+uI see...v
+”Shion
+uI... don't really understand what is happening... I am sorry...v
+”Protagonist
+uNo...v
+”Tsujimura
+uSo even Lady Shion is not safe after all...v
+”Protagonist
+uIt seems so...v
+”Tsujimura
+u...Lady Shion seems to be quite depressed...v
+”Protagonist
+uI see...v
+”Takamine
+u...Shion-kun is safe, I assume?v
+”Protagonist
+uY-Yeah...v
+”Takamine
+uThere's a possibility that danger could close in on Shion-kun as well. Keep an eye on her.v
+”Protagonist
+uRight...v
+”Mikanagi
+uShion-san's condition has mostly recovered. It seems the poison was a very small dose, and she threw it up immediately.v
+”Protagonist
+uI see...v
+”Mikanagi
+uIf you're looking for Shion-san, she's likely in her room or the office.v
+”Protagonist
+uI see.v
+”Akane
+uSo even Lady Shion is being targeted... What on earth is the killer's objective...?v
+”Protagonist
+uGood question...v
+”Akane
+uLady Shion? I believe she is likely in her room...v
+”Protagonist
+uI see.v
+”Narumi
+uI don't think you need to worry about Lady Shion's condition... but who could have done it...v
+”Protagonist
+uYeah...v
+”Narumi
+uIf it's Lady Shion, she's probably in her room or the office, right?v
+”Protagonist
+uI see.v

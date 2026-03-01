@@ -1,25 +1,25 @@
-ï¼ƒProtagonist
-ã€ŒHello, Mikanagi-sensei.ã€
+”Protagonist
+uHello, Mikanagi-sensei.v
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒAh, what is it?ã€
-ï¼ƒProtagonist
-ã€ŒUm... could I have a moment of your time?ã€
-ï¼ƒMikanagi
-ã€ŒI don't mind.ã€
+”Mikanagi
+uAh, what is it?v
+”Protagonist
+uUm... could I have a moment of your time?v
+”Mikanagi
+uI don't mind.v
 Now then, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒOh, what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒCould I have a moment of your time?ã€
-ï¼ƒMikanagi
-ã€ŒYes, go ahead.ã€
+”Mikanagi
+uOh, what is it this time?v
+”Protagonist
+uCould I have a moment of your time?v
+”Mikanagi
+uYes, go ahead.v
 Now then, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 I wonder if he's back in his room.
 In that case, there's no point in staying here...

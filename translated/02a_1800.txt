@@ -1,210 +1,210 @@
 It turned six o'clock, so I headed back to the hall for the time being.
 The interior of the manor was as dark as ever.
 It was getting to the point where walking around without a light would be difficult.
-ï¼ƒBenio
-ã€ŒIt's certainly gotten dark.ã€
+”Benio
+uIt's certainly gotten dark.v
 Benio-san was in the hall.
-ï¼ƒProtagonist
-ã€ŒIt really has...ã€
-ï¼ƒBenio
-ã€ŒAre the preparations to fix the generator ready?ã€
-In response to Benio-san's question, I showed her the toolbox Iâ€™d brought from the storage room.
-ï¼ƒProtagonist
-ã€ŒYes, I found the fuses, so I think it'll be fine. We need to get the lights back on as soon as possible, after all.ã€
-ï¼ƒBenio
-ã€ŒAre the preparations to fix the generator ready?ã€
-ï¼ƒProtagonist
-ã€ŒAh... w-well... I couldn't find the fuses.ã€
-ï¼ƒBenio
-ã€Œ...I see.ã€
+”Protagonist
+uIt really has...v
+”Benio
+uAre the preparations to fix the generator ready?v
+In response to Benio-san's question, I showed her the toolbox Ifd brought from the storage room.
+”Protagonist
+uYes, I found the fuses, so I think it'll be fine. We need to get the lights back on as soon as possible, after all.v
+”Benio
+uAre the preparations to fix the generator ready?v
+”Protagonist
+uAh... w-well... I couldn't find the fuses.v
+”Benio
+u...I see.v
 Benio-san held out a toolbox to me.
-ï¼ƒProtagonist
-ã€ŒI-I'm sorry... but I'm not sure if I can actually do it...ã€
-ï¼ƒBenio
-ã€ŒThat reminds me, Tsujimura said he wanted to ask you to repair the generator.ã€
-ï¼ƒProtagonist
-ã€ŒEh, me?ã€
-ï¼ƒBenio
-ã€ŒI'm a complete amateur when it comes to machinery. Surely you can handle it?ã€
+”Protagonist
+uI-I'm sorry... but I'm not sure if I can actually do it...v
+”Benio
+uThat reminds me, Tsujimura said he wanted to ask you to repair the generator.v
+”Protagonist
+uEh, me?v
+”Benio
+uI'm a complete amateur when it comes to machinery. Surely you can handle it?v
 Saying so, Benio-san handed the toolbox over to me.
-ï¼ƒProtagonist
-ã€ŒUmm, I'm not sure if I can, but...ã€
-ï¼ƒBenio
-ã€ŒIt's just replacing a fuse or something, isn't it?ã€
-ï¼ƒProtagonist
-ã€Œ...I'll do my best. I'm certainly starting to miss the light by now.ã€
+”Protagonist
+uUmm, I'm not sure if I can, but...v
+”Benio
+uIt's just replacing a fuse or something, isn't it?v
+”Protagonist
+u...I'll do my best. I'm certainly starting to miss the light by now.v
 Even though it had only been about thirty minutes, it felt like a very long time.
-ï¼ƒBenio
-ã€ŒIf it stays dark even after night falls, the danger will only increase.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
+”Benio
+uIf it stays dark even after night falls, the danger will only increase.v
+”Protagonist
+uYeah...v
 Souko-san came down from the second floor.
-ï¼ƒSouko
-ã€ŒIs it finally getting fixed?ã€
-ï¼ƒProtagonist
-ã€ŒYes, I have all the tools ready.ã€
-ï¼ƒSouko
-ã€Œ...Are you the one fixing it?ã€
+”Souko
+uIs it finally getting fixed?v
+”Protagonist
+uYes, I have all the tools ready.v
+”Souko
+u...Are you the one fixing it?v
 Souko-san furrowed her brow.
-ï¼ƒProtagonist
-ã€ŒYes, that's the plan?ã€
-ï¼ƒSouko
-ã€ŒDo you even know how to fix it?ã€
-ï¼ƒProtagonist
-ã€Œ...Probably.ã€
-ï¼ƒBenio
-ã€ŒI haven't the slightest clue.ã€
+”Protagonist
+uYes, that's the plan?v
+”Souko
+uDo you even know how to fix it?v
+”Protagonist
+u...Probably.v
+”Benio
+uI haven't the slightest clue.v
 For some reason, Benio-san declared that with her chest puffed out.
-ï¼ƒSouko
-ã€Œ...I'll go with you. I couldn't bear it if you ended up breaking it completely.ã€
+”Souko
+u...I'll go with you. I couldn't bear it if you ended up breaking it completely.v
 Souko-san let out a massive sigh.
 We passed through the door at the bottom of the hall's stairs and headed down.
 The basement was pitch black.
 Our only reliance was the small beam from the flashlight illuminating the way ahead.
 The light hit a large piece of machinery.
-ï¼ƒProtagonist
-ã€ŒThis is it.ã€
-ï¼ƒSouko
-ã€ŒFirst, check if the main power is turned off. Otherwise, you'll get electrocuted.ã€
+”Protagonist
+uThis is it.v
+”Souko
+uFirst, check if the main power is turned off. Otherwise, you'll get electrocuted.v
 Having Souko-san point that out from behind me, I looked all over the machine.
 I found a large lever.
 The lever was flipped toward the side labeled "OFF."
-ï¼ƒSouko
-ã€ŒIt looks like it's already been shut off.ã€
-ï¼ƒProtagonist
-ã€ŒThen, all that's left... is to put this fuse in, right?ã€
-ï¼ƒSouko
-ã€ŒThe blown fuse should still be in there, so remove that first.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+”Souko
+uIt looks like it's already been shut off.v
+”Protagonist
+uThen, all that's left... is to put this fuse in, right?v
+”Souko
+uThe blown fuse should still be in there, so remove that first.v
+”Protagonist
+uUnderstood.v
 I opened the white ceramic fuse box.
 A fragment of a fuse that had been melted by heat was held in place by screws.
-ï¼ƒSouko
-ã€ŒBy the way... do you know what caused the blackout in the first place?ã€
+”Souko
+uBy the way... do you know what caused the blackout in the first place?v
 Souko-san asked Benio-san.
-ï¼ƒBenio
-ã€ŒApparently, a fuse just blew. Tsujimura said that someone was likely using too much electricity somewhere.ã€
-ï¼ƒSouko
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒFix it quickly. I can't stand this darkness.ã€
-ï¼ƒProtagonist
-ã€ŒI know. Now thenâ€”ã€
+”Benio
+uApparently, a fuse just blew. Tsujimura said that someone was likely using too much electricity somewhere.v
+”Souko
+uI see...v
+”Benio
+uFix it quickly. I can't stand this darkness.v
+”Protagonist
+uI know. Now then?v
 Using a screwdriver, I removed the fragments of the blown fuse.
 I loosened the two screws at the top and bottom and fitted in a new fuse that was about the same thickness as the one that had blown.
-ï¼ƒBenio
-ã€Œ...I'm impressed you can actually do something like that.ã€
+”Benio
+u...I'm impressed you can actually do something like that.v
 Benio-san was looking on with admiration.
-ï¼ƒSouko
-ã€ŒIt's a hassle to call an electrician for something like this, so I usually just do it myself.ã€
-ï¼ƒBenio
-ã€ŒWe leave everything to Tsujimura, so I can't do a single thing around the house.ã€
-ï¼ƒProtagonist
-ã€ŒI think it's better if you can at least do a little bit, though.ã€
+”Souko
+uIt's a hassle to call an electrician for something like this, so I usually just do it myself.v
+”Benio
+uWe leave everything to Tsujimura, so I can't do a single thing around the house.v
+”Protagonist
+uI think it's better if you can at least do a little bit, though.v
 Well, I suppose that helplessness is part of being a high-class lady.
 I tightened the screws back up and closed the lid of the fuse box just as it was.
-ï¼ƒProtagonist
-ã€ŒNow, if I just turn on the main power...ã€
+”Protagonist
+uNow, if I just turn on the main power...v
 I flipped the large lever toward "ON."
 The lights came on.
 Even though it shouldn't have been that bright, I squinted at the glare.
-ï¼ƒProtagonist
-ã€ŒEhâ€”!?ã€
+”Protagonist
+uEh?!?v
 The lights immediately cut out again.
-ï¼ƒSouko
-ã€ŒAgain!?ã€
-ï¼ƒBenio
-ã€ŒWhat happened!?ã€
+”Souko
+uAgain!?v
+”Benio
+uWhat happened!?v
 Benio-san pressed closer.
-ï¼ƒProtagonist
-ã€ŒEh... what just happened...?ã€
+”Protagonist
+uEh... what just happened...?v
 Faltering, I shut off the main power once more.
 Smoke was leaking from the white fuse box.
-ï¼ƒSouko
-ã€Œ...Did it blow again...?ã€
+”Souko
+u...Did it blow again...?v
 I reached for the lid to check the fuse.
-ï¼ƒProtagonist
-ã€ŒHot!?ã€
-ï¼ƒSouko
-ã€ŒDon't touch it carelessly when smoke is coming out. But... I wonder why.ã€
+”Protagonist
+uHot!?v
+”Souko
+uDon't touch it carelessly when smoke is coming out. But... I wonder why.v
 Souko-san used the tip of the screwdriver to pry the lid open.
 A thick cloud of smoke billowed out.
-ï¼ƒSouko
-ã€ŒWait, could it be...ã€
+”Souko
+uWait, could it be...v
 Souko-san picked up the fragment of the fuse that had been there before.
-ï¼ƒSouko
-ã€ŒYou put in one that was the same size as this, right?ã€
-ï¼ƒProtagonist
-ã€ŒYes, that's right...ã€
-ï¼ƒSouko
-ã€ŒI suspect... including the one that was blown before, they might have been replaced with fuses that have a low ampere rating.ã€
-ï¼ƒBenio
-ã€ŒWhat does that mean?ã€
-ï¼ƒSouko
-ã€ŒIt means they'll blow again right away.ã€
-ï¼ƒBenio
-ã€ŒI don't quite get it, but isn't there a bigger one?ã€
-ï¼ƒProtagonist
-ã€ŒUmm...ã€
+”Souko
+uYou put in one that was the same size as this, right?v
+”Protagonist
+uYes, that's right...v
+”Souko
+uI suspect... including the one that was blown before, they might have been replaced with fuses that have a low ampere rating.v
+”Benio
+uWhat does that mean?v
+”Souko
+uIt means they'll blow again right away.v
+”Benio
+uI don't quite get it, but isn't there a bigger one?v
+”Protagonist
+uUmm...v
 I looked for a spare fuse.
 There was only one that was thicker than the previous one.
-ï¼ƒProtagonist
-ã€ŒAh, I found it. But... what's going on?ã€
-ï¼ƒSouko
-ã€ŒIt's likely the work of the culprit. They probably replaced the fuses with ones that are right on the edge of the daytime power consumption, intending for them to blow in the evening when more electricity is used.ã€
-ï¼ƒProtagonist
-ã€ŒSo you're saying it was a trap. But... what could the culprit's intention be?ã€
-ï¼ƒSouko
-ã€ŒWell... giving everyone around them a sense of anxiety by having the lights go out, or simply making it easier for themselves to move around, I suppose.ã€
-ï¼ƒBenio
-ã€ŒIn other words, there's a possibility they're on the move right at this moment.ã€
-ï¼ƒSouko
-ã€Œ...That might be the case.ã€
-ï¼ƒBenio
-ã€ŒI don't quite understand, but is this kind of thing easy to do?ã€
-ï¼ƒSouko
-ã€ŒIt wouldn't be difficult for someone with a certain amount of knowledge.ã€
-ï¼ƒBenio
-ã€ŒHmm...ã€
+”Protagonist
+uAh, I found it. But... what's going on?v
+”Souko
+uIt's likely the work of the culprit. They probably replaced the fuses with ones that are right on the edge of the daytime power consumption, intending for them to blow in the evening when more electricity is used.v
+”Protagonist
+uSo you're saying it was a trap. But... what could the culprit's intention be?v
+”Souko
+uWell... giving everyone around them a sense of anxiety by having the lights go out, or simply making it easier for themselves to move around, I suppose.v
+”Benio
+uIn other words, there's a possibility they're on the move right at this moment.v
+”Souko
+u...That might be the case.v
+”Benio
+uI don't quite understand, but is this kind of thing easy to do?v
+”Souko
+uIt wouldn't be difficult for someone with a certain amount of knowledge.v
+”Benio
+uHmm...v
 Benio-san crossed her arms and sank into thought.
-ï¼ƒBenio
-ã€Œ...So, since the power just cut out again, does that mean a lot of electricity is still being used somewhere?ã€
-ï¼ƒSouko
-ã€ŒThat...!ã€
+”Benio
+u...So, since the power just cut out again, does that mean a lot of electricity is still being used somewhere?v
+”Souko
+uThat...!v
 Souko-san gasped and grabbed my arm.
 I was just about to install the larger fuse and flip the main power switch.
-ï¼ƒProtagonist
-ã€ŒEh...!?ã€
-ï¼ƒSouko
-ã€ŒWait. There's a possibility of a short circuit somewhere. If we don't investigate that first, the line might just snap again.ã€
-ï¼ƒProtagonist
-ã€ŒA short circuit... you mean. Where on earth...?ã€
-ï¼ƒSouko
-ã€ŒI don't know... but let's split up and look for it.ã€
-ï¼ƒProtagonist
-ã€ŒBut how...?ã€
-ï¼ƒSouko
-ã€ŒA wire might have been chewed on by a rat... or maybe water. If meltwater from the snow is leaking into the attic...ã€
-ï¼ƒBenio
-ã€ŒIf it comes to that, we amateurs are helpless... Hmm? Water... how about the bathroom? If it's related to plumbing, that's about the only place I can think of.ã€
-ï¼ƒProtagonist
-ã€ŒAnyway, let's go check. It's also necessary to confirm everyone else's safety.ã€
-ï¼ƒSouko
-ã€Œ...You're right.ã€
-ï¼ƒBenio
-ã€ŒWe can finally settle down now.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... but why a blackout at a time like this...ã€
-ï¼ƒSouko
-ã€Œ...It's possible it was a trap set by the culprit.ã€
-ï¼ƒBenio
-ã€ŒMm, I agree.ã€
+”Protagonist
+uEh...!?v
+”Souko
+uWait. There's a possibility of a short circuit somewhere. If we don't investigate that first, the line might just snap again.v
+”Protagonist
+uA short circuit... you mean. Where on earth...?v
+”Souko
+uI don't know... but let's split up and look for it.v
+”Protagonist
+uBut how...?v
+”Souko
+uA wire might have been chewed on by a rat... or maybe water. If meltwater from the snow is leaking into the attic...v
+”Benio
+uIf it comes to that, we amateurs are helpless... Hmm? Water... how about the bathroom? If it's related to plumbing, that's about the only place I can think of.v
+”Protagonist
+uAnyway, let's go check. It's also necessary to confirm everyone else's safety.v
+”Souko
+u...You're right.v
+”Benio
+uWe can finally settle down now.v
+”Protagonist
+uYeah... but why a blackout at a time like this...v
+”Souko
+u...It's possible it was a trap set by the culprit.v
+”Benio
+uMm, I agree.v
 The two of them looked at each other and nodded.
-ï¼ƒProtagonist
-ã€ŒA trap, huh...ã€
-ï¼ƒSouko
-ã€ŒLet's head back for now. It's hard to settle down in such a cramped place.ã€
-ï¼ƒBenio
-ã€ŒOnce we're back, let's make sure to confirm that everyone is safe.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
+”Protagonist
+uA trap, huh...v
+”Souko
+uLet's head back for now. It's hard to settle down in such a cramped place.v
+”Benio
+uOnce we're back, let's make sure to confirm that everyone is safe.v
+”Protagonist
+uRight.v

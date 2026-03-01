@@ -1,20 +1,20 @@
-ï¼ƒMaya
-ã€ŒI wouldn't know, I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒAi
-ã€ŒIâ€™m not sureâ€¦ I was in my room the entire time.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTsujimura
-ã€ŒI believe he was in his roomâ€¦ but I haven't confirmed it.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTakamine
-ã€ŒI was in my room the whole time. Though I doubt anyone can prove it.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒNarumi
-ã€ŒI didn't see him once while I was out in the hallway. Iâ€™m pretty sure he was in his room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
+”Maya
+uI wouldn't know, I was resting in my room as well.v
+”Protagonist
+uI seecv
+”Ai
+uIfm not surec I was in my room the entire time.v
+”Protagonist
+uI seecv
+”Tsujimura
+uI believe he was in his roomc but I haven't confirmed it.v
+”Protagonist
+uI seecv
+”Takamine
+uI was in my room the whole time. Though I doubt anyone can prove it.v
+”Protagonist
+uI seecv
+”Narumi
+uI didn't see him once while I was out in the hallway. Ifm pretty sure he was in his room the whole time.v
+”Protagonist
+uI seecv

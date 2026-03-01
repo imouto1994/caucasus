@@ -1,82 +1,82 @@
 I walked over to Narumi-san by the atrium.
-ï¼ƒProtagonist
-ã€ŒWhat are you doing here?ã€
-ï¼ƒNarumi
-ã€ŒJust thinking. Thereâ€™s the code from earlier, but... from here, I can see almost everyoneâ€™s movements.ã€
-ï¼ƒProtagonist
-ã€Œ...True, you can see the entire second-floor corridor from here.ã€
-ï¼ƒNarumi
-ã€ŒI can see the first-floor hall too, so I can tell when people are moving around...ã€
-ï¼ƒProtagonist
-ã€ŒIt might be a good idea to keep watch here tonight.ã€
-ï¼ƒNarumi
-ã€Œ...What about the search for the hidden inheritance?ã€
+”Protagonist
+uWhat are you doing here?v
+”Narumi
+uJust thinking. Therefs the code from earlier, but... from here, I can see almost everyonefs movements.v
+”Protagonist
+u...True, you can see the entire second-floor corridor from here.v
+”Narumi
+uI can see the first-floor hall too, so I can tell when people are moving around...v
+”Protagonist
+uIt might be a good idea to keep watch here tonight.v
+”Narumi
+u...What about the search for the hidden inheritance?v
 Narumi-san asked in a low voice.
-ï¼ƒProtagonist
-ã€ŒDr. Mikanagi just warned me. He said itâ€™s best to stay quiet.ã€
-ï¼ƒNarumi
-ã€ŒI can see why heâ€™d say that... but this is what I infiltrated this place for.ã€
-ï¼ƒProtagonist
-ã€ŒShouldn't you give up? The police will likely be here tomorrow.ã€
-ï¼ƒNarumi
-ã€ŒBut look... I want the inheritance, but I also want to solve the mystery of that code, don't you?ã€
-ï¼ƒProtagonist
-ã€ŒWell, yes, but...ã€
+”Protagonist
+uDr. Mikanagi just warned me. He said itfs best to stay quiet.v
+”Narumi
+uI can see why hefd say that... but this is what I infiltrated this place for.v
+”Protagonist
+uShouldn't you give up? The police will likely be here tomorrow.v
+”Narumi
+uBut look... I want the inheritance, but I also want to solve the mystery of that code, don't you?v
+”Protagonist
+uWell, yes, but...v
 I was certainly curious about that mystery.
 But with no clues found so far, it would be difficult.
-ï¼ƒNarumi
-ã€ŒIf only we knew the meaning of that last word...ã€
-ï¼ƒProtagonist
-ã€ŒLet's just stop. Right now, letâ€™s just pray there are no more victims.ã€
-ï¼ƒNarumi
-ã€ŒI suppose... hmm?ã€
+”Narumi
+uIf only we knew the meaning of that last word...v
+”Protagonist
+uLet's just stop. Right now, letfs just pray there are no more victims.v
+”Narumi
+uI suppose... hmm?v
 Narumi-san tilted her head as she looked downstairs.
-ï¼ƒNarumi
-ã€ŒShion-ojousama, is something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒEh... Shion-san?ã€
+”Narumi
+uShion-ojousama, is something the matter?v
+”Protagonist
+uEh... Shion-san?v
 Peering down, I made eye contact with Shion-san, who had just climbed the stairs.
-ï¼ƒShion
-ã€ŒA... ah.ã€
+”Shion
+uA... ah.v
 Shion-san stopped at the top of the stairs.
-ï¼ƒProtagonist
-ã€ŒIs something wrong?ã€
-ï¼ƒShion
-ã€ŒUm... I was going to get some medicine from Dr. Mikanagi...ã€
-ï¼ƒProtagonist
-ã€ŒDr. Mikanagi has already returned to his room.ã€
-ï¼ƒShion
-ã€ŒAh... I see...ã€
+”Protagonist
+uIs something wrong?v
+”Shion
+uUm... I was going to get some medicine from Dr. Mikanagi...v
+”Protagonist
+uDr. Mikanagi has already returned to his room.v
+”Shion
+uAh... I see...v
 She must have been feeling unwell; Shion-san's expression was grim.
-ï¼ƒProtagonist
-ã€ŒShould I go with you?ã€
-ï¼ƒShion
-ã€ŒNo... I'm fine.ã€
+”Protagonist
+uShould I go with you?v
+”Shion
+uNo... I'm fine.v
 Shion-san shook her head, bowed, and walked down the corridor.
-ï¼ƒProtagonist
-ã€Œ...Itâ€™s no wonder sheâ€™s feeling unwell given the situation.ã€
-ï¼ƒNarumi
-ã€ŒOf course. Even the Madamâ€™s appetite has decreased.ã€
+”Protagonist
+u...Itfs no wonder shefs feeling unwell given the situation.v
+”Narumi
+uOf course. Even the Madamfs appetite has decreased.v
 Narumi-san muttered as she gazed down the western corridor.
 Only Maya-san was left on the west side.
 ...Given that Benio-san had died, it was no wonder.
 Only Maya-san and Souko-san were on the west side.
-ï¼ƒProtagonist
-ã€Œ...I just hope nothing else happens.ã€
-ï¼ƒNarumi
-ã€Œ...If I were the killer, Iâ€™d think tonight was the climax and try to make a move. Although if theyâ€™ve already achieved their goal, maybe not...ã€
-ï¼ƒProtagonist
-ã€ŒWhat do you think the killer's goal is?ã€
-ï¼ƒNarumi
-ã€ŒSomething other than money, surely. If it were truly an inheritance dispute, thereâ€™d be no point in killing Rokuyou-san first, and kicking out the competition wouldn't get you the money.ã€
-ï¼ƒProtagonist
-ã€ŒTrue... the remaining person would just become the prime suspect...ã€
-ï¼ƒNarumi
-ã€ŒExactly. So I think the goal is something other than moneyâ€”a grudge, or a crime of passion.ã€
-ï¼ƒProtagonist
-ã€ŒA crime of passion, huh...ã€
+”Protagonist
+u...I just hope nothing else happens.v
+”Narumi
+u...If I were the killer, Ifd think tonight was the climax and try to make a move. Although if theyfve already achieved their goal, maybe not...v
+”Protagonist
+uWhat do you think the killer's goal is?v
+”Narumi
+uSomething other than money, surely. If it were truly an inheritance dispute, therefd be no point in killing Rokuyou-san first, and kicking out the competition wouldn't get you the money.v
+”Protagonist
+uTrue... the remaining person would just become the prime suspect...v
+”Narumi
+uExactly. So I think the goal is something other than money?a grudge, or a crime of passion.v
+”Protagonist
+uA crime of passion, huh...v
 I wondered if there was something more to Rokuyou-san's murder as well.
-Since that was where it all beganâ€”
-ï¼ƒNarumi
-ã€ŒEhâ€”Shion-ojousama!?ã€
+Since that was where it all began?
+”Narumi
+uEh?Shion-ojousama!?v
 Narumi-san cried out as she looked down the northern corridor.

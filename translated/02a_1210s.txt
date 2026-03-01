@@ -1,19 +1,19 @@
 There is a small window designed to let in light.
-It doesn't appear to have a lock, but itâ€™s far too small for a person to pass through.
-Itâ€™s highly unlikely the killer used this as an entry or exit point.
-ï¼ƒProtagonist
-ã€ŒThis is the rope that was around Ai-sanâ€™s neck...ã€
-ï¼ƒSouko
-ã€ŒIt has wire braided into it... it wouldn't have been easy to cut.ã€
-ï¼ƒProtagonist
-ã€ŒOne end was securely fixed to the wall... while the other end was caught in the clock gears.ã€
-Itâ€™s a wire-reinforced rope that had been wrapped around Ai-sanâ€™s neck.
-ï¼ƒProtagonist
-ã€ŒI wonder what this rod is for...ã€
+It doesn't appear to have a lock, but itfs far too small for a person to pass through.
+Itfs highly unlikely the killer used this as an entry or exit point.
+”Protagonist
+uThis is the rope that was around Ai-sanfs neck...v
+”Souko
+uIt has wire braided into it... it wouldn't have been easy to cut.v
+”Protagonist
+uOne end was securely fixed to the wall... while the other end was caught in the clock gears.v
+Itfs a wire-reinforced rope that had been wrapped around Ai-sanfs neck.
+”Protagonist
+uI wonder what this rod is for...v
 I picked up a piece of wood that had been lying on the floor.
-ï¼ƒSouko
-ã€ŒIt doesn't look like anything particularly important...ã€
-Itâ€™s a piece of wood about a meter in length.
+”Souko
+uIt doesn't look like anything particularly important...v
+Itfs a piece of wood about a meter in length.
 These are the gears that drive the clock.
 They are currently stationary.
 The gears are not moving.

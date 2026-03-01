@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAbout Mikanagi-sensei? Hmm, he did treat my finger, but how should I put it... he seems a bit flighty.ã€
-ï¼ƒProtagonist
-ã€Œ...I suppose so.ã€
-ï¼ƒMaya
-ã€ŒWe owe Mikanagi-sensei's father a great debt. I am who I am today thanks to the Mikanagi family.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒMikanagi-sensei looks after us often. Since other doctors won't come out to such a remote place, he's a lifesaver.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒYou mean the Good Doctor? Well, he might look serious, but he's a frivolous man.ã€
-ï¼ƒProtagonist
-ã€Œ...Oh.ã€
-ï¼ƒTsujimura
-ã€ŒMikanagi-sensei is indispensable to this house. Neither the Mistress nor Lady Shion are particularly robust...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMikanagi-sensei seems to be an excellent physician. His specialty is internal medicine, but I imagine he could handle simple surgery.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒMe? My father is the true family physician for the Nanatsuki. But he's getting on in years, so I've been staying here lately.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒAkane
-ã€ŒU-um... about last night... did you tell anyone...?ã€
-ï¼ƒProtagonist
-ã€Œ...No, I haven't told anyone yet.ã€
-ï¼ƒAkane
-ã€ŒPlease, you absolutely mustn't tell a soul, okay!?ã€
-ï¼ƒProtagonist
-ã€ŒSure... I get it...ã€
-ï¼ƒNarumi
-ã€ŒMikanagi-sensei? He has a bit of a flighty vibe. Well, it's not like he ever talks to me anyway.ã€
-ï¼ƒProtagonist
-ã€ŒI-is that so...ã€
+”Souko
+uAbout Mikanagi-sensei? Hmm, he did treat my finger, but how should I put it... he seems a bit flighty.v
+”Protagonist
+u...I suppose so.v
+”Maya
+uWe owe Mikanagi-sensei's father a great debt. I am who I am today thanks to the Mikanagi family.v
+”Protagonist
+uI see...v
+”Ai
+uMikanagi-sensei looks after us often. Since other doctors won't come out to such a remote place, he's a lifesaver.v
+”Protagonist
+uI see.v
+”Benio
+uYou mean the Good Doctor? Well, he might look serious, but he's a frivolous man.v
+”Protagonist
+u...Oh.v
+”Tsujimura
+uMikanagi-sensei is indispensable to this house. Neither the Mistress nor Lady Shion are particularly robust...v
+”Protagonist
+uI see...v
+”Takamine
+uMikanagi-sensei seems to be an excellent physician. His specialty is internal medicine, but I imagine he could handle simple surgery.v
+”Protagonist
+uI see.v
+”Mikanagi
+uMe? My father is the true family physician for the Nanatsuki. But he's getting on in years, so I've been staying here lately.v
+”Protagonist
+uIs that so?v
+”Akane
+uU-um... about last night... did you tell anyone...?v
+”Protagonist
+u...No, I haven't told anyone yet.v
+”Akane
+uPlease, you absolutely mustn't tell a soul, okay!?v
+”Protagonist
+uSure... I get it...v
+”Narumi
+uMikanagi-sensei? He has a bit of a flighty vibe. Well, it's not like he ever talks to me anyway.v
+”Protagonist
+uI-is that so...v

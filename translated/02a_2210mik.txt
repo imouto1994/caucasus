@@ -1,29 +1,29 @@
 I stepped out into the hallway and went to the room right next door.
-ï¼ƒProtagonist
-ã€ŒDr. Mikanagi, it's me.ã€
+”Protagonist
+uDr. Mikanagi, it's me.v
 The door opened, and Dr. Mikanagi stepped out into the hallway.
-ï¼ƒMikanagi
-ã€ŒWhat is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒUm, I'd like to prepare for an attack by the culprit here tonight...ã€
-ï¼ƒMikanagi
-ã€ŒAn attack by the culprit...? Could such a thing happen?ã€
-ï¼ƒProtagonist
-ã€ŒI don't know. But... I think the probability is high.ã€
-ï¼ƒMikanagi
-ã€ŒHmm... but in that case, wouldn't it be better to go to someone else's place instead of mine?ã€
-ï¼ƒProtagonist
-ã€ŒThere's a chance you'll be targeted too, Dr. Mikanagi.ã€
-ï¼ƒMikanagi
-ã€ŒEven so... since we're in adjacent rooms, I'd notice if something happened, wouldn't I? I think it'd be fine if you just came over then.ã€
-ï¼ƒProtagonist
-ã€Œ...You have a point.ã€
+”Mikanagi
+uWhat is it this time?v
+”Protagonist
+uUm, I'd like to prepare for an attack by the culprit here tonight...v
+”Mikanagi
+uAn attack by the culprit...? Could such a thing happen?v
+”Protagonist
+uI don't know. But... I think the probability is high.v
+”Mikanagi
+uHmm... but in that case, wouldn't it be better to go to someone else's place instead of mine?v
+”Protagonist
+uThere's a chance you'll be targeted too, Dr. Mikanagi.v
+”Mikanagi
+uEven so... since we're in adjacent rooms, I'd notice if something happened, wouldn't I? I think it'd be fine if you just came over then.v
+”Protagonist
+u...You have a point.v
 That's certainly true.
 There's no need to intentionally be in the same room.
-ï¼ƒMikanagi
-ã€ŒWell, I'm going to bed soon, so see you tomorrow.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... good night.ã€
-ï¼ƒProtagonist
-ã€Œ...Phew.ã€
+”Mikanagi
+uWell, I'm going to bed soon, so see you tomorrow.v
+”Protagonist
+uYeah... good night.v
+”Protagonist
+u...Phew.v
 It can't be helped; I'll head back to my room and rest.

@@ -1,14 +1,14 @@
-Iâ€™ve returned to my own room.
+Ifve returned to my own room.
 There's a fireplace here too, of course...
-Iâ€™ve returned again.
-ï¼ƒNarumi
-ã€ŒWeren't we just here?ã€
-ï¼ƒProtagonist
-ã€ŒWell, yes...ã€
-ï¼ƒNarumi
-ã€ŒIf you still want to investigate, then make it quick.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-Iâ€™ve returned to my own room.
-ï¼ƒNarumi
-ã€ŒWant to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.ã€
+Ifve returned again.
+”Narumi
+uWeren't we just here?v
+”Protagonist
+uWell, yes...v
+”Narumi
+uIf you still want to investigate, then make it quick.v
+”Protagonist
+uRight...v
+Ifve returned to my own room.
+”Narumi
+uWant to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.v

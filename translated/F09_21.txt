@@ -1,41 +1,41 @@
 I've come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-ï¼ƒBenio
-ã€ŒYes... Oh, it's you.ã€
-ï¼ƒProtagonist
-ã€ŒHello, Benio-san. Do you have a moment?ã€
-ï¼ƒBenio
-ã€ŒI don't mind. Come in.ã€
+”Benio
+uYes... Oh, it's you.v
+”Protagonist
+uHello, Benio-san. Do you have a moment?v
+”Benio
+uI don't mind. Come in.v
 Benio-san invited me into her room.
-ï¼ƒBenio
-ã€ŒSo, what do you want?ã€
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Benio
+uSo, what do you want?v
+”Protagonist
+uUh, well...v
 I've come to Benio-san's room on the second floor.
 I knock and wait for a while.
-ï¼ƒBenio
-ã€ŒWho is it... Oh, you again.ã€
-ï¼ƒProtagonist
-ã€ŒHello, Benio-san. Do you have a moment?ã€
-ï¼ƒBenio
-ã€ŒWell, I don't mind.ã€
+”Benio
+uWho is it... Oh, you again.v
+”Protagonist
+uHello, Benio-san. Do you have a moment?v
+”Benio
+uWell, I don't mind.v
 Benio-san invited me into her room.
-ï¼ƒBenio
-ã€ŒSo, what do you want?ã€
+”Benio
+uSo, what do you want?v
 Benio-san asks, her posture straightening.
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Protagonist
+uUh, well...v
 I've come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒOh...ã€
+”Protagonist
+uOh...v
 No matter how long I wait, there's no response.
 I wonder if she's gone somewhere else.
 I decided to move to another location too.
 I've come to Benio-san's room on the second floor.
 I don't have any business here anymore, but...
-ï¼ƒProtagonist
-ã€Œ...I'll go somewhere else.ã€
+”Protagonist
+u...I'll go somewhere else.v
 I offered a silent prayer toward the door for a moment before moving on.

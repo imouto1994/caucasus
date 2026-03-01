@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒMikanagi-sensei, huh... Even if he were the killer, would he use such a convoluted method? He's a doctor; there should be plenty of other ways.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒBenio
-ã€ŒHiroshi would have no reason to murder my sister. Inheritance has nothing to do with him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒIf it's Mikanagi-sensei, I believe he was in the infirmary...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒMikanagi-sensei was in the infirmary.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒMikanagi-sensei? He's usually in the infirmary.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uMikanagi-sensei, huh... Even if he were the killer, would he use such a convoluted method? He's a doctor; there should be plenty of other ways.v
+”Protagonist
+u...True.v
+”Benio
+uHiroshi would have no reason to murder my sister. Inheritance has nothing to do with him.v
+”Protagonist
+uI see...v
+”Tsujimura
+uIf it's Mikanagi-sensei, I believe he was in the infirmary...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uMikanagi-sensei was in the infirmary.v
+”Protagonist
+uI see...v
+”Narumi
+uMikanagi-sensei? He's usually in the infirmary.v
+”Protagonist
+uI see...v

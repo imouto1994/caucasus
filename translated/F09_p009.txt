@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAkane-san hasn't been acting particularly strange, but we can't be too careful.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒAkane is a hard worker. She is very attentive to detail.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAkane-san? She's an excellent worker.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAkane, huh... She's putting up a brave front, but it looks like she's quite exhausted.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒAkane-san... she has always been kind to me.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒIf you're looking for Mistress Hiyama, she's likely in the dining hall. If not, she's probably back in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒHiyama-kun? Nothing in particular caught my eye.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€Œ...I wonder if Akane-san just wants to know the truth. Or is she looking for something more than that...?ã€
-ï¼ƒProtagonist
-ã€Œ...I don't know.ã€
-ï¼ƒAkane
-ã€ŒMy injuries are fine now. For now, let's... think about other things instead.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒNarumi
-ã€ŒWhat Akane is looking into... might be something that this family wouldn't find very pleasant.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAkane-san hasn't been acting particularly strange, but we can't be too careful.v
+”Protagonist
+uRight...v
+”Maya
+uAkane is a hard worker. She is very attentive to detail.v
+”Protagonist
+uI see.v
+”Ai
+uAkane-san? She's an excellent worker.v
+”Protagonist
+uI see.v
+”Benio
+uAkane, huh... She's putting up a brave front, but it looks like she's quite exhausted.v
+”Protagonist
+uTrue...v
+”Shion
+uAkane-san... she has always been kind to me.v
+”Protagonist
+uI see...v
+”Tsujimura
+uIf you're looking for Mistress Hiyama, she's likely in the dining hall. If not, she's probably back in her room.v
+”Protagonist
+uI see...v
+”Takamine
+uHiyama-kun? Nothing in particular caught my eye.v
+”Protagonist
+uI see...v
+”Mikanagi
+u...I wonder if Akane-san just wants to know the truth. Or is she looking for something more than that...?v
+”Protagonist
+u...I don't know.v
+”Akane
+uMy injuries are fine now. For now, let's... think about other things instead.v
+”Protagonist
+uRight...v
+”Narumi
+uWhat Akane is looking into... might be something that this family wouldn't find very pleasant.v
+”Protagonist
+uI see...v

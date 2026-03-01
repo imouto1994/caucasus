@@ -1,48 +1,48 @@
-ï¼ƒSouko
-ã€ŒYou want to hear about me? You already know, don't you?ã€
-ï¼ƒProtagonist
-ã€ŒNo, come on, give me something.ã€
-ï¼ƒSouko
-ã€ŒYour university senior and an unparalleled Cola lover. Will that do?ã€
-ï¼ƒProtagonist
-ã€Œ...Not really.ã€
-ï¼ƒSouko
-ã€ŒWell then, shall I say I'm a folklorist who came here for research?ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san, you're still a student too.ã€
-ï¼ƒMaya
-ã€ŒKirihara-san? I'm sorry, I don't know her well.ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒAi
-ã€ŒKirihara-san? We've only just met, so I'm not sure...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€ŒKirihara-san? ...I am sorry, I am not well acquainted with her...ã€
-ï¼ƒProtagonist
-ã€ŒOf course...ã€
-ï¼ƒTsujimura
-ã€ŒMs. Kirihara? ...I don't know her well, but...ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒRokuyou
-ã€ŒKirihara-san... ah, her. You probably know more about her than I do, don't you?ã€
-ï¼ƒProtagonist
-ã€Œ...Well, I suppose so...ã€
-ï¼ƒTakamine
-ã€ŒKirihara... ah, her. There's no reason I would know anything, is there?ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒMikanagi
-ã€ŒKirihara-san? ...Well, I can't really say...ã€
-ï¼ƒProtagonist
-ã€Œ...I guess that's true.ã€
-ï¼ƒAkane
-ã€ŒMs. Kirihara? I believe she would be in her room.ã€
-ï¼ƒProtagonist
-ã€ŒUh... I suppose she would...ã€
-ï¼ƒNarumi
-ã€ŒMs. Kirihara? ...No, I don't know her.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
+”Souko
+uYou want to hear about me? You already know, don't you?v
+”Protagonist
+uNo, come on, give me something.v
+”Souko
+uYour university senior and an unparalleled Cola lover. Will that do?v
+”Protagonist
+u...Not really.v
+”Souko
+uWell then, shall I say I'm a folklorist who came here for research?v
+”Protagonist
+uSouko-san, you're still a student too.v
+”Maya
+uKirihara-san? I'm sorry, I don't know her well.v
+”Protagonist
+uY-You're right...v
+”Ai
+uKirihara-san? We've only just met, so I'm not sure...v
+”Protagonist
+uTrue...v
+”Benio
+uKirihara-san? ...I am sorry, I am not well acquainted with her...v
+”Protagonist
+uOf course...v
+”Tsujimura
+uMs. Kirihara? ...I don't know her well, but...v
+”Protagonist
+uY-You're right...v
+”Rokuyou
+uKirihara-san... ah, her. You probably know more about her than I do, don't you?v
+”Protagonist
+u...Well, I suppose so...v
+”Takamine
+uKirihara... ah, her. There's no reason I would know anything, is there?v
+”Protagonist
+uY-You're right...v
+”Mikanagi
+uKirihara-san? ...Well, I can't really say...v
+”Protagonist
+u...I guess that's true.v
+”Akane
+uMs. Kirihara? I believe she would be in her room.v
+”Protagonist
+uUh... I suppose she would...v
+”Narumi
+uMs. Kirihara? ...No, I don't know her.v
+”Protagonist
+uI-I see...v

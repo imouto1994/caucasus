@@ -1,69 +1,69 @@
-ï¼ƒMikanagi
-ã€Œâ€”It's been like that for a while now.ã€
+”Mikanagi
+u?It's been like that for a while now.v
 Once the door was closed, Dr. Mikanagi began to talk.
-ï¼ƒProtagonist
-ã€Œ...You mean Akane-san, right?ã€
-ï¼ƒMikanagi
-ã€ŒYeah. ...Occasionally, she seems to be doing something in the study.ã€
-ï¼ƒProtagonist
-ã€ŒWhat is she doing?ã€
+”Protagonist
+u...You mean Akane-san, right?v
+”Mikanagi
+uYeah. ...Occasionally, she seems to be doing something in the study.v
+”Protagonist
+uWhat is she doing?v
 At my question, Dr. Mikanagi shook his head.
-ï¼ƒMikanagi
-ã€ŒI don't know. I've never questioned her directly, and I don't think anyone else knows besides me.ã€
-ï¼ƒProtagonist
-ã€Œ...Does it have anything to do with this case, perhaps...?ã€
-ï¼ƒMikanagi
-ã€ŒI don't think so. Her behavior has been going on since before this, and... I don't really think she's doing anything bad.ã€
-ï¼ƒProtagonist
-ã€Œ...? What do you mean?ã€
-ï¼ƒMikanagi
-ã€ŒI haven't heard of anything going missing, either. I suspect she's researching something, but...ã€
-ï¼ƒProtagonist
-ã€ŒWhat on earth could she be...ã€
-ï¼ƒMikanagi
-ã€ŒI don't know. I should have told her to stop before someone else found her, though...ã€
+”Mikanagi
+uI don't know. I've never questioned her directly, and I don't think anyone else knows besides me.v
+”Protagonist
+u...Does it have anything to do with this case, perhaps...?v
+”Mikanagi
+uI don't think so. Her behavior has been going on since before this, and... I don't really think she's doing anything bad.v
+”Protagonist
+u...? What do you mean?v
+”Mikanagi
+uI haven't heard of anything going missing, either. I suspect she's researching something, but...v
+”Protagonist
+uWhat on earth could she be...v
+”Mikanagi
+uI don't know. I should have told her to stop before someone else found her, though...v
 Dr. Mikanagi let out another sigh.
-ï¼ƒProtagonist
-ã€Œ...On the handkerchief Akane-san dropped earlier, there was 'AkariÂ·M' embroidered on it.ã€
-ï¼ƒMikanagi
-ã€ŒAkari...?ã€
-ï¼ƒProtagonist
-ã€ŒYeah. Akane-san said she made a mistake when she was doing the embroidery, but...ã€
-ï¼ƒMikanagi
-ã€Œ...I suppose that sort of thing happens.ã€
+”Protagonist
+u...On the handkerchief Akane-san dropped earlier, there was 'Akari?M' embroidered on it.v
+”Mikanagi
+uAkari...?v
+”Protagonist
+uYeah. Akane-san said she made a mistake when she was doing the embroidery, but...v
+”Mikanagi
+u...I suppose that sort of thing happens.v
 Dr. Mikanagi murmured.
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
+”Protagonist
+uI wonder...v
 In any case, I might need to keep a close eye on Akane-san.
-ï¼ƒProtagonist
-ã€ŒWell then, I'll be going now.ã€
+”Protagonist
+uWell then, I'll be going now.v
 Thinking I'd head back to my room to gather my thoughts, I stood up.
-ï¼ƒMikanagi
-ã€ŒAh, it'll be faster if you go this way.ã€
+”Mikanagi
+uAh, it'll be faster if you go this way.v
 Saying so, Dr. Mikanagi pointed to the door near the window.
-ï¼ƒMikanagi
-ã€ŒYour room is right next door, isn't it?ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
+”Mikanagi
+uYour room is right next door, isn't it?v
+”Protagonist
+uYeah...v
 It's a door that connects the rooms directly.
 It's certainly close, but...
 I walked up to the door and twisted the knob.
 It was locked.
-ï¼ƒMikanagi
-ã€ŒThe doors between rooms are special; this one can only be opened with your key.ã€
+”Mikanagi
+uThe doors between rooms are special; this one can only be opened with your key.v
 Dr. Mikanagi took out the key to his room and inserted it into the keyhole.
-ï¼ƒMikanagi
-ã€ŒSee, my key can't open it. Give yours a try.ã€
-ï¼ƒProtagonist
-ã€ŒOkay...ã€
+”Mikanagi
+uSee, my key can't open it. Give yours a try.v
+”Protagonist
+uOkay...v
 I inserted the key to my room.
 The door opened.
-ï¼ƒMikanagi
-ã€ŒIt can only be opened with a key from one side. So, I'm praying that you aren't the culprit.ã€
-ï¼ƒProtagonist
-ã€Œ...Of course I'm not.ã€
+”Mikanagi
+uIt can only be opened with a key from one side. So, I'm praying that you aren't the culprit.v
+”Protagonist
+u...Of course I'm not.v
 I can understand being wary of people who can open this door, so I gave a simple nod.
-ï¼ƒProtagonist
-ã€ŒWell then, good night.ã€
-ï¼ƒMikanagi
-ã€ŒYeah, good night.ã€
+”Protagonist
+uWell then, good night.v
+”Mikanagi
+uYeah, good night.v

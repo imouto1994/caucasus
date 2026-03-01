@@ -1,17 +1,17 @@
-ï¼ƒTsujimura
-ã€ŒOh, what's the matter?ã€
+”Tsujimura
+uOh, what's the matter?v
 Tsujimura-san was in the office.
-ï¼ƒProtagonist
-ã€ŒHello. Were you in the middle of work?ã€
-ï¼ƒTsujimura
-ã€ŒJust organizing some documents. Did you need something?ã€
-ï¼ƒProtagonist
-ã€ŒUh... well...ã€
-ï¼ƒTsujimura
-ã€ŒOh, what's the matter again?ã€
+”Protagonist
+uHello. Were you in the middle of work?v
+”Tsujimura
+uJust organizing some documents. Did you need something?v
+”Protagonist
+uUh... well...v
+”Tsujimura
+uOh, what's the matter again?v
 Tsujimura-san was still in the office.
-ï¼ƒProtagonist
-ã€ŒUh... well...ã€
+”Protagonist
+uUh... well...v
 I've come to the office.
 Tsujimura-san doesn't seem to be here.
 He's probably preparing for the wedding.

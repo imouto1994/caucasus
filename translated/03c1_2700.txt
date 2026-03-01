@@ -1,118 +1,118 @@
 I returned to the first floor.
-ï¼ƒProtagonist
-ã€ŒThen I'll go to Shion-san's place.ã€
-ï¼ƒNarumi
-ã€ŒWill you be okay on your own?ã€
-ï¼ƒProtagonist
-ã€ŒYeah... don't worry.ã€
+”Protagonist
+uThen I'll go to Shion-san's place.v
+”Narumi
+uWill you be okay on your own?v
+”Protagonist
+uYeah... don't worry.v
 I entered the office.
-ï¼ƒBenio
-ã€ŒNn... what's up?ã€
+”Benio
+uNn... what's up?v
 Benio-san was there.
-ï¼ƒProtagonist
-ã€ŒOh, Benio-san... you're still awake?ã€
-ï¼ƒBenio
-ã€ŒI couldn't sleep. Want some?ã€
+”Protagonist
+uOh, Benio-san... you're still awake?v
+”Benio
+uI couldn't sleep. Want some?v
 She held up a cup of cocoa.
-ï¼ƒProtagonist
-ã€ŒNo, I have things I need to confirm right now.ã€
-ï¼ƒBenio
-ã€Œ...Shion?ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
-ï¼ƒBenio
-ã€Œ...Did you find something out from the code Father left behind? But that was written a long time ago, wasn't it? It has nothing to do with the caseâ€”ã€
-ï¼ƒProtagonist
-ã€ŒIt was related.ã€
-ï¼ƒBenio
-ã€ŒWhat...?ã€
-ï¼ƒProtagonist
-ã€Œ...I heard that a woman named Akari Misono used to work here.ã€
-ï¼ƒBenio
-ã€ŒAh... she seemed to be close with the doctor... but she disappeared suddenly.ã€
-ï¼ƒProtagonist
-ã€ŒApparently, she was Akane-san's older sister.ã€
-ï¼ƒBenio
-ã€Œ...Is that so... but does that matter now...? Even with Akane being missing...ã€
-ï¼ƒProtagonist
-ã€ŒIt's Akari Misono-san. I asked you about her earlier, remember?ã€
-ï¼ƒBenio
-ã€Œ...Yeah. But why would she be here...?ã€
-ï¼ƒProtagonist
-ã€Œ...A short while ago, I confirmed a skeletal corpse in the basement that appears to be Akari-san.ã€
-ï¼ƒBenio
-ã€ŒWhatâ€”!? What do you mean!?ã€
-ï¼ƒProtagonist
-ã€Œ...She didn't disappear; she was murdered.ã€
-ï¼ƒBenio
-ã€ŒThat's impossible... then, who are you saying is the culprit...?ã€
-ï¼ƒProtagonist
-ã€Œ...I think you already know, Benio-san...ã€
-ï¼ƒBenio
-ã€Œ...Mother...? And the reason?ã€
+”Protagonist
+uNo, I have things I need to confirm right now.v
+”Benio
+u...Shion?v
+”Protagonist
+u...Yeah.v
+”Benio
+u...Did you find something out from the code Father left behind? But that was written a long time ago, wasn't it? It has nothing to do with the case?v
+”Protagonist
+uIt was related.v
+”Benio
+uWhat...?v
+”Protagonist
+u...I heard that a woman named Akari Misono used to work here.v
+”Benio
+uAh... she seemed to be close with the doctor... but she disappeared suddenly.v
+”Protagonist
+uApparently, she was Akane-san's older sister.v
+”Benio
+u...Is that so... but does that matter now...? Even with Akane being missing...v
+”Protagonist
+uIt's Akari Misono-san. I asked you about her earlier, remember?v
+”Benio
+u...Yeah. But why would she be here...?v
+”Protagonist
+u...A short while ago, I confirmed a skeletal corpse in the basement that appears to be Akari-san.v
+”Benio
+uWhat?!? What do you mean!?v
+”Protagonist
+u...She didn't disappear; she was murdered.v
+”Benio
+uThat's impossible... then, who are you saying is the culprit...?v
+”Protagonist
+u...I think you already know, Benio-san...v
+”Benio
+u...Mother...? And the reason?v
 I handed Kousei-san's journal to Benio-san.
-ï¼ƒBenio
-ã€ŒThis is...ã€
+”Benio
+uThis is...v
 Benio-san gasped lightly and then began to read in silence.
-ï¼ƒProtagonist
-ã€Œ...I am certain that what is written here is the truth.ã€
-ï¼ƒBenio
-ã€ŒI don't want to believe it... but it's likely true.ã€
+”Protagonist
+u...I am certain that what is written here is the truth.v
+”Benio
+uI don't want to believe it... but it's likely true.v
 Benio-san let out a sigh.
-ï¼ƒBenio
-ã€ŒStill, to think... that Sister and I were not Father's children after all.ã€
-ï¼ƒProtagonist
-ã€ŒBenio-san...ã€
-ï¼ƒBenio
-ã€ŒThere's no point in saying anything now. ...I suppose this is why the inheritance was so skewed.ã€
-ï¼ƒProtagonist
-ã€ŒYou mean the fact that Shion-san inherits nothing.ã€
-ï¼ƒBenio
-ã€ŒFather likely wanted to protect Shion. So he made sure she wouldn't be caught up in anything related to the inheritance.ã€
-ï¼ƒProtagonist
-ã€ŒBut... Rokuyou-san tried to marry Shion-san. Why was that?ã€
-ï¼ƒMikanagi
-ã€Œâ€”I'll speak to that.ã€
-ï¼ƒBenio
-ã€ŒDoctor...?ã€
+”Benio
+uStill, to think... that Sister and I were not Father's children after all.v
+”Protagonist
+uBenio-san...v
+”Benio
+uThere's no point in saying anything now. ...I suppose this is why the inheritance was so skewed.v
+”Protagonist
+uYou mean the fact that Shion-san inherits nothing.v
+”Benio
+uFather likely wanted to protect Shion. So he made sure she wouldn't be caught up in anything related to the inheritance.v
+”Protagonist
+uBut... Rokuyou-san tried to marry Shion-san. Why was that?v
+”Mikanagi
+u?I'll speak to that.v
+”Benio
+uDoctor...?v
 Dr. Mikanagi was standing in the doorway of the office.
-ï¼ƒMikanagi
-ã€ŒI believe my father was involved. My father... was on bad terms with the Rokuyou family, who are also distant relatives of the Nanatsukis.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒMikanagi
-ã€ŒIt doesn't have much to do with our generation. But my father often grumbled about it. That it would be unforgivable for a member of the Rokuyou family to enter the Nanatsuki house.ã€
-ï¼ƒBenio
-ã€ŒAnd so he recommended Shion to Rokuyou?ã€
-ï¼ƒMikanagi
-ã€Œ...I believe so. Although... it might have been that he couldn't forgive his own daughter marrying a member of the Rokuyou family even more.ã€
-ï¼ƒBenio
-ã€Œ...I see.ã€
-ï¼ƒMikanagi
-ã€ŒBesides, to work on a global scale, the name of the composer Kousei Tsujimura would be more useful.ã€
-ï¼ƒBenio
-ã€Œ...The Nanatsuki name only carries weight in this region, after all. And Shion's mother's family is also famous, right?ã€
-ï¼ƒMikanagi
-ã€ŒI don't know if he knew that much. Plus, there might be rights to Mr. Kousei's musical compositions.ã€
-ï¼ƒBenio
-ã€ŒStill, even so... that doesn't explain why Rokuyou was killed.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... that's why I'm going to go talk to Shion-san now.ã€
-ï¼ƒBenio
-ã€ŒDo you think Shion is the culprit?ã€
-ï¼ƒProtagonist
-ã€Œ...I think the possibility is high.ã€
-ï¼ƒProtagonist
-ã€Œ...Yes, I have proof.ã€
-ï¼ƒBenio
-ã€ŒI see... then let's go.ã€
+”Mikanagi
+uI believe my father was involved. My father... was on bad terms with the Rokuyou family, who are also distant relatives of the Nanatsukis.v
+”Protagonist
+uIs that so?v
+”Mikanagi
+uIt doesn't have much to do with our generation. But my father often grumbled about it. That it would be unforgivable for a member of the Rokuyou family to enter the Nanatsuki house.v
+”Benio
+uAnd so he recommended Shion to Rokuyou?v
+”Mikanagi
+u...I believe so. Although... it might have been that he couldn't forgive his own daughter marrying a member of the Rokuyou family even more.v
+”Benio
+u...I see.v
+”Mikanagi
+uBesides, to work on a global scale, the name of the composer Kousei Tsujimura would be more useful.v
+”Benio
+u...The Nanatsuki name only carries weight in this region, after all. And Shion's mother's family is also famous, right?v
+”Mikanagi
+uI don't know if he knew that much. Plus, there might be rights to Mr. Kousei's musical compositions.v
+”Benio
+uStill, even so... that doesn't explain why Rokuyou was killed.v
+”Protagonist
+uYeah... that's why I'm going to go talk to Shion-san now.v
+”Benio
+uDo you think Shion is the culprit?v
+”Protagonist
+u...I think the possibility is high.v
+”Protagonist
+u...Yes, I have proof.v
+”Benio
+uI see... then let's go.v
 Benio-san headed for the back door.
-ï¼ƒProtagonist
-ã€ŒUm... Dr. Mikanagi.ã€
-ï¼ƒMikanagi
-ã€ŒYes?ã€
-ï¼ƒProtagonist
-ã€ŒHow long... were you listening to us?ã€
-ï¼ƒMikanagi
-ã€Œ...Akari's matter isn't something you should worry about. Thank you for finding her. Please guide me there later.ã€
+”Protagonist
+uUm... Dr. Mikanagi.v
+”Mikanagi
+uYes?v
+”Protagonist
+uHow long... were you listening to us?v
+”Mikanagi
+u...Akari's matter isn't something you should worry about. Thank you for finding her. Please guide me there later.v
 Dr. Mikanagi lightly patted my head and then followed Benio-san outside.

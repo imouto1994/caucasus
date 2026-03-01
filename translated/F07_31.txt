@@ -1,71 +1,71 @@
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 I wonder if he's somewhere else.
 In that case, there's no point in staying here...
 What should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 Instead, Benio-san was lying in bed.
 I quietly approach her to see how she's doing.
-ï¼ƒBenio
-ã€ŒNnn...ã€
+”Benio
+uNnn...v
 She seems to be asleep.
 I was worried, but it looks like she's okay.
 I decided to leave the infirmary so as not to disturb her.
-ï¼ƒProtagonist
-ã€ŒHello, Mikanagi-sensei.ã€
+”Protagonist
+uHello, Mikanagi-sensei.v
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒAh, what is it?ã€
-ï¼ƒProtagonist
-ã€ŒUm... could I have a moment of your time?ã€
-ï¼ƒMikanagi
-ã€ŒI don't mind.ã€
+”Mikanagi
+uAh, what is it?v
+”Protagonist
+uUm... could I have a moment of your time?v
+”Mikanagi
+uI don't mind.v
 Now then, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒOh, what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒCould I have a moment of your time?ã€
-ï¼ƒMikanagi
-ã€ŒYes, go ahead.ã€
+”Mikanagi
+uOh, what is it this time?v
+”Protagonist
+uCould I have a moment of your time?v
+”Mikanagi
+uYes, go ahead.v
 Now then, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€ŒWhere is Benio-san...?ã€
-ï¼ƒMikanagi
-ã€ŒShe's sleeping over there.ã€
+”Mikanagi
+uWhat is it?v
+”Protagonist
+uWhere is Benio-san...?v
+”Mikanagi
+uShe's sleeping over there.v
 Mikanagi-sensei pointed toward the bed.
 Benio-san seems to be asleep.
-ï¼ƒProtagonist
-ã€ŒIs she going to be all right...?ã€
-ï¼ƒMikanagi
-ã€ŒThere's no need to worry. It doesn't seem like she was hit with that much force.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒDidn't you have some business with me?ã€
-ï¼ƒProtagonist
-ã€ŒAh, no! I shouldn't bother Benio-san while she's resting, so I'll be going now.ã€
-ï¼ƒMikanagi
-ã€ŒI see. Well, talk to you later.ã€
+”Protagonist
+uIs she going to be all right...?v
+”Mikanagi
+uThere's no need to worry. It doesn't seem like she was hit with that much force.v
+”Protagonist
+uI see...v
+”Mikanagi
+uDidn't you have some business with me?v
+”Protagonist
+uAh, no! I shouldn't bother Benio-san while she's resting, so I'll be going now.v
+”Mikanagi
+uI see. Well, talk to you later.v
 I bowed to Mikanagi-sensei and left the infirmary.
 When I peeked into the infirmary, Mikanagi-sensei was still there.
-ï¼ƒMikanagi
-ã€ŒOh...?ã€
+”Mikanagi
+uOh...?v
 Mikanagi-sensei noticed me and looked up.
-ï¼ƒProtagonist
-ã€ŒUm... around when do you think Benio-san will wake up?ã€
-ï¼ƒMikanagi
-ã€ŒShe's just sleeping normally right now, so I think she'll wake up soon.ã€
-ï¼ƒProtagonist
-ã€ŒI see. Well, talk to you later.ã€
+”Protagonist
+uUm... around when do you think Benio-san will wake up?v
+”Mikanagi
+uShe's just sleeping normally right now, so I think she'll wake up soon.v
+”Protagonist
+uI see. Well, talk to you later.v
 I bowed and left the infirmary.

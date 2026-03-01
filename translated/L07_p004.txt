@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒIf she was killed in the music room, she should have passed right by my door, but I didn't notice a thing. If so, it must have been after midnight when I was asleep...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒMaya
-ã€ŒWhy Benio too... for what reason...?ã€
-ï¼ƒProtagonist
-ã€Œ...That is what I am investigating right now.ã€
-ï¼ƒAi
-ã€ŒWhy did Benio have to be killed!? Come on, tell me!ã€
-ï¼ƒProtagonist
-ã€ŒI don't... know yet...ã€
-ï¼ƒShion
-ã€ŒLady Benio... why...?ã€
-ï¼ƒProtagonist
-ã€ŒShion-san...ã€
-ï¼ƒTsujimura
-ã€ŒEven Lady Benio... just what is going on...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒIf Benio-kun was killed during the night... I doubt there would be any witnesses or anything...ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
-ï¼ƒMikanagi
-ã€Œ...Considering Benio-san's body wasn't discovered until morning, it'll be difficult to find any witnesses from before the crime was committed...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒAkane
-ã€ŒJust what could Lady Benio have possibly done...!?ã€
-ï¼ƒProtagonist
-ã€ŒI feel... exactly the same way...ã€
-ï¼ƒNarumi
-ã€ŒTo think even Lady Benio was targeted... I didn't think she was the type to die so easily...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+uIf she was killed in the music room, she should have passed right by my door, but I didn't notice a thing. If so, it must have been after midnight when I was asleep...v
+”Protagonist
+u...I see.v
+”Maya
+uWhy Benio too... for what reason...?v
+”Protagonist
+u...That is what I am investigating right now.v
+”Ai
+uWhy did Benio have to be killed!? Come on, tell me!v
+”Protagonist
+uI don't... know yet...v
+”Shion
+uLady Benio... why...?v
+”Protagonist
+uShion-san...v
+”Tsujimura
+uEven Lady Benio... just what is going on...?v
+”Protagonist
+uTrue...v
+”Takamine
+uIf Benio-kun was killed during the night... I doubt there would be any witnesses or anything...v
+”Protagonist
+uMaybe so...v
+”Mikanagi
+u...Considering Benio-san's body wasn't discovered until morning, it'll be difficult to find any witnesses from before the crime was committed...v
+”Protagonist
+uTrue...v
+”Akane
+uJust what could Lady Benio have possibly done...!?v
+”Protagonist
+uI feel... exactly the same way...v
+”Narumi
+uTo think even Lady Benio was targeted... I didn't think she was the type to die so easily...v
+”Protagonist
+uTrue...v

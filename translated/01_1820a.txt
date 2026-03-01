@@ -1,162 +1,162 @@
 Ai-san stepped out into the hallway and began explaining the layout of the house.
-ï¼ƒAi
-ã€ŒThe room on the entrance side of the drawing room we were just in is used for storage. Across the hall from that is the telephone room, and right next to it is the office.ã€
+”Ai
+uThe room on the entrance side of the drawing room we were just in is used for storage. Across the hall from that is the telephone room, and right next to it is the office.v
 She pointed them out one by one as she gave us the tour.
-ï¼ƒAi
-ã€ŒAnd the door at the very end leads to the Great Hall. Itâ€™s a space where everyone can relax and unwind.ã€
+”Ai
+uAnd the door at the very end leads to the Great Hall. Itfs a space where everyone can relax and unwind.v
 With that, she pulled the door open.
 The room inside was far more spacious than the drawing room from before.
 Two men were sitting on a sofa in the center, engaged in a lively conversation.
 I suppose it was only natural for there to be other guests, considering a wedding was about to take place.
-ï¼ƒAi
-ã€ŒHonestly... Mikanagi-sensei, Isamu-san. You shouldn't be drinking alcohol right before the ceremony. You'll make a scene in front of our guests.ã€
+”Ai
+uHonestly... Mikanagi-sensei, Isamu-san. You shouldn't be drinking alcohol right before the ceremony. You'll make a scene in front of our guests.v
 Ai-san approached the two men and called out to them.
-ï¼ƒ???
-ã€ŒA little drink like this won't cause any trouble at all.ã€
-ï¼ƒ???
-ã€ŒShe's right, Ai. Thereâ€™s precious little else to do for fun around here, after all.ã€
-ï¼ƒAi
-ã€ŒGood grief...ã€
+”???
+uA little drink like this won't cause any trouble at all.v
+”???
+uShe's right, Ai. Therefs precious little else to do for fun around here, after all.v
+”Ai
+uGood grief...v
 Ai-san let out a weary sigh, looking exasperated.
-ï¼ƒ???
-ã€ŒAnd who might these people be?ã€
-ï¼ƒAi
-ã€ŒThey apparently lost their way in the mountains. Benio found them and brought them into her protection on her way back.ã€
-ï¼ƒProtagonist
-ã€ŒThank you for having us. My name is (NAME01) (NAME02).ã€
-ï¼ƒSouko
-ã€ŒI am Souko Kirihara.ã€
-ï¼ƒ???
-ã€ŒI'm the family's attending physician, Hiroshi Mikanagi. A pleasure.ã€
+”???
+uAnd who might these people be?v
+”Ai
+uThey apparently lost their way in the mountains. Benio found them and brought them into her protection on her way back.v
+”Protagonist
+uThank you for having us. My name is (NAME01) (NAME02).v
+”Souko
+uI am Souko Kirihara.v
+”???
+uI'm the family's attending physician, Hiroshi Mikanagi. A pleasure.v
 He gave a polite, formal bow and then offered his hand to Souko-san for a handshake.
-ï¼ƒSouko
-ã€Œ...Are you a doctor?ã€
-ï¼ƒMikanagi
-ã€ŒMy father served as the physician here as well, and I simply followed in his footsteps. ...Oh? Did something happen to your pinky finger?ã€
+”Souko
+u...Are you a doctor?v
+”Mikanagi
+uMy father served as the physician here as well, and I simply followed in his footsteps. ...Oh? Did something happen to your pinky finger?v
 He seemed to notice the way Souko-san was favoring her finger.
-ï¼ƒSouko
-ã€ŒI bumped it while we were walking outside. Could I get a compress or something for it later?ã€
-ï¼ƒMikanagi
-ã€ŒYes, of course. It would be a problem if there's any damage to the bone, so perhaps I should give it a proper examination?ã€
-ï¼ƒSouko
-ã€ŒNo, that won't be necessary.ã€
-ï¼ƒ???
-ã€ŒNow, now, Doctor. Itâ€™s poor form to start wooing a lady the moment you meet her. Youâ€™re making the young man next to her uncomfortable.ã€
-ï¼ƒMikanagi
-ã€ŒHaha, my apologies. I assure you, I had no such intentions.ã€
-ï¼ƒSouko
-ã€ŒAnd who might you be?ã€
-ï¼ƒ???
-ã€ŒMe? I'm Isamu Rokuyou. I'm the groom who'll be holding his wedding here today.ã€
-ï¼ƒSouko
-ã€ŒYou're the one... I see. Congratulations.ã€
-ï¼ƒRokuyou
-ã€ŒThank you kindly. You're very polite.ã€
-ï¼ƒMikanagi
-ã€ŒStill, I was quite surprised to hear Isamu was finally settling down. Have you managed to settle all your... affairs yet?ã€
-ï¼ƒProtagonist
-ã€ŒSettle his affairs?ã€
-ï¼ƒMikanagi
-ã€ŒHe used to be quite the playboy, you see. There are likely many things he needs to tidy up.ã€
-ï¼ƒRokuyou
-ã€ŒDon't go spreading such nasty rumors, Doctor. I wasn't nearly as wild as you.ã€
-ï¼ƒMikanagi
-ã€ŒOh, listen to him. You're the one who got kicked out into the street wearing nothing but your underwear back in Sendai.ã€
-ï¼ƒRokuyou
-ã€ŒIs this really the time or place for that story!?ã€
+”Souko
+uI bumped it while we were walking outside. Could I get a compress or something for it later?v
+”Mikanagi
+uYes, of course. It would be a problem if there's any damage to the bone, so perhaps I should give it a proper examination?v
+”Souko
+uNo, that won't be necessary.v
+”???
+uNow, now, Doctor. Itfs poor form to start wooing a lady the moment you meet her. Youfre making the young man next to her uncomfortable.v
+”Mikanagi
+uHaha, my apologies. I assure you, I had no such intentions.v
+”Souko
+uAnd who might you be?v
+”???
+uMe? I'm Isamu Rokuyou. I'm the groom who'll be holding his wedding here today.v
+”Souko
+uYou're the one... I see. Congratulations.v
+”Rokuyou
+uThank you kindly. You're very polite.v
+”Mikanagi
+uStill, I was quite surprised to hear Isamu was finally settling down. Have you managed to settle all your... affairs yet?v
+”Protagonist
+uSettle his affairs?v
+”Mikanagi
+uHe used to be quite the playboy, you see. There are likely many things he needs to tidy up.v
+”Rokuyou
+uDon't go spreading such nasty rumors, Doctor. I wasn't nearly as wild as you.v
+”Mikanagi
+uOh, listen to him. You're the one who got kicked out into the street wearing nothing but your underwear back in Sendai.v
+”Rokuyou
+uIs this really the time or place for that story!?v
 Rokuyou-san gave Mikanagi-sensei a playful nudge, though he didn't seem truly angry.
-ï¼ƒAi
-ã€ŒBoth of you, please. You're appalling our guests.ã€
+”Ai
+uBoth of you, please. You're appalling our guests.v
 Ai-san chided the two laughing men.
-ï¼ƒRokuyou
-ã€ŒThat was the Doctor's fault. Tell me, what was the record for the most people you dated at once?ã€
-ï¼ƒMikanagi
-ã€ŒI'll have you know, I always intend for my romances to be serious.ã€
+”Rokuyou
+uThat was the Doctor's fault. Tell me, what was the record for the most people you dated at once?v
+”Mikanagi
+uI'll have you know, I always intend for my romances to be serious.v
 Mikanagi-sensei turned toward me with a chuckle.
-ï¼ƒMikanagi
-ã€ŒYou're a lucky man, being here with such a beautiful girlfriend.ã€
-ï¼ƒProtagonist
-ã€ŒIt's nothing like that.ã€
-ï¼ƒSouko
-ã€ŒI wonder why people always assume the worst whenever a man and a woman are seen together.ã€
+”Mikanagi
+uYou're a lucky man, being here with such a beautiful girlfriend.v
+”Protagonist
+uIt's nothing like that.v
+”Souko
+uI wonder why people always assume the worst whenever a man and a woman are seen together.v
 Souko-san muttered, sounding thoroughly exasperated.
-Well, itâ€™s true that we aren't lovers.
+Well, itfs true that we aren't lovers.
 In fact, I doubt our relationship would ever develop into something like that. Souko-san and I are just too poorly matched for it.
-ï¼ƒRokuyou
-ã€ŒAre you two students?ã€
+”Rokuyou
+uAre you two students?v
 Rokuyou-san directed his question toward me.
-ï¼ƒProtagonist
-ã€ŒYes. We attend a university in Tokyo. Souko-sanâ€”sheâ€™s my senior in the folklore seminar.ã€
-ï¼ƒRokuyou
-ã€ŒFolklore, eh...? Did you perhaps come here to research this place?ã€
-ï¼ƒProtagonist
-ã€ŒWell... rather than this house specifically, we're interested in the legends of Nanatsuki Village.ã€
-ï¼ƒRokuyou
-ã€ŒIt's one and the same. Most of the lore in Nanatsuki Village originated with the Nanatsuki family.ã€
-ï¼ƒProtagonist
-ã€ŒI heard their ancestors were quite infatuated with Western culture.ã€
-ï¼ƒRokuyou
-ã€ŒSo it seems. Though most of it is nothing more than rumors. The countryside is always full of talk like that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒI've heard plenty of strange stories since I started heading out to sea, but I've rarely encountered a place as peculiar as this.ã€
-ï¼ƒProtagonist
-ã€ŒTo sea...?ã€
+”Protagonist
+uYes. We attend a university in Tokyo. Souko-san?shefs my senior in the folklore seminar.v
+”Rokuyou
+uFolklore, eh...? Did you perhaps come here to research this place?v
+”Protagonist
+uWell... rather than this house specifically, we're interested in the legends of Nanatsuki Village.v
+”Rokuyou
+uIt's one and the same. Most of the lore in Nanatsuki Village originated with the Nanatsuki family.v
+”Protagonist
+uI heard their ancestors were quite infatuated with Western culture.v
+”Rokuyou
+uSo it seems. Though most of it is nothing more than rumors. The countryside is always full of talk like that.v
+”Protagonist
+uI see...v
+”Rokuyou
+uI've heard plenty of strange stories since I started heading out to sea, but I've rarely encountered a place as peculiar as this.v
+”Protagonist
+uTo sea...?v
 But we're so deep in the mountains here...
-ï¼ƒRokuyou
-ã€ŒMy family are distant relatives of the Nanatsukis. We run a trading business in Ishinomaki, Miyagi. It's only a small company, though, so I often board the ships myself.ã€
-ï¼ƒProtagonist
-ã€ŒOh, wow...ã€
+”Rokuyou
+uMy family are distant relatives of the Nanatsukis. We run a trading business in Ishinomaki, Miyagi. It's only a small company, though, so I often board the ships myself.v
+”Protagonist
+uOh, wow...v
 He didn't look much like a man of the sea, but perhaps that was because it was a merchant vessel.
-ï¼ƒRokuyou
-ã€ŒThough, I haven't been on a ship lately, as I've been staying here for quite some time now.ã€
+”Rokuyou
+uThough, I haven't been on a ship lately, as I've been staying here for quite some time now.v
 With that, Rokuyou-san let a faint smile play across his lips.
-ï¼ƒRokuyou
-ã€ŒOn a day with such fierce winds, I'm glad I'm not out on a boat.ã€
+”Rokuyou
+uOn a day with such fierce winds, I'm glad I'm not out on a boat.v
 He was right; the windows were rattling under the force of the gale.
 The snow seemed to be coming down much harder now as well.
-ï¼ƒRokuyou
-ã€ŒOh, that's right. Ai, about that book you asked for... one of our employees found it in San Francisco, so I'll bring it over next time.ã€
-ï¼ƒAi
-ã€ŒOh, really? I'll be looking forward to it.ã€
+”Rokuyou
+uOh, that's right. Ai, about that book you asked for... one of our employees found it in San Francisco, so I'll bring it over next time.v
+”Ai
+uOh, really? I'll be looking forward to it.v
 Ai-san spoke with a look of genuine delight.
-ï¼ƒProtagonist
-ã€ŒDo you enjoy reading?ã€
-ï¼ƒAi
-ã€ŒYes. It's quite difficult to find a good selection of books in this area.ã€
-I do some reading myself, but Iâ€™ve never thought about going so far as to track down foreign books...
-ï¼ƒAi
-ã€ŒIsamu-san, I really must introduce our guests to the others, so we'll be taking our leave now.ã€
-ï¼ƒRokuyou
-ã€ŒRight, I understand. Maybe you should tell the Doctor instead of me, though.ã€
+”Protagonist
+uDo you enjoy reading?v
+”Ai
+uYes. It's quite difficult to find a good selection of books in this area.v
+I do some reading myself, but Ifve never thought about going so far as to track down foreign books...
+”Ai
+uIsamu-san, I really must introduce our guests to the others, so we'll be taking our leave now.v
+”Rokuyou
+uRight, I understand. Maybe you should tell the Doctor instead of me, though.v
 Rokuyou-san pointed toward Mikanagi-sensei and Souko-san.
 The doctor seemed to be having a very enjoyable conversation with her.
-ï¼ƒAi
-ã€ŒHonestly... Mikanagi-sensei.ã€
-ï¼ƒMikanagi
-ã€ŒAh, my apologies. I got a bit carried away.ã€
-ï¼ƒSouko
-ã€ŒNo, please don't mind me. I enjoyed our talk.ã€
+”Ai
+uHonestly... Mikanagi-sensei.v
+”Mikanagi
+uAh, my apologies. I got a bit carried away.v
+”Souko
+uNo, please don't mind me. I enjoyed our talk.v
 Souko-san took a step back and gave a polite bow.
-ï¼ƒAi
-ã€ŒNow then, let me show you the rest of the house.ã€
-ï¼ƒMikanagi
-ã€ŒSee you later.ã€
-ï¼ƒProtagonist
-ã€ŒExcuse us, then.ã€
+”Ai
+uNow then, let me show you the rest of the house.v
+”Mikanagi
+uSee you later.v
+”Protagonist
+uExcuse us, then.v
 I bowed as well and stepped out of the Great Hall.
-ï¼ƒAi
-ã€ŒI'm sorry about that. Mikanagi-sensei is just... that sort of person.ã€
+”Ai
+uI'm sorry about that. Mikanagi-sensei is just... that sort of person.v
 As soon as we were back in the hallway, Ai-san apologized to Souko-san.
-ï¼ƒSouko
-ã€ŒNo, it's quite alright.ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san, did you have him look at your hand?ã€
-ï¼ƒSouko
-ã€ŒJust a light palpation. He told me not to move it too much, as there's a chance it might be broken.ã€
-ï¼ƒProtagonist
-ã€ŒAre you going to be okay?ã€
-ï¼ƒSouko
-ã€ŒIt shouldn't be a problem for everyday life.ã€
+”Souko
+uNo, it's quite alright.v
+”Protagonist
+uSouko-san, did you have him look at your hand?v
+”Souko
+uJust a light palpation. He told me not to move it too much, as there's a chance it might be broken.v
+”Protagonist
+uAre you going to be okay?v
+”Souko
+uIt shouldn't be a problem for everyday life.v
 Souko-san replied while carefully flexing her fingers.

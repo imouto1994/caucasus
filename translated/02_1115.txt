@@ -1,43 +1,43 @@
-ï¼ƒSouko
-ã€ŒSo the killer remains a mystery after all...ã€
+”Souko
+uSo the killer remains a mystery after all...v
 Souko-san muttered to herself.
-ï¼ƒProtagonist
-ã€ŒIt seems so...ã€
-ï¼ƒSouko
-ã€ŒWe should probably re-examine everything and try to narrow down our list of suspects to some extent.ã€
-ï¼ƒProtagonist
-ã€ŒWill that really help anything?ã€
-ï¼ƒSouko
-ã€Œ...Think about it. The suspension bridge was cut, wasn't it? If the phone lines were severed to delay us from reporting the crime... then thereâ€™s a high possibility this isn't over yet.ã€
-ï¼ƒProtagonist
-ã€ŒNo... but why? For what purpose...?ã€
-ï¼ƒSouko
-ã€ŒHow should I know? I'm simply discussing the possibilities.ã€
-ï¼ƒProtagonist
-ã€Œ...Are you saying Rokuyou-sanâ€™s murder was just a precursor for something else?ã€
-ï¼ƒSouko
-ã€ŒIt's just a possibility.ã€
+”Protagonist
+uIt seems so...v
+”Souko
+uWe should probably re-examine everything and try to narrow down our list of suspects to some extent.v
+”Protagonist
+uWill that really help anything?v
+”Souko
+u...Think about it. The suspension bridge was cut, wasn't it? If the phone lines were severed to delay us from reporting the crime... then therefs a high possibility this isn't over yet.v
+”Protagonist
+uNo... but why? For what purpose...?v
+”Souko
+uHow should I know? I'm simply discussing the possibilities.v
+”Protagonist
+u...Are you saying Rokuyou-sanfs murder was just a precursor for something else?v
+”Souko
+uIt's just a possibility.v
 Souko-san stood up.
-ï¼ƒSouko
-ã€ŒAs long as a killer is still loose in this house, we can't afford to let our guard down. Iâ€™ll make sure to warn everyone else about this.ã€
-ï¼ƒProtagonist
-ã€ŒRight. Please do.ã€
-ï¼ƒSouko
-ã€ŒAnd you, make sure you stay alert. The thing a killer fears most is the person who's trying to unmask them.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... Iâ€™ll keep that in mind.ã€
+”Souko
+uAs long as a killer is still loose in this house, we can't afford to let our guard down. Ifll make sure to warn everyone else about this.v
+”Protagonist
+uRight. Please do.v
+”Souko
+uAnd you, make sure you stay alert. The thing a killer fears most is the person who's trying to unmask them.v
+”Protagonist
+uYeah... Ifll keep that in mind.v
 Souko-san left the room.
 What should I do now...?
-Should I follow Souko-sanâ€™s lead and go around warning the others?
+Should I follow Souko-sanfs lead and go around warning the others?
 Or should I just stay put in my room?
 [Patrol the mansion]
 [Stay in the room]
-Iâ€™ll go on a patrol.
-I don't know if itâ€™ll change anything, but itâ€™s certainly better than doing nothing.
+Ifll go on a patrol.
+I don't know if itfll change anything, but itfs certainly better than doing nothing.
 I stood up and stepped out of the room.
 I have no idea what might happen next.
 I should probably wait here in my room for now.
 The killer surely knows we're investigating, so I can't rule out the possibility of them coming for me.
 I walked over to the door and turned the lock.
-Iâ€™ll just wait and see how things develop for a while.
+Ifll just wait and see how things develop for a while.
 ...Though I have no idea just how long "a while" will be.

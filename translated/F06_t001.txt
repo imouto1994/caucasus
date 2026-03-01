@@ -1,48 +1,48 @@
-ï¼ƒSouko
-ã€ŒWhether they were targeting a person, a location, or if there was some other motive... it's still not clear.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒThe kitchen... if it's like that, we won't be able to prepare any meals...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAi
-ã€Œ...I'm just relieved it ended with only minor injuries. But why on earth the kitchen...?ã€
-ï¼ƒProtagonist
-ã€Œ...I still don't know.ã€
-ï¼ƒBenio
-ã€ŒThe kitchen, huh... Don't you think the nature of this is far too different from before to be targeting a person?ã€
-ï¼ƒProtagonist
-ã€ŒThat might be true...ã€
-ï¼ƒShion
-ã€ŒThe kitchen... what on earth happened...?ã€
-ï¼ƒProtagonist
-ã€Œ...I still don't know.ã€
-ï¼ƒTsujimura
-ã€Œ...The kitchen does use gas, so it would be prone to explosions, but...ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒTakamine
-ã€ŒThe damage is limited to the destruction of the kitchen and some minor burns... It's fortunate there were few casualties.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒTakamine
-ã€Œ...I also suffered a major burn once in the past.ã€
-ï¼ƒProtagonist
-ã€ŒThat... the scar on your face...?ã€
-ï¼ƒTakamine
-ã€Œ...Yeah. There was a fire at a mountain hut near here a long time ago, and that's when I got it.ã€
-ï¼ƒProtagonist
-ã€ŒSomething like that happened...?ã€
-ï¼ƒMikanagi
-ã€ŒThe injury itself isn't serious... but I wonder why she was the one targeted...?ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒShe was so close to being seriously injured...ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I'm glad she's okay.ã€
-ï¼ƒNarumi
-ã€ŒThat was close... A little more and I would've had a nasty burn.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Souko
+uWhether they were targeting a person, a location, or if there was some other motive... it's still not clear.v
+”Protagonist
+uI see...v
+”Maya
+uThe kitchen... if it's like that, we won't be able to prepare any meals...v
+”Protagonist
+uYou're right...v
+”Ai
+u...I'm just relieved it ended with only minor injuries. But why on earth the kitchen...?v
+”Protagonist
+u...I still don't know.v
+”Benio
+uThe kitchen, huh... Don't you think the nature of this is far too different from before to be targeting a person?v
+”Protagonist
+uThat might be true...v
+”Shion
+uThe kitchen... what on earth happened...?v
+”Protagonist
+u...I still don't know.v
+”Tsujimura
+u...The kitchen does use gas, so it would be prone to explosions, but...v
+”Protagonist
+uThat's true...v
+”Takamine
+uThe damage is limited to the destruction of the kitchen and some minor burns... It's fortunate there were few casualties.v
+”Protagonist
+uYou're right...v
+”Takamine
+u...I also suffered a major burn once in the past.v
+”Protagonist
+uThat... the scar on your face...?v
+”Takamine
+u...Yeah. There was a fire at a mountain hut near here a long time ago, and that's when I got it.v
+”Protagonist
+uSomething like that happened...?v
+”Mikanagi
+uThe injury itself isn't serious... but I wonder why she was the one targeted...?v
+”Protagonist
+uYou're right...v
+”Akane
+uShe was so close to being seriously injured...v
+”Protagonist
+uYeah... I'm glad she's okay.v
+”Narumi
+uThat was close... A little more and I would've had a nasty burn.v
+”Protagonist
+uYou're right...v

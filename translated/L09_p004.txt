@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€Œ...If she was killed in the music room, she should have passed right by my door... but I didn't notice a thing.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒMaya
-ã€ŒWhy Benio too... for what reason...?ã€
-ï¼ƒProtagonist
-ã€Œ...That is what I am investigating right now.ã€
-ï¼ƒAi
-ã€ŒWhy did Benio have to be killed!? Come on, tell me!ã€
-ï¼ƒProtagonist
-ã€ŒI don't... know yet...ã€
-ï¼ƒShion
-ã€ŒLady Benio... why...?ã€
-ï¼ƒProtagonist
-ã€ŒShion-san...ã€
-ï¼ƒTsujimura
-ã€ŒEven Lady Benio... just what is going on...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€Œ...I was in my room, so I didn't see Benio-kun.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒThe reason no witnesses have come forward even though Benio-san was killed in broad daylight might be because everyone is desperate to ensure their own safety...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒNarumi
-ã€ŒTo think even Lady Benio was targeted... I didn't think she was the type to die so easily...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+u...If she was killed in the music room, she should have passed right by my door... but I didn't notice a thing.v
+”Protagonist
+u...I see.v
+”Maya
+uWhy Benio too... for what reason...?v
+”Protagonist
+u...That is what I am investigating right now.v
+”Ai
+uWhy did Benio have to be killed!? Come on, tell me!v
+”Protagonist
+uI don't... know yet...v
+”Shion
+uLady Benio... why...?v
+”Protagonist
+uShion-san...v
+”Tsujimura
+uEven Lady Benio... just what is going on...?v
+”Protagonist
+uTrue...v
+”Takamine
+u...I was in my room, so I didn't see Benio-kun.v
+”Protagonist
+uI see...v
+”Mikanagi
+uThe reason no witnesses have come forward even though Benio-san was killed in broad daylight might be because everyone is desperate to ensure their own safety...v
+”Protagonist
+uTrue...v
+”Narumi
+uTo think even Lady Benio was targeted... I didn't think she was the type to die so easily...v
+”Protagonist
+uTrue...v

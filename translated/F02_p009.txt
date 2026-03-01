@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒAkane-san? She seems like a diligent, good girl.ã€
-ï¼ƒProtagonist
-ã€ŒShe does.ã€
-ï¼ƒMaya
-ã€ŒAkane works very hard. She's very attentive to even the smallest details.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAkane-san? She's a very hard worker.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAkane? She works hard. Though she can be a bit of a scatterbrain at times.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒHiyama-san? She handles her duties properly, and I have no particular issues with her...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒHiyama-kun... I think she works remarkably hard for someone who came all the way out to these mountains.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒAkane-san? Perhaps she's just shy, but we haven't spoken much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒE-eh, about me!? There'sâ€”there's nothing worth talking about!?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒAbout Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... Ah, don't tell anyone I said that, okay?ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
+”Souko
+uAkane-san? She seems like a diligent, good girl.v
+”Protagonist
+uShe does.v
+”Maya
+uAkane works very hard. She's very attentive to even the smallest details.v
+”Protagonist
+uI see.v
+”Ai
+uAkane-san? She's a very hard worker.v
+”Protagonist
+uI see.v
+”Benio
+uAkane? She works hard. Though she can be a bit of a scatterbrain at times.v
+”Protagonist
+uI see...v
+”Tsujimura
+uHiyama-san? She handles her duties properly, and I have no particular issues with her...v
+”Protagonist
+uI see.v
+”Takamine
+uHiyama-kun... I think she works remarkably hard for someone who came all the way out to these mountains.v
+”Protagonist
+uI see.v
+”Mikanagi
+uAkane-san? Perhaps she's just shy, but we haven't spoken much.v
+”Protagonist
+uI see...v
+”Akane
+uE-eh, about me!? There's?there's nothing worth talking about!?v
+”Protagonist
+uI see...v
+”Narumi
+uAbout Akane? She's quite reliable for her age. Thanks to her, I can't even slack off... Ah, don't tell anyone I said that, okay?v
+”Protagonist
+uRight...v

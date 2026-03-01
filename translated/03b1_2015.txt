@@ -1,60 +1,60 @@
 While we waited in the corridor, Dr. Mikanagi came running.
-ï¼ƒMikanagi
-ã€ŒYou say it was inside the oven?ã€
-ï¼ƒProtagonist
-ã€ŒYes... it was being burned.ã€
-ï¼ƒMikanagi
-ã€ŒIn that case, identifying the body will be difficult... and the head is missing as well, isn't it?ã€
-ï¼ƒTsujimura
-ã€ŒYes...ã€
-ï¼ƒMikanagi
-ã€Œ...I'll do everything I can.ã€
+”Mikanagi
+uYou say it was inside the oven?v
+”Protagonist
+uYes... it was being burned.v
+”Mikanagi
+uIn that case, identifying the body will be difficult... and the head is missing as well, isn't it?v
+”Tsujimura
+uYes...v
+”Mikanagi
+u...I'll do everything I can.v
 Dr. Mikanagi entered the kitchen.
-ï¼ƒMikanagi
-ã€ŒThis is... horrible.ã€
+”Mikanagi
+uThis is... horrible.v
 Dr. Mikanagi grimaced upon seeing the corpse.
-ï¼ƒMikanagi
-ã€ŒWho is currently unaccounted for?ã€
-ï¼ƒTsujimura
-ã€Œ...The whereabouts of Hiyama-san and Kirihara-sama are unknown.ã€
-ï¼ƒMikanagi
-ã€ŒSo it's one of those two...ã€
-ï¼ƒProtagonist
-ã€ŒUm, is there a possibility that it's the body of Benio-san, Ai-san, or Rokuyou-san...?ã€
-ï¼ƒMikanagi
-ã€Œ...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Ai-san or Isamu.ã€
-ï¼ƒProtagonist
-ã€ŒUm, is there a possibility that it's the body of Benio-san or Rokuyou-san...?ã€
-ï¼ƒMikanagi
-ã€Œ...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Isamu, but...ã€
-ï¼ƒTsujimura
-ã€Œ...I went to check Benio-ojousama's room, and her body was still there.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Mikanagi
+uWho is currently unaccounted for?v
+”Tsujimura
+u...The whereabouts of Hiyama-san and Kirihara-sama are unknown.v
+”Mikanagi
+uSo it's one of those two...v
+”Protagonist
+uUm, is there a possibility that it's the body of Benio-san, Ai-san, or Rokuyou-san...?v
+”Mikanagi
+u...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Ai-san or Isamu.v
+”Protagonist
+uUm, is there a possibility that it's the body of Benio-san or Rokuyou-san...?v
+”Mikanagi
+u...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Isamu, but...v
+”Tsujimura
+u...I went to check Benio-ojousama's room, and her body was still there.v
+”Protagonist
+uI see...v
 So it really can only be Souko-san or Akane-san...
-ï¼ƒMikanagi
-ã€ŒIf only there were some kind of clue... do you know of any physical characteristics of Kirihara-san's?ã€
-ï¼ƒProtagonist
-ã€ŒCharacteristics...? Now that you mention it, she had injured her hand when coming here...ã€
-ï¼ƒMikanagi
-ã€ŒIt was the pinky finger, if I recall...ã€
+”Mikanagi
+uIf only there were some kind of clue... do you know of any physical characteristics of Kirihara-san's?v
+”Protagonist
+uCharacteristics...? Now that you mention it, she had injured her hand when coming here...v
+”Mikanagi
+uIt was the pinky finger, if I recall...v
 Dr. Mikanagi began to examine what appeared to be the arm of the charred corpse.
-ï¼ƒProtagonist
-ã€ŒHow is it...?ã€
-ï¼ƒMikanagi
-ã€ŒWait a moment.ã€
+”Protagonist
+uHow is it...?v
+”Mikanagi
+uWait a moment.v
 Dr. Mikanagi's movements stopped.
-ï¼ƒMikanagi
-ã€Œ...It appears to be broken.ã€
-ï¼ƒProtagonist
-ã€ŒEh... then...ã€
-ï¼ƒMikanagi
-ã€ŒI can't say for certain, but it's most likely Kirihara-san.ã€
-ï¼ƒProtagonist
-ã€ŒThat's...ã€
+”Mikanagi
+u...It appears to be broken.v
+”Protagonist
+uEh... then...v
+”Mikanagi
+uI can't say for certain, but it's most likely Kirihara-san.v
+”Protagonist
+uThat's...v
 I slumped onto the kitchen floor.
-ï¼ƒMikanagi
-ã€Œ...I imagine the neck was severed before being burned. When it's been done to this extent, identification would be difficult even with the head, but...ã€
+”Mikanagi
+u...I imagine the neck was severed before being burned. When it's been done to this extent, identification would be difficult even with the head, but...v
 Dr. Mikanagi's words no longer reached my ears.
-Whyâ€”
+Why?
 Why did Souko-san have to suffer such a fate...

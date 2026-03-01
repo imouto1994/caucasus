@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒAbout the late Kousei-san? He was a famous musician. I'm familiar with a few of his pieces myself.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒMy husband was a great composer. It was his idea to build the music room in this mansion.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒFather? He was a kind man. When I was small, he used to read to me often.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒFather? He was kind to everyone without exception.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒThe Master... He was my older brother. He hired me here when I had nowhere else to go. I am deeply grateful to him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMy father was Kousei-shi's legal advisor. He seems to have made quite a fortune from his compositions.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒMy father was Kousei-san's personal physician. That's why I'm here now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒThe Master? I didn't know him well, but I've heard he was a very good man.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe Master? I never met him personally, so I wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAbout the late Kousei-san? He was a famous musician. I'm familiar with a few of his pieces myself.v
+”Protagonist
+uI see.v
+”Maya
+uMy husband was a great composer. It was his idea to build the music room in this mansion.v
+”Protagonist
+uIs that so...v
+”Ai
+uFather? He was a kind man. When I was small, he used to read to me often.v
+”Protagonist
+uI see.v
+”Benio
+uFather? He was kind to everyone without exception.v
+”Protagonist
+uI see.v
+”Tsujimura
+uThe Master... He was my older brother. He hired me here when I had nowhere else to go. I am deeply grateful to him.v
+”Protagonist
+uI see...v
+”Takamine
+uMy father was Kousei-shi's legal advisor. He seems to have made quite a fortune from his compositions.v
+”Protagonist
+uI see...v
+”Mikanagi
+uMy father was Kousei-san's personal physician. That's why I'm here now.v
+”Protagonist
+uI see.v
+”Akane
+uThe Master? I didn't know him well, but I've heard he was a very good man.v
+”Protagonist
+uI see...v
+”Narumi
+uThe Master? I never met him personally, so I wouldn't know.v
+”Protagonist
+uI see...v

@@ -1,38 +1,38 @@
-ï¼ƒSouko
-ã€Œ...Now that you mention it, you were saying something like that in the middle of the night, too. So what was it in the end?ã€
-ï¼ƒProtagonist
-ã€ŒNo, I still haven't figured anything out yet.ã€
-ï¼ƒSouko
-ã€ŒOh, I see.ã€
-ï¼ƒMaya
-ã€ŒA noise...? This is quite an old house, so it may simply be creaking somewhere.ã€
-ï¼ƒProtagonist
-ã€ŒThat could be it.ã€
-ï¼ƒAi
-ã€ŒA noise in the middle of the night...? Iâ€™m sorry, I didn't hear a thing...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒYou heard a noise in the middle of the night? Who has time to worry about every little sound?ã€
-ï¼ƒProtagonist
-ã€ŒI guess you're right...ã€
-ï¼ƒTsujimura
-ã€ŒRegarding last night? I was joking about it being a mountain spirit, but it is a very old building... even if the soundproofing is quite solid.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒA noise? No idea. I went straight to my room and fell asleep last night, so I didn't notice anything.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒA noise in the middle of the night, eh...? I didn't notice anything at all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒA noise...? It was a blizzard last night, so the windows were rattling and groaning quite a bit.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒNarumi
-ã€ŒA noise in the middle of the night? Maybe it was a ghost?ã€
-ï¼ƒProtagonist
-ã€Œ...Well, it is the kind of building where one wouldn't be surprised if a ghost showed up.ã€
+”Souko
+u...Now that you mention it, you were saying something like that in the middle of the night, too. So what was it in the end?v
+”Protagonist
+uNo, I still haven't figured anything out yet.v
+”Souko
+uOh, I see.v
+”Maya
+uA noise...? This is quite an old house, so it may simply be creaking somewhere.v
+”Protagonist
+uThat could be it.v
+”Ai
+uA noise in the middle of the night...? Ifm sorry, I didn't hear a thing...v
+”Protagonist
+uI see...v
+”Benio
+uYou heard a noise in the middle of the night? Who has time to worry about every little sound?v
+”Protagonist
+uI guess you're right...v
+”Tsujimura
+uRegarding last night? I was joking about it being a mountain spirit, but it is a very old building... even if the soundproofing is quite solid.v
+”Protagonist
+uI see...v
+”Takamine
+uA noise? No idea. I went straight to my room and fell asleep last night, so I didn't notice anything.v
+”Protagonist
+uI see...v
+”Mikanagi
+uA noise in the middle of the night, eh...? I didn't notice anything at all.v
+”Protagonist
+uI see...v
+”Akane
+uA noise...? It was a blizzard last night, so the windows were rattling and groaning quite a bit.v
+”Protagonist
+uRight...v
+”Narumi
+uA noise in the middle of the night? Maybe it was a ghost?v
+”Protagonist
+u...Well, it is the kind of building where one wouldn't be surprised if a ghost showed up.v

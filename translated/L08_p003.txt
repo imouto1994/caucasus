@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒIt's certain she was in her room around two... but no one knows what she did after that...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒI wouldn't know; I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒEven after you all came by around two, I stayed in my room. I don't want to go through anything terrifying ever again...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€Œ...I don't know. My room is in the annex, after all...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI believe she was in her room... but I have not confirmed it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI believe she was in her room the entire time, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI wouldn't know; I was on the first floor the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uIt's certain she was in her room around two... but no one knows what she did after that...v
+”Protagonist
+uTrue...v
+”Maya
+uI wouldn't know; I was resting in my room as well.v
+”Protagonist
+uI see...v
+”Ai
+uEven after you all came by around two, I stayed in my room. I don't want to go through anything terrifying ever again...v
+”Protagonist
+uI see...v
+”Shion
+u...I don't know. My room is in the annex, after all...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI believe she was in her room... but I have not confirmed it.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Akane
+uI believe she was in her room the entire time, but...v
+”Protagonist
+uI see...v
+”Narumi
+uI wouldn't know; I was on the first floor the whole time.v
+”Protagonist
+uI see...v

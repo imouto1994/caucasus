@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒA bell... I don't think it's worth worrying about.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
-ï¼ƒMaya
-ã€ŒThe clock was already here before this manor was relocated. As a remnant of that, we make sure to ring the bell.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒDoes the sound of the bell bother you that much? The machine room is in the attic.ã€
-ï¼ƒProtagonist
-ã€ŒOh... I see.ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThe bell is rung from the machine room above the main entrance. It's synchronized with the clock facing outside.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒIt was indeed ringing last night... but it's not something to be so concerned about.ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
-ï¼ƒMikanagi
-ã€ŒA bell... I don't think you'd notice it if you stayed in your room.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒNarumi
-ã€ŒA bell? Was it ringing...? I don't really remember.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
+”Souko
+uA bell... I don't think it's worth worrying about.v
+”Protagonist
+uYou're right.v
+”Maya
+uThe clock was already here before this manor was relocated. As a remnant of that, we make sure to ring the bell.v
+”Protagonist
+uI see.v
+”Benio
+uDoes the sound of the bell bother you that much? The machine room is in the attic.v
+”Protagonist
+uOh... I see.v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uThe bell is rung from the machine room above the main entrance. It's synchronized with the clock facing outside.v
+”Protagonist
+uI see.v
+”Takamine
+uIt was indeed ringing last night... but it's not something to be so concerned about.v
+”Protagonist
+uI suppose so...v
+”Mikanagi
+uA bell... I don't think you'd notice it if you stayed in your room.v
+”Protagonist
+uIs that so?v
+”Narumi
+uA bell? Was it ringing...? I don't really remember.v
+”Protagonist
+u...I see.v

@@ -1,29 +1,29 @@
 Akane-san straightened her disheveled clothes.
-ï¼ƒProtagonist
-ã€ŒUm... Akane-san...ã€
-ï¼ƒAkane
-ã€Œ...Do you despise me now?ã€
-ï¼ƒProtagonist
-ã€ŒNo, of course not... never. It's not that... please, tell me more about your sister.ã€
-ï¼ƒAkane
-ã€Œ...They say 'spiritings' have been happening around here for a long time. Mostly young women going missing...ã€
-ï¼ƒProtagonist
-ã€Œ...There are many legends of that sort in the Tohoku region. Even the 'Tono Monogatari' has several entries on it.ã€
-ï¼ƒAkane
-ã€ŒBut my sister disappeared only recently. From what Iâ€™ve found, even after the war, many young women went missing in this area.ã€
-ï¼ƒProtagonist
-ã€ŒIs that right...ã€
-ï¼ƒAkane
-ã€ŒYes... Also, are you familiar with the 'Curse of the Nanatsuki'...?ã€
-ï¼ƒProtagonist
-ã€Œ...I don't know the specifics...ã€
-ï¼ƒProtagonist
-ã€ŒYes... Benio-san told me about it. Now that you mention it, spiritings were part of it.ã€
-ï¼ƒAkane
-ã€ŒThere are rumors of the 'Nanatsuki Sacrifice'... I thought it might be related somehow.ã€
-ï¼ƒProtagonist
-ã€ŒI see... Understood. I'll look into it as much as I can. That's why I came here in the first place.ã€
-ï¼ƒAkane
-ã€ŒBut, um... please, be careful.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I know.ã€
+”Protagonist
+uUm... Akane-san...v
+”Akane
+u...Do you despise me now?v
+”Protagonist
+uNo, of course not... never. It's not that... please, tell me more about your sister.v
+”Akane
+u...They say 'spiritings' have been happening around here for a long time. Mostly young women going missing...v
+”Protagonist
+u...There are many legends of that sort in the Tohoku region. Even the 'Tono Monogatari' has several entries on it.v
+”Akane
+uBut my sister disappeared only recently. From what Ifve found, even after the war, many young women went missing in this area.v
+”Protagonist
+uIs that right...v
+”Akane
+uYes... Also, are you familiar with the 'Curse of the Nanatsuki'...?v
+”Protagonist
+u...I don't know the specifics...v
+”Protagonist
+uYes... Benio-san told me about it. Now that you mention it, spiritings were part of it.v
+”Akane
+uThere are rumors of the 'Nanatsuki Sacrifice'... I thought it might be related somehow.v
+”Protagonist
+uI see... Understood. I'll look into it as much as I can. That's why I came here in the first place.v
+”Akane
+uBut, um... please, be careful.v
+”Protagonist
+uYeah... I know.v

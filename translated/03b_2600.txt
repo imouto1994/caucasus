@@ -1,15 +1,15 @@
 This should be enough.
 The thing I really need to hear comes after this.
 Is this enough?
-ï¼ƒSouko
-ã€ŒAre you finished already?ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
+”Souko
+uAre you finished already?v
+”Protagonist
+u...Yeah.v
 The thing I really need to hear comes after this.
-ï¼ƒProtagonist
-ã€ŒSouko-san... I'm going to go talk to Shion-san.ã€
-ï¼ƒSouko
-ã€ŒI see... be careful.ã€
+”Protagonist
+uSouko-san... I'm going to go talk to Shion-san.v
+”Souko
+uI see... be careful.v
 Snow was falling, albeit sparsely.
 There was no wind.
 The outdoors were shrouded in silence.
@@ -17,191 +17,191 @@ The door to the tower was unlocked.
 Bloody clothes were discarded in the corner of the room.
 She must have already washed herself in the bath, as droplets of water on the floor led toward the stairs.
 I reached the top of the stairs.
-ï¼ƒProtagonist
-ã€ŒShion-san, it's me. Do you have a moment?ã€
+”Protagonist
+uShion-san, it's me. Do you have a moment?v
 I called out and waited for a while.
 The door opened, and Shion-san tentatively peered out.
-ï¼ƒShion
-ã€ŒUm... is there something you need...?ã€
+”Shion
+uUm... is there something you need...?v
 She asked, looking up at me.
-ï¼ƒProtagonist
-ã€ŒYes... could I talk to you for a bit?ã€
-ï¼ƒShion
-ã€Œ...Yes, please come in.ã€
+”Protagonist
+uYes... could I talk to you for a bit?v
+”Shion
+u...Yes, please come in.v
 I entered Shion-san's room and closed the door.
-ï¼ƒShion
-ã€Œ...Is this about what happened earlier...?ã€
-ï¼ƒProtagonist
-ã€ŒYes... have you calmed down?ã€
-ï¼ƒShion
-ã€ŒYes...ã€
+”Shion
+u...Is this about what happened earlier...?v
+”Protagonist
+uYes... have you calmed down?v
+”Shion
+uYes...v
 She gave a small nod.
-ï¼ƒProtagonist
-ã€ŒWell then... could you tell me everything from the beginning?ã€
-ï¼ƒShion
-ã€Œ...I tried to sleep, but my headache was severe, so I left my room to get some medicine from Dr. Mikanagi. I think it was past midnight.ã€
-ï¼ƒProtagonist
-ã€ŒWas Tsujimura-san in the office?ã€
-ï¼ƒShion
-ã€ŒYes... Seiji-san offered to go get it for me, but I couldn't bring myself to be so pampered, so I went myself...ã€
-ï¼ƒProtagonist
-ã€ŒAnd that's when you met us on the second floor.ã€
-ï¼ƒShion
-ã€Œ...Yes. You told me Dr. Mikanagi was in his room, so I thought I'd say a quick word before going to the clinic.ã€
-ï¼ƒProtagonist
-ã€Œ...Was the door to Dr. Mikanagi's room locked?ã€
-ï¼ƒShion
-ã€ŒNo... I knocked, but there was no answer... I was going to head to the clinic, but... the door opened, so I looked inside...ã€
-ï¼ƒProtagonist
-ã€Œ...And what was Dr. Mikanagi's condition at that time?ã€
-ï¼ƒShion
-ã€ŒI... don't really know.ã€
+”Protagonist
+uWell then... could you tell me everything from the beginning?v
+”Shion
+u...I tried to sleep, but my headache was severe, so I left my room to get some medicine from Dr. Mikanagi. I think it was past midnight.v
+”Protagonist
+uWas Tsujimura-san in the office?v
+”Shion
+uYes... Seiji-san offered to go get it for me, but I couldn't bring myself to be so pampered, so I went myself...v
+”Protagonist
+uAnd that's when you met us on the second floor.v
+”Shion
+u...Yes. You told me Dr. Mikanagi was in his room, so I thought I'd say a quick word before going to the clinic.v
+”Protagonist
+u...Was the door to Dr. Mikanagi's room locked?v
+”Shion
+uNo... I knocked, but there was no answer... I was going to head to the clinic, but... the door opened, so I looked inside...v
+”Protagonist
+u...And what was Dr. Mikanagi's condition at that time?v
+”Shion
+uI... don't really know.v
 Shion-san looked down.
-ï¼ƒProtagonist
-ã€Œ...Was he dead?ã€
-ï¼ƒShion
-ã€Œ...He was lying down... but he wasn't dead.ã€
-ï¼ƒProtagonist
-ã€Œ...You could tell that right away?ã€
-ï¼ƒShion
-ã€ŒYes... you can tell immediately whether someone is dead or not just by looking at them.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Protagonist
+u...Was he dead?v
+”Shion
+u...He was lying down... but he wasn't dead.v
+”Protagonist
+u...You could tell that right away?v
+”Shion
+uYes... you can tell immediately whether someone is dead or not just by looking at them.v
+”Protagonist
+uI see...v
 When Shion-san entered the room, Dr. Mikanagi wasn't dead yet.
-Even though he could have been savedâ€”
-ï¼ƒShion
-ã€ŒUm... did Dr. Mikanagi... pass away...?ã€
-ï¼ƒProtagonist
-ã€Œ...By the time I saw him, he was already dead. Judging from the state of the bed, it didn't seem like he suffered much.ã€
-I wasn't sure of the method of murderâ€”but I suspected it was instant.
+Even though he could have been saved?
+”Shion
+uUm... did Dr. Mikanagi... pass away...?v
+”Protagonist
+u...By the time I saw him, he was already dead. Judging from the state of the bed, it didn't seem like he suffered much.v
+I wasn't sure of the method of murder?but I suspected it was instant.
 I thought the wounds on the neck were inflicted after death.
-I didn't have any specific grounds for that, thoughâ€”
-ï¼ƒShion
-ã€ŒHow could... Dr. Mikanagi, why...ã€
-ï¼ƒProtagonist
-ã€Œ...You touched Dr. Mikanagi's body, didn't you?ã€
-ï¼ƒShion
-ã€Œ...I thought I'd examine Dr. Mikanagi's condition... was that not okay?ã€
-ï¼ƒProtagonist
-ã€Œ...It wasn't. Because of that... I've had to cast unnecessary suspicion on you.ã€
-ï¼ƒShion
-ã€Œ...Are you trying to say that I killed him...?ã€
-ï¼ƒProtagonist
-ã€Œ...I was in the hallway from the time I said goodbye to Dr. Mikanagi until the body was discovered. During that time, you were the only one who entered Dr. Mikanagi's room.ã€
-ï¼ƒShion
-ã€ŒI... didn't kill him.ã€
+I didn't have any specific grounds for that, though?
+”Shion
+uHow could... Dr. Mikanagi, why...v
+”Protagonist
+u...You touched Dr. Mikanagi's body, didn't you?v
+”Shion
+u...I thought I'd examine Dr. Mikanagi's condition... was that not okay?v
+”Protagonist
+u...It wasn't. Because of that... I've had to cast unnecessary suspicion on you.v
+”Shion
+u...Are you trying to say that I killed him...?v
+”Protagonist
+u...I was in the hallway from the time I said goodbye to Dr. Mikanagi until the body was discovered. During that time, you were the only one who entered Dr. Mikanagi's room.v
+”Shion
+uI... didn't kill him.v
 Shion-san shook her head.
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Protagonist
+uI see...v
 I suppose it was difficult with only circumstantial evidence...
 I couldn't find a trump card against Shion-san, who stubbornly denied it.
-ï¼ƒShion
-ã€ŒI...ã€
-ï¼ƒProtagonist
-ã€Œ...I'm sorry.ã€
-ï¼ƒShion
-ã€ŒEh...?ã€
+”Shion
+uI...v
+”Protagonist
+u...I'm sorry.v
+”Shion
+uEh...?v
 Likely not expecting an apology, Shion-san looked caught off guard.
-ï¼ƒProtagonist
-ã€ŒI'll think about it... a bit more.ã€
-ï¼ƒShion
-ã€ŒU-Um... I...ã€
-ï¼ƒProtagonist
-ã€Œâ€”Excuse me.ã€
+”Protagonist
+uI'll think about it... a bit more.v
+”Shion
+uU-Um... I...v
+”Protagonist
+u?Excuse me.v
 ...Why am I in such a rush?
 It's not like it's been decided that Shion-san is the culprit.
 However... there were inconsistencies in Shion-san's testimony.
-â€”You can tell immediately whether someone is dead or not just by looking at them.
-â€”The thing that took Dr. Mikanagi's life and the thing that tried to cut his neck were the same weapon.
+?You can tell immediately whether someone is dead or not just by looking at them.
+?The thing that took Dr. Mikanagi's life and the thing that tried to cut his neck were the same weapon.
 What does she know?
 And she saw Dr. Mikanagi when he wasn't dead yet.
-Let's thinkâ€”just a little more.
-ï¼ƒProtagonist
-ã€Œâ€”Look at this, Shion-san.ã€
+Let's think?just a little more.
+”Protagonist
+u?Look at this, Shion-san.v
 I showed Shion-san what I had found in the chapel.
-ï¼ƒShion
-ã€ŒWhat... is this...?ã€
+”Shion
+uWhat... is this...?v
 Yellow powder placed on a handkerchief.
-ï¼ƒProtagonist
-ã€ŒIt's the stamen of a snowdrop.ã€
+”Protagonist
+uIt's the stamen of a snowdrop.v
 I said, pointing to a slightly larger clump.
-ï¼ƒProtagonist
-ã€ŒYesterday, the snowdrop flower fallen near Rokuyou-san's body was missing one stamen. And that... was fallen in the chapel.ã€
-ï¼ƒShion
-ã€ŒNgh...ã€
-ï¼ƒProtagonist
-ã€ŒYou know what this means... don't you?ã€
+”Protagonist
+uYesterday, the snowdrop flower fallen near Rokuyou-san's body was missing one stamen. And that... was fallen in the chapel.v
+”Shion
+uNgh...v
+”Protagonist
+uYou know what this means... don't you?v
 Shion-san did not answer.
 That silence spoke eloquently of what had happened.
-ï¼ƒProtagonist
-ã€ŒYou... were the one who killed Rokuyou-san, weren't you?ã€
-ï¼ƒShion
-ã€ŒThat is...ã€
-ï¼ƒProtagonist
-ã€ŒDidn't you kill Rokuyou-san when he entered the chapel in the middle of the night, carried his body to his room, and severed his head?ã€
+”Protagonist
+uYou... were the one who killed Rokuyou-san, weren't you?v
+”Shion
+uThat is...v
+”Protagonist
+uDidn't you kill Rokuyou-san when he entered the chapel in the middle of the night, carried his body to his room, and severed his head?v
 I was certain.
 Sure enough, Shion-san fell silent.
-ï¼ƒProtagonist
-ã€Œ...Please say something.ã€
-ï¼ƒShion
-ã€ŒNgh...ã€
+”Protagonist
+u...Please say something.v
+”Shion
+uNgh...v
 Shion-san backed away.
-ï¼ƒProtagonist
-ã€ŒDid you kill them... Rokuyou-san, Benio-san, and Souko-san too!?ã€
-ï¼ƒShion
-ã€Œâ€”!? T-That isâ€”ã€
-ï¼ƒProtagonist
-ã€ŒYou killed them, didn't you!!ã€
-ï¼ƒShion
-ã€ŒKyaaâ€”!?ã€
+”Protagonist
+uDid you kill them... Rokuyou-san, Benio-san, and Souko-san too!?v
+”Shion
+u?!? T-That is?v
+”Protagonist
+uYou killed them, didn't you!!v
+”Shion
+uKyaa?!?v
 I'd reached my limit.
 I straddled Shion-san as she collapsed onto the bed.
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Protagonist
+uI see...v
 My expression relaxed.
-ï¼ƒProtagonist
-ã€ŒThank you... for denying it.ã€
-ï¼ƒShion
-ã€ŒEh...?ã€
+”Protagonist
+uThank you... for denying it.v
+”Shion
+uEh...?v
 Shion-san blinked.
-ï¼ƒProtagonist
-ã€ŒIt's not that I want to make you the culprit. I just wanted something I could use to deny it.ã€
-ï¼ƒShion
-ã€ŒWhy...ã€
-ï¼ƒProtagonist
-ã€ŒBecause... I want to protect you, Shion-san.ã€
+”Protagonist
+uIt's not that I want to make you the culprit. I just wanted something I could use to deny it.v
+”Shion
+uWhy...v
+”Protagonist
+uBecause... I want to protect you, Shion-san.v
 I placed my hand lightly on her shoulder.
-ï¼ƒShion
-ã€ŒNghâ€”ã€
+”Shion
+uNgh?v
 Shion-san flinched slightly.
-ï¼ƒProtagonist
-ã€ŒThat's why... I wanted proof that you hadn't done anything. Even if it was just a sophistry...ã€
-ï¼ƒShion
-ã€Œ...I, Iâ€”!?ã€
+”Protagonist
+uThat's why... I wanted proof that you hadn't done anything. Even if it was just a sophistry...v
+”Shion
+u...I, I?!?v
 I covered Shion-san's mouth with my lips as she tried to speak further.
 I didn't want to hear any more.
-ï¼ƒShion
-ã€ŒNnh...ã€
+”Shion
+uNnh...v
 Her arms weakly tried to push my body away.
-ï¼ƒProtagonist
-ã€Œ...I love you.ã€
+”Protagonist
+u...I love you.v
 I whispered as I pulled my lips away.
-ï¼ƒProtagonist
-ã€ŒThat's why I want to protect you.ã€
-ï¼ƒShion
-ã€Œ...Why?ã€
-ï¼ƒProtagonist
-ã€ŒEh...?ã€
-ï¼ƒShion
-ã€ŒWhy... didn't you come... sooner...ã€
+”Protagonist
+uThat's why I want to protect you.v
+”Shion
+u...Why?v
+”Protagonist
+uEh...?v
+”Shion
+uWhy... didn't you come... sooner...v
 Shion-san began to shed tears and clung to my body.
-ï¼ƒProtagonist
-ã€ŒShion-san...ã€
-ï¼ƒShion
-ã€Œ...I wanted you to protect me sooner...ã€
-ï¼ƒProtagonist
-ã€Œ...It's not too late now.ã€
+”Protagonist
+uShion-san...v
+”Shion
+u...I wanted you to protect me sooner...v
+”Protagonist
+u...It's not too late now.v
 I pulled her slender body into a tight embrace.
-ï¼ƒShion
-ã€ŒAh... nnh...ã€
+”Shion
+uAh... nnh...v
 This time, Shion-san was the one who leaned in for a kiss.

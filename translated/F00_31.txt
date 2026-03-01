@@ -1,7 +1,7 @@
 Narumi-san stops in front of the infirmary.
-ï¼ƒNarumi
-ã€Œ...Mikanagi-sensei is in there.ã€
-ï¼ƒProtagonist
-ã€Œ...In that case, it doesn't look like we'll be able to investigate...ã€
-ï¼ƒNarumi
-ã€ŒLet's move on to another area.ã€
+”Narumi
+u...Mikanagi-sensei is in there.v
+”Protagonist
+u...In that case, it doesn't look like we'll be able to investigate...v
+”Narumi
+uLet's move on to another area.v

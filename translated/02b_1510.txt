@@ -1,93 +1,93 @@
-ï¼ƒProtagonist
-ã€ŒSorry to keep you waiting.ã€
-I set the plates of fried rice down in front of the four people in the dining roomâ€”Souko-san, Benio-san, Akane-san, and Tsujimura-san.
-ï¼ƒBenio
-ã€ŒDid you perform a poison test?ã€
-ï¼ƒProtagonist
-ã€ŒEh...?ã€
-ï¼ƒBenio
-ã€ŒIt's immediately after such an incident. Lawyer Takamine's argument is understandable.ã€
+”Protagonist
+uSorry to keep you waiting.v
+I set the plates of fried rice down in front of the four people in the dining room?Souko-san, Benio-san, Akane-san, and Tsujimura-san.
+”Benio
+uDid you perform a poison test?v
+”Protagonist
+uEh...?v
+”Benio
+uIt's immediately after such an incident. Lawyer Takamine's argument is understandable.v
 Benio-san stared intently at the plate of fried rice.
-ï¼ƒBenio
-ã€ŒOf course, I don't intend to suspect Narumi in the slightest, but wouldn't it be possible to slip in poison while she's away from the kitchen?ã€
-ï¼ƒProtagonist
-ã€ŒIf you start saying things like that... you won't be able to eat anything.ã€
-ï¼ƒBenio
-ã€Œ...I know.ã€
-ï¼ƒSouko
-ã€ŒI think the probability of poison being mixed in is low.ã€
+”Benio
+uOf course, I don't intend to suspect Narumi in the slightest, but wouldn't it be possible to slip in poison while she's away from the kitchen?v
+”Protagonist
+uIf you start saying things like that... you won't be able to eat anything.v
+”Benio
+u...I know.v
+”Souko
+uI think the probability of poison being mixed in is low.v
 Souko-san spoke up.
-ï¼ƒProtagonist
-ã€ŒWhy is that?ã€
-ï¼ƒSouko
-ã€ŒIf you look at the victimsâ€”the way Rokuyou-san and Ai-san were killedâ€”they were killed when they were alone. I don't feel like the culprit would use a method that targets an unspecified large number of people.ã€
-ï¼ƒBenio
-ã€ŒHmmâ€”so if they're going to kill, they'll do it for certain. True, if this food were poisoned and we all gathered and ate at once, the culprit would be in trouble.ã€
-ï¼ƒSouko
-ã€ŒIn that case, they'd either find some reason not to eat, or use some other method of evasion.ã€
-ï¼ƒBenio
-ã€Œ...Besides, poisoning is too different an image from the murders so far.ã€
+”Protagonist
+uWhy is that?v
+”Souko
+uIf you look at the victims?the way Rokuyou-san and Ai-san were killed?they were killed when they were alone. I don't feel like the culprit would use a method that targets an unspecified large number of people.v
+”Benio
+uHmm?so if they're going to kill, they'll do it for certain. True, if this food were poisoned and we all gathered and ate at once, the culprit would be in trouble.v
+”Souko
+uIn that case, they'd either find some reason not to eat, or use some other method of evasion.v
+”Benio
+u...Besides, poisoning is too different an image from the murders so far.v
 Even though her sister, Ai-san, has been killed, Benio-san is grasping things calmly and objectively.
-ï¼ƒBenio
-ã€Œâ€”That being said, I cannot definitively state that there is no poison in this.ã€
-ï¼ƒSouko
-ã€Œ...You're right.ã€
-ï¼ƒProtagonist
-ã€Œ...That's just up to the culprit's mood, after all.ã€
-ï¼ƒTsujimura
-ã€ŒI... I shall perform the poison test.ã€
+”Benio
+u?That being said, I cannot definitively state that there is no poison in this.v
+”Souko
+u...You're right.v
+”Protagonist
+u...That's just up to the culprit's mood, after all.v
+”Tsujimura
+uI... I shall perform the poison test.v
 Tsujimura-san suddenly said.
-ï¼ƒBenio
-ã€ŒTsujimura...?ã€
-ï¼ƒTsujimura
-ã€ŒI cannot allow Miss Benio or the guests to be placed in danger. I shall be the oneâ€”ã€
+”Benio
+uTsujimura...?v
+”Tsujimura
+uI cannot allow Miss Benio or the guests to be placed in danger. I shall be the one?v
 Tsujimura-san scooped up some fried rice with a soup spoon.
 His hand was trembling slightly.
-ï¼ƒTsujimura
-ã€ŒE-Excuse me... mnh.ã€
+”Tsujimura
+uE-Excuse me... mnh.v
 Tsujimura-san chewed the fried rice.
-ï¼ƒAkane
-ã€ŒTs-Tsujimura-san...?ã€
+”Akane
+uTs-Tsujimura-san...?v
 Akane-san timidly offered a glass filled with water.
-ï¼ƒTsujimura
-ã€ŒMnh... mnh... haah...ã€
-ï¼ƒProtagonist
-ã€ŒAre you alright...?ã€
+”Tsujimura
+uMnh... mnh... haah...v
+”Protagonist
+uAre you alright...?v
 Sweat was appearing on Tsujimura-san's forehead.
-ï¼ƒTsujimura
-ã€ŒY-Yes...ã€
+”Tsujimura
+uY-Yes...v
 He answered in a trembling voice after drinking the water from the glass.
-ï¼ƒBenio
-ã€Œâ€”He seems to be alright.ã€
+”Benio
+u?He seems to be alright.v
 Benio-san, who had been watching Tsujimura-san for a while, made the decision.
-ï¼ƒBenio
-ã€ŒSorry about that, Tsujimura.ã€
-ï¼ƒTsujimura
-ã€ŒNo... this is about the only thing I can do...ã€
-ï¼ƒSouko
-ã€Œ...Let's eat too.ã€
+”Benio
+uSorry about that, Tsujimura.v
+”Tsujimura
+uNo... this is about the only thing I can do...v
+”Souko
+u...Let's eat too.v
 We also began our meal.
-ï¼ƒSouko
-ã€Œ...Mm, it's delicious.ã€
+”Souko
+u...Mm, it's delicious.v
 Souko-san savored the food.
-ï¼ƒBenio
-ã€ŒWell, her skills are certainly genuine.ã€
-ï¼ƒAkane
-ã€ŒThough, watching her while she was making it, you'd never imagine it would turn out like this.ã€
-ï¼ƒNarumi
-ã€Œ...I can hear you, you know.ã€
+”Benio
+uWell, her skills are certainly genuine.v
+”Akane
+uThough, watching her while she was making it, you'd never imagine it would turn out like this.v
+”Narumi
+u...I can hear you, you know.v
 Narumi-san emerged from the kitchen.
-ï¼ƒNarumi
-ã€ŒCould you take some food to Madam and Shion-ojousama as well?ã€
-ï¼ƒProtagonist
-ã€ŒAh, understood.ã€
+”Narumi
+uCould you take some food to Madam and Shion-ojousama as well?v
+”Protagonist
+uAh, understood.v
 I was handed three plates piled with fried rice.
 For Maya-san, Shion-san, and Dr. Mikanagi, I assume.
-ï¼ƒProtagonist
-ã€ŒWhat about Takamine-san's portion...?ã€
-ï¼ƒNarumi
-ã€ŒThere's no need to feed him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Protagonist
+uWhat about Takamine-san's portion...?v
+”Narumi
+uThere's no need to feed him.v
+”Protagonist
+uI see...v
 It seems she's still holding a grudge about what happened earlier.
 Well... first I'll head to where Maya-san likely is, in the infirmary.

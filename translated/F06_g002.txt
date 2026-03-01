@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒIt wouldn't be strange at all for something like that to exist. The question is where it would be... though itâ€™s likely buried in the snow.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒThere are no assets we need to hide. We pay our taxes properly.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒHidden assets...? I've never heard of such a thing.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒHidden assets? It would be interesting if they existed... but I've never heard of any from my father. Then again, nothing would surprise me with this family.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI have never heard of such a thing existing... I expect any search would be in vain.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒIf possible, I'd prefer you didn't spread those kinds of rumors to others. It might lead to further incidents.ã€
-ï¼ƒProtagonist
-ã€Œ...That might be true.ã€
-ï¼ƒMikanagi
-ã€ŒHidden assets, huh... I've never heard anything about that...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI'm not quite sure about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uIt wouldn't be strange at all for something like that to exist. The question is where it would be... though itfs likely buried in the snow.v
+”Protagonist
+uRight...v
+”Maya
+uThere are no assets we need to hide. We pay our taxes properly.v
+”Protagonist
+uI see...v
+”Ai
+uHidden assets...? I've never heard of such a thing.v
+”Protagonist
+uI see...v
+”Benio
+uHidden assets? It would be interesting if they existed... but I've never heard of any from my father. Then again, nothing would surprise me with this family.v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI have never heard of such a thing existing... I expect any search would be in vain.v
+”Protagonist
+uI see...v
+”Takamine
+uIf possible, I'd prefer you didn't spread those kinds of rumors to others. It might lead to further incidents.v
+”Protagonist
+u...That might be true.v
+”Mikanagi
+uHidden assets, huh... I've never heard anything about that...v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI'm not quite sure about that.v
+”Protagonist
+uI see...v

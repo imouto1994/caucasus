@@ -1,14 +1,14 @@
-Iâ€™ve entered the drawing room.
-ï¼ƒProtagonist
-ã€ŒThere is a fireplace here.ã€
-ï¼ƒNarumi
-ã€ŒYes... though I doubt this is the place the code was referring to... Do you want to check it just in case?ã€
-Iâ€™ve returned to the drawing room.
-ï¼ƒNarumi
-ã€ŒWeren't we just here?ã€
-ï¼ƒProtagonist
-ã€ŒWell, yes...ã€
-ï¼ƒNarumi
-ã€ŒIf you still want to investigate, then make it quick.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
+Ifve entered the drawing room.
+”Protagonist
+uThere is a fireplace here.v
+”Narumi
+uYes... though I doubt this is the place the code was referring to... Do you want to check it just in case?v
+Ifve returned to the drawing room.
+”Narumi
+uWeren't we just here?v
+”Protagonist
+uWell, yes...v
+”Narumi
+uIf you still want to investigate, then make it quick.v
+”Protagonist
+uRight...v

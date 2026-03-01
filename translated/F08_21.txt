@@ -1,62 +1,62 @@
 I've come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒBenio-san, it's me.ã€
+”Protagonist
+uBenio-san, it's me.v
 The door opens, and Benio-san appears.
-ï¼ƒBenio
-ã€ŒWhat is it? Did something happen?ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san is missing.ã€
-ï¼ƒBenio
-ã€ŒWhat...? You mean she's nowhere to be found?ã€
-ï¼ƒProtagonist
-ã€ŒYeah... her room was ransacked, and she's nowhere in sight...ã€
-ï¼ƒBenio
-ã€Œ...There aren't that many places in this mansion where one could hide.ã€
+”Benio
+uWhat is it? Did something happen?v
+”Protagonist
+uSouko-san is missing.v
+”Benio
+uWhat...? You mean she's nowhere to be found?v
+”Protagonist
+uYeah... her room was ransacked, and she's nowhere in sight...v
+”Benio
+u...There aren't that many places in this mansion where one could hide.v
 Benio-san murmurs with her arms crossed.
-ï¼ƒBenio
-ã€ŒTsujimura likely manages the keys strictly, so she couldn't enter rooms that were locked to begin with. I think she'll be found if we search the house, but...ã€
-ï¼ƒProtagonist
-ã€ŒBut... Akane-san hasn't been found yet either, you know?ã€
-ï¼ƒBenio
-ã€ŒI know. It's only natural to think the two disappearances share the same cause, but...ã€
-ï¼ƒProtagonist
-ã€Œ...I'll try looking a bit more.ã€
-ï¼ƒBenio
-ã€ŒI'll go too.ã€
-ï¼ƒProtagonist
-ã€ŒNo. You're still recovering, aren't you?ã€
-ï¼ƒBenio
-ã€ŒBut...! ...Fine. I'll behave myself for a while.ã€
-ï¼ƒProtagonist
-ã€ŒPlease do. Well, see you later.ã€
-ï¼ƒBenio
-ã€ŒAh... hey!ã€
-ï¼ƒProtagonist
-ã€ŒWhat is it?ã€
-ï¼ƒBenio
-ã€Œ...Be careful.ã€
-ï¼ƒProtagonist
-ã€ŒYeah. Of course.ã€
+”Benio
+uTsujimura likely manages the keys strictly, so she couldn't enter rooms that were locked to begin with. I think she'll be found if we search the house, but...v
+”Protagonist
+uBut... Akane-san hasn't been found yet either, you know?v
+”Benio
+uI know. It's only natural to think the two disappearances share the same cause, but...v
+”Protagonist
+u...I'll try looking a bit more.v
+”Benio
+uI'll go too.v
+”Protagonist
+uNo. You're still recovering, aren't you?v
+”Benio
+uBut...! ...Fine. I'll behave myself for a while.v
+”Protagonist
+uPlease do. Well, see you later.v
+”Benio
+uAh... hey!v
+”Protagonist
+uWhat is it?v
+”Benio
+u...Be careful.v
+”Protagonist
+uYeah. Of course.v
 I've come to Benio-san's room on the second floor.
 I wonder if she's in her room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒBenio-san, it's me.ã€
+”Protagonist
+uBenio-san, it's me.v
 The door opens, and Benio-san appears.
-ï¼ƒBenio
-ã€ŒDid you find her?ã€
-ï¼ƒProtagonist
-ã€ŒNo... neither Souko-san nor Akane-san yet...ã€
-ï¼ƒBenio
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€ŒI'll try looking a bit more.ã€
-ï¼ƒBenio
-ã€ŒYeah, understood.ã€
+”Benio
+uDid you find her?v
+”Protagonist
+uNo... neither Souko-san nor Akane-san yet...v
+”Benio
+uI see...v
+”Protagonist
+uI'll try looking a bit more.v
+”Benio
+uYeah, understood.v
 I've come to Benio-san's room on the second floor.
 I don't have any business here anymore, but...
-ï¼ƒProtagonist
-ã€Œ...I'll go somewhere else.ã€
+”Protagonist
+u...I'll go somewhere else.v
 I offered a silent prayer toward the door for a moment before moving on.

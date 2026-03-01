@@ -1,12 +1,12 @@
 I came to the office, but Tsujimura-san didn't seem to be there.
 What should I do...?
-ï¼ƒTsujimura
-ã€ŒOh, is something the matter?ã€
+”Tsujimura
+uOh, is something the matter?v
 Tsujimura-san was in the office.
-ï¼ƒProtagonist
-ã€ŒHello. Were you in the middle of work?ã€
-ï¼ƒTsujimura
-ã€ŒNot at all. Did you need something?ã€
-ï¼ƒTsujimura
-ã€ŒOh, what's the matter this time?ã€
+”Protagonist
+uHello. Were you in the middle of work?v
+”Tsujimura
+uNot at all. Did you need something?v
+”Tsujimura
+uOh, what's the matter this time?v
 Tsujimura-san was still in the office.

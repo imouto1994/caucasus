@@ -1,117 +1,117 @@
-ï¼ƒSouko
-ã€ŒThey're certainly a lively bunch, aren't they?ã€
+”Souko
+uThey're certainly a lively bunch, aren't they?v
 Once we were back in the hall, Souko-san finally spoke up.
-ï¼ƒAi
-ã€ŒEven so, they're both quite capable. Now then, let's head this way.ã€
+”Ai
+uEven so, they're both quite capable. Now then, let's head this way.v
 Ai-san offered a small smile as she opened the door directly ahead.
 Beyond it was a hallway similar to the ones we had seen so far.
-ï¼ƒAi
-ã€ŒThe north wing contains the guest rooms and the chapel. The door at the far end is the chapel, where the wedding is scheduled to take place tonight.ã€
-ï¼ƒProtagonist
-ã€ŒThere's even a chapel here?ã€
-ï¼ƒAi
-ã€ŒYes. It seems the heads of the family have been Christians for generations.ã€
-ï¼ƒSouko
-ã€ŒWill our rooms be in this wing as well?ã€
-ï¼ƒAi
-ã€ŒNo, most of these are already occupied. ...Oh, that reminds me. I really should introduce you to Takamine-san.ã€
+”Ai
+uThe north wing contains the guest rooms and the chapel. The door at the far end is the chapel, where the wedding is scheduled to take place tonight.v
+”Protagonist
+uThere's even a chapel here?v
+”Ai
+uYes. It seems the heads of the family have been Christians for generations.v
+”Souko
+uWill our rooms be in this wing as well?v
+”Ai
+uNo, most of these are already occupied. ...Oh, that reminds me. I really should introduce you to Takamine-san.v
 Ai-san gave a light knock on the first door to the right.
-ï¼ƒAi
-ã€ŒTakamine-san, are you in?ã€
+”Ai
+uTakamine-san, are you in?v
 A few moments after Ai-san called out, the door creaked open.
-ï¼ƒ???
-ã€Œ...Can I help you?ã€
+”???
+u...Can I help you?v
 The man who appeared was a large, imposing figure with a prominent scar on his face.
 If I met someone like him on the street, I'd make a point of never making eye contact.
 ...In fact, I still couldn't bring myself to look him in the eye.
-ï¼ƒAi
-ã€ŒThese are our new guests. Since they'll be staying the night, I thought I'd introduce them.ã€
-ï¼ƒ???
-ã€ŒI see.ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara. I apologize for the intrusion, but we'll be staying here for the night.ã€
+”Ai
+uThese are our new guests. Since they'll be staying the night, I thought I'd introduce them.v
+”???
+uI see.v
+”Souko
+uI'm Souko Kirihara. I apologize for the intrusion, but we'll be staying here for the night.v
 As expected of Souko-san, she didn't seem even slightly rattled by the man's intimidating presence.
-ï¼ƒProtagonist
-ã€ŒAh, I'm (NAME01) (NAME02).ã€
-ï¼ƒ???
-ã€ŒI'm Jin Takamine, the legal counsel for this family. Pleasure.ã€
-ï¼ƒProtagonist
-ã€ŒYou're a lawyer?ã€
-ï¼ƒTakamine
-ã€Œ...Is there a problem?ã€
+”Protagonist
+uAh, I'm (NAME01) (NAME02).v
+”???
+uI'm Jin Takamine, the legal counsel for this family. Pleasure.v
+”Protagonist
+uYou're a lawyer?v
+”Takamine
+u...Is there a problem?v
 He fixed me with a piercing, icy glare that sent a shiver down my spine.
-ï¼ƒProtagonist
-ã€ŒN-no, nothing at all...ã€
-ï¼ƒTakamine
-ã€ŒHmph... is that all then?ã€
-ï¼ƒAi
-ã€ŒYes, for now.ã€
-ï¼ƒTakamine
-ã€Œ...Very well. Until later.ã€
+”Protagonist
+uN-no, nothing at all...v
+”Takamine
+uHmph... is that all then?v
+”Ai
+uYes, for now.v
+”Takamine
+u...Very well. Until later.v
 With a dull thud, the door was shut.
-ï¼ƒProtagonist
-ã€ŒPhew...ã€
-ï¼ƒSouko
-ã€ŒWhat an intense man.ã€
+”Protagonist
+uPhew...v
+”Souko
+uWhat an intense man.v
 Souko-san voiced exactly what I was feeling.
-ï¼ƒAi
-ã€ŒHe can be a bit blunt, but he's not a bad person. Takamine-san's father was the family's lawyer before him.ã€
-ï¼ƒSouko
-ã€ŒThat scar on his face... it looked like a burn.ã€
-ï¼ƒAi
-ã€ŒYes, he apparently suffered it a long time ago, but I don't know the details.ã€
+”Ai
+uHe can be a bit blunt, but he's not a bad person. Takamine-san's father was the family's lawyer before him.v
+”Souko
+uThat scar on his face... it looked like a burn.v
+”Ai
+uYes, he apparently suffered it a long time ago, but I don't know the details.v
 Ai-san shook her head.
-ï¼ƒAi
-ã€ŒNow... across from Takamine-san's room is Isamu-sanâ€”Rokuyou-san's room. Next to that is the room of Tsujimura-san, who handles the management of the estate.ã€
-ï¼ƒSouko
-ã€ŒThere's an estate manager as well?ã€
-ï¼ƒAi
-ã€ŒAh, yes... Tsujimura-san is my uncle. He used to be a painter, but now he serves as a sort of butler for us.ã€
+”Ai
+uNow... across from Takamine-san's room is Isamu-san?Rokuyou-san's room. Next to that is the room of Tsujimura-san, who handles the management of the estate.v
+”Souko
+uThere's an estate manager as well?v
+”Ai
+uAh, yes... Tsujimura-san is my uncle. He used to be a painter, but now he serves as a sort of butler for us.v
 Ai-san knocked on the door a few times.
-ï¼ƒAi
-ã€ŒTsujimura-san, we have guests.ã€
+”Ai
+uTsujimura-san, we have guests.v
 We waited for a while, but there was no sign of anyone coming out.
-ï¼ƒProtagonist
-ã€ŒIs he not in?ã€
-ï¼ƒAi
-ã€ŒPerhaps he's in the office...ã€
-ï¼ƒ???
-ã€ŒAi-ojousama, did you need something?ã€
+”Protagonist
+uIs he not in?v
+”Ai
+uPerhaps he's in the office...v
+”???
+uAi-ojousama, did you need something?v
 A voice came from behind us, and we turned around.
 A middle-aged man was standing by the large door at the end of the hall, looking at us.
-ï¼ƒAi
-ã€ŒTsujimura-san, were you in the chapel?ã€
-ï¼ƒ???
-ã€ŒYes, I was preparing for tonight's ceremony. ...And these are the guests who were stranded?ã€
+”Ai
+uTsujimura-san, were you in the chapel?v
+”???
+uYes, I was preparing for tonight's ceremony. ...And these are the guests who were stranded?v
 the man called Tsujimura-san closed the heavy door and walked toward us.
-ï¼ƒ???
-ã€ŒI'm Seiji Tsujimura, the manager of this estate.ã€
-ï¼ƒProtagonist
-ã€ŒI'm (NAME01) (NAME02).ã€
-ï¼ƒSouko
-ã€ŒI'm Souko Kirihara. Um, Tsujimura-san, are you the Madam's brother?ã€
-ï¼ƒTsujimura
-ã€ŒNo, I was the younger brother of the previous head. I used to paint, but I couldn't make a living at it... so I've been under the care of this house, I'm ashamed to say.ã€
+”???
+uI'm Seiji Tsujimura, the manager of this estate.v
+”Protagonist
+uI'm (NAME01) (NAME02).v
+”Souko
+uI'm Souko Kirihara. Um, Tsujimura-san, are you the Madam's brother?v
+”Tsujimura
+uNo, I was the younger brother of the previous head. I used to paint, but I couldn't make a living at it... so I've been under the care of this house, I'm ashamed to say.v
 With that, Tsujimura-san gave a deep bow.
-ï¼ƒAi
-ã€ŒI happen to like your paintings, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒNo, no, you're too kind...ã€
+”Ai
+uI happen to like your paintings, Tsujimura-san.v
+”Tsujimura
+uNo, no, you're too kind...v
 Tsujimura-san seemed to shrink back, looking quite humbled.
-ï¼ƒTsujimura
-ã€ŒI still have preparations to attend to, so if you'll excuse me.ã€
+”Tsujimura
+uI still have preparations to attend to, so if you'll excuse me.v
 After another deep bow, Tsujimura-san disappeared back inside the chapel doors.
-ï¼ƒProtagonist
-ã€ŒHe seems like a kind person.ã€
-ï¼ƒAi
-ã€ŒYes... normally he might have been the one to inherit the Nanatsuki family line, but he says he has no such desires.ã€
-ï¼ƒSouko
-ã€ŒWas that not mentioned in Kousei-shi's will?ã€
-ï¼ƒAi
-ã€ŒThat's... I'm sorry, I don't know the details.ã€
+”Protagonist
+uHe seems like a kind person.v
+”Ai
+uYes... normally he might have been the one to inherit the Nanatsuki family line, but he says he has no such desires.v
+”Souko
+uWas that not mentioned in Kousei-shi's will?v
+”Ai
+uThat's... I'm sorry, I don't know the details.v
 Ai-san became a bit evasive.
-Well, itâ€™s only natural that she wouldn't discuss the contents of a will with outsiders like us.
-ï¼ƒAi
-ã€ŒNow then, I'll show you the second floor.ã€
+Well, itfs only natural that she wouldn't discuss the contents of a will with outsiders like us.
+”Ai
+uNow then, I'll show you the second floor.v
 We returned to the hall and began climbing the stairs.
 Looking down from above, the sheer size of the hall was even more apparent.

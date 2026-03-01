@@ -1,21 +1,21 @@
-Iâ€™ve come to the telephone room.
+Ifve come to the telephone room.
 It seems no one is here.
 The phones aren't working anyway, so there's no point in staying here.
 Now then, what should I do?
-Iâ€™ve come to the telephone room.
-ï¼ƒAkane
-ã€ŒShe isn't here either...ã€
-ï¼ƒProtagonist
-ã€ŒWhere could she have gone... Ai-san?ã€
-ï¼ƒAkane
-ã€ŒLet's head somewhere else.ã€
+Ifve come to the telephone room.
+”Akane
+uShe isn't here either...v
+”Protagonist
+uWhere could she have gone... Ai-san?v
+”Akane
+uLet's head somewhere else.v
 We decided to search another location.
-Iâ€™ve come to the telephone room.
-ï¼ƒAkane
-ã€ŒThe pattern on that scrap of paper... it should be the same as the paper left next to the telephone.ã€
-ï¼ƒProtagonist
-ã€ŒThen, let's check it out.ã€
-Iâ€™ve come to the telephone room.
-ï¼ƒProtagonist
-ã€ŒLet's investigate a bit more.ã€
+Ifve come to the telephone room.
+”Akane
+uThe pattern on that scrap of paper... it should be the same as the paper left next to the telephone.v
+”Protagonist
+uThen, let's check it out.v
+Ifve come to the telephone room.
+”Protagonist
+uLet's investigate a bit more.v
 I told Akane-san that and decided to search the room.

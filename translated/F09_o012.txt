@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...At the very least, the killer has no intention of letting anyone escape from here.ã€
-ï¼ƒProtagonist
-ã€Œ...Maybe not.ã€
-ï¼ƒMaya
-ã€ŒEven the suspension bridge... We can't even call for help like this...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒAi
-ã€ŒWe can't even go for help...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒBenio
-ã€ŒThere's no point in worrying about it now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒShion
-ã€ŒThe suspension bridge... Who would do such a thing...?ã€
-ï¼ƒProtagonist
-ã€ŒThe killer, most likely...ã€
-ï¼ƒTsujimura
-ã€ŒThis is a problem... We can't possibly fix that bridge on our own...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€Œ...The killer probably intends to increase the number of victims. Otherwise, there'd be no point in dropping the bridge.ã€
-ï¼ƒProtagonist
-ã€Œ...You might be right.ã€
-ï¼ƒMikanagi
-ã€ŒWithout the bridge, you boys won't be able to go home... Though with everything that's happened, you might not be able to leave even if the police arrive.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒAkane
-ã€ŒThis place is surrounded by cliffs, so without the bridge, you can't go anywhere...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒEven if the bridge is gone, we have plenty of food, so we'll be fine. ...Well, Kirihara-san will just have to give up on her cola, I guess.ã€
-ï¼ƒProtagonist
-ã€ŒRight... I'll let her know.ã€
+”Souko
+u...At the very least, the killer has no intention of letting anyone escape from here.v
+”Protagonist
+u...Maybe not.v
+”Maya
+uEven the suspension bridge... We can't even call for help like this...v
+”Protagonist
+uRight...v
+”Ai
+uWe can't even go for help...v
+”Protagonist
+uYeah...v
+”Benio
+uThere's no point in worrying about it now.v
+”Protagonist
+uI see.v
+”Shion
+uThe suspension bridge... Who would do such a thing...?v
+”Protagonist
+uThe killer, most likely...v
+”Tsujimura
+uThis is a problem... We can't possibly fix that bridge on our own...v
+”Protagonist
+uRight...v
+”Takamine
+u...The killer probably intends to increase the number of victims. Otherwise, there'd be no point in dropping the bridge.v
+”Protagonist
+u...You might be right.v
+”Mikanagi
+uWithout the bridge, you boys won't be able to go home... Though with everything that's happened, you might not be able to leave even if the police arrive.v
+”Protagonist
+uRight...v
+”Akane
+uThis place is surrounded by cliffs, so without the bridge, you can't go anywhere...v
+”Protagonist
+uI see...v
+”Narumi
+uEven if the bridge is gone, we have plenty of food, so we'll be fine. ...Well, Kirihara-san will just have to give up on her cola, I guess.v
+”Protagonist
+uRight... I'll let her know.v

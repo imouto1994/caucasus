@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒThere's no doubt that was used to sever Ai-san's neck...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€ŒThat axe... looked similar to the one found near Rokuyou.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€ŒThat... was the item found in Master Rokuyou's room. I had returned it to the storage shed... I wonder if that was a mistake...ã€
-ï¼ƒProtagonist
-ã€ŒIs that what happened...?ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uThere's no doubt that was used to sever Ai-san's neck...v
+”Protagonist
+uTrue...v
+”Benio
+uThat axe... looked similar to the one found near Rokuyou.v
+”Protagonist
+uTrue...v
+”Tsujimura
+uThat... was the item found in Master Rokuyou's room. I had returned it to the storage shed... I wonder if that was a mistake...v
+”Protagonist
+uIs that what happened...?v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

@@ -1,36 +1,36 @@
-ï¼ƒMaya
-ã€Œ...I am sorry, I do not really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€Œ...All the keys in this mansion look much the same. It's difficult to judge them by appearance alone.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒActually... the key to the chapel is missing. I used a spare to open it just now, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Maya
+u...I am sorry, I do not really know.v
+”Protagonist
+uI see...v
+”Ai
+u...I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Benio
+u...All the keys in this mansion look much the same. It's difficult to judge them by appearance alone.v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uActually... the key to the chapel is missing. I used a spare to open it just now, but...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI don't really know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

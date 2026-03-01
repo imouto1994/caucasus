@@ -1,45 +1,45 @@
 I returned to my own room.
-ï¼ƒSouko
-ã€ŒIt looks like we'll have to ask the lawyer about the will.ã€
-ï¼ƒProtagonist
-ã€ŒI'm not sure if he'll actually tell us anything, but... wait, Souko-san?ã€
-ï¼ƒSouko
-ã€ŒHm, what is it?ã€
-ï¼ƒProtagonist
-ã€ŒWhat are you doing in my room?ã€
-ï¼ƒSouko
-ã€ŒI'm here to discuss what we're going to do starting tomorrow, obviously.ã€
+”Souko
+uIt looks like we'll have to ask the lawyer about the will.v
+”Protagonist
+uI'm not sure if he'll actually tell us anything, but... wait, Souko-san?v
+”Souko
+uHm, what is it?v
+”Protagonist
+uWhat are you doing in my room?v
+”Souko
+uI'm here to discuss what we're going to do starting tomorrow, obviously.v
 Souko-san sat down on the edge of the bed.
-ï¼ƒProtagonist
-ã€ŒTomorrow... well, if the snow has stopped, we're heading home, right?ã€
+”Protagonist
+uTomorrow... well, if the snow has stopped, we're heading home, right?v
 I spoke aloud what was surely the least likely possibility.
-ï¼ƒSouko
-ã€ŒIf the snow has stopped... we'll head into Nanatsuki Village and gather information.ã€
-ï¼ƒProtagonist
-ã€Œ...So we really are going to keep going with this.ã€
-ï¼ƒSouko
-ã€ŒOf course we are. That's why we came here in the first place.ã€
+”Souko
+uIf the snow has stopped... we'll head into Nanatsuki Village and gather information.v
+”Protagonist
+u...So we really are going to keep going with this.v
+”Souko
+uOf course we are. That's why we came here in the first place.v
 Souko-san let her body fall back onto the bed.
-ï¼ƒSouko
-ã€ŒPhew... but honestly, it doesn't look like it's going to stop.ã€
-ï¼ƒProtagonist
-ã€ŒYou think so?ã€
+”Souko
+uPhew... but honestly, it doesn't look like it's going to stop.v
+”Protagonist
+uYou think so?v
 I walked over to the window and looked outside.
 Just as when I had looked through the window in Dr. Mikanagi's room earlier, I could see the dark tower standing there.
 While the snow was still falling, it had weakened considerably.
-ï¼ƒProtagonist
-ã€ŒWell, with this much snow piled up, it looks like it would be a struggle just to walk.ã€
+”Protagonist
+uWell, with this much snow piled up, it looks like it would be a struggle just to walk.v
 Souko-san didn't give me an answer.
 When I turned around, I saw her eyes were closed as she lay on my bed.
-ï¼ƒProtagonist
-ã€Œ...Souko-san?ã€
-ï¼ƒSouko
-ã€ŒZzz...ã€
+”Protagonist
+u...Souko-san?v
+”Souko
+uZzz...v
 ...She had fallen asleep.
-ï¼ƒProtagonist
-ã€Œ...Souko-san, you're going to catch a cold.ã€
-ï¼ƒSouko
-ã€Œ...Mmn...ã€
+”Protagonist
+u...Souko-san, you're going to catch a cold.v
+”Souko
+u...Mmn...v
 It was no use.
 Once she was like this, she wasn't going to wake up.
 I suppose she must have been exhausted...

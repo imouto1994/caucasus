@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒMaya-san seems quite exhausted as well... though I suppose that's only natural.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMaya
-ã€Œ...I'll be fine, thank you.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI believe Mother is resting in her room...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒMother... she seems to be very tired.ã€
-ï¼ƒProtagonist
-ã€ŒShe does...ã€
-ï¼ƒTsujimura
-ã€ŒThe Mistress has always been of delicate health... With incidents like these occurring, the mental strain must be ceaseless...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒIt seems Maya-san has shut herself away in her room. Well, that's likely for the best...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMikanagi
-ã€ŒMaya-san hasn't been feeling well since last night, so I've asked her to rest in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒI believe the Mistress is resting in her room, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒThe Mistress, huh... It seems her heart is breaking from all these incidents...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uMaya-san seems quite exhausted as well... though I suppose that's only natural.v
+”Protagonist
+uYeah...v
+”Maya
+u...I'll be fine, thank you.v
+”Protagonist
+uI see...v
+”Ai
+uI believe Mother is resting in her room...v
+”Protagonist
+uI see...v
+”Shion
+uMother... she seems to be very tired.v
+”Protagonist
+uShe does...v
+”Tsujimura
+uThe Mistress has always been of delicate health... With incidents like these occurring, the mental strain must be ceaseless...v
+”Protagonist
+uI see...v
+”Takamine
+uIt seems Maya-san has shut herself away in her room. Well, that's likely for the best...v
+”Protagonist
+uYeah...v
+”Mikanagi
+uMaya-san hasn't been feeling well since last night, so I've asked her to rest in her room.v
+”Protagonist
+uI see.v
+”Akane
+uI believe the Mistress is resting in her room, but...v
+”Protagonist
+uI see.v
+”Narumi
+uThe Mistress, huh... It seems her heart is breaking from all these incidents...v
+”Protagonist
+uI see...v

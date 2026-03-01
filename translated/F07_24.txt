@@ -1,24 +1,24 @@
 At the far end of the east side on the second floor.
 Souko-san was standing by the grand piano.
-ï¼ƒProtagonist
-ã€ŒSouko-san.ã€
-ï¼ƒSouko
-ã€ŒOh, what's up?ã€
-ï¼ƒProtagonist
-ã€ŒAnd what about you, Souko-san... are you doing rounds?ã€
-ï¼ƒSouko
-ã€ŒI thought I'd see if I could find any clues.ã€
-ï¼ƒProtagonist
-ã€ŒI wonder... we've already searched everything.ã€
-ï¼ƒSouko
-ã€ŒTrue. Since time has passed, even if something had been left behind, there's a chance the killer took it away.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒSouko
-ã€ŒBy the way, did you need something?ã€
+”Protagonist
+uSouko-san.v
+”Souko
+uOh, what's up?v
+”Protagonist
+uAnd what about you, Souko-san... are you doing rounds?v
+”Souko
+uI thought I'd see if I could find any clues.v
+”Protagonist
+uI wonder... we've already searched everything.v
+”Souko
+uTrue. Since time has passed, even if something had been left behind, there's a chance the killer took it away.v
+”Protagonist
+uYeah...v
+”Souko
+uBy the way, did you need something?v
 Souko-san was still in the music room when I entered.
-ï¼ƒSouko
-ã€ŒOh, what's up this time?ã€
+”Souko
+uOh, what's up this time?v
 I've come to the room at the far end of the east side on the second floor.
 A grand piano is placed on a slightly elevated stage.
 Now then, what should I do.

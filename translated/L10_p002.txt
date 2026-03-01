@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€ŒApparently she was in her room... but no one can prove it...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒI was in my room. I thought that would be safest.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI don't know... I've been in my room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€Œ...I don't know. My room is in the annex, after all...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI believe she was in her room... but I have not confirmed it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒHow could I possibly know? I was right there with you.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+uApparently she was in her room... but no one can prove it...v
+”Protagonist
+uTrue...v
+”Maya
+uI was in my room. I thought that would be safest.v
+”Protagonist
+uI see...v
+”Ai
+uI don't know... I've been in my room the whole time.v
+”Protagonist
+uI see...v
+”Shion
+u...I don't know. My room is in the annex, after all...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI believe she was in her room... but I have not confirmed it.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Narumi
+uHow could I possibly know? I was right there with you.v
+”Protagonist
+uTrue...v

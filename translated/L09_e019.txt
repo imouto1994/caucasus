@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€Œ...Last time it was an axe. If Benio-san was a saw... I guess the killer isn't picky about their tools for decapitation.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
-ï¼ƒMaya
-ã€Œ...I am sorry, I do not really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€Œ...The hand axe used before is kept under strict lock and key. Perhaps that is why it could not be used this time...ã€
-ï¼ƒProtagonist
-ã€ŒThat might be true...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒJudging by the cut on the neck, there's no doubt a saw was used. I can't say what the reason was, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...Last time it was an axe. If Benio-san was a saw... I guess the killer isn't picky about their tools for decapitation.v
+”Protagonist
+uMaybe so...v
+”Maya
+u...I am sorry, I do not really know.v
+”Protagonist
+uI see...v
+”Ai
+u...I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+u...The hand axe used before is kept under strict lock and key. Perhaps that is why it could not be used this time...v
+”Protagonist
+uThat might be true...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+uJudging by the cut on the neck, there's no doubt a saw was used. I can't say what the reason was, though...v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

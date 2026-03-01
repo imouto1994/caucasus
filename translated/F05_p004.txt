@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...She really isn't a morning person, is she?ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒAs for Benio... I'd rather she not get involved in anything dangerous...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...Since I was targeted, I think there's a possibility the culprit might be after Benio too...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒIt's unlikely that nothing will happen today. The target will be me, Shion... or perhaps someone else...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒShion
-ã€ŒSister Benio... she's kind, but sometimes I don't know what she's thinking...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLady Benio is also in danger, so I wish she would stay quiet... but I doubt she'll listen...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒI don't know what Benio-kun is thinking about this whole situation, but she seems to be investigating things.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒBenio-san seems to be looking into various things as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Benio? I expect she's in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒLady Benio never was a morning person. Usually, Tsujimura-san is the one who wakes her up.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...She really isn't a morning person, is she?v
+”Protagonist
+uRight...v
+”Maya
+uAs for Benio... I'd rather she not get involved in anything dangerous...v
+”Protagonist
+uI see...v
+”Ai
+u...Since I was targeted, I think there's a possibility the culprit might be after Benio too...v
+”Protagonist
+uRight...v
+”Benio
+uIt's unlikely that nothing will happen today. The target will be me, Shion... or perhaps someone else...v
+”Protagonist
+uRight...v
+”Shion
+uSister Benio... she's kind, but sometimes I don't know what she's thinking...v
+”Protagonist
+uI see...v
+”Tsujimura
+uLady Benio is also in danger, so I wish she would stay quiet... but I doubt she'll listen...v
+”Protagonist
+uRight...v
+”Takamine
+uI don't know what Benio-kun is thinking about this whole situation, but she seems to be investigating things.v
+”Protagonist
+uI see...v
+”Mikanagi
+uBenio-san seems to be looking into various things as well.v
+”Protagonist
+uI see...v
+”Akane
+uLady Benio? I expect she's in her room.v
+”Protagonist
+uI see...v
+”Narumi
+uLady Benio never was a morning person. Usually, Tsujimura-san is the one who wakes her up.v
+”Protagonist
+uI see...v

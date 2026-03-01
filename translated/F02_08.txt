@@ -1,44 +1,44 @@
-Iâ€™ve arrived at the dining hall.
-ï¼ƒAkane
-ã€ŒAh, good morning.ã€
+Ifve arrived at the dining hall.
+”Akane
+uAh, good morning.v
 Akane-san was there.
-ï¼ƒProtagonist
-ã€ŒGood morning, Akane-san.ã€
-ï¼ƒAkane
-ã€ŒAre you here for breakfast?ã€
-ï¼ƒProtagonist
-ã€ŒYes. Is there anything ready?ã€
-ï¼ƒAkane
-ã€ŒOf course. Please wait just a moment.ã€
+”Protagonist
+uGood morning, Akane-san.v
+”Akane
+uAre you here for breakfast?v
+”Protagonist
+uYes. Is there anything ready?v
+”Akane
+uOf course. Please wait just a moment.v
 With that, Akane-san headed off toward the kitchen.
 As I sat and waited, she soon returned with a tray.
-ï¼ƒAkane
-ã€ŒIt's just toast and fried eggs, if that's alright?ã€
-ï¼ƒProtagonist
-ã€ŒYes, thank you.ã€
+”Akane
+uIt's just toast and fried eggs, if that's alright?v
+”Protagonist
+uYes, thank you.v
 I take a large bite of the golden-brown toast.
-ï¼ƒProtagonist
-ã€ŒHay, Ah-kahn-ay-shahn.ã€
-ï¼ƒAkane
-ã€ŒPlease finish what's in your mouth before you try to speak.ã€
+”Protagonist
+uHay, Ah-kahn-ay-shahn.v
+”Akane
+uPlease finish what's in your mouth before you try to speak.v
 Akane-san scolds me with a laugh.
-ï¼ƒProtagonist
-ã€ŒNgh... um, do you have a moment?ã€
-ï¼ƒAkane
-ã€ŒYes? What is it?ã€
-Iâ€™ve returned to the dining hall.
-ï¼ƒAkane
-ã€ŒOh, is something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒUm...ã€
-Iâ€™ve arrived at the dining hall.
-ï¼ƒBenio
-ã€ŒOh, it's you.ã€
+”Protagonist
+uNgh... um, do you have a moment?v
+”Akane
+uYes? What is it?v
+Ifve returned to the dining hall.
+”Akane
+uOh, is something the matter?v
+”Protagonist
+uUm...v
+Ifve arrived at the dining hall.
+”Benio
+uOh, it's you.v
 Benio-san was eating breakfast alone.
 Akane-san was nearby, attending to her.
-ï¼ƒBenio
-ã€ŒAre you here for breakfast too?ã€
-ï¼ƒProtagonist
-ã€ŒNo, I...ã€
+”Benio
+uAre you here for breakfast too?v
+”Protagonist
+uNo, I...v
 Right now, there's something I'd rather do than eat.
 Should I talk to Benio-san or Akane-san?

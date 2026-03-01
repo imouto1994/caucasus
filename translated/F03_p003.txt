@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€Œ...It's possible Ai-san was in love with Rokuyou-san.ã€
-ï¼ƒProtagonist
-ã€Œ...That might be the case.ã€
-ï¼ƒMaya
-ã€ŒAi was on good terms with Isamu-san... she might be the one most in shock...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒSister's hobbies aligned with Rokuyou's. It's no wonder she'd be in shock if he was killed.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒSister Ai... she congratulated us on the marriage, but perhaps she was actually against it.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...?ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai dotes on Lady Shion very much, so when she heard about the marriage, she likely felt very conflicted.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒLady Ai was apparently close with Rokuyou-kun. She might be feeling quite depressed right now.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒAs for Ai-san, she should have gone to her room after seeing Shion-san off.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒLady Ai? She's likely in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+u...It's possible Ai-san was in love with Rokuyou-san.v
+”Protagonist
+u...That might be the case.v
+”Maya
+uAi was on good terms with Isamu-san... she might be the one most in shock...v
+”Protagonist
+uI see...v
+”Benio
+uSister's hobbies aligned with Rokuyou's. It's no wonder she'd be in shock if he was killed.v
+”Protagonist
+uI see...v
+”Shion
+uSister Ai... she congratulated us on the marriage, but perhaps she was actually against it.v
+”Protagonist
+uIs that so...?v
+”Tsujimura
+uLady Ai dotes on Lady Shion very much, so when she heard about the marriage, she likely felt very conflicted.v
+”Protagonist
+uI see...v
+”Takamine
+uLady Ai was apparently close with Rokuyou-kun. She might be feeling quite depressed right now.v
+”Protagonist
+uI see...v
+”Mikanagi
+uAs for Ai-san, she should have gone to her room after seeing Shion-san off.v
+”Protagonist
+uI see.v
+”Narumi
+uLady Ai? She's likely in her room.v
+”Protagonist
+uI see.v

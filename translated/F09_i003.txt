@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...It looks like it was pulled hard and torn off. I wonder if something happened...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMaya
-ã€Œ...I certainly believe it is Shion's hair, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒIt looks like Shion's hair... but it's quite damaged...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒBenio
-ã€Œ...It's no mystery for Shion's hair to be lying in the chapel. However... the problem is why it's damaged to this extent.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... you're right.ã€
-ï¼ƒShion
-ã€ŒThat... I believe it is my hair...ã€
-ï¼ƒProtagonist
-ã€ŒI thought so...ã€
-ï¼ƒTsujimura
-ã€ŒIt appears to be Lady Shion's hair... but it looks like it was pulled with great force...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒTakamine
-ã€ŒHair of that color couldn't belong to anyone but Shion-kun.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMikanagi
-ã€ŒIt's undoubtedly Shion-san's hair. It looks like it was pulled with force... I wonder what happened...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI believe it is certainly Lady Shion's hair, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI'm pretty sure it's Lady Shion's hair.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+u...It looks like it was pulled hard and torn off. I wonder if something happened...v
+”Protagonist
+uYou're right...v
+”Maya
+u...I certainly believe it is Shion's hair, but...v
+”Protagonist
+uI see...v
+”Ai
+uIt looks like Shion's hair... but it's quite damaged...v
+”Protagonist
+uYou're right...v
+”Benio
+u...It's no mystery for Shion's hair to be lying in the chapel. However... the problem is why it's damaged to this extent.v
+”Protagonist
+uYeah... you're right.v
+”Shion
+uThat... I believe it is my hair...v
+”Protagonist
+uI thought so...v
+”Tsujimura
+uIt appears to be Lady Shion's hair... but it looks like it was pulled with great force...v
+”Protagonist
+uYou're right...v
+”Takamine
+uHair of that color couldn't belong to anyone but Shion-kun.v
+”Protagonist
+uYou're right...v
+”Mikanagi
+uIt's undoubtedly Shion-san's hair. It looks like it was pulled with force... I wonder what happened...v
+”Protagonist
+uI see...v
+”Akane
+uI believe it is certainly Lady Shion's hair, but...v
+”Protagonist
+uI see...v
+”Narumi
+uI'm pretty sure it's Lady Shion's hair.v
+”Protagonist
+uI see.v

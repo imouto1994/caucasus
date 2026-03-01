@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€Œ...There's no doubt she was struck by someone... but the culprit vanished into thin air...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒSo Benio was safe... thank goodness...ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
-ï¼ƒAi
-ã€ŒTo think even Benio would be attacked... I've had enough...ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒShion
-ã€ŒLady Benio was safe, then...?ã€
-ï¼ƒProtagonist
-ã€ŒYes... there's no need to worry.ã€
-ï¼ƒTsujimura
-ã€ŒWe were talking in the office until about two... She must have been attacked after returning to her room...ã€
-ï¼ƒProtagonist
-ã€Œ...I believe so.ã€
-ï¼ƒTakamine
-ã€Œ...I was in my room, so I didn't see Benio-kun.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI wonder if Lady Benio will be all right...ã€
-ï¼ƒProtagonist
-ã€ŒYes, there's no need to worry.ã€
-ï¼ƒNarumi
-ã€ŒShe was hit on the head, right? She'd better keep quiet and rest for a while.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Souko
+u...There's no doubt she was struck by someone... but the culprit vanished into thin air...v
+”Protagonist
+uTrue...v
+”Maya
+uSo Benio was safe... thank goodness...v
+”Protagonist
+u...Yeah.v
+”Ai
+uTo think even Benio would be attacked... I've had enough...v
+”Protagonist
+uAi-san...v
+”Shion
+uLady Benio was safe, then...?v
+”Protagonist
+uYes... there's no need to worry.v
+”Tsujimura
+uWe were talking in the office until about two... She must have been attacked after returning to her room...v
+”Protagonist
+u...I believe so.v
+”Takamine
+u...I was in my room, so I didn't see Benio-kun.v
+”Protagonist
+uI see...v
+”Akane
+uI wonder if Lady Benio will be all right...v
+”Protagonist
+uYes, there's no need to worry.v
+”Narumi
+uShe was hit on the head, right? She'd better keep quiet and rest for a while.v
+”Protagonist
+uTrue...v

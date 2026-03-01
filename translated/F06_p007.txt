@@ -1,28 +1,28 @@
-ï¼ƒSouko
-ã€ŒTakamine-san is another one where you never know what he's thinking...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒAttorney Takamine can be a bit rough with his language, but he's not a bad person.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI hear Takamine-san used to come here since he was a child, brought along by his father.ã€
-ï¼ƒProtagonist
-ã€ŒWas that so?ã€
-ï¼ƒBenio
-ã€ŒTakamine is difficult. He likely can't settle down in a situation like this.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒTsujimura
-ã€ŒTakamine-sama is a serious person... He's someone who isn't afraid to have a differing opinion.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒWhat about me?ã€
-ï¼ƒProtagonist
-ã€ŒNo, it's nothing...ã€
-ï¼ƒMikanagi
-ã€ŒTakamine-san is headstrong. Perhaps that's why he's suited to being an attorney.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uTakamine-san is another one where you never know what he's thinking...v
+”Protagonist
+uRight...v
+”Maya
+uAttorney Takamine can be a bit rough with his language, but he's not a bad person.v
+”Protagonist
+uI see...v
+”Ai
+uI hear Takamine-san used to come here since he was a child, brought along by his father.v
+”Protagonist
+uWas that so?v
+”Benio
+uTakamine is difficult. He likely can't settle down in a situation like this.v
+”Protagonist
+uIs that so?v
+”Tsujimura
+uTakamine-sama is a serious person... He's someone who isn't afraid to have a differing opinion.v
+”Protagonist
+uI see...v
+”Takamine
+uWhat about me?v
+”Protagonist
+uNo, it's nothing...v
+”Mikanagi
+uTakamine-san is headstrong. Perhaps that's why he's suited to being an attorney.v
+”Protagonist
+uI see...v

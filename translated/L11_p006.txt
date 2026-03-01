@@ -1,24 +1,24 @@
-ï¼ƒAi
-ã€ŒI don't know... I've been in my room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒTsujimura? Hard to imagine. I find it difficult to believe he would attack even me.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI was in the office the entire time, however...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI predictably wouldn't know about anyone else's movements.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒTsujimura-san is almost always in the office. How should I put it... it's like he was trying to protect Lady Shion.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Ai
+uI don't know... I've been in my room the whole time.v
+”Protagonist
+uI see...v
+”Benio
+uTsujimura? Hard to imagine. I find it difficult to believe he would attack even me.v
+”Protagonist
+uI see...v
+”Tsujimura
+uI was in the office the entire time, however...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI predictably wouldn't know about anyone else's movements.v
+”Protagonist
+uI see...v
+”Narumi
+uTsujimura-san is almost always in the office. How should I put it... it's like he was trying to protect Lady Shion.v
+”Protagonist
+uI see...v

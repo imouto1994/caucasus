@@ -1,36 +1,36 @@
-ï¼ƒMaya
-ã€ŒReally... you mustn't enter people's rooms without permission.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah, you're right... my apologies.ã€
-ï¼ƒAi
-ã€ŒA wig...? I don't know much about Mother's things.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒMother's wigs, huh... I don't know anything about them.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒTsujimura
-ã€ŒWell... as for the Madam's possessions, it would be best to ask the Madam herself...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒTakamine
-ã€ŒI'm not really sure.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒThat's... something I really don't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI'm not quite sure about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Maya
+uReally... you mustn't enter people's rooms without permission.v
+”Protagonist
+uY-Yeah, you're right... my apologies.v
+”Ai
+uA wig...? I don't know much about Mother's things.v
+”Protagonist
+uI see...v
+”Benio
+uMother's wigs, huh... I don't know anything about them.v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uThat's true...v
+”Tsujimura
+uWell... as for the Madam's possessions, it would be best to ask the Madam herself...v
+”Protagonist
+uYou're right...v
+”Takamine
+uI'm not really sure.v
+”Protagonist
+uI see...v
+”Mikanagi
+uThat's... something I really don't know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI'm not quite sure about that.v
+”Protagonist
+uI see...v

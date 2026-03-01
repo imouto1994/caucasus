@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒPossible reasons for him to be killed... inheritance, love and hate, or... something completely unrelated, I suppose.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€Œ...Isamu-san was a very polite young man. I remember him telling me he would make Shion happy.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒWhy Isamu-san... why...ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€ŒA reason for Rokuyou to be killed... inheritance, or some other cause... Honestly, I don't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒMaster Rokuyou... why did he try to marry me...? I still don't really understand...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒA reason for Master Rokuyou to be killed...? I don't know. What could have happened...?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI didn't think Rokuyou-kun was the type to be hated by others... but you never know what someone is doing behind the scenes...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€Œ...I don't think Isamu made any enemies through his work, and judging by the situation, it must have been someone in this mansion... but...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒAkane
-ã€ŒWas Master Rokuyou killed... because someone hated him...?ã€
-ï¼ƒProtagonist
-ã€ŒI'm not sure... we don't know yet.ã€
-ï¼ƒNarumi
-ã€ŒRokuyou-san might have been doing something that would get him killed, but I haven't the slightest idea what it could be.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uPossible reasons for him to be killed... inheritance, love and hate, or... something completely unrelated, I suppose.v
+”Protagonist
+uTrue...v
+”Maya
+u...Isamu-san was a very polite young man. I remember him telling me he would make Shion happy.v
+”Protagonist
+uI see...v
+”Ai
+uWhy Isamu-san... why...v
+”Protagonist
+uAi-san...v
+”Benio
+uA reason for Rokuyou to be killed... inheritance, or some other cause... Honestly, I don't know.v
+”Protagonist
+uI see...v
+”Shion
+uMaster Rokuyou... why did he try to marry me...? I still don't really understand...v
+”Protagonist
+uI see...v
+”Tsujimura
+uA reason for Master Rokuyou to be killed...? I don't know. What could have happened...?v
+”Protagonist
+uI see...v
+”Takamine
+uI didn't think Rokuyou-kun was the type to be hated by others... but you never know what someone is doing behind the scenes...v
+”Protagonist
+uI see...v
+”Mikanagi
+u...I don't think Isamu made any enemies through his work, and judging by the situation, it must have been someone in this mansion... but...v
+”Protagonist
+uTrue...v
+”Akane
+uWas Master Rokuyou killed... because someone hated him...?v
+”Protagonist
+uI'm not sure... we don't know yet.v
+”Narumi
+uRokuyou-san might have been doing something that would get him killed, but I haven't the slightest idea what it could be.v
+”Protagonist
+uI see...v

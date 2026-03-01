@@ -1,52 +1,52 @@
-ï¼ƒSouko
-ã€Œ...She seems quite shaken up.ã€
-ï¼ƒProtagonist
-ã€Œ...You're right.ã€
-ï¼ƒSouko
-ã€ŒIf Ai-sanâ€™s murder was related to the inheritance, the survivor would be the prime suspect... but I don't think it's that simple.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒI'm glad Ai was safe, but... why did something like this happen...?ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒWhy Ai too...? Are you saying that child did something wrong...?ã€
-ï¼ƒProtagonist
-ã€ŒMaya-san...ã€
-ï¼ƒAi
-ã€Œ...It seems I can't shake this fatigue... Itâ€™s strange, isn't it? Even though Iâ€™m in my own home...ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€ŒI have a feeling that attack on my sister was carried out differently than the one on Rokuyou...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€Œ...I don't think it will end with my sister being killed. Next will be me... or someone else.ã€
-ï¼ƒProtagonist
-ã€ŒThat might be true...ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai seems quite shaken. I suppose it's only natural after something like that...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTsujimura
-ã€Œ...Why did Lady Ai have to be killed...?ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€Œ...In any case, I'm glad Ai-kun didn't lose her life.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€Œ...So even Ai-kun was killed...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMikanagi
-ã€ŒAs for Ai-san, I expect she's returned to her room. After what happened yesterday, it's better if she rests.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒWhat is the culprit's aim...? What do they gain by killing Isamu and Ai-san...?ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
+”Souko
+u...She seems quite shaken up.v
+”Protagonist
+u...You're right.v
+”Souko
+uIf Ai-sanfs murder was related to the inheritance, the survivor would be the prime suspect... but I don't think it's that simple.v
+”Protagonist
+uRight...v
+”Maya
+uI'm glad Ai was safe, but... why did something like this happen...?v
+”Protagonist
+uRight...v
+”Maya
+uWhy Ai too...? Are you saying that child did something wrong...?v
+”Protagonist
+uMaya-san...v
+”Ai
+u...It seems I can't shake this fatigue... Itfs strange, isn't it? Even though Ifm in my own home...v
+”Protagonist
+uAi-san...v
+”Benio
+uI have a feeling that attack on my sister was carried out differently than the one on Rokuyou...v
+”Protagonist
+uI see...v
+”Benio
+u...I don't think it will end with my sister being killed. Next will be me... or someone else.v
+”Protagonist
+uThat might be true...v
+”Tsujimura
+uLady Ai seems quite shaken. I suppose it's only natural after something like that...v
+”Protagonist
+uRight...v
+”Tsujimura
+u...Why did Lady Ai have to be killed...?v
+”Protagonist
+uRight...v
+”Takamine
+u...In any case, I'm glad Ai-kun didn't lose her life.v
+”Protagonist
+uRight...v
+”Takamine
+u...So even Ai-kun was killed...v
+”Protagonist
+uYeah...v
+”Mikanagi
+uAs for Ai-san, I expect she's returned to her room. After what happened yesterday, it's better if she rests.v
+”Protagonist
+uI see.v
+”Mikanagi
+uWhat is the culprit's aim...? What do they gain by killing Isamu and Ai-san...?v
+”Protagonist
+uRight...v

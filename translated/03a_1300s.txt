@@ -1,43 +1,43 @@
 There was a short piece of wood lying in the storage area.
-ï¼ƒProtagonist
-ã€ŒCouldn't we use this for something?ã€
-ï¼ƒNarumi
-ã€ŒIsn't it a bit short?ã€
-ï¼ƒProtagonist
-ã€ŒCan even your arms not reach, Narumi-san?ã€
-ï¼ƒNarumi
-ã€ŒI wonder... let me see it.ã€
+”Protagonist
+uCouldn't we use this for something?v
+”Narumi
+uIsn't it a bit short?v
+”Protagonist
+uCan even your arms not reach, Narumi-san?v
+”Narumi
+uI wonder... let me see it.v
 Narumi-san took the piece of wood and reached her arm through the grate.
-ï¼ƒNarumi
-ã€ŒNnh... nn-ugh... itâ€™s no good. I can't move it unless I can hook it onto something.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Narumi
+uNnh... nn-ugh... itfs no good. I can't move it unless I can hook it onto something.v
+”Protagonist
+uI see...v
 No choice, then. I'll look for something else.
 It seems this stick alone won't be enough to move the bar.
 A piece of rope about a meter long came out of a box.
 I wonder if this could be used for something...
-ï¼ƒProtagonist
-ã€ŒNarumi-san, the thing blocking the door is a rod, right?ã€
-ï¼ƒNarumi
-ã€ŒThatâ€™s what it looked like to me.ã€
-ï¼ƒProtagonist
-ã€ŒCould we hook it with this rope?ã€
-ï¼ƒNarumi
-ã€ŒI wonder... let me see it.ã€
+”Protagonist
+uNarumi-san, the thing blocking the door is a rod, right?v
+”Narumi
+uThatfs what it looked like to me.v
+”Protagonist
+uCould we hook it with this rope?v
+”Narumi
+uI wonder... let me see it.v
 Narumi-san took the rope and put her arm through the grate.
-ï¼ƒNarumi
-ã€ŒNnh... nope, itâ€™s no good. It won't hook onto it.ã€
-ï¼ƒProtagonist
-ã€ŒI guess itâ€™s not going to be like fishing...ã€
+”Narumi
+uNnh... nope, itfs no good. It won't hook onto it.v
+”Protagonist
+uI guess itfs not going to be like fishing...v
 No choice, I'll look for something else.
 I should look for other potentially useful items.
 The large quantity of raw vegetables we gathered.
-ï¼ƒProtagonist
-ã€Œ...Could we use these for something?ã€
-ï¼ƒNarumi
-ã€ŒTheyâ€™ll fill our stomachs, and thatâ€™s about it.ã€
-ï¼ƒProtagonist
-ã€ŒI guess so...ã€
+”Protagonist
+u...Could we use these for something?v
+”Narumi
+uTheyfll fill our stomachs, and thatfs about it.v
+”Protagonist
+uI guess so...v
 Sigh... I'll look for something else.
 Vegetables aren't going to be much help, after all.
 This is... looks like rice.
@@ -47,23 +47,23 @@ If I want to eat rice, I should ask Narumi-san after we get out.
 While rummaging through the cupboards, I found a hammer.
 It's too short to reach whatever is blocking the door, but it looks like it could be useful for something.
 I should probably keep it just in case.
-Thereâ€™s nothing else useful left in the cupboards.
+Therefs nothing else useful left in the cupboards.
 A box full of nails came out of the shelf where miscellaneous goods were stored.
-ï¼ƒProtagonist
-ã€ŒCould we use these nails?ã€
-ï¼ƒNarumi
-ã€ŒNails by themselves are useless.ã€
-ï¼ƒProtagonist
-ã€ŒI feel like they could be used for something, though...ã€
+”Protagonist
+uCould we use these nails?v
+”Narumi
+uNails by themselves are useless.v
+”Protagonist
+uI feel like they could be used for something, though...v
 No choice, I'll take them and keep looking for something else.
 Nails alone aren't going to help.
 A box full of nails came out of the shelf where miscellaneous goods were stored.
-ï¼ƒProtagonist
-ã€ŒCould we use these nails?ã€
-ï¼ƒNarumi
-ã€ŒNails by themselves are useless.ã€
-ï¼ƒProtagonist
-ã€ŒI feel like they could be used for something, though...ã€
+”Protagonist
+uCould we use these nails?v
+”Narumi
+uNails by themselves are useless.v
+”Protagonist
+uI feel like they could be used for something, though...v
 No choice, I'll take them and keep looking for something else.
 Nails alone aren't going to help.
 I tried opening the drawers, but they were full of junk and nothing particularly useful.
@@ -71,23 +71,23 @@ I'll look elsewhere.
 There doesn't seem to be anything useful in here.
 I found a small spoon in a drawer.
 It was so tarnished I couldn't tell how long it had been left there, but it appeared to be silverware.
-ï¼ƒProtagonist
-ã€ŒNarumi-san, can we use this for something?ã€
-ï¼ƒNarumi
-ã€ŒA spoon? Itâ€™s nowhere near long enough.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Protagonist
+uNarumi-san, can we use this for something?v
+”Narumi
+uA spoon? Itfs nowhere near long enough.v
+”Protagonist
+uI see...v
 I'll see if there's anything else.
 There doesn't seem to be anything useful in here.
 A plain wooden wall.
 When I touched it, there seemed to be quite a gap.
-ï¼ƒProtagonist
-ã€ŒNarumi-san... maybe we can break through here.ã€
-ï¼ƒNarumi
-ã€ŒBreak through...? Isn't the wall sturdy?ã€
+”Protagonist
+uNarumi-san... maybe we can break through here.v
+”Narumi
+uBreak through...? Isn't the wall sturdy?v
 Narumi-san peered at where my hand was.
-ï¼ƒProtagonist
-ã€ŒNo... look, there's a gap here. If we peel off the wood, I think weâ€™ll find dirt or some other fragile material...ã€
-ï¼ƒNarumi
-ã€Œ...Worst comes to worst, weâ€™ll have to make a hole here.ã€
+”Protagonist
+uNo... look, there's a gap here. If we peel off the wood, I think wefll find dirt or some other fragile material...v
+”Narumi
+u...Worst comes to worst, wefll have to make a hole here.v
 It looks like we could break through... but I have no idea how long it would take...

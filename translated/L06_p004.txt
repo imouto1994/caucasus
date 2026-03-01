@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒBenio-san, huh... We went to the basement together, and if the decapitation happened after the electrocution, she wouldn't have had the chance, right?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒBenio is always wandering about the house, so I couldn't tell you where she was.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒI went to the office to get a handle on the situation... after that, I was waiting in the hall with Shion. Once we went to the basement, I was with you, wasn't I?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒLady Benio and I were together...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒLady Benio came to the office to confirm what was happening. Afterward, she left with Lady Shion...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI saw her coming out of the office just as I was heading in.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI didn't see her during the blackout...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI believe she was in the office with Lady Shion... though probably not the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI caught a glimpse of her with Lady Shion.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uBenio-san, huh... We went to the basement together, and if the decapitation happened after the electrocution, she wouldn't have had the chance, right?v
+”Protagonist
+uTrue...v
+”Maya
+uBenio is always wandering about the house, so I couldn't tell you where she was.v
+”Protagonist
+uI see...v
+”Benio
+uI went to the office to get a handle on the situation... after that, I was waiting in the hall with Shion. Once we went to the basement, I was with you, wasn't I?v
+”Protagonist
+uTrue...v
+”Shion
+uLady Benio and I were together...v
+”Protagonist
+uI see.v
+”Tsujimura
+uLady Benio came to the office to confirm what was happening. Afterward, she left with Lady Shion...v
+”Protagonist
+uI see...v
+”Takamine
+uI saw her coming out of the office just as I was heading in.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI didn't see her during the blackout...v
+”Protagonist
+uI see...v
+”Akane
+uI believe she was in the office with Lady Shion... though probably not the whole time.v
+”Protagonist
+uI see...v
+”Narumi
+uI caught a glimpse of her with Lady Shion.v
+”Protagonist
+uI see...v

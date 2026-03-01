@@ -3,16 +3,16 @@ This is the room of the former head of the house, Mr. Kousei.
 I try turning the doorknob lightly, but as expected, it seems to be locked.
 It can't be helped; I'll head elsewhere.
 Mr. Kousei's room at the far end of the north side of the second floor.
-ï¼ƒAkane
-ã€ŒEven I... have never been in here.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒAkane
-ã€ŒYes... it's a closed room now.ã€
-ï¼ƒProtagonist
-ã€ŒThen the possibility of Ai-san being here is...ã€
-ï¼ƒAkane
-ã€ŒI think it's unlikely.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Akane
+uEven I... have never been in here.v
+”Protagonist
+uIs that so?v
+”Akane
+uYes... it's a closed room now.v
+”Protagonist
+uThen the possibility of Ai-san being here is...v
+”Akane
+uI think it's unlikely.v
+”Protagonist
+uI see...v
 It can't be helped; I'll head elsewhere.

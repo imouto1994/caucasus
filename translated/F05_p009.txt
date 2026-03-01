@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAkane-san, huh... it feels like thereâ€™s some kind of destiny at work there...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...?ã€
-ï¼ƒMaya
-ã€ŒAkane works very hard. She's also very attentive to details.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAkane-san? She's a very hard worker.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAkane? She works hard. She can be a bit scatterbrained at times, though.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒAkane-san... she brings me my meals and such, but I don't know her very well...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMiss Hiyama? She performs her work properly and there are no particular problems, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒHiyama-kun? I think she works hard, coming all the way out to a mountain recess like this.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒAkane-san... Perhaps she's shy; I haven't talked with her much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒA-About that... please don't talk too much about my sister, I beg of you...ã€
-ï¼ƒProtagonist
-ã€Œ...Understood.ã€
-ï¼ƒNarumi
-ã€ŒAbout Akane? She's quite reliable for someone so young. Thanks to her, I can't slack off... oh, don't tell her I said that, okay?ã€
-ï¼ƒProtagonist
-ã€ŒOh...ã€
+”Souko
+uAkane-san, huh... it feels like therefs some kind of destiny at work there...v
+”Protagonist
+uIs that so...?v
+”Maya
+uAkane works very hard. She's also very attentive to details.v
+”Protagonist
+uI see.v
+”Ai
+uAkane-san? She's a very hard worker.v
+”Protagonist
+uI see.v
+”Benio
+uAkane? She works hard. She can be a bit scatterbrained at times, though.v
+”Protagonist
+uI see...v
+”Shion
+uAkane-san... she brings me my meals and such, but I don't know her very well...v
+”Protagonist
+uI see...v
+”Tsujimura
+uMiss Hiyama? She performs her work properly and there are no particular problems, but...v
+”Protagonist
+uI see.v
+”Takamine
+uHiyama-kun? I think she works hard, coming all the way out to a mountain recess like this.v
+”Protagonist
+uI see.v
+”Mikanagi
+uAkane-san... Perhaps she's shy; I haven't talked with her much.v
+”Protagonist
+uI see...v
+”Akane
+uA-About that... please don't talk too much about my sister, I beg of you...v
+”Protagonist
+u...Understood.v
+”Narumi
+uAbout Akane? She's quite reliable for someone so young. Thanks to her, I can't slack off... oh, don't tell her I said that, okay?v
+”Protagonist
+uOh...v

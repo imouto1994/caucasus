@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒAkane-san? She seems like a serious and good girl.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒMaya
-ã€ŒAkane works very hard. She's also very attentive to details.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAkane? She works hard. She can be a bit scatterbrained at times, though.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒAkane-san... she brings me my meals and such, but I don't know her very well...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMiss Hiyama? She performs her work properly and there are no particular problems, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒHiyama-kun? I think she works hard, coming all the way out to a mountain recess like this.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒAkane-san... Perhaps she's shy; I haven't talked with her much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒAbout Akane? She's quite reliable for someone so young. Thanks to her, I can't slack off... oh, don't tell her I said that, okay?ã€
-ï¼ƒProtagonist
-ã€ŒOh...ã€
+”Souko
+uAkane-san? She seems like a serious and good girl.v
+”Protagonist
+uRight.v
+”Maya
+uAkane works very hard. She's also very attentive to details.v
+”Protagonist
+uI see.v
+”Benio
+uAkane? She works hard. She can be a bit scatterbrained at times, though.v
+”Protagonist
+uI see...v
+”Shion
+uAkane-san... she brings me my meals and such, but I don't know her very well...v
+”Protagonist
+uI see...v
+”Tsujimura
+uMiss Hiyama? She performs her work properly and there are no particular problems, but...v
+”Protagonist
+uI see.v
+”Takamine
+uHiyama-kun? I think she works hard, coming all the way out to a mountain recess like this.v
+”Protagonist
+uI see.v
+”Mikanagi
+uAkane-san... Perhaps she's shy; I haven't talked with her much.v
+”Protagonist
+uI see...v
+”Narumi
+uAbout Akane? She's quite reliable for someone so young. Thanks to her, I can't slack off... oh, don't tell her I said that, okay?v
+”Protagonist
+uOh...v

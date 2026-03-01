@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒI wonder what the motive was for Ai-san's murder... Was it the inheritance, or something else...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€Œ...To think my sister would be killed. And by such a convoluted method, at that...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai... Why did this happen...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒSo even Ai-kun was killed... What on earth is the killer's intent!?ã€
-ï¼ƒProtagonist
-ã€ŒI... I don't know...ã€
-ï¼ƒAkane
-ã€ŒI've been searching for Lady Ai since around eleven-thirty. She wasn't in her room, so I went to the infirmary, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒLady Ai's mental state has been unstable since Master Rokuyou was murdered... I guess you could say she's in a state where she might do anything...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uI wonder what the motive was for Ai-san's murder... Was it the inheritance, or something else...?v
+”Protagonist
+uTrue...v
+”Benio
+u...To think my sister would be killed. And by such a convoluted method, at that...v
+”Protagonist
+uTrue...v
+”Tsujimura
+uLady Ai... Why did this happen...?v
+”Protagonist
+uTrue...v
+”Takamine
+uSo even Ai-kun was killed... What on earth is the killer's intent!?v
+”Protagonist
+uI... I don't know...v
+”Akane
+uI've been searching for Lady Ai since around eleven-thirty. She wasn't in her room, so I went to the infirmary, but...v
+”Protagonist
+uI see...v
+”Narumi
+uLady Ai's mental state has been unstable since Master Rokuyou was murdered... I guess you could say she's in a state where she might do anything...v
+”Protagonist
+uI see...v

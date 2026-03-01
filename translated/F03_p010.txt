@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒNarumi-san? Doesn't she seem incredibly unmotivated? The food was delicious, though...ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
-ï¼ƒMaya
-ã€ŒNarumi? Her talent for cooking is wonderful. However... I wish she would be a bit more serious...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒBenio
-ã€ŒNarumi? Only her cooking skills are first-rate. As for the rest... well, you can imagine.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒNarumi-san... she's the one who prepares the meals. I always enjoy them.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒAs for Miss Minakami... it would be a help to me as well if she worked properly at things other than cooking...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMinakami-kun... I don't know her well. The food isn't bad, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒNarumi-san? Her cooking is delicious. As for anything else... I don't know much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒAbout me? Why are you asking that? ...Oh, could it be you have feelings for me...?ã€
-ï¼ƒProtagonist
-ã€Œ...There's no way that's it.ã€
+”Souko
+uNarumi-san? Doesn't she seem incredibly unmotivated? The food was delicious, though...v
+”Protagonist
+u...Right.v
+”Maya
+uNarumi? Her talent for cooking is wonderful. However... I wish she would be a bit more serious...v
+”Protagonist
+u...I see.v
+”Benio
+uNarumi? Only her cooking skills are first-rate. As for the rest... well, you can imagine.v
+”Protagonist
+uI see...v
+”Shion
+uNarumi-san... she's the one who prepares the meals. I always enjoy them.v
+”Protagonist
+uI see.v
+”Tsujimura
+uAs for Miss Minakami... it would be a help to me as well if she worked properly at things other than cooking...v
+”Protagonist
+uI see...v
+”Takamine
+uMinakami-kun... I don't know her well. The food isn't bad, but...v
+”Protagonist
+uI see.v
+”Mikanagi
+uNarumi-san? Her cooking is delicious. As for anything else... I don't know much.v
+”Protagonist
+uI see...v
+”Narumi
+uAbout me? Why are you asking that? ...Oh, could it be you have feelings for me...?v
+”Protagonist
+u...There's no way that's it.v

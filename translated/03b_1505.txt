@@ -1,83 +1,83 @@
 Reaching the hall, I ran into Tsujimura-san, who had just come from the corridor on the opposite side.
-ï¼ƒProtagonist
-ã€ŒAh, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒIs something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒNothing, I just thought I should check to make sure everyone is safe...ã€
-ï¼ƒTsujimura
-ã€Œ...Has something occurred?ã€
-ï¼ƒProtagonist
-ã€ŒYeah, well...ã€
+”Protagonist
+uAh, Tsujimura-san.v
+”Tsujimura
+uIs something the matter?v
+”Protagonist
+uNothing, I just thought I should check to make sure everyone is safe...v
+”Tsujimura
+u...Has something occurred?v
+”Protagonist
+uYeah, well...v
 I briefly told him about being locked in the basement.
-ï¼ƒTsujimura
-ã€ŒGood heavens... such a thing happened...?ã€
-ï¼ƒProtagonist
-ã€ŒUm, is Shion-san in her room?ã€
-ï¼ƒTsujimura
-ã€ŒYes... she has not come out at all, however...ã€
-ï¼ƒProtagonist
-ã€ŒI see. Then I'll go upstairs and check on Maya-san and the others.ã€
-ï¼ƒTsujimura
-ã€ŒI understand. I leave it in your hands.ã€
+”Tsujimura
+uGood heavens... such a thing happened...?v
+”Protagonist
+uUm, is Shion-san in her room?v
+”Tsujimura
+uYes... she has not come out at all, however...v
+”Protagonist
+uI see. Then I'll go upstairs and check on Maya-san and the others.v
+”Tsujimura
+uI understand. I leave it in your hands.v
 I climbed the stairs.
 To Maya-san's room at the very end of the corridor.
 I knocked on the door.
-ï¼ƒProtagonist
-ã€ŒMaya-san, are you there?ã€
+”Protagonist
+uMaya-san, are you there?v
 The door opened, and a weary-looking Maya-san peered out.
-ï¼ƒMaya
-ã€ŒIs something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHas anything unusual happened?ã€
-ï¼ƒMaya
-ã€ŒNo, nothing in particular...ã€
-ï¼ƒProtagonist
-ã€ŒI see. Iâ€™m sorry to ask this, but would you mind staying in your room for a while?ã€
-ï¼ƒMaya
-ã€ŒYes... I don't mind...ã€
+”Maya
+uIs something the matter?v
+”Protagonist
+uHas anything unusual happened?v
+”Maya
+uNo, nothing in particular...v
+”Protagonist
+uI see. Ifm sorry to ask this, but would you mind staying in your room for a while?v
+”Maya
+uYes... I don't mind...v
 Though she looked suspicious, Maya-san returned to her room and closed the door.
 Next was... Ai-san.
 I reached Ai-san's room and knocked.
-ï¼ƒProtagonist
-ã€ŒAi-san, are you there?ã€
-ï¼ƒAi
-ã€ŒYes... what is it?ã€
+”Protagonist
+uAi-san, are you there?v
+”Ai
+uYes... what is it?v
 Ai-san peered out.
-ï¼ƒProtagonist
-ã€ŒHas anything unusual happened?ã€
-ï¼ƒAi
-ã€ŒUnusual... no, nothing?ã€
-ï¼ƒProtagonist
-ã€ŒI see. That's good.ã€
-ï¼ƒAi
-ã€ŒDid something happen?ã€
+”Protagonist
+uHas anything unusual happened?v
+”Ai
+uUnusual... no, nothing?v
+”Protagonist
+uI see. That's good.v
+”Ai
+uDid something happen?v
 Ai-san tilted her head.
-ï¼ƒProtagonist
-ã€ŒNo, it's nothing major.ã€
+”Protagonist
+uNo, it's nothing major.v
 I decided to keep the details hidden from Ai-san as well.
-ï¼ƒAi
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€ŒWe still don't know what might happen, so please be careful and stay alert.ã€
-ï¼ƒAi
-ã€ŒYes, I understand.ã€
+”Ai
+uI see...v
+”Protagonist
+uWe still don't know what might happen, so please be careful and stay alert.v
+”Ai
+uYes, I understand.v
 Ai-san went back into her room.
 Souko-san approached from the other end of the corridor.
-ï¼ƒSouko
-ã€ŒHow are things on this side?ã€
-ï¼ƒProtagonist
-ã€ŒNo problems here.ã€
-ï¼ƒSouko
-ã€ŒTakamine-san was in his room too. Dr. Mikanagi... Akane-san went to check on him.ã€
-ï¼ƒProtagonist
-ã€ŒIt seems we can assume nothing has happened yet.ã€
-ï¼ƒSouko
-ã€ŒRight... though we can't let our guard down.ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san, could you stay in your room as well? I'll call you when the food is ready.ã€
-ï¼ƒSouko
-ã€ŒSure, I understand. What about you?ã€
-ï¼ƒProtagonist
-ã€ŒI'm going back to the dining room. I need to talk to Akane-san too.ã€
+”Souko
+uHow are things on this side?v
+”Protagonist
+uNo problems here.v
+”Souko
+uTakamine-san was in his room too. Dr. Mikanagi... Akane-san went to check on him.v
+”Protagonist
+uIt seems we can assume nothing has happened yet.v
+”Souko
+uRight... though we can't let our guard down.v
+”Protagonist
+uSouko-san, could you stay in your room as well? I'll call you when the food is ready.v
+”Souko
+uSure, I understand. What about you?v
+”Protagonist
+uI'm going back to the dining room. I need to talk to Akane-san too.v
 With that, I decided to head back down to the first floor.

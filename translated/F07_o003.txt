@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒIt's the cat Benio-san keeps, right? Lovecraft... what a niche name to choose...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒBenio takes care of that child. I... am not very fond of animals.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒThe eyes are different colors, right? They call that kind of thing 'odd eyes.'ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒLove only takes to me... but it seems he's taken a liking to you as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€Œ...It's the cat Lady Benio keeps, right? I'm sorry... I don't really know much about it...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLady Benio takes care of him. It seems he does not take to other people very much...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒA cat... I don't know the details, but Benio-kun keeps it, doesn't she?ã€
-ï¼ƒProtagonist
-ã€ŒSo I've heard.ã€
-ï¼ƒMikanagi
-ã€ŒIt's Benio-san's cat, isn't it? I saw Akane-san giving it food.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒLady Benio keeps him. I'm the one who gives him food.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒLady Benio's cat? He often comes to the kitchen to snatch some food while I'm cooking.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uIt's the cat Benio-san keeps, right? Lovecraft... what a niche name to choose...v
+”Protagonist
+uRight...v
+”Maya
+uBenio takes care of that child. I... am not very fond of animals.v
+”Protagonist
+uI see...v
+”Ai
+uThe eyes are different colors, right? They call that kind of thing 'odd eyes.'v
+”Protagonist
+uI see...v
+”Benio
+uLove only takes to me... but it seems he's taken a liking to you as well.v
+”Protagonist
+uI see...v
+”Shion
+u...It's the cat Lady Benio keeps, right? I'm sorry... I don't really know much about it...v
+”Protagonist
+uI see...v
+”Tsujimura
+uLady Benio takes care of him. It seems he does not take to other people very much...v
+”Protagonist
+uI see.v
+”Takamine
+uA cat... I don't know the details, but Benio-kun keeps it, doesn't she?v
+”Protagonist
+uSo I've heard.v
+”Mikanagi
+uIt's Benio-san's cat, isn't it? I saw Akane-san giving it food.v
+”Protagonist
+uI see.v
+”Akane
+uLady Benio keeps him. I'm the one who gives him food.v
+”Protagonist
+uI see.v
+”Narumi
+uLady Benio's cat? He often comes to the kitchen to snatch some food while I'm cooking.v
+”Protagonist
+uI see.v

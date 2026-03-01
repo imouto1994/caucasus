@@ -1,39 +1,39 @@
 I've come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒTsujimura-san, it's me.ã€
+”Protagonist
+uTsujimura-san, it's me.v
 The door opens, and Tsujimura-san peeks his head out.
-ï¼ƒTsujimura
-ã€ŒIs something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒTsujimura
-ã€ŒSure, I don't mind. Please, come in.ã€
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Tsujimura
+uIs something the matter?v
+”Protagonist
+uDo you have a moment?v
+”Tsujimura
+uSure, I don't mind. Please, come in.v
+”Protagonist
+uExcuse me.v
 I enter Tsujimura-san's room.
-ï¼ƒTsujimura
-ã€ŒSo, how can I help you?ã€
+”Tsujimura
+uSo, how can I help you?v
 I've come to the front of Tsujimura-san's room again.
 I knock on the door.
-ï¼ƒTsujimura
-ã€ŒYes, who is it?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Tsujimura-san.ã€
-ï¼ƒTsujimura
-ã€ŒAh, it's you. What is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒTsujimura
-ã€ŒSure, I don't mind. Please, come in.ã€
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Tsujimura
+uYes, who is it?v
+”Protagonist
+uHello, Tsujimura-san.v
+”Tsujimura
+uAh, it's you. What is it this time?v
+”Protagonist
+uDo you have a moment?v
+”Tsujimura
+uSure, I don't mind. Please, come in.v
+”Protagonist
+uExcuse me.v
 I enter Tsujimura-san's room.
-ï¼ƒTsujimura
-ã€ŒHow can I help you?ã€
+”Tsujimura
+uHow can I help you?v
 I've come to the front of Tsujimura-san's room.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒOh... maybe he's not here.ã€
+”Protagonist
+uOh... maybe he's not here.v
 No matter how long I waited, there was no response.
 It can't be helped, I'll go somewhere else.

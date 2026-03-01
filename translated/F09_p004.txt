@@ -1,76 +1,76 @@
-ï¼ƒSouko
-ã€ŒBenio-san seems to be looking into various things as well. She was injured, so I wish she wouldn't push herself...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒSouko
-ã€ŒTo think even Benio-san would be murdered... the pool of victims and suspects is finally starting to narrow down...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMaya
-ã€ŒAs for Benio... I don't want her getting involved in anything dangerous...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒMaya
-ã€ŒWhy Benio too...? That's why I told her to stop this dangerous business...ã€
-ï¼ƒProtagonist
-ã€ŒMaya-san...ã€
-ï¼ƒAi
-ã€Œ...As I feared, Benio was targeted as well... Why did it come to this...ã€
-ï¼ƒProtagonist
-ã€ŒI don't know...ã€
-ï¼ƒAi
-ã€ŒAh... Benio...! Why, why did you have to die...!!ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€ŒMy condition is fine, don't worry about it.ã€
-ï¼ƒProtagonist
-ã€ŒPlease don't push yourself too hard...ã€
-ï¼ƒShion
-ã€ŒLady Benio... is she going to be all right...?ã€
-ï¼ƒProtagonist
-ã€ŒShe's just resting as a precaution for now. There's no need to worry.ã€
-ï¼ƒShion
-ã€ŒLady Benio... why...?ã€
-ï¼ƒProtagonist
-ã€ŒShion-san...ã€
-ï¼ƒTsujimura
-ã€Œ...At any rate, I am relieved that Lady Benio is safe.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒTsujimura
-ã€ŒWith Lady Benio gone as well... what will become of us now...?ã€
-ï¼ƒProtagonist
-ã€Œ...I don't know.ã€
-ï¼ƒTakamine
-ã€ŒSo Benio-kun pulled through... but we can't let our guard down just yet.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒTakamine
-ã€ŒEven Benio-kun was killed... Hurry up and drag the killer out.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah...ã€
-ï¼ƒMikanagi
-ã€ŒBenio-san should be fine now. Though, it's probably best not to let her overexert herself.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒTo think Benio-san would be murdered too... I don't want to think it's over an inheritance dispute, but...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒAkane
-ã€ŒIf it's Lady Benio, she should be in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Benio... why did she have to be murdered...?ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san...ã€
-ï¼ƒNarumi
-ã€ŒThe person who attacked Lady Benio, huh... it'd be best to ask the Lady herself, but...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒNarumi
-ã€Œ...With Lady Benio murdered as well, have you grasped the killer's intent even a little?ã€
-ï¼ƒProtagonist
-ã€ŒNo... not yet.ã€
+”Souko
+uBenio-san seems to be looking into various things as well. She was injured, so I wish she wouldn't push herself...v
+”Protagonist
+uYeah...v
+”Souko
+uTo think even Benio-san would be murdered... the pool of victims and suspects is finally starting to narrow down...v
+”Protagonist
+uYeah...v
+”Maya
+uAs for Benio... I don't want her getting involved in anything dangerous...v
+”Protagonist
+u...I see.v
+”Maya
+uWhy Benio too...? That's why I told her to stop this dangerous business...v
+”Protagonist
+uMaya-san...v
+”Ai
+u...As I feared, Benio was targeted as well... Why did it come to this...v
+”Protagonist
+uI don't know...v
+”Ai
+uAh... Benio...! Why, why did you have to die...!!v
+”Protagonist
+uAi-san...v
+”Benio
+uMy condition is fine, don't worry about it.v
+”Protagonist
+uPlease don't push yourself too hard...v
+”Shion
+uLady Benio... is she going to be all right...?v
+”Protagonist
+uShe's just resting as a precaution for now. There's no need to worry.v
+”Shion
+uLady Benio... why...?v
+”Protagonist
+uShion-san...v
+”Tsujimura
+u...At any rate, I am relieved that Lady Benio is safe.v
+”Protagonist
+uYeah...v
+”Tsujimura
+uWith Lady Benio gone as well... what will become of us now...?v
+”Protagonist
+u...I don't know.v
+”Takamine
+uSo Benio-kun pulled through... but we can't let our guard down just yet.v
+”Protagonist
+uYeah...v
+”Takamine
+uEven Benio-kun was killed... Hurry up and drag the killer out.v
+”Protagonist
+uY-Yeah...v
+”Mikanagi
+uBenio-san should be fine now. Though, it's probably best not to let her overexert herself.v
+”Protagonist
+uI see...v
+”Mikanagi
+uTo think Benio-san would be murdered too... I don't want to think it's over an inheritance dispute, but...v
+”Protagonist
+uYeah...v
+”Akane
+uIf it's Lady Benio, she should be in her room.v
+”Protagonist
+uI see...v
+”Akane
+uLady Benio... why did she have to be murdered...?v
+”Protagonist
+uAkane-san...v
+”Narumi
+uThe person who attacked Lady Benio, huh... it'd be best to ask the Lady herself, but...v
+”Protagonist
+uTrue...v
+”Narumi
+u...With Lady Benio murdered as well, have you grasped the killer's intent even a little?v
+”Protagonist
+uNo... not yet.v

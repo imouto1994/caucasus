@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒTsujimura-san has it hard too. Despite being the brother of the late head, he's been put in a position where he's treated as a servant...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒIf you have any inconveniences, please let Tsujimura know.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
-ï¼ƒBenio
-ã€ŒIf it's Tsujimura, wouldn't he be in the office?ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒShion
-ã€ŒSeiji-san... he cares for me very much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI couldn't make a living with my artistic skills, which were barely better than an amateur's... I'm grateful to be allowed to work here.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI hear Tsujimura-san has endured many hardships until now.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒIf it's Tsujimura-san, he should be in the office. Otherwise, I expect he's back in his room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒIf anything happens, please tell Tsujimura-san. He manages almost everything in the house.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uTsujimura-san has it hard too. Despite being the brother of the late head, he's been put in a position where he's treated as a servant...v
+”Protagonist
+uRight...v
+”Maya
+uIf you have any inconveniences, please let Tsujimura know.v
+”Protagonist
+uUnderstood.v
+”Benio
+uIf it's Tsujimura, wouldn't he be in the office?v
+”Protagonist
+uI see.v
+”Shion
+uSeiji-san... he cares for me very much.v
+”Protagonist
+uI see...v
+”Tsujimura
+uI couldn't make a living with my artistic skills, which were barely better than an amateur's... I'm grateful to be allowed to work here.v
+”Protagonist
+uI see...v
+”Takamine
+uI hear Tsujimura-san has endured many hardships until now.v
+”Protagonist
+uI see...v
+”Mikanagi
+uIf it's Tsujimura-san, he should be in the office. Otherwise, I expect he's back in his room.v
+”Protagonist
+uI see.v
+”Narumi
+uIf anything happens, please tell Tsujimura-san. He manages almost everything in the house.v
+”Protagonist
+uI see.v

@@ -1,56 +1,56 @@
-ï¼ƒSouko
-ã€ŒShe seems to have been injured in that explosion... I hope she's alright.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒSouko
-ã€ŒI wonder why she disappeared...ã€
-ï¼ƒProtagonist
-ã€Œ...I don't know.ã€
-ï¼ƒMaya
-ã€ŒAkane works very hard. She's also very attentive to details.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒAkane has disappeared... you don't think that girl...?ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know anything yet.ã€
-ï¼ƒAi
-ã€ŒAkane-san? She's a very hard worker.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒFor Akane-san to disappear... could it be...?ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know yet.ã€
-ï¼ƒBenio
-ã€ŒAkane was burned? I find it hard to believe it was just a coincidence...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒWhat was the reason for Akane's disappearance...? Was she taken by the culprit, or is she the culprit herself...?ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know yet.ã€
-ï¼ƒTsujimura
-ã€ŒMiss Hiyama has minor injuries. Sheâ€™s resting in her room for now...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒWhere could Miss Hiyama have gone...?ã€
-ï¼ƒProtagonist
-ã€ŒWe don't know yet...ã€
-ï¼ƒTakamine
-ã€ŒWhether Hiyama-kun was targeted or just caught up in it by chance... itâ€™s hard to say.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒThere are only so many places to go in this mansion... why can't she be found?ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMikanagi
-ã€ŒAkane-san's injuries aren't serious. I'm having her rest in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI wonder if itâ€™s related to what happened yesterday... her going into hiding.ã€
-ï¼ƒProtagonist
-ã€Œ...Perhaps.ã€
+”Souko
+uShe seems to have been injured in that explosion... I hope she's alright.v
+”Protagonist
+uRight...v
+”Souko
+uI wonder why she disappeared...v
+”Protagonist
+u...I don't know.v
+”Maya
+uAkane works very hard. She's also very attentive to details.v
+”Protagonist
+uI see.v
+”Maya
+uAkane has disappeared... you don't think that girl...?v
+”Protagonist
+u...We don't know anything yet.v
+”Ai
+uAkane-san? She's a very hard worker.v
+”Protagonist
+uI see.v
+”Ai
+uFor Akane-san to disappear... could it be...?v
+”Protagonist
+u...We don't know yet.v
+”Benio
+uAkane was burned? I find it hard to believe it was just a coincidence...v
+”Protagonist
+uRight...v
+”Benio
+uWhat was the reason for Akane's disappearance...? Was she taken by the culprit, or is she the culprit herself...?v
+”Protagonist
+u...We don't know yet.v
+”Tsujimura
+uMiss Hiyama has minor injuries. Shefs resting in her room for now...v
+”Protagonist
+uI see.v
+”Tsujimura
+uWhere could Miss Hiyama have gone...?v
+”Protagonist
+uWe don't know yet...v
+”Takamine
+uWhether Hiyama-kun was targeted or just caught up in it by chance... itfs hard to say.v
+”Protagonist
+uRight...v
+”Takamine
+uThere are only so many places to go in this mansion... why can't she be found?v
+”Protagonist
+uYou're right...v
+”Mikanagi
+uAkane-san's injuries aren't serious. I'm having her rest in her room.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI wonder if itfs related to what happened yesterday... her going into hiding.v
+”Protagonist
+u...Perhaps.v

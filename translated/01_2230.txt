@@ -2,21 +2,21 @@ I made it back to the room I had been assigned.
 The time was 10:30 PM.
 I should probably stay in my room and wait for a while.
 There was a knock at the door.
-ï¼ƒProtagonist
-ã€ŒCome in.ã€
-ï¼ƒNarumi
-ã€ŒExcuse me.ã€
+”Protagonist
+uCome in.v
+”Narumi
+uExcuse me.v
 It was Narumi-san.
-ï¼ƒNarumi
-ã€ŒYou probably heard this from Benio-ojousama already, but please stay in this room until midnight.ã€
-ï¼ƒProtagonist
-ã€ŒYeah, I know.ã€
-ï¼ƒNarumi
-ã€ŒI'm not gonna say 'don't you dare step a foot outside,' but it's not like you've got anything else to do anyway.ã€
-ï¼ƒProtagonist
-ã€ŒWell, you're not wrong.ã€
-ï¼ƒNarumi
-ã€ŒSo just stay put for a bit. I'll come and get you when it's time.ã€
+”Narumi
+uYou probably heard this from Benio-ojousama already, but please stay in this room until midnight.v
+”Protagonist
+uYeah, I know.v
+”Narumi
+uI'm not gonna say 'don't you dare step a foot outside,' but it's not like you've got anything else to do anyway.v
+”Protagonist
+uWell, you're not wrong.v
+”Narumi
+uSo just stay put for a bit. I'll come and get you when it's time.v
 Narumi-san emphasized the point before leaving the room.
 Stay put, huh...
 Well, since there really wasn't anything to do, I might as well try to get some sleep.
@@ -25,116 +25,116 @@ The tower was barely visible through the swirling snow.
 I wondered if Shion-san was getting ready for the ceremony too.
 I flopped down onto the bed.
 Narumi-san was supposed to come get me around midnight, so I'd just sleep until then.
-ï¼ƒSouko
-ã€ŒOh, were you sleeping?ã€
+”Souko
+uOh, were you sleeping?v
 Souko-san's sudden voice made me open my eyes just as I was drifting off.
-ï¼ƒProtagonist
-ã€Œ...I was just about to.ã€
-ï¼ƒSouko
-ã€ŒGood. It would've been a pain if I had to wake you up again.ã€
+”Protagonist
+u...I was just about to.v
+”Souko
+uGood. It would've been a pain if I had to wake you up again.v
 Souko-san sat down on the edge of the bed.
-ï¼ƒSouko
-ã€ŒSo, did you find anything out?ã€
-ï¼ƒProtagonist
-ã€ŒI got the details of the 'Curse of the Seven' from Benio-san.ã€
-ï¼ƒSouko
-ã€ŒOh, look at you. Care to share?ã€
-ï¼ƒProtagonist
-ã€ŒAlright, one by one. 'First, all heads of the Nanatsuki family have died mysterious deaths.'ã€
-ï¼ƒSouko
-ã€ŒThey said Kousei-shi committed suicide. Does that mean every single head of the family has killed themselves?ã€
-ï¼ƒProtagonist
-ã€ŒWho knows... she didn't tell me that much. Next, 'Second, no males are ever born into the Nanatsuki family.'ã€
-ï¼ƒSouko
-ã€ŒNo males... so that means every husband is married into the family. If that's the case, then the one carrying the Nanatsuki bloodline isn't Kousei-shi, but Maya-san...ã€
-ï¼ƒProtagonist
-ã€ŒSince Tsujimura-san is Kousei-san's younger brother, that seems very likely.ã€
-ï¼ƒSouko
-ã€ŒAnd all the children are female too. What's next?ã€
-ï¼ƒProtagonist
-ã€Œ 'Third, the cases of spirited-away victims in Nanatsuki Village.'ã€
-ï¼ƒSouko
-ã€ŒSpirited away... I wonder if that's connected to the family too?ã€
-ï¼ƒProtagonist
-ã€ŒI don't know. She didn't tell me anything else about it.ã€
-ï¼ƒSouko
-ã€Œ...Next?ã€
-ï¼ƒProtagonist
-ã€Œ 'Fourth, the mansion is painted entirely in pitch black.'ã€
-ï¼ƒSouko
-ã€ŒWell, that much is obvious. I'm sure there's some reason for it, though...ã€
-ï¼ƒProtagonist
-ã€Œ 'Fifth, a massive swarm of crows covers the mansion.'ã€
-ï¼ƒSouko
-ã€ŒCrows, huh... There's no way to confirm that in this blizzard.ã€
-ï¼ƒProtagonist
-ã€Œ 'Sixth, the matter of the "Sacrifice of the Seven".'ã€
-ï¼ƒSouko
-ã€ŒIf we take it literally, it means a human sacrifice... It sounds like it's closely related to the spirit-away cases. And the last one?ã€
-ï¼ƒProtagonist
-ã€Œ 'Seventh, the ghost of the sacrificed girl wanders the halls of the mansion.' ...That's all of them.ã€
-ï¼ƒSouko
-ã€Œ...It suddenly got very suspicious at the end there.ã€
+”Souko
+uSo, did you find anything out?v
+”Protagonist
+uI got the details of the 'Curse of the Seven' from Benio-san.v
+”Souko
+uOh, look at you. Care to share?v
+”Protagonist
+uAlright, one by one. 'First, all heads of the Nanatsuki family have died mysterious deaths.'v
+”Souko
+uThey said Kousei-shi committed suicide. Does that mean every single head of the family has killed themselves?v
+”Protagonist
+uWho knows... she didn't tell me that much. Next, 'Second, no males are ever born into the Nanatsuki family.'v
+”Souko
+uNo males... so that means every husband is married into the family. If that's the case, then the one carrying the Nanatsuki bloodline isn't Kousei-shi, but Maya-san...v
+”Protagonist
+uSince Tsujimura-san is Kousei-san's younger brother, that seems very likely.v
+”Souko
+uAnd all the children are female too. What's next?v
+”Protagonist
+u 'Third, the cases of spirited-away victims in Nanatsuki Village.'v
+”Souko
+uSpirited away... I wonder if that's connected to the family too?v
+”Protagonist
+uI don't know. She didn't tell me anything else about it.v
+”Souko
+u...Next?v
+”Protagonist
+u 'Fourth, the mansion is painted entirely in pitch black.'v
+”Souko
+uWell, that much is obvious. I'm sure there's some reason for it, though...v
+”Protagonist
+u 'Fifth, a massive swarm of crows covers the mansion.'v
+”Souko
+uCrows, huh... There's no way to confirm that in this blizzard.v
+”Protagonist
+u 'Sixth, the matter of the "Sacrifice of the Seven".'v
+”Souko
+uIf we take it literally, it means a human sacrifice... It sounds like it's closely related to the spirit-away cases. And the last one?v
+”Protagonist
+u 'Seventh, the ghost of the sacrificed girl wanders the halls of the mansion.' ...That's all of them.v
+”Souko
+u...It suddenly got very suspicious at the end there.v
 Souko-san muttered with a look of exasperation.
-ï¼ƒProtagonist
-ã€ŒWell, these kinds of 'Seven Mysteries' are always a bit far-fetched, aren't they?ã€
-ï¼ƒSouko
-ã€ŒTrue. Now we just need to dig deeper into these... though we can't exactly go around asking about it openly.ã€
-ï¼ƒProtagonist
-ã€ŒI think Benio-san might be willing to cooperate.ã€
-ï¼ƒSouko
-ã€ŒIf she were really going to cooperate, wouldn't she have given you more details?ã€
-ï¼ƒProtagonist
-ã€ŒWell... maybe you're right.ã€
-ï¼ƒSouko
-ã€ŒKeep investigating. But be subtle about it.ã€
-ï¼ƒProtagonist
-ã€ŒWhat about you, Souko-san?ã€
-ï¼ƒSouko
-ã€ŒI've been looking into things myself, you know. Not that I've found a damn thing.ã€
-ï¼ƒProtagonist
-ã€ŒNo, nothing yet. How about you?ã€
-ï¼ƒSouko
-ã€ŒI've been doing plenty of research. Not that I've found a damn thing.ã€
-ï¼ƒProtagonist
-ã€Œ...Are you sure you aren't just in your room drinking cola?ã€
-ï¼ƒSouko
-ã€ŒOf course not! I have a limited supply, so they'd be gone in no time.ã€
-ï¼ƒProtagonist
-ã€ŒBut you brought so many with you. Those full bottles were heavy, you know.ã€
-ï¼ƒSouko
-ã€ŒI just heard the weather forecast on my portable radio. Apparently, this blizzard is going to last for quite a while longer.ã€
-ï¼ƒProtagonist
-ã€ŒWait... really?ã€
-ï¼ƒSouko
-ã€ŒSeems like a cold air mass is stalled right over us. We might be stuck here for a few days.ã€
-ï¼ƒProtagonist
-ã€ŒA few days... huh.ã€
+”Protagonist
+uWell, these kinds of 'Seven Mysteries' are always a bit far-fetched, aren't they?v
+”Souko
+uTrue. Now we just need to dig deeper into these... though we can't exactly go around asking about it openly.v
+”Protagonist
+uI think Benio-san might be willing to cooperate.v
+”Souko
+uIf she were really going to cooperate, wouldn't she have given you more details?v
+”Protagonist
+uWell... maybe you're right.v
+”Souko
+uKeep investigating. But be subtle about it.v
+”Protagonist
+uWhat about you, Souko-san?v
+”Souko
+uI've been looking into things myself, you know. Not that I've found a damn thing.v
+”Protagonist
+uNo, nothing yet. How about you?v
+”Souko
+uI've been doing plenty of research. Not that I've found a damn thing.v
+”Protagonist
+u...Are you sure you aren't just in your room drinking cola?v
+”Souko
+uOf course not! I have a limited supply, so they'd be gone in no time.v
+”Protagonist
+uBut you brought so many with you. Those full bottles were heavy, you know.v
+”Souko
+uI just heard the weather forecast on my portable radio. Apparently, this blizzard is going to last for quite a while longer.v
+”Protagonist
+uWait... really?v
+”Souko
+uSeems like a cold air mass is stalled right over us. We might be stuck here for a few days.v
+”Protagonist
+uA few days... huh.v
 That's not good...
 It's not like I have to get back to Tokyo urgently, but we can't just keep imposing on them for days on end.
-ï¼ƒProtagonist
-ã€ŒSouko-san, what should we do?ã€
-ï¼ƒSouko
-ã€ŒHmm... I'll have to ration my cola. But it's not very good once it goes flat...ã€
-ï¼ƒProtagonist
-ã€ŒThat's not what I'm talking about!ã€
-ï¼ƒSouko
-ã€ŒWell, there's no other reason to hurry. Let's just take it easy.ã€
+”Protagonist
+uSouko-san, what should we do?v
+”Souko
+uHmm... I'll have to ration my cola. But it's not very good once it goes flat...v
+”Protagonist
+uThat's not what I'm talking about!v
+”Souko
+uWell, there's no other reason to hurry. Let's just take it easy.v
 With that, Souko-san flopped down onto the bed.
-ï¼ƒProtagonist
-ã€ŒIf you want to take it easy, go do it in your own room.ã€
-ï¼ƒSouko
-ã€ŒWhat's the harm?ã€
-ï¼ƒProtagonist
-ã€ŒThere's plenty of harm.ã€
+”Protagonist
+uIf you want to take it easy, go do it in your own room.v
+”Souko
+uWhat's the harm?v
+”Protagonist
+uThere's plenty of harm.v
 I replied instantly.
-ï¼ƒSouko
-ã€ŒYou're such a spoilsport.ã€
+”Souko
+uYou're such a spoilsport.v
 Souko-san gave up and got off the bed.
-ï¼ƒSouko
-ã€ŒFine, fine. See you later, then.ã€
+”Souko
+uFine, fine. See you later, then.v
 With a big yawn, Souko-san left the room.
 Sigh, good grief.
 I wish Souko-san would realize that she shouldn't be lounging around in a room belonging to a guy her age.
-ï¼ƒProtagonist
-ã€Œ...Time to sleep.ã€
+”Protagonist
+u...Time to sleep.v

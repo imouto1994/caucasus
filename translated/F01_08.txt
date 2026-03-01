@@ -1,40 +1,40 @@
 I've returned to the dining hall.
-ï¼ƒAkane
-ã€ŒOh, what's the matter?ã€
+”Akane
+uOh, what's the matter?v
 Akane-san was tidying up the table.
 Maybe because there were so many people, it doesn't look like much progress has been made yet.
 Help
 Don't help
-ï¼ƒProtagonist
-ã€ŒShall I help you?ã€
+”Protagonist
+uShall I help you?v
 I made the offer.
-ï¼ƒAkane
-ã€ŒE-Eh, no, that's quite alright! I couldn't possibly let a guest do such a thing!ã€
+”Akane
+uE-Eh, no, that's quite alright! I couldn't possibly let a guest do such a thing!v
 Akane-san shook her head in a panic.
-ï¼ƒProtagonist
-ã€ŒBut wouldn't it be faster with two people tidying up?ã€
-ï¼ƒAkane
-ã€ŒBut... um, I'll gratefully accept just the thought alone.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒUm, do you need anything else?ã€
-ï¼ƒProtagonist
-ã€ŒAnything else, huh...ã€
-ï¼ƒProtagonist
-ã€ŒI'm sorry, you seem to be in the middle of work.ã€
+”Protagonist
+uBut wouldn't it be faster with two people tidying up?v
+”Akane
+uBut... um, I'll gratefully accept just the thought alone.v
+”Protagonist
+uI see...v
+”Akane
+uUm, do you need anything else?v
+”Protagonist
+uAnything else, huh...v
+”Protagonist
+uI'm sorry, you seem to be in the middle of work.v
 I shouldn't get in the way of her tidying up.
 I gave a bow and left the dining hall.
 I've come to the dining hall again.
-ï¼ƒAkane
-ã€ŒIs something wrong?ã€
+”Akane
+uIs something wrong?v
 Akane-san was mopping the floor.
 The tidying up seems to be mostly finished.
-ï¼ƒProtagonist
-ã€ŒUh...ã€
+”Protagonist
+uUh...v
 I've come to the dining hall.
-ï¼ƒProtagonist
-ã€ŒHuh... no one's here.ã€
+”Protagonist
+uHuh... no one's here.v
 The room was empty.
 All the food from earlier has been cleared away.
 No one's here, so what should I do now...

@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€Œ...There's no doubt her neck was severed in the attic. However... I wonder where her head went...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€ŒIt seems certain my sister was killed in the attic. But... for a head to vanish once again...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€Œ...I do not know anything regarding that.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...There's no doubt her neck was severed in the attic. However... I wonder where her head went...v
+”Protagonist
+uTrue...v
+”Benio
+uIt seems certain my sister was killed in the attic. But... for a head to vanish once again...v
+”Protagonist
+uTrue...v
+”Tsujimura
+u...I do not know anything regarding that.v
+”Protagonist
+uYeah...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

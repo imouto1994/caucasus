@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒNarumi-san? Doesn't she seem completely unmotivated? The food was delicious, though...ã€
-ï¼ƒProtagonist
-ã€Œ...I suppose so.ã€
-ï¼ƒMaya
-ã€ŒNarumi? Her talent for cooking is wonderful. However... I only wish she were a bit more serious about it...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒAi
-ã€ŒNarumi-san... her cooking is always delicious, but... well, her other duties are a bit...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒNarumi-san? Her skills as a cook are certainly first-class.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMs. Minakami... it would be a huge help to me if she worked as properly as she cooks, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒNarumi? ...Ah, the cook. I don't actually know her that well. My apologies.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒMinakami-kun... I don't know her well. The food isn't bad, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒNarumi-san? Her food is delicious. Beyond that... I don't know much.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒNarumi-san? She's mainly in charge of the cooking... I believe she's in the kitchen right now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒAbout me? Why are you asking that? ...Ah, wait, don't tell me you've got a crush on me...?ã€
-ï¼ƒProtagonist
-ã€Œ...As if that would be the case.ã€
+”Souko
+uNarumi-san? Doesn't she seem completely unmotivated? The food was delicious, though...v
+”Protagonist
+u...I suppose so.v
+”Maya
+uNarumi? Her talent for cooking is wonderful. However... I only wish she were a bit more serious about it...v
+”Protagonist
+u...I see.v
+”Ai
+uNarumi-san... her cooking is always delicious, but... well, her other duties are a bit...v
+”Protagonist
+uI see...v
+”Benio
+uNarumi-san? Her skills as a cook are certainly first-class.v
+”Protagonist
+uI see...v
+”Tsujimura
+uMs. Minakami... it would be a huge help to me if she worked as properly as she cooks, but...v
+”Protagonist
+uI see...v
+”Rokuyou
+uNarumi? ...Ah, the cook. I don't actually know her that well. My apologies.v
+”Protagonist
+uI see.v
+”Takamine
+uMinakami-kun... I don't know her well. The food isn't bad, but...v
+”Protagonist
+uI see.v
+”Mikanagi
+uNarumi-san? Her food is delicious. Beyond that... I don't know much.v
+”Protagonist
+uI see...v
+”Akane
+uNarumi-san? She's mainly in charge of the cooking... I believe she's in the kitchen right now.v
+”Protagonist
+uI see.v
+”Narumi
+uAbout me? Why are you asking that? ...Ah, wait, don't tell me you've got a crush on me...?v
+”Protagonist
+u...As if that would be the case.v

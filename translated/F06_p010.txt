@@ -1,56 +1,56 @@
-ï¼ƒSouko
-ã€ŒNarumi-san, huh... There are times when I honestly have no idea what's going on in that head of hers...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒSouko
-ã€ŒIt looks like she was injured in that explosion earlier... I wonder if she's alright.ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
-ï¼ƒMaya
-ã€ŒNarumi? Her talent for cooking is truly wonderful. However... I do wish she would take her other duties a bit more seriously...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒMaya
-ã€ŒThe explosion in the kitchen... yes... I wonder if she is quite alright...ã€
-ï¼ƒProtagonist
-ã€ŒI believe she'll be fine, but...ã€
-ï¼ƒAi
-ã€ŒNarumi-san... Her cooking is always delicious, but... well, her performance in her other tasks is a bit...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒNarumi-san was caught in the explosion... Was she the target, I wonder...ã€
-ï¼ƒProtagonist
-ã€ŒWho knows...ã€
-ï¼ƒBenio
-ã€ŒNarumi? Her skills in the kitchen are top-tier, at least. As for everything else... well, you can imagine.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€Œ...The kitchen explosion might have been an attempt on her life. However... it may be too hasty to conclude that just yet...ã€
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
-ï¼ƒTsujimura
-ã€ŒAs for Mizumori-san... it would be a great help to me as well if she would work diligently at things other than just cooking...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒTsujimura
-ã€ŒMizumori-san is currently resting in her room. Her injuries don't seem to be serious, but...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒTakamine
-ã€ŒMizumori-kun... I don't know her well. The food isn't bad, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒThere's a possibility Mizumori-kun was targeted... but if so, why?ã€
-ï¼ƒProtagonist
-ã€ŒWe don't know that yet...ã€
-ï¼ƒMikanagi
-ã€ŒNarumi-san? Her cooking is delicious. Everything else... I don't know much about.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒMikanagi
-ã€ŒNarumi-san's injuries aren't an issue. It seems she managed to move away just in time.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
+”Souko
+uNarumi-san, huh... There are times when I honestly have no idea what's going on in that head of hers...v
+”Protagonist
+uIs that so...v
+”Souko
+uIt looks like she was injured in that explosion earlier... I wonder if she's alright.v
+”Protagonist
+uI suppose so...v
+”Maya
+uNarumi? Her talent for cooking is truly wonderful. However... I do wish she would take her other duties a bit more seriously...v
+”Protagonist
+u...I see.v
+”Maya
+uThe explosion in the kitchen... yes... I wonder if she is quite alright...v
+”Protagonist
+uI believe she'll be fine, but...v
+”Ai
+uNarumi-san... Her cooking is always delicious, but... well, her performance in her other tasks is a bit...v
+”Protagonist
+uIs that so...v
+”Ai
+uNarumi-san was caught in the explosion... Was she the target, I wonder...v
+”Protagonist
+uWho knows...v
+”Benio
+uNarumi? Her skills in the kitchen are top-tier, at least. As for everything else... well, you can imagine.v
+”Protagonist
+uIs that so...v
+”Benio
+u...The kitchen explosion might have been an attempt on her life. However... it may be too hasty to conclude that just yet...v
+”Protagonist
+uI wonder...v
+”Tsujimura
+uAs for Mizumori-san... it would be a great help to me as well if she would work diligently at things other than just cooking...v
+”Protagonist
+uIs that so...v
+”Tsujimura
+uMizumori-san is currently resting in her room. Her injuries don't seem to be serious, but...v
+”Protagonist
+uIs that so...v
+”Takamine
+uMizumori-kun... I don't know her well. The food isn't bad, but...v
+”Protagonist
+uI see.v
+”Takamine
+uThere's a possibility Mizumori-kun was targeted... but if so, why?v
+”Protagonist
+uWe don't know that yet...v
+”Mikanagi
+uNarumi-san? Her cooking is delicious. Everything else... I don't know much about.v
+”Protagonist
+uIs that so...v
+”Mikanagi
+uNarumi-san's injuries aren't an issue. It seems she managed to move away just in time.v
+”Protagonist
+uIs that so...v

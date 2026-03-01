@@ -1,28 +1,28 @@
 I've come to Maya-san's room, located at the far end of the west side on the second floor.
 I knock on the door and wait for a while.
-ï¼ƒMaya
-ã€ŒOh... is something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Maya-san. Has anything unusual happened?ã€
-ï¼ƒMaya
-ã€ŒNo... nothing in particular... Is there anything else?ã€
-ï¼ƒProtagonist
-ã€ŒUm, could I have a little bit of your time? Of course, if it's inconvenient, I'll leave immediately...ã€
-ï¼ƒMaya
-ã€ŒIt is no problem at all. What might it be?ã€
+”Maya
+uOh... is something the matter?v
+”Protagonist
+uHello, Maya-san. Has anything unusual happened?v
+”Maya
+uNo... nothing in particular... Is there anything else?v
+”Protagonist
+uUm, could I have a little bit of your time? Of course, if it's inconvenient, I'll leave immediately...v
+”Maya
+uIt is no problem at all. What might it be?v
 With that, Maya-san invited me into the room.
-ï¼ƒMaya
-ã€ŒSo, what is it you wanted to discuss?ã€
+”Maya
+uSo, what is it you wanted to discuss?v
 I've come to Maya-san's room, at the far end of the west side on the second floor.
 I knock on the door and wait for a while.
-ï¼ƒMaya
-ã€ŒOh... what might it be this time?ã€
-ï¼ƒProtagonist
-ã€ŒUm, could I have a little bit of your time?ã€
-ï¼ƒMaya
-ã€ŒYes, that's fine... Please, come inside.ã€
+”Maya
+uOh... what might it be this time?v
+”Protagonist
+uUm, could I have a little bit of your time?v
+”Maya
+uYes, that's fine... Please, come inside.v
 With that, Maya-san invited me into the room.
-ï¼ƒMaya
-ã€ŒWhat might your business be?ã€
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Maya
+uWhat might your business be?v
+”Protagonist
+uUh, well...v

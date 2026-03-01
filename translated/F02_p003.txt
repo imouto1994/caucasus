@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAbout Ai-san? She really feels like the stereotypical 'young lady', doesn't she?ã€
-ï¼ƒProtagonist
-ã€ŒYeah.ã€
-ï¼ƒMaya
-ã€ŒAi? She is a quiet child, always lost in her books.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAbout me? Um... I don't really have anything interesting to tell you...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒMy sister? Sheâ€™s refined and ladylike, isn't she?ã€
-ï¼ƒProtagonist
-ã€Œ...Sheâ€™s the polar opposite of you, Benio-san.ã€
-ï¼ƒBenio
-ã€ŒDid you say something?ã€
-ï¼ƒProtagonist
-ã€ŒNo, nothing.ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai...? She is always reading her books.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒAbout Ai-kun? Sheâ€™s been a quiet girl since she was small, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒAi-san, eh...? She occasionally has moments where her emotions are quite volatile.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAkane
-ã€ŒLady Ai? I believe she was heading toward the Great Hall...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒLady Ai? Sheâ€™s often in the library reading books.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uAbout Ai-san? She really feels like the stereotypical 'young lady', doesn't she?v
+”Protagonist
+uYeah.v
+”Maya
+uAi? She is a quiet child, always lost in her books.v
+”Protagonist
+uI see.v
+”Ai
+uAbout me? Um... I don't really have anything interesting to tell you...v
+”Protagonist
+uI see...v
+”Benio
+uMy sister? Shefs refined and ladylike, isn't she?v
+”Protagonist
+u...Shefs the polar opposite of you, Benio-san.v
+”Benio
+uDid you say something?v
+”Protagonist
+uNo, nothing.v
+”Tsujimura
+uLady Ai...? She is always reading her books.v
+”Protagonist
+uI see.v
+”Takamine
+uAbout Ai-kun? Shefs been a quiet girl since she was small, but...v
+”Protagonist
+uI see.v
+”Mikanagi
+uAi-san, eh...? She occasionally has moments where her emotions are quite volatile.v
+”Protagonist
+uIs that so...v
+”Akane
+uLady Ai? I believe she was heading toward the Great Hall...v
+”Protagonist
+uI see.v
+”Narumi
+uLady Ai? Shefs often in the library reading books.v
+”Protagonist
+uI see.v

@@ -1,36 +1,36 @@
-ï¼ƒProtagonist
-ã€ŒWere you able to sleep, Souko-san?ã€
-ï¼ƒSouko
-ã€ŒYes, thanks to you, I slept like a log.ã€
-ï¼ƒMaya
-ã€ŒKirihara-san? I am sorry, I do not know her well.ã€
-ï¼ƒProtagonist
-ã€ŒO-oh, I see...ã€
-ï¼ƒAi
-ã€ŒKirihara-san? Weâ€™ve only just met, so I don't really know much about her...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒShe seems quite intelligent. I suppose a college student ought to be intellectual, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI-is that so...ã€
-ï¼ƒTsujimura
-ã€ŒLady Kirihara...? I am afraid I do not know her well...ã€
-ï¼ƒProtagonist
-ã€ŒO-oh, I see...ã€
-ï¼ƒTakamine
-ã€ŒKirihara... Ah, that woman. You can't expect me to know anything about her, can you?ã€
-ï¼ƒProtagonist
-ã€ŒY-you're right...ã€
-ï¼ƒMikanagi
-ã€ŒKirihara-san? ...Well, I can't really say...ã€
-ï¼ƒProtagonist
-ã€Œ...I guess that makes sense.ã€
-ï¼ƒAkane
-ã€ŒLady Kirihara? Wouldn't she be in her room?ã€
-ï¼ƒProtagonist
-ã€ŒUm... I suppose so...ã€
-ï¼ƒNarumi
-ã€ŒKirihara-san? ...No idea, I don't know her.ã€
-ï¼ƒProtagonist
-ã€ŒO-oh, I see...ã€
+”Protagonist
+uWere you able to sleep, Souko-san?v
+”Souko
+uYes, thanks to you, I slept like a log.v
+”Maya
+uKirihara-san? I am sorry, I do not know her well.v
+”Protagonist
+uO-oh, I see...v
+”Ai
+uKirihara-san? Wefve only just met, so I don't really know much about her...v
+”Protagonist
+uRight...v
+”Benio
+uShe seems quite intelligent. I suppose a college student ought to be intellectual, after all.v
+”Protagonist
+uI-is that so...v
+”Tsujimura
+uLady Kirihara...? I am afraid I do not know her well...v
+”Protagonist
+uO-oh, I see...v
+”Takamine
+uKirihara... Ah, that woman. You can't expect me to know anything about her, can you?v
+”Protagonist
+uY-you're right...v
+”Mikanagi
+uKirihara-san? ...Well, I can't really say...v
+”Protagonist
+u...I guess that makes sense.v
+”Akane
+uLady Kirihara? Wouldn't she be in her room?v
+”Protagonist
+uUm... I suppose so...v
+”Narumi
+uKirihara-san? ...No idea, I don't know her.v
+”Protagonist
+uO-oh, I see...v

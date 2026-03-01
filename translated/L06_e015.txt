@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒI don't think it's anything special...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€Œ...I am sorry, I do not really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒIsn't it just a piece of trash?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒIt appears to be... garbage...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTakamine
-ã€ŒIs there something wrong with that piece of trash?ã€
-ï¼ƒProtagonist
-ã€ŒNo...ã€
-ï¼ƒMikanagi
-ã€ŒI don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒIt's just trash... right?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒNarumi
-ã€ŒWere you picking up trash?ã€
-ï¼ƒProtagonist
-ã€ŒIt's not exactly like that, but...ã€
+”Souko
+uI don't think it's anything special...v
+”Protagonist
+uI see...v
+”Maya
+u...I am sorry, I do not really know.v
+”Protagonist
+uI see...v
+”Benio
+uIsn't it just a piece of trash?v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uIt appears to be... garbage...v
+”Protagonist
+uTrue...v
+”Takamine
+uIs there something wrong with that piece of trash?v
+”Protagonist
+uNo...v
+”Mikanagi
+uI don't really know.v
+”Protagonist
+uI see...v
+”Akane
+uIt's just trash... right?v
+”Protagonist
+uTrue...v
+”Narumi
+uWere you picking up trash?v
+”Protagonist
+uIt's not exactly like that, but...v

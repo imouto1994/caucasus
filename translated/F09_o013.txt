@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒShion-san won't receive any inheritance... Then why did Rokuyou-san try to marry her? It's not like they were particularly close...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€Œ...That is a matter concerning our family, and not something to be shared with guests.ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right, of course...ã€
-ï¼ƒAi
-ã€Œ...I don't know much about the distribution of the inheritance. However, Father held many copyrights for his compositions...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒInheritance, huh... Putting aside Father's personal assets, the Nanatsuki family's assets consist of little more than this mansion and the family name. I have no need for them.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒRight, of course...ã€
-ï¼ƒTsujimura
-ã€Œ...Regarding that matter, there is nothing I can say.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒTakamine
-ã€ŒAll I can tell you is that Shion-kun will not receive any inheritance whatsoever.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒThat is... not an issue I can say anything about.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI've heard the Master had quite an inheritance... Even a third of it would be a substantial amount.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uShion-san won't receive any inheritance... Then why did Rokuyou-san try to marry her? It's not like they were particularly close...v
+”Protagonist
+uTrue...v
+”Maya
+u...That is a matter concerning our family, and not something to be shared with guests.v
+”Protagonist
+uY-You're right, of course...v
+”Ai
+u...I don't know much about the distribution of the inheritance. However, Father held many copyrights for his compositions...v
+”Protagonist
+uI see...v
+”Benio
+uInheritance, huh... Putting aside Father's personal assets, the Nanatsuki family's assets consist of little more than this mansion and the family name. I have no need for them.v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uRight, of course...v
+”Tsujimura
+u...Regarding that matter, there is nothing I can say.v
+”Protagonist
+uYou're right...v
+”Takamine
+uAll I can tell you is that Shion-kun will not receive any inheritance whatsoever.v
+”Protagonist
+uI see...v
+”Mikanagi
+uThat is... not an issue I can say anything about.v
+”Protagonist
+uRight...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI've heard the Master had quite an inheritance... Even a third of it would be a substantial amount.v
+”Protagonist
+uI see...v

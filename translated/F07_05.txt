@@ -1,27 +1,27 @@
-ï¼ƒTsujimura
-ã€ŒOh, is something the matter?ã€
+”Tsujimura
+uOh, is something the matter?v
 Tsujimura-san was in the office.
-ï¼ƒProtagonist
-ã€ŒHello. Are you in the middle of work?ã€
-ï¼ƒTsujimura
-ã€ŒNot at all. Did you need something?ã€
-ï¼ƒTsujimura
-ã€ŒOh, is something the matter again?ã€
+”Protagonist
+uHello. Are you in the middle of work?v
+”Tsujimura
+uNot at all. Did you need something?v
+”Tsujimura
+uOh, is something the matter again?v
 Tsujimura-san was still in the office.
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the office, Tsujimura-san and Shion-san were there.
-ï¼ƒTsujimura
-ã€ŒHow can I help you?ã€
-ï¼ƒProtagonist
-ã€ŒI was just in the middle of doing a quick patrol...ã€
-ï¼ƒShion
-ã€ŒOh my... Thank you for your hard work.ã€
-ï¼ƒProtagonist
-ã€ŒNo, I'm just doing it on my own accord.ã€
+”Tsujimura
+uHow can I help you?v
+”Protagonist
+uI was just in the middle of doing a quick patrol...v
+”Shion
+uOh my... Thank you for your hard work.v
+”Protagonist
+uNo, I'm just doing it on my own accord.v
 Now then... what should I do?
 When I entered the office, Tsujimura-san and Shion-san were there.
-ï¼ƒShion
-ã€ŒOh... what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Shion
+uOh... what is it this time?v
+”Protagonist
+uUh, well...v

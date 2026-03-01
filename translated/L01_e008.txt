@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒThat door can only be opened with the key to Rokuyou-san's room... Which means it's highly unlikely the killer passed through there.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€Œ...I am sorry, I do not really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒThe floor plans are mostly the same for all the rooms. My room also has a door connecting to my sister's, but it's been blocked off by furniture.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThat door is almost never used. I doubt you'd find anything even if you checked for fingerprints.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uThat door can only be opened with the key to Rokuyou-san's room... Which means it's highly unlikely the killer passed through there.v
+”Protagonist
+uTrue...v
+”Maya
+u...I am sorry, I do not really know.v
+”Protagonist
+uI see...v
+”Ai
+u...I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Benio
+uThe floor plans are mostly the same for all the rooms. My room also has a door connecting to my sister's, but it's been blocked off by furniture.v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uThat door is almost never used. I doubt you'd find anything even if you checked for fingerprints.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI don't really know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

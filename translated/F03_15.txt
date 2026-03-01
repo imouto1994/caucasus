@@ -1,86 +1,86 @@
-Iâ€™ve reached the front of Takamine-san's room.
+Ifve reached the front of Takamine-san's room.
 I wonder if he's in... feeling a bit nervous, I knock on the door.
-ï¼ƒTakamine
-ã€ŒWho is it? Oh, you. What's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒUm, could I talk to you for a moment?ã€
-ï¼ƒTakamine
-ã€ŒWell, I don't mind...ã€
-ï¼ƒProtagonist
-ã€ŒY-Yes...ã€
-ï¼ƒTakamine
-ã€ŒSo, what's your business?ã€
-ï¼ƒProtagonist
-ã€ŒUm...ã€
-Iâ€™ve reached the front of Takamine-san's room.
+”Takamine
+uWho is it? Oh, you. What's the matter?v
+”Protagonist
+uUm, could I talk to you for a moment?v
+”Takamine
+uWell, I don't mind...v
+”Protagonist
+uY-Yes...v
+”Takamine
+uSo, what's your business?v
+”Protagonist
+uUm...v
+Ifve reached the front of Takamine-san's room.
 I wonder if he's in... feeling a bit nervous, I knock on the door.
-ï¼ƒTakamine
-ã€Œ...You again.ã€
-ï¼ƒProtagonist
-ã€ŒU-Um, could I talk to you for a moment?ã€
-ï¼ƒTakamine
-ã€ŒFine, I suppose. Come in.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yes...ã€
+”Takamine
+u...You again.v
+”Protagonist
+uU-Um, could I talk to you for a moment?v
+”Takamine
+uFine, I suppose. Come in.v
+”Protagonist
+uY-Yes...v
 He's still scary...
-ï¼ƒTakamine
-ã€ŒWhat is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒWell, you see...ã€
-Iâ€™ve reached the front of Takamine-san's room.
-ï¼ƒProtagonist
-ã€ŒUm, Akane-san.ã€
-ï¼ƒAkane
-ã€ŒYes?ã€
-ï¼ƒProtagonist
-ã€ŒDon't you find Takamine-san a bit... frightening?ã€
-ï¼ƒAkane
-ã€ŒEh, really?ã€
+”Takamine
+uWhat is it this time?v
+”Protagonist
+uWell, you see...v
+Ifve reached the front of Takamine-san's room.
+”Protagonist
+uUm, Akane-san.v
+”Akane
+uYes?v
+”Protagonist
+uDon't you find Takamine-san a bit... frightening?v
+”Akane
+uEh, really?v
 Akane-san looks blankly at me.
-ï¼ƒAkane
-ã€ŒHe isn't very friendly, but he's a good person, you know?ã€
-ï¼ƒProtagonist
-ã€ŒI know he's not a bad person, but still.ã€
+”Akane
+uHe isn't very friendly, but he's a good person, you know?v
+”Protagonist
+uI know he's not a bad person, but still.v
 Even so, he's still a bit scary.
-ï¼ƒAkane
-ã€ŒWell then, I'll ask Takamine-sama about Lady Ai.ã€
+”Akane
+uWell then, I'll ask Takamine-sama about Lady Ai.v
 With that, Akane-san knocks on the door.
-ï¼ƒTakamine
-ã€Œ...What is it?ã€
+”Takamine
+u...What is it?v
 Takamine-san peeks out.
-ï¼ƒAkane
-ã€ŒTakamine-sama, have you seen Lady Ai around?ã€
-ï¼ƒTakamine
-ã€ŒAi-kun? ...No, I haven't.ã€
-ï¼ƒAkane
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...Did something happen?ã€
-ï¼ƒAkane
-ã€ŒThe thing is... she hasn't been seen for a while.ã€
-ï¼ƒTakamine
-ã€ŒHmm...ã€
+”Akane
+uTakamine-sama, have you seen Lady Ai around?v
+”Takamine
+uAi-kun? ...No, I haven't.v
+”Akane
+uI see...v
+”Takamine
+u...Did something happen?v
+”Akane
+uThe thing is... she hasn't been seen for a while.v
+”Takamine
+uHmm...v
 Takamine-san seems to be lost in thought for a moment.
-ï¼ƒProtagonist
-ã€ŒUm, please let us know if you see Ai-san.ã€
-ï¼ƒTakamine
-ã€Œ...Understood. I'll look for her as well.ã€
-ï¼ƒAkane
-ã€ŒThen, we'll be going. Please excuse us.ã€
-ï¼ƒProtagonist
-ã€ŒNow, let's head elsewhere.ã€
+”Protagonist
+uUm, please let us know if you see Ai-san.v
+”Takamine
+u...Understood. I'll look for her as well.v
+”Akane
+uThen, we'll be going. Please excuse us.v
+”Protagonist
+uNow, let's head elsewhere.v
 We decided to move on.
-Iâ€™ve reached the front of Takamine-san's room again.
-ï¼ƒProtagonist
-ã€Œ...Akane-san, if you would.ã€
-ï¼ƒAkane
-ã€ŒYes, understood.ã€
+Ifve reached the front of Takamine-san's room again.
+”Protagonist
+u...Akane-san, if you would.v
+”Akane
+uYes, understood.v
 Akane-san steps forward and knocks on the door.
-ï¼ƒAkane
-ã€ŒOh... it seems he isn't in.ã€
+”Akane
+uOh... it seems he isn't in.v
 We waited for a while, but there was no sign of Takamine-san coming out.
-ï¼ƒProtagonist
-ã€ŒI wonder if he's out searching for her.ã€
-ï¼ƒAkane
-ã€ŒI'm sure that's it. Well then, let's go too.ã€
+”Protagonist
+uI wonder if he's out searching for her.v
+”Akane
+uI'm sure that's it. Well then, let's go too.v
 Prompted by Akane-san, I headed for another location.

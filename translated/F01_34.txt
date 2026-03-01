@@ -12,27 +12,27 @@ This must be Shion-san's room.
 I stood there for a while, listening to her song.
 Eventually, the voice ceased.
 It was then that I lightly knocked on the door for the first time.
-ï¼ƒ???
-ã€ŒWho is it... Seiji?ã€
-ï¼ƒProtagonist
-ã€ŒUm, excuse me. My name is (NAME01) (NAME02), and I was rescued by this household. I wanted to offer a word of greeting.ã€
-ï¼ƒ???
-ã€ŒI see... I'm not in a position to say, but please, make yourself at home.ã€
+”???
+uWho is it... Seiji?v
+”Protagonist
+uUm, excuse me. My name is (NAME01) (NAME02), and I was rescued by this household. I wanted to offer a word of greeting.v
+”???
+uI see... I'm not in a position to say, but please, make yourself at home.v
 She must be on guard; there's no sign of her opening the door from the inside.
-ï¼ƒProtagonist
-ã€ŒYes. ...So, it sounded like you were singing just now.ã€
-ï¼ƒ???
-ã€ŒY-Yes... is something wrong with that...?ã€
-ï¼ƒProtagonist
-ã€ŒYou have a beautiful singing voice.ã€
-ï¼ƒ???
-ã€ŒEh... A-Ah, thank you...ã€
-ï¼ƒProtagonist
-ã€ŒOh, and congratulations on your wedding.ã€
-ï¼ƒ???
-ã€Œ...Thank you.ã€
-ï¼ƒProtagonist
-ã€ŒWell then, I'll be going now. ...Excuse me.ã€
+”Protagonist
+uYes. ...So, it sounded like you were singing just now.v
+”???
+uY-Yes... is something wrong with that...?v
+”Protagonist
+uYou have a beautiful singing voice.v
+”???
+uEh... A-Ah, thank you...v
+”Protagonist
+uOh, and congratulations on your wedding.v
+”???
+u...Thank you.v
+”Protagonist
+uWell then, I'll be going now. ...Excuse me.v
 I was concerned that she seemed somewhat listless, but I decided to leave the area.
 Once outside, I looked up at the tower.
 Shion-san...
@@ -40,16 +40,16 @@ Why is she in a place so far removed?
 I want to hear her voice once more.
 I enter the tower and head up the stairs.
 I knock lightly on the door.
-ï¼ƒ???
-ã€ŒYes...?ã€
-ï¼ƒProtagonist
-ã€ŒHello, it's (NAME01).ã€
-ï¼ƒ???
-ã€ŒDo you need something...?ã€
-ï¼ƒProtagonist
-ã€ŒI thought we might talk for a bit...ã€
-ï¼ƒ???
-ã€Œ...I'm sorry, but I have preparations for the ceremony...ã€
-ï¼ƒProtagonist
-ã€ŒAh, right. Sorry for bothering you.ã€
+”???
+uYes...?v
+”Protagonist
+uHello, it's (NAME01).v
+”???
+uDo you need something...?v
+”Protagonist
+uI thought we might talk for a bit...v
+”???
+u...I'm sorry, but I have preparations for the ceremony...v
+”Protagonist
+uAh, right. Sorry for bothering you.v
 I decided to make a hasty retreat.

@@ -20,8 +20,8 @@
  *   - Speech content — 「***」or 『***』(both original and translated)
  *   - Normal line    — anything else
  *
- * Original files in `original/` are Shift-JIS encoded, so we read raw bytes
- * and decode with TextDecoder("shift_jis"). Translated files are UTF-8.
+ * Both original and translated files are Shift-JIS encoded, so we read raw
+ * bytes and decode with TextDecoder("shift_jis").
  *
  * Usage:
  *   node validate-translations.mjs
@@ -99,8 +99,7 @@ async function validateDirectory(translatedDir, trim) {
     const filename = path.basename(translatedPath);
     const originalPath = path.join(ORIGINAL_DIR, filename);
 
-    // Read the original file as raw bytes and decode from Shift-JIS.
-    // Read the translated file as UTF-8.
+    // Read both files as raw bytes and decode from Shift-JIS.
     let originalText;
     try {
       const raw = await readFile(originalPath);
@@ -111,7 +110,7 @@ async function validateDirectory(translatedDir, trim) {
       continue;
     }
 
-    const translatedText = await readFile(translatedPath, "utf-8");
+    const translatedText = sjisDecoder.decode(await readFile(translatedPath));
 
     // Split into lines and strip the trailing empty line that a final
     // newline produces, so we compare actual content lines only.

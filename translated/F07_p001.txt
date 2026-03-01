@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒWhile you were locked away, I patrolled the mansion a few times. I didn't see anyone acting particularly suspicious, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒWe've caused you quite a bit of trouble... I'm terribly sorry.ã€
-ï¼ƒProtagonist
-ã€ŒNo, please don't let it worry you.ã€
-ï¼ƒAi
-ã€ŒKirihara-san is remarkably composed, isn't she? Even in a situation like this...ã€
-ï¼ƒProtagonist
-ã€ŒShe is...ã€
-ï¼ƒShion
-ã€ŒKirihara-san... she has a bit of a frightening aura about her, doesn't she?ã€
-ï¼ƒProtagonist
-ã€ŒDo you think so...?ã€
-ï¼ƒTsujimura
-ã€ŒAs for Mistress Kirihara, she was busy investigating the mansion...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒIf she's hunting for the killer, I'd like her to find them and be done with it.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah, I suppose so...ã€
-ï¼ƒMikanagi
-ã€ŒAs for Kirihara-san, she seemed to be checking around the mansion.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒAs for Mistress Kirihara, she appeared to be investigating the music room...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒKirihara-san, huh? She seems to be looking into all sorts of things.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uWhile you were locked away, I patrolled the mansion a few times. I didn't see anyone acting particularly suspicious, though...v
+”Protagonist
+uI see...v
+”Maya
+uWe've caused you quite a bit of trouble... I'm terribly sorry.v
+”Protagonist
+uNo, please don't let it worry you.v
+”Ai
+uKirihara-san is remarkably composed, isn't she? Even in a situation like this...v
+”Protagonist
+uShe is...v
+”Shion
+uKirihara-san... she has a bit of a frightening aura about her, doesn't she?v
+”Protagonist
+uDo you think so...?v
+”Tsujimura
+uAs for Mistress Kirihara, she was busy investigating the mansion...v
+”Protagonist
+uI see...v
+”Takamine
+uIf she's hunting for the killer, I'd like her to find them and be done with it.v
+”Protagonist
+uY-Yeah, I suppose so...v
+”Mikanagi
+uAs for Kirihara-san, she seemed to be checking around the mansion.v
+”Protagonist
+uI see...v
+”Akane
+uAs for Mistress Kirihara, she appeared to be investigating the music room...v
+”Protagonist
+uI see...v
+”Narumi
+uKirihara-san, huh? She seems to be looking into all sorts of things.v
+”Protagonist
+uI see...v

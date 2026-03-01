@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒIt looks like we'll be able to leave tomorrow... but I wonder if I'll be able to research the Nanatsuki legends by then...ã€
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
-ï¼ƒMaya
-ã€ŒPlease tell Kirihara-san that if she has any inconveniences, she should not hesitate to speak up.ã€
-ï¼ƒProtagonist
-ã€ŒYes, I'll let her know.ã€
-ï¼ƒAi
-ã€ŒKirihara-san is quite composed, isn't she? Even in a situation like this...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒShe seems to be investigating quite a bit herself. She might even know more about this place than you do, for all we know.ã€
-ï¼ƒProtagonist
-ã€ŒI-Is that so...ã€
-ï¼ƒShion
-ã€ŒKirihara-san... she has a somewhat frightening atmosphere about her...ã€
-ï¼ƒProtagonist
-ã€ŒDo you think so...?ã€
-ï¼ƒTsujimura
-ã€ŒKirihara-sama is a very knowledgeable person. I heard she even helped with the generator repair...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒIt seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary.ã€
-ï¼ƒProtagonist
-ã€ŒThat might be true, but...ã€
-ï¼ƒMikanagi
-ã€ŒI examined Kirihara-san's finger again this morning, and it still seems a bit swollen. I told her she should get it checked at a hospital once we leave here.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒKirihara-sama? Wouldn't she be in her room?ã€
-ï¼ƒProtagonist
-ã€ŒWell... likely so...ã€
-ï¼ƒNarumi
-ã€ŒKirihara-san? ...No idea.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
+”Souko
+uIt looks like we'll be able to leave tomorrow... but I wonder if I'll be able to research the Nanatsuki legends by then...v
+”Protagonist
+uI wonder...v
+”Maya
+uPlease tell Kirihara-san that if she has any inconveniences, she should not hesitate to speak up.v
+”Protagonist
+uYes, I'll let her know.v
+”Ai
+uKirihara-san is quite composed, isn't she? Even in a situation like this...v
+”Protagonist
+uRight...v
+”Benio
+uShe seems to be investigating quite a bit herself. She might even know more about this place than you do, for all we know.v
+”Protagonist
+uI-Is that so...v
+”Shion
+uKirihara-san... she has a somewhat frightening atmosphere about her...v
+”Protagonist
+uDo you think so...?v
+”Tsujimura
+uKirihara-sama is a very knowledgeable person. I heard she even helped with the generator repair...v
+”Protagonist
+uRight...v
+”Takamine
+uIt seems you and the others are playing detective... but it's best not to provoke the culprit more than necessary.v
+”Protagonist
+uThat might be true, but...v
+”Mikanagi
+uI examined Kirihara-san's finger again this morning, and it still seems a bit swollen. I told her she should get it checked at a hospital once we leave here.v
+”Protagonist
+uI see...v
+”Akane
+uKirihara-sama? Wouldn't she be in her room?v
+”Protagonist
+uWell... likely so...v
+”Narumi
+uKirihara-san? ...No idea.v
+”Protagonist
+uI-I see...v

@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒApparently she was in her room... but if she colluded with Tsujimura-san, she could have slipped through the office... I'd hate to think that's the case, though...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒI wouldn't know; I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI don't know... I've been in my room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒI was in my room the entire time...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI was in the office, and Lady Shion did not come out of her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI believe she was in her room the entire time, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒWeren't they in their room? I wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uApparently she was in her room... but if she colluded with Tsujimura-san, she could have slipped through the office... I'd hate to think that's the case, though...v
+”Protagonist
+uTrue...v
+”Maya
+uI wouldn't know; I was resting in my room as well.v
+”Protagonist
+uI see...v
+”Ai
+uI don't know... I've been in my room the whole time.v
+”Protagonist
+uI see...v
+”Shion
+uI was in my room the entire time...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI was in the office, and Lady Shion did not come out of her room.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Akane
+uI believe she was in her room the entire time, but...v
+”Protagonist
+uI see...v
+”Narumi
+uWeren't they in their room? I wouldn't know.v
+”Protagonist
+uI see...v

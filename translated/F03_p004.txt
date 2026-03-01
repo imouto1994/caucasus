@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒShe's seriously trying to investigate the case too. It's encouraging.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒAs for Benio... I'd rather she not get involved in anything dangerous...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒBeing in a remote place like this makes one starve for stimulation. Doesn't something like this make you feel a bit of a thrill?ã€
-ï¼ƒProtagonist
-ã€ŒOh...ã€
-ï¼ƒShion
-ã€ŒSister Benio... sometimes I don't know what she's thinking.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLady Benio... I'd prefer if she stayed quiet, but... that's probably asking too much...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒBenio-kun is quick-witted. She seems to be thinking about Rokuyou-kun's case in various ways, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒBenio-san is... she's not just a littleâ€”she's incredibly headstrong.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒNarumi
-ã€ŒLady Benio seems quite enthusiastic.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uShe's seriously trying to investigate the case too. It's encouraging.v
+”Protagonist
+uRight...v
+”Maya
+uAs for Benio... I'd rather she not get involved in anything dangerous...v
+”Protagonist
+uI see...v
+”Benio
+uBeing in a remote place like this makes one starve for stimulation. Doesn't something like this make you feel a bit of a thrill?v
+”Protagonist
+uOh...v
+”Shion
+uSister Benio... sometimes I don't know what she's thinking.v
+”Protagonist
+uI see...v
+”Tsujimura
+uLady Benio... I'd prefer if she stayed quiet, but... that's probably asking too much...v
+”Protagonist
+uRight...v
+”Takamine
+uBenio-kun is quick-witted. She seems to be thinking about Rokuyou-kun's case in various ways, but...v
+”Protagonist
+uI see...v
+”Mikanagi
+uBenio-san is... she's not just a little?she's incredibly headstrong.v
+”Protagonist
+uRight...v
+”Narumi
+uLady Benio seems quite enthusiastic.v
+”Protagonist
+uI see...v

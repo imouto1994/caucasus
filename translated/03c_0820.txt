@@ -1,35 +1,35 @@
 Now then... what should I do?
 There was a knock on the door from outside.
-ï¼ƒProtagonist
-ã€ŒYes...?ã€
+”Protagonist
+uYes...?v
 I sat up and went to the door.
-ï¼ƒNarumi
-ã€ŒIt's Mizumori.ã€
-ï¼ƒProtagonist
-ã€ŒNarumi-san...?ã€
+”Narumi
+uIt's Mizumori.v
+”Protagonist
+uNarumi-san...?v
 I wonder what she wants.
-ï¼ƒProtagonist
-ã€ŒWhat's wrong?ã€
-ï¼ƒNarumi
-ã€ŒHave you seen Akane?ã€
+”Protagonist
+uWhat's wrong?v
+”Narumi
+uHave you seen Akane?v
 Narumi-san asked as soon as she entered the room.
-ï¼ƒProtagonist
-ã€ŒAkane-san?ã€
+”Protagonist
+uAkane-san?v
 Now that she mentions it... I don't think I've seen her this morning.
-ï¼ƒNarumi
-ã€ŒShe's not in her room, so I'm looking for where she went...ã€
-ï¼ƒProtagonist
-ã€ŒBut there are only so many places she can go in this mansion, right?ã€
-ï¼ƒNarumi
-ã€ŒThat's true...ã€
+”Narumi
+uShe's not in her room, so I'm looking for where she went...v
+”Protagonist
+uBut there are only so many places she can go in this mansion, right?v
+”Narumi
+uThat's true...v
 Narumi-san looked worried.
-Well... given the situation, itâ€™s only natural.
-ï¼ƒProtagonist
-ã€ŒUm, I'll help you look.ã€
-ï¼ƒNarumi
-ã€ŒThen could you go around and ask the others? I'll take a look at the other areas.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+Well... given the situation, itfs only natural.
+”Protagonist
+uUm, I'll help you look.v
+”Narumi
+uThen could you go around and ask the others? I'll take a look at the other areas.v
+”Protagonist
+uUnderstood.v
 Narumi-san left.
-Well, Iâ€™d better go around the mansion and search for Akane-san.
+Well, Ifd better go around the mansion and search for Akane-san.
 ...I'll try not to think about the worst-case scenario.

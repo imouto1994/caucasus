@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒThis has apparently been Nanatsuki land since a very long time ago. It's far from other villages, so maybe a unique culture developed here.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒIt is said that our ancestors reclaimed the land in this area. Since then, it seems this area has been called Nanatsuki.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒIf it's about Nanatsuki Village, I think you should ask my mother or my elder sister. They should know much more than I do.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒFor those kinds of things... you should ask Sister Ai...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI heard this area has been called Nanatsuki Village since long ago... but I don't know whether the Nanatsuki family came first or the village took the name first.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...I don't know. Ask someone else.ã€
-ï¼ƒProtagonist
-ã€Œ...Alright.ã€
-ï¼ƒMikanagi
-ã€ŒOrigins and such... I think it's better to ask someone from the Nanatsuki family.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒNarumi
-ã€ŒAbout Nanatsuki Village, huh... I think you should ask the people of this house about that.ã€
-ï¼ƒProtagonist
-ã€Œ...You're right.ã€
+”Souko
+uThis has apparently been Nanatsuki land since a very long time ago. It's far from other villages, so maybe a unique culture developed here.v
+”Protagonist
+uI see...v
+”Maya
+uIt is said that our ancestors reclaimed the land in this area. Since then, it seems this area has been called Nanatsuki.v
+”Protagonist
+uI see...v
+”Benio
+uIf it's about Nanatsuki Village, I think you should ask my mother or my elder sister. They should know much more than I do.v
+”Protagonist
+uI see...v
+”Shion
+uFor those kinds of things... you should ask Sister Ai...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI heard this area has been called Nanatsuki Village since long ago... but I don't know whether the Nanatsuki family came first or the village took the name first.v
+”Protagonist
+uI see...v
+”Takamine
+u...I don't know. Ask someone else.v
+”Protagonist
+u...Alright.v
+”Mikanagi
+uOrigins and such... I think it's better to ask someone from the Nanatsuki family.v
+”Protagonist
+uYou're right...v
+”Narumi
+uAbout Nanatsuki Village, huh... I think you should ask the people of this house about that.v
+”Protagonist
+u...You're right.v

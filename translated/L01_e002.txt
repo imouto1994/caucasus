@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒThey must have used that to keep the blood from splattering... In that case, the likelihood of the killer being covered in blood is low...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€Œ...I am sorry, I do not really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒCutting through the neck over a pillow... likely to prevent the blood from geysering out. But where did they take the head that was supposed to be beneath it...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI... don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒThey likely used the pillow to suppress the bleeding... but I wonder what the reason was for going so far as to decapitate him...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uThey must have used that to keep the blood from splattering... In that case, the likelihood of the killer being covered in blood is low...v
+”Protagonist
+uTrue...v
+”Maya
+u...I am sorry, I do not really know.v
+”Protagonist
+uI see...v
+”Ai
+u...I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Benio
+uCutting through the neck over a pillow... likely to prevent the blood from geysering out. But where did they take the head that was supposed to be beneath it...?v
+”Protagonist
+uTrue...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uI... don't really know...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+uThey likely used the pillow to suppress the bleeding... but I wonder what the reason was for going so far as to decapitate him...v
+”Protagonist
+uTrue...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

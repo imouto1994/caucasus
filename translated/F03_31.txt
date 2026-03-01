@@ -1,65 +1,65 @@
-ï¼ƒProtagonist
-ã€ŒHello, Dr. Mikanagi.ã€
+”Protagonist
+uHello, Dr. Mikanagi.v
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒOh, hello.ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, I don't mind.ã€
+”Mikanagi
+uOh, hello.v
+”Protagonist
+uDo you have a moment?v
+”Mikanagi
+uYes, I don't mind.v
 Now, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒOh, what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, go ahead.ã€
+”Mikanagi
+uOh, what is it this time?v
+”Protagonist
+uDo you have a moment?v
+”Mikanagi
+uYes, go ahead.v
 Now, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
 I wonder if he's gone somewhere else.
 Now, what should I do?
-ï¼ƒProtagonist
-ã€ŒDr. Mikanagi, are you in?ã€
+”Protagonist
+uDr. Mikanagi, are you in?v
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒOh, hello. Is something the matter?ã€
-ï¼ƒAkane
-ã€ŒDr. Mikanagi, have you seen Lady Ai?ã€
-ï¼ƒMikanagi
-ã€ŒAi-san? ...No, she hasn't come here.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒPlease let us know if you see her.ã€
-ï¼ƒMikanagi
-ã€ŒYes, understood.ã€
+”Mikanagi
+uOh, hello. Is something the matter?v
+”Akane
+uDr. Mikanagi, have you seen Lady Ai?v
+”Mikanagi
+uAi-san? ...No, she hasn't come here.v
+”Protagonist
+uI see...v
+”Akane
+uPlease let us know if you see her.v
+”Mikanagi
+uYes, understood.v
 We decided to head elsewhere.
-ï¼ƒProtagonist
-ã€ŒDr. Mikanagi, are you in?ã€
+”Protagonist
+uDr. Mikanagi, are you in?v
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-ï¼ƒMikanagi
-ã€ŒHave you still not found Ai-san?ã€
-ï¼ƒAkane
-ã€ŒNo... that's right.ã€
-ï¼ƒMikanagi
-ã€ŒI wonder what happened... I'm starting to get worried.ã€
-ï¼ƒProtagonist
-ã€ŒWell, we're going to keep looking around other areas.ã€
-ï¼ƒMikanagi
-ã€ŒRight, I'm counting on you.ã€
+”Mikanagi
+uHave you still not found Ai-san?v
+”Akane
+uNo... that's right.v
+”Mikanagi
+uI wonder what happened... I'm starting to get worried.v
+”Protagonist
+uWell, we're going to keep looking around other areas.v
+”Mikanagi
+uRight, I'm counting on you.v
 We left the infirmary.
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
 I wonder if he's gone somewhere else.
-ï¼ƒAkane
-ã€ŒIt seems Lady Ai isn't here.ã€
+”Akane
+uIt seems Lady Ai isn't here.v
 Indeed, she was nowhere to be seen.
-ï¼ƒProtagonist
-ã€ŒLet's head somewhere else.ã€
+”Protagonist
+uLet's head somewhere else.v
 We left the infirmary.

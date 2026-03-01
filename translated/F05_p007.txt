@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒTakamine-san is another one where you never know what he's thinking...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒAttorney Takamine can be a bit rough with his language, but he's not a bad person.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI hear Takamine-san used to come here since he was a child, brought along by his father.ã€
-ï¼ƒProtagonist
-ã€ŒWas that so?ã€
-ï¼ƒBenio
-ã€ŒTakamine is difficult. He likely can't settle down in a situation like this.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒShion
-ã€ŒMr. Takamine... um, I hear he works as an attorney... I don't really understand it...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒTakamine-sama is a serious person... He's someone who isn't afraid to have a differing opinion.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒWhat about me?ã€
-ï¼ƒProtagonist
-ã€ŒNo, it's nothing...ã€
-ï¼ƒMikanagi
-ã€ŒTakamine-san is headstrong. Perhaps that's why he's suited to being an attorney.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒTakamine-sama? I believe heâ€™s in his room...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒHe has a bit of an unpleasant vibe... I don't like men who are so full of suspicion like that.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
+”Souko
+uTakamine-san is another one where you never know what he's thinking...v
+”Protagonist
+uRight...v
+”Maya
+uAttorney Takamine can be a bit rough with his language, but he's not a bad person.v
+”Protagonist
+uI see...v
+”Ai
+uI hear Takamine-san used to come here since he was a child, brought along by his father.v
+”Protagonist
+uWas that so?v
+”Benio
+uTakamine is difficult. He likely can't settle down in a situation like this.v
+”Protagonist
+uIs that so?v
+”Shion
+uMr. Takamine... um, I hear he works as an attorney... I don't really understand it...v
+”Protagonist
+uI see...v
+”Tsujimura
+uTakamine-sama is a serious person... He's someone who isn't afraid to have a differing opinion.v
+”Protagonist
+uI see...v
+”Takamine
+uWhat about me?v
+”Protagonist
+uNo, it's nothing...v
+”Mikanagi
+uTakamine-san is headstrong. Perhaps that's why he's suited to being an attorney.v
+”Protagonist
+uI see...v
+”Akane
+uTakamine-sama? I believe hefs in his room...v
+”Protagonist
+uI see.v
+”Narumi
+uHe has a bit of an unpleasant vibe... I don't like men who are so full of suspicion like that.v
+”Protagonist
+uI-I see...v

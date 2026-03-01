@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...The fact the killer is losing their composure means we've likely cornered them. The suspects are narrowing down, and tonight will be the climax.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒHow terrifying... who could have done such a thing...ã€
-ï¼ƒProtagonist
-ã€Œ...I'm in the middle of investigating that right now.ã€
-ï¼ƒAi
-ã€Œ...Why did such a thing have to happen to Kirihara-san...?ã€
-ï¼ƒProtagonist
-ã€ŒI think it's because she was investigating...ã€
-ï¼ƒBenio
-ã€ŒThe reason her room was targeted... if it's because she was snooping around, that would apply to you as well. So there must be something else...ã€
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
-ï¼ƒShion
-ã€ŒWho could have done such a thing...?ã€
-ï¼ƒProtagonist
-ã€ŒWe don't... know yet.ã€
-ï¼ƒTsujimura
-ã€Œ...Would it be all right if I washed that off...?ã€
-ï¼ƒProtagonist
-ã€ŒI'm not sure... I'd certainly like to see it gone, though...ã€
-ï¼ƒTakamine
-ã€ŒA warning...? It's far too late for that. I doubt it serves any real purpose.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...?ã€
-ï¼ƒMikanagi
-ã€Œ...It's undoubtedly blood. Whether it's Isamu's... or the killer's own blood... we won't know without a proper appraisal.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€Œ...The killer warned her because Mistress Kirihara is snooping around, right? I don't think doing something like that will have any effect, though...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒNarumi
-ã€ŒA warning written in blood, huh... the fact they'd go to the trouble of warning her means they're likely not done yet...ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
+”Souko
+u...The fact the killer is losing their composure means we've likely cornered them. The suspects are narrowing down, and tonight will be the climax.v
+”Protagonist
+uTrue...v
+”Maya
+uHow terrifying... who could have done such a thing...v
+”Protagonist
+u...I'm in the middle of investigating that right now.v
+”Ai
+u...Why did such a thing have to happen to Kirihara-san...?v
+”Protagonist
+uI think it's because she was investigating...v
+”Benio
+uThe reason her room was targeted... if it's because she was snooping around, that would apply to you as well. So there must be something else...v
+”Protagonist
+uI wonder...v
+”Shion
+uWho could have done such a thing...?v
+”Protagonist
+uWe don't... know yet.v
+”Tsujimura
+u...Would it be all right if I washed that off...?v
+”Protagonist
+uI'm not sure... I'd certainly like to see it gone, though...v
+”Takamine
+uA warning...? It's far too late for that. I doubt it serves any real purpose.v
+”Protagonist
+uIs that so...?v
+”Mikanagi
+u...It's undoubtedly blood. Whether it's Isamu's... or the killer's own blood... we won't know without a proper appraisal.v
+”Protagonist
+uI see...v
+”Akane
+u...The killer warned her because Mistress Kirihara is snooping around, right? I don't think doing something like that will have any effect, though...v
+”Protagonist
+uTrue...v
+”Narumi
+uA warning written in blood, huh... the fact they'd go to the trouble of warning her means they're likely not done yet...v
+”Protagonist
+uMaybe so...v

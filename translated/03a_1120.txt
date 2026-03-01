@@ -1,61 +1,61 @@
 When I came down the stairs, I heard loud voices coming from the dining room.
-ï¼ƒProtagonist
-ã€ŒSounds like it's over there.ã€
-ï¼ƒSouko
-ã€ŒI wonder what happened...ã€
+”Protagonist
+uSounds like it's over there.v
+”Souko
+uI wonder what happened...v
 As soon as we stepped into the eastern corridor, the smell of burning hit my nose.
-ï¼ƒSouko
-ã€ŒWhat... is this?ã€
+”Souko
+uWhat... is this?v
 Souko-san muttered, covering her mouth.
-ï¼ƒProtagonist
-ã€ŒNarumi-san, what happened?ã€
+”Protagonist
+uNarumi-san, what happened?v
 I called out to Narumi-san, who was in front of the kitchen.
-ï¼ƒNarumi
-ã€ŒIt seems... something suddenly exploded in the kitchen... and Akane...ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san!?ã€
+”Narumi
+uIt seems... something suddenly exploded in the kitchen... and Akane...v
+”Protagonist
+uAkane-san!?v
 I hurriedly peered into the kitchen.
-ï¼ƒProtagonist
-ã€ŒUgh...ã€
+”Protagonist
+uUgh...v
 The inside of the kitchen was a total mess.
 Scorched marks were everywhere, and large shelves and cooking tables had been knocked over.
-ï¼ƒSouko
-ã€ŒThis smell... was it a gas explosion...?ã€
+”Souko
+uThis smell... was it a gas explosion...?v
 Souko-san muttered as she saw the scene.
-ï¼ƒProtagonist
-ã€ŒMore importantly, where is Akane-san!?ã€
-ï¼ƒNarumi
-ã€ŒCalm down. She wouldn't be okay if she were in here, would she?ã€
-ï¼ƒProtagonist
-ã€ŒEh... is she safe...?ã€
-ï¼ƒNarumi
-ã€ŒTsujimura-san is looking at her in her room now. It seems like just minor burns and she hit her head.ã€
-ï¼ƒProtagonist
-ã€ŒI... I see...ã€
+”Protagonist
+uMore importantly, where is Akane-san!?v
+”Narumi
+uCalm down. She wouldn't be okay if she were in here, would she?v
+”Protagonist
+uEh... is she safe...?v
+”Narumi
+uTsujimura-san is looking at her in her room now. It seems like just minor burns and she hit her head.v
+”Protagonist
+uI... I see...v
 Thank goodness...
 If she had been caught in an explosion like this, she wouldn't have escaped unharmed.
-ï¼ƒSouko
-ã€ŒDo you know what happened?ã€
+”Souko
+uDo you know what happened?v
 Souko-san asked Narumi-san.
-ï¼ƒNarumi
-ã€ŒI just ran here when I heard the explosion, so I don't know much, but it seems it happened when she tried to open the kitchen door.ã€
-ï¼ƒNarumi
-ã€ŒAkane was lying in the corridor, and the door was mangled.ã€
+”Narumi
+uI just ran here when I heard the explosion, so I don't know much, but it seems it happened when she tried to open the kitchen door.v
+”Narumi
+uAkane was lying in the corridor, and the door was mangled.v
 Narumi-san pointed to the kitchen door.
-ï¼ƒSouko
-ã€ŒSo she wasn't directly caught in the explosion?ã€
-ï¼ƒNarumi
-ã€ŒYeah, most likely.ã€
+”Souko
+uSo she wasn't directly caught in the explosion?v
+”Narumi
+uYeah, most likely.v
 The sound of footsteps running down the corridor approached.
-ï¼ƒMikanagi
-ã€ŒWhat happened!? Ugh...ã€
+”Mikanagi
+uWhat happened!? Ugh...v
 Dr. Mikanagi frowned as he entered the kitchen.
-ï¼ƒNarumi
-ã€ŒDoctor, Akane's been hurt. Please go to her room.ã€
-ï¼ƒMikanagi
-ã€ŒA-Ah, right...ã€
+”Narumi
+uDoctor, Akane's been hurt. Please go to her room.v
+”Mikanagi
+uA-Ah, right...v
 Dr. Mikanagi left.
-ï¼ƒProtagonist
-ã€ŒI'll go check on her too.ã€
-ï¼ƒSouko
-ã€ŒRight. I'll stay here and look around a bit.ã€
+”Protagonist
+uI'll go check on her too.v
+”Souko
+uRight. I'll stay here and look around a bit.v

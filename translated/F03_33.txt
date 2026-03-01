@@ -5,12 +5,12 @@ This place looks like it's worth investigating, but...
 This is Mr. Kousei's study.
 When I turned the doorknob, the door opened quite easily.
 The room was almost entirely occupied by large bookshelves.
-ï¼ƒAkane
-ã€ŒIt seems Lady Ai isn't here...ã€
-ï¼ƒProtagonist
-ã€ŒSo it seems...ã€
+”Akane
+uIt seems Lady Ai isn't here...v
+”Protagonist
+uSo it seems...v
 At a glance, there doesn't seem to be any place where a person could hide.
 It's not like she'd be playing hide-and-seek.
-ï¼ƒAkane
-ã€ŒLet's look elsewhere.ã€
+”Akane
+uLet's look elsewhere.v
 We decided to leave the study.

@@ -1,26 +1,26 @@
 This is Mikanagi-sensei's room.
 I give the door a light knock.
-ï¼ƒMikanagi
-ã€ŒAh... it's you. Good morning.ã€
-ï¼ƒProtagonist
-ã€ŒGood morning, Mikanagi-sensei. Do you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒIâ€™m sorry... but if you have business, could we do it later in the infirmary? I'm still sleepy.ã€
-ï¼ƒProtagonist
-ã€ŒOh... sorry about that. I'll see you later then.ã€
-ï¼ƒMikanagi
-ã€ŒYes, please do.ã€
+”Mikanagi
+uAh... it's you. Good morning.v
+”Protagonist
+uGood morning, Mikanagi-sensei. Do you have a moment?v
+”Mikanagi
+uIfm sorry... but if you have business, could we do it later in the infirmary? I'm still sleepy.v
+”Protagonist
+uOh... sorry about that. I'll see you later then.v
+”Mikanagi
+uYes, please do.v
 Mikanagi-sensei looked incredibly sleepy.
 Maybe he's just not a morning person.
 I can't just stand around here forever, so let's try somewhere else.
-Iâ€™ve come to the front of Mikanagi-sensei's room.
+Ifve come to the front of Mikanagi-sensei's room.
 Just as I was about to knock, I remembered.
 He said if I had business, to see him in the infirmary.
 I should wait a while and then head to the infirmary.
 I decided to leave the area.
-Iâ€™ve come to the front of Mikanagi-sensei's room.
+Ifve come to the front of Mikanagi-sensei's room.
 I give the door a light knock.
-ï¼ƒProtagonist
-ã€ŒHuh... I guess he's not here.ã€
+”Protagonist
+uHuh... I guess he's not here.v
 There was no response no matter how long I waited.
 Nothing for it; let's try somewhere else.

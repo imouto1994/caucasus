@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...There's a very real possibility Shion-san will be targeted next. She needs to be careful...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€ŒShion is still safe, isn't she...?ã€
-ï¼ƒProtagonist
-ã€ŒYes... no need to worry.ã€
-ï¼ƒAi
-ã€ŒI'm glad I was the one targeted... if it had been Shion...ã€
-ï¼ƒProtagonist
-ã€ŒAi-san...ã€
-ï¼ƒBenio
-ã€ŒShion, huh... she likely feels some sense of debt for being an adopted child. Thatâ€™s why she never complains about her situation...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒI... don't really understand what's happening... I'm sorry...ã€
-ï¼ƒProtagonist
-ã€ŒNo...ã€
-ï¼ƒTsujimura
-ã€Œ...Lady Shion seems quite despondent...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒShion-kun is in the reception room? It's rare to see her out of her room.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMikanagi
-ã€ŒIs it almost time for Shion-san's medicine...? I prepared it during the night, so it should be fine.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Shion? She's in the reception room.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒLady Shion? Unless she's in her room, I've no idea where she is.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+u...There's a very real possibility Shion-san will be targeted next. She needs to be careful...v
+”Protagonist
+uRight...v
+”Maya
+uShion is still safe, isn't she...?v
+”Protagonist
+uYes... no need to worry.v
+”Ai
+uI'm glad I was the one targeted... if it had been Shion...v
+”Protagonist
+uAi-san...v
+”Benio
+uShion, huh... she likely feels some sense of debt for being an adopted child. Thatfs why she never complains about her situation...v
+”Protagonist
+uI see...v
+”Shion
+uI... don't really understand what's happening... I'm sorry...v
+”Protagonist
+uNo...v
+”Tsujimura
+u...Lady Shion seems quite despondent...v
+”Protagonist
+uI see...v
+”Takamine
+uShion-kun is in the reception room? It's rare to see her out of her room.v
+”Protagonist
+uRight...v
+”Mikanagi
+uIs it almost time for Shion-san's medicine...? I prepared it during the night, so it should be fine.v
+”Protagonist
+uI see...v
+”Akane
+uLady Shion? She's in the reception room.v
+”Protagonist
+uI see.v
+”Narumi
+uLady Shion? Unless she's in her room, I've no idea where she is.v
+”Protagonist
+uI see...v

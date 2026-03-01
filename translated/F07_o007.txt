@@ -1,42 +1,42 @@
-ï¼ƒSouko
-ã€ŒSinging...? I haven't heard it, so I wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒSinging, you say... It's likely Shion singing.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒThat must be Shion singing. She has a very beautiful voice.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒSinging... Isn't it Shion?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒI was indeed singing... Could you hear me...?ã€
-ï¼ƒProtagonist
-ã€ŒYeah... It was a beautiful singing voice.ã€
-ï¼ƒShion
-ã€ŒAh... Thank you very much...ã€
-ï¼ƒTsujimura
-ã€ŒThat would likely be Lady Shion. She often sings to herself.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒSinging, huh... I suppose someone must be.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒMikanagi
-ã€ŒSinging... I'd guess it's Shion-san.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒSinging, is it... Lady Shion seems to sing quite often...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe one singing is probably Lady Shion. Lady Benio plays the piano sometimes, too.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uSinging...? I haven't heard it, so I wouldn't know.v
+”Protagonist
+uI see.v
+”Maya
+uSinging, you say... It's likely Shion singing.v
+”Protagonist
+uI see...v
+”Ai
+uThat must be Shion singing. She has a very beautiful voice.v
+”Protagonist
+uIs that so...v
+”Benio
+uSinging... Isn't it Shion?v
+”Protagonist
+uI see...v
+”Shion
+uI was indeed singing... Could you hear me...?v
+”Protagonist
+uYeah... It was a beautiful singing voice.v
+”Shion
+uAh... Thank you very much...v
+”Tsujimura
+uThat would likely be Lady Shion. She often sings to herself.v
+”Protagonist
+uI see...v
+”Takamine
+uSinging, huh... I suppose someone must be.v
+”Protagonist
+uRight.v
+”Mikanagi
+uSinging... I'd guess it's Shion-san.v
+”Protagonist
+uI see...v
+”Akane
+uSinging, is it... Lady Shion seems to sing quite often...v
+”Protagonist
+uI see...v
+”Narumi
+uThe one singing is probably Lady Shion. Lady Benio plays the piano sometimes, too.v
+”Protagonist
+uI see.v

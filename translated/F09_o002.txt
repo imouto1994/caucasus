@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒYou've heard the contents of the will, haven't you? Why don't you let me hear about that?ã€
-ï¼ƒProtagonist
-ã€ŒYeah... you're right.ã€
-ï¼ƒMaya
-ã€ŒI am sorry, but... I do not think I am in a state to speak of it yet.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAi
-ã€Œ...I cannot say anything regarding the will.ã€
-ï¼ƒProtagonist
-ã€Œ...You're right.ã€
-ï¼ƒBenio
-ã€ŒThe matter of the will has been left to Takamine. If you're curious, you should try asking him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒThe will... I'm sorry, I don't really know about it...ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒTsujimura
-ã€Œ...Regarding that matter, there is nothing I can say.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒTakamine
-ã€ŒI believe we've already spoken about the inheritance, haven't we?ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒMikanagi
-ã€ŒThat is... not an issue I can say anything about.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe will, huh... It's not like any money is coming my way, so I'm not really interested.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uYou've heard the contents of the will, haven't you? Why don't you let me hear about that?v
+”Protagonist
+uYeah... you're right.v
+”Maya
+uI am sorry, but... I do not think I am in a state to speak of it yet.v
+”Protagonist
+uYou're right...v
+”Ai
+u...I cannot say anything regarding the will.v
+”Protagonist
+u...You're right.v
+”Benio
+uThe matter of the will has been left to Takamine. If you're curious, you should try asking him.v
+”Protagonist
+uI see...v
+”Shion
+uThe will... I'm sorry, I don't really know about it...v
+”Protagonist
+uYou're right...v
+”Tsujimura
+u...Regarding that matter, there is nothing I can say.v
+”Protagonist
+uYou're right...v
+”Takamine
+uI believe we've already spoken about the inheritance, haven't we?v
+”Protagonist
+uY-You're right...v
+”Mikanagi
+uThat is... not an issue I can say anything about.v
+”Protagonist
+uYou're right...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uThe will, huh... It's not like any money is coming my way, so I'm not really interested.v
+”Protagonist
+uI see...v

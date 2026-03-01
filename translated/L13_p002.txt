@@ -1,20 +1,20 @@
-ï¼ƒMaya
-ã€ŒI was in my room. I wasn't feeling very wellâ€¦ but I didn't call for Mikanagi-sensei.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒAi
-ã€ŒIâ€™m not sureâ€¦ I was in my room the entire time.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTsujimura
-ã€ŒI believe she was in her roomâ€¦ but I haven't confirmed it.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTakamine
-ã€ŒI wouldnâ€™t know what was happening outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒNarumi
-ã€Œâ€¦At the very least, the Madame didn't come out of her room while I was out here in the hallway.ã€
-ï¼ƒProtagonist
-ã€Œâ€¦I see.ã€
+”Maya
+uI was in my room. I wasn't feeling very wellc but I didn't call for Mikanagi-sensei.v
+”Protagonist
+uI seecv
+”Ai
+uIfm not surec I was in my room the entire time.v
+”Protagonist
+uI seecv
+”Tsujimura
+uI believe she was in her roomc but I haven't confirmed it.v
+”Protagonist
+uI seecv
+”Takamine
+uI wouldnft know what was happening outside my room.v
+”Protagonist
+uI seecv
+”Narumi
+ucAt the very least, the Madame didn't come out of her room while I was out here in the hallway.v
+”Protagonist
+ucI see.v

@@ -1,72 +1,72 @@
-ï¼ƒSouko
-ã€Œ'Akane' and 'Akari', huh... I could understand other things, but I don't think anyone would mistake their own name...ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒMaya
-ã€Œ...I am sorry, I do not quite understand.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...I'm sorry, I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒIsn't it strange to use 'M' as the initial for 'Hiyama'? If you made that many mistakes, you'd notice, and normally you'd just start over.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMistakes can happen... for example, Lady Benio spells her name 'Venio' in Romaji.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI'm not really sure.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€Œ...I'm sorry, but I really don't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€Œ...That handkerchief from yesterday, right?ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san said she made a mistake, but I don't think that's it. Who on earth is 'Akari M.'...?ã€
-ï¼ƒMikanagi
-ã€Œ...I know of one person with a name that matches.ã€
-ï¼ƒProtagonist
-ã€Œ...The person in the photo in your room?ã€
-ï¼ƒMikanagi
-ã€Œ...So you saw it.ã€
-ï¼ƒProtagonist
-ã€Œ...I'm sorry.ã€
-ï¼ƒMikanagi
-ã€ŒThere's no need to apologize. I was the one who sent you to get my bag, after all.ã€
-ï¼ƒProtagonist
-ã€ŒSo... is it her?ã€
-ï¼ƒMikanagi
-ã€Œ...She is Akari Misono, the person most precious to me.ã€
-ï¼ƒProtagonist
-ã€ŒWas she someone who worked here?ã€
-ï¼ƒMikanagi
-ã€Œ...Until a short while ago, yes.ã€
-ï¼ƒProtagonist
-ã€ŒBut even if it's her... why would Akane-san have...ã€
-ï¼ƒMikanagi
-ã€Œ...It would be best to ask Akane-san about that. Besides, it's not certain that the embroidery on the handkerchief refers to her in the first place.ã€
-ï¼ƒProtagonist
-ã€ŒRight... I understand.ã€
-ï¼ƒAkane
-ã€ŒI-I told you yesterday, I just made a mistake...!ã€
-ï¼ƒProtagonist
-ã€ŒI-Is that so...ã€
-ï¼ƒAkane
-ã€ŒAbout that... I'm sorry, could you ask me later...?ã€
-ï¼ƒProtagonist
-ã€ŒI see... understood.ã€
-ï¼ƒNarumi
-ã€Œ...I don't think that girl can even embroider... I wonder if she really sewed it herself?ã€
-ï¼ƒProtagonist
-ã€ŒI wonder...ã€
+”Souko
+u'Akane' and 'Akari', huh... I could understand other things, but I don't think anyone would mistake their own name...v
+”Protagonist
+uRight...v
+”Maya
+u...I am sorry, I do not quite understand.v
+”Protagonist
+uI see...v
+”Ai
+u...I'm sorry, I don't really know.v
+”Protagonist
+uI see...v
+”Benio
+uIsn't it strange to use 'M' as the initial for 'Hiyama'? If you made that many mistakes, you'd notice, and normally you'd just start over.v
+”Protagonist
+uYou're right...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uMistakes can happen... for example, Lady Benio spells her name 'Venio' in Romaji.v
+”Protagonist
+uI see...v
+”Takamine
+uI'm not really sure.v
+”Protagonist
+uI see...v
+”Mikanagi
+u...I'm sorry, but I really don't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+u...That handkerchief from yesterday, right?v
+”Protagonist
+uAkane-san said she made a mistake, but I don't think that's it. Who on earth is 'Akari M.'...?v
+”Mikanagi
+u...I know of one person with a name that matches.v
+”Protagonist
+u...The person in the photo in your room?v
+”Mikanagi
+u...So you saw it.v
+”Protagonist
+u...I'm sorry.v
+”Mikanagi
+uThere's no need to apologize. I was the one who sent you to get my bag, after all.v
+”Protagonist
+uSo... is it her?v
+”Mikanagi
+u...She is Akari Misono, the person most precious to me.v
+”Protagonist
+uWas she someone who worked here?v
+”Mikanagi
+u...Until a short while ago, yes.v
+”Protagonist
+uBut even if it's her... why would Akane-san have...v
+”Mikanagi
+u...It would be best to ask Akane-san about that. Besides, it's not certain that the embroidery on the handkerchief refers to her in the first place.v
+”Protagonist
+uRight... I understand.v
+”Akane
+uI-I told you yesterday, I just made a mistake...!v
+”Protagonist
+uI-Is that so...v
+”Akane
+uAbout that... I'm sorry, could you ask me later...?v
+”Protagonist
+uI see... understood.v
+”Narumi
+u...I don't think that girl can even embroider... I wonder if she really sewed it herself?v
+”Protagonist
+uI wonder...v

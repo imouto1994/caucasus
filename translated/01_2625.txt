@@ -1,33 +1,33 @@
 I returned to my room.
-ï¼ƒSouko
-ã€ŒDid something happen...?ã€
+”Souko
+uDid something happen...?v
 Souko-san was awake.
-ï¼ƒProtagonist
-ã€ŒWell, yeah... I heard some kind of noise.ã€
-ï¼ƒSouko
-ã€ŒNoises happen all the time... honestly.ã€
+”Protagonist
+uWell, yeah... I heard some kind of noise.v
+”Souko
+uNoises happen all the time... honestly.v
 She flopped back down onto the bed.
-ï¼ƒProtagonist
-ã€ŒWait, Souko-san, if you're awake, then please go back to your own room.ã€
-ï¼ƒSouko
-ã€ŒMmn... fine, I hear you.ã€
+”Protagonist
+uWait, Souko-san, if you're awake, then please go back to your own room.v
+”Souko
+uMmn... fine, I hear you.v
 Souko-san finally stood up.
-ï¼ƒSouko
-ã€ŒWas that noise from downstairs?ã€
-ï¼ƒProtagonist
-ã€ŒI think so... Tsujimura-san said it was a mountain spirit...ã€
-ï¼ƒSouko
-ã€ŒThe 'Curse' again, perhaps?ã€
-ï¼ƒProtagonist
-ã€ŒSurely you're not... planning to investigate?ã€
-ï¼ƒSouko
-ã€ŒOf course not. I'm tired. If we do it, it'll be tomorrow.ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
+”Souko
+uWas that noise from downstairs?v
+”Protagonist
+uI think so... Tsujimura-san said it was a mountain spirit...v
+”Souko
+uThe 'Curse' again, perhaps?v
+”Protagonist
+uSurely you're not... planning to investigate?v
+”Souko
+uOf course not. I'm tired. If we do it, it'll be tomorrow.v
+”Protagonist
+u...Right.v
 I suppose I didn't have to worry about being dragged around anymore tonight.
-ï¼ƒSouko
-ã€ŒWell then, good night. I've already warmed up the bed for you.ã€
+”Souko
+uWell then, good night. I've already warmed up the bed for you.v
 With just those words, Souko-san left the room.
-ï¼ƒProtagonist
-ã€Œ...Guess I'll sleep.ã€
+”Protagonist
+u...Guess I'll sleep.v
 It wasn't that I'd been expecting it or anything, but as I crawled under the covers and felt the lingering warmth of Souko-san's body, I finally drifted off to sleep.

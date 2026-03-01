@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒTakamine-san? He's quite a stern man, isn't he? He doesn't seem like a lawyer at all.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMaya
-ã€ŒAttorney Takamine's father was also the Nanatsuki family's legal counsel. He is very dedicated to his work.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒMr. Takamine has apparently been coming here since he was small, brought along by his father.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒBenio
-ã€ŒMr. Takamine? He is a man of few words... and the burn scars on his face look quite painful.ã€
-ï¼ƒProtagonist
-ã€ŒThey do...ã€
-ï¼ƒTsujimura
-ã€ŒMr. Takamine. He is here to witness the wedding today. As a lawyer, he's necessary for the contract signing.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒRokuyou
-ã€ŒTakamine-san? I hear his family has been legal counsel for the Nanatsuki for generations, but I haven't talked to him much.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€Œâ€¦â€¦I have nothing to say.ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒMikanagi
-ã€ŒAbout Mr. Takamine? Just like me, his father seems to have been involved with this family.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒMr. Takamine? I believe he would be in his room, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒTakamine-san? ...He has a scary face, doesn't he? To think a guy like that is a lawyer... you just never know with this world.ã€
-ï¼ƒProtagonist
-ã€ŒI-I suppose so...ã€
+”Souko
+uTakamine-san? He's quite a stern man, isn't he? He doesn't seem like a lawyer at all.v
+”Protagonist
+uYeah...v
+”Maya
+uAttorney Takamine's father was also the Nanatsuki family's legal counsel. He is very dedicated to his work.v
+”Protagonist
+uI see...v
+”Ai
+uMr. Takamine has apparently been coming here since he was small, brought along by his father.v
+”Protagonist
+uIs that so?v
+”Benio
+uMr. Takamine? He is a man of few words... and the burn scars on his face look quite painful.v
+”Protagonist
+uThey do...v
+”Tsujimura
+uMr. Takamine. He is here to witness the wedding today. As a lawyer, he's necessary for the contract signing.v
+”Protagonist
+uI see.v
+”Rokuyou
+uTakamine-san? I hear his family has been legal counsel for the Nanatsuki for generations, but I haven't talked to him much.v
+”Protagonist
+uI see.v
+”Takamine
+uccI have nothing to say.v
+”Protagonist
+uY-You're right...v
+”Mikanagi
+uAbout Mr. Takamine? Just like me, his father seems to have been involved with this family.v
+”Protagonist
+uI see.v
+”Akane
+uMr. Takamine? I believe he would be in his room, but...v
+”Protagonist
+uI see.v
+”Narumi
+uTakamine-san? ...He has a scary face, doesn't he? To think a guy like that is a lawyer... you just never know with this world.v
+”Protagonist
+uI-I suppose so...v

@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒIt was sitting in the music room. It certainly looked like a vintage piece...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒThat is something my husband purchased before the war. He reportedly had it imported all the way from Germany.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒI don't play... but Benio plays it often.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒSince it's German-made, the proper name is 'Klavier.' It's not a 'Piano.'ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒShion
-ã€ŒThe piano... I know it's there, but I've never played it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€Œ...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was so busy, I was the one who taught Lady Benio.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI don't mind if you play it, but just don't break it.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah...ã€
-ï¼ƒMikanagi
-ã€ŒThe piano, huh... It seems to be quite old. Apparently, it was one of Kousei-san's favorite instruments.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe piano in the music room, right? I always make sure to polish it until it shines.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒThe piano in the music room? I've never seen anyone but Lady Benio playing it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uIt was sitting in the music room. It certainly looked like a vintage piece...v
+”Protagonist
+uI see.v
+”Maya
+uThat is something my husband purchased before the war. He reportedly had it imported all the way from Germany.v
+”Protagonist
+uIs that so...v
+”Ai
+uI don't play... but Benio plays it often.v
+”Protagonist
+uI see.v
+”Benio
+uSince it's German-made, the proper name is 'Klavier.' It's not a 'Piano.'v
+”Protagonist
+uI-I see...v
+”Shion
+uThe piano... I know it's there, but I've never played it.v
+”Protagonist
+uI see...v
+”Tsujimura
+u...I'm embarrassed to say I used to dabble in it a bit myself. Since the Master was so busy, I was the one who taught Lady Benio.v
+”Protagonist
+uI see...v
+”Takamine
+uI don't mind if you play it, but just don't break it.v
+”Protagonist
+uY-Yeah...v
+”Mikanagi
+uThe piano, huh... It seems to be quite old. Apparently, it was one of Kousei-san's favorite instruments.v
+”Protagonist
+uI see...v
+”Akane
+uThe piano in the music room, right? I always make sure to polish it until it shines.v
+”Protagonist
+uI see...v
+”Narumi
+uThe piano in the music room? I've never seen anyone but Lady Benio playing it.v
+”Protagonist
+uI see...v

@@ -1,171 +1,171 @@
 I returned to the office.
-ï¼ƒSouko
-ã€ŒTsujimura-san isn't here, so this will do.ã€
-ï¼ƒProtagonist
-ã€ŒWhat are you going to do now?ã€
-ï¼ƒSouko
-ã€Œ...Let's verify the facts regarding Shion-san's case. Was it a murder... or was it Shion-san's suicideâ€”ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒSouko
-ã€ŒWell then, firstâ€”who do you think is the culprit?ã€
-ï¼ƒProtagonist
-ã€ŒSouko-san... where were you after 2:30?ã€
-ï¼ƒSouko
-ã€ŒSo you suspect me. Fine... I was in my room. There's no one who can prove it... is that enough?ã€
-ï¼ƒProtagonist
-ã€ŒYeah... at this hour, no one has an alibi anyway.ã€
-ï¼ƒSouko
-ã€ŒI suppose that's true. In that case, shouldn't we try attacking it from a different angle?ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒProtagonist
-ã€Œ...From 2:00 to 2:30, I was talking with Shion-san.ã€
-ï¼ƒSouko
-ã€ŒThat's right. But because of that, there's a possibility you could be seen as the culprit.ã€
-ï¼ƒProtagonist
-ã€ŒI know. Butâ€”when I came out, Maya-san was here in this office. She was bringing Shion-san's medicine.ã€
-ï¼ƒSouko
-ã€Œ...Meaning the possibility that the medicine was poison.ã€
-ï¼ƒProtagonist
-ã€ŒYes. It wouldn't be unreasonable.ã€
-ï¼ƒSouko
-ã€ŒRight... I think that's the most likely scenario.ã€
-ï¼ƒProtagonist
-ã€ŒBut... why? Is it because she's an adoptee after allâ€”ã€
-ï¼ƒSouko
-ã€ŒMore than that, isn't there the reason you went to see Shion-san?ã€
-ï¼ƒProtagonist
-ã€Œ...The murder of Dr. Mikanagi.ã€
-ï¼ƒSouko
-ã€ŒIn my estimation, Dr. Mikanagi was Maya-san's lover. He seemed to visit her room often, so it's not surprising.ã€
-ï¼ƒProtagonist
-ã€ŒAnd so, when Dr. Mikanagi was killedâ€”ã€
-ï¼ƒSouko
-ã€ŒIt's not just that. Ai-san and Benio-san were killed as well.ã€
-ï¼ƒSouko
-ã€ŒIt's not just that. Benio-san was killed as well.ã€
-ï¼ƒSouko
-ã€ŒThe culprit hasn't been identified, but she might have convinced herself that Shion-san was behind everything.ã€
-ï¼ƒProtagonist
-ã€Œ...That's just depressing.ã€
-ï¼ƒSouko
-ã€ŒTrue... however, we still need some kind of definitive proof.ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
-ï¼ƒProtagonist
-ã€Œ...After all, the circumstance of her bringing the medicine is the most suspicious. The cup was left behind too, and if we start from thereâ€”ã€
-ï¼ƒSouko
-ã€ŒSo you think Shion-san's attempted poisoning this morning was indeed a suicide attempt?ã€
-ï¼ƒProtagonist
-ã€ŒYeah... no matter how hard potassium cyanide is to drink, isn't it more likely she was forced to drink it?ã€
-ï¼ƒSouko
-ã€ŒRight... even if forced, it would be difficult for Shion-san, who feels a sense of debt, to refuse...ã€
-ï¼ƒProtagonist
-ã€Œ...Let's go. I think it's almost certain that Maya-san killed Shion-san.ã€
-ï¼ƒSouko
-ã€ŒYes, I understand.ã€
-ï¼ƒProtagonist
-ã€Œ...Don't you think it was Ai-san?ã€
-ï¼ƒSouko
-ã€ŒAi-san? But she's already dead. I don't see how she could have faked it...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒSouko
-ã€ŒAi-san, hmm... and your reason?ã€
-ï¼ƒProtagonist
-ã€ŒWell... I don't really have one...ã€
-ï¼ƒSouko
-ã€ŒThen it's no good. You have to be able to present proper evidence.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒProtagonist
-ã€ŒWhat about the possibility of Benio-san...?ã€
-ï¼ƒSouko
-ã€ŒThat's impossible. She's already dead, and even with the head missing, in that situation, you can't even suspect it was a fake.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€Œ...The possibility of Shion-san's suicide still remains.ã€
-ï¼ƒSouko
-ã€ŒRight... it can't be ruled out entirely. But why?ã€
-ï¼ƒProtagonist
-ã€ŒIt might be because I pushed her too hard regarding Dr. Mikanagi's case. Given the circumstances, I didn't think it could be anyone but her...ã€
-ï¼ƒSouko
-ã€ŒAnd so, unable to bear it, she committed suicide... or perhaps she fell into despair after being suspected...ã€
-ï¼ƒProtagonist
-ã€ŒI... I'm no longer sure if Shion-san really killed Dr. Mikanagi.ã€
-ï¼ƒSouko
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€Œ...Should we just settle on suicide...?ã€
-ï¼ƒSouko
-ã€Œ...If no other evidence turns up, I suppose that's how it'll go.ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
-ï¼ƒProtagonist
-ã€ŒIs there a possibility that Tsujimura-san killed her?ã€
-ï¼ƒSouko
-ã€Œ...Certainly, Tsujimura-san is always in this office, and he could have gone to Shion-san's place without anyone noticing... but why?ã€
-ï¼ƒProtagonist
-ã€ŒWell... I don't know the reason.ã€
-ï¼ƒSouko
-ã€ŒYou shouldn't suspect someone when there's no reason.ã€
-ï¼ƒProtagonist
-ã€Œ...You're right.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe Rokuyou-sanâ€”ã€
-ï¼ƒSouko
-ã€ŒThat's not it.ã€
+”Souko
+uTsujimura-san isn't here, so this will do.v
+”Protagonist
+uWhat are you going to do now?v
+”Souko
+u...Let's verify the facts regarding Shion-san's case. Was it a murder... or was it Shion-san's suicide?v
+”Protagonist
+uYeah...v
+”Souko
+uWell then, first?who do you think is the culprit?v
+”Protagonist
+uSouko-san... where were you after 2:30?v
+”Souko
+uSo you suspect me. Fine... I was in my room. There's no one who can prove it... is that enough?v
+”Protagonist
+uYeah... at this hour, no one has an alibi anyway.v
+”Souko
+uI suppose that's true. In that case, shouldn't we try attacking it from a different angle?v
+”Protagonist
+uYou're right...v
+”Protagonist
+u...From 2:00 to 2:30, I was talking with Shion-san.v
+”Souko
+uThat's right. But because of that, there's a possibility you could be seen as the culprit.v
+”Protagonist
+uI know. But?when I came out, Maya-san was here in this office. She was bringing Shion-san's medicine.v
+”Souko
+u...Meaning the possibility that the medicine was poison.v
+”Protagonist
+uYes. It wouldn't be unreasonable.v
+”Souko
+uRight... I think that's the most likely scenario.v
+”Protagonist
+uBut... why? Is it because she's an adoptee after all?v
+”Souko
+uMore than that, isn't there the reason you went to see Shion-san?v
+”Protagonist
+u...The murder of Dr. Mikanagi.v
+”Souko
+uIn my estimation, Dr. Mikanagi was Maya-san's lover. He seemed to visit her room often, so it's not surprising.v
+”Protagonist
+uAnd so, when Dr. Mikanagi was killed?v
+”Souko
+uIt's not just that. Ai-san and Benio-san were killed as well.v
+”Souko
+uIt's not just that. Benio-san was killed as well.v
+”Souko
+uThe culprit hasn't been identified, but she might have convinced herself that Shion-san was behind everything.v
+”Protagonist
+u...That's just depressing.v
+”Souko
+uTrue... however, we still need some kind of definitive proof.v
+”Protagonist
+uI suppose so...v
+”Protagonist
+u...After all, the circumstance of her bringing the medicine is the most suspicious. The cup was left behind too, and if we start from there?v
+”Souko
+uSo you think Shion-san's attempted poisoning this morning was indeed a suicide attempt?v
+”Protagonist
+uYeah... no matter how hard potassium cyanide is to drink, isn't it more likely she was forced to drink it?v
+”Souko
+uRight... even if forced, it would be difficult for Shion-san, who feels a sense of debt, to refuse...v
+”Protagonist
+u...Let's go. I think it's almost certain that Maya-san killed Shion-san.v
+”Souko
+uYes, I understand.v
+”Protagonist
+u...Don't you think it was Ai-san?v
+”Souko
+uAi-san? But she's already dead. I don't see how she could have faked it...v
+”Protagonist
+uI see...v
+”Souko
+uAi-san, hmm... and your reason?v
+”Protagonist
+uWell... I don't really have one...v
+”Souko
+uThen it's no good. You have to be able to present proper evidence.v
+”Protagonist
+uYou're right...v
+”Protagonist
+uWhat about the possibility of Benio-san...?v
+”Souko
+uThat's impossible. She's already dead, and even with the head missing, in that situation, you can't even suspect it was a fake.v
+”Protagonist
+uI see...v
+”Protagonist
+u...The possibility of Shion-san's suicide still remains.v
+”Souko
+uRight... it can't be ruled out entirely. But why?v
+”Protagonist
+uIt might be because I pushed her too hard regarding Dr. Mikanagi's case. Given the circumstances, I didn't think it could be anyone but her...v
+”Souko
+uAnd so, unable to bear it, she committed suicide... or perhaps she fell into despair after being suspected...v
+”Protagonist
+uI... I'm no longer sure if Shion-san really killed Dr. Mikanagi.v
+”Souko
+uI see...v
+”Protagonist
+u...Should we just settle on suicide...?v
+”Souko
+u...If no other evidence turns up, I suppose that's how it'll go.v
+”Protagonist
+u...Yeah.v
+”Protagonist
+uIs there a possibility that Tsujimura-san killed her?v
+”Souko
+u...Certainly, Tsujimura-san is always in this office, and he could have gone to Shion-san's place without anyone noticing... but why?v
+”Protagonist
+uWell... I don't know the reason.v
+”Souko
+uYou shouldn't suspect someone when there's no reason.v
+”Protagonist
+u...You're right.v
+”Protagonist
+uMaybe Rokuyou-san?v
+”Souko
+uThat's not it.v
 She denied it flatly.
-ï¼ƒProtagonist
-ã€ŒT-True...ã€
-ï¼ƒProtagonist
-ã€ŒIs there a possibility of Takamine-san?ã€
-ï¼ƒSouko
-ã€ŒTakamine-san, huh... he doesn't really fit the image of a poisoner...ã€
-ï¼ƒProtagonist
-ã€ŒStill, he's a lawyer, so he must have some education.ã€
-ï¼ƒSouko
-ã€ŒKnowledge of the law and knowledge of drugs are entirely different things. Besides, I see absolutely no reason for him to kill Shion-san.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒProtagonist
-ã€ŒWhat about the possibility that Dr. Mikanagi planted the poison? If he set it up in advance, he could kill the target without doing anything himself...ã€
-ï¼ƒSouko
-ã€ŒIf it's just the possibility, it wouldn't be strange. But... Dr. Mikanagi has already been killed, you know?ã€
-ï¼ƒProtagonist
-ã€ŒThat's why I'm saying he set it up before he was killed. That way... it's possible to carry it out even after death.ã€
-ï¼ƒSouko
-ã€ŒThen what's the reason for killing Shion-san? There's absolutely nothing. Surely you aren't thinking that he predicted his own murder?ã€
-ï¼ƒProtagonist
-ã€ŒOf... of course not...ã€
-ï¼ƒProtagonist
-ã€ŒWhat about... Akane-san?ã€
-ï¼ƒSouko
-ã€ŒI wonder. I don't see any reason for her to kill Shion-san...ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san seemed to be in love with Dr. Mikanagi. So... couldn't it be that she carried out her revenge?ã€
-ï¼ƒSouko
-ã€ŒIn this short amount of time? I think that's a bit of a stretch.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€ŒIs there a possibility it was Narumi-san?ã€
-ï¼ƒSouko
-ã€Œ...I wonder. There doesn't seem to be a motive. Though there might be things we don't know.ã€
-ï¼ƒProtagonist
-ã€ŒI'm not really sure...ã€
-ï¼ƒSouko
-ã€Œ...We can't really narrow it down at this stage, can we?ã€
+”Protagonist
+uT-True...v
+”Protagonist
+uIs there a possibility of Takamine-san?v
+”Souko
+uTakamine-san, huh... he doesn't really fit the image of a poisoner...v
+”Protagonist
+uStill, he's a lawyer, so he must have some education.v
+”Souko
+uKnowledge of the law and knowledge of drugs are entirely different things. Besides, I see absolutely no reason for him to kill Shion-san.v
+”Protagonist
+uI-I see...v
+”Protagonist
+uWhat about the possibility that Dr. Mikanagi planted the poison? If he set it up in advance, he could kill the target without doing anything himself...v
+”Souko
+uIf it's just the possibility, it wouldn't be strange. But... Dr. Mikanagi has already been killed, you know?v
+”Protagonist
+uThat's why I'm saying he set it up before he was killed. That way... it's possible to carry it out even after death.v
+”Souko
+uThen what's the reason for killing Shion-san? There's absolutely nothing. Surely you aren't thinking that he predicted his own murder?v
+”Protagonist
+uOf... of course not...v
+”Protagonist
+uWhat about... Akane-san?v
+”Souko
+uI wonder. I don't see any reason for her to kill Shion-san...v
+”Protagonist
+uAkane-san seemed to be in love with Dr. Mikanagi. So... couldn't it be that she carried out her revenge?v
+”Souko
+uIn this short amount of time? I think that's a bit of a stretch.v
+”Protagonist
+uI see...v
+”Protagonist
+uIs there a possibility it was Narumi-san?v
+”Souko
+u...I wonder. There doesn't seem to be a motive. Though there might be things we don't know.v
+”Protagonist
+uI'm not really sure...v
+”Souko
+u...We can't really narrow it down at this stage, can we?v
 Souko-san muttered with a sigh.
-ï¼ƒProtagonist
-ã€ŒWhat do we do now...?ã€
-ï¼ƒSouko
-ã€ŒRight... dawn is almost here, so let's just stay quiet for a while. Once the people from below arrive, we can have them call the police.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right... then I'll head back to my room for now.ã€
-ï¼ƒSouko
-ã€ŒYeah. ...Make sure you lock the door.ã€
-ï¼ƒProtagonist
-ã€ŒI know.ã€
+”Protagonist
+uWhat do we do now...?v
+”Souko
+uRight... dawn is almost here, so let's just stay quiet for a while. Once the people from below arrive, we can have them call the police.v
+”Protagonist
+uYou're right... then I'll head back to my room for now.v
+”Souko
+uYeah. ...Make sure you lock the door.v
+”Protagonist
+uI know.v

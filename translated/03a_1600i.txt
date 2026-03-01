@@ -1,167 +1,167 @@
 I suppose this is enough.
-ï¼ƒSouko
-ã€Œ...In the end, we didn't gain much.ã€
-ï¼ƒProtagonist
-ã€Œ...I'll try asking Benio-san for more details later.ã€
+”Souko
+u...In the end, we didn't gain much.v
+”Protagonist
+u...I'll try asking Benio-san for more details later.v
 That's right.
 At the very least, I was able to save Benio-san when she was in danger.
-ï¼ƒSouko
-ã€Œ...At this stage, who do you think the culprit is?ã€
-ï¼ƒProtagonist
-ã€ŒEh... me?ã€
-ï¼ƒProtagonist
-ã€Œ...There's the possibility it's you, Souko-san.ã€
-ï¼ƒSouko
-ã€ŒMe? Why?ã€
-ï¼ƒProtagonist
-ã€ŒHey, don't get mad. I know you have no motive and it's not you.ã€
-ï¼ƒSouko
-ã€ŒI see. I don't have an alibi either, after all.ã€
-ï¼ƒProtagonist
-ã€ŒWell... that's how it is.ã€
+”Souko
+u...At this stage, who do you think the culprit is?v
+”Protagonist
+uEh... me?v
+”Protagonist
+u...There's the possibility it's you, Souko-san.v
+”Souko
+uMe? Why?v
+”Protagonist
+uHey, don't get mad. I know you have no motive and it's not you.v
+”Souko
+uI see. I don't have an alibi either, after all.v
+”Protagonist
+uWell... that's how it is.v
 I'd said it right to her face, which made things very awkward.
-ï¼ƒSouko
-ã€ŒIt's not bad to suspect those close to you first. As long as you have a proper reason.ã€
+”Souko
+uIt's not bad to suspect those close to you first. As long as you have a proper reason.v
 Souko-san laughed and patted my shoulder.
-ï¼ƒProtagonist
-ã€ŒMaybe... it's Benio-san herself.ã€
-ï¼ƒSouko
-ã€Œ...You mean she staged it?ã€
-ï¼ƒProtagonist
-ã€ŒIt's just a possibility. If she makes it look like she was attacked, she'd be cleared of suspicion, right?ã€
-ï¼ƒSouko
-ã€Œ...That would explain why the culprit vanished... but it's dangerous to jump to conclusions.ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah, I know.ã€
-ï¼ƒProtagonist
-ã€Œ...Is it possible Maya-san is the culprit?ã€
-ï¼ƒSouko
-ã€Œ...Honestly, I don't know. Maya-san is always in her room... but Benio-san is her own daughter, right?ã€
-ï¼ƒProtagonist
-ã€Œ...That's the thing... but if inheritance is involved...ã€
-ï¼ƒSouko
-ã€ŒKilling her own daughter... do you think so?ã€
-ï¼ƒProtagonist
-ã€ŒI don't know. I have no proof at all.ã€
-ï¼ƒProtagonist
-ã€Œ...Is it possible Ai-san is the culprit?ã€
-ï¼ƒSouko
-ã€ŒThat's impossible. She's already dead.ã€
-ï¼ƒProtagonist
-ã€Œ...Right.ã€
+”Protagonist
+uMaybe... it's Benio-san herself.v
+”Souko
+u...You mean she staged it?v
+”Protagonist
+uIt's just a possibility. If she makes it look like she was attacked, she'd be cleared of suspicion, right?v
+”Souko
+u...That would explain why the culprit vanished... but it's dangerous to jump to conclusions.v
+”Protagonist
+u...Yeah, I know.v
+”Protagonist
+u...Is it possible Maya-san is the culprit?v
+”Souko
+u...Honestly, I don't know. Maya-san is always in her room... but Benio-san is her own daughter, right?v
+”Protagonist
+u...That's the thing... but if inheritance is involved...v
+”Souko
+uKilling her own daughter... do you think so?v
+”Protagonist
+uI don't know. I have no proof at all.v
+”Protagonist
+u...Is it possible Ai-san is the culprit?v
+”Souko
+uThat's impossible. She's already dead.v
+”Protagonist
+u...Right.v
 I saw the dead Ai-san with my own eyes.
 There's no way she's moving around.
-ï¼ƒSouko
-ã€ŒAi-san? ...But she's dead.ã€
-ï¼ƒProtagonist
-ã€ŒBut... there's no proof that body was Ai-san... it didn't have a head.ã€
-ï¼ƒSouko
-ã€ŒThen who do you think it was?ã€
-ï¼ƒProtagonist
-ã€ŒI... I don't know, but...ã€
-ï¼ƒSouko
-ã€ŒThat's a tough one. If you want to push that theory, you have to identify exactly whose body that was.ã€
-ï¼ƒProtagonist
-ã€Œ...You're right.ã€
-ï¼ƒSouko
-ã€ŒAi-san? But she's a victim too, isn't she?ã€
-ï¼ƒProtagonist
-ã€Œ...She might have faked it.ã€
-ï¼ƒSouko
-ã€ŒHmm... it's not a zero percent chance, but I think it would be difficult.ã€
-ï¼ƒProtagonist
-ã€ŒYou think so...?ã€
-ï¼ƒSouko
-ã€ŒLet's keep it in mind for now.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
-ï¼ƒProtagonist
-ã€Œ...Is it possible Shion-san is the culprit...?ã€
-ï¼ƒSouko
-ã€Œ...I wonder. I don't think she has that kind of nerve, but...ã€
-ï¼ƒProtagonist
-ã€ŒStill... I don't think it's impossible.ã€
-ï¼ƒSouko
-ã€Œ...Maybe so. We should keep an eye on her... but try not to provoke her unnecessarily.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I know.ã€
-ï¼ƒProtagonist
-ã€ŒWhat about Tsujimura-san?ã€
-ï¼ƒSouko
-ã€Œ...I see. He's the late head's younger brother, and he manages the master keys... it wouldn't be impossible for him to pull off everything so far...ã€
-ï¼ƒProtagonist
-ã€ŒBut... he just doesn't look the part. And I can't imagine he holds a grudge against Benio-san...ã€
-ï¼ƒSouko
-ã€ŒPeople don't only kill out of grudges. But well, we have no evidence, so we can't exactly interrogate him.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒProtagonist
-ã€Œ...There's no way Rokuyou-san is the culprit, right?ã€
-ï¼ƒSouko
-ã€ŒI doubt it. But... since we only confirmed a headless body... I can't say for sure that he wasn't swapped out.ã€
-ï¼ƒProtagonist
-ã€Œ...If only there was an extra body somewhere...ã€
-ï¼ƒSouko
-ã€ŒThings wouldn't be that convenient, now would they?ã€
-ï¼ƒProtagonist
-ã€ŒT-True...ã€
-ï¼ƒProtagonist
-ã€Œ...Is it possible Takamine-san is the culprit...?ã€
-ï¼ƒSouko
-ã€Œ...Honestly, I don't know with that man. I feel like he's hiding something, but...ã€
-ï¼ƒProtagonist
-ã€ŒWe don't have anything like evidence, but should we be cautious?ã€
-ï¼ƒSouko
-ã€ŒRight... it's better than doing nothing.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒProtagonist
-ã€Œ...Is it possible Dr. Mikanagi is the culprit?ã€
-ï¼ƒSouko
-ã€ŒThe doctor? ...Well, I suppose if he's doing the autopsies himself, he could fake whatever he wanted...ã€
-ï¼ƒProtagonist
-ã€ŒExactly.ã€
-ï¼ƒSouko
-ã€ŒBut then most of what we've investigated so far would become meaningless. Even the estimated times of death.ã€
-ï¼ƒProtagonist
-ã€ŒThat... would be a problem...ã€
-ï¼ƒSouko
-ã€ŒWe can't investigate it ourselves, so we just have to trust him, but...ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
-ï¼ƒProtagonist
-ã€ŒIs it possible Akane-san is the culprit?ã€
-ï¼ƒSouko
-ã€ŒDid she do something suspicious?ã€
-ï¼ƒProtagonist
-ã€ŒWell... she's been acting strange since last night...ã€
-ï¼ƒSouko
-ã€ŒI see... we might need to keep a close watch on her.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... right.ã€
-ï¼ƒSouko
-ã€Œ...I suppose that would explain why she went into hiding...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒProtagonist
-ã€Œ...Maybe Narumi-san is the culprit.ã€
-ï¼ƒSouko
-ã€ŒDid you see something?ã€
-ï¼ƒProtagonist
-ã€ŒNo... not exactly...ã€
+”Souko
+uAi-san? ...But she's dead.v
+”Protagonist
+uBut... there's no proof that body was Ai-san... it didn't have a head.v
+”Souko
+uThen who do you think it was?v
+”Protagonist
+uI... I don't know, but...v
+”Souko
+uThat's a tough one. If you want to push that theory, you have to identify exactly whose body that was.v
+”Protagonist
+u...You're right.v
+”Souko
+uAi-san? But she's a victim too, isn't she?v
+”Protagonist
+u...She might have faked it.v
+”Souko
+uHmm... it's not a zero percent chance, but I think it would be difficult.v
+”Protagonist
+uYou think so...?v
+”Souko
+uLet's keep it in mind for now.v
+”Protagonist
+uUnderstood.v
+”Protagonist
+u...Is it possible Shion-san is the culprit...?v
+”Souko
+u...I wonder. I don't think she has that kind of nerve, but...v
+”Protagonist
+uStill... I don't think it's impossible.v
+”Souko
+u...Maybe so. We should keep an eye on her... but try not to provoke her unnecessarily.v
+”Protagonist
+uYeah... I know.v
+”Protagonist
+uWhat about Tsujimura-san?v
+”Souko
+u...I see. He's the late head's younger brother, and he manages the master keys... it wouldn't be impossible for him to pull off everything so far...v
+”Protagonist
+uBut... he just doesn't look the part. And I can't imagine he holds a grudge against Benio-san...v
+”Souko
+uPeople don't only kill out of grudges. But well, we have no evidence, so we can't exactly interrogate him.v
+”Protagonist
+uTrue...v
+”Protagonist
+u...There's no way Rokuyou-san is the culprit, right?v
+”Souko
+uI doubt it. But... since we only confirmed a headless body... I can't say for sure that he wasn't swapped out.v
+”Protagonist
+u...If only there was an extra body somewhere...v
+”Souko
+uThings wouldn't be that convenient, now would they?v
+”Protagonist
+uT-True...v
+”Protagonist
+u...Is it possible Takamine-san is the culprit...?v
+”Souko
+u...Honestly, I don't know with that man. I feel like he's hiding something, but...v
+”Protagonist
+uWe don't have anything like evidence, but should we be cautious?v
+”Souko
+uRight... it's better than doing nothing.v
+”Protagonist
+uYeah...v
+”Protagonist
+u...Is it possible Dr. Mikanagi is the culprit?v
+”Souko
+uThe doctor? ...Well, I suppose if he's doing the autopsies himself, he could fake whatever he wanted...v
+”Protagonist
+uExactly.v
+”Souko
+uBut then most of what we've investigated so far would become meaningless. Even the estimated times of death.v
+”Protagonist
+uThat... would be a problem...v
+”Souko
+uWe can't investigate it ourselves, so we just have to trust him, but...v
+”Protagonist
+u...Yeah.v
+”Protagonist
+uIs it possible Akane-san is the culprit?v
+”Souko
+uDid she do something suspicious?v
+”Protagonist
+uWell... she's been acting strange since last night...v
+”Souko
+uI see... we might need to keep a close watch on her.v
+”Protagonist
+uYeah... right.v
+”Souko
+u...I suppose that would explain why she went into hiding...v
+”Protagonist
+uYeah...v
+”Protagonist
+u...Maybe Narumi-san is the culprit.v
+”Souko
+uDid you see something?v
+”Protagonist
+uNo... not exactly...v
 I should probably keep the fact that she's a thief to myself for now.
-ï¼ƒSouko
-ã€ŒIt's best not to suspect people without cause, but...ã€
-ï¼ƒProtagonist
-ã€Œ...You're right.ã€
-ï¼ƒSouko
-ã€Œ...We don't have any solid leads yet.ã€
-ï¼ƒProtagonist
-ã€Œ...It's not good to decide on a culprit based on speculation alone.ã€
-ï¼ƒSouko
-ã€ŒExactly. We have to find definitive proof.ã€
-ï¼ƒProtagonist
-ã€ŒYeah... I know. But... to find proof, something else has to happen, doesn't it...?ã€
-ï¼ƒSouko
-ã€Œ...I don't think this will end with what happened today. We still haven't grasped the culprit's motive.ã€
+”Souko
+uIt's best not to suspect people without cause, but...v
+”Protagonist
+u...You're right.v
+”Souko
+u...We don't have any solid leads yet.v
+”Protagonist
+u...It's not good to decide on a culprit based on speculation alone.v
+”Souko
+uExactly. We have to find definitive proof.v
+”Protagonist
+uYeah... I know. But... to find proof, something else has to happen, doesn't it...?v
+”Souko
+u...I don't think this will end with what happened today. We still haven't grasped the culprit's motive.v
 Souko-san muttered with a grave expression.

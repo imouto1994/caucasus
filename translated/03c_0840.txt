@@ -1,40 +1,40 @@
 After parting with Benio-san, I went down the stairs.
 Should I consult with Tsujimura-san as well...?
-ï¼ƒProtagonist
-ã€ŒTsujimura-san.ã€
+”Protagonist
+uTsujimura-san.v
 I called out to Tsujimura-san, who was at his desk.
-ï¼ƒTsujimura
-ã€ŒOh, is something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒDid you see Akane-san? She's reportedly nowhere to be found this morning...ã€
-ï¼ƒTsujimura
-ã€ŒHiyama-san? ...Now that you mention it, I haven't seen her...ã€
-ï¼ƒProtagonist
-ã€Œ...It's possible she disappeared during the night.ã€
-ï¼ƒTsujimura
-ã€ŒWhat... what does that mean?ã€
-ï¼ƒProtagonist
-ã€Œ...I don't want to think about it too much, but she might have been caught by the killer, or...ã€
+”Tsujimura
+uOh, is something the matter?v
+”Protagonist
+uDid you see Akane-san? She's reportedly nowhere to be found this morning...v
+”Tsujimura
+uHiyama-san? ...Now that you mention it, I haven't seen her...v
+”Protagonist
+u...It's possible she disappeared during the night.v
+”Tsujimura
+uWhat... what does that mean?v
+”Protagonist
+u...I don't want to think about it too much, but she might have been caught by the killer, or...v
 Another possibility occurred to me, and I trailed off.
-ï¼ƒTsujimura
-ã€ŒOr... what?ã€
-ï¼ƒProtagonist
-ã€ŒOr... she fled from this mansion.ã€
-ï¼ƒTsujimura
-ã€ŒFled...? But with this snow, she wouldn't be able to go anywhere...ã€
-ï¼ƒProtagonist
-ã€Œ...Yesterday, when we went to see the suspension bridge, Takamine-san said it. If there was no snow, you could climb down to the stream and walk...ã€
-ï¼ƒTsujimura
-ã€Œ...It's not impossible. However, in this blizzard over the last few days, one would surely meet with an accident...ã€
-ï¼ƒProtagonist
-ã€ŒLayering inference upon inference might be meaningless, but if she did go outside, why would she have to go that far...?ã€
-ï¼ƒTsujimura
-ã€ŒTo call the police... or maybe...ã€
-ï¼ƒProtagonist
-ã€ŒOr what?ã€
+”Tsujimura
+uOr... what?v
+”Protagonist
+uOr... she fled from this mansion.v
+”Tsujimura
+uFled...? But with this snow, she wouldn't be able to go anywhere...v
+”Protagonist
+u...Yesterday, when we went to see the suspension bridge, Takamine-san said it. If there was no snow, you could climb down to the stream and walk...v
+”Tsujimura
+u...It's not impossible. However, in this blizzard over the last few days, one would surely meet with an accident...v
+”Protagonist
+uLayering inference upon inference might be meaningless, but if she did go outside, why would she have to go that far...?v
+”Tsujimura
+uTo call the police... or maybe...v
+”Protagonist
+uOr what?v
 This time, I was the one asking.
-ï¼ƒTsujimura
-ã€ŒOr...ã€
+”Tsujimura
+uOr...v
 Tsujimura-san simply went silent.
 I had a vague idea of what he wanted to say.
 Or... Akane-san was the killer and she fled.
@@ -43,10 +43,10 @@ Tsujimura-san likely didn't want to think it either.
 That's why he trailed off.
 If it hadn't been for last night, I wouldn't have even considered it.
 Akane-san, who was doing something in the study.
-Dr. Mikanagi said he didn't think she was doing anything wrong, butâ€”in this situation, I might have no choice but to suspect her.
-ï¼ƒProtagonist
-ã€Œ...First, I'll search every corner of the mansion.ã€
-ï¼ƒTsujimura
-ã€ŒYes... that would be for the best...ã€
+Dr. Mikanagi said he didn't think she was doing anything wrong, but?in this situation, I might have no choice but to suspect her.
+”Protagonist
+u...First, I'll search every corner of the mansion.v
+”Tsujimura
+uYes... that would be for the best...v
 If she still wasn't found after that, what would it mean?
 I didn't want to think about that yet.

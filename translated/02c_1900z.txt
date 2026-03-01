@@ -1,76 +1,76 @@
-ï¼ƒProtagonist
-ã€ŒIs this about right?ã€
+”Protagonist
+uIs this about right?v
 I asked Souko-san.
-ï¼ƒSouko
-ã€ŒIf you say so, then I think it's fine.ã€
-ï¼ƒProtagonist
-ã€ŒBeing told that makes me feel anxious, thoughâ€¦â€¦ã€
+”Souko
+uIf you say so, then I think it's fine.v
+”Protagonist
+uBeing told that makes me feel anxious, thoughccv
 Keep investigating.
 That's probably enough.
 Let's try investigating a bit more.
 I might have overlooked something.
 I think I've investigated everything I can.
-ï¼ƒProtagonist
-ã€ŒThat should be enough.ã€
-ï¼ƒMikanagi
-ã€ŒWell thenâ€¦â€¦ let's pull her out.ã€
+”Protagonist
+uThat should be enough.v
+”Mikanagi
+uWell thencc let's pull her out.v
 We drained the water from the tub, and Dr. Mikanagi and I lifted Ai-san's body out together.
 We laid Ai-san's body down.
-ï¼ƒSouko
-ã€Œâ€¦â€¦Could you investigate the cause of death and such?ã€
-ï¼ƒMikanagi
-ã€ŒYesâ€¦â€¦ however, I might not be able to determine anything very clearly.ã€
+”Souko
+uccCould you investigate the cause of death and such?v
+”Mikanagi
+uYescc however, I might not be able to determine anything very clearly.v
 Dr. Mikanagi began his examination of the body.
-ï¼ƒMikanagi
-ã€ŒIf the head were still here, it would be clearer, butâ€¦â€¦ã€
-ï¼ƒSouko
-ã€ŒCan you at least determine the cause of death and the time of death?ã€
-ï¼ƒMikanagi
-ã€Œâ€¦â€¦Since she was in the water, I can't give an exact figure, but I don't think it's been even an hour since she died. As for the cause of deathâ€¦â€¦ I wonder which it wasâ€¦â€¦ã€
-ï¼ƒProtagonist
-ã€ŒWhichâ€¦â€¦ do you mean?ã€
-ï¼ƒMikanagi
-ã€ŒI can't tell which came first: the electrocution or the decapitation.ã€
+”Mikanagi
+uIf the head were still here, it would be clearer, butccv
+”Souko
+uCan you at least determine the cause of death and the time of death?v
+”Mikanagi
+uccSince she was in the water, I can't give an exact figure, but I don't think it's been even an hour since she died. As for the cause of deathcc I wonder which it wasccv
+”Protagonist
+uWhichcc do you mean?v
+”Mikanagi
+uI can't tell which came first: the electrocution or the decapitation.v
 Dr. Mikanagi shook his head.
-ï¼ƒMikanagi
-ã€ŒIt's thought that both occurred at almost the same time. However, if the decapitation came first, I can't find any meaning in what was done afterward.ã€
-ï¼ƒSouko
-ã€Œâ€¦â€¦True, there would be no point in electrocuting a corpse.ã€
-ï¼ƒProtagonist
-ã€ŒThenâ€¦â€¦ as I thoughtâ€¦â€¦ã€
-ï¼ƒMikanagi
-ã€ŒIt's safer to assume she was decapitated after being killed by electrocution, or at least after falling unconscious from it.ã€
-ï¼ƒSouko
-ã€ŒBut if that's the case, doesn't that raise a question about the timing? The second blackout was just after six, and when you found Ai-san it wasâ€”â€”ã€
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦Only a little over ten minutes had passed since then.ã€
-ï¼ƒMikanagi
-ã€ŒThat would be enough time to sever a neck, butâ€¦â€¦ the number of people capable of doing it would be limited.ã€
-ï¼ƒSouko
-ã€ŒLet's try questioning everyone about that later.ã€
-ï¼ƒProtagonist
-ã€ŒUmâ€¦â€¦ Souko-san.ã€
-ï¼ƒSouko
-ã€ŒWhat is it?ã€
-ï¼ƒProtagonist
-ã€ŒCould it beâ€¦â€¦ that I was the one who killed Ai-sanâ€¦â€¦ã€
+”Mikanagi
+uIt's thought that both occurred at almost the same time. However, if the decapitation came first, I can't find any meaning in what was done afterward.v
+”Souko
+uccTrue, there would be no point in electrocuting a corpse.v
+”Protagonist
+uThencc as I thoughtccv
+”Mikanagi
+uIt's safer to assume she was decapitated after being killed by electrocution, or at least after falling unconscious from it.v
+”Souko
+uBut if that's the case, doesn't that raise a question about the timing? The second blackout was just after six, and when you found Ai-san it was??v
+”Protagonist
+uccOnly a little over ten minutes had passed since then.v
+”Mikanagi
+uThat would be enough time to sever a neck, butcc the number of people capable of doing it would be limited.v
+”Souko
+uLet's try questioning everyone about that later.v
+”Protagonist
+uUmcc Souko-san.v
+”Souko
+uWhat is it?v
+”Protagonist
+uCould it becc that I was the one who killed Ai-sanccv
 I was the one who fixed the generator.
-If Ai-san died because the power was turned onâ€”â€”
-ï¼ƒSouko
-ã€Œâ€¦â€¦That's not true.ã€
+If Ai-san died because the power was turned on??
+”Souko
+uccThat's not true.v
 Souko-san placed her hand on my head.
-ï¼ƒProtagonist
-ã€ŒButâ€¦â€¦ if I hadn't turned the generator back onâ€”â€”ã€
-ï¼ƒSouko
-ã€ŒNo. It was the culprit who set things up to turn out that way.ã€
+”Protagonist
+uButcc if I hadn't turned the generator back on??v
+”Souko
+uNo. It was the culprit who set things up to turn out that way.v
 Souko-san said this while looking me straight in the eyes.
-ï¼ƒMikanagi
-ã€Œâ€¦â€¦That's right. Someone had to fix the generator regardless. Besidesâ€¦â€¦ Ai-san would likely have been killed even if the blackout had continued.ã€
-ï¼ƒSouko
-ã€Œâ€¦â€¦I suppose so. I don't know why they would use such a roundabout method, thoughâ€¦â€¦ã€
+”Mikanagi
+uccThat's right. Someone had to fix the generator regardless. Besidescc Ai-san would likely have been killed even if the blackout had continued.v
+”Souko
+uccI suppose so. I don't know why they would use such a roundabout method, thoughccv
 Souko-san pulled on my hand.
-ï¼ƒSouko
-ã€ŒLet's head back. You can ask the culprit about their intentions after we catch them.ã€
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦Yes.ã€
+”Souko
+uLet's head back. You can ask the culprit about their intentions after we catch them.v
+”Protagonist
+uccYes.v
 Filled with an indescribable sense of gloom, I let Souko-san lead me by the hand as we left Ai-san's room.

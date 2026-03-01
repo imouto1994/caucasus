@@ -32,11 +32,23 @@
 
 import { readFile, readdir, writeFile, mkdir } from "fs/promises";
 import path from "path";
+import Encoding from "encoding-japanese";
 
 const INPUT_DIR = "gemini-translation-text";
 const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated";
 const OUTPUT_VERTICAL_DIR = "translated-vertical";
+
+/**
+ * Encode a Unicode string to a Shift-JIS Buffer.
+ */
+function encodeShiftJIS(str) {
+  const codeArray = Encoding.convert(Encoding.stringToCode(str), {
+    to: "SJIS",
+    from: "UNICODE",
+  });
+  return Buffer.from(codeArray);
+}
 
 const HEADER_DASHES = "-".repeat(20);
 const SEPARATOR_DASHES = "-".repeat(80);
@@ -188,7 +200,7 @@ async function main() {
         : OUTPUT_DIR;
 
       const outputPath = path.join(outDir, entry.fileName);
-      await writeFile(outputPath, entry.contentLines.join("\n"), "utf-8");
+      await writeFile(outputPath, encodeShiftJIS(entry.contentLines.join("\n")));
 
       if (outDir === OUTPUT_VERTICAL_DIR) {
         exportedVerticalCount++;

@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒNarumi-san? Doesn't she seem totally unmotivated? The food was delicious, though...ã€
-ï¼ƒProtagonist
-ã€Œ...I suppose so.ã€
-ï¼ƒMaya
-ã€ŒNarumi? Her talent for cooking is wonderful. However... I do wish she would take things a bit more seriously...ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒAi
-ã€ŒNarumi-san... Her cooking is always delicious, but... well, her other duties are a bit...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒNarumi? Only her cooking skills are first-class. As for the rest... well, you can imagine.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMinakami-san... It would be a great help to me if she worked as diligently on things other than cooking...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMinakami-kun... I don't know her well. The food isn't bad, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒNarumi-san? Her cooking is delicious. As for anything else... I really wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒNarumi-san? She's primarily in charge of the cooking... I believe she's in the kitchen right now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒAbout me? Why would you ask that? ...Oh, don't tell me you've got a thing for me...?ã€
-ï¼ƒProtagonist
-ã€Œ...As if that would ever be the case.ã€
+”Souko
+uNarumi-san? Doesn't she seem totally unmotivated? The food was delicious, though...v
+”Protagonist
+u...I suppose so.v
+”Maya
+uNarumi? Her talent for cooking is wonderful. However... I do wish she would take things a bit more seriously...v
+”Protagonist
+u...I see.v
+”Ai
+uNarumi-san... Her cooking is always delicious, but... well, her other duties are a bit...v
+”Protagonist
+uI see...v
+”Benio
+uNarumi? Only her cooking skills are first-class. As for the rest... well, you can imagine.v
+”Protagonist
+uI see...v
+”Tsujimura
+uMinakami-san... It would be a great help to me if she worked as diligently on things other than cooking...v
+”Protagonist
+uI see...v
+”Takamine
+uMinakami-kun... I don't know her well. The food isn't bad, though...v
+”Protagonist
+uI see.v
+”Mikanagi
+uNarumi-san? Her cooking is delicious. As for anything else... I really wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uNarumi-san? She's primarily in charge of the cooking... I believe she's in the kitchen right now.v
+”Protagonist
+uI see.v
+”Narumi
+uAbout me? Why would you ask that? ...Oh, don't tell me you've got a thing for me...?v
+”Protagonist
+u...As if that would ever be the case.v

@@ -1,60 +1,60 @@
 I've returned to the hall.
 I turn my head at the sound of a bell.
 A black cat is looking down at me from halfway up the stairs.
-ï¼ƒProtagonist
-ã€ŒLoveâ€¦â€¦?ã€
+”Protagonist
+uLovecc?v
 It's not as if it responded to my call.
 The black cat is looking up toward the second floor.
 Benio-san is standing at the top of the stairs.
-ï¼ƒBenio
-ã€ŒSo this is where you were.ã€
+”Benio
+uSo this is where you were.v
 I wonder which of us those words were addressed to, me or the cat.
-ï¼ƒBenio
-ã€ŒWas Shion safe?ã€
+”Benio
+uWas Shion safe?v
 She speaks to me as she picks up the black cat and walks down the stairs.
-ï¼ƒProtagonist
-ã€ŒYeahâ€¦â€¦ã€
-ï¼ƒBenio
-ã€ŒI see.ã€
-ï¼ƒProtagonist
-ã€ŒIt's dangerous for you too, Benio-san, so please stay quiet in your room.ã€
-ï¼ƒBenio
-ã€ŒI know. But wouldn't it be safer if I were with you?ã€
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦Is that because you think I'm not the culprit?ã€
-ï¼ƒBenio
-ã€ŒThere's no evidence that you aren't the culprit. But that's not it, I just feel at ease when you're nearby.ã€
-ï¼ƒProtagonist
-ã€Œâ€¦â€¦Are you serious?ã€
-ï¼ƒBenio
-ã€ŒOf course I am, don't you think?ã€
+”Protagonist
+uYeahccv
+”Benio
+uI see.v
+”Protagonist
+uIt's dangerous for you too, Benio-san, so please stay quiet in your room.v
+”Benio
+uI know. But wouldn't it be safer if I were with you?v
+”Protagonist
+uccIs that because you think I'm not the culprit?v
+”Benio
+uThere's no evidence that you aren't the culprit. But that's not it, I just feel at ease when you're nearby.v
+”Protagonist
+uccAre you serious?v
+”Benio
+uOf course I am, don't you think?v
 Benio-san smiles.
 The door at the bottom of the stairs opens, and Tsujimura-san appears.
-ï¼ƒTsujimura
-ã€ŒOh, Miss Benio.ã€
-ï¼ƒBenio
-ã€Œâ€¦â€¦Tsujimura, were you listening?ã€
-ï¼ƒTsujimura
-ã€ŒWhatever do you mean?ã€
+”Tsujimura
+uOh, Miss Benio.v
+”Benio
+uccTsujimura, were you listening?v
+”Tsujimura
+uWhatever do you mean?v
 He doesn't look like he's feigning ignorance.
 He was likely tinkering with the generator in the basement.
-ï¼ƒBenio
-ã€Œâ€¦â€¦Never mind, don't worry about it.ã€
-ï¼ƒTsujimura
-ã€ŒAs you wish.ã€
+”Benio
+uccNever mind, don't worry about it.v
+”Tsujimura
+uAs you wish.v
 Tsujimura-san bows.
-ï¼ƒBenio
-ã€ŒI'm going back to my room.ã€
+”Benio
+uI'm going back to my room.v
 Leaving only those words, Benio-san heads back up the stairs holding the black cat.
-ï¼ƒTsujimura
-ã€Œâ€¦â€¦Do you have a moment?ã€
-ï¼ƒProtagonist
-ã€ŒEh, me?ã€
+”Tsujimura
+uccDo you have a moment?v
+”Protagonist
+uEh, me?v
 Called out to suddenly, I turn to face Tsujimura-san.
-ï¼ƒTsujimura
-ã€ŒIt wouldn't do to talk here, so shall we head to the office?ã€
-ï¼ƒProtagonist
-ã€ŒEh, yeah. I don't mind.ã€
-ï¼ƒTsujimura
-ã€ŒThen, this way.ã€
+”Tsujimura
+uIt wouldn't do to talk here, so shall we head to the office?v
+”Protagonist
+uEh, yeah. I don't mind.v
+”Tsujimura
+uThen, this way.v
 I follow Tsujimura-san to the office.

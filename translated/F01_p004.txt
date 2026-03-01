@@ -1,44 +1,44 @@
-ï¼ƒSouko
-ã€ŒBenio-san? ...Well, I still don't quite have a read on her. It feels like sheâ€™s putting on an act, though...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒBenio? She's a bit peculiar, but she's a good girl.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAbout Benio? She has her quirks, but she isn't a bad child.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒAbout me? ...I don't really have much to tell you...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒBenio
-ã€ŒYes, well...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLady Benio? ...I have nothing in particular to say on that matter...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒBenio? She's a very sweet girl. A bit eccentric, perhaps.ã€
-ï¼ƒProtagonist
-ã€Œ...Is that right?ã€
-ï¼ƒTakamine
-ã€ŒBenio-kun... well, she is certainly unconventional...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒBenio-san? She's an interesting one.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAkane
-ã€ŒLady Benio? Wouldn't she be in her room?ã€
-ï¼ƒProtagonist
-ã€ŒAh... I suppose so.ã€
-ï¼ƒNarumi
-ã€ŒLady Benio? ...Well, it's not my place to say anything.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uBenio-san? ...Well, I still don't quite have a read on her. It feels like shefs putting on an act, though...v
+”Protagonist
+uI see...v
+”Maya
+uBenio? She's a bit peculiar, but she's a good girl.v
+”Protagonist
+uI see.v
+”Ai
+uAbout Benio? She has her quirks, but she isn't a bad child.v
+”Protagonist
+uI see.v
+”Benio
+uAbout me? ...I don't really have much to tell you...v
+”Protagonist
+uIs that so?v
+”Benio
+uYes, well...v
+”Protagonist
+uI see...v
+”Tsujimura
+uLady Benio? ...I have nothing in particular to say on that matter...v
+”Protagonist
+uI see...v
+”Rokuyou
+uBenio? She's a very sweet girl. A bit eccentric, perhaps.v
+”Protagonist
+u...Is that right?v
+”Takamine
+uBenio-kun... well, she is certainly unconventional...v
+”Protagonist
+uI see...v
+”Mikanagi
+uBenio-san? She's an interesting one.v
+”Protagonist
+uIs that so...v
+”Akane
+uLady Benio? Wouldn't she be in her room?v
+”Protagonist
+uAh... I suppose so.v
+”Narumi
+uLady Benio? ...Well, it's not my place to say anything.v
+”Protagonist
+uI see...v

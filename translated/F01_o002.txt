@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒA will, huh... I'm certainly curious about what he left behind...ã€
-ï¼ƒProtagonist
-ã€ŒMe too...ã€
-ï¼ƒMaya
-ã€ŒI'm sorry, but... the contents are not something to be discussed lightly with an outsider...ã€
-ï¼ƒProtagonist
-ã€ŒOf course...ã€
-ï¼ƒAi
-ã€ŒThe will? I don't know the specific details, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒMy father's will... if you wish to know its contents, why not ask Mr. Takamine?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€Œ...Regarding that matter, there is nothing I can say from my position.ã€
-ï¼ƒProtagonist
-ã€ŒI understand...ã€
-ï¼ƒRokuyou
-ã€ŒThe previous head's will? ...Well, I know the contents, but it doesn't really concern me.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒThere's no way I could speak of it to an outsider like you.ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒMikanagi
-ã€ŒThat is... not a matter I am in a position to comment on.ã€
-ï¼ƒProtagonist
-ã€ŒI understand...ã€
-ï¼ƒAkane
-ã€ŒThe will...? I believe the lawyer, Mr. Takamine, might know something.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒA will, huh... I suppose it's about the distribution of the inheritance and such... but I don't know the fine details.ã€
-ï¼ƒProtagonist
-ã€ŒOf course.ã€
+”Souko
+uA will, huh... I'm certainly curious about what he left behind...v
+”Protagonist
+uMe too...v
+”Maya
+uI'm sorry, but... the contents are not something to be discussed lightly with an outsider...v
+”Protagonist
+uOf course...v
+”Ai
+uThe will? I don't know the specific details, but...v
+”Protagonist
+uI see...v
+”Benio
+uMy father's will... if you wish to know its contents, why not ask Mr. Takamine?v
+”Protagonist
+uI see...v
+”Tsujimura
+u...Regarding that matter, there is nothing I can say from my position.v
+”Protagonist
+uI understand...v
+”Rokuyou
+uThe previous head's will? ...Well, I know the contents, but it doesn't really concern me.v
+”Protagonist
+uI see...v
+”Takamine
+uThere's no way I could speak of it to an outsider like you.v
+”Protagonist
+uY-You're right...v
+”Mikanagi
+uThat is... not a matter I am in a position to comment on.v
+”Protagonist
+uI understand...v
+”Akane
+uThe will...? I believe the lawyer, Mr. Takamine, might know something.v
+”Protagonist
+uI see.v
+”Narumi
+uA will, huh... I suppose it's about the distribution of the inheritance and such... but I don't know the fine details.v
+”Protagonist
+uOf course.v

@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒI believe Benio-san was in the dining hall the entire time. She was already there when I arrived.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒI was in the dining hall the whole time. Kirihara-san arrived around noon, so you should confirm it with her.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI was in the office the entire time, so I did not happen to see Lady Benio...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒLady Benio was in the dining hall. She was with Mistress Kirihara.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒIf it's Lady Benio, I'd expect she was in the dining hall.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uI believe Benio-san was in the dining hall the entire time. She was already there when I arrived.v
+”Protagonist
+uI see...v
+”Benio
+uI was in the dining hall the whole time. Kirihara-san arrived around noon, so you should confirm it with her.v
+”Protagonist
+uI see...v
+”Tsujimura
+uI was in the office the entire time, so I did not happen to see Lady Benio...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uLady Benio was in the dining hall. She was with Mistress Kirihara.v
+”Protagonist
+uI see...v
+”Narumi
+uIf it's Lady Benio, I'd expect she was in the dining hall.v
+”Protagonist
+uI see...v

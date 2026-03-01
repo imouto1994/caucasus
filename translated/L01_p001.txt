@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAround two o'clock? I was in your room then, wasn't I?ã€
-ï¼ƒProtagonist
-ã€ŒAh, that's right.ã€
-ï¼ƒMaya
-ã€ŒI feel terribly sorry that Mistress Kirihara has been dragged into such an ordeal.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...Is something the matter with Mistress Kirihara? She shouldn't have any connection to Isamu-san, but...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€Œ...As someone with no ties to this house, I doubt anyone is better suited to play the role of detective than her.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒShion
-ã€ŒI don't really understand, but... I am sorry.ã€
-ï¼ƒProtagonist
-ã€ŒY-You're right...ã€
-ï¼ƒTsujimura
-ã€ŒI am deeply sorry for the terrible trouble we have caused Mistress Kirihara and her companion...ã€
-ï¼ƒProtagonist
-ã€ŒNo, please don't let it worry you...ã€
-ï¼ƒTakamine
-ã€ŒNormally one would be shaken after something like this, but she is remarkably composed.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMikanagi
-ã€ŒKirihara-san, huh... She seems strong, but you have to be the one to support her.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah...ã€
-ï¼ƒAkane
-ã€ŒMistress Kirihara? I don't see any particular problem with her...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒKirihara-san? Nothing seems strange about her.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAround two o'clock? I was in your room then, wasn't I?v
+”Protagonist
+uAh, that's right.v
+”Maya
+uI feel terribly sorry that Mistress Kirihara has been dragged into such an ordeal.v
+”Protagonist
+uI see...v
+”Ai
+u...Is something the matter with Mistress Kirihara? She shouldn't have any connection to Isamu-san, but...v
+”Protagonist
+uTrue...v
+”Benio
+u...As someone with no ties to this house, I doubt anyone is better suited to play the role of detective than her.v
+”Protagonist
+uI-I see...v
+”Shion
+uI don't really understand, but... I am sorry.v
+”Protagonist
+uY-You're right...v
+”Tsujimura
+uI am deeply sorry for the terrible trouble we have caused Mistress Kirihara and her companion...v
+”Protagonist
+uNo, please don't let it worry you...v
+”Takamine
+uNormally one would be shaken after something like this, but she is remarkably composed.v
+”Protagonist
+uTrue...v
+”Mikanagi
+uKirihara-san, huh... She seems strong, but you have to be the one to support her.v
+”Protagonist
+uY-Yeah...v
+”Akane
+uMistress Kirihara? I don't see any particular problem with her...v
+”Protagonist
+uI see...v
+”Narumi
+uKirihara-san? Nothing seems strange about her.v
+”Protagonist
+uI see...v

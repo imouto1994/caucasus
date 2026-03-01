@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒAkane-san, huh... I can't really see a motive for her to target Ai-san.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒIf it's Akane, I imagine she would have been preparing dinner or something around that time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒI don't see any reason for Akane to kill my sister, but... maybe we'll find something if we dig a bit...ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒI believe Akane-san was in the grand hall...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒAs for Mistress Hiyama, I believe she would have been preparing dinner around that time...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI don't know what Akane-san was doing...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe lights went out while I was cleaning the grand hall, so I just stayed still without moving for a while...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒAs for Akane, she was in the grand hall. Apparently, she didn't move an inch while the power was out.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAkane-san, huh... I can't really see a motive for her to target Ai-san.v
+”Protagonist
+uI see...v
+”Maya
+uIf it's Akane, I imagine she would have been preparing dinner or something around that time.v
+”Protagonist
+uI see...v
+”Benio
+uI don't see any reason for Akane to kill my sister, but... maybe we'll find something if we dig a bit...v
+”Protagonist
+uTrue...v
+”Shion
+uI believe Akane-san was in the grand hall...v
+”Protagonist
+uI see...v
+”Tsujimura
+uAs for Mistress Hiyama, I believe she would have been preparing dinner around that time...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI don't know what Akane-san was doing...v
+”Protagonist
+uI see...v
+”Akane
+uThe lights went out while I was cleaning the grand hall, so I just stayed still without moving for a while...v
+”Protagonist
+uI see...v
+”Narumi
+uAs for Akane, she was in the grand hall. Apparently, she didn't move an inch while the power was out.v
+”Protagonist
+uI see...v

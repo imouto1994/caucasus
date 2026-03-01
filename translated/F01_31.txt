@@ -1,25 +1,25 @@
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Dr. Mikanagi, who was at his desk, looked up.
-ï¼ƒMikanagi
-ã€ŒOh, what is it?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, I don't mind.ã€
+”Mikanagi
+uOh, what is it?v
+”Protagonist
+uDo you have a moment?v
+”Mikanagi
+uYes, I don't mind.v
 Now then, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Dr. Mikanagi, who was at his desk, looked up.
-ï¼ƒMikanagi
-ã€ŒOh, what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒDo you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, please.ã€
+”Mikanagi
+uOh, what is it this time?v
+”Protagonist
+uDo you have a moment?v
+”Mikanagi
+uYes, please.v
 Now then, what should I do?
-ï¼ƒProtagonist
-ã€ŒExcuse me.ã€
+”Protagonist
+uExcuse me.v
 When I entered the infirmary, Dr. Mikanagi was nowhere to be seen.
 Maybe he's gone somewhere else.
 Now then, what should I do?

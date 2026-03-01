@@ -1,63 +1,63 @@
-Iâ€™ve come to Benio-san's room on the second floor.
+Ifve come to Benio-san's room on the second floor.
 I wonder if she's in.
 I knock on the door.
-ï¼ƒBenio
-ã€ŒYes... oh, it's you.ã€
-ï¼ƒProtagonist
-ã€ŒHello, Benio-san. Do you have a moment?ã€
-ï¼ƒBenio
-ã€ŒI don't mind. Come in.ã€
+”Benio
+uYes... oh, it's you.v
+”Protagonist
+uHello, Benio-san. Do you have a moment?v
+”Benio
+uI don't mind. Come in.v
 Benio-san invited me into her room.
-ï¼ƒBenio
-ã€ŒSo, what do you want?ã€
-ï¼ƒProtagonist
-ã€ŒDid you notice the explosion earlier?ã€
-ï¼ƒBenio
-ã€ŒExplosion...? Was there such a thing?ã€
-ï¼ƒProtagonist
-ã€ŒYes, well... it seems something was rigged in the kitchen.ã€
-ï¼ƒBenio
-ã€ŒAny injuries?ã€
-ï¼ƒProtagonist
-ã€ŒNarumi-san suffered a light injury.ã€
-ï¼ƒProtagonist
-ã€ŒAkane-san suffered a light injury.ã€
-ï¼ƒBenio
-ã€ŒI see... no threat to her life, then?ã€
-ï¼ƒProtagonist
-ã€ŒNo.ã€
-ï¼ƒBenio
-ã€ŒThatâ€™s good to hear. ...I think Iâ€™ll go take a look myself later.ã€
-ï¼ƒProtagonist
-ã€ŒPlease be careful.ã€
-ï¼ƒBenio
-ã€ŒI know. Is that all?ã€
-ï¼ƒProtagonist
-ã€ŒWell, you see...ã€
-Iâ€™ve come to Benio-san's room on the second floor.
+”Benio
+uSo, what do you want?v
+”Protagonist
+uDid you notice the explosion earlier?v
+”Benio
+uExplosion...? Was there such a thing?v
+”Protagonist
+uYes, well... it seems something was rigged in the kitchen.v
+”Benio
+uAny injuries?v
+”Protagonist
+uNarumi-san suffered a light injury.v
+”Protagonist
+uAkane-san suffered a light injury.v
+”Benio
+uI see... no threat to her life, then?v
+”Protagonist
+uNo.v
+”Benio
+uThatfs good to hear. ...I think Ifll go take a look myself later.v
+”Protagonist
+uPlease be careful.v
+”Benio
+uI know. Is that all?v
+”Protagonist
+uWell, you see...v
+Ifve come to Benio-san's room on the second floor.
 I knock on the door and wait for a while.
-ï¼ƒBenio
-ã€ŒWho is it... oh, you again.ã€
-ï¼ƒProtagonist
-ã€ŒHello, Benio-san. Do you have a moment?ã€
-ï¼ƒBenio
-ã€ŒWell, I don't mind.ã€
+”Benio
+uWho is it... oh, you again.v
+”Protagonist
+uHello, Benio-san. Do you have a moment?v
+”Benio
+uWell, I don't mind.v
 Benio-san invited me into her room.
-ï¼ƒBenio
-ã€ŒSo, what do you want?ã€
+”Benio
+uSo, what do you want?v
 Benio-san asks with a formal tone.
-ï¼ƒProtagonist
-ã€ŒWell, you see...ã€
-Iâ€™ve come to Benio-san's room on the second floor.
+”Protagonist
+uWell, you see...v
+Ifve come to Benio-san's room on the second floor.
 I wonder if she's in.
 I knock on the door.
-ï¼ƒProtagonist
-ã€ŒHuh... I guess she's not in.ã€
+”Protagonist
+uHuh... I guess she's not in.v
 No matter how long I wait, there is no response.
 She must be somewhere else.
 I decided to head for another location as well.
-Iâ€™ve come to Benio-san's room on the second floor.
+Ifve come to Benio-san's room on the second floor.
 I have no more business here, but...
-ï¼ƒProtagonist
-ã€Œ...Let's head elsewhere.ã€
+”Protagonist
+u...Let's head elsewhere.v
 I offered a brief, silent prayer toward the door and decided to move on.

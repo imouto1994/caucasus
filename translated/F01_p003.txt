@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAbout Ai-san? She definitely feels like a proper young lady.ã€
-ï¼ƒProtagonist
-ã€ŒYeah.ã€
-ï¼ƒMaya
-ã€ŒAi? She's a quiet girl who's always lost in her books.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒAbout me? Um... I don't really have anything to talk about, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒMy sister? She is a quiet and good elder sister.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai? She's always reading her books.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒRokuyou
-ã€ŒAbout Ai? We're childhood friends, so I'd say we're on good terms.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒAbout Ai-kun? She's been a quiet girl since she was small, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒAi-san, huh... she has times where her emotions can be quite intense.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAkane
-ã€ŒLady Ai? I believe she would be in her room right now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒLady Ai? She's often in the archive reading books.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uAbout Ai-san? She definitely feels like a proper young lady.v
+”Protagonist
+uYeah.v
+”Maya
+uAi? She's a quiet girl who's always lost in her books.v
+”Protagonist
+uI see.v
+”Ai
+uAbout me? Um... I don't really have anything to talk about, but...v
+”Protagonist
+uI see...v
+”Benio
+uMy sister? She is a quiet and good elder sister.v
+”Protagonist
+uI see...v
+”Tsujimura
+uLady Ai? She's always reading her books.v
+”Protagonist
+uI see.v
+”Rokuyou
+uAbout Ai? We're childhood friends, so I'd say we're on good terms.v
+”Protagonist
+uI see...v
+”Takamine
+uAbout Ai-kun? She's been a quiet girl since she was small, but...v
+”Protagonist
+uI see.v
+”Mikanagi
+uAi-san, huh... she has times where her emotions can be quite intense.v
+”Protagonist
+uIs that so...v
+”Akane
+uLady Ai? I believe she would be in her room right now.v
+”Protagonist
+uI see.v
+”Narumi
+uLady Ai? She's often in the archive reading books.v
+”Protagonist
+uI see.v

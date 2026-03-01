@@ -1,163 +1,163 @@
 Souko-san and Tsujimura-san were in the devastated kitchen.
-ï¼ƒProtagonist
-ã€ŒSouko-san, how does it look?ã€
-ï¼ƒSouko
-ã€Œ...It seems the explosion was indeed caused intentionally.ã€
+”Protagonist
+uSouko-san, how does it look?v
+”Souko
+u...It seems the explosion was indeed caused intentionally.v
 Souko-san was holding something that looked like a thin string.
-ï¼ƒProtagonist
-ã€ŒWhat's that...?ã€
-ï¼ƒSouko
-ã€ŒIt looks like a lead wire. I found some charred batteries too, so they likely rigged the doorknob so that opening it would trigger a spark.ã€
-ï¼ƒTsujimura
-ã€ŒBut, who would do such a thing...ã€
-ï¼ƒSouko
-ã€ŒThe culprit, obviously.ã€
+”Protagonist
+uWhat's that...?v
+”Souko
+uIt looks like a lead wire. I found some charred batteries too, so they likely rigged the doorknob so that opening it would trigger a spark.v
+”Tsujimura
+uBut, who would do such a thing...v
+”Souko
+uThe culprit, obviously.v
 Souko-san stated firmly.
-ï¼ƒSouko
-ã€ŒNo one else would do something like this in a situation like this.ã€
-ï¼ƒProtagonist
-ã€ŒBut, why would they do this?ã€
+”Souko
+uNo one else would do something like this in a situation like this.v
+”Protagonist
+uBut, why would they do this?v
 That was the question I just couldn't get out of my head.
-ï¼ƒSouko
-ã€ŒWell, clearly to kill someone elseâ€”ã€
+”Souko
+uWell, clearly to kill someone else?v
 Souko-san stopped mid-sentence.
-ï¼ƒProtagonist
-ã€ŒIt's strange. Setting a trap when you can't be sure who will get caught in it.ã€
-ï¼ƒSouko
-ã€ŒYou're right... indeed, the target was unspecified... meaning anyone would have done...?ã€
-ï¼ƒProtagonist
-ã€Œ...I wonder.ã€
+”Protagonist
+uIt's strange. Setting a trap when you can't be sure who will get caught in it.v
+”Souko
+uYou're right... indeed, the target was unspecified... meaning anyone would have done...?v
+”Protagonist
+u...I wonder.v
 I might need to investigate that part further.
-ï¼ƒTsujimura
-ã€ŒBut... whatever shall we do now...?ã€
-ï¼ƒSouko
-ã€ŒWell... at the very least, it doesn't look like we'll be preparing meals here.ã€
+”Tsujimura
+uBut... whatever shall we do now...?v
+”Souko
+uWell... at the very least, it doesn't look like we'll be preparing meals here.v
 Souko-san tried to open the lid of the kiln but quickly gave up.
-ï¼ƒSouko
-ã€ŒThis is warped too...ã€
-ï¼ƒTsujimura
-ã€ŒIt might be best to seal this area off for the time being.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Souko
+uThis is warped too...v
+”Tsujimura
+uIt might be best to seal this area off for the time being.v
+”Protagonist
+uYou're right...v
 I decided to leave the kitchen.
 Souko-san and Tsujimura-san were still in the kitchen.
-ï¼ƒTsujimura
-ã€ŒOh, what's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHave you discovered anything else?ã€
-ï¼ƒSouko
-ã€ŒI'm still in the middle of investigating. If you want to know more, come back after a little more time has passed.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+”Tsujimura
+uOh, what's the matter?v
+”Protagonist
+uHave you discovered anything else?v
+”Souko
+uI'm still in the middle of investigating. If you want to know more, come back after a little more time has passed.v
+”Protagonist
+uUnderstood.v
 It can't be helped; I'll head elsewhere.
 Souko-san was in the kitchen.
-ï¼ƒSouko
-ã€ŒHave you come to investigate too?ã€
-ï¼ƒProtagonist
-ã€ŒYeah, have you found anything out?ã€
-ï¼ƒSouko
-ã€ŒHmm... mostly that since the amount of accumulated gas was low, the explosion wasn't all that massive.ã€
-ï¼ƒProtagonist
-ã€ŒDo you know when the gas started leaking?ã€
+”Souko
+uHave you come to investigate too?v
+”Protagonist
+uYeah, have you found anything out?v
+”Souko
+uHmm... mostly that since the amount of accumulated gas was low, the explosion wasn't all that massive.v
+”Protagonist
+uDo you know when the gas started leaking?v
 Souko-san shook her head at my question.
-ï¼ƒSouko
-ã€ŒI can't say for sure because I don't know how far the gas valve was open or the exact volume at the time of the blast. But I don't think much time had passed.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uI can't say for sure because I don't know how far the gas valve was open or the exact volume at the time of the blast. But I don't think much time had passed.v
+”Protagonist
+uI see...v
 Determining the exact time seems impossible.
-ï¼ƒSouko
-ã€Œ...Regardless, this leaves a nasty taste in my mouth.ã€
+”Souko
+u...Regardless, this leaves a nasty taste in my mouth.v
 Souko-san muttered under her breath.
-ï¼ƒProtagonist
-ã€ŒSouko-san?ã€
-ï¼ƒSouko
-ã€Œ...Fire consumes everything. Even a gas explosion is no different.ã€
-ï¼ƒProtagonist
-ã€ŒRight... well, I'll go check some other places.ã€
-ï¼ƒSouko
-ã€Œ...Yes, be careful.ã€
+”Protagonist
+uSouko-san?v
+”Souko
+u...Fire consumes everything. Even a gas explosion is no different.v
+”Protagonist
+uRight... well, I'll go check some other places.v
+”Souko
+u...Yes, be careful.v
 Souko-san was still in the kitchen.
-ï¼ƒProtagonist
-ã€ŒHow is it going?ã€
-ï¼ƒSouko
-ã€Œ...I don't think I'm going to find much else.ã€
+”Protagonist
+uHow is it going?v
+”Souko
+u...I don't think I'm going to find much else.v
 Souko-san let out a long breath.
-ï¼ƒSouko
-ã€ŒI don't want to stay too long in a place that reeks of soot like this.ã€
-ï¼ƒProtagonist
-ã€ŒI suppose not...ã€
+”Souko
+uI don't want to stay too long in a place that reeks of soot like this.v
+”Protagonist
+uI suppose not...v
 I'll head somewhere else.
 I entered the kitchen, but no one was there.
 I took a look around, but the place had been left a mess by the explosion.
 Souko-san has likely finished her investigation, and I shouldn't go around disturbing the scene...
 When I entered the kitchen, Benio-san was looking around the room.
-ï¼ƒProtagonist
-ã€ŒBenio-san...ã€
-ï¼ƒBenio
-ã€ŒOh, it's you.ã€
-ï¼ƒProtagonist
-ã€ŒAre you investigating?ã€
-ï¼ƒBenio
-ã€ŒYeah.ã€
-ï¼ƒProtagonist
-ã€ŒI think Souko-san already checked this place earlier...ã€
-ï¼ƒBenio
-ã€ŒThere might be something she overlooked, don't you think?ã€
-ï¼ƒProtagonist
-ã€ŒI doubt that would happen with Souko-san...ã€
-ï¼ƒBenio
-ã€Œ...You certainly take her side an awful lot.ã€
-ï¼ƒProtagonist
-ã€ŒEh? You think so?ã€
-ï¼ƒBenio
-ã€ŒYou're not even aware of it... well, fine. How do you see this incident?ã€
-ï¼ƒProtagonist
-ã€ŒMe? ...Well, I don't think it was just an accident...ã€
+”Protagonist
+uBenio-san...v
+”Benio
+uOh, it's you.v
+”Protagonist
+uAre you investigating?v
+”Benio
+uYeah.v
+”Protagonist
+uI think Souko-san already checked this place earlier...v
+”Benio
+uThere might be something she overlooked, don't you think?v
+”Protagonist
+uI doubt that would happen with Souko-san...v
+”Benio
+u...You certainly take her side an awful lot.v
+”Protagonist
+uEh? You think so?v
+”Benio
+uYou're not even aware of it... well, fine. How do you see this incident?v
+”Protagonist
+uMe? ...Well, I don't think it was just an accident...v
 I stated exactly what I was thinking.
-ï¼ƒBenio
-ã€ŒHmm... and if you believe it wasn't a simple accident, you must have a reason for that, naturally?ã€
-ï¼ƒProtagonist
-ã€ŒI don't have some perfectly plausible reason, but... it's just unthinkable that an accident like this would happen purely by chance.ã€
-ï¼ƒBenio
-ã€ŒMost accidents happen by chance, don't they? Though in many cases, there is a human element behind the cause...ã€
-ï¼ƒProtagonist
-ã€ŒWell, explosions don't just happen if nobody does anything.ã€
-ï¼ƒBenio
-ã€ŒIn other words, someone did this intentionally. But why?ã€
-ï¼ƒProtagonist
-ã€ŒWhy... indeed...ã€
+”Benio
+uHmm... and if you believe it wasn't a simple accident, you must have a reason for that, naturally?v
+”Protagonist
+uI don't have some perfectly plausible reason, but... it's just unthinkable that an accident like this would happen purely by chance.v
+”Benio
+uMost accidents happen by chance, don't they? Though in many cases, there is a human element behind the cause...v
+”Protagonist
+uWell, explosions don't just happen if nobody does anything.v
+”Benio
+uIn other words, someone did this intentionally. But why?v
+”Protagonist
+uWhy... indeed...v
 The reason for choosing this location.
 Who they were trying to kill in this place.
 That was the one thing I simply couldn't understand.
-ï¼ƒBenio
-ã€ŒIf you intended to kill someone for a purpose, you wouldn't use a method like this. If the victim could have been anyone, it destroys all our previous assumptions.ã€
-ï¼ƒProtagonist
-ã€ŒSo a thrill-seeker...?ã€
-ï¼ƒBenio
-ã€ŒOr a thrill-killer. I find it hard to believe we have one of those among our lot... well, this is the Nanatsuki family, so I suppose anything is possible.ã€
+”Benio
+uIf you intended to kill someone for a purpose, you wouldn't use a method like this. If the victim could have been anyone, it destroys all our previous assumptions.v
+”Protagonist
+uSo a thrill-seeker...?v
+”Benio
+uOr a thrill-killer. I find it hard to believe we have one of those among our lot... well, this is the Nanatsuki family, so I suppose anything is possible.v
 Benio-san let out a self-deprecating laugh.
-ï¼ƒBenio
-ã€Œ...Or perhaps, they didn't intend to kill anyone at all.ã€
-ï¼ƒProtagonist
-ã€ŒEh... it's true that there were only injuries... but then for what purpose?ã€
-ï¼ƒBenio
-ã€ŒThat's exactly what I've been asking you.ã€
+”Benio
+u...Or perhaps, they didn't intend to kill anyone at all.v
+”Protagonist
+uEh... it's true that there were only injuries... but then for what purpose?v
+”Benio
+uThat's exactly what I've been asking you.v
 Benio-san kicked the floor with her heel in irritation.
-ï¼ƒProtagonist
-ã€ŒIf it wasn't a trap designed to kill someone...ã€
-Then why this placeâ€”?
+”Protagonist
+uIf it wasn't a trap designed to kill someone...v
+Then why this place??
 My thoughts were going in circles.
-ï¼ƒBenio
-ã€ŒGah, damn it... there's definitely something here...ã€
+”Benio
+uGah, damn it... there's definitely something here...v
 Benio-san kicked the lid of the kiln.
 The warped metal rang out with a dull, heavy thud.
 Benio-san was still in the kitchen.
-ï¼ƒBenio
-ã€ŒDid you find anything?ã€
-ï¼ƒProtagonist
-ã€ŒNo, nothing in particular. How about you?ã€
-ï¼ƒBenio
-ã€ŒSame as before. The motive for blowing this place up remains a mystery.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Benio
+uDid you find anything?v
+”Protagonist
+uNo, nothing in particular. How about you?v
+”Benio
+uSame as before. The motive for blowing this place up remains a mystery.v
+”Protagonist
+uI see...v
 It can't be helped; I'll head elsewhere.

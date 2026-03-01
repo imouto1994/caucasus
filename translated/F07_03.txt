@@ -1,49 +1,49 @@
 When I entered the grand hall, Mikanagi-sensei was drinking tea.
-ï¼ƒProtagonist
-ã€ŒOh, that's rare for you.ã€
-ï¼ƒMikanagi
-ã€ŒI don't spend *all* my time cooped up in the infirmary, you know.ã€
-ï¼ƒProtagonist
-ã€ŒNo, I didn't mean it like that, but...ã€
-ï¼ƒMikanagi
-ã€ŒHahaha... By the way, do you need something?ã€
+”Protagonist
+uOh, that's rare for you.v
+”Mikanagi
+uI don't spend *all* my time cooped up in the infirmary, you know.v
+”Protagonist
+uNo, I didn't mean it like that, but...v
+”Mikanagi
+uHahaha... By the way, do you need something?v
 Mikanagi-sensei was still in the grand hall.
-ï¼ƒMikanagi
-ã€ŒOh, do you still need something from me?ã€
+”Mikanagi
+uOh, do you still need something from me?v
 Akane-san and Mikanagi-sensei were in the grand hall.
 I wonder which one I should talk to...
 There was no one in the grand hall.
 Well... what should I do?
 When I entered the grand hall, Akane-san was there.
-ï¼ƒAkane
-ã€ŒIs something the matter?ã€
-ï¼ƒProtagonist
-ã€ŒI'm just doing a quick patrol of the mansion...ã€
-ï¼ƒAkane
-ã€ŒI see. Thank you for your hard work.ã€
-ï¼ƒProtagonist
-ã€ŒHas anything unusual happened?ã€
-ï¼ƒAkane
-ã€ŒNo, nothing in particular...ã€
-ï¼ƒProtagonist
-ã€ŒI see... We don't know what might happen, so please be careful, Akane-san.ã€
-ï¼ƒAkane
-ã€ŒYes, I understand.ã€
+”Akane
+uIs something the matter?v
+”Protagonist
+uI'm just doing a quick patrol of the mansion...v
+”Akane
+uI see. Thank you for your hard work.v
+”Protagonist
+uHas anything unusual happened?v
+”Akane
+uNo, nothing in particular...v
+”Protagonist
+uI see... We don't know what might happen, so please be careful, Akane-san.v
+”Akane
+uYes, I understand.v
 When I entered the grand hall, Akane-san was still there.
-ï¼ƒAkane
-ã€ŒAh, is something wrong?ã€
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Akane
+uAh, is something wrong?v
+”Protagonist
+uUh, well...v
 In the grand hall, Takamine-san was drinking coffee alone.
-ï¼ƒProtagonist
-ã€ŒAh, Takamine-san.ã€
-ï¼ƒTakamine
-ã€ŒWhat is it...?ã€
+”Protagonist
+uAh, Takamine-san.v
+”Takamine
+uWhat is it...?v
 He gives me a sharp, sideways glare.
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Protagonist
+uUh, well...v
 Entering the grand hall, I locked eyes with Takamine-san.
-ï¼ƒTakamine
-ã€Œ...What?ã€
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Takamine
+u...What?v
+”Protagonist
+uUh, well...v

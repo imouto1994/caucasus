@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...There's no doubt that this was used to sever Rokuyou-san's head. With a handle this long, I imagine anyone could have done it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒThe axe... as for where it was kept, you would have to ask Tsujimura.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒIs that the wood-chopping axe...? I believe Tsujimura-san usually uses it for the firewood...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒIt would be difficult to pull fingerprints from a rough wooden handle like that. Besides, the police can't get here, and such a task is beyond us.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒAn axe... Seiji-san was often using one to chop wood...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThat is the axe for firewood... It is normally kept in the storage shed near the office, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...If that was used to take off a head, it must have made quite a racket... though I didn't hear a thing from where I was.ã€
-ï¼ƒProtagonist
-ã€ŒMy room was directly above his, so I suppose that's why I was just barely able to hear it...ã€
-ï¼ƒMikanagi
-ã€Œ...Judging by the state of the remains, there's no question the cervical region was severed with an axe.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€Œ...Isn't that the one Tsujimura-san uses for the firewood?ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒWe use the fireplaces here, you know. Tsujimura-san is always out there chopping wood for us.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
+”Souko
+u...There's no doubt that this was used to sever Rokuyou-san's head. With a handle this long, I imagine anyone could have done it.v
+”Protagonist
+uI see...v
+”Maya
+uThe axe... as for where it was kept, you would have to ask Tsujimura.v
+”Protagonist
+uI see...v
+”Ai
+uIs that the wood-chopping axe...? I believe Tsujimura-san usually uses it for the firewood...v
+”Protagonist
+uI see...v
+”Benio
+uIt would be difficult to pull fingerprints from a rough wooden handle like that. Besides, the police can't get here, and such a task is beyond us.v
+”Protagonist
+uTrue...v
+”Shion
+uAn axe... Seiji-san was often using one to chop wood...v
+”Protagonist
+uI see...v
+”Tsujimura
+uThat is the axe for firewood... It is normally kept in the storage shed near the office, but...v
+”Protagonist
+uI see...v
+”Takamine
+u...If that was used to take off a head, it must have made quite a racket... though I didn't hear a thing from where I was.v
+”Protagonist
+uMy room was directly above his, so I suppose that's why I was just barely able to hear it...v
+”Mikanagi
+u...Judging by the state of the remains, there's no question the cervical region was severed with an axe.v
+”Protagonist
+uI see...v
+”Akane
+u...Isn't that the one Tsujimura-san uses for the firewood?v
+”Protagonist
+uI see...v
+”Narumi
+uWe use the fireplaces here, you know. Tsujimura-san is always out there chopping wood for us.v
+”Protagonist
+uIs that so...v

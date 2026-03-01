@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒTakamine-san? Heâ€™s quite a stern man, isn't he? He doesn't look like a lawyer... then again, he didn't look like a priest, either.ã€
-ï¼ƒProtagonist
-ã€ŒYeah.ã€
-ï¼ƒMaya
-ã€ŒAttorney Takamine's father was also the legal advisor for the Nanatsuki family. He is very dedicated to his work.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒIâ€™ve heard Takamine-san has been coming here since he was a small child, brought along by his father.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒBenio
-ã€ŒTakamine? I hear heâ€™s been coming in and out of this place since before I was even born.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so?ã€
-ï¼ƒTsujimura
-ã€ŒWe intend to have Attorney Takamine manage the Master's estate and other matters as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€Œ...I have nothing to say to you.ã€
-ï¼ƒProtagonist
-ã€ŒY-you're right...ã€
-ï¼ƒMikanagi
-ã€ŒAbout Takamine-san? It seems his father was involved with this house as well, just like mine.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒAttorney Takamine...? I believe heâ€™s likely in his room or the Great Hall...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒTakamine-san? ...He has a scary face, doesn't he? To think that man is a lawyer... you really can't judge people.ã€
-ï¼ƒProtagonist
-ã€ŒY-you're right...ã€
+”Souko
+uTakamine-san? Hefs quite a stern man, isn't he? He doesn't look like a lawyer... then again, he didn't look like a priest, either.v
+”Protagonist
+uYeah.v
+”Maya
+uAttorney Takamine's father was also the legal advisor for the Nanatsuki family. He is very dedicated to his work.v
+”Protagonist
+uI see...v
+”Ai
+uIfve heard Takamine-san has been coming here since he was a small child, brought along by his father.v
+”Protagonist
+uIs that so?v
+”Benio
+uTakamine? I hear hefs been coming in and out of this place since before I was even born.v
+”Protagonist
+uIs that so?v
+”Tsujimura
+uWe intend to have Attorney Takamine manage the Master's estate and other matters as well.v
+”Protagonist
+uI see.v
+”Takamine
+u...I have nothing to say to you.v
+”Protagonist
+uY-you're right...v
+”Mikanagi
+uAbout Takamine-san? It seems his father was involved with this house as well, just like mine.v
+”Protagonist
+uI see.v
+”Akane
+uAttorney Takamine...? I believe hefs likely in his room or the Great Hall...v
+”Protagonist
+uI see.v
+”Narumi
+uTakamine-san? ...He has a scary face, doesn't he? To think that man is a lawyer... you really can't judge people.v
+”Protagonist
+uY-you're right...v

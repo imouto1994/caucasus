@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒPerhaps the bell won't ring anymore.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
-ï¼ƒMaya
-ã€ŒThe clock is broken... and we can't fix it right away...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒIâ€™d rather not talk about that place...ã€
-ï¼ƒProtagonist
-ã€ŒI understand...ã€
-ï¼ƒBenio
-ã€ŒThe gears are broken. It won't be good for anything for a while.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThe clock is broken, you see... we'll just have to leave it like that for now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒThe culprit might have timed their trap to coincide with the ringing of the bell.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMikanagi
-ã€Œ...The clock likely won't be usable for a while.ã€
-ï¼ƒProtagonist
-ã€ŒRight.ã€
-ï¼ƒAkane
-ã€Œ...Perhaps the clock will be left just as it is.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒNarumi
-ã€ŒIt's a clock that no one looks at anyway. There will be a police investigation too, so it'll probably stay like that for a while.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
+”Souko
+uPerhaps the bell won't ring anymore.v
+”Protagonist
+uYou're right.v
+”Maya
+uThe clock is broken... and we can't fix it right away...v
+”Protagonist
+uI see.v
+”Ai
+uIfd rather not talk about that place...v
+”Protagonist
+uI understand...v
+”Benio
+uThe gears are broken. It won't be good for anything for a while.v
+”Protagonist
+u...I see.v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uThe clock is broken, you see... we'll just have to leave it like that for now.v
+”Protagonist
+uI see.v
+”Takamine
+uThe culprit might have timed their trap to coincide with the ringing of the bell.v
+”Protagonist
+uYou're right...v
+”Mikanagi
+u...The clock likely won't be usable for a while.v
+”Protagonist
+uRight.v
+”Akane
+u...Perhaps the clock will be left just as it is.v
+”Protagonist
+u...I see.v
+”Narumi
+uIt's a clock that no one looks at anyway. There will be a police investigation too, so it'll probably stay like that for a while.v
+”Protagonist
+u...I see.v

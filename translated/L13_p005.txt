@@ -1,20 +1,20 @@
-ï¼ƒMaya
-ã€ŒI wouldn't know, I was resting in my room as well.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒAi
-ã€ŒIâ€™m not sureâ€¦ I was in my room the entire time.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTsujimura
-ã€Œâ€¦She came out of her room saying she wanted some medicine. She mentioned she was heading to see Mikanagi-sensei, butâ€¦ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒTakamine
-ã€ŒI wouldnâ€™t know what was happening outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
-ï¼ƒNarumi
-ã€Œâ€¦From what I could see, Lady Shion was the only one who entered that room. I donâ€™t thinkâ€¦ I missed anyone.ã€
-ï¼ƒProtagonist
-ã€ŒI seeâ€¦ã€
+”Maya
+uI wouldn't know, I was resting in my room as well.v
+”Protagonist
+uI seecv
+”Ai
+uIfm not surec I was in my room the entire time.v
+”Protagonist
+uI seecv
+”Tsujimura
+ucShe came out of her room saying she wanted some medicine. She mentioned she was heading to see Mikanagi-sensei, butcv
+”Protagonist
+uI seecv
+”Takamine
+uI wouldnft know what was happening outside my room.v
+”Protagonist
+uI seecv
+”Narumi
+ucFrom what I could see, Lady Shion was the only one who entered that room. I donft thinkc I missed anyone.v
+”Protagonist
+uI seecv

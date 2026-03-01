@@ -1,30 +1,30 @@
-I think Iâ€™ve seen enough.
-ï¼ƒProtagonist
-ã€ŒI think this is sufficient.ã€
+I think Ifve seen enough.
+”Protagonist
+uI think this is sufficient.v
 I addressed Souko-san.
-ï¼ƒSouko
-ã€ŒIf youâ€™re satisfied, then I suppose it is.ã€
-ï¼ƒProtagonist
-ã€ŒIt makes me a little uneasy when you put it like that...ã€
+”Souko
+uIf youfre satisfied, then I suppose it is.v
+”Protagonist
+uIt makes me a little uneasy when you put it like that...v
 [Keep investigating]
-[Iâ€™ve seen enough]
+[Ifve seen enough]
 Maybe I should look a bit more.
 I might have overlooked something.
-I think Iâ€™ve searched every corner.
-ï¼ƒProtagonist
-ã€ŒI think Iâ€™m okay now.ã€
-ï¼ƒSouko
-ã€ŒIn that case, letâ€™s head back to the Great Hall and see what we can learn from the others.ã€
-ï¼ƒProtagonist
-ã€ŒRight. ...What should we do about this room?ã€
-ï¼ƒMikanagi
-ã€ŒWe should probably lock it and keep it sealed. Weâ€™ve already disturbed it, but the police will be here eventually.ã€
-ï¼ƒProtagonist
-ã€ŒUnderstood.ã€
+I think Ifve searched every corner.
+”Protagonist
+uI think Ifm okay now.v
+”Souko
+uIn that case, letfs head back to the Great Hall and see what we can learn from the others.v
+”Protagonist
+uRight. ...What should we do about this room?v
+”Mikanagi
+uWe should probably lock it and keep it sealed. Wefve already disturbed it, but the police will be here eventually.v
+”Protagonist
+uUnderstood.v
 We stepped into the hallway and I locked the door.
-ï¼ƒProtagonist
-ã€ŒI should probably leave the key with Tsujimura-san, right?ã€
-ï¼ƒMikanagi
-ã€ŒYes, that would be best.ã€
-ï¼ƒSouko
-ã€ŒAlright, letâ€™s head back.ã€
+”Protagonist
+uI should probably leave the key with Tsujimura-san, right?v
+”Mikanagi
+uYes, that would be best.v
+”Souko
+uAlright, letfs head back.v

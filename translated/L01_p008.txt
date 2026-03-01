@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒThe possibility of Mikanagi-sensei... I can't say it's zero, but in that case, we'd have to doubt the autopsy results as well...ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒMaya
-ã€ŒMikanagi-sensei and Isamu-san were close in age, and I heard they used to play together often as children.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒIf it's Mikanagi-sensei, he's usually in the infirmary.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒThe possibility of Hiroshi being the killer... I wonder. You were in the room next door, didn't you notice anything?ã€
-ï¼ƒProtagonist
-ã€ŒNo, nothing in particular...ã€
-ï¼ƒShion
-ã€ŒMikanagi-sensei... I'm sorry, I don't really know right now...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMikanagi-sensei and Master Rokuyou have known each other for a long time, so his grief must be profound...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI heard Mikanagi-sensei and Rokuyou-kun were best friends. They likely had their squabbles... but I haven't heard of any definitive falling out.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒLast night I went to sleep immediately after speaking with you all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒWhat... are you actually suspecting Mikanagi-sensei!? Mikanagi-sensei would never do such a thing!ã€
-ï¼ƒProtagonist
-ã€ŒI... I understand, please calm down...ã€
-ï¼ƒNarumi
-ã€ŒThere was nothing strange about Mikanagi-sensei. He seemed like his usual self last night too.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uThe possibility of Mikanagi-sensei... I can't say it's zero, but in that case, we'd have to doubt the autopsy results as well...v
+”Protagonist
+u...True.v
+”Maya
+uMikanagi-sensei and Isamu-san were close in age, and I heard they used to play together often as children.v
+”Protagonist
+uI see...v
+”Ai
+uIf it's Mikanagi-sensei, he's usually in the infirmary.v
+”Protagonist
+uI see.v
+”Benio
+uThe possibility of Hiroshi being the killer... I wonder. You were in the room next door, didn't you notice anything?v
+”Protagonist
+uNo, nothing in particular...v
+”Shion
+uMikanagi-sensei... I'm sorry, I don't really know right now...v
+”Protagonist
+uI see...v
+”Tsujimura
+uMikanagi-sensei and Master Rokuyou have known each other for a long time, so his grief must be profound...v
+”Protagonist
+uI see...v
+”Takamine
+uI heard Mikanagi-sensei and Rokuyou-kun were best friends. They likely had their squabbles... but I haven't heard of any definitive falling out.v
+”Protagonist
+uI see...v
+”Mikanagi
+uLast night I went to sleep immediately after speaking with you all.v
+”Protagonist
+uI see...v
+”Akane
+uWhat... are you actually suspecting Mikanagi-sensei!? Mikanagi-sensei would never do such a thing!v
+”Protagonist
+uI... I understand, please calm down...v
+”Narumi
+uThere was nothing strange about Mikanagi-sensei. He seemed like his usual self last night too.v
+”Protagonist
+uI see...v

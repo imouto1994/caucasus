@@ -1,121 +1,121 @@
 As I stepped out into the hallway, I happened to run into Benio-san.
-ï¼ƒBenio
-ã€ŒHello there.ã€
-ï¼ƒProtagonist
-ã€ŒHello.ã€
-ï¼ƒBenio
-ã€ŒYou're quite the lady-killer, aren't you.ã€
-ï¼ƒProtagonist
-ã€ŒEh?ã€
-ï¼ƒBenio
-ã€ŒYou were walking Shion back, weren't you?ã€
-ï¼ƒProtagonist
-ã€ŒWere you watching...?ã€
+”Benio
+uHello there.v
+”Protagonist
+uHello.v
+”Benio
+uYou're quite the lady-killer, aren't you.v
+”Protagonist
+uEh?v
+”Benio
+uYou were walking Shion back, weren't you?v
+”Protagonist
+uWere you watching...?v
 I let out a sigh.
-ï¼ƒProtagonist
-ã€ŒIt's not anything like that.ã€
-ï¼ƒBenio
-ã€ŒAnd what exactly is 'that'?ã€
-ï¼ƒProtagonist
-ã€ŒShion-san just lost her husbandâ€”well, Rokuyou-sanâ€”didn't she?ã€
-ï¼ƒBenio
-ã€ŒThe ceremony wasn't completed, so they never actually became husband and wife, did they?ã€
-ï¼ƒBenio
-ã€Œ...It's not as if they were in love, either.ã€
-ï¼ƒProtagonist
-ã€ŒBut still...ã€
-ï¼ƒBenio
-ã€Œâ€”I suppose anyone would have sufficed, so long as they were the one to liberate her from that tower.ã€
+”Protagonist
+uIt's not anything like that.v
+”Benio
+uAnd what exactly is 'that'?v
+”Protagonist
+uShion-san just lost her husband?well, Rokuyou-san?didn't she?v
+”Benio
+uThe ceremony wasn't completed, so they never actually became husband and wife, did they?v
+”Benio
+u...It's not as if they were in love, either.v
+”Protagonist
+uBut still...v
+”Benio
+u?I suppose anyone would have sufficed, so long as they were the one to liberate her from that tower.v
 Benio-san murmured to herself.
-ï¼ƒProtagonist
-ã€ŒBenio-sanâ€”?ã€
-ï¼ƒBenio
-ã€ŒSetting that aside, has my sister been found yet?ã€
-ï¼ƒProtagonist
-ã€ŒEh, no... not yet...ã€
-ï¼ƒBenio
-ã€ŒI see...ã€
-ï¼ƒSouko
-ã€ŒOh, what are you two doing in a place like this?ã€
+”Protagonist
+uBenio-san??v
+”Benio
+uSetting that aside, has my sister been found yet?v
+”Protagonist
+uEh, no... not yet...v
+”Benio
+uI see...v
+”Souko
+uOh, what are you two doing in a place like this?v
 Souko-san came walking over from the direction of the hall.
-ï¼ƒProtagonist
-ã€ŒSouko-san... Ai-san hasn't been found yet.ã€
-ï¼ƒSouko
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒThere's no point in just talking here. Let's head to the hall for now and figure out our next move.ã€
-ï¼ƒProtagonist
-ã€Œ...You're right.ã€
+”Protagonist
+uSouko-san... Ai-san hasn't been found yet.v
+”Souko
+uI see...v
+”Benio
+uThere's no point in just talking here. Let's head to the hall for now and figure out our next move.v
+”Protagonist
+u...You're right.v
 In the Great Hall were Maya-san and Dr. Mikanagi.
 Maya-san looked terribly haggard.
-ï¼ƒMaya
-ã€ŒUm... has Ai... been found...?ã€
+”Maya
+uUm... has Ai... been found...?v
 I silently shook my head.
-ï¼ƒMaya
-ã€ŒIs... that so...ã€
-ï¼ƒMikanagi
-ã€ŒLet's go to the infirmary.ã€
+”Maya
+uIs... that so...v
+”Mikanagi
+uLet's go to the infirmary.v
 At Dr. Mikanagi's urging, Maya-san stood up.
-ï¼ƒMaya
-ã€ŒPlease... find Ai...ã€
+”Maya
+uPlease... find Ai...v
 After bowing to us, Maya-san left.
 Tsujimura-san entered as she was leaving.
-ï¼ƒTsujimura
-ã€ŒWhere is the Madam...?ã€
-ï¼ƒSouko
-ã€ŒShe doesn't seem to be feeling well.ã€
-ï¼ƒTsujimura
-ã€ŒI see...ã€
+”Tsujimura
+uWhere is the Madam...?v
+”Souko
+uShe doesn't seem to be feeling well.v
+”Tsujimura
+uI see...v
 Tsujimura-san was also lacking energy.
-ï¼ƒTsujimura
-ã€ŒI've looked around the basement and other areas... but Miss Ai was nowhere to be found...ã€
-ï¼ƒProtagonist
-ã€ŒIs there anywhere we haven't looked yet?ã€
-ï¼ƒTsujimura
-ã€ŒEven if you say that... I cannot enter the guests' rooms...ã€
-ï¼ƒSouko
-ã€ŒIs there a possibility she went outside?ã€
+”Tsujimura
+uI've looked around the basement and other areas... but Miss Ai was nowhere to be found...v
+”Protagonist
+uIs there anywhere we haven't looked yet?v
+”Tsujimura
+uEven if you say that... I cannot enter the guests' rooms...v
+”Souko
+uIs there a possibility she went outside?v
 Tsujimura-san shook his head at Souko-san's question.
-ï¼ƒTsujimura
-ã€ŒThere were no footprints at the front entrance or the back door. Though, since it's still snowing, any footprints might have been erased as time passed.ã€
-ï¼ƒProtagonist
-ã€ŒThe last time I saw Ai-san was just before eleven. That would be two hours ago now...ã€
-ï¼ƒBenio
-ã€ŒIn two hours, unless it was a fierce blizzard like last night, footprints wouldn't completely disappear.ã€
-ï¼ƒSouko
-ã€ŒIf that's the case, then she's almost certainly still inside the building...ã€
-ï¼ƒProtagonist
-ã€ŒButâ€”ã€
+”Tsujimura
+uThere were no footprints at the front entrance or the back door. Though, since it's still snowing, any footprints might have been erased as time passed.v
+”Protagonist
+uThe last time I saw Ai-san was just before eleven. That would be two hours ago now...v
+”Benio
+uIn two hours, unless it was a fierce blizzard like last night, footprints wouldn't completely disappear.v
+”Souko
+uIf that's the case, then she's almost certainly still inside the building...v
+”Protagonist
+uBut?v
 And with that, I swallowed my words.
-Butâ€”if she still hasn't turned up after all this searching.
-ï¼ƒBenio
-ã€Œâ€”Tsujimura.ã€
+But?if she still hasn't turned up after all this searching.
+”Benio
+u?Tsujimura.v
 Benio-san spoke up.
-ï¼ƒTsujimura
-ã€ŒYes, what is it?ã€
-ï¼ƒBenio
-ã€ŒDid you check the attic?ã€
-ï¼ƒTsujimura
-ã€Œâ€”!ã€
+”Tsujimura
+uYes, what is it?v
+”Benio
+uDid you check the attic?v
+”Tsujimura
+u?!v
 Tsujimura-san gasped.
-ï¼ƒSouko
-ã€ŒThe attic?ã€
-ï¼ƒBenio
-ã€ŒYes. Didn't the bell ring at midnight last night? There's a room where that machinery is kept.ã€
-ï¼ƒSouko
-ã€ŒYou said it usually only rings at noon. ...I wonder if it rang earlier?ã€
-ï¼ƒProtagonist
-ã€ŒEh...?ã€
+”Souko
+uThe attic?v
+”Benio
+uYes. Didn't the bell ring at midnight last night? There's a room where that machinery is kept.v
+”Souko
+uYou said it usually only rings at noon. ...I wonder if it rang earlier?v
+”Protagonist
+uEh...?v
 Come to think of it... did I hear the sound of the bell?
-ï¼ƒBenio
-ã€Œ...I didn't really pay much attention to it.ã€
-ï¼ƒTsujimura
-ã€ŒYes... I'm ashamed to admit that I wasn't paying attention either.ã€
-ï¼ƒProtagonist
-ã€Œ...Let's go. Maybeâ€”ã€
+”Benio
+u...I didn't really pay much attention to it.v
+”Tsujimura
+uYes... I'm ashamed to admit that I wasn't paying attention either.v
+”Protagonist
+u...Let's go. Maybe?v
 Ai-san might be there.
-ï¼ƒSouko
-ã€Œ...You're right. Tsujimura-san, please lead the way.ã€
-ï¼ƒTsujimura
-ã€ŒY-Yes... this way.ã€
+”Souko
+u...You're right. Tsujimura-san, please lead the way.v
+”Tsujimura
+uY-Yes... this way.v
 Souko-san and I followed behind Tsujimura-san as we left the hall.

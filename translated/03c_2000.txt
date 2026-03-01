@@ -1,123 +1,123 @@
 When we arrived in front of the kitchen, there was indeed a burnt smell drifting in the air.
-ï¼ƒTakamine
-ã€ŒWhat is burning?ã€
-ï¼ƒTsujimura
-ã€ŒI don't know...ã€
-ï¼ƒProtagonist
-ã€ŒTsujimura-san, please open the door.ã€
+”Takamine
+uWhat is burning?v
+”Tsujimura
+uI don't know...v
+”Protagonist
+uTsujimura-san, please open the door.v
 The kitchen door was locked.
-ï¼ƒTsujimura
-ã€ŒThe key... you say. I don't recall locking it, but...ã€
+”Tsujimura
+uThe key... you say. I don't recall locking it, but...v
 While saying so, Tsujimura-san took out the key.
-ï¼ƒProtagonist
-ã€ŒWasn't it you, Tsujimura-san?ã€
-ï¼ƒTsujimura
-ã€ŒYes... wait, that's strange...ã€
-ï¼ƒProtagonist
-ã€ŒWhat's wrong?ã€
-ï¼ƒTsujimura
-ã€ŒThe key won't turn. This should be the right one...ã€
-ï¼ƒTakamine
-ã€ŒWas the keyhole tampered with?ã€
+”Protagonist
+uWasn't it you, Tsujimura-san?v
+”Tsujimura
+uYes... wait, that's strange...v
+”Protagonist
+uWhat's wrong?v
+”Tsujimura
+uThe key won't turn. This should be the right one...v
+”Takamine
+uWas the keyhole tampered with?v
 Takamine-san peered into the keyhole.
-ï¼ƒTakamine
-ã€Œ...It looks like something has been stuffed inside.ã€
-ï¼ƒProtagonist
-ã€Œ...Narumi-san.ã€
+”Takamine
+u...It looks like something has been stuffed inside.v
+”Protagonist
+u...Narumi-san.v
 I whispered into Narumi-san's ear in a low voice.
-ï¼ƒNarumi
-ã€ŒWhat?ã€
-ï¼ƒProtagonist
-ã€ŒDid you see inside the kitchen?ã€
-ï¼ƒNarumi
-ã€ŒNo... I haven't checked it.ã€
-ï¼ƒProtagonist
-ã€ŒCan you open it?ã€
-ï¼ƒNarumi
-ã€ŒI think it's impossible.ã€
-ï¼ƒTakamine
-ã€Œ...It looks like we'll have to force it open.ã€
-ï¼ƒTsujimura
-ã€Œ...I will go fetch some tools.ã€
+”Narumi
+uWhat?v
+”Protagonist
+uDid you see inside the kitchen?v
+”Narumi
+uNo... I haven't checked it.v
+”Protagonist
+uCan you open it?v
+”Narumi
+uI think it's impossible.v
+”Takamine
+u...It looks like we'll have to force it open.v
+”Tsujimura
+u...I will go fetch some tools.v
 Tsujimura-san left the corridor.
-ï¼ƒTakamine
-ã€ŒHowever, this smell... is it meat?ã€
+”Takamine
+uHowever, this smell... is it meat?v
 Takamine-san's nose twitched.
-ï¼ƒProtagonist
-ã€ŒMeat... no way!?ã€
+”Protagonist
+uMeat... no way!?v
 I put my hand on the closed kitchen door.
 The smell drifting from the gaps.
-The thing being roasted on the other side isâ€”
-ï¼ƒProtagonist
-ã€ŒGuh... dammit...!ã€
+The thing being roasted on the other side is?
+”Protagonist
+uGuh... dammit...!v
 I slid my fingers into the gap and tried to pry the door open, but it wouldn't budge.
-ï¼ƒTakamine
-ã€ŒCalm down.ã€
+”Takamine
+uCalm down.v
 Takamine-san grabbed my shoulder.
-ï¼ƒProtagonist
-ã€ŒBut... this is the only place we haven't checked yet...!ã€
-ï¼ƒTakamine
-ã€ŒI know. Just wait a little longer.ã€
+”Protagonist
+uBut... this is the only place we haven't checked yet...!v
+”Takamine
+uI know. Just wait a little longer.v
 I was forcibly pulled away from the door.
-ï¼ƒNarumi
-ã€ŒPull yourself together.ã€
-ï¼ƒProtagonist
-ã€Œ...I know.ã€
+”Narumi
+uPull yourself together.v
+”Protagonist
+u...I know.v
 I knew, but still...
-ï¼ƒTsujimura
-ã€ŒSorry to keep you waiting.ã€
+”Tsujimura
+uSorry to keep you waiting.v
 Tsujimura-san returned with a large crowbar.
-ï¼ƒBenio
-ã€ŒIs there a fire?ã€
+”Benio
+uIs there a fire?v
 Benio-san came along as well.
-ï¼ƒTakamine
-ã€ŒLet me use that.ã€
+”Takamine
+uLet me use that.v
 Takamine-san took it and wedged it into the gap of the door.
-ï¼ƒTakamine
-ã€ŒGuh... nnh...ã€
+”Takamine
+uGuh... nnh...v
 The door creaked.
-ï¼ƒTakamine
-ã€ŒPhew...ã€
+”Takamine
+uPhew...v
 Takamine-san let out a deep breath and forced the door open.
 A stifling, heavy stench flooded out.
 I was the first to dive into the kitchen.
-ï¼ƒProtagonist
-ã€ŒUgh...ã€
+”Protagonist
+uUgh...v
 The room was thick with clouds of smoke.
 The source was... it seemed to be the oven.
 Smoke was seeping out from the gaps of the iron door.
-ï¼ƒProtagonist
-ã€ŒIs it in hereâ€”ã€
+”Protagonist
+uIs it in here?v
 Benio-san grabbed my reaching arm.
-ï¼ƒBenio
-ã€ŒAre you an idiot!? You'll get burned!ã€
-ï¼ƒProtagonist
-ã€ŒBut... even so...ã€
+”Benio
+uAre you an idiot!? You'll get burned!v
+”Protagonist
+uBut... even so...v
 I have to check inside immediately...
-ï¼ƒTsujimura
-ã€ŒPlease use this.ã€
+”Tsujimura
+uPlease use this.v
 Tsujimura-san handed over the crowbar he had used to open the door.
-ï¼ƒProtagonist
-ã€ŒNgh...!ã€
+”Protagonist
+uNgh...!v
 I unlatched the fastening on the door.
 The door opened.
 ...This time, I knew for certain.
 It was unmistakably the smell of burning flesh.
-ï¼ƒTakamine
-ã€Œ...Pull it out.ã€
+”Takamine
+u...Pull it out.v
 Takamine-san's voice sounded like he was suppressing his emotions.
 Using the crowbar I held, I hooked the tray that had been placed at the bottom of the oven.
 Along with the smoke and stench, the thing that emerged from the oven was.
-ï¼ƒProtagonist
-ã€ŒEh...ã€
+”Protagonist
+uEh...v
 I was speechless.
-ï¼ƒTakamine
-ã€Œ...Tsujimura-san, go call Dr. Mikanagi.ã€
-ï¼ƒTsujimura
-ã€ŒY-Yes!ã€
+”Takamine
+u...Tsujimura-san, go call Dr. Mikanagi.v
+”Tsujimura
+uY-Yes!v
 Tsujimura-san dashed away.
 I wanted to run away too.
-ï¼ƒBenio
-ã€ŒNgh...ã€
+”Benio
+uNgh...v
 Both Benio-san and Narumi-san turned their faces away.
 But... just who on earth was this headless corpse lying before our eyes...?

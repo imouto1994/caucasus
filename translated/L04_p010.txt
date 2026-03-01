@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒNarumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san.ã€
-ï¼ƒProtagonist
-ã€Œ...True.ã€
-ï¼ƒBenio
-ã€ŒNarumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒMistress Minakami is cooped up in the kitchen for most of this time. She has lunch to prepare, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒNarumi-san was in the kitchen making lunch.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒI was in the kitchen the whole time. Lady Benio was in the dining hall, so she'd know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uNarumi-san, huh... There's something suspicious about her, but I can't find a reason for her to target Ai-san.v
+”Protagonist
+u...True.v
+”Benio
+uNarumi? Aside from a total lack of motivation, I don't see any particular problems with her. I can't find a reason for her to try and kill my sister, either.v
+”Protagonist
+uI see...v
+”Tsujimura
+uMistress Minakami is cooped up in the kitchen for most of this time. She has lunch to prepare, after all.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uNarumi-san was in the kitchen making lunch.v
+”Protagonist
+uI see.v
+”Narumi
+uI was in the kitchen the whole time. Lady Benio was in the dining hall, so she'd know.v
+”Protagonist
+uI see...v

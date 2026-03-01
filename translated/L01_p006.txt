@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€Œ...Tsujimura-san manages the spare keys, and he's the person most capable of committing the crime... but even so, it's not right to suspect him without reason.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMaya
-ã€ŒI leave almost everything concerning the mansion to Tsujimura. He should have been doing rounds and such last night.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒTsujimura-san works until late at night. There was a wedding yesterday, so I suppose it couldn't be helped...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒTsujimura does manage the spare keys, that's certain... but it's also certain he has no reason to kill Rokuyou. Especially when he would be the most suspected.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒShion
-ã€ŒSeiji-san... he gave his blessings for the marriage between Master Rokuyou and me...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒLast night, I worked in the office for a while after the ceremony. After that, I did rounds of the house. I did not encounter anyone besides you.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒTsujimura-san must have been working. If he was in his room, he surely would have noticed what was happening next door.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMikanagi
-ã€ŒTsujimura-san doing rounds of the mansion is a regular thing. Occasionally Akane-san or Narumi-san will do it, though.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒThe night rounds are just to check if any doors were left unlocked... though in the middle of the mountains like this, it doesn't seem to mean much.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
-ï¼ƒNarumi
-ã€ŒThe second floor is one thing, but the first floor corridor is completely divided, so rounds are a pain.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+u...Tsujimura-san manages the spare keys, and he's the person most capable of committing the crime... but even so, it's not right to suspect him without reason.v
+”Protagonist
+uTrue...v
+”Maya
+uI leave almost everything concerning the mansion to Tsujimura. He should have been doing rounds and such last night.v
+”Protagonist
+uI see.v
+”Ai
+uTsujimura-san works until late at night. There was a wedding yesterday, so I suppose it couldn't be helped...v
+”Protagonist
+uI see.v
+”Benio
+uTsujimura does manage the spare keys, that's certain... but it's also certain he has no reason to kill Rokuyou. Especially when he would be the most suspected.v
+”Protagonist
+uTrue...v
+”Shion
+uSeiji-san... he gave his blessings for the marriage between Master Rokuyou and me...v
+”Protagonist
+uI see...v
+”Tsujimura
+uLast night, I worked in the office for a while after the ceremony. After that, I did rounds of the house. I did not encounter anyone besides you.v
+”Protagonist
+uI see...v
+”Takamine
+uTsujimura-san must have been working. If he was in his room, he surely would have noticed what was happening next door.v
+”Protagonist
+uTrue...v
+”Mikanagi
+uTsujimura-san doing rounds of the mansion is a regular thing. Occasionally Akane-san or Narumi-san will do it, though.v
+”Protagonist
+uI see.v
+”Akane
+uThe night rounds are just to check if any doors were left unlocked... though in the middle of the mountains like this, it doesn't seem to mean much.v
+”Protagonist
+uMaybe so...v
+”Narumi
+uThe second floor is one thing, but the first floor corridor is completely divided, so rounds are a pain.v
+”Protagonist
+uI see.v

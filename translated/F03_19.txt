@@ -1,50 +1,50 @@
-Iâ€™ve come to Maya-san's room at the far western end of the second floor.
+Ifve come to Maya-san's room at the far western end of the second floor.
 Akane-san knocks on the door.
-ï¼ƒMaya
-ã€ŒOh... Akane, is something the matter?ã€
+”Maya
+uOh... Akane, is something the matter?v
 Maya-san appeared.
-ï¼ƒAkane
-ã€ŒMadam, have you seen Lady Ai?ã€
-ï¼ƒMaya
-ã€ŒAi...? No, I haven't seen her.ã€
-ï¼ƒProtagonist
-ã€ŒI see... Do you have any idea where she might be?ã€
-ï¼ƒMaya
-ã€ŒIâ€™ve been in my room this whole time, so...ã€
-ï¼ƒProtagonist
-ã€ŒAi-san's room is right next door, isn't it? Did you hear any noises?ã€
-ï¼ƒMaya
-ã€ŒWell... the soundproofing is quite good, so I haven't heard anything.ã€
-ï¼ƒProtagonist
-ã€ŒI see... thank you very much.ã€
-ï¼ƒMaya
-ã€ŒIâ€™m sorry I couldn't be of more help.ã€
-ï¼ƒAkane
-ã€ŒNot at all... please excuse us.ã€
+”Akane
+uMadam, have you seen Lady Ai?v
+”Maya
+uAi...? No, I haven't seen her.v
+”Protagonist
+uI see... Do you have any idea where she might be?v
+”Maya
+uIfve been in my room this whole time, so...v
+”Protagonist
+uAi-san's room is right next door, isn't it? Did you hear any noises?v
+”Maya
+uWell... the soundproofing is quite good, so I haven't heard anything.v
+”Protagonist
+uI see... thank you very much.v
+”Maya
+uIfm sorry I couldn't be of more help.v
+”Akane
+uNot at all... please excuse us.v
 Maya-san returned to her room.
-ï¼ƒProtagonist
-ã€ŒLet's head somewhere else.ã€
-Iâ€™ve come to Maya-san's room at the far western end of the second floor.
+”Protagonist
+uLet's head somewhere else.v
+Ifve come to Maya-san's room at the far western end of the second floor.
 Akane-san knocks on the door.
 Maya-san appeared.
-ï¼ƒMaya
-ã€ŒOh... have you still not found Ai?ã€
-ï¼ƒAkane
-ã€ŒNo...ã€
-ï¼ƒProtagonist
-ã€ŒSorry to bother you. If you notice anything, could you let us know immediately?ã€
-ï¼ƒMaya
-ã€ŒYes, of course.ã€
-ï¼ƒAkane
-ã€ŒThen, Madam, please excuse us.ã€
+”Maya
+uOh... have you still not found Ai?v
+”Akane
+uNo...v
+”Protagonist
+uSorry to bother you. If you notice anything, could you let us know immediately?v
+”Maya
+uYes, of course.v
+”Akane
+uThen, Madam, please excuse us.v
 Maya-san returned to her room.
-ï¼ƒProtagonist
-ã€ŒLet's head somewhere else.ã€
-Iâ€™ve come to Maya-san's room at the far western end of the second floor.
+”Protagonist
+uLet's head somewhere else.v
+Ifve come to Maya-san's room at the far western end of the second floor.
 Akane-san knocks on the door.
 I wait for a while, but there was no response from inside.
-ï¼ƒAkane
-ã€ŒIt seems she isn't in.ã€
-ï¼ƒProtagonist
-ã€ŒSo it seems...ã€
+”Akane
+uIt seems she isn't in.v
+”Protagonist
+uSo it seems...v
 We decided to head elsewhere.

@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒAn earring, huh... I feel like I saw Benio-san wearing something similar... but thereâ€™s no way to check for sure.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒThis... is an earring Benio used to wear.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€Œ...It's Benio's earring. There's no doubt about it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThis... I believe it is Lady Benio's ear ornament.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI'm not really sure.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI really don't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒI'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI'm not quite sure about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAn earring, huh... I feel like I saw Benio-san wearing something similar... but therefs no way to check for sure.v
+”Protagonist
+uI see...v
+”Maya
+uThis... is an earring Benio used to wear.v
+”Protagonist
+uI see...v
+”Ai
+u...It's Benio's earring. There's no doubt about it.v
+”Protagonist
+uI see...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uThis... I believe it is Lady Benio's ear ornament.v
+”Protagonist
+uI see...v
+”Takamine
+uI'm not really sure.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI really don't know.v
+”Protagonist
+uI see...v
+”Akane
+uI'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI'm not quite sure about that.v
+”Protagonist
+uI see...v

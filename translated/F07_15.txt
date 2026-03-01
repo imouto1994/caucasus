@@ -1,33 +1,33 @@
 I've come to the front of Takamine-san's room.
 I wonder if he's in... I knock on the door, feeling a bit nervous.
-ï¼ƒTakamine
-ã€ŒIs it you... What do you want?ã€
-ï¼ƒProtagonist
-ã€ŒUm, can we talk for a bit?ã€
-ï¼ƒTakamine
-ã€Œ...Fine. Come in.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yes...ã€
-ï¼ƒTakamine
-ã€ŒSo, what's your business?ã€
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Takamine
+uIs it you... What do you want?v
+”Protagonist
+uUm, can we talk for a bit?v
+”Takamine
+u...Fine. Come in.v
+”Protagonist
+uY-Yes...v
+”Takamine
+uSo, what's your business?v
+”Protagonist
+uUh, well...v
 I've come to the front of Takamine-san's room.
 I wonder if he's in... I knock on the door, feeling a bit nervous.
-ï¼ƒTakamine
-ã€Œ...It's you again.ã€
-ï¼ƒProtagonist
-ã€ŒA-Ah, can we talk for a bit?ã€
-ï¼ƒTakamine
-ã€ŒI suppose that's fine.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yes...ã€
-ï¼ƒTakamine
-ã€ŒWhat is it this time?ã€
+”Takamine
+u...It's you again.v
+”Protagonist
+uA-Ah, can we talk for a bit?v
+”Takamine
+uI suppose that's fine.v
+”Protagonist
+uY-Yes...v
+”Takamine
+uWhat is it this time?v
 I've come to the front of Takamine-san's room.
 I wonder if he's in... I knock on the door, feeling a bit nervous.
-ï¼ƒProtagonist
-ã€ŒTakamine-san, it's me.ã€
+”Protagonist
+uTakamine-san, it's me.v
 However, no matter how long I wait, there's no response from inside.
 Maybe he's not there.
 It can't be helped, I'll go somewhere else.

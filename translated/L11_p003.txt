@@ -1,24 +1,24 @@
-ï¼ƒAi
-ã€ŒI was in my room the entire time, however...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒI'm told my sister was also in her room the whole time... so it would be difficult for her.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI believe she was in her room... but I have not confirmed it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know anything about what happens outside my room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI predictably wouldn't know about anyone else's movements.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI think she was in her room. She's hardly come out at all.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
+”Ai
+uI was in my room the entire time, however...v
+”Protagonist
+uI see...v
+”Benio
+uI'm told my sister was also in her room the whole time... so it would be difficult for her.v
+”Protagonist
+uI see...v
+”Tsujimura
+uI believe she was in her room... but I have not confirmed it.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know anything about what happens outside my room.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI predictably wouldn't know about anyone else's movements.v
+”Protagonist
+uI see...v
+”Narumi
+uI think she was in her room. She's hardly come out at all.v
+”Protagonist
+uTrue...v

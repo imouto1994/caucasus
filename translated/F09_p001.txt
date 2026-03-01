@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒSo they think they can threaten me? They're delusional if they think I'm backing down over something like this.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒWe've caused you quite a bit of trouble... I'm terribly sorry.ã€
-ï¼ƒProtagonist
-ã€ŒNo, please don't let it worry you.ã€
-ï¼ƒAi
-ã€ŒKirihara-san is remarkably composed, isn't she? Even in a situation like this...ã€
-ï¼ƒProtagonist
-ã€ŒShe is...ã€
-ï¼ƒBenio
-ã€ŒWhether she's truly strong, just putting up a front, or if there's some other reason... it's hard to say.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒKirihara-san... she has a bit of a frightening aura about her, doesn't she?ã€
-ï¼ƒProtagonist
-ã€ŒDo you think so...?ã€
-ï¼ƒTsujimura
-ã€ŒWe have moved Mistress Kirihara to a different room. She wouldn't be able to settle down in a place like that, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒIf she's hunting for the killer, I'd like her to find them and be done with it.ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah, I suppose so...ã€
-ï¼ƒMikanagi
-ã€ŒAs for Kirihara-san, she seemed to be investigating her own room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒAs for Mistress Kirihara, she appeared to be investigating her room...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒKirihara-san, huh? She seems to be looking into all sorts of things.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uSo they think they can threaten me? They're delusional if they think I'm backing down over something like this.v
+”Protagonist
+uI see...v
+”Maya
+uWe've caused you quite a bit of trouble... I'm terribly sorry.v
+”Protagonist
+uNo, please don't let it worry you.v
+”Ai
+uKirihara-san is remarkably composed, isn't she? Even in a situation like this...v
+”Protagonist
+uShe is...v
+”Benio
+uWhether she's truly strong, just putting up a front, or if there's some other reason... it's hard to say.v
+”Protagonist
+uI see...v
+”Shion
+uKirihara-san... she has a bit of a frightening aura about her, doesn't she?v
+”Protagonist
+uDo you think so...?v
+”Tsujimura
+uWe have moved Mistress Kirihara to a different room. She wouldn't be able to settle down in a place like that, after all.v
+”Protagonist
+uI see...v
+”Takamine
+uIf she's hunting for the killer, I'd like her to find them and be done with it.v
+”Protagonist
+uY-Yeah, I suppose so...v
+”Mikanagi
+uAs for Kirihara-san, she seemed to be investigating her own room.v
+”Protagonist
+uI see...v
+”Akane
+uAs for Mistress Kirihara, she appeared to be investigating her room...v
+”Protagonist
+uI see...v
+”Narumi
+uKirihara-san, huh? She seems to be looking into all sorts of things.v
+”Protagonist
+uI see...v

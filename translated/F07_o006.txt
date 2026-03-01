@@ -1,38 +1,38 @@
-ï¼ƒSouko
-ã€ŒThe lid of that coffin in the chapel is heavy, so it doesn't look like a girl could open it alone.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒMaya
-ã€ŒThe chapel is only used for things like weddings, so it's usually kept locked.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒI'm told that chapel was always used for weddings in the Nanatsuki family.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒThe chapel is almost never used in our daily lives.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒShion
-ã€ŒThe chapel... I don't want to spend any more time there.ã€
-ï¼ƒTsujimura
-ã€ŒThe chapel is locked. I doubt it will be used again for quite some time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒPlease don't hang around places where you have no business.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒI hear the chapel isn't used under normal circumstances.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒCleaning the chapel is quite a chore. It doesn't get that dirty since it's not normally used, though.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒA chapel that's only used for weddings... feels a bit extravagant, doesn't it?ã€
-ï¼ƒProtagonist
-ã€ŒYeah, it does...ã€
+”Souko
+uThe lid of that coffin in the chapel is heavy, so it doesn't look like a girl could open it alone.v
+”Protagonist
+uYou're right...v
+”Maya
+uThe chapel is only used for things like weddings, so it's usually kept locked.v
+”Protagonist
+uI see...v
+”Ai
+uI'm told that chapel was always used for weddings in the Nanatsuki family.v
+”Protagonist
+uIs that so...v
+”Benio
+uThe chapel is almost never used in our daily lives.v
+”Protagonist
+uI see.v
+”Shion
+uThe chapel... I don't want to spend any more time there.v
+”Tsujimura
+uThe chapel is locked. I doubt it will be used again for quite some time.v
+”Protagonist
+uI see...v
+”Takamine
+uPlease don't hang around places where you have no business.v
+”Protagonist
+uI see...v
+”Mikanagi
+uI hear the chapel isn't used under normal circumstances.v
+”Protagonist
+uI see.v
+”Akane
+uCleaning the chapel is quite a chore. It doesn't get that dirty since it's not normally used, though.v
+”Protagonist
+uI see.v
+”Narumi
+uA chapel that's only used for weddings... feels a bit extravagant, doesn't it?v
+”Protagonist
+uYeah, it does...v

@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒAi-san's cause of death is currently unknown. Mikanagi-sensei's view is that the time of death differs from when her neck was severed, which can be determined by the livor mortis, but...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€Œ...To think my sister would follow the same fate as Rokuyou... How ironic.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€ŒLady Ai... How tragic...ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒTakamine
-ã€ŒTo think even Ai-kun would be killed... Just what on earth is happening here?ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒAkane
-ã€ŒLady Ai... Why did it come to this...?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒNarumi
-ã€Œ...The fact that Lady Ai was murdered might mean that no one is safe... except for the killer.ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
+”Souko
+uAi-san's cause of death is currently unknown. Mikanagi-sensei's view is that the time of death differs from when her neck was severed, which can be determined by the livor mortis, but...v
+”Protagonist
+uI see...v
+”Benio
+u...To think my sister would follow the same fate as Rokuyou... How ironic.v
+”Protagonist
+uTrue...v
+”Tsujimura
+uLady Ai... How tragic...v
+”Protagonist
+uYeah...v
+”Takamine
+uTo think even Ai-kun would be killed... Just what on earth is happening here?v
+”Protagonist
+uYeah...v
+”Akane
+uLady Ai... Why did it come to this...?v
+”Protagonist
+uTrue...v
+”Narumi
+u...The fact that Lady Ai was murdered might mean that no one is safe... except for the killer.v
+”Protagonist
+uMaybe so...v

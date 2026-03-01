@@ -1,46 +1,46 @@
-ï¼ƒSouko
-ã€ŒIt's a story that comes up right away if you look into Nanatsuki Village. Though I haven't found any documents that go into the finer details.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€Œ...I'm aware that such rumors are circulating in the village. However, I'm not familiar with the specifics.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒAi
-ã€Œ...I do not wish to answer that.ã€
-ï¼ƒProtagonist
-ã€ŒI see... I'm sorry.ã€
-ï¼ƒBenio
-ã€ŒThe curses are seven in number, just as the name suggests. Firstâ€”'The matter of the heads of the Nanatsuki family all meeting unnatural deaths.'ã€
-ï¼ƒBenio
-ã€Œ'Second, the matter of no males being born into the Nanatsuki family.' 'Third, the spirited-away incidents in Nanatsuki Village.' 'Fourth, the matter of the manor being coated in pitch-black.'ã€
-ï¼ƒBenio
-ã€Œ'Fifth, the matter of a swarm of crows covering the manor.' 'Sixth, the matter of the "Sacrifice of the Seven-Possessed".' 'Seventh, the matter of the spirit of the sacrificed girl wandering the manor.' ...That is all.ã€
-ï¼ƒBenio
-ã€ŒIf you wish to investigate, please, do as you like. Though my efforts may be modest, I would be happy to assist you.ã€
-ï¼ƒProtagonist
-ã€ŒAh... thank you very much.ã€
-ï¼ƒTsujimura
-ã€ŒI... don't know much about such things...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒThe curse...? Come to think of it, I feel like Benio mentioned something like that. You should try asking her.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€ŒI have no interest in such trivial nonsense.ã€
-ï¼ƒProtagonist
-ã€ŒI-I see...ã€
-ï¼ƒMikanagi
-ã€ŒThe curse? ...Ah, that's just a rumor, right? I think Benio-san would be the one familiar with those stories.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒT-The curse... I know there are all sorts of things being said... it's quite scary, isn't it?ã€
-ï¼ƒProtagonist
-ã€ŒIt is...ã€
-ï¼ƒNarumi
-ã€ŒThe curse? I've certainly heard people in town talking about it... but if you want details, why not ask Lady Benio?ã€
-ï¼ƒProtagonist
-ã€ŒThat's a good idea.ã€
+”Souko
+uIt's a story that comes up right away if you look into Nanatsuki Village. Though I haven't found any documents that go into the finer details.v
+”Protagonist
+uI see...v
+”Maya
+u...I'm aware that such rumors are circulating in the village. However, I'm not familiar with the specifics.v
+”Protagonist
+u...I see.v
+”Ai
+u...I do not wish to answer that.v
+”Protagonist
+uI see... I'm sorry.v
+”Benio
+uThe curses are seven in number, just as the name suggests. First?'The matter of the heads of the Nanatsuki family all meeting unnatural deaths.'v
+”Benio
+u'Second, the matter of no males being born into the Nanatsuki family.' 'Third, the spirited-away incidents in Nanatsuki Village.' 'Fourth, the matter of the manor being coated in pitch-black.'v
+”Benio
+u'Fifth, the matter of a swarm of crows covering the manor.' 'Sixth, the matter of the "Sacrifice of the Seven-Possessed".' 'Seventh, the matter of the spirit of the sacrificed girl wandering the manor.' ...That is all.v
+”Benio
+uIf you wish to investigate, please, do as you like. Though my efforts may be modest, I would be happy to assist you.v
+”Protagonist
+uAh... thank you very much.v
+”Tsujimura
+uI... don't know much about such things...v
+”Protagonist
+uI see...v
+”Rokuyou
+uThe curse...? Come to think of it, I feel like Benio mentioned something like that. You should try asking her.v
+”Protagonist
+uI see.v
+”Takamine
+uI have no interest in such trivial nonsense.v
+”Protagonist
+uI-I see...v
+”Mikanagi
+uThe curse? ...Ah, that's just a rumor, right? I think Benio-san would be the one familiar with those stories.v
+”Protagonist
+uI see...v
+”Akane
+uT-The curse... I know there are all sorts of things being said... it's quite scary, isn't it?v
+”Protagonist
+uIt is...v
+”Narumi
+uThe curse? I've certainly heard people in town talking about it... but if you want details, why not ask Lady Benio?v
+”Protagonist
+uThat's a good idea.v

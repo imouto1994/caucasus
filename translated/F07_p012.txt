@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAbout the late Kousei-san? He was a famous musician. Even I know a few of his pieces.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒMy husband was a great composer. He was the one who built the music room in this mansion, after all.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒFather? He was kind to everyone without distinction.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒShion
-ã€ŒFather... was very good to me.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒThe Master was... my older brother, but he hired me here when I had nowhere else to go. I am deeply grateful to him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMy father was Kousei-san's legal counsel. He seems to have made quite a fortune from his compositions.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒMy father was Kousei-san's primary physician, you see. That's how I ended up here as well.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒThe Master? I never met him personally, so I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe Master... I didn't know him well, but I've heard he was a very fine man.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒFather? He was a kind man. He used to read to me often when I was small.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uAbout the late Kousei-san? He was a famous musician. Even I know a few of his pieces.v
+”Protagonist
+uI see.v
+”Maya
+uMy husband was a great composer. He was the one who built the music room in this mansion, after all.v
+”Protagonist
+uI see...v
+”Benio
+uFather? He was kind to everyone without distinction.v
+”Protagonist
+uI see.v
+”Shion
+uFather... was very good to me.v
+”Protagonist
+uI see.v
+”Tsujimura
+uThe Master was... my older brother, but he hired me here when I had nowhere else to go. I am deeply grateful to him.v
+”Protagonist
+uI see...v
+”Takamine
+uMy father was Kousei-san's legal counsel. He seems to have made quite a fortune from his compositions.v
+”Protagonist
+uI see...v
+”Mikanagi
+uMy father was Kousei-san's primary physician, you see. That's how I ended up here as well.v
+”Protagonist
+uI see.v
+”Narumi
+uThe Master? I never met him personally, so I don't really know.v
+”Protagonist
+uI see...v
+”Akane
+uThe Master... I didn't know him well, but I've heard he was a very fine man.v
+”Protagonist
+uI see...v
+”Ai
+uFather? He was a kind man. He used to read to me often when I was small.v
+”Protagonist
+uI see.v

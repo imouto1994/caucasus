@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒAbout the late Kousei-san? He was a renowned musician. I know several of his pieces myself.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒMy husband was a great composer. It was he who built the performance room in this mansion.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒFather? He was kind to everyone without distinction.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒShion
-ã€ŒFather... he was very good to me.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTsujimura
-ã€ŒMaster... he was my brother, and he hired me here when I had nowhere else to go. I'm very grateful.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒMy father was Mr. Kousei's legal counsel. He seemed to have made quite a bit from his compositions.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€ŒMy father was Mr. Kousei's primary physician. That's why I'm here now.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒThe Master? I never met him directly, so I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe Master? ...I didn't know him well, but I've heard he was a very kind man.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒFather? He was a gentle soul. When I was small, he used to read books to me quite often.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uAbout the late Kousei-san? He was a renowned musician. I know several of his pieces myself.v
+”Protagonist
+uI see.v
+”Maya
+uMy husband was a great composer. It was he who built the performance room in this mansion.v
+”Protagonist
+uI see...v
+”Benio
+uFather? He was kind to everyone without distinction.v
+”Protagonist
+uI see.v
+”Shion
+uFather... he was very good to me.v
+”Protagonist
+uI see.v
+”Tsujimura
+uMaster... he was my brother, and he hired me here when I had nowhere else to go. I'm very grateful.v
+”Protagonist
+uI see...v
+”Takamine
+uMy father was Mr. Kousei's legal counsel. He seemed to have made quite a bit from his compositions.v
+”Protagonist
+uI see...v
+”Mikanagi
+uMy father was Mr. Kousei's primary physician. That's why I'm here now.v
+”Protagonist
+uI see.v
+”Narumi
+uThe Master? I never met him directly, so I don't really know.v
+”Protagonist
+uI see...v
+”Akane
+uThe Master? ...I didn't know him well, but I've heard he was a very kind man.v
+”Protagonist
+uI see...v
+”Ai
+uFather? He was a gentle soul. When I was small, he used to read books to me quite often.v
+”Protagonist
+uI see.v

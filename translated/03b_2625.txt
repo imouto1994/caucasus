@@ -1,18 +1,18 @@
 When I returned to the office, Maya-san was there, which was unusual.
-ï¼ƒProtagonist
-ã€ŒAh... Maya-san...ã€
-ï¼ƒMaya
-ã€ŒOh... were you with Shion?ã€
-ï¼ƒProtagonist
-ã€ŒYes... there was something I absolutely had to confirm...ã€
-ï¼ƒMaya
-ã€ŒI see... By the way, did Shion take her medicine?ã€
-ï¼ƒProtagonist
-ã€ŒAh... since Dr. Mikanagi passed away, she probably hasn't yet.ã€
-ï¼ƒMaya
-ã€ŒI see... just as I thought... I'm glad I brought it then.ã€
-ï¼ƒProtagonist
-ã€ŒUm... well, I'll be taking my leave now.ã€
-ï¼ƒMaya
-ã€ŒYes, good night to you.ã€
+”Protagonist
+uAh... Maya-san...v
+”Maya
+uOh... were you with Shion?v
+”Protagonist
+uYes... there was something I absolutely had to confirm...v
+”Maya
+uI see... By the way, did Shion take her medicine?v
+”Protagonist
+uAh... since Dr. Mikanagi passed away, she probably hasn't yet.v
+”Maya
+uI see... just as I thought... I'm glad I brought it then.v
+”Protagonist
+uUm... well, I'll be taking my leave now.v
+”Maya
+uYes, good night to you.v
 Leaving Maya-san behind, I stepped out of the office.

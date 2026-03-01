@@ -1,24 +1,24 @@
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-ï¼ƒProtagonist
-ã€ŒDr. Mikanagi, are you in?ã€
+”Protagonist
+uDr. Mikanagi, are you in?v
 The door opened, and Dr. Mikanagi peeked out.
-ï¼ƒMikanagi
-ã€ŒWhat's the matter?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Dr. Mikanagi. Do you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒYes, I don't mind, but what is it?ã€
+”Mikanagi
+uWhat's the matter?v
+”Protagonist
+uHello, Dr. Mikanagi. Do you have a moment?v
+”Mikanagi
+uYes, I don't mind, but what is it?v
 Now, what should I do?
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
 The door opened, and Dr. Mikanagi peeked out.
-ï¼ƒMikanagi
-ã€ŒOh, what is it this time?ã€
-ï¼ƒProtagonist
-ã€ŒHello, Dr. Mikanagi. Do you have a moment?ã€
-ï¼ƒMikanagi
-ã€ŒWell, I don't mind.ã€
+”Mikanagi
+uOh, what is it this time?v
+”Protagonist
+uHello, Dr. Mikanagi. Do you have a moment?v
+”Mikanagi
+uWell, I don't mind.v
 Now, what should I do?
 This is Dr. Mikanagi's room.
 I knock lightly on the door.

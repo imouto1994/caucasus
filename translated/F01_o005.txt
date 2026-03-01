@@ -1,77 +1,77 @@
-ï¼ƒSouko
-ã€ŒHuh... there's even something like that.ã€
-ï¼ƒSouko
-ã€ŒSo it was Shion-san's room... She's the only one made to live in the annex.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒMaya
-ã€ŒThere is indeed a tower outside... is something wrong?ã€
-ï¼ƒProtagonist
-ã€ŒOh, no, it's nothing.ã€
-ï¼ƒMaya
-ã€ŒThat is the room of my youngest daughter, Shion. Her constitution is weak, so we have her living in the annex.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒYes, there is a tower...ã€
-ï¼ƒAi
-ã€Œ...That is indeed Shion's room. Since she is physically weak, she has always lived there.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒIf you wish to go there, I believe you should speak to Tsujimura in the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒBenio
-ã€ŒWith this much snow, it would be impossible to reach the tower from anywhere but the office door.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right.ã€
-ï¼ƒTsujimura
-ã€ŒYes, you can reach the tower in the back from the office, but...ã€
-ï¼ƒProtagonist
-ã€ŒWould it be alright if I went there?ã€
-ï¼ƒTsujimura
-ã€ŒI'm sorry, but that's a bit...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uHuh... there's even something like that.v
+”Souko
+uSo it was Shion-san's room... She's the only one made to live in the annex.v
+”Protagonist
+uYeah...v
+”Maya
+uThere is indeed a tower outside... is something wrong?v
+”Protagonist
+uOh, no, it's nothing.v
+”Maya
+uThat is the room of my youngest daughter, Shion. Her constitution is weak, so we have her living in the annex.v
+”Protagonist
+uIs that so...v
+”Ai
+uYes, there is a tower...v
+”Ai
+u...That is indeed Shion's room. Since she is physically weak, she has always lived there.v
+”Protagonist
+uIs that so...v
+”Benio
+uIf you wish to go there, I believe you should speak to Tsujimura in the office.v
+”Protagonist
+uI see.v
+”Benio
+uWith this much snow, it would be impossible to reach the tower from anywhere but the office door.v
+”Protagonist
+uYou're right.v
+”Tsujimura
+uYes, you can reach the tower in the back from the office, but...v
+”Protagonist
+uWould it be alright if I went there?v
+”Tsujimura
+uI'm sorry, but that's a bit...v
+”Protagonist
+uI see...v
 It seems it's no use without a proper reason.
-ï¼ƒTsujimura
-ã€ŒIn this snow, I'll have to do some shoveling myself. It would be a disaster if Lady Shion were to trip.ã€
-ï¼ƒProtagonist
-ã€ŒThat's true.ã€
-ï¼ƒRokuyou
-ã€ŒThe tower where Shion is, right? There's a gatekeeper there, so you can't just approach it carelessly.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒThe tower outside... if you want to see it, you should ask Mr. Tsujimura.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒTakamine
-ã€Œ...I hear Shion-kun has lived in that tower since a long time ago.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒMikanagi
-ã€ŒThe tower... you can get there through the back door in the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMikanagi
-ã€ŒI've heard Shion-san lives in the annex because she's physically weak... but it might have been my father who gave those instructions...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe tower outside? That is Lady Shion's room...ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAkane
-ã€ŒI am the one who brings Lady Shion her meals, but she usually eats them in the office.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒNarumi
-ã€ŒThe youngest daughter, Lady Shion, lives in that tower outside.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒNarumi
-ã€ŒOnly Lady Shion lives in the annex... it's a bit strange, isn't it?ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
+”Tsujimura
+uIn this snow, I'll have to do some shoveling myself. It would be a disaster if Lady Shion were to trip.v
+”Protagonist
+uThat's true.v
+”Rokuyou
+uThe tower where Shion is, right? There's a gatekeeper there, so you can't just approach it carelessly.v
+”Protagonist
+uI see...v
+”Takamine
+uThe tower outside... if you want to see it, you should ask Mr. Tsujimura.v
+”Protagonist
+uI see.v
+”Takamine
+u...I hear Shion-kun has lived in that tower since a long time ago.v
+”Protagonist
+uIs that so...v
+”Mikanagi
+uThe tower... you can get there through the back door in the office.v
+”Protagonist
+uI see.v
+”Mikanagi
+uI've heard Shion-san lives in the annex because she's physically weak... but it might have been my father who gave those instructions...v
+”Protagonist
+uI see...v
+”Akane
+uThe tower outside? That is Lady Shion's room...v
+”Protagonist
+uI see.v
+”Akane
+uI am the one who brings Lady Shion her meals, but she usually eats them in the office.v
+”Protagonist
+uIs that so...v
+”Narumi
+uThe youngest daughter, Lady Shion, lives in that tower outside.v
+”Protagonist
+uIs that so...v
+”Narumi
+uOnly Lady Shion lives in the annex... it's a bit strange, isn't it?v
+”Protagonist
+uI suppose so...v

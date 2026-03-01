@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒAkane-san was with you the whole time, wasn't she? ...Though, there is a possibility she's using that as an alibi.ã€
-ï¼ƒProtagonist
-ã€Œ...I think it's premature to jump to that conclusion, but...ã€
-ï¼ƒBenio
-ã€ŒAkane was with you, wasn't she? If so, couldn't you tell just by looking at her reaction?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€ŒAs for Mistress Hiyama, I believe she would have been preparing lunch around that time...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒBut I was with you the entire time, wasn't I?ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah, that's right...ã€
-ï¼ƒNarumi
-ã€ŒAs for Akane, wasn't she with you?ã€
-ï¼ƒProtagonist
-ã€ŒY-Yeah, I suppose so...ã€
+”Souko
+uAkane-san was with you the whole time, wasn't she? ...Though, there is a possibility she's using that as an alibi.v
+”Protagonist
+u...I think it's premature to jump to that conclusion, but...v
+”Benio
+uAkane was with you, wasn't she? If so, couldn't you tell just by looking at her reaction?v
+”Protagonist
+uTrue...v
+”Tsujimura
+uAs for Mistress Hiyama, I believe she would have been preparing lunch around that time...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uBut I was with you the entire time, wasn't I?v
+”Protagonist
+uY-Yeah, that's right...v
+”Narumi
+uAs for Akane, wasn't she with you?v
+”Protagonist
+uY-Yeah, I suppose so...v

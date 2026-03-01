@@ -1,8 +1,8 @@
 I searched the area, but I couldn't find anything resembling a key.
 Inside the drawer by the bedside, I found a small wood fragment.
 What is this...? It looks like a piece of parquetry.
-ï¼ƒProtagonist
-ã€Œ...I suppose I'll hang onto this for now.ã€
+”Protagonist
+u...I suppose I'll hang onto this for now.v
 There's nothing unusual inside.
 Items that Kousei-san likely used remain inside the drawer.
 There's nothing particularly eye-catching inside.
@@ -23,17 +23,17 @@ A beautiful painting is on display.
 Looking closely, I see it's signed "S. TSUJIMURA."
 It appears to be a painting by Tsujimura-san.
 One of Tsujimura-san's paintings is on display.
-ï¼ƒProtagonist
-ã€ŒHm...?ã€
+”Protagonist
+uHm...?v
 A scrap of paper is peeking out from behind the frame.
 What could this be...?
-ã€A Certain Man's Story: Chapter Fiveã€
-â€”Hmph, I bet you think my takoyaki tastes like shit too, don't you? Acting like you know everything without even taking a bite.
-Hey, do you get it? What takoyaki needs isn't flavorâ€”it's about making the customer who bought it feel a little bit of happiness.
+wA Certain Man's Story: Chapter Fivex
+?Hmph, I bet you think my takoyaki tastes like shit too, don't you? Acting like you know everything without even taking a bite.
+Hey, do you get it? What takoyaki needs isn't flavor?it's about making the customer who bought it feel a little bit of happiness.
 Whether it tastes good or bad isn't what's truly necessary. At least, that's how I've lived my life.
 The man's verbal assault didn't stop. I felt a deep sense of pity from the bottom of my heart, thinking he must have lived a remarkably miserable life. ~To be continued~
-ï¼ƒProtagonist
-ã€Œ...What the hell is this?ã€
+”Protagonist
+u...What the hell is this?v
 A scrap of paper titled 'A Certain Man's Story: Chapter Five' is tucked inside.
 A large painting is on display.
 The artist's name is... "Mamiya Shinzou," it seems.
@@ -51,50 +51,50 @@ The fire in the hearth has been extinguished.
 There should be no problem investigating it.
 I peer deep into the chimney, but there's nothing there.
 It happened just as I moved the ash pan aside.
-ï¼ƒProtagonist
-ã€ŒAhâ€”ã€
-ï¼ƒNarumi
-ã€ŒDid you find something?ã€
+”Protagonist
+uAh?v
+”Narumi
+uDid you find something?v
 Narumi-san peers in beside me.
-ï¼ƒProtagonist
-ã€ŒIs this... a keyhole?ã€
+”Protagonist
+uIs this... a keyhole?v
 A small hole has been bored into the floor of the fireplace.
-ï¼ƒNarumi
-ã€ŒIt looks that way... maybe this bottom section opens up.ã€
-ï¼ƒProtagonist
-ã€ŒCan you open it?ã€
-ï¼ƒNarumi
-ã€ŒI wonder...ã€
+”Narumi
+uIt looks that way... maybe this bottom section opens up.v
+”Protagonist
+uCan you open it?v
+”Narumi
+uI wonder...v
 Narumi-san crouches down and inserts a wire into the keyhole on the floor.
-ï¼ƒNarumi
-ã€ŒThe first time with a lock is always the hardest...ã€
+”Narumi
+uThe first time with a lock is always the hardest...v
 Narumi-san struggled with it for a while, but eventually stood up, seemingly having given up.
-ï¼ƒNarumi
-ã€ŒIt'll be faster to just find the actual key.ã€
-ï¼ƒProtagonist
-ã€ŒI see... but where would the real key be...?ã€
-ï¼ƒNarumi
-ã€ŒTo begin with, it was a mistake to decode the second half of the cipher first. I think we'll get the key once we solve the first half.ã€
-ï¼ƒProtagonist
-ã€ŒThe first half...?ã€
+”Narumi
+uIt'll be faster to just find the actual key.v
+”Protagonist
+uI see... but where would the real key be...?v
+”Narumi
+uTo begin with, it was a mistake to decode the second half of the cipher first. I think we'll get the key once we solve the first half.v
+”Protagonist
+uThe first half...?v
 The first half of '1SO K H5 / 1SN KAMIN'.
-ï¼ƒProtagonist
-ã€ŒAt the very least, I think we've established that '1SN KAMIN' refers to the fireplace in the north of the second floor...ã€
+”Protagonist
+uAt the very least, I think we've established that '1SN KAMIN' refers to the fireplace in the north of the second floor...v
 Just then, Narumi-san clapped her hands together.
-ï¼ƒNarumi
-ã€ŒI've got it! It's the European floor numbering. Didn't they call the first floor the ground floor?ã€
-ï¼ƒProtagonist
-ã€ŒSo the second floor is '1F'... which makes it '1S' in this case.ã€
-ï¼ƒNarumi
-ã€ŒSo the first half is also on the second floor... but where's 'O'?ã€
-ï¼ƒProtagonist
-ã€ŒCould it be the center...? But there's nothing in the middle of the second floor.ã€
-ï¼ƒNarumi
-ã€Œ...Well, we'll manage somehow if we just keep at it like we did when we found this place.ã€
-ï¼ƒProtagonist
-ã€ŒBut 'K H5' isn't as obvious as a fireplace...ã€
-ï¼ƒNarumi
-ã€ŒBut it's definitely something, so let's give it a shot.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
+”Narumi
+uI've got it! It's the European floor numbering. Didn't they call the first floor the ground floor?v
+”Protagonist
+uSo the second floor is '1F'... which makes it '1S' in this case.v
+”Narumi
+uSo the first half is also on the second floor... but where's 'O'?v
+”Protagonist
+uCould it be the center...? But there's nothing in the middle of the second floor.v
+”Narumi
+u...Well, we'll manage somehow if we just keep at it like we did when we found this place.v
+”Protagonist
+uBut 'K H5' isn't as obvious as a fireplace...v
+”Narumi
+uBut it's definitely something, so let's give it a shot.v
+”Protagonist
+uYou're right...v
 There's no point in investigating here further until we find the key.

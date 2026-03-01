@@ -1,40 +1,40 @@
-ï¼ƒSouko
-ã€ŒIt seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒMaya
-ã€ŒIt is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'.ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒAi
-ã€ŒAbout Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago...ã€
-ï¼ƒProtagonist
-ã€ŒIs that so...ã€
-ï¼ƒBenio
-ã€ŒIf it is about Nanatsuki Village, I believe it would be best to ask my mother or my elder sister.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒI've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒRokuyou
-ã€ŒThe origin of Nanatsuki Village? Who knows... I'm not from around here, so I don't know much about it.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€Œ...I don't know. Ask someone else.ã€
-ï¼ƒProtagonist
-ã€Œ...Alright.ã€
-ï¼ƒMikanagi
-ã€ŒAs for origins and such, I think it's better to ask someone from the Nanatsuki family.ã€
-ï¼ƒProtagonist
-ã€ŒYou're right...ã€
-ï¼ƒAkane
-ã€ŒUm... well, it's only been a short while since I came here, so...ã€
-ï¼ƒProtagonist
-ã€ŒThat's true, sorry for asking...ã€
-ï¼ƒNarumi
-ã€ŒNanatsuki Village, huh... I think you're better off asking the people who live in this house about that.ã€
-ï¼ƒProtagonist
-ã€Œ...I suppose so.ã€
+”Souko
+uIt seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here.v
+”Protagonist
+uIs that so...v
+”Maya
+uIt is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'.v
+”Protagonist
+uIs that so...v
+”Ai
+uAbout Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago...v
+”Protagonist
+uIs that so...v
+”Benio
+uIf it is about Nanatsuki Village, I believe it would be best to ask my mother or my elder sister.v
+”Protagonist
+uI see...v
+”Tsujimura
+uI've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first.v
+”Protagonist
+uI see...v
+”Rokuyou
+uThe origin of Nanatsuki Village? Who knows... I'm not from around here, so I don't know much about it.v
+”Protagonist
+uI see...v
+”Takamine
+u...I don't know. Ask someone else.v
+”Protagonist
+u...Alright.v
+”Mikanagi
+uAs for origins and such, I think it's better to ask someone from the Nanatsuki family.v
+”Protagonist
+uYou're right...v
+”Akane
+uUm... well, it's only been a short while since I came here, so...v
+”Protagonist
+uThat's true, sorry for asking...v
+”Narumi
+uNanatsuki Village, huh... I think you're better off asking the people who live in this house about that.v
+”Protagonist
+u...I suppose so.v

@@ -1,48 +1,48 @@
-ï¼ƒSouko
-ã€ŒThere was an incident like this before...? But if no one died, it wouldn't be considered a similar incident. It seems Tsujimura-san is hiding something...ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
-ï¼ƒMaya
-ã€ŒA similar incident... No, I've never heard of such a thing...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAi
-ã€ŒA similar incident... It would be a problem if things like this happened all the time.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒBenio
-ã€ŒSomething like this happened before... Is that what Tsujimura said? ...In that case, it must be something related to the 'Curse of the Seven Possessed'...ã€
-ï¼ƒProtagonist
-ã€ŒMaybe so...ã€
-ï¼ƒShion
-ã€ŒUm... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThat was... well, it was a long time ago...ã€
-ï¼ƒProtagonist
-ã€Œ...Please tell me, Tsujimura-san. Even if it was a long time ago... what happened? It might be connected to what's happening now.ã€
-ï¼ƒTsujimura
-ã€ŒB-But... I am sorry, I simply cannot...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒA similar incident, huh...ã€
-ï¼ƒProtagonist
-ã€ŒDo you know something?ã€
-ï¼ƒTakamine
-ã€Œ...No, I don't.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒMikanagi
-ã€ŒA similar incident... I can't really say.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒAkane
-ã€ŒSimilar... No, I'm sorry... I don't really know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒI don't really know about that.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uThere was an incident like this before...? But if no one died, it wouldn't be considered a similar incident. It seems Tsujimura-san is hiding something...v
+”Protagonist
+uMaybe so...v
+”Maya
+uA similar incident... No, I've never heard of such a thing...v
+”Protagonist
+uI see...v
+”Ai
+uA similar incident... It would be a problem if things like this happened all the time.v
+”Protagonist
+uRight...v
+”Benio
+uSomething like this happened before... Is that what Tsujimura said? ...In that case, it must be something related to the 'Curse of the Seven Possessed'...v
+”Protagonist
+uMaybe so...v
+”Shion
+uUm... I'm sorry, I don't really know...v
+”Protagonist
+uI see...v
+”Tsujimura
+uThat was... well, it was a long time ago...v
+”Protagonist
+u...Please tell me, Tsujimura-san. Even if it was a long time ago... what happened? It might be connected to what's happening now.v
+”Tsujimura
+uB-But... I am sorry, I simply cannot...v
+”Protagonist
+uI see...v
+”Takamine
+uA similar incident, huh...v
+”Protagonist
+uDo you know something?v
+”Takamine
+u...No, I don't.v
+”Protagonist
+u...I see.v
+”Mikanagi
+uA similar incident... I can't really say.v
+”Protagonist
+uRight...v
+”Akane
+uSimilar... No, I'm sorry... I don't really know.v
+”Protagonist
+uI see...v
+”Narumi
+uI don't really know about that.v
+”Protagonist
+uI see...v

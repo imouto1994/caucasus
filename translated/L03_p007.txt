@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒTakamine-san, huh... Honestly, I don't really know. He seems to be in his room the whole time.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒTakamine doesn't seem to have left his room much. Likely out of caution for his surroundings... but it doesn't leave a very pleasant impression.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒTsujimura
-ã€ŒMaster Takamine? I haven't seen him speaking much with anyone else since Master Rokuyou passed away...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI've been in my room since I returned just before eleven. I don't believe anything happened.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒMaster Takamine? I believe he was likely in his room the entire time.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒIf it's Takamine-san, I'd bet he was in his room. I don't think he's even shown his face in the dining hall.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uTakamine-san, huh... Honestly, I don't really know. He seems to be in his room the whole time.v
+”Protagonist
+uI see...v
+”Benio
+uTakamine doesn't seem to have left his room much. Likely out of caution for his surroundings... but it doesn't leave a very pleasant impression.v
+”Protagonist
+u...I see.v
+”Tsujimura
+uMaster Takamine? I haven't seen him speaking much with anyone else since Master Rokuyou passed away...v
+”Protagonist
+uI see...v
+”Takamine
+uI've been in my room since I returned just before eleven. I don't believe anything happened.v
+”Protagonist
+uI see...v
+”Akane
+uMaster Takamine? I believe he was likely in his room the entire time.v
+”Protagonist
+uI see.v
+”Narumi
+uIf it's Takamine-san, I'd bet he was in his room. I don't think he's even shown his face in the dining hall.v
+”Protagonist
+uI see...v

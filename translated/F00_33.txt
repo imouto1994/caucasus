@@ -1,14 +1,14 @@
 I step inside the study.
-ï¼ƒNarumi
-ã€ŒThere's no fireplace.ã€
-ï¼ƒProtagonist
-ã€ŒTrue... but this is Kousei-san's study, so there might be some clues left behind.ã€
-ï¼ƒNarumi
-ã€ŒWant to check it just in case?ã€
+”Narumi
+uThere's no fireplace.v
+”Protagonist
+uTrue... but this is Kousei-san's study, so there might be some clues left behind.v
+”Narumi
+uWant to check it just in case?v
 I step inside the study.
-ï¼ƒNarumi
-ã€ŒWant to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.ã€
-ï¼ƒProtagonist
-ã€ŒRight... but more importantly, this is Kousei-san's study, so there might be some clues left behind.ã€
-ï¼ƒNarumi
-ã€ŒWant to check it just in case?ã€
+”Narumi
+uWant to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.v
+”Protagonist
+uRight... but more importantly, this is Kousei-san's study, so there might be some clues left behind.v
+”Narumi
+uWant to check it just in case?v

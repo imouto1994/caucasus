@@ -1,30 +1,30 @@
-ï¼ƒProtagonist
-ã€ŒMikanagi-sensei, do you have any idea when Shion-san passed away?ã€
-ï¼ƒMikanagi
-ã€ŒHard to say... I'd guess within the last hour, but I can't say for certain.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Protagonist
+uMikanagi-sensei, do you have any idea when Shion-san passed away?v
+”Mikanagi
+uHard to say... I'd guess within the last hour, but I can't say for certain.v
+”Protagonist
+uI see...v
 Shion-san... why...
 A painting hangs on the wall.
-...Itâ€™s Tsujimura-sanâ€™s work.
-The painting Tsujimura-san painted looked down upon Shion-sanâ€™s silent remains.
+...Itfs Tsujimura-sanfs work.
+The painting Tsujimura-san painted looked down upon Shion-sanfs silent remains.
 A glass is rolling on the floor.
-ï¼ƒProtagonist
-ã€Œ...Is this how she drank the poison?ã€
-ï¼ƒBenio
-ã€ŒBetter not touch it carelessly. There might be fingerprints left on it.ã€
-ï¼ƒProtagonist
-ã€ŒYeah, I understand.ã€
+”Protagonist
+u...Is this how she drank the poison?v
+”Benio
+uBetter not touch it carelessly. There might be fingerprints left on it.v
+”Protagonist
+uYeah, I understand.v
 I take out a handkerchief, carefully wrap it, and pick it up.
-ï¼ƒProtagonist
-ã€Œ...There's a little bit of liquid left inside.ã€
-ï¼ƒMikanagi
-ã€ŒLet me see it.ã€
+”Protagonist
+u...There's a little bit of liquid left inside.v
+”Mikanagi
+uLet me see it.v
 I hand the glass to Mikanagi-sensei.
-ï¼ƒMikanagi
-ã€ŒDon't sniff it carelessly. If it's cyanide like I suspect, even the gas alone could be fatal.ã€
-ï¼ƒProtagonist
-ã€Œ...Understood.ã€
+”Mikanagi
+uDon't sniff it carelessly. If it's cyanide like I suspect, even the gas alone could be fatal.v
+”Protagonist
+u...Understood.v
 How did it come to this...
 The snow seems to be letting up.
 Tomorrow will probably be clear, but this mansion...

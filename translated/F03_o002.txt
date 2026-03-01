@@ -1,32 +1,32 @@
-ï¼ƒSouko
-ã€ŒI wonder how Shion-san is treated in the will...ã€
-ï¼ƒProtagonist
-ã€ŒShe's an adopted child after all... I am a bit curious.ã€
-ï¼ƒMaya
-ã€ŒI am sorry... but I do not think she is in a state to talk yet.ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒBenio
-ã€ŒThe matter of the will has been left to Takamine. If you're curious, you should ask him.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒThe will... I'm sorry, I don't really know...ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒTsujimura
-ã€Œ...Regarding that matter, there is nothing I can say.ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒTakamine
-ã€ŒIt is not yet time. As long as the cause of Rokuyou-kun's murder is not clear, I have no intention of making the contents public.ã€
-ï¼ƒProtagonist
-ã€ŒT-That's true...ã€
-ï¼ƒMikanagi
-ã€ŒThat is... not a matter I can say anything about.ã€
-ï¼ƒProtagonist
-ã€ŒThat's true...ã€
-ï¼ƒNarumi
-ã€ŒA will, huh... It's not like I'm getting any money, so I'm not very interested.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uI wonder how Shion-san is treated in the will...v
+”Protagonist
+uShe's an adopted child after all... I am a bit curious.v
+”Maya
+uI am sorry... but I do not think she is in a state to talk yet.v
+”Protagonist
+uThat's true...v
+”Benio
+uThe matter of the will has been left to Takamine. If you're curious, you should ask him.v
+”Protagonist
+uI see...v
+”Shion
+uThe will... I'm sorry, I don't really know...v
+”Protagonist
+uThat's true...v
+”Tsujimura
+u...Regarding that matter, there is nothing I can say.v
+”Protagonist
+uThat's true...v
+”Takamine
+uIt is not yet time. As long as the cause of Rokuyou-kun's murder is not clear, I have no intention of making the contents public.v
+”Protagonist
+uT-That's true...v
+”Mikanagi
+uThat is... not a matter I can say anything about.v
+”Protagonist
+uThat's true...v
+”Narumi
+uA will, huh... It's not like I'm getting any money, so I'm not very interested.v
+”Protagonist
+uI see...v

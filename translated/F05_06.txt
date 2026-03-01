@@ -1,31 +1,31 @@
-Iâ€™ve arrived at the reception room.
-ï¼ƒShion
-ã€ŒAh...ã€
+Ifve arrived at the reception room.
+”Shion
+uAh...v
 Shion-san was there.
-ï¼ƒProtagonist
-ã€ŒShion-san, how are you feeling?ã€
-ï¼ƒShion
-ã€ŒStill... not very well...ã€
-ï¼ƒProtagonist
-ã€ŒDon't you think it's better if you rest in your room?ã€
-ï¼ƒShion
-ã€ŒYes... perhaps. But... it's always like this...ã€
+”Protagonist
+uShion-san, how are you feeling?v
+”Shion
+uStill... not very well...v
+”Protagonist
+uDon't you think it's better if you rest in your room?v
+”Shion
+uYes... perhaps. But... it's always like this...v
 Shion-san gave a weak smile.
-ï¼ƒProtagonist
-ã€Œ...Please don't push yourself.ã€
-ï¼ƒShion
-ã€ŒYes, thank you. By the way... did you have business with me?ã€
+”Protagonist
+u...Please don't push yourself.v
+”Shion
+uYes, thank you. By the way... did you have business with me?v
 Shion-san was still in the reception room.
-ï¼ƒShion
-ã€ŒAh... what is it?ã€
-ï¼ƒProtagonist
-ã€ŒIâ€™m just doing my rounds. I don't know what might happen yet, after all.ã€
-ï¼ƒShion
-ã€ŒWill... something else happen...?ã€
-ï¼ƒProtagonist
-ã€ŒI can't say for sure... but I intend to do my best to ensure nothing does.ã€
-ï¼ƒShion
-ã€ŒI see...ã€
+”Shion
+uAh... what is it?v
+”Protagonist
+uIfm just doing my rounds. I don't know what might happen yet, after all.v
+”Shion
+uWill... something else happen...?v
+”Protagonist
+uI can't say for sure... but I intend to do my best to ensure nothing does.v
+”Shion
+uI see...v
 Shion-san looks exhausted as well.
-ï¼ƒShion
-ã€Œ...Did you need anything else...?ã€
+”Shion
+u...Did you need anything else...?v

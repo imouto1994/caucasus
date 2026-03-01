@@ -1,36 +1,36 @@
-ï¼ƒSouko
-ã€ŒThe possibility of Maya-san being the killer... I doubt it. ...Unless there was a will stating that the entire estate would be inherited by Ai-san, that is.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMaya
-ã€ŒI remained in my room the entire time. It was a blackout... I decided it was best not to move. Mikanagi-sensei did come to check on me.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒBenio
-ã€ŒMother would have no reason to kill my sister, would she? The inheritance doesn't concern her anyway.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
-ï¼ƒShion
-ã€ŒI believe Mother... would have been in her room.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTsujimura
-ã€ŒThe Mistress? She should have been in her room the entire time...ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒMikanagi
-ã€Œ...Maya-san was in her room. I went to check on her during the blackout, so there's no mistake.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒThe Mistress has been resting in her room this whole time... the mental strain seems ceaseless.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒIf it's the Mistress, I think she was in her room the whole time... but the possibility of her killing Lady Ai... well, I can't say it's zero, considering the distribution of the inheritance and all.ã€
-ï¼ƒProtagonist
-ã€Œ...I see.ã€
+”Souko
+uThe possibility of Maya-san being the killer... I doubt it. ...Unless there was a will stating that the entire estate would be inherited by Ai-san, that is.v
+”Protagonist
+uI see...v
+”Maya
+uI remained in my room the entire time. It was a blackout... I decided it was best not to move. Mikanagi-sensei did come to check on me.v
+”Protagonist
+uI see...v
+”Benio
+uMother would have no reason to kill my sister, would she? The inheritance doesn't concern her anyway.v
+”Protagonist
+u...I see.v
+”Shion
+uI believe Mother... would have been in her room.v
+”Protagonist
+uI see...v
+”Tsujimura
+uThe Mistress? She should have been in her room the entire time...v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Mikanagi
+u...Maya-san was in her room. I went to check on her during the blackout, so there's no mistake.v
+”Protagonist
+uI see...v
+”Akane
+uThe Mistress has been resting in her room this whole time... the mental strain seems ceaseless.v
+”Protagonist
+uI see...v
+”Narumi
+uIf it's the Mistress, I think she was in her room the whole time... but the possibility of her killing Lady Ai... well, I can't say it's zero, considering the distribution of the inheritance and all.v
+”Protagonist
+u...I see.v

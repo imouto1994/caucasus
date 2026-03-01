@@ -1,24 +1,24 @@
-ï¼ƒSouko
-ã€ŒTsujimura-san, huh... It's true he's well-acquainted with the mansion, but even so... I don't see any reason for him to target Ai-san.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒBenio
-ã€Œ...There's no reason for him to target my sister, but Tsujimura is also the one most capable of setting up that situation. Though it's unthinkable, of course.ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒTsujimura
-ã€ŒI was in the office the whole time... but Lady Shion did come out of her room around noon.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒTakamine
-ã€ŒI wouldn't know.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒAkane
-ã€ŒIf it's Tsujimura-san, I believe he was in the office.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€ŒTsujimura-san? Wouldn't he be in the office? He's usually there during the day.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
+”Souko
+uTsujimura-san, huh... It's true he's well-acquainted with the mansion, but even so... I don't see any reason for him to target Ai-san.v
+”Protagonist
+uTrue...v
+”Benio
+u...There's no reason for him to target my sister, but Tsujimura is also the one most capable of setting up that situation. Though it's unthinkable, of course.v
+”Protagonist
+uTrue...v
+”Tsujimura
+uI was in the office the whole time... but Lady Shion did come out of her room around noon.v
+”Protagonist
+uI see...v
+”Takamine
+uI wouldn't know.v
+”Protagonist
+uI see...v
+”Akane
+uIf it's Tsujimura-san, I believe he was in the office.v
+”Protagonist
+uI see...v
+”Narumi
+uTsujimura-san? Wouldn't he be in the office? He's usually there during the day.v
+”Protagonist
+uI see.v

@@ -1,80 +1,80 @@
 I've come to the dining hall.
-ï¼ƒProtagonist
-ã€ŒHuh...ã€
+”Protagonist
+uHuh...v
 Nobody's here.
 I thought someone would usually be in the dining hall.
 What should I do...
 I've come to the dining hall.
-ï¼ƒNarumi
-ã€ŒAh, what's up?ã€
+”Narumi
+uAh, what's up?v
 Narumi-san spoke to me.
-ï¼ƒProtagonist
-ã€ŒI'm just doing some rounds for now.ã€
-ï¼ƒNarumi
-ã€ŒI see. Thanks for all the trouble.ã€
-ï¼ƒProtagonist
-ã€ŒNo, I'm just doing it on my own accord.ã€
-ï¼ƒNarumi
-ã€ŒYou're quite dedicated...ã€
+”Protagonist
+uI'm just doing some rounds for now.v
+”Narumi
+uI see. Thanks for all the trouble.v
+”Protagonist
+uNo, I'm just doing it on my own accord.v
+”Narumi
+uYou're quite dedicated...v
 Narumi-san let out a voice that sounded halfway between impressed and exasperated.
 I've come to the dining hall.
-ï¼ƒNarumi
-ã€ŒOh, what's wrong this time?ã€
+”Narumi
+uOh, what's wrong this time?v
 Narumi-san noticed me and spoke up.
-ï¼ƒProtagonist
-ã€ŒUh, well...ã€
+”Protagonist
+uUh, well...v
 I've come to the dining hall.
-ï¼ƒNarumi
-ã€ŒAh, what's up?ã€
+”Narumi
+uAh, what's up?v
 Narumi-san, who was sitting listlessly in a chair, spoke to me.
-ï¼ƒProtagonist
-ã€ŒI'm doing rounds. We still don't know what might happen.ã€
-ï¼ƒNarumi
-ã€ŒAh... right. Thanks for the effort.ã€
-ï¼ƒProtagonist
-ã€ŒNo... I'm just doing it on my own accord.ã€
-Despite checking around this much, I still haven't found Akane-sanâ€”
-ï¼ƒNarumi
-ã€ŒAh!?ã€
+”Protagonist
+uI'm doing rounds. We still don't know what might happen.v
+”Narumi
+uAh... right. Thanks for the effort.v
+”Protagonist
+uNo... I'm just doing it on my own accord.v
+Despite checking around this much, I still haven't found Akane-san?
+”Narumi
+uAh!?v
 Narumi-san suddenly let out a startled cry.
-ï¼ƒProtagonist
-ã€ŒWh-What is it!?ã€
+”Protagonist
+uWh-What is it!?v
 I look in the direction Narumi-san is staring, but I can only see the corridor through the dining hall door.
-ï¼ƒNarumi
-ã€ŒJust now... Akane was...ã€
-ï¼ƒProtagonist
-ã€ŒWhat!?ã€
+”Narumi
+uJust now... Akane was...v
+”Protagonist
+uWhat!?v
 I step out into the corridor with Narumi-san.
 There's no sign of Akane-san anywhere.
-ï¼ƒProtagonist
-ã€ŒDo you know what she was doing?ã€
-ï¼ƒNarumi
-ã€ŒShe came out of Akane's room... and seemed to head for the hall...ã€
+”Protagonist
+uDo you know what she was doing?v
+”Narumi
+uShe came out of Akane's room... and seemed to head for the hall...v
 While saying that, Narumi-san puts her hand on the door to Akane-san's room.
-ï¼ƒNarumi
-ã€ŒIt's locked... That's strange...ã€
+”Narumi
+uIt's locked... That's strange...v
 I try twisting the doorknob too, but it seems to be locked after all.
-ï¼ƒProtagonist
-ã€ŒAre you sure you didn't misidentify her?ã€
-ï¼ƒNarumi
-ã€ŒHmm... I only saw her from behind, so...ã€
-ï¼ƒProtagonist
-ã€Œ...I'll go look for her.ã€
+”Protagonist
+uAre you sure you didn't misidentify her?v
+”Narumi
+uHmm... I only saw her from behind, so...v
+”Protagonist
+u...I'll go look for her.v
 It's better to take action than to stand here worrying.
-ï¼ƒNarumi
-ã€ŒAh, yeah. ...Be careful, you never know what might happen.ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
+”Narumi
+uAh, yeah. ...Be careful, you never know what might happen.v
+”Protagonist
+u...Yeah.v
 I parted ways with Narumi-san.
 If Akane-san really was there, what on earth is she doing...?
 When I entered the dining hall, Narumi-san approached me with a worried expression.
-ï¼ƒNarumi
-ã€ŒDid you find Akane?ã€
-ï¼ƒProtagonist
-ã€ŒNo... I couldn't find her.ã€
+”Narumi
+uDid you find Akane?v
+”Protagonist
+uNo... I couldn't find her.v
 I shake my head.
-ï¼ƒNarumi
-ã€ŒI see...ã€
-ï¼ƒProtagonist
-ã€ŒUm, I'll try looking a little more.ã€
+”Narumi
+uI see...v
+”Protagonist
+uUm, I'll try looking a little more.v
 I turn on my heel and head back out into the corridor.

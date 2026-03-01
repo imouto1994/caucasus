@@ -1,25 +1,25 @@
-ï¼ƒBenio
-ã€Œâ€”Hey.ã€
+”Benio
+u?Hey.v
 Benio-san suddenly called out to us, and we came to a stop.
-ï¼ƒNarumi
-ã€ŒLady Benio...ã€
-ï¼ƒBenio
-ã€ŒEveryone's on edge. Don't wander around the mansion too much.ã€
-ï¼ƒProtagonist
-ã€ŒWe were just investigating the cipher...ã€
-ï¼ƒBenio
-ã€ŒI know that, but stop for now. I can't relax with someone walking up and down the halls in the middle of the night.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒNarumi
-ã€Œ...I guess we have to give up for now.ã€
-ï¼ƒProtagonist
-ã€ŒIn that case... I'm going to go see Shion-san.ã€
-ï¼ƒNarumi
-ã€ŒLady Shion? Did you think of something?ã€
-ï¼ƒProtagonist
-ã€ŒJust a little... I don't have any proof, though.ã€
-ï¼ƒNarumi
-ã€Œ...I see. Be careful.ã€
-ï¼ƒProtagonist
-ã€Œ...Yeah.ã€
+”Narumi
+uLady Benio...v
+”Benio
+uEveryone's on edge. Don't wander around the mansion too much.v
+”Protagonist
+uWe were just investigating the cipher...v
+”Benio
+uI know that, but stop for now. I can't relax with someone walking up and down the halls in the middle of the night.v
+”Protagonist
+uI see...v
+”Narumi
+u...I guess we have to give up for now.v
+”Protagonist
+uIn that case... I'm going to go see Shion-san.v
+”Narumi
+uLady Shion? Did you think of something?v
+”Protagonist
+uJust a little... I don't have any proof, though.v
+”Narumi
+u...I see. Be careful.v
+”Protagonist
+u...Yeah.v

@@ -1,62 +1,62 @@
 Right across from the infirmary was my own room.
-ï¼ƒSouko
-ã€ŒYou're late.ã€
+”Souko
+uYou're late.v
 Souko-san was already in my room.
-ï¼ƒProtagonist
-ã€ŒWhy are you here already...?ã€
-ï¼ƒSouko
-ã€ŒYou didn't lock the door.ã€
+”Protagonist
+uWhy are you here already...?v
+”Souko
+uYou didn't lock the door.v
 Ignoring my question, Souko-san pointed that out.
-ï¼ƒSouko
-ã€ŒYou never know what might happen, so make sure you keep the door locked tight.ã€
-ï¼ƒProtagonist
-ã€Œ...Do you really think something else is going to happen, Souko-san?ã€
-ï¼ƒSouko
-ã€ŒIt would be best if nothing did, but...ã€
-ï¼ƒProtagonist
-ã€ŒSo you're saying there's a chance?ã€
-ï¼ƒSouko
-ã€ŒItâ€™s better to consider it a possibility.ã€
-ï¼ƒProtagonist
-ã€ŒI suppose so...ã€
-ï¼ƒSouko
-ã€ŒNow thenâ€”letâ€™s think about the incident from earlier.ã€
+”Souko
+uYou never know what might happen, so make sure you keep the door locked tight.v
+”Protagonist
+u...Do you really think something else is going to happen, Souko-san?v
+”Souko
+uIt would be best if nothing did, but...v
+”Protagonist
+uSo you're saying there's a chance?v
+”Souko
+uItfs better to consider it a possibility.v
+”Protagonist
+uI suppose so...v
+”Souko
+uNow then?letfs think about the incident from earlier.v
 Souko-san straightened her posture and turned to face me.
-ï¼ƒSouko
-ã€ŒI hope thereâ€™s a clue among the things you found...ã€
-ï¼ƒProtagonist
-ã€ŒI think itâ€™s better to think it over than to just worry. However...ã€
-ï¼ƒSouko
-ã€ŒHowever?ã€
-ï¼ƒProtagonist
-ã€Œ...Is it really okay for us outsiders to just start exposing the killer on our own?ã€
-ï¼ƒSouko
-ã€Œ...I think we're the only ones who can do it, but... itâ€™s a difficult position. If we handle it poorly, it could interfere with our actions from here on.ã€
-ï¼ƒProtagonist
-ã€ŒItâ€™ll be quite a while before we can leave this place...ã€
+”Souko
+uI hope therefs a clue among the things you found...v
+”Protagonist
+uI think itfs better to think it over than to just worry. However...v
+”Souko
+uHowever?v
+”Protagonist
+u...Is it really okay for us outsiders to just start exposing the killer on our own?v
+”Souko
+u...I think we're the only ones who can do it, but... itfs a difficult position. If we handle it poorly, it could interfere with our actions from here on.v
+”Protagonist
+uItfll be quite a while before we can leave this place...v
 We might end up spending several days in a thick, stifling atmosphere.
-ï¼ƒSouko
-ã€ŒSo, whether or not to point out the killer is up to you. If you're confident in your reasoning, I don't think it'll be a problem.ã€
-ï¼ƒProtagonist
-ã€ŒThat's a lot of responsibility...ã€
+”Souko
+uSo, whether or not to point out the killer is up to you. If you're confident in your reasoning, I don't think it'll be a problem.v
+”Protagonist
+uThat's a lot of responsibility...v
 Now then... what should I do?
 [Point out the killer]
 [Don't point out the killer]
-ï¼ƒProtagonist
-ã€Œ...If itâ€™s something we can do, I think we have to do it.ã€
-ï¼ƒSouko
-ã€ŒI see... In that case, Iâ€™ll gather everyone and have you explain it to them, alright?ã€
-ï¼ƒProtagonist
-ã€ŒYeah... letâ€™s go.ã€
-ï¼ƒProtagonist
-ã€Œ...Letâ€™s not.ã€
+”Protagonist
+u...If itfs something we can do, I think we have to do it.v
+”Souko
+uI see... In that case, Ifll gather everyone and have you explain it to them, alright?v
+”Protagonist
+uYeah... letfs go.v
+”Protagonist
+u...Letfs not.v
 I lacked the confidence.
-Not confidence in finding the killerâ€”but confidence in being able to settle things properly afterward.
-ï¼ƒSouko
-ã€Œ...True, that might be for the best.ã€
+Not confidence in finding the killer?but confidence in being able to settle things properly afterward.
+”Souko
+u...True, that might be for the best.v
 Souko-san seemed to agree.
-ï¼ƒProtagonist
-ã€ŒLetâ€™s just watch how things play out for a while.ã€
-ï¼ƒSouko
-ã€ŒUnderstood.ã€
+”Protagonist
+uLetfs just watch how things play out for a while.v
+”Souko
+uUnderstood.v
 We decided to take a little time to organize our thoughts separately.

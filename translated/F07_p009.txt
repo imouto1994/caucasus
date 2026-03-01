@@ -1,68 +1,68 @@
-ï¼ƒSouko
-ã€ŒAkane-san hasn't been acting particularly strange, but we can't be too careful.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒSouko
-ã€ŒI wonder why she disappeared...ã€
-ï¼ƒProtagonist
-ã€Œ...I don't know.ã€
-ï¼ƒMaya
-ã€ŒAkane is a hard worker. She is very attentive to detail.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒMaya
-ã€ŒAkane has vanished... surely, that child couldn't be...?ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know anything for certain yet.ã€
-ï¼ƒAi
-ã€ŒAkane-san? She's an excellent worker.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒAi
-ã€ŒThe fact that Akane-san disappeared... surely that means...ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know yet.ã€
-ï¼ƒShion
-ã€ŒAkane-san... she has always been kind to me.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
-ï¼ƒShion
-ã€ŒAkane-san... where on earth did she go...?ã€
-ï¼ƒProtagonist
-ã€Œ...We don't know yet.ã€
-ï¼ƒTsujimura
-ã€Œ...At any rate, I am glad Mistress Hiyama's injuries were not severe.ã€
-ï¼ƒProtagonist
-ã€ŒYeah...ã€
-ï¼ƒTsujimura
-ã€ŒWhere on earth could Mistress Hiyama have gone...?ã€
-ï¼ƒProtagonist
-ã€ŒWe don't know yet...ã€
-ï¼ƒTakamine
-ã€ŒWhether Hiyama-kun being targeted is connected to you two being locked in the basement... you still don't know?ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒTakamine
-ã€ŒThere are only so many places one can go in this mansion... why can't she be found?ã€
-ï¼ƒProtagonist
-ã€ŒTrue...ã€
-ï¼ƒMikanagi
-ã€ŒI'm glad Akane-san's injuries were minor. ...I don't want to see any more victims, after all.ã€
-ï¼ƒProtagonist
-ã€ŒMe neither...ã€
-ï¼ƒMikanagi
-ã€ŒI wonder if it's because of what happened yesterday... her hiding herself away like that.ã€
-ï¼ƒProtagonist
-ã€Œ...Maybe.ã€
-ï¼ƒAkane
-ã€ŒMy injuries are fine now. For now, let's... think about other things instead.ã€
-ï¼ƒProtagonist
-ã€ŒRight...ã€
-ï¼ƒNarumi
-ã€ŒI don't think you need to worry about Akane's injuries.ã€
-ï¼ƒProtagonist
-ã€ŒI see.ã€
-ï¼ƒNarumi
-ã€ŒThe reason she vanished, huh... She seemed to be looking into something, so maybe it's related to that... but it might be better not to jump to conclusions.ã€
-ï¼ƒProtagonist
-ã€ŒI see...ã€
+”Souko
+uAkane-san hasn't been acting particularly strange, but we can't be too careful.v
+”Protagonist
+uRight...v
+”Souko
+uI wonder why she disappeared...v
+”Protagonist
+u...I don't know.v
+”Maya
+uAkane is a hard worker. She is very attentive to detail.v
+”Protagonist
+uI see.v
+”Maya
+uAkane has vanished... surely, that child couldn't be...?v
+”Protagonist
+u...We don't know anything for certain yet.v
+”Ai
+uAkane-san? She's an excellent worker.v
+”Protagonist
+uI see.v
+”Ai
+uThe fact that Akane-san disappeared... surely that means...v
+”Protagonist
+u...We don't know yet.v
+”Shion
+uAkane-san... she has always been kind to me.v
+”Protagonist
+uI see...v
+”Shion
+uAkane-san... where on earth did she go...?v
+”Protagonist
+u...We don't know yet.v
+”Tsujimura
+u...At any rate, I am glad Mistress Hiyama's injuries were not severe.v
+”Protagonist
+uYeah...v
+”Tsujimura
+uWhere on earth could Mistress Hiyama have gone...?v
+”Protagonist
+uWe don't know yet...v
+”Takamine
+uWhether Hiyama-kun being targeted is connected to you two being locked in the basement... you still don't know?v
+”Protagonist
+uRight...v
+”Takamine
+uThere are only so many places one can go in this mansion... why can't she be found?v
+”Protagonist
+uTrue...v
+”Mikanagi
+uI'm glad Akane-san's injuries were minor. ...I don't want to see any more victims, after all.v
+”Protagonist
+uMe neither...v
+”Mikanagi
+uI wonder if it's because of what happened yesterday... her hiding herself away like that.v
+”Protagonist
+u...Maybe.v
+”Akane
+uMy injuries are fine now. For now, let's... think about other things instead.v
+”Protagonist
+uRight...v
+”Narumi
+uI don't think you need to worry about Akane's injuries.v
+”Protagonist
+uI see.v
+”Narumi
+uThe reason she vanished, huh... She seemed to be looking into something, so maybe it's related to that... but it might be better not to jump to conclusions.v
+”Protagonist
+uI see...v
