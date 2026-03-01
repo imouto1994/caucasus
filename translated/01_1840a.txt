@@ -83,7 +83,7 @@ A middle-aged man was standing by the large door at the end of the hall, looking
 "Tsujimura-san, were you in the chapel?"
 #???
 "Yes, I was preparing for tonight's ceremony. ...And these are the guests who were stranded?"
- the man called Tsujimura-san closed the heavy door and walked toward us.
+the man called Tsujimura-san closed the heavy door and walked toward us.
 #???
 "I'm Seiji Tsujimura, the manager of this estate."
 #Protagonist
