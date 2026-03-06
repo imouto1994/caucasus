@@ -1,32 +1,32 @@
-＃Souko
+＃想子
 ...Rokuyou-san was killed while Shion-san was in the chapel...
-＃Protagonist
+＃主人公
 ...That's how it seems.
-＃Maya
+＃摩夜
 And after we went to such trouble for the wedding...
-＃Protagonist
+＃主人公
 Right...
-＃Benio
+＃紅緒
 Shion is almost always in her room in the tower. Even when she comes to the manor, she does little more than drink tea in the office.
-＃Protagonist
+＃主人公
 I see...
-＃Shion
+＃詩音
 I... don't really understand what's happening... I'm sorry...
-＃Protagonist
+＃主人公
 No...
-＃Tsujimura
+＃辻村
 ...Lady Shion seems quite despondent. It's only natural since Master Rokuyou has passed away...
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 The person she was to marry was killed; it's only natural for Shion-kun to be depressed.
-＃Protagonist
+＃主人公
 Right...
-＃Mikanagi
+＃御巫
 I've prescribed medicine for Shion-san to suppress her headaches. It's an herbal mix. I'm likely the only one who can prepare it.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 Lady Shion? She's likely in her own room or the office.
-＃Protagonist
+＃主人公
 I see...

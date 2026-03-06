@@ -1,30 +1,30 @@
-＃Souko
+＃想子
 The lid of the coffin in the chapel is heavy, so it doesn't look like a girl could open it alone.
-＃Protagonist
+＃主人公
 You're right...
-＃Maya
+＃摩夜
 The chapel is only used for things like weddings, so it's usually kept locked.
-＃Protagonist
+＃主人公
 I see...
-＃Benio
+＃紅緒
 The chapel is almost never used in our daily lives.
-＃Protagonist
+＃主人公
 Is that so?
-＃Shion
+＃詩音
 The chapel... I was in there the whole time...
-＃Tsujimura
+＃辻村
 I intend to lock the chapel later. It likely won't be used again for a while.
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 Don't go wandering in and out of places where you have no business.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 I hear the chapel isn't used normally.
-＃Protagonist
+＃主人公
 Is that so?
-＃Narumi
+＃なるみ
 A chapel that's only used for weddings is quite a luxury, isn't it?
-＃Protagonist
+＃主人公
 I suppose so...

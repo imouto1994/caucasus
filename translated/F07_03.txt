@@ -1,49 +1,49 @@
 When I entered the grand hall, Mikanagi-sensei was drinking tea.
-＃Protagonist
+＃主人公
 Oh, that's rare for you.
-＃Mikanagi
+＃御巫
 I don't spend *all* my time cooped up in the infirmary, you know.
-＃Protagonist
+＃主人公
 No, I didn't mean it like that, but...
-＃Mikanagi
+＃御巫
 Hahaha... By the way, do you need something?
 Mikanagi-sensei was still in the grand hall.
-＃Mikanagi
+＃御巫
 Oh, do you still need something from me?
 Akane-san and Mikanagi-sensei were in the grand hall.
 I wonder which one I should talk to...
 There was no one in the grand hall.
 Well... what should I do?
 When I entered the grand hall, Akane-san was there.
-＃Akane
+＃あかね
 Is something the matter?
-＃Protagonist
+＃主人公
 I'm just doing a quick patrol of the mansion...
-＃Akane
+＃あかね
 I see. Thank you for your hard work.
-＃Protagonist
+＃主人公
 Has anything unusual happened?
-＃Akane
+＃あかね
 No, nothing in particular...
-＃Protagonist
+＃主人公
 I see... We don't know what might happen, so please be careful, Akane-san.
-＃Akane
+＃あかね
 Yes, I understand.
 When I entered the grand hall, Akane-san was still there.
-＃Akane
+＃あかね
 Ah, is something wrong?
-＃Protagonist
+＃主人公
 Uh, well...
 In the grand hall, Takamine-san was drinking coffee alone.
-＃Protagonist
+＃主人公
 Ah, Takamine-san.
-＃Takamine
+＃高嶺
 What is it...?
 He gives me a sharp, sideways glare.
-＃Protagonist
+＃主人公
 Uh, well...
 Entering the grand hall, I locked eyes with Takamine-san.
-＃Takamine
+＃高嶺
 ...What?
-＃Protagonist
+＃主人公
 Uh, well...

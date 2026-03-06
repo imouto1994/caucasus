@@ -1,30 +1,30 @@
-＃Protagonist
+＃主人公
 Excuse me.
 I called out before entering the infirmary, but Dr. Mikanagi wasn't there.
 Is he still on the first floor?
 If that’s the case, there's no point in staying here, but...
 What should I do?
-＃Protagonist
+＃主人公
 Hello, Dr. Mikanagi.
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-＃Mikanagi
+＃御巫
 Oh, what's up?
-＃Protagonist
+＃主人公
 Um... do you have a moment?
-＃Mikanagi
+＃御巫
 I don't mind.
 Now, what should I do?
-＃Protagonist
+＃主人公
 Excuse me.
 As I entered the infirmary, Dr. Mikanagi looked up from his desk.
-＃Mikanagi
+＃御巫
 Oh, what is it this time?
-＃Protagonist
+＃主人公
 Do you have a moment?
-＃Mikanagi
+＃御巫
 Yes, go ahead.
 Now, what should I do?
-＃Protagonist
+＃主人公
 Excuse me.
 I called out before entering the infirmary, but Dr. Mikanagi wasn't there.
 I wonder if he's out somewhere.

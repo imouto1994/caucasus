@@ -1,27 +1,27 @@
-＃Tsujimura
+＃辻村
 Oh, is something the matter?
 Tsujimura-san was in the office.
-＃Protagonist
+＃主人公
 Hello. Are you in the middle of work?
-＃Tsujimura
+＃辻村
 Not at all. Did you need something?
-＃Tsujimura
+＃辻村
 Oh, is something the matter again?
 Tsujimura-san was still in the office.
-＃Protagonist
+＃主人公
 Excuse me.
 When I entered the office, Tsujimura-san and Shion-san were there.
-＃Tsujimura
+＃辻村
 How can I help you?
-＃Protagonist
+＃主人公
 I was just in the middle of doing a quick patrol...
-＃Shion
+＃詩音
 Oh my... Thank you for your hard work.
-＃Protagonist
+＃主人公
 No, I'm just doing it on my own accord.
 Now then... what should I do?
 When I entered the office, Tsujimura-san and Shion-san were there.
-＃Shion
+＃詩音
 Oh... what is it this time?
-＃Protagonist
+＃主人公
 Uh, well...

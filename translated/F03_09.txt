@@ -1,69 +1,69 @@
 I’ve arrived at the kitchen.
-＃Narumi
+＃なるみ
 Oh, what's up?
 Narumi-san was there.
-＃Protagonist
+＃主人公
 Are you preparing lunch?
-＃Narumi
+＃なるみ
 Yeah, are you hungry?
-＃Protagonist
+＃主人公
 Not quite yet.
-＃Narumi
+＃なるみ
 I'll have it ready so we can eat a bit after one.
-＃Protagonist
+＃主人公
 Understood.
-＃Narumi
+＃なるみ
 So, didn't you have some kind of business with me?
-＃Protagonist
+＃主人公
 Um...
 I’ve arrived at the kitchen again.
-＃Narumi
+＃なるみ
 Oh, do you need something else?
-＃Protagonist
+＃主人公
 Um...
 I’ve arrived at the kitchen.
 ...But no one is here.
 What should I do...?
 Narumi-san was in the kitchen.
-＃Narumi
+＃なるみ
 Oh, Akane, what's wrong?
-＃Akane
+＃あかね
 Narumi-san, have you seen Lady Ai?
-＃Narumi
+＃なるみ
 Lady Ai...? No, I haven't.
-＃Protagonist
+＃主人公
 I see...
 It seems she hasn't come here either.
-＃Akane
+＃あかね
 Let's look somewhere else.
-＃Protagonist
+＃主人公
 ...Alright.
 We decided to go somewhere else.
 Narumi-san was in the kitchen.
-＃Narumi
+＃なるみ
 Oh, still haven't found Lady Ai?
-＃Protagonist
+＃主人公
 No... that's right.
-＃Akane
+＃あかね
 There should only be so many places she could go inside the manor...
-＃Narumi
+＃なるみ
 Maybe you should try looking more thoroughly?
-＃Protagonist
+＃主人公
 ...I suppose so.
 We decided to go search elsewhere.
 I’ve arrived at the kitchen.
-＃Akane
+＃あかね
 Narumi-san isn't here.
 There's no one inside.
 Of course, that includes Ai-san.
-＃Protagonist
+＃主人公
 She wouldn't be... hiding somewhere, right?
-＃Akane
+＃あかね
 I don't think so.
 Akane-san opens the service entrance leading to the back to check.
 Snow immediately blows inside.
-＃Akane
+＃あかね
 It's drifting quite a bit, but I don't see any footprints...
-＃Protagonist
+＃主人公
 Let's look elsewhere.
 We decided to go to another location.

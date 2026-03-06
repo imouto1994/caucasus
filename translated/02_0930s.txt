@@ -1,94 +1,94 @@
-＃Protagonist
+＃主人公
 It’s quite a blizzard outside...
-＃Souko
+＃想子
 It is... even the windows are frozen shut.
-＃Protagonist
+＃主人公
 I thought we might be able to see Shion-san’s tower from here... but I can't see a thing.
 The window was covered in a thick layer of snow and ice.
-＃Souko
+＃想子
 The room is freezing, after all. The condensation must have frozen solid.
 The window is frozen shut and won't budge.
 There are paintings decorating this room as well.
 There’s no need to pay them any special mind right now.
 It’s irrelevant for the moment.
-＃Protagonist
+＃主人公
 Does this door... lead to Tsujimura-san’s room?
-＃Souko
+＃想子
 It seems so... and it’s locked tight.
-＃Mikanagi
+＃御巫
 That door can only be locked from this side.
-＃Protagonist
+＃主人公
 Is that right?
-＃Souko
+＃想子
 Western-style mansions like this often have doors that allow you to move directly between rooms. Your room had one too, didn't it? The layout there is identical to this one.
-＃Protagonist
+＃主人公
 ...So that means if it’s locked, no one can enter from Tsujimura-san’s side?
-＃Mikanagi
+＃御巫
 That’s how it works. Conversely, if the culprit left through this door, there would be no way for them to lock it behind them.
-＃Protagonist
+＃主人公
 I see...
 The door leading to Tsujimura-san’s room is securely locked.
-＃Protagonist
+＃主人公
 Inside the wardrobe... just some spare clothes.
-＃Souko
+＃想子
 It doesn't look like it was rummaged through.
 There are no signs that the wardrobe was disturbed.
-＃Protagonist
+＃主人公
 This is Rokuyou-san’s bag.
-＃Souko
+＃想子
 Yeah... at a glance, it doesn't look like it’s been touched, but...
-＃Protagonist
+＃主人公
 That rules out robbery, then.
 There are no signs that Rokuyou-san’s bag was tampered with.
-＃Protagonist
+＃主人公
 No wonder it’s so cold, the fire is out...
-＃Mikanagi
+＃御巫
 I hate to say it's for the best, but... it’s slowed the rate of decomposition.
-＃Souko
+＃想子
 ...It looks like it went out a while ago. It was likely already out by the time the murder occurred.
 The fire in the fireplace seems to have gone out during the night.
-＃Protagonist
+＃主人公
 The head... where could it have gone...?
-＃Souko
+＃想子
 ...It was certainly taken out of this room.
-＃Mikanagi
+＃御巫
 However... there are no bloodstains on the floor. Perhaps it was wrapped in something...?
 Rokuyou-san’s head... where could it be...?
-＃Protagonist
+＃主人公
 ...This must be the murder weapon.
-＃Souko
+＃想子
 It certainly looks that way... though it’s hard to say if it was the direct cause of death.
-＃Protagonist
+＃主人公
 Is that so?
-＃Souko
+＃想子
 Because the head is missing. For all we know, he could have been shot in the head with a gun.
-＃Mikanagi
+＃御巫
 ...If that were the case, the culprit might have severed the head to hide the gunshot wound.
-＃Souko
+＃想子
 Well, the gun thing is just a guess. If someone had been shot, the noise would have alerted everyone.
-＃Protagonist
+＃主人公
 That’s true...
 It seems this axe is indeed the murder weapon.
-＃Protagonist
+＃主人公
 This pillow... the axe is buried deep inside it.
-＃Souko
+＃想子
 Feathers are everywhere... but there’s hardly any blood spray.
-＃Protagonist
+＃主人公
 You're right...
 An axe is embedded in the pillow.
-＃Protagonist
+＃主人公
 Wait... Souko-san, is there something sticking out of his trouser pocket?
-＃Souko
+＃想子
 The pocket... looks like a key.
-＃Protagonist
+＃主人公
 It seems to be the key to this room.
 The room key was inside the pocket of his trousers.
-＃Protagonist
+＃主人公
 What about this flower...?
-＃Souko
+＃想子
 A snowdrop. They were arranged in the hall... but the fact that only the flower head has fallen, is it some kind of metaphor for the headless corpse...?
-＃Mikanagi
+＃御巫
 ...If so, it’s in incredibly poor taste.
-＃Protagonist
+＃主人公
 Yeah...
 A snowdrop flower has fallen.

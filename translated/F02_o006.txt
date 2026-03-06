@@ -1,36 +1,36 @@
-＃Souko
+＃想子
 The cathedral is closed off while they continue the wedding ceremony, it seems.
-＃Protagonist
+＃主人公
 Yeah...
-＃Maya
+＃摩夜
 The cathedral will be opened again at eight o'clock.
-＃Protagonist
+＃主人公
 I see...
-＃Ai
+＃藍
 I’ve heard that cathedral has always been used for weddings in the Nanatsuki family.
-＃Protagonist
+＃主人公
 Is that so...
-＃Benio
+＃紅緒
 If you want to enter the cathedral, you’ll have to wait a little longer.
-＃Protagonist
+＃主人公
 Right.
-＃Tsujimura
+＃辻村
 The ceremony is currently underway... Please wait just a bit more.
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 You can't go in; the ceremony is in progress.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 I believe Shion-san is likely in the cathedral right now.
-＃Protagonist
+＃主人公
 I see.
-＃Akane
+＃あかね
 Cleaning the cathedral is such a chore. It isn't used often so it doesn't get very dirty, but still.
-＃Protagonist
+＃主人公
 I see.
-＃Narumi
+＃なるみ
 A cathedral that only gets used for weddings... seems a bit decadent, doesn't it?
-＃Protagonist
+＃主人公
 I guess so...

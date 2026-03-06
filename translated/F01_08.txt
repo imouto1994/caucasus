@@ -1,39 +1,39 @@
 I've returned to the dining hall.
-＃Akane
+＃あかね
 Oh, what's the matter?
 Akane-san was tidying up the table.
 Maybe because there were so many people, it doesn't look like much progress has been made yet.
 Help
 Don't help
-＃Protagonist
+＃主人公
 Shall I help you?
 I made the offer.
-＃Akane
+＃あかね
 E-Eh, no, that's quite alright! I couldn't possibly let a guest do such a thing!
 Akane-san shook her head in a panic.
-＃Protagonist
+＃主人公
 But wouldn't it be faster with two people tidying up?
-＃Akane
+＃あかね
 But... um, I'll gratefully accept just the thought alone.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 Um, do you need anything else?
-＃Protagonist
+＃主人公
 Anything else, huh...
-＃Protagonist
+＃主人公
 I'm sorry, you seem to be in the middle of work.
 I shouldn't get in the way of her tidying up.
 I gave a bow and left the dining hall.
 I've come to the dining hall again.
-＃Akane
+＃あかね
 Is something wrong?
 Akane-san was mopping the floor.
 The tidying up seems to be mostly finished.
-＃Protagonist
+＃主人公
 Uh...
 I've come to the dining hall.
-＃Protagonist
+＃主人公
 Huh... no one's here.
 The room was empty.
 All the food from earlier has been cleared away.

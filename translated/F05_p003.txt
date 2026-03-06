@@ -1,72 +1,72 @@
-＃Souko
+＃想子
 ...She seems quite shaken up.
-＃Protagonist
+＃主人公
 ...You're right.
-＃Souko
+＃想子
 ...I still can't grasp the culprit's intent. Why would they kill Ai-san...?
-＃Protagonist
+＃主人公
 Right...
-＃Maya
+＃摩夜
 I'm glad Ai was safe, but... why did something like this happen...?
-＃Protagonist
+＃主人公
 Right...
-＃Maya
+＃摩夜
 Why Ai too...? Are you saying that child did something wrong...?
-＃Protagonist
+＃主人公
 Maya-san...
-＃Ai
+＃藍
 ...I couldn't sleep well last night. I felt like I might be attacked again...
-＃Protagonist
+＃主人公
 Ai-san...
-＃Benio
+＃紅緒
 I have a feeling that attack on my sister was carried out differently than the one on Rokuyou...
-＃Protagonist
+＃主人公
 I see...
-＃Benio
+＃紅緒
 ...I don't think it will end with my sister being killed. Next will be me... or someone else.
-＃Protagonist
+＃主人公
 That might be true...
-＃Shion
+＃詩音
 ...Why Sister Ai... just who would...
-＃Protagonist
+＃主人公
 Right...
-＃Tsujimura
+＃辻村
 Lady Ai seems quite shaken. I suppose it's only natural after something like that...
-＃Protagonist
+＃主人公
 Right...
-＃Tsujimura
+＃辻村
 ...Why did Lady Ai have to be killed...?
-＃Protagonist
+＃主人公
 Right...
-＃Takamine
+＃高嶺
 ...In any case, I'm glad Ai-kun didn't lose her life.
-＃Protagonist
+＃主人公
 Right...
-＃Takamine
+＃高嶺
 ...Even Ai-kun was killed, but nothing happened last night... I wonder if it’s finally over...
-＃Protagonist
+＃主人公
 Who knows...
-＃Mikanagi
+＃御巫
 As for Ai-san, I expect she's returned to her room. After what happened yesterday, it's better if she rests.
-＃Protagonist
+＃主人公
 I see.
-＃Mikanagi
+＃御巫
 What is the culprit's aim...? What do they gain by killing Isamu and Ai-san...?
-＃Protagonist
+＃主人公
 Right...
-＃Akane
+＃あかね
 Lady Ai? She's in her room. She still doesn't seem to be feeling very well.
-＃Protagonist
+＃主人公
 I see.
-＃Akane
+＃あかね
 Why Lady Ai...? She hasn't done anything wrong...
-＃Protagonist
+＃主人公
 Right...
-＃Narumi
+＃なるみ
 Lady Ai? She's likely in her room.
-＃Protagonist
+＃主人公
 I see.
-＃Narumi
+＃なるみ
 ...If even Lady Ai was killed, it might not be over yet...
-＃Protagonist
+＃主人公
 Right...

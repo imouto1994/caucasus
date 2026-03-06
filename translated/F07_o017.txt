@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 What's this...? They look like symbols, but I don't really understand them...
-＃Protagonist
+＃主人公
 I see...
-＃Maya
+＃摩夜
 What might this be... I do not really know.
-＃Protagonist
+＃主人公
 I see...
-＃Ai
+＃藍
 This is... what could it be...?
-＃Protagonist
+＃主人公
 You don't know...?
-＃Benio
+＃紅緒
 Symbols...? No, this last part looks like a proper word... I wonder what it means...
-＃Protagonist
+＃主人公
 I wonder...
-＃Shion
+＃詩音
 Um... I'm sorry, I don't really know...
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 This is... I don't really know...
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 ...Please try not to show this to anyone else. It might cause problems later if it's known that a portion of the will was shown to an outsider.
-＃Protagonist
+＃主人公
 I-I understand...
-＃Mikanagi
+＃御巫
 I wonder what it is... It looks like some kind of code...
-＃Protagonist
+＃主人公
 True...
-＃Akane
+＃あかね
 I'm sorry... I don't really know.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 I don't really know about that.
-＃Protagonist
+＃主人公
 I see...

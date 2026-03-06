@@ -1,20 +1,20 @@
-＃Maya
+＃摩夜
 I wouldn't know, I was resting in my room as well.
-＃Protagonist
+＃主人公
 I see…
-＃Ai
+＃藍
 I’m not sure… I was in my room the entire time.
-＃Protagonist
+＃主人公
 I see…
-＃Tsujimura
+＃辻村
 I heard that she was together with you…
-＃Protagonist
+＃主人公
 Y-yeah, that’s right…
-＃Takamine
+＃高嶺
 I wouldn’t know what was happening outside my room.
-＃Protagonist
+＃主人公
 I see…
-＃Narumi
+＃なるみ
 I was with you the whole time. Given the situation, do you really think I could have killed Mikanagi-sensei?
-＃Protagonist
+＃主人公
 …I guess that would be impossible.

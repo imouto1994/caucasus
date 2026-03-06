@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 You heard the contents of the will, didn't you? Why don't you share them with me?
-＃Protagonist
+＃主人公
 Well... alright.
-＃Maya
+＃摩夜
 I am sorry... but I do not think she is in a state to talk yet.
-＃Protagonist
+＃主人公
 That's true...
-＃Ai
+＃藍
 ...I cannot say anything regarding the will.
-＃Protagonist
+＃主人公
 ...I understand.
-＃Benio
+＃紅緒
 The matter of the will has been left to Takamine. If you're curious, you should ask him.
-＃Protagonist
+＃主人公
 I see...
-＃Shion
+＃詩音
 The will... I'm sorry, I don't really know...
-＃Protagonist
+＃主人公
 That's true...
-＃Tsujimura
+＃辻村
 ...Regarding that matter, there is nothing I can say.
-＃Protagonist
+＃主人公
 That's true...
-＃Takamine
+＃高嶺
 I believe we already spoke about the inheritance matter?
-＃Protagonist
+＃主人公
 T-That's right...
-＃Mikanagi
+＃御巫
 That is... not a matter I can say anything about.
-＃Protagonist
+＃主人公
 That's true...
-＃Akane
+＃あかね
 I'm sorry... I don't really know.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 I've heard the Master's estate is quite substantial... even a third of it would be a staggering amount.
-＃Protagonist
+＃主人公
 I see...

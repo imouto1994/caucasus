@@ -1,24 +1,24 @@
-＃Ai
+＃藍
 ...I am sorry, I do not really know.
-＃Protagonist
+＃主人公
 I see...
-＃Benio
+＃紅緒
 ...I am not entirely convinced that is Kirihara-san. ...Do not give up hope just yet.
-＃Protagonist
+＃主人公
 ...Alright.
-＃Tsujimura
+＃辻村
 How utterly gruesome...
-＃Protagonist
+＃主人公
 It really is...
-＃Takamine
+＃高嶺
 I can't say for certain.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 I believe it is Kirihara-san's body. The only deciding factor is the signs of a fracture... though there is a possibility it could be Akane-san.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 I'm not really sure about that.
-＃Protagonist
+＃主人公
 I see...

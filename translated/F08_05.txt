@@ -1,26 +1,26 @@
-＃Tsujimura
+＃辻村
 Oh, is something the matter?
 Tsujimura-san was in the office.
-＃Protagonist
+＃主人公
 Tsujimura-san... have you seen Souko-san?
-＃Tsujimura
+＃辻村
 Mistress Kirihara? I remember her being in the grand hall about an hour ago, but...
-＃Protagonist
+＃主人公
 ...I see.
-＃Tsujimura
+＃辻村
 Was there anything else?
-＃Protagonist
+＃主人公
 No, I don't have any other business. I'll see you later.
-＃Tsujimura
+＃辻村
 Yes. ...Please be careful.
 Tsujimura-san saw me off as I left the office.
-＃Tsujimura
+＃辻村
 Oh... have you still not found Mistress Kirihara?
 Tsujimura-san was still in the office.
-＃Protagonist
+＃主人公
 No...
-＃Tsujimura
+＃辻村
 I see... That's worrying.
-＃Protagonist
+＃主人公
 Yeah... I'll try looking a bit more.
 I decided to look elsewhere and left the office.

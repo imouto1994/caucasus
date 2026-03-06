@@ -1,36 +1,36 @@
-＃Souko
+＃想子
 Earrings, huh... I feel like I saw Benio-san wearing something similar to this... but there's no way to check.
-＃Protagonist
+＃主人公
 I see...
-＃Maya
+＃摩夜
 This is... the earring that Benio was wearing.
-＃Protagonist
+＃主人公
 I see...
-＃Ai
+＃藍
 ...It's Benio's earring. There's no mistake.
-＃Protagonist
+＃主人公
 I see...
-＃Shion
+＃詩音
 Um... I'm sorry, I don't really know...
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 This is... I believe it is Lady Benio's ear ornament.
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 I can't really tell.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 I don't really know.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 I'm sorry... I don't really know.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 I don't really know about that.
-＃Protagonist
+＃主人公
 I see...

@@ -1,48 +1,48 @@
-＃Souko
+＃想子
 You want to hear about me? You already know, don't you?
-＃Protagonist
+＃主人公
 No, come on, give me something.
-＃Souko
+＃想子
 Your university senior and an unparalleled Cola lover. Will that do?
-＃Protagonist
+＃主人公
 ...Not really.
-＃Souko
+＃想子
 Well then, shall I say I'm a folklorist who came here for research?
-＃Protagonist
+＃主人公
 Souko-san, you're still a student too.
-＃Maya
+＃摩夜
 Kirihara-san? I'm sorry, I don't know her well.
-＃Protagonist
+＃主人公
 Y-You're right...
-＃Ai
+＃藍
 Kirihara-san? We've only just met, so I'm not sure...
-＃Protagonist
+＃主人公
 True...
-＃Benio
+＃紅緒
 Kirihara-san? ...I am sorry, I am not well acquainted with her...
-＃Protagonist
+＃主人公
 Of course...
-＃Tsujimura
+＃辻村
 Ms. Kirihara? ...I don't know her well, but...
-＃Protagonist
+＃主人公
 Y-You're right...
-＃Rokuyou
+＃六曜
 Kirihara-san... ah, her. You probably know more about her than I do, don't you?
-＃Protagonist
+＃主人公
 ...Well, I suppose so...
-＃Takamine
+＃高嶺
 Kirihara... ah, her. There's no reason I would know anything, is there?
-＃Protagonist
+＃主人公
 Y-You're right...
-＃Mikanagi
+＃御巫
 Kirihara-san? ...Well, I can't really say...
-＃Protagonist
+＃主人公
 ...I guess that's true.
-＃Akane
+＃あかね
 Ms. Kirihara? I believe she would be in her room.
-＃Protagonist
+＃主人公
 Uh... I suppose she would...
-＃Narumi
+＃なるみ
 Ms. Kirihara? ...No, I don't know her.
-＃Protagonist
+＃主人公
 I-I see...

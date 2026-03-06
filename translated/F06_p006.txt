@@ -1,28 +1,28 @@
-＃Souko
+＃想子
 Tsujimura-san seems quite concerned about Shion-san.
-＃Protagonist
+＃主人公
 Right...
-＃Maya
+＃摩夜
 It's only because Tsujimura is here that we are able to live so peacefully.
-＃Protagonist
+＃主人公
 I see...
-＃Ai
+＃藍
 If anything comes up, please tell Tsujimura-san.
-＃Protagonist
+＃主人公
 Understood.
-＃Benio
+＃紅緒
 Tsujimura? He's likely in his room.
-＃Protagonist
+＃主人公
 I see.
-＃Tsujimura
+＃辻村
 I couldn't make a living with my artistic skills, which were barely better than an amateur's... I'm grateful to be allowed to work here.
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 I hear Tsujimura-san has endured many hardships until now.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 If it's Tsujimura-san, he should be in the office. Otherwise, I expect he's back in his room.
-＃Protagonist
+＃主人公
 I see.

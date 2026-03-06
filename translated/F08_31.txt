@@ -1,39 +1,39 @@
-＃Protagonist
+＃主人公
 Excuse me.
 I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
 I wonder if he's somewhere else.
 In that case, there's no point in staying here.
 I'll go somewhere else.
-＃Protagonist
+＃主人公
 Hello, Mikanagi-sensei.
 When I entered the infirmary, Mikanagi-sensei looked up from his desk.
-＃Mikanagi
+＃御巫
 Ah, what is it?
-＃Protagonist
+＃主人公
 Um... have you seen Kirihara?
-＃Mikanagi
+＃御巫
 I've been back in my room since I parted ways with you earlier. Before that... I saw her on the first floor after six.
-＃Protagonist
+＃主人公
 And after that?
-＃Mikanagi
+＃御巫
 I predictably wouldn't know. There was nothing strange about her, though...
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 Have you still not found her?
-＃Protagonist
+＃主人公
 No... I haven't.
-＃Mikanagi
+＃御巫
 And Akane-san hasn't been found either... That's worrying...
-＃Protagonist
+＃主人公
 Please let me know immediately if anything happens.
-＃Mikanagi
+＃御巫
 Yeah, understood.
 I decided to go somewhere else.
-＃Protagonist
+＃主人公
 Mikanagi-sensei.
-＃Mikanagi
+＃御巫
 It seems you still haven't found Kirihara-san.
-＃Protagonist
+＃主人公
 No... I'll try looking in other places.
 I decided to go somewhere else.

@@ -1,36 +1,36 @@
-＃Souko
+＃想子
 While you were locked away, I patrolled the mansion a few times. I didn't see anyone acting particularly suspicious, though...
-＃Protagonist
+＃主人公
 I see...
-＃Maya
+＃摩夜
 We've caused you quite a bit of trouble... I'm terribly sorry.
-＃Protagonist
+＃主人公
 No, please don't let it worry you.
-＃Ai
+＃藍
 Kirihara-san is remarkably composed, isn't she? Even in a situation like this...
-＃Protagonist
+＃主人公
 She is...
-＃Shion
+＃詩音
 Kirihara-san... she has a bit of a frightening aura about her, doesn't she?
-＃Protagonist
+＃主人公
 Do you think so...?
-＃Tsujimura
+＃辻村
 As for Mistress Kirihara, she was busy investigating the mansion...
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 If she's hunting for the killer, I'd like her to find them and be done with it.
-＃Protagonist
+＃主人公
 Y-Yeah, I suppose so...
-＃Mikanagi
+＃御巫
 As for Kirihara-san, she seemed to be checking around the mansion.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 As for Mistress Kirihara, she appeared to be investigating the music room...
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 Kirihara-san, huh? She seems to be looking into all sorts of things.
-＃Protagonist
+＃主人公
 I see...

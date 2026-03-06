@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 So that was Shion-san's room... She's made to live in the annex all by herself.
-＃Protagonist
+＃主人公
 Yes...
-＃Maya
+＃摩夜
 That is the room of my youngest daughter, Shion. She is of delicate health, so we have her live in the annex.
-＃Protagonist
+＃主人公
 Is that so...
-＃Ai
+＃藍
 ...Yes, that is Shion's room. Because she is frail, she has always lived over there.
-＃Protagonist
+＃主人公
 Is that so...
-＃Benio
+＃紅緒
 The only way to get to the tower is through the door in the back of the office.
-＃Protagonist
+＃主人公
 I see.
-＃Shion
+＃詩音
 ...It is my room.
-＃Protagonist
+＃主人公
 ...That's right.
-＃Tsujimura
+＃辻村
 With this snow, I must do some shoveling. It would be a serious matter if Lady Shion were to fall.
-＃Protagonist
+＃主人公
 That's true.
-＃Takamine
+＃高嶺
 ...I heard Shion-kun has lived in that tower since a long time ago.
-＃Protagonist
+＃主人公
 Is that so...
-＃Mikanagi
+＃御巫
 Shion-san is of delicate health, so she lives in the annex... my father might have given those instructions...
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 I'm the one who brings Lady Shion her meals, but she usually eats them in the office.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 Only Lady Shion lives in the annex... It's a bit strange, isn't it?
-＃Protagonist
+＃主人公
 You're right...

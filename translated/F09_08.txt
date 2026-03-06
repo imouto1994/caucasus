@@ -1,26 +1,26 @@
 I've come to the dining hall.
-＃Protagonist
+＃主人公
 Huh...
 Nobody's here.
 I thought someone would usually be in the dining hall.
 What should I do...
 I've come to the dining hall.
-＃Akane
+＃あかね
 Ah, is something the matter?
 Akane-san spoke to me.
-＃Protagonist
+＃主人公
 I'm just doing some rounds...
-＃Akane
+＃あかね
 I see... That must be hard.
-＃Protagonist
+＃主人公
 No, I'm just doing it on my own accord.
-＃Akane
+＃あかね
 Please be careful...
-＃Protagonist
+＃主人公
 Yeah, I know.
 I've come to the dining hall.
-＃Akane
+＃あかね
 Oh, what is it this time?
 Akane-san noticed me and spoke up.
-＃Protagonist
+＃主人公
 Uh, well...

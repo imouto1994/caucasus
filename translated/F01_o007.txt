@@ -1,46 +1,46 @@
-＃Souko
+＃想子
 A song...? I haven't heard anything, so I wouldn't know.
-＃Protagonist
+＃主人公
 I see.
-＃Maya
+＃摩夜
 A song? It is likely Shion who is singing.
-＃Protagonist
+＃主人公
 I see...
-＃Ai
+＃藍
 That would be Shion singing, I imagine. Her voice is quite beautiful.
-＃Protagonist
+＃主人公
 Is that so...
-＃Benio
+＃紅緒
 A song... that would likely be Shion, wouldn't it?
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 That would likely be Lady Shion. She often sings to herself.
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 You can reach the room where Lady Shion resides through this door at the back of the office.
-＃Protagonist
+＃主人公
 Um, if it's alright, I'd like to go and offer my greetings...
-＃Tsujimura
+＃辻村
 Yes, I don't mind that, but...
-＃Rokuyou
+＃六曜
 A song? ...Come to think of it, I feel like I might have heard something.
-＃Protagonist
+＃主人公
 I see.
-＃Takamine
+＃高嶺
 A song... someone must be singing.
-＃Protagonist
+＃主人公
 I suppose so.
-＃Mikanagi
+＃御巫
 A song... I believe that would be Shion-san.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 A song? Lady Shion seems to sing quite often, but...
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 The one who sings often would be Lady Shion, I think. Though Lady Benio plays the piano as well.
-＃Protagonist
+＃主人公
 I see.

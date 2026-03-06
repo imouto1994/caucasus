@@ -10,13 +10,16 @@
  *      as an intermediate step. Only the outermost quotes are removed;
  *      internal apostrophes (e.g. Man's) are left untouched.
  *   4. Convert ASCII hash (#) speech source prefixes to fullwidth hash (＃)
- *      to match the original script formatting.
- *   5. Strip wrapping brackets/quotes from speech content lines (the line
+ *      as an intermediate normalisation step.
+ *   5. Replace each speech source line (＃...) with the corresponding line
+ *      from the original script, restoring the Japanese speaker name. The
+ *      game engine displays the name from this line directly.
+ *   6. Strip wrapping brackets/quotes from speech content lines (the line
  *      immediately after a ＃ speech source line). Handles 「」, 『』, and
  *      "..." wrappers. The game engine renders these automatically.
- *   6. Append a trailing empty line if the corresponding original file in
+ *   7. Append a trailing empty line if the corresponding original file in
  *      `original/` also ends with one.
- *   7. Encode the output as Shift-JIS to match the original script encoding.
+ *   8. Encode the output as Shift-JIS to match the original script encoding.
  *
  * Files are overwritten in place.
  *
@@ -45,12 +48,17 @@ function encodeShiftJIS(str) {
 }
 
 /**
- * Read the original file and return its raw buffer for trailing-newline
- * detection. Returns null if the original does not exist.
+ * Read the original file and return its decoded content lines and raw buffer
+ * (for trailing-newline detection). Returns null if the original does not
+ * exist.
  */
 async function readOriginal(originalPath) {
   try {
-    return await readFile(originalPath);
+    const raw = await readFile(originalPath);
+    const text = sjisDecoder.decode(raw);
+    const lines = text.split("\n");
+    if (lines.at(-1) === "") lines.pop();
+    return { lines, raw };
   } catch {
     return null;
   }
@@ -100,23 +108,39 @@ async function cleanFile(filePath, originalPath) {
       return line;
     });
 
-  // Step 5: Strip wrapping brackets/quotes from speech content lines.
-  // A speech content line is the line immediately after a ＃ source line.
-  for (let i = 0; i < cleaned.length; i++) {
-    if (cleaned[i].startsWith("＃") && i + 1 < cleaned.length) {
-      cleaned[i + 1] = stripSpeechWrappers(cleaned[i + 1]);
+  const original = await readOriginal(originalPath);
+
+  // Step 5: Replace speech source lines with the original Japanese lines.
+  // Step 6: Strip wrapping brackets/quotes from speech content lines.
+  if (original) {
+    const minLen = Math.min(cleaned.length, original.lines.length);
+    for (let i = 0; i < minLen; i++) {
+      if (cleaned[i].startsWith("＃")) {
+        // Use the original line verbatim (Japanese speaker name).
+        cleaned[i] = original.lines[i].trim();
+      }
+      // A speech content line is the line immediately after a ＃ source line.
+      if (cleaned[i].startsWith("＃") && i + 1 < minLen) {
+        cleaned[i + 1] = stripSpeechWrappers(cleaned[i + 1]);
+      }
+    }
+  } else {
+    // No original available — still strip speech content wrappers.
+    for (let i = 0; i < cleaned.length; i++) {
+      if (cleaned[i].startsWith("＃") && i + 1 < cleaned.length) {
+        cleaned[i + 1] = stripSpeechWrappers(cleaned[i + 1]);
+      }
     }
   }
 
   let result = cleaned.join("\n");
 
-  // Step 6: Match the original file's trailing newline.
-  const originalRaw = await readOriginal(originalPath);
-  if (originalRaw && originalRaw.length > 0 && originalRaw[originalRaw.length - 1] === 0x0a) {
+  // Step 7: Match the original file's trailing newline.
+  if (original && original.raw.length > 0 && original.raw[original.raw.length - 1] === 0x0a) {
     result += "\n";
   }
 
-  // Step 7: Encode as Shift-JIS and write.
+  // Step 8: Encode as Shift-JIS and write.
   const encoded = encodeShiftJIS(result);
 
   const existingRaw = await readFile(filePath);

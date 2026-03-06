@@ -1,70 +1,70 @@
-＃Souko
+＃想子
 ...She seems quite distressed, doesn't she?
-＃Protagonist
+＃主人公
 ...Yeah.
-＃Souko
+＃想子
 If Ai-san being targeted is related to the inheritance, those left behind would be the most suspicious... but I don't think it's quite that simple.
-＃Protagonist
+＃主人公
 True...
-＃Maya
+＃摩夜
 I'm glad Ai survived, but... why must this happen...
-＃Protagonist
+＃主人公
 I don't know...
-＃Maya
+＃摩夜
 Why Ai, too...? Are you saying that child did something wrong...?
-＃Protagonist
+＃主人公
 Maya-san...
-＃Ai
+＃藍
 ...It feels like I can't shake this exhaustion... It's strange, isn't it? I should be in my own home...
-＃Protagonist
+＃主人公
 Ai-san...
-＃Shion
+＃詩音
 ...I'm truly glad that Lady Ai is safe.
-＃Protagonist
+＃主人公
 Me too...
-＃Shion
+＃詩音
 Why would someone do this to Lady Ai...?
-＃Protagonist
+＃主人公
 Shion-san...
-＃Tsujimura
+＃辻村
 Lady Ai seems to be quite worn down. It's only natural after what happened, but...
-＃Protagonist
+＃主人公
 Yeah...
-＃Tsujimura
+＃辻村
 ...Why did someone try to kill Lady Ai...?
-＃Protagonist
+＃主人公
 I don't know...
-＃Takamine
+＃高嶺
 ...At any rate, I'm glad Ai-kun didn't lose her life.
-＃Protagonist
+＃主人公
 Yeah...
-＃Takamine
+＃高嶺
 ...So even Ai-kun was murdered...
-＃Protagonist
+＃主人公
 Yeah...
-＃Mikanagi
+＃御巫
 Ai-san should be back in her room. Given what happened yesterday, she ought to keep resting for now.
-＃Protagonist
+＃主人公
 I see.
-＃Mikanagi
+＃御巫
 What could the killer be aiming for...? What's to be gained by killing Isamu and Ai-san...?
-＃Protagonist
+＃主人公
 And Benio-san as well...
-＃Protagonist
+＃主人公
 True...
-＃Akane
+＃あかね
 I believe Lady Ai is in her room, but...
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 To think even Lady Ai would be murdered... what on earth is happening...?
-＃Protagonist
+＃主人公
 I don't know...
-＃Narumi
+＃なるみ
 Lady Ai hasn't been herself since yesterday... though I guess that's to be expected.
-＃Protagonist
+＃主人公
 Yeah...
-＃Narumi
+＃なるみ
 The reason Lady Ai died, huh... only the killer knows that.
-＃Protagonist
+＃主人公
 True...

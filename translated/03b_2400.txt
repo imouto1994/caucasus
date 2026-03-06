@@ -1,33 +1,33 @@
 Stepping out into the corridor, I saw Dr. Mikanagi coming out of the clinic.
-＃Protagonist
+＃主人公
 Good evening, Dr. Mikanagi.
-＃Mikanagi
+＃御巫
 Ah, it's you...
 Dr. Mikanagi managed a weak smile.
-＃Protagonist
+＃主人公
 You look exhausted...
-＃Mikanagi
+＃御巫
 Well... as you can imagine. But people from below will be coming tomorrow, so I have to hang in there until then.
-＃Protagonist
+＃主人公
 But even if people come tomorrow, the bridge is out, isn't it...?
-＃Mikanagi
+＃御巫
 If we can just stretch a rope across, people can cross. If we can get word out, they’ll call the police as well.
-＃Protagonist
+＃主人公
 I see... I just hope the snow stops.
 It should still be snowing outside.
-＃Mikanagi
+＃御巫
 The wind seems to have weakened considerably since the daytime, though.
-＃Protagonist
+＃主人公
 I just hope nothing happens tonight...
-＃Mikanagi
+＃御巫
 True... you seem to be looking into various things as well, but it might be best to stay quiet tonight.
 With that, Dr. Mikanagi looked toward the atrium behind him.
 I followed his gaze.
 Narumi-san was leaning against the atrium railing.
-＃Mikanagi
+＃御巫
 Isn't she waiting for you?
-＃Protagonist
+＃主人公
 ...Well, that might be it...
-＃Mikanagi
+＃御巫
 ...Just make sure you don't do anything reckless.
 Dr. Mikanagi patted my shoulder lightly and entered his room.

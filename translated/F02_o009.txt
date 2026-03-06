@@ -1,36 +1,36 @@
-＃Souko
+＃想子
 That bell that rang in the middle of the night. I wonder if we'll hear it at noon today too.
-＃Protagonist
+＃主人公
 Maybe so.
-＃Maya
+＃摩夜
 There has been a clock attached to this mansion since before it was relocated. As a remnant of that time, we still have the bell ring.
-＃Protagonist
+＃主人公
 Is that so?
-＃Ai
+＃藍
 The clock is visible from outside the mansion, but being in such a remote place, no one ever sees it.
-＃Protagonist
+＃主人公
 You're right...
-＃Benio
+＃紅緒
 Does the sound of the bell bother you that much? The machine room is in the attic.
-＃Protagonist
+＃主人公
 Oh... I see.
-＃Tsujimura
+＃辻村
 The bell is rung from the machine room above the main entrance. It’s synchronized with the clock facing the outside.
-＃Protagonist
+＃主人公
 I see.
-＃Takamine
+＃高嶺
 It certainly rang last night... but it isn't something worth being concerned about.
-＃Protagonist
+＃主人公
 I guess so...
-＃Mikanagi
+＃御巫
 The bell, eh...? I don't think you’d notice it much while inside your room.
-＃Protagonist
+＃主人公
 I see.
-＃Akane
+＃あかね
 It rings at noon, so it’s quite convenient for keeping track of the time.
-＃Protagonist
+＃主人公
 Is that so?
-＃Narumi
+＃なるみ
 A bell? Did one ring...? I don't really remember.
-＃Protagonist
+＃主人公
 ...I see.

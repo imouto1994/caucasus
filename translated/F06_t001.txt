@@ -1,48 +1,48 @@
-＃Souko
+＃想子
 Whether they were targeting a person, a location, or if there was some other motive... it's still not clear.
-＃Protagonist
+＃主人公
 I see...
-＃Maya
+＃摩夜
 The kitchen... if it's like that, we won't be able to prepare any meals...
-＃Protagonist
+＃主人公
 You're right...
-＃Ai
+＃藍
 ...I'm just relieved it ended with only minor injuries. But why on earth the kitchen...?
-＃Protagonist
+＃主人公
 ...I still don't know.
-＃Benio
+＃紅緒
 The kitchen, huh... Don't you think the nature of this is far too different from before to be targeting a person?
-＃Protagonist
+＃主人公
 That might be true...
-＃Shion
+＃詩音
 The kitchen... what on earth happened...?
-＃Protagonist
+＃主人公
 ...I still don't know.
-＃Tsujimura
+＃辻村
 ...The kitchen does use gas, so it would be prone to explosions, but...
-＃Protagonist
+＃主人公
 That's true...
-＃Takamine
+＃高嶺
 The damage is limited to the destruction of the kitchen and some minor burns... It's fortunate there were few casualties.
-＃Protagonist
+＃主人公
 You're right...
-＃Takamine
+＃高嶺
 ...I also suffered a major burn once in the past.
-＃Protagonist
+＃主人公
 That... the scar on your face...?
-＃Takamine
+＃高嶺
 ...Yeah. There was a fire at a mountain hut near here a long time ago, and that's when I got it.
-＃Protagonist
+＃主人公
 Something like that happened...?
-＃Mikanagi
+＃御巫
 The injury itself isn't serious... but I wonder why she was the one targeted...?
-＃Protagonist
+＃主人公
 You're right...
-＃Akane
+＃あかね
 She was so close to being seriously injured...
-＃Protagonist
+＃主人公
 Yeah... I'm glad she's okay.
-＃Narumi
+＃なるみ
 That was close... A little more and I would've had a nasty burn.
-＃Protagonist
+＃主人公
 You're right...

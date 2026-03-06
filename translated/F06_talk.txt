@@ -1,57 +1,57 @@
-＃Souko
+＃想子
 Is this enough for now?
-＃Protagonist
+＃主人公
 Yes, thank you very much.
-＃Souko
+＃想子
 Well then, good luck with the rest of your investigation.
-＃Protagonist
+＃主人公
 I will.
 I decided to head somewhere else.
-＃Maya
+＃摩夜
 Is that all for now?
-＃Protagonist
+＃主人公
 Yes, thank you very much. You seem busy, so I'll take my leave now.
 I bowed and decided to head somewhere else.
-＃Ai
+＃藍
 Is that all for now?
-＃Protagonist
+＃主人公
 Yes, thank you very much. You seem busy, so I'll be going now.
 I bowed and decided to head somewhere else.
-＃Benio
+＃紅緒
 Will this do?
-＃Protagonist
+＃主人公
 Yes, thank you very much.
 I thanked Benio-san and decided to head somewhere else.
-＃Shion
+＃詩音
 Would this be sufficient?
-＃Protagonist
+＃主人公
 Yes, thank you very much.
 I thanked Shion-san and decided to head somewhere else.
-＃Tsujimura
+＃辻村
 Will this be enough for you?
-＃Protagonist
+＃主人公
 Yes, thank you for being so thorough. You seem busy, so I'll take my leave now.
 I offered my thanks and decided to head somewhere else.
-＃Takamine
+＃高嶺
 Is this enough?
-＃Protagonist
+＃主人公
 Y-Yes. Thank you very much. You seem busy, so I'll be going now.
 I bowed and decided to head somewhere else.
-＃Mikanagi
+＃御巫
 Will this do for now?
-＃Protagonist
+＃主人公
 Yes, thank you very much. Well then, excuse me.
 I decided to head somewhere else.
-＃Akane
+＃あかね
 Is that all you need?
-＃Protagonist
+＃主人公
 Yes, thank you very much. You still seem busy, so I'll take my leave.
 I bowed and decided to head somewhere else.
-＃Narumi
+＃なるみ
 Well, I guess I'll get back to work too. Even if it is a pain.
-＃Protagonist
+＃主人公
 Well then, I'll be going. Excuse me.
-＃Narumi
+＃なるみ
 Sure thing. Come by again.
 I decided to head somewhere else.
 Now then, what should I do next...

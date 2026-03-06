@@ -1,29 +1,29 @@
-＃Protagonist
+＃主人公
 Dr. Mikanagi, can you tell when Shion-san died?
-＃Mikanagi
+＃御巫
 I'm not sure... probably within the last hour, but I can't say for certain.
-＃Protagonist
+＃主人公
 I see...
 Shion-san... why...
 Paintings are hanging on the wall.
 ...They're Tsujimura-san's paintings.
 The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
 A cup was rolling on the floor.
-＃Protagonist
+＃主人公
 ...Did she drink the poison with this?
-＃Benio
+＃紅緒
 We shouldn't touch it carelessly. Fingerprints might remain.
-＃Protagonist
+＃主人公
 Yes, I know.
 I took out a handkerchief, carefully wrapped the cup, and lifted it.
-＃Protagonist
+＃主人公
 ...A little bit of liquid remains inside.
-＃Mikanagi
+＃御巫
 Let me see.
 I handed the cup to the doctor.
-＃Mikanagi
+＃御巫
 Don't sniff it. If it's cyanide like we suspect, even the gas alone can be lethal.
-＃Protagonist
+＃主人公
 ...Understood.
 How could this happen...
 The snow seems to be weakening.

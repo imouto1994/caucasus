@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 Perhaps the bell won't ring anymore.
-＃Protagonist
+＃主人公
 You're right.
-＃Maya
+＃摩夜
 The clock is broken... and we can't fix it right away...
-＃Protagonist
+＃主人公
 I see.
-＃Ai
+＃藍
 I’d rather not talk about that place...
-＃Protagonist
+＃主人公
 I understand...
-＃Benio
+＃紅緒
 The gears are broken. It won't be good for anything for a while.
-＃Protagonist
+＃主人公
 ...I see.
-＃Shion
+＃詩音
 Um... I'm sorry, I don't really know...
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 The clock is broken, you see... we'll just have to leave it like that for now.
-＃Protagonist
+＃主人公
 I see.
-＃Takamine
+＃高嶺
 The culprit might have timed their trap to coincide with the ringing of the bell.
-＃Protagonist
+＃主人公
 You're right...
-＃Mikanagi
+＃御巫
 ...The clock likely won't be usable for a while.
-＃Protagonist
+＃主人公
 Right.
-＃Akane
+＃あかね
 ...Perhaps the clock will be left just as it is.
-＃Protagonist
+＃主人公
 ...I see.
-＃Narumi
+＃なるみ
 It's a clock that no one looks at anyway. There will be a police investigation too, so it'll probably stay like that for a while.
-＃Protagonist
+＃主人公
 ...I see.

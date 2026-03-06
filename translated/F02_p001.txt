@@ -1,36 +1,36 @@
-＃Protagonist
+＃主人公
 Were you able to sleep, Souko-san?
-＃Souko
+＃想子
 Yes, thanks to you, I slept like a log.
-＃Maya
+＃摩夜
 Kirihara-san? I am sorry, I do not know her well.
-＃Protagonist
+＃主人公
 O-oh, I see...
-＃Ai
+＃藍
 Kirihara-san? We’ve only just met, so I don't really know much about her...
-＃Protagonist
+＃主人公
 Right...
-＃Benio
+＃紅緒
 She seems quite intelligent. I suppose a college student ought to be intellectual, after all.
-＃Protagonist
+＃主人公
 I-is that so...
-＃Tsujimura
+＃辻村
 Lady Kirihara...? I am afraid I do not know her well...
-＃Protagonist
+＃主人公
 O-oh, I see...
-＃Takamine
+＃高嶺
 Kirihara... Ah, that woman. You can't expect me to know anything about her, can you?
-＃Protagonist
+＃主人公
 Y-you're right...
-＃Mikanagi
+＃御巫
 Kirihara-san? ...Well, I can't really say...
-＃Protagonist
+＃主人公
 ...I guess that makes sense.
-＃Akane
+＃あかね
 Lady Kirihara? Wouldn't she be in her room?
-＃Protagonist
+＃主人公
 Um... I suppose so...
-＃Narumi
+＃なるみ
 Kirihara-san? ...No idea, I don't know her.
-＃Protagonist
+＃主人公
 O-oh, I see...

@@ -1,36 +1,36 @@
-＃Maya
+＃摩夜
 Really... you mustn't enter people's rooms without permission.
-＃Protagonist
+＃主人公
 Y-Yeah, you're right... my apologies.
-＃Ai
+＃藍
 A wig...? I don't know much about Mother's things.
-＃Protagonist
+＃主人公
 I see...
-＃Benio
+＃紅緒
 Mother's wigs, huh... I don't know anything about them.
-＃Protagonist
+＃主人公
 I see...
-＃Shion
+＃詩音
 Um... I'm sorry, I don't really know...
-＃Protagonist
+＃主人公
 That's true...
-＃Tsujimura
+＃辻村
 Well... as for the Madam's possessions, it would be best to ask the Madam herself...
-＃Protagonist
+＃主人公
 You're right...
-＃Takamine
+＃高嶺
 I'm not really sure.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 That's... something I really don't know.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 I'm sorry... I don't really know.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 I'm not quite sure about that.
-＃Protagonist
+＃主人公
 I see...

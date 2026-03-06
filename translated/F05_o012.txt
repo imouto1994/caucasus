@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 ...At the very least, the culprit has no intention of letting anyone escape from here.
-＃Protagonist
+＃主人公
 ...It seems that way.
-＃Maya
+＃摩夜
 Even the suspension bridge... Now we can't even call for help...
-＃Protagonist
+＃主人公
 Right...
-＃Ai
+＃藍
 We can't even go for help anymore...
-＃Protagonist
+＃主人公
 Yeah...
-＃Benio
+＃紅緒
 There's no point in worrying about it now; it's not like we can do anything.
-＃Protagonist
+＃主人公
 I see...
-＃Shion
+＃詩音
 The suspension bridge... Who would do such a thing...?
-＃Protagonist
+＃主人公
 I expect it was the culprit...
-＃Tsujimura
+＃辻村
 This is a predicament... Since there's no way we can repair the bridge ourselves...
-＃Protagonist
+＃主人公
 Right...
-＃Takamine
+＃高嶺
 ...The culprit likely intends to increase the number of victims. Otherwise, there'd be no point in taking out the bridge.
-＃Protagonist
+＃主人公
 ...That might be true.
-＃Mikanagi
+＃御巫
 Without the bridge, you won't be able to go home... Though after an incident like this, you might not be able to leave even if the police arrive.
-＃Protagonist
+＃主人公
 Right...
-＃Akane
+＃あかね
 We’re surrounded by cliffs here, so without the bridge, there's nowhere else to go...
-＃Protagonist
+＃主人公
 Is that so...
-＃Narumi
+＃なるみ
 Even without the bridge, we have plenty of food, so we'll be fine. ...Though Kirihara-san will have to give up on her cola.
-＃Protagonist
+＃主人公
 I see... I'll let her know.

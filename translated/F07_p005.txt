@@ -1,72 +1,72 @@
-＃Souko
+＃想子
 I wonder if there's a connection between Shion-san being targeted and you two being locked in the basement...
-＃Protagonist
+＃主人公
 I wonder...
-＃Souko
+＃想子
 ...There's a good chance Shion-san will be targeted by the killer. We have to make sure she's careful...
-＃Protagonist
+＃主人公
 Right...
-＃Maya
+＃摩夜
 To think even Shion was targeted...
-＃Protagonist
+＃主人公
 Her life isn't in danger, so please don't worry.
-＃Maya
+＃摩夜
 Shion is still safe, isn't she...?
-＃Protagonist
+＃主人公
 Yes... there's no need to worry.
-＃Ai
+＃藍
 Why even Shion... Why...!
-＃Protagonist
+＃主人公
 ...We don't know that yet.
-＃Ai
+＃藍
 I'm glad it was me who was targeted... if it had been Shion...
-＃Protagonist
+＃主人公
 Ai-san...
-＃Shion
+＃詩音
 I'm... all right now. I'm sorry to have worried you.
-＃Protagonist
+＃主人公
 I see...
-＃Shion
+＃詩音
 I... don't really understand what is happening... I am sorry...
-＃Protagonist
+＃主人公
 No...
-＃Tsujimura
+＃辻村
 So even Lady Shion is not safe after all...
-＃Protagonist
+＃主人公
 It seems so...
-＃Tsujimura
+＃辻村
 ...Lady Shion seems to be quite depressed...
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 ...Shion-kun is safe, I assume?
-＃Protagonist
+＃主人公
 Y-Yeah...
-＃Takamine
+＃高嶺
 There's a possibility that danger could close in on Shion-kun as well. Keep an eye on her.
-＃Protagonist
+＃主人公
 Right...
-＃Mikanagi
+＃御巫
 Shion-san's condition has mostly recovered. It seems the poison was a very small dose, and she threw it up immediately.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 If you're looking for Shion-san, she's likely in her room or the office.
-＃Protagonist
+＃主人公
 I see.
-＃Akane
+＃あかね
 So even Lady Shion is being targeted... What on earth is the killer's objective...?
-＃Protagonist
+＃主人公
 Good question...
-＃Akane
+＃あかね
 Lady Shion? I believe she is likely in her room...
-＃Protagonist
+＃主人公
 I see.
-＃Narumi
+＃なるみ
 I don't think you need to worry about Lady Shion's condition... but who could have done it...
-＃Protagonist
+＃主人公
 Yeah...
-＃Narumi
+＃なるみ
 If it's Lady Shion, she's probably in her room or the office, right?
-＃Protagonist
+＃主人公
 I see.

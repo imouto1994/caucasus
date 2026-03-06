@@ -1,44 +1,44 @@
-＃Souko
+＃想子
 Benio-san? ...Well, I still don't quite have a read on her. It feels like she’s putting on an act, though...
-＃Protagonist
+＃主人公
 I see...
-＃Maya
+＃摩夜
 Benio? She's a bit peculiar, but she's a good girl.
-＃Protagonist
+＃主人公
 I see.
-＃Ai
+＃藍
 About Benio? She has her quirks, but she isn't a bad child.
-＃Protagonist
+＃主人公
 I see.
-＃Benio
+＃紅緒
 About me? ...I don't really have much to tell you...
-＃Protagonist
+＃主人公
 Is that so?
-＃Benio
+＃紅緒
 Yes, well...
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 Lady Benio? ...I have nothing in particular to say on that matter...
-＃Protagonist
+＃主人公
 I see...
-＃Rokuyou
+＃六曜
 Benio? She's a very sweet girl. A bit eccentric, perhaps.
-＃Protagonist
+＃主人公
 ...Is that right?
-＃Takamine
+＃高嶺
 Benio-kun... well, she is certainly unconventional...
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 Benio-san? She's an interesting one.
-＃Protagonist
+＃主人公
 Is that so...
-＃Akane
+＃あかね
 Lady Benio? Wouldn't she be in her room?
-＃Protagonist
+＃主人公
 Ah... I suppose so.
-＃Narumi
+＃なるみ
 Lady Benio? ...Well, it's not my place to say anything.
-＃Protagonist
+＃主人公
 I see...

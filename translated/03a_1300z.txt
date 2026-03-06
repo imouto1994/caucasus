@@ -1,96 +1,96 @@
-＃Protagonist
+＃主人公
 Well... I think this is enough.
 Keep looking
 That's enough
 I'll look a little more...
 Alright.
 Now, how to escape using what I've gathered...
-＃Narumi
+＃なるみ
 Honestly... if it were just locked, I could get us out easily...
 Narumi-san muttered irritably.
-＃Protagonist
+＃主人公
 ...Isn't it more troublesome if it's locked?
-＃Narumi
+＃なるみ
 Because locks are easier?
 Suddenly, Narumi-san cut herself off.
-＃Protagonist
+＃主人公
 Locks are easier?
-＃Narumi
+＃なるみ
 Ah... um, in terms of ease of opening, I mean.
-＃Protagonist
+＃主人公
 ...I would think that if it’s locked, you wouldn't be able to open it...
-＃Narumi
+＃なるみ
 Well, there are ways.
-＃Protagonist
+＃主人公
 No, there aren't.
 She’s clearly hiding something...
 If she can open locks...
-＃Protagonist
+＃主人公
 ...Now that I think about it, this morning, when you came to my room, Narumi-san... my door was locked, wasn't it?
-＃Narumi
+＃なるみ
 Ah... ahh... yeah.
-＃Protagonist
+＃主人公
 ...I thought so.
 Which means the only logical conclusion is?
-＃Protagonist
+＃主人公
 ...Now that I think about it, this morning, when we were looking for Akane-san, you came out of the chapel, and that was locked.
-＃Narumi
+＃なるみ
 W... well...
-＃Protagonist
+＃主人公
 You said you searched Mr. Kousei's room too, but you don't have a key to that room, do you, Narumi-san?
 Narumi-san looked away.
-＃Protagonist
+＃主人公
 ...I thought so.
 Which means the logical conclusion is?
-＃Protagonist
+＃主人公
 Are you, Narumi-san... are you a?
 Thief
 Locksmith
-＃Protagonist
+＃主人公
 Narumi-san, is your true identity... a thief or something?
 I voiced my thought.
-＃Narumi
+＃なるみ
 ...And if it is, then what?
 Narumi-san tensed up.
-＃Protagonist
+＃主人公
 It’s nothing, really. Honestly, we have bigger things to worry about right now.
 First, we have to think about how to get out of this basement.
-＃Protagonist
+＃主人公
 Narumi-san, is your true identity... a locksmith?
 I voiced my thought.
-＃Narumi
+＃なるみ
 No.
-＃Protagonist
+＃主人公
 Oh... you aren't?
 I really thought I was onto something...
-＃Protagonist
+＃主人公
 In that case, the only other thing I can think of is a thief... but surely not.
-＃Narumi
+＃なるみ
 ...Exactly that.
-＃Protagonist
+＃主人公
 ...Eh?
-＃Narumi
+＃なるみ
 That's right, I'm a thief.
-＃Protagonist
+＃主人公
 ...Sigh.
-＃Narumi
+＃なるみ
 Hey, why the puzzled look!?
-＃Protagonist
+＃主人公
 Well, I mean... you're a maid, aren't you, Narumi-san?
-＃Narumi
+＃なるみ
 That’s just my cover... oh, honestly! Why do I have to explain this!
 Narumi-san stomped her feet.
-＃Protagonist
+＃主人公
 ...So, as a thief, Narumi-san, do you have any way to get us out?
-＃Narumi
+＃なるみ
 If I did, I wouldn't be having such a hard time.
 Narumi-san grumbled, looking somewhat sulky for some reason.
-＃Protagonist
+＃主人公
 It looks like we’ll have to make do with what we have here...
 I lined up the items I’d found in the storage room.
 Using them individually won't work, so... what should I do?
 This is all I have...
-＃Protagonist
+＃主人公
 Sorry, Narumi-san, I don't have anything that looks useful except for the cola...
 What should I combine this with...?
 What should I combine this with...?
@@ -101,99 +101,99 @@ What should I combine this with...?
 What should I combine this with...?
 What should I combine this with...?
 What should I combine this with...?
-＃Protagonist
+＃主人公
 I hope this works...
 I took the tool, put my arm through the grate, and tried to move the bar.
-＃Protagonist
+＃主人公
 Hup... ngh...!
 I swung my arm around, but I couldn't even graze the rod.
-＃Protagonist
+＃主人公
 Dammit... just a little more...
-＃Protagonist
+＃主人公
 ...Ah
-＃Narumi
+＃なるみ
 It came off!?
 I pulled my hand back and slowly moved the sliding door.
-＃Protagonist
+＃主人公
 ...I managed to reach it, just barely.
-＃Narumi
+＃なるみ
 Thank goodness...
 I supported Narumi-san as she looked ready to collapse onto the floor.
-＃Protagonist
+＃主人公
 Let's hurry. The culprit might be up to something while we’re stuck down here.
-＃Narumi
+＃なるみ
 Eh, ah... right.
-＃Protagonist
+＃主人公
 If something happens... I'll be counting on your skills as a thief, Narumi-san.
-＃Narumi
+＃なるみ
 ...That sounds a bit like blackmail.
-＃Protagonist
+＃主人公
 It's not.
 It's just a fact that we might need your help.
-＃Narumi
+＃なるみ
 Fine, let’s go.
 We went up the stairs and out of the basement.
-＃Protagonist
+＃主人公
 I hope this works...
-＃Narumi
+＃なるみ
 Um... look, I hate to say it... but no matter how you look at it, isn't that a failure?
-＃Protagonist
+＃主人公
 We won't know until we try.
 I took the tool, put my arm through the grate, and tried to move the bar.
-＃Protagonist
+＃主人公
 Hup... ngh...!
 I swung my arm around, but I couldn't even graze the rod.
-＃Protagonist
+＃主人公
 Dammit... just a little more...
-＃Protagonist
+＃主人公
 ...Ah
-＃Narumi
+＃なるみ
 Did it come off?
-＃Protagonist
+＃主人公
 Um...
 I slowly brought my empty hand back inside.
-＃Narumi
+＃なるみ
 ...? Where's the thing you just had?
-＃Protagonist
+＃主人公
 ...I dropped it on the floor.
-＃Narumi
+＃なるみ
 What!?
 Narumi-san rushed to the door and peered outside.
-＃Narumi
+＃なるみ
 Y... you... what on earth are you doing...
-＃Protagonist
+＃主人公
 ...I'm sorry.
-＃Narumi
+＃なるみ
 Honestly... now what?
-＃Protagonist
+＃主人公
 ...Should we just wait for help...?
-＃Narumi
+＃なるみ
 Our only choice... is to break through this wall.
 Narumi-san said, staring at the wall.
-＃Protagonist
+＃主人公
 Are you serious?
-＃Narumi
+＃なるみ
 You're the one who said we could break through it.
-＃Protagonist
+＃主人公
 I did, but...
 I don't think it's a good idea to go around breaking someone else's house...
-＃Narumi
+＃なるみ
 Then first, peel off this wooden board for me.
-＃Protagonist
+＃主人公
 Sigh...
 I guess I have no choice... I don't know how long it’ll take, but it’s better than doing nothing.
 Feeling like a prison escapee, I put my hand into the gap in the wall.
 After shaking the door for a while, there was a sudden clatter.
-＃Protagonist
+＃主人公
 Ah...
-＃Narumi
+＃なるみ
 Did it open?
-＃Protagonist
+＃主人公
 Ye-Yes...
 The door opened.
 The rod was lying on the floor outside.
-＃Protagonist
+＃主人公
 Who on earth would do such a thing...
-＃Narumi
+＃なるみ
 Whatever, let's go up.
 We went up the stairs and out of the basement.

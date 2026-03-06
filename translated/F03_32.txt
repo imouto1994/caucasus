@@ -5,46 +5,46 @@ Is he not here?
 I gave up and decided to head elsewhere.
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-＃Mikanagi
+＃御巫
 Ah... it's you. What's the matter?
-＃Protagonist
+＃主人公
 Hello, Dr. Mikanagi. Do you have a moment?
-＃Mikanagi
+＃御巫
 Yes, I don't mind, but what is it?
 Now, what should I do?
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
 But there was no response from inside.
-＃Protagonist
+＃主人公
 It seems he isn't here.
-＃Akane
+＃あかね
 So it seems...
 We gave up and decided to head elsewhere.
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-＃Mikanagi
+＃御巫
 Ah... it's you. What's the matter?
-＃Akane
+＃あかね
 Dr. Mikanagi, have you seen Lady Ai?
-＃Mikanagi
+＃御巫
 Ai-san? ...No, I haven't.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 Please let us know if you see her.
-＃Mikanagi
+＃御巫
 Yes, understood.
 We decided to head elsewhere.
 This is Dr. Mikanagi's room.
 I knock lightly on the door.
-＃Mikanagi
+＃御巫
 Oh, it's you two... Have you still not found Ai-san?
-＃Akane
+＃あかね
 No... that's right.
-＃Mikanagi
+＃御巫
 I wonder what happened... I'm starting to get worried.
-＃Protagonist
+＃主人公
 Well, we're going to keep looking around other areas.
-＃Mikanagi
+＃御巫
 Right, I'm counting on you.
 We left the room.

@@ -1,24 +1,24 @@
-＃Souko
+＃想子
 Akane-san was with you the whole time, wasn't she? ...Though, there is a possibility she's using that as an alibi.
-＃Protagonist
+＃主人公
 ...I think it's premature to jump to that conclusion, but...
-＃Benio
+＃紅緒
 Akane was with you, wasn't she? If so, couldn't you tell just by looking at her reaction?
-＃Protagonist
+＃主人公
 True...
-＃Tsujimura
+＃辻村
 As for Mistress Hiyama, I believe she would have been preparing lunch around that time...
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 I wouldn't know.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 But I was with you the entire time, wasn't I?
-＃Protagonist
+＃主人公
 Y-Yeah, that's right...
-＃Narumi
+＃なるみ
 As for Akane, wasn't she with you?
-＃Protagonist
+＃主人公
 Y-Yeah, I suppose so...

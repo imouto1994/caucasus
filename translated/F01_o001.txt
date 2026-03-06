@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 It seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here.
-＃Protagonist
+＃主人公
 Is that so...
-＃Maya
+＃摩夜
 It is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'.
-＃Protagonist
+＃主人公
 Is that so...
-＃Ai
+＃藍
 About Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago...
-＃Protagonist
+＃主人公
 Is that so...
-＃Benio
+＃紅緒
 If it is about Nanatsuki Village, I believe it would be best to ask my mother or my elder sister.
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 I've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first.
-＃Protagonist
+＃主人公
 I see...
-＃Rokuyou
+＃六曜
 The origin of Nanatsuki Village? Who knows... I'm not from around here, so I don't know much about it.
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 ...I don't know. Ask someone else.
-＃Protagonist
+＃主人公
 ...Alright.
-＃Mikanagi
+＃御巫
 As for origins and such, I think it's better to ask someone from the Nanatsuki family.
-＃Protagonist
+＃主人公
 You're right...
-＃Akane
+＃あかね
 Um... well, it's only been a short while since I came here, so...
-＃Protagonist
+＃主人公
 That's true, sorry for asking...
-＃Narumi
+＃なるみ
 Nanatsuki Village, huh... I think you're better off asking the people who live in this house about that.
-＃Protagonist
+＃主人公
 ...I suppose so.

@@ -1,60 +1,60 @@
-＃Souko
+＃想子
 There's no way I'd know if you ask me. You have to ask the people of this house.
-＃Protagonist
+＃主人公
 Right...
-＃Maya
+＃摩夜
 ...I suppose something like that did happen... I don't remember it well, it was so long ago...
-＃Protagonist
+＃主人公
 I see...
-＃Ai
+＃藍
 ...I believe it was shortly after I was born... I expect Tsujimura-san would know.
-＃Protagonist
+＃主人公
 ...I see.
-＃Benio
+＃紅緒
 The cause of Takamine's injury? Ask him or Tsujimura.
-＃Protagonist
+＃主人公
 Right...
-＃Shion
+＃詩音
 Um... I'm sorry, I don't really know...
-＃Protagonist
+＃主人公
 I thought so...
-＃Tsujimura
+＃辻村
 So Takamine-sama told you... That was nearly twenty years ago. A fire broke out at a mountain cabin nearby...
-＃Protagonist
+＃主人公
 Nearby... but that's across the suspension bridge, isn't it?
-＃Tsujimura
+＃辻村
 Yes, that's right. A mother and daughter were living in that cabin, but despite Takamine-sama's efforts, the mother passed away...
-＃Protagonist
+＃主人公
 ...Did the children survive?
-＃Tsujimura
+＃辻村
 Yes. There were two daughters; they were rescued despite suffering burns.
-＃Protagonist
+＃主人公
 Two... sisters, then.
-＃Tsujimura
+＃辻村
 One was severely injured and couldn't be treated here, so she was left in the care of a doctor in town... but we decided to raise the other one here.
-＃Protagonist
+＃主人公
 ...Wait, that remaining child... was she albino?
-＃Tsujimura
+＃辻村
 ...She was an ordinary child at first. But she gradually turned white... perhaps she wasn't getting enough nutrition...
-＃Protagonist
+＃主人公
 ...That was Shion-san, wasn't it?
-＃Tsujimura
+＃辻村
 That is correct... Um, could I ask you to please keep this matter strictly confidential...?
-＃Protagonist
+＃主人公
 ...Understood.
-＃Takamine
+＃高嶺
 ...I have nothing more to say about it.
-＃Protagonist
+＃主人公
 I see...
-＃Mikanagi
+＃御巫
 I heard about the fire from my father. Apparently, the rescued child's burns were so severe she was taken to a hospital in town, but then she suddenly disappeared.
-＃Protagonist
+＃主人公
 I see...
-＃Akane
+＃あかね
 I'm sorry... I don't really know.
-＃Protagonist
+＃主人公
 I see...
-＃Narumi
+＃なるみ
 I'm not quite sure about that.
-＃Protagonist
+＃主人公
 I see...

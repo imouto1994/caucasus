@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 Rokuyou-san? He's a handsome man. He doesn't exactly feel like a man of the sea, though.
-＃Protagonist
+＃主人公
 I see...
-＃Maya
+＃摩夜
 Isamu-san? I believe he is an impeccable match for Shion.
-＃Protagonist
+＃主人公
 I see.
-＃Ai
+＃藍
 Isamu-san? As a partner for Shion, he's perfect, but...
-＃Protagonist
+＃主人公
 I see...
-＃Benio
+＃紅緒
 Mr. Rokuyou? He has been visiting us since long ago. I believe he was particularly close with my elder sister...
-＃Protagonist
+＃主人公
 I see.
-＃Tsujimura
+＃辻村
 Mr. Rokuyou is from a branch of the Nanatsuki family. Apparently, the marriage was decided a long time ago.
-＃Protagonist
+＃主人公
 I see.
-＃Rokuyou
+＃六曜
 About me? I'm not very good at talking about myself.
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 Rokuyou-kun? I've heard he's a serious and hardworking man.
-＃Protagonist
+＃主人公
 I see.
-＃Mikanagi
+＃御巫
 About Isamu? He can be a bit too serious at times. Actually, he's terrible at talking to girls, so I used to tease him about it all the time.
-＃Protagonist
+＃主人公
 I see.
-＃Akane
+＃あかね
 Mr. Rokuyou... um, I believe he's in his room.
-＃Protagonist
+＃主人公
 I see.
-＃Narumi
+＃なるみ
 Mr. Rokuyou? Hmm... honestly, I don't know him that well.
-＃Protagonist
+＃主人公
 I see...

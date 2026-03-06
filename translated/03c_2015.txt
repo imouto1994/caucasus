@@ -1,57 +1,57 @@
 While we waited in the corridor, Dr. Mikanagi came running.
-＃Mikanagi
+＃御巫
 You say it was inside the oven?
-＃Protagonist
+＃主人公
 Yes... it was being burned.
-＃Mikanagi
+＃御巫
 In that case, identifying the body will be difficult... and the head is missing as well, isn't it?
-＃Benio
+＃紅緒
 ...So it seems.
-＃Mikanagi
+＃御巫
 ...I'll do everything I can.
 Dr. Mikanagi entered the kitchen.
-＃Mikanagi
+＃御巫
 This is... horrible.
 Dr. Mikanagi grimaced upon seeing the corpse.
-＃Mikanagi
+＃御巫
 Who is currently unaccounted for?
-＃Benio
+＃紅緒
 ...The whereabouts of Akane and Kirihara-san are unknown.
-＃Mikanagi
+＃御巫
 So it's one of those two...
-＃Protagonist
+＃主人公
 Um, is there a possibility that it's the body of Ai-san or Rokuyou-san...?
-＃Mikanagi
+＃御巫
 ...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Ai-san or Isamu.
-＃Protagonist
+＃主人公
 Um, is there a possibility that it's the body of Rokuyou-san...?
-＃Mikanagi
+＃御巫
 ...From the look of it, it appears to be a woman who wasn't particularly tall. It's likely not Isamu, but...
-＃Protagonist
+＃主人公
 I see...
 So it really can only be Souko-san or Akane-san...
-＃Mikanagi
+＃御巫
 If only there were some kind of clue... do you know of any physical characteristics of Kirihara-san's?
-＃Protagonist
+＃主人公
 Characteristics...? Now that you mention it, she had injured her hand when coming here...
-＃Mikanagi
+＃御巫
 It was the pinky finger, if I recall...
 Dr. Mikanagi began to examine what appeared to be the arm of the charred corpse.
-＃Protagonist
+＃主人公
 How is it...?
-＃Mikanagi
+＃御巫
 Wait a moment.
 Dr. Mikanagi's movements stopped.
-＃Mikanagi
+＃御巫
 ...It appears to be broken.
-＃Protagonist
+＃主人公
 Eh... then...
-＃Mikanagi
+＃御巫
 I can't say for certain, but it's most likely Kirihara-san.
-＃Protagonist
+＃主人公
 That's...
 I slumped onto the kitchen floor.
-＃Mikanagi
+＃御巫
 ...I imagine the neck was severed before being burned. When it's been done to this extent, identification would be difficult even with the head, but...
 Dr. Mikanagi's words no longer reached my ears.
 Why?

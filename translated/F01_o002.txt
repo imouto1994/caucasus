@@ -1,40 +1,40 @@
-＃Souko
+＃想子
 A will, huh... I'm certainly curious about what he left behind...
-＃Protagonist
+＃主人公
 Me too...
-＃Maya
+＃摩夜
 I'm sorry, but... the contents are not something to be discussed lightly with an outsider...
-＃Protagonist
+＃主人公
 Of course...
-＃Ai
+＃藍
 The will? I don't know the specific details, but...
-＃Protagonist
+＃主人公
 I see...
-＃Benio
+＃紅緒
 My father's will... if you wish to know its contents, why not ask Mr. Takamine?
-＃Protagonist
+＃主人公
 I see...
-＃Tsujimura
+＃辻村
 ...Regarding that matter, there is nothing I can say from my position.
-＃Protagonist
+＃主人公
 I understand...
-＃Rokuyou
+＃六曜
 The previous head's will? ...Well, I know the contents, but it doesn't really concern me.
-＃Protagonist
+＃主人公
 I see...
-＃Takamine
+＃高嶺
 There's no way I could speak of it to an outsider like you.
-＃Protagonist
+＃主人公
 Y-You're right...
-＃Mikanagi
+＃御巫
 That is... not a matter I am in a position to comment on.
-＃Protagonist
+＃主人公
 I understand...
-＃Akane
+＃あかね
 The will...? I believe the lawyer, Mr. Takamine, might know something.
-＃Protagonist
+＃主人公
 I see.
-＃Narumi
+＃なるみ
 A will, huh... I suppose it's about the distribution of the inheritance and such... but I don't know the fine details.
-＃Protagonist
+＃主人公
 Of course.

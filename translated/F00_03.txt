@@ -1,14 +1,14 @@
 Ifve made my way into the Great Hall.
-”Protagonist
+”ålŒö
 There is a fireplace here.
-”Narumi
+”‚È‚é‚İ
 Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
 Ifve returned to the Great Hall.
-”Narumi
+”‚È‚é‚İ
 Weren't we just here?
-”Protagonist
+”ålŒö
 Well, yes...
-”Narumi
+”‚È‚é‚İ
 If you still want to investigate, then make it quick.
-”Protagonist
+”ålŒö
 Right...

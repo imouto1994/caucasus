@@ -11,18 +11,8 @@
  *
  * Checks performed:
  *   1. Both files have the same number of lines.
- *   2. Each line's "type" matches between the two files:
- *        - Speech source lines (＃) must appear at the same positions.
- *        - Speech content lines (「」/『』 in original, plain text in
- *          translated) must not be a speech source in the translation.
- *   3. Speech source names match the expected Japanese → English mapping.
- *
- * Line types (determined from the original):
- *   - Speech source  — ＃*** (both original and translated)
- *   - Speech content — 「***」or 『***』in original; plain text (no brackets)
- *                      in translated. Identified positionally as the line
- *                      after a ＃ source line.
- *   - Normal line    — anything else
+ *   2. Speech source lines (＃) must appear at the same positions and be
+ *      identical between original and translated (Japanese speaker names).
  *
  * Both original and translated files are Shift-JIS encoded, so we read raw
  * bytes and decode with TextDecoder("shift_jis").
@@ -44,6 +34,7 @@ const TRANSLATED_VERTICAL_DIR = "translated-vertical";
 const isSpeechSource = (line) => line.startsWith("＃");
 
 // Canonical Japanese → English speech source name mapping.
+// Kept for reference; speech source lines now use the original Japanese names.
 const SPEAKER_MAP = new Map([
   ["主人公", "Protagonist"],
   ["なるみ", "Narumi"],
@@ -133,7 +124,7 @@ async function validateDirectory(translatedDir, trim) {
     }
 
     // Compare each line pair. Speech source lines must appear at the same
-    // positions, and speaker names must match the canonical mapping.
+    // positions and be identical to the original (Japanese speaker names).
     const lineMismatches = [];
     for (let i = 0; i < originalLines.length; i++) {
       const origLine = trim ? originalLines[i].trim() : originalLines[i];
@@ -148,29 +139,13 @@ async function validateDirectory(translatedDir, trim) {
           origText: originalLines[i],
           transText: translatedLines[i],
         });
-      } else if (origIsSrc) {
-        // Both are speech source — verify the speaker name mapping.
-        const jpName = origLine.slice("＃".length);
-        const enName = transLine.slice("＃".length);
-        const expectedEn = SPEAKER_MAP.get(jpName);
-
-        if (expectedEn === undefined) {
-          lineMismatches.push({
-            line: i + 1,
-            kind: "unknown_speaker",
-            origText: originalLines[i],
-            transText: translatedLines[i],
-          });
-        } else if (enName !== expectedEn) {
-          lineMismatches.push({
-            line: i + 1,
-            kind: "speaker_name",
-            expected: expectedEn,
-            actual: enName,
-            origText: originalLines[i],
-            transText: translatedLines[i],
-          });
-        }
+      } else if (origIsSrc && origLine !== transLine) {
+        lineMismatches.push({
+          line: i + 1,
+          kind: "speaker_name",
+          origText: originalLines[i],
+          transText: translatedLines[i],
+        });
       }
     }
 
@@ -184,11 +159,7 @@ async function validateDirectory(translatedDir, trim) {
           );
         } else if (m.kind === "speaker_name") {
           console.log(
-            `   Line ${m.line}: speaker name mismatch — expected "${m.expected}" but got "${m.actual}"`,
-          );
-        } else if (m.kind === "unknown_speaker") {
-          console.log(
-            `   Line ${m.line}: unknown original speaker (not in mapping)`,
+            `   Line ${m.line}: speech source line differs from original`,
           );
         }
         console.log(`     original:   ${m.origText}`);

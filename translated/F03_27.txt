@@ -1,28 +1,28 @@
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-＃Souko
+＃想子
 Oh, it's you. What is it?
-＃Protagonist
+＃主人公
 Do you have a moment?
-＃Souko
+＃想子
 Yes, of course.
 With that, Souko-san guided me into the room.
-＃Souko
+＃想子
 So, what's your business?
-＃Protagonist
+＃主人公
 Well, you see...
 I’ve come to Souko-san's room.
 I knock lightly on the door.
-＃Souko
+＃想子
 Oh, it's you again. What's the matter?
-＃Protagonist
+＃主人公
 Could I talk to you for a moment?
-＃Souko
+＃想子
 Yes, of course.
 With that, Souko-san guided me into the room.
-＃Souko
+＃想子
 What is it this time?
-＃Protagonist
+＃主人公
 Well, you see...
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
@@ -31,44 +31,44 @@ Is she not here?
 I gave up and decided to head elsewhere.
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-＃Souko
+＃想子
 Oh, it's you. What is it? And Akane-san is with you too.
-＃Akane
+＃あかね
 Um, have you seen Lady Ai?
-＃Souko
+＃想子
 Ai-san? No, I haven't.
 Souko-san shakes her head.
-＃Protagonist
+＃主人公
 It seems she hasn't been seen for a while now.
-＃Souko
+＃想子
 I see... I’m worried, especially after what happened...
-＃Akane
+＃あかね
 Please let us know if you see her. We'll be looking around the other areas.
-＃Souko
+＃想子
 Yes, I understand.
-＃Protagonist
+＃主人公
 Well then, we'll be going.
-＃Akane
+＃あかね
 Please excuse us.
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
-＃Souko
+＃想子
 ...Oh, it's you two. Have you found her yet?
-＃Akane
+＃あかね
 No...
-＃Souko
+＃想子
 I think I'll try looking around a few other places myself.
-＃Protagonist
+＃主人公
 Yes, could you please?
-＃Souko
+＃想子
 Of course.
-＃Akane
+＃あかね
 Then, we're counting on you.
 I’ve made it to Souko-san's room.
 I knock lightly on the door.
 I wait for a while, but there was no response from inside.
-＃Akane
+＃あかね
 It seems she isn't here.
-＃Protagonist
+＃主人公
 So it seems.
 I gave up and decided to head elsewhere.
