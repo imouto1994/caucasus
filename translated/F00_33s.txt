@@ -15,7 +15,7 @@ Um... is this German? I can't really understand the content.
 Musical symbols are written in it, so it must be related to that...
 It appears to be a music book written in German.
 It seems to be a German-Japanese dictionary.
-With this, I might be able to understand the meaning of individual words, but without knowing the grammar and such, reading a book still looks difficult.
+I might understand individual words, but without knowing grammar, reading a book looks difficult.
 A German-Japanese dictionary is sitting here.
 This is... it looks like a travel guidebook written in German.
 I'd like to visit someday, but that's just not possible...
@@ -30,7 +30,7 @@ It looks like a German history book.
 I flip through a book that caught my eye.
 It was a music textbook.
 Scales and whatnot; I don't really understand it.
-It says things like 'Do Re Mi Fa So La Ti Do' is 'C D E F G A B C' in English, and further, it becomes 'C D E F G A H C' in Germany.
+It says 'Do Re Mi Fa So La Ti Do' is 'C D E F G A B C' in English and 'C D E F G A H C' in Germany.
 I don't even want to think back on my music grades...
 A music textbook is sitting here.
 ＃主人公
@@ -39,13 +39,13 @@ A scrap of paper tucked into the book caught my eye.
 What could this be...?
 『A Certain Man's Story: Chapter One』
 My name is Nanatsuki Kousei. I am a mere composer.
-I have decided to leave a record of a certain experience here. It was because the events were too hideous to keep locked away in my own heart alone.
+I have decided to leave a record of an experience here. The events were too hideous to keep locked away.
 Let those who find this read it with caution. ~To be continued~
 ＃主人公
 ...What the hell is this?
 A scrap of paper titled 'A Certain Man's Story: Chapter One' is tucked inside.
 A book titled 'Deutsche Architektur' is sitting here.
-It's filled with photographs and illustrations of Western castles, so it must be some kind of commentary or guide on the subject.
+It's filled with photographs of Western castles; it must be some kind of commentary or guide.
 It seems to be a book related to German architecture.
 This book... appears to be a story about a protagonist who is a piano player getting caught up in a strange incident.
 Given the protagonist's profession, it might not be out of place in this house.
@@ -60,7 +60,7 @@ It says the word for 'floor' is 'Floor' in English, and 'Stock' in German.
 It looks like a book on architecture.
 I flip through a book that caught my eye.
 It looks like a commentary on maps.
-It says things like 'North, South, East, West' are represented as 'N, S, E, W' in English, and become 'N, S, O, W' in German.
+It says 'North, South, East, West' are 'N, S, E, W' in English and 'N, S, O, W' in German.
 So only East changes... well, I guess everything besides the first letter changes too.
 A map commentary is sitting here.
 It appears to be a mystery novel.

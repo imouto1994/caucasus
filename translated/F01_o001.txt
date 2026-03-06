@@ -1,13 +1,13 @@
 ＃想子
-It seems this has been Nanatsuki family territory for a very long time. Since it was isolated from other villages, a unique culture might have developed here.
+This has been Nanatsuki territory for a long time. Isolated, a unique culture might have developed here.
 ＃主人公
 Is that so...
 ＃摩夜
-It is said that our ancestors reclaimed the land in this area. Ever since then, it seems this region has come to be called 'Nanatsuki'.
+It is said our ancestors reclaimed the land here. Since then, the vicinity has been called 'Nanatsuki'.
 ＃主人公
 Is that so...
 ＃藍
-About Nanatsuki Village... according to the legends left in the records, it is said that the Nanatsuki ancestors settled here long ago...
+Legends in the records say the Nanatsuki ancestors settled here long ago, but...
 ＃主人公
 Is that so...
 ＃紅緒
@@ -15,7 +15,7 @@ If it is about Nanatsuki Village, I believe it would be best to ask my mother or
 ＃主人公
 I see...
 ＃辻村
-I've heard this area has been called Nanatsuki Village since long ago... but I'm not sure if the Nanatsuki family came first, or if the village bore the name first.
+This area has been called Nanatsuki Village since long ago... but I'm not sure which came first.
 ＃主人公
 I see...
 ＃六曜

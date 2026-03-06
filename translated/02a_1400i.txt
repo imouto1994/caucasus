@@ -11,15 +11,15 @@ But well... if I had to give my own impression, there wasn't anything that count
 ＃主人公
 I see...
 ＃想子
-A delayed-action murder attempt using the clock mechanism?no one had a solid alibi during the window when it was likely set up. That includes you and me, for that matter.
+A clock-mechanism murder attempt? No one had a solid alibi during that window. That includes both of us.
 ＃主人公
 Yeah...
 ＃想子
-Now we just have to wait and see if Ai-san saw the killer’s face?but we can't confirm that until she regains consciousness.
+Now we just wait and see if Ai-san saw the killer’s face?but we can't confirm that until she wakes up.
 ＃主人公
 We'll have to leave that for later, then.
 ＃想子
-Right. To summarize where we are: finding the killer is going to be difficult. So, let’s try thinking about it from the perspective of motive.
+Right. Finding the killer is going to be difficult, so let’s think about it from the perspective of motive.
 ＃主人公
 Motive, huh? The reason someone would kill Rokuyou-san and try to kill Ai-san...
 ＃紅緒
@@ -60,7 +60,7 @@ By the way, who do you think is the killer at this point?
 ＃主人公
 Eh... me...?
 ＃想子
-Of course, we can't tell anyone else right now. We don't want to breed any unnecessary suspicion. But... I want to know where you stand.
+We can't tell anyone else right now and breed suspicion. But... I want to know where you stand.
 ＃紅緒
 Hmm... she's right. I'd love to hear your brilliant reasoning. I don't mind even if you point the finger at me.
 ＃主人公
@@ -76,7 +76,7 @@ It's simply because you don't have an alibi...
 ＃想子
 Maya-san, eh... I wonder.
 ＃紅緒
-...If we're talking about inheritance, it’s not outside the realm of possibility. The fewer heirs there are, the larger her own share becomes.
+...Regarding inheritance, it’s not impossible. The fewer heirs there are, the larger her own share becomes.
 ＃主人公
 ...Though it doesn't seem very realistic, I suppose.
 ＃想子
@@ -84,7 +84,7 @@ Maya-san, eh... I wonder.
 ＃主人公
 I can't say the possibility is zero. After all, Ai-san didn't actually die...
 ＃紅緒
-...Wouldn't she have certainly died if you hadn't come to her rescue? No one would take such a high-risk gamble, would they?
+...Wouldn't she have died if you hadn't rescued her? No one would take such a high-risk gamble.
 ＃主人公
 I suppose you're right...
 ＃紅緒
@@ -104,7 +104,7 @@ Exactly...
 ＃紅緒
 Tsujimura, huh... It's not impossible, I suppose...
 ＃想子
-Since he's Kousei-shi's younger brother, there might be a chance for him to inherit... but I have to wonder if a man like him would really come up with something like this.
+He's Kousei-shi's younger brother, so he might inherit... but I wonder if a man like him could plan this.
 ＃紅緒
 I'm inclined to agree with you on that.
 ＃主人公
@@ -152,7 +152,7 @@ That’s true... so, are you saying you won't eat anything Narumi-san makes?
 ＃主人公
 Eh... how did we get to that?
 ＃紅緒
-Because there's a chance she could poison us, isn't there? If you really can't stand the thought, I guess you'll just have to cook for yourself.
+There's a chance she could poison us. If you can't stand the thought, I guess you'll have to cook for yourself.
 ＃主人公
 That sounds rough...
 ＃想子

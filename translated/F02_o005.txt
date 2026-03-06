@@ -15,7 +15,7 @@ If you want to get to the tower, your only option is to go through the door at t
 ”ålŒö
 I see.
 ”’Ò‘º
-With all this snow, I shall have to do some shoveling myself. It would be a disaster if Lady Shion were to trip and fall.
+With all this snow, I must do some shoveling. It would be a disaster if Lady Shion were to trip.
 ”ålŒö
 You're right.
 ”‚—ä
@@ -23,7 +23,7 @@ You're right.
 ”ålŒö
 Is that so...
 ”Œä›Ş
-Ifm told Shion-san lives in the annex due to her poor health... but itfs possible my father was the one who gave those instructions...
+Ifm told Shion-san lives in the annex due to poor health... maybe my father gave those instructions.
 ”ålŒö
 I see...
 ”‚ ‚©‚Ë

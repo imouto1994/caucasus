@@ -26,7 +26,7 @@ W-Well... if you insist that much, I suppose I could consider it.
 ”g
 Why did you come to my place?
 ”ålŒö
-I think you're the one most likely to be targeted next, Benio-san. So I thought maybe if I was by your side, I could protect you...
+I think you're the next target, Benio-san. So I thought maybe if I was by your side, I could protect you...
 ”g
 Targeted... me? To eliminate a nuisance, you mean.
 ”ålŒö
@@ -95,7 +95,7 @@ Jeez... but you have all sorts of strange things in this room, don't you.
 What do you mean, 'strange'? How rude.
 Benio-san pulled a book from the bookshelf.
 ”g
-This is a book recording the secret arts of the Kabbalah left behind by Agrippa. I studied German and Hebrew solely to read this, you know.
+This book records the secret arts of the Kabbalah by Agrippa. I studied German and Hebrew just to read this.
 ”ålŒö
 I see...
 I don't really get it.
@@ -139,7 +139,7 @@ It had 'THE FOOL' written on it.
 ”ålŒö
 Haha... I guess so.
 ”g
-He's a fool, but on the other hand, it can also be read as an unconventional genius. I look forward to seeing which one you become.
+He's a fool, but on the other hand, it can be read as unconventional genius. I look forward to seeing which you become.
 Benio-san chuckled.
 ”g
 Well... shall we get some sleep soon?

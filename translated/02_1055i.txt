@@ -16,7 +16,7 @@ How many more days do you think we're stuck here? I refuse to tolerate staying n
 But... needlessly inciting suspicion is...
 The room suddenly grew noisy with chatter.
 ＃想子
-Quite an uproar... if you name the killer now, there's no telling what they'll do in their desperation... are you still planning to go through with it?
+Quite an uproar... if you name the killer now, there's no telling what they'll do. Are you still going through with it?
 Souko-san checked with me.
 [Continue naming the killer]
 [Stop naming the killer]
@@ -93,13 +93,13 @@ Because... this evidence tells the whole story.
 ＃詩音
 The key...?
 ＃主人公
-According to Tsujimura-san, the key to the chapel was missing. If this key wasn't to Rokuyou-san’s room, but to the chapel instead...
+Tsujimura-san said the chapel key was missing. If this key was to the chapel, rather than Rokuyou-san’s room...
 ＃紅緒
 If that were the case... why did Rokuyou have it?
 ＃主人公
-This is just speculation, but... I imagine Rokuyou-san took the key himself. He went to the chapel in the middle of the night?to see Shion-san.
+Just speculation, but... I imagine Rokuyou-san took the key to see Shion-san in the chapel.
 ＃主人公
-The lid of the casket is heavy, so Shion-san couldn't have opened it alone. If Rokuyou-san opened it from the outside?it wouldn't be hard to close since it has hinges.
+The casket lid is heavy; Shion-san couldn't open it alone. If Rokuyou-san opened it, it wouldn't be hard to close.
 ＃詩音
 ...
 ＃主人公
@@ -122,7 +122,7 @@ The snowdrop flower lying by the body... I imagine Rokuyou-san plucked it when h
 ＃想子
 The possibility is high, but...
 ＃主人公
-One of the stamens is missing. If that stamen were found in the chapel... or if we could at least collect some of its pollen...
+One stamen is missing. If it were found in the chapel... or if we could at least collect its pollen...
 ＃藍
 That's enough!!
 ＃詩音
@@ -164,7 +164,7 @@ So Shion killed Rokuyou... a few questions still remain, but since she confessed
 ＃想子
 Yeah... what should we do now...?
 ＃高嶺
-We have no choice but to wait quietly for rescue. The person from the base of the mountain is due in two days, isn't that right?
+We must wait quietly for rescue. The person from the base of the mountain is due in two days, right?
 ＃紅緒
 That's the plan. ...Good grief, it seems the 'Curse of the Seven' is about to grow.
 Benio-san muttered wearily.

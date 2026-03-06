@@ -20,11 +20,11 @@ That door can only be locked from this side.
 ”ålŒö
 Is that right?
 ”‘zq
-Western-style mansions like this often have doors that allow you to move directly between rooms. Your room had one too, didn't it? The layout there is identical to this one.
+Mansions like this often have doors between rooms. Your room had one, didn't it? The layout is identical.
 ”ålŒö
 ...So that means if itfs locked, no one can enter from Tsujimura-sanfs side?
 ”Œä›Ş
-Thatfs how it works. Conversely, if the culprit left through this door, there would be no way for them to lock it behind them.
+Thatfs how it works. Conversely, if the culprit left through this door, they couldn't lock it behind them.
 ”ålŒö
 I see...
 The door leading to Tsujimura-sanfs room is securely locked.
@@ -86,7 +86,7 @@ The room key was inside the pocket of his trousers.
 ”ålŒö
 What about this flower...?
 ”‘zq
-A snowdrop. They were arranged in the hall... but the fact that only the flower head has fallen, is it some kind of metaphor for the headless corpse...?
+A snowdrop. Only the flower head has fallen... is it a metaphor for the headless corpse?
 ”Œä›Ş
 ...If so, itfs in incredibly poor taste.
 ”ålŒö

@@ -297,7 +297,7 @@ I think you're the next target, Benio-san. So I thought maybe if I was by your s
 translated/02a_2210ven.txt | 98
 This book records the secret arts of the Kabbalah by Agrippa. I studied German and Hebrew just to read this.
 translated/02a_2210ven.txt | 142
-He's a fool, but on the other hand, it can be read as an unconventional genius. I look forward to seeing which you become.
+He's a fool, but on the other hand, it can be read as unconventional genius. I look forward to seeing which you become.
 translated/02b1_1245s.txt | 25
 ...There's a contusion on the head, but death was indeed caused by suffocation due to neck compression.
 translated/02b2_1255.txt | 80
@@ -565,7 +565,7 @@ Well, I've done a lot of digging. That lawyer is such a blockhead; I couldn't ge
 translated/03a_2300.txt | 31
 German and Italian are tied to music, and Father had many friends there. Wait a second.
 translated/03a_2300.txt | 57
-Father must have wanted to convey something in his will... but using a code makes it feel like he didn't want us to know.
+Father must have wanted to convey something in his will, but using a code makes it feel like he didn't want us to know.
 translated/03a_2300.txt | 68
 But that doesn't mean we can just go checking every fireplace in everyone's private rooms, does it?
 translated/03a_2300.txt | 77
@@ -1224,7 +1224,7 @@ translated/F05_p005.txt | 14
 Shion likely feels a sense of debt for being adopted. That’s why she never complains about her situation.
 translated/F05_p006.txt | 22
 I couldn't make a living with my artistic skills... I'm grateful to be allowed to work here.
-translated/F05_p009.txt | 30
+translated/F05_p009.txt | 38
 About Akane? She's reliable for someone so young. Thanks to her, I can't slack off... don't tell her, okay?
 translated/F05_p011.txt | 26
 It seems Rokuyou-kun was killed during the night... but there weren't any sounds of a struggle.
@@ -1237,7 +1237,7 @@ However, the man didn't like that answer. His face contorted in an expression of
 translated/F06_01s.txt | 19
 I froze, terrified by that eerie look. Then, as if to drive the point home, the man said...
 translated/F06_05s.txt | 22
-Campaign in progress! Collect cards and solve the puzzle! This is what the answer section on the survey postcard was for!
+Campaign in progress! Collect cards and solve the puzzle! This is what the answer section on the postcard was for!
 translated/F06_05s.txt | 27
 All the cards have been collected! If you rearrange the letters you've found, they form a certain word.
 translated/F06_07s.txt | 26
@@ -1273,7 +1273,7 @@ I couldn't let a guest... I suppose if anything were to happen and I had tidied 
 translated/F06_16.txt | 52
 ...Yes, exactly. I don't think I have everyone's trust, but even so, I believe I'm suited for it.
 translated/F06_31s.txt | 41
-Campaign in progress! Collect cards and solve the puzzle! This is what the answer section on the survey postcard was for!
+Campaign in progress! Collect cards and solve the puzzle! This is what the answer section on the postcard was for!
 translated/F06_31s.txt | 46
 All the cards have been collected! If you rearrange the letters you've found, they form a certain word.
 translated/F06_33s.txt | 18

@@ -18,7 +18,7 @@ I was thinking of doing a bit of cleaning in the chapel, actually...
 ＃主人公
 Cleaning...?
 ＃辻村
-Yes... after using it for the wedding, I simply locked it up immediately... do you think it would be better if I didn't touch it just yet...?
+Yes... after the wedding, I simply locked it up... do you think I shouldn't touch it just yet?
 ＃主人公
 Well...
 Leave it as it is
@@ -47,9 +47,9 @@ I decided to head for another location.
 ＃主人公
 I'll handle the cleaning for you.
 ＃辻村
-No, I couldn't let a guest... ah, no... I suppose if anything were to happen and I had tidied it up, the suspicion would fall on me...?
+I couldn't let a guest... I suppose if anything were to happen and I had tidied it, the suspicion would fall on me.
 ＃主人公
-...Yes, that’s exactly it. I don't think I have everyone's complete trust, but even so, I believe I'm more suited for it.
+...Yes, exactly. I don't think I have everyone's trust, but even so, I believe I'm suited for it.
 ＃辻村
 ...You're right. Then... I leave it to you.
 Tsujimura-san took out a key and handed it to me.

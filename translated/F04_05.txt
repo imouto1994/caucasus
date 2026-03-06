@@ -61,7 +61,7 @@ Tsujimura-san seemed concerned about that as well.
 ＃紅緒
 So, just how much longer must we spend our time in the dark?
 ＃辻村
-...If I recall, there should be spare fuses left in the storage room. If I find those first... it might be after six o'clock.
+...I recall spare fuses in the storage room. If I find those... it might be after six o'clock.
 ＃紅緒
 Hmm...
 Benio-san looked at the clock and fell silent.
@@ -87,7 +87,7 @@ Haha... I'm sorry.
 ＃主人公
 Um, so what should I do?
 ＃辻村
-There should be replacement fuses and tools in the storage room. If you could use those to fix the generator in the basement...
+There should be fuses and tools in the storage room. If you could fix the generator in the basement...
 ＃主人公
 Understood, leave it to me.
 First, the storage room.
@@ -145,7 +145,7 @@ Locking yourself in your room is the best course... come to think of it, did I l
 ＃主人公
 Eh... isn't that dangerous?
 ＃高嶺
-If I know there's danger right in front of me, there are plenty of ways to handle it. As long as I'm not caught off guard, I'll be fine.
+If I know there's danger, there are ways to handle it. As long as I'm not caught off guard, I'll be fine.
 ＃主人公
 Well, you do have the most solid build among us, Takamine-san...
 I don't think I could win even if I challenged this man head-on.

@@ -27,7 +27,7 @@ Lady Marino... That's a name I haven't heard in a very long time...
 ＃主人公
 You know her...?
 ＃辻村
-Yes... Lady Marino was the daughter of Lady Liesche, who was a friend of the Master. When Lady Liesche passed away in Japan, she entrusted her to the Master.
+Yes... Lady Marino was the daughter of Lady Riesche, who entrusted her to the Master when she passed away.
 ＃主人公
 ...And that's how she came to work here?
 ＃辻村
@@ -83,6 +83,6 @@ Oh... So there was a foreigner working here too...
 ＃主人公
 Maybe...
 ＃なるみ
-That's the photo in the lawyer's room, right? It's from a long time ago... Doesn't look like she was a girlfriend or anything.
+That's the photo in the lawyer's room, right? From a long time ago... Doesn't look like she was a girlfriend.
 ＃主人公
 Right...

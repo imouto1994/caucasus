@@ -16,7 +16,7 @@ I immediately opened the door wide and invited Ai-san inside.
 ＃主人公
 Are you feeling alright now...?
 ＃藍
-Yes... my throat still hurts a little, but there's no need to worry. I was just on my way back to my room, but I wanted to say a word of thanks...
+Yes... my throat still hurts, but don't worry. I was on my way back, but I wanted to say a word of thanks...
 ＃主人公
 No... I didn't really do anything special...
 ＃藍
@@ -54,7 +54,7 @@ Did you recognize the handwriting?
 ＃主人公
 I see...
 If that's the case, it makes Ai-san's reason for going to the attic even more mysterious.
-With Rokuyou-san killed and the culprit still at large, would someone really respond to a summons written in unfamiliar handwriting?
+With the killer still at large, would someone really respond to a summons in unfamiliar handwriting?
 Furthermore, she had thrown that note into the fireplace and burned it.
 ＃主人公
 ...Ai-san, could you tell if the handwriting on that note belonged to a man or a woman?

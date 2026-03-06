@@ -5,7 +5,7 @@ Souko-san, who returned with me, murmured.
 ＃主人公
 They really did…… what should we do now?
 ＃想子
-Assuming help arrives in two days…… the police will come, and Shion-san will be arrested, I suppose. That'll make it difficult to research the local legends around here.
+Help arrives in two days…… the police will come, and Shion-san will be arrested. Research will be difficult.
 ＃主人公
 Are we going home?
 ＃想子
@@ -14,9 +14,9 @@ Saying so, Souko-san took out a bottle of Coke.
 ＃想子
 I wonder if this will last another two days…… I'll have to drink it sparingly.
 ＃主人公
-But…… there are still things that aren't clear. The motive, for one, and the whereabouts of Rokuyou-san's head, the phone line, even the suspension bridge??
+But…… things aren't clear. The motive, the head's whereabouts, the phone line, the suspension bridge??
 ＃想子
-Let's leave all that to the police when they arrive. Since she confessed, they'll find a way to tie it all together, even if they have to force it.
+Let's leave that to the police. Since she confessed, they'll find a way to tie it all together.
 ＃主人公
 But??
 Somehow, it didn't sit right with me.

@@ -1,5 +1,5 @@
 ＃想子
-...Tsujimura-san manages the spare keys, and he's the person most capable of committing the crime... but even so, it's not right to suspect him without reason.
+...Tsujimura-san manages the spare keys and is most capable... but it's not right to suspect without reason.
 ＃主人公
 True...
 ＃摩夜
@@ -11,7 +11,7 @@ Tsujimura-san works until late at night. There was a wedding yesterday, so I sup
 ＃主人公
 I see.
 ＃紅緒
-Tsujimura does manage the spare keys, that's certain... but it's also certain he has no reason to kill Rokuyou. Especially when he would be the most suspected.
+Tsujimura manages spare keys... but he has no reason to kill Rokuyou, especially as he'd be most suspected.
 ＃主人公
 True...
 ＃詩音
@@ -19,7 +19,7 @@ Seiji-san... he gave his blessings for the marriage between Master Rokuyou and m
 ＃主人公
 I see...
 ＃辻村
-Last night, I worked in the office for a while after the ceremony. After that, I did rounds of the house. I did not encounter anyone besides you.
+I worked in the office after the ceremony, then did rounds. I did not encounter anyone besides you.
 ＃主人公
 I see...
 ＃高嶺
@@ -31,7 +31,7 @@ Tsujimura-san doing rounds of the mansion is a regular thing. Occasionally Akane
 ＃主人公
 I see.
 ＃あかね
-The night rounds are just to check if any doors were left unlocked... though in the middle of the mountains like this, it doesn't seem to mean much.
+Night rounds are to check for unlocked doors... though in these mountains, it doesn't mean much.
 ＃主人公
 Maybe so...
 ＃なるみ

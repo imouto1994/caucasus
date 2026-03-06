@@ -23,7 +23,7 @@ So Takamine-sama told you... That was nearly twenty years ago. A fire broke out 
 ＃主人公
 Nearby... but that's across the suspension bridge, isn't it?
 ＃辻村
-Yes, that's right. A mother and daughter were living in that cabin, but despite Takamine-sama's efforts, the mother passed away...
+Yes, a mother and daughter lived in that cabin, but despite Master Takamine's efforts, the mother passed away.
 ＃主人公
 ...Did the children survive?
 ＃辻村
@@ -31,7 +31,7 @@ Yes. There were two daughters; they were rescued despite suffering burns.
 ＃主人公
 Two... sisters, then.
 ＃辻村
-One was severely injured and couldn't be treated here, so she was left in the care of a doctor in town... but we decided to raise the other one here.
+One was seriously injured and taken to town, but we decided to raise the other one here.
 ＃主人公
 ...Wait, that remaining child... was she albino?
 ＃辻村
@@ -47,7 +47,7 @@ That is correct... Um, could I ask you to please keep this matter strictly confi
 ＃主人公
 I see...
 ＃御巫
-I heard about the fire from my father. Apparently, the rescued child's burns were so severe she was taken to a hospital in town, but then she suddenly disappeared.
+The rescued child's burns were so severe she was taken to a hospital in town, but then she suddenly disappeared.
 ＃主人公
 I see...
 ＃あかね

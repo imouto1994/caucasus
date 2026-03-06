@@ -84,7 +84,7 @@ A map? I don't have one.
 ＃主人公
 Huh?
 ＃想子
-I memorized the terrain around here before we came. The river flowing through this valley we're walking in... if you follow it all the way down, it connects to the Kitakami River.
+I memorized the terrain before we came. This valley's river connects to the Kitakami if you follow it down.
 ＃主人公
 But we're heading upstream right now.
 ＃想子
@@ -105,14 +105,14 @@ Well, you were the one who insisted on coming along for this investigation, were
 Well, yeah, that's true, but...
 It's no use.
 I simply can't win against this woman.
-It all started when she?Souko Kirihara, my senior in the folklore seminar?announced she wanted to research the unusual customs of the Tohoku region.
-Souko-san's interest was piqued by legends remaining in mountain villages, distinct from the 'Tales of Tono' by Kunio Yanagita.
-The settlement, known as 'Nanatsuki Village,' has reportedly been ruled for generations by the Nanatsuki clan since the middle of the Edo period.
-Apparently, the first head of the family was a major Westernophile; he was devoted to foreign magic and occultism, smuggling various items into Japan while the country was still secluded.
+It started when Souko Kirihara, my folklore senior, announced she wanted to research Tohoku's unusual customs.
+Souko-san was fascinated by mountain village legends, distinct from Kunio Yanagita's 'Tales of Tono.'
+Nanatsuki Village has reportedly been ruled by the Nanatsuki clan since the middle of the Edo period.
+The first head was a Westernophile devoted to the occult, smuggling items into Japan while it was still secluded.
 Perhaps because of that, Western-style legends survived in Nanatsuki Village and have been passed down to this day.
 Of course, I have no idea how much of it is actually true.
 It's only natural for rumors to be embellished?or so Souko-san always says.
-Some theories even claim there are Western occult books brought back in secret by the Keicho Embassy, which Date Masamune dispatched under Hasekura Tsunenaga.
+Some claim there are occult books brought back in secret by the Keicho Embassy under Hasekura Tsunenaga.
 It seems Souko-san wants to uncover the truth behind those stories during this investigation.
 However...
 ＃主人公
@@ -219,11 +219,11 @@ Though she was likely around our age, her old-fashioned way of speaking made her
 We're researching the legends of Nanatsuki Village.
 Souko-san chimed in.
 ＃？？？
-The village legends... In that case, I believe it would be better for you to come to my home rather than heading into the village proper.
+Regarding the legends... I believe it would be better for you to come to my home rather than the village.
 ＃主人公
 To your... home?
 ＃？？？
-I've been remiss in introducing myself. I am Benio, the second daughter of the Nanatsuki family. It is a pleasure to meet you.
+I've been remiss. I am Benio, the second daughter of the Nanatsuki family. It is a pleasure to meet you.
 ＃主人公
 The Nanatsuki family...?
 ＃想子

@@ -18,9 +18,9 @@ This smell... maybe cyanide.
 ＃主人公
 You can tell?
 ＃想子
-No... I've never smelled the real thing, but I detect a bittersweet scent. But if that's the case, another problem arises...
+No... I detect a bittersweet scent. But if that's the case, another problem arises...
 ＃主人公
-...If I recall, potassium cyanide has such a terrible taste that it would be impossible to make someone drink it without them noticing.
+...Potassium cyanide has such a terrible taste that it's impossible to drink without noticing.
 ＃想子
 Exactly. But that only strengthens the possibility that it was Shion-san's suicide.
 ＃主人公
@@ -38,13 +38,13 @@ But... wasn't it aconite that was used when Shion-san collapsed this morning? Wh
 ＃主人公
 What?!?
 ＃想子
-Or, perhaps they intentionally used a different poison to cause confusion... though now that Dr. Mikanagi has been killed, there's not much point in that.
+Perhaps they used a different poison to cause confusion... though now Mikanagi has been killed, no point in that.
 ＃主人公
 Then... assuming it was a different person, which is which...?
 ＃想子
-There are two possibilities. First, if this was Shion-san's suicide, then this morning's incident was a genuine attempted poisoning by a third party.
+Two possibilities. First, Shion-san's suicide. Second, today's incident was an attempted poisoning by a third party.
 ＃想子
-And if this was murder... then this morning's incident was Shion-san's own staged performance. Personally, I think the latter is more likely.
+If this was murder... today's incident was Shion-san's staged performance. I think the latter is more likely.
 ＃主人公
 Why...?
 ＃想子
@@ -62,7 +62,7 @@ The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
 ...It's probably best not to touch this carelessly.
 There are likely fingerprints on it.
 ＃想子
-I don't think it matters much... the contents of the cup are more important. We have to identify exactly what kind of poison it was.
+The contents of the cup are more important. We have to identify exactly what kind of poison it was.
 ＃主人公
 What did she drink...?
 ＃想子
@@ -70,7 +70,7 @@ A fast-acting poison, surely... but if it was something highly irritant, it woul
 ＃主人公
 Because she would have spat it out...
 ＃想子
-It's not just that. The possibility of murder also drops significantly. No one would drink something they knew was poison.
+It's not just that. The possibility of murder also drops. No one would drink something they knew was poison.
 ＃主人公
 True... but the one who brought this medicine was Maya-san, wasn't it...?
 ＃想子

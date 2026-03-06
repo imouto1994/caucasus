@@ -1,5 +1,5 @@
 ＃想子
-That door can only be opened with the key to Rokuyou-san's room... Which means it's highly unlikely the killer passed through there.
+That door only opens with Rokuyou-san's room key... making it unlikely the killer passed through there.
 ＃主人公
 True...
 ＃摩夜
@@ -11,7 +11,7 @@ I see...
 ＃主人公
 I see...
 ＃紅緒
-The floor plans are mostly the same for all the rooms. My room also has a door connecting to my sister's, but it's been blocked off by furniture.
+Floor plans are mostly the same. My room has a door to my sister's, but it's blocked by furniture.
 ＃主人公
 I see...
 ＃詩音

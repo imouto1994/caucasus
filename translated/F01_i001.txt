@@ -15,7 +15,7 @@ I am familiar with Cola. I often drink it when I go into town.
 ＃主人公
 Oh, is that so?
 ＃辻村
-Cola, is it... I remember receiving some from the Occupation forces long ago. That was nearly twenty years ago, though...
+Cola... I remember receiving some from Occupation forces long ago. That was nearly twenty years ago...
 ＃主人公
 I see...
 ＃六曜
@@ -27,7 +27,7 @@ Cola? I don't drink such things.
 ＃主人公
 I-I see...
 ＃御巫
-Cola contains a lot of caffeine, you see. If you drink too much, you might find yourself unable to sleep, so you should be careful.
+Cola contains a lot of caffeine. If you drink too much, you might be unable to sleep, so be careful.
 ＃主人公
 I-I see...
 ＃あかね

@@ -31,12 +31,12 @@ However?
 ＃主人公
 ...Is it really okay for us outsiders to just start exposing the killer on our own?
 ＃想子
-...I think we're the only ones who can do it, but... it’s a difficult position. If we handle it poorly, it could interfere with our actions from here on.
+...I think we're the only ones who can do it, but it’s difficult. It could interfere with our actions later.
 ＃主人公
 It’ll be quite a while before we can leave this place...
 We might end up spending several days in a thick, stifling atmosphere.
 ＃想子
-So, whether or not to point out the killer is up to you. If you're confident in your reasoning, I don't think it'll be a problem.
+So, whether to point out the killer is up to you. If you're confident in your reasoning, it won't be a problem.
 ＃主人公
 That's a lot of responsibility...
 Now then... what should I do?

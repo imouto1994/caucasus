@@ -39,7 +39,7 @@ She gave a small nod.
 ＃主人公
 Well then... could you tell me everything from the beginning?
 ＃詩音
-...I tried to sleep, but my headache was severe, so I left my room to get some medicine from Dr. Mikanagi. I think it was past midnight.
+...My headache was severe, so I left my room to get medicine from Dr. Mikanagi. It was past midnight.
 ＃主人公
 Was Tsujimura-san in the office?
 ＃詩音
@@ -51,7 +51,7 @@ And that's when you met us on the second floor.
 ＃主人公
 ...Was the door to Dr. Mikanagi's room locked?
 ＃詩音
-No... I knocked, but there was no answer... I was going to head to the clinic, but... the door opened, so I looked inside...
+No... I knocked, but no answer... I was heading to the clinic, but the door opened, so I looked inside...
 ＃主人公
 ...And what was Dr. Mikanagi's condition at that time?
 ＃詩音
@@ -87,7 +87,7 @@ How could... Dr. Mikanagi, why...
 ＃詩音
 ...Are you trying to say that I killed him...?
 ＃主人公
-...I was in the hallway from the time I said goodbye to Dr. Mikanagi until the body was discovered. During that time, you were the only one who entered Dr. Mikanagi's room.
+...I was in the hallway from goodbye until discovery. You were the only one who entered Dr. Mikanagi's room.
 ＃詩音
 I... didn't kill him.
 Shion-san shook her head.
@@ -126,7 +126,7 @@ Yellow powder placed on a handkerchief.
 It's the stamen of a snowdrop.
 I said, pointing to a slightly larger clump.
 ＃主人公
-Yesterday, the snowdrop flower fallen near Rokuyou-san's body was missing one stamen. And that... was fallen in the chapel.
+Yesterday, the snowdrop near Rokuyou-san's body was missing one stamen. That... was found in the chapel.
 ＃詩音
 Ngh...
 ＃主人公
@@ -138,7 +138,7 @@ You... were the one who killed Rokuyou-san, weren't you?
 ＃詩音
 That is...
 ＃主人公
-Didn't you kill Rokuyou-san when he entered the chapel in the middle of the night, carried his body to his room, and severed his head?
+Didn't you kill Rokuyou-san in the chapel, carry his body to his room, and sever his head?
 I was certain.
 Sure enough, Shion-san fell silent.
 ＃主人公

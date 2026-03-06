@@ -27,7 +27,7 @@ Mr. Kousei's room is off-limits to everyone. It is not a place that concerns you
 ＃主人公
 Y-You're right...
 ＃御巫
-I don't know much about that room either. Apparently it was the previous head's room... but I don't think you can see the inside.
+I don't know much about that room either. It was the previous head's room... you can't see inside.
 ＃主人公
 I see...
 ＃あかね
@@ -35,6 +35,6 @@ That room... I haven't been inside either, so...
 ＃主人公
 I see...
 ＃なるみ
-I hear that room is preserved exactly as it was when the Master was alive... but I don't think there's anything particularly unusual in there.
+I hear that room is preserved exactly as it was when the Master was alive... nothing unusual in there.
 ＃主人公
 I see...

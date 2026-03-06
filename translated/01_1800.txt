@@ -1,6 +1,6 @@
 Brushing the accumulated snow off our winter gear, we stepped inside the Nanatsuki-kan.
 The entrance hall was spacious, with a vaulted ceiling that reached up to the second floor.
-While there was little in the way of gaudy decoration, the furniture placed subtly throughout was clearly of high quality.
+While there was little gaudy decoration, the furniture placed throughout was clearly of high quality.
 Unlike the exterior, it gave off a very calm impression.
 Perhaps it was due to the monochrome color scheme.
 Even so, to a commoner like me, the overwhelming feeling was that I had wandered into a place where I didn't belong.
@@ -21,7 +21,7 @@ Following her gaze, I saw a woman descending the staircase that led from the sec
 I'm glad you made it back before the snow got any worse. And who are our guests?
 The woman looked at us and questioned Benio-san.
 ＃紅緒
-Yes, they seemed to have lost their way in this snow. They intended to head for the village, but given the weather, I invited them here.
+Yes, they seemed lost in the snow. They were heading for the village, but given the weather, I invited them here.
 ＃？？？
 I see... You must have had a difficult time.
 ＃主人公
@@ -53,7 +53,7 @@ Benio-san left the room.
 Please, have a seat.
 I sat down on the sofa as instructed.
 ＃藍
-There aren't any other houses in this area, so I'm truly glad you found us. The blizzard will only get worse from here on out.
+There aren't other houses nearby, so I'm glad you found us. The blizzard will only get worse from here.
 ＃主人公
 Is that so?
 ＃藍
@@ -113,7 +113,7 @@ I instinctively started to stand as well, but the woman entering the room raised
 Please, stay as you are.
 Her expression was gentle, yet she carried an unmistakable air of authority.
 ＃？？？
-I am Maya Nanatsuki, the current head of this house. I heard you were stranded nearby. You must have had a harrowing ordeal.
+I am Maya Nanatsuki, the current head. I heard you were stranded nearby. You must have had a harrowing ordeal.
 ＃主人公
 No, it wasn't quite as dire as being 'stranded,' really.
 Although we certainly came close.
@@ -133,7 +133,7 @@ Maya-san lightly dabbed at the corners of her eyes.
 ＃主人公
 ...Was he famous?
 ＃想子
-In a way. He's the kind of artist where those in the know really appreciate his work, though a boy like you probably wouldn't listen to it.
+He's an artist whose work is appreciated by those in the know, though a boy like you probably wouldn't listen to it.
 I had assumed Souko-san just happened to pick up some trivia about him while looking into Nanatsuki Village.
 ＃藍
 ...In recent years, he became quite unable to compose music, and because of that...!
@@ -152,7 +152,7 @@ Maya-san reproved Ai-san with a gentle voice.
 ＃想子
 He took his own life?
 ＃摩夜
-...Yes. My husband was stricken with illness and did not have long to live. One morning, when I went to his room, he was already...
+...Yes. My husband was ill and didn't have long. One morning, I went to his room, and he was already...
 ＃想子
 ...I see. I'm sorry for asking.
 ＃摩夜

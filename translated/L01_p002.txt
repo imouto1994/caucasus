@@ -1,5 +1,5 @@
 ＃想子
-Maya-san, huh... I don't see a motive for the crime at all. If you consider that she could get rid of Shion-san, her adopted daughter, the possibility is exactly zero.
+Maya-san? I don't see a motive. If you consider she could get rid of Shion-san, the possibility is zero.
 ＃主人公
 I see...
 ＃摩夜
@@ -11,7 +11,7 @@ Mother? Last night, she returned to her room with us...
 ＃主人公
 I see...
 ＃紅緒
-I don't think Mother has any reason to kill Rokuyou. She values the family name far too much to do anything that would drag it through the mud.
+I don't think Mother has a reason. She values the family name too much to drag it through the mud.
 ＃主人公
 ...I see.
 ＃詩音
@@ -23,7 +23,7 @@ The Mistress? She seemed quite pleased about the marriage, but...
 ＃主人公
 I see...
 ＃高嶺
-Maya-san? It sounds nice to say she was happy for her daughter's departure, but in reality, it was just good riddance. It's hard to say.
+Maya-san? It sounds nice to say she was happy for her daughter, but in reality, it was just good riddance.
 ＃主人公
 I see...
 ＃御巫
@@ -35,6 +35,6 @@ The Mistress? She should have gone straight back to her room after the ceremony 
 ＃主人公
 I see...
 ＃なるみ
-The Mistress? I don't think anything happened between her and Rokuyou-san, but men and women being what they are... you never know.
+The Mistress? I don't think anything happened with Rokuyou-san, but men and women being what they are...
 ＃主人公
 I... I see.

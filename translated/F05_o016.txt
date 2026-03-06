@@ -11,7 +11,7 @@ I see...
 ＃主人公
 I see...
 ＃紅緒
-Isn't it strange to use 'M' as the initial for 'Hiyama'? If you made that many mistakes, you'd notice, and normally you'd just start over.
+Isn't it strange to use 'M' as the initial for 'Hiyama'? If you made that mistake, you'd notice and start over.
 ＃主人公
 You're right...
 ＃詩音
@@ -55,7 +55,7 @@ Was she someone who worked here?
 ＃主人公
 But even if it's her... why would Akane-san have...
 ＃御巫
-...It would be best to ask Akane-san about that. Besides, it's not certain that the embroidery on the handkerchief refers to her in the first place.
+...It would be best to ask Akane-san. It's not certain the handkerchief embroidery refers to her.
 ＃主人公
 Right... I understand.
 ＃あかね

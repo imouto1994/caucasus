@@ -23,7 +23,7 @@ Benio-san, please go call the others.
 ＃紅緒
 The doctor is already taking care of it. But... I can't believe it's really...
 ＃主人公
-I thought it was a fifty-fifty chance whether you'd come here or go to Maya-san's room, but if your ultimate goal was Maya-san, I figured you'd come here first.
+If your goal was Maya-san, I figured you'd come here first.
 She didn't answer.
 Eventually, Dr. Mikanagi and the others arrived.
 ＃辻村
@@ -43,7 +43,7 @@ So it was... Kirihara-sama...
 ＃想子
 I washed it thoroughly, you know?
 ＃主人公
-Even if you washed it, the fact that it was in your room doesn't disappear. All the other identical cups were shattered in the blast.
+Even if you washed it, the fact the cup was in your room remains. All other identical cups were shattered.
 ＃想子
 ...I see. That might have been a bit of a blunder.
 ＃紅緒
@@ -208,7 +208,7 @@ Ah, aaah...
 ＃想子
 The performance room...?
 ＃主人公
-...Earlier, I found Kousei-san's sheet music in the basement. Unfortunately, I can't play any instruments, so I'd like Benio-san to play it...
+...I found Kousei-san's sheet music in the basement. I can't play, so I'd like Benio-san to play it...
 ＃紅緒
 I don't mind, but...
 ＃主人公

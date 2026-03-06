@@ -54,7 +54,7 @@ True... however, we still need some kind of definitive proof.
 ＃主人公
 I suppose so...
 ＃主人公
-...After all, the circumstance of her bringing the medicine is the most suspicious. The cup was left behind too, and if we start from there?
+...The circumstance of her bringing the medicine is suspicious. The cup was left behind too.
 ＃想子
 So you think Shion-san's attempted poisoning this morning was indeed a suicide attempt?
 ＃主人公
@@ -82,7 +82,7 @@ You're right...
 ＃主人公
 What about the possibility of Benio-san...?
 ＃想子
-That's impossible. She's already dead, and even with the head missing, in that situation, you can't even suspect it was a fake.
+That's impossible. She's already dead; even with the head missing, in that situation, you can't suspect a fake.
 ＃主人公
 I see...
 ＃主人公
@@ -90,7 +90,7 @@ I see...
 ＃想子
 Right... it can't be ruled out entirely. But why?
 ＃主人公
-It might be because I pushed her too hard regarding Dr. Mikanagi's case. Given the circumstances, I didn't think it could be anyone but her...
+I might have pushed her too hard regarding Dr. Mikanagi. I didn't think it could be anyone but her...
 ＃想子
 And so, unable to bear it, she committed suicide... or perhaps she fell into despair after being suspected...
 ＃主人公
@@ -106,7 +106,7 @@ I see...
 ＃主人公
 Is there a possibility that Tsujimura-san killed her?
 ＃想子
-...Certainly, Tsujimura-san is always in this office, and he could have gone to Shion-san's place without anyone noticing... but why?
+...Tsujimura-san is always in this office and could have gone to Shion-san's place without being noticed... but why?
 ＃主人公
 Well... I don't know the reason.
 ＃想子
@@ -127,17 +127,17 @@ Takamine-san, huh... he doesn't really fit the image of a poisoner...
 ＃主人公
 Still, he's a lawyer, so he must have some education.
 ＃想子
-Knowledge of the law and knowledge of drugs are entirely different things. Besides, I see absolutely no reason for him to kill Shion-san.
+Knowledge of law and drugs are different. Besides, I see no reason for him to kill Shion-san.
 ＃主人公
 I-I see...
 ＃主人公
-What about the possibility that Dr. Mikanagi planted the poison? If he set it up in advance, he could kill the target without doing anything himself...
+What if Dr. Mikanagi planted the poison? If he set it up in advance, he could kill without doing anything himself...
 ＃想子
 If it's just the possibility, it wouldn't be strange. But... Dr. Mikanagi has already been killed, you know?
 ＃主人公
 That's why I'm saying he set it up before he was killed. That way... it's possible to carry it out even after death.
 ＃想子
-Then what's the reason for killing Shion-san? There's absolutely nothing. Surely you aren't thinking that he predicted his own murder?
+Then what's the reason for killing Shion-san? Surely you don't think he predicted his own murder?
 ＃主人公
 Of... of course not...
 ＃主人公
@@ -162,7 +162,7 @@ Souko-san muttered with a sigh.
 ＃主人公
 What do we do now...?
 ＃想子
-Right... dawn is almost here, so let's just stay quiet for a while. Once the people from below arrive, we can have them call the police.
+Right... dawn is almost here, so let's just stay quiet. Once help arrives, we can call the police.
 ＃主人公
 You're right... then I'll head back to my room for now.
 ＃想子

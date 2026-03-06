@@ -31,7 +31,7 @@ What is it?
 ＃なるみ
 Aren't you going to suspect me? I mean... I'm a thief, you know?
 ＃主人公
-You might be a thief, Narumi-san, but you aren't a murderer, are you? Besides, there’d be no point in you being locked in here with me.
+You might be a thief, Narumi-san, but not a murderer. There’d be no point in being locked in here with me.
 If Narumi-san were the killer... she would have finished me off while we were trapped.
 ＃なるみ
 I see...
@@ -104,7 +104,7 @@ With that, Souko-san immediately left the room.
 Stay with us, Benio-san...!
 ＃紅緒
 ...I'm fine.
-While this was happening, I felt like the person who attacked Benio-san was still close by, and I restlessly scanned the area.
+I felt like the person who attacked Benio-san was still close by, and I restlessly scanned the area.
 Before long, Souko-san returned with Dr. Mikanagi.
 ＃主人公
 Dr. Mikanagi...!
@@ -122,7 +122,7 @@ No... I only saw Benio-san right after she fell. I rushed over immediately... bu
 If they were going to hide?
 Souko-san looked around and pointed at two doors.
 ＃想子
-There are two rooms you can reach directly from this performance room?the storage room for instruments and the sheet music room.
+Two rooms are reachable from here: instrument storage and sheet music storage.
 ＃主人公
 ...Could they be inside...?
 ＃想子
@@ -150,7 +150,7 @@ I don't think there was time to open that window and jump.
 ＃主人公
 You're right... and if they went out this way, there would be tracks below...
 ＃想子
-They definitely used one of the adjacent rooms as an escape route. The question is when they slipped out... Do you remember anything?
+They used an adjacent room as an escape route. The question is when they slipped out... Do you remember anything?
 ＃主人公
 I wasn't watching the corridor the whole time... Souko-san, did you notice anything from your room?
 ＃想子

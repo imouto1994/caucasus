@@ -27,7 +27,7 @@ Kousei-san's room is set so that no one can enter. It's a place that has nothing
 ＃主人公
 Y-You're right...
 ＃御巫
-I don't know much about that room myself. It was reportedly the previous head's room, but... I don't think you can see the inside.
+I don't know much about that room myself. It was reportedly the previous head's room... you can't see inside.
 ＃主人公
 I see...
 ＃あかね
@@ -35,6 +35,6 @@ That room, is it... I've never been inside either, so...
 ＃主人公
 I see...
 ＃なるみ
-I heard they've preserved that room exactly as it was when the Master was alive... but I don't think there's anything unusual in there.
+I heard they've preserved that room exactly as it was when the Master was alive... nothing unusual in there.
 ＃主人公
 I see...

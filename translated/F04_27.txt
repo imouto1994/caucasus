@@ -11,7 +11,7 @@ A sleepy-looking Souko-san appeared.
 ＃主人公
 Were you sleeping?
 ＃想子
-Yeah. I guess I was more exhausted than I thought. More importantly, what's with this blackout? I woke up and tried to turn on the light, but nothing happened.
+Yeah. I was exhausted. More importantly, what's with this blackout? I woke up and the lights were dead.
 ＃主人公
 I think the power will be restored soon...
 ＃想子

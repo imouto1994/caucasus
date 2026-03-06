@@ -1,5 +1,5 @@
 ＃想子
-If you were looking into Nanatsuki Village, it's a story that would come up immediately. Although I couldn't find any literature that goes into detail.
+Looking into Nanatsuki Village, it's a story that would come up immediately, though literature isn't detailed.
 ＃主人公
 I see...
 ＃摩夜
@@ -11,11 +11,11 @@ I see...
 ＃主人公
 I see... I'm sorry.
 ＃紅緒
-The 'Curse of the Seven Possessed,' huh... well, fine. First, 'Item one: the case where the heads of the Nanatsuki family all die strange deaths.' 'Item two: the case where no males are born into the Nanatsuki family.'
+First: heads die strange deaths. Second: no males born into the family.
 ＃紅緒
-Item three: the case of the disappearances in Nanatsuki Village.' 'Item four: the case of the mansion being painted pitch black.' 'Item five: the case of a massive flock of crows covering the mansion.
+Third: village disappearances. Fourth: mansion is painted pitch black. Fifth: crows covering the mansion.
 ＃紅緒
-'Item six: the case of the "Sacrifice of the Seven Possessed."' 'Item seven: the case of the spirit of the girl used as a sacrifice wandering the mansion.' ...That is all.
+Sixth: the 'Nanatsuki Sacrifice.' Seventh: the girl's spirit wandering the mansion. That is all.
 ＃主人公
 Wow... thank you very much.
 ＃詩音
@@ -39,6 +39,6 @@ A-A curse, is it... I know there are all sorts of things being said... but it's 
 ＃主人公
 You're right...
 ＃なるみ
-A curse? It's true that they say all sorts of things in town... but if you want details, why don't you try asking Lady Benio?
+A curse? They say all sorts of things in town... but for details, why don't you try asking Lady Benio?
 ＃主人公
 Good idea.

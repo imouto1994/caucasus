@@ -28,10 +28,10 @@ Hm...?
 A scrap of paper is peeking out from behind the frame.
 What could this be...?
 『A Certain Man's Story: Chapter Five』
-?Hmph, I bet you think my takoyaki tastes like shit too, don't you? Acting like you know everything without even taking a bite.
-Hey, do you get it? What takoyaki needs isn't flavor?it's about making the customer who bought it feel a little bit of happiness.
+?Hmph, you think my takoyaki tastes like shit, don't you? Acting like you know without even taking a bite.
+Hey, do you get it? Takoyaki isn't about flavor; it's about making the customer feel a bit of happiness.
 Whether it tastes good or bad isn't what's truly necessary. At least, that's how I've lived my life.
-The man's verbal assault didn't stop. I felt a deep sense of pity from the bottom of my heart, thinking he must have lived a remarkably miserable life. ~To be continued~
+The man's verbal assault didn't stop. I felt pity, thinking he must have lived a miserable life.
 ＃主人公
 ...What the hell is this?
 A scrap of paper titled 'A Certain Man's Story: Chapter Five' is tucked inside.
@@ -74,12 +74,12 @@ It'll be faster to just find the actual key.
 ＃主人公
 I see... but where would the real key be...?
 ＃なるみ
-To begin with, it was a mistake to decode the second half of the cipher first. I think we'll get the key once we solve the first half.
+It was a mistake to decode the second half first. I think we'll get the key once we solve the first half.
 ＃主人公
 The first half...?
 The first half of '1SO K H5 / 1SN KAMIN'.
 ＃主人公
-At the very least, I think we've established that '1SN KAMIN' refers to the fireplace in the north of the second floor...
+At the least, I think '1SN KAMIN' refers to the fireplace in the north of the second floor...
 Just then, Narumi-san clapped her hands together.
 ＃なるみ
 I've got it! It's the European floor numbering. Didn't they call the first floor the ground floor?

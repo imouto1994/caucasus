@@ -27,7 +27,7 @@ Right...
 ＃主人公
 ...You might be right.
 ＃御巫
-Without the bridge, you boys won't be able to go home... Though with everything that's happened, you might not be able to leave even if the police arrive.
+Without the bridge, you won't be able to go home... Though you might not be able to leave even if police arrive.
 ＃主人公
 Right...
 ＃あかね
@@ -35,6 +35,6 @@ This place is surrounded by cliffs, so without the bridge, you can't go anywhere
 ＃主人公
 I see...
 ＃なるみ
-Even if the bridge is gone, we have plenty of food, so we'll be fine. ...Well, Kirihara-san will just have to give up on her cola, I guess.
+Even if the bridge is gone, we have plenty of food. ...Well, Kirihara-san will just have to give up her cola.
 ＃主人公
 Right... I'll let her know.

@@ -1,5 +1,5 @@
 ＃想子
-You want to hear about cola? Well, let's see, I was the very first person in Japan to ever drink cola. Impressive, right?
+Want to hear about cola? Well, I was the first person in Japan to ever drink it. Impressive, right?
 ＃主人公
 ...I can tell that much is obviously a lie.
 ＃摩夜
@@ -15,7 +15,7 @@ I drink cola every once in a while. I just can't get enough of that fizzy sensat
 ＃主人公
 I see...
 ＃辻村
-Cola... I remember getting some from the occupation forces a long time ago. That was nearly twenty years ago now, though...
+Cola... I remember getting some from the occupation forces a long time ago. Nearly twenty years ago now.
 ＃主人公
 Wow... I see.
 ＃高嶺
@@ -23,7 +23,7 @@ Cola? I don't drink such things.
 ＃主人公
 O-oh, I see...
 ＃御巫
-Cola contains a lot of caffeine, you see. If you drink too much, you might find yourself unable to sleep, so you should be careful.
+Cola contains a lot of caffeine. If you drink too much, you might be unable to sleep, so be careful.
 ＃主人公
 O-oh, I see...
 ＃あかね

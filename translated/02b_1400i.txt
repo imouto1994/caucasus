@@ -11,7 +11,7 @@ But well... if I were to give my own impression, there wasn't anything that woul
 ＃主人公
 I see...
 ＃想子
-A time-delayed murder using the gears of the clock?nobody turned up who had an alibi for the time the mechanism was likely set. Including you and me.
+A clock-gear murder? Nobody has an alibi for the time the mechanism was likely set. Including you and me.
 ＃主人公
 Yeah...
 ＃想子
@@ -56,7 +56,7 @@ By the way, who do you think is the culprit so far?
 ＃主人公
 Eh... me...?
 ＃想子
-Of course, you can't tell anyone else right now. I don't want to breed unnecessary suspicion. But... I want to confirm it.
+You can't tell anyone right now and breed suspicion. But... I want to confirm it.
 ＃紅緒
 Hmm... true enough. Let's hear your brilliant reasoning. I don't mind if you point to me as the culprit.
 ＃主人公
@@ -72,13 +72,13 @@ It's simply because you don't have an alibi...
 ＃想子
 Maya-san, huh... I wonder.
 ＃紅緒
-...If it's about the inheritance, it's not unthinkable. If the number of heirs decreases, the share coming to oneself increases.
+...Regarding inheritance, it's not unthinkable. If heirs decrease, your share increases.
 ＃主人公
 ...Though it doesn't feel very realistic.
 ＃想子
 ...Ai-san is dead, isn't she?
 ＃主人公
-...I'm just saying that suicide is a possibility. If you catch the rope in the gears and put your neck through while it's loose...
+...I'm just saying suicide is possible. If you catch the rope in the gears and put your neck through...
 ＃紅緒
 ...I see. It's not an impossible scenario... but what would be the cause of the suicide?
 ＃主人公
@@ -110,7 +110,7 @@ That's true...
 ＃紅緒
 Tsujimura, huh... it wouldn't be impossible, but...
 ＃想子
-Since he's Mr. Kousei's brother, there's a possibility he could inherit, but... I doubt that man would think of something like this.
+Since he's Mr. Kousei's brother, he could inherit, but... I doubt that man would think of this.
 ＃紅緒
 I agree with that.
 ＃主人公

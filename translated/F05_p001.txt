@@ -1,5 +1,5 @@
 ＃想子
-It looks like we'll be able to leave tomorrow... but I wonder if I'll be able to research the Nanatsuki legends by then...
+It looks like we'll leave tomorrow... but I wonder if I'll be able to research the Nanatsuki legends.
 ＃主人公
 I wonder...
 ＃摩夜
@@ -11,7 +11,7 @@ Kirihara-san is quite composed, isn't she? Even in a situation like this...
 ＃主人公
 Right...
 ＃紅緒
-She seems to be investigating quite a bit herself. She might even know more about this place than you do, for all we know.
+She seems to be investigating quite a bit herself. She might even know more about this place than you do.
 ＃主人公
 I-Is that so...
 ＃詩音
@@ -27,7 +27,7 @@ It seems you and the others are playing detective... but it's best not to provok
 ＃主人公
 That might be true, but...
 ＃御巫
-I examined Kirihara-san's finger again this morning, and it still seems a bit swollen. I told her she should get it checked at a hospital once we leave here.
+I examined Kirihara-san's finger; it's still swollen. I told her she should get it checked once we leave.
 ＃主人公
 I see...
 ＃あかね

@@ -28,7 +28,7 @@ Father... right, it might be German.
 ”ålŒö
 German?
 ”g
-German and Italian are the languages most closely tied to music, and Father had many friends in German-speaking regions. Wait a second.
+German and Italian are tied to music, and Father had many friends there. Wait a second.
 With that, Benio-san began rummaging through the shelves in the library.
 ”g
 I'm sure it was around here... ah, here it is. This one.
@@ -54,7 +54,7 @@ How should I know? I don't even know what this is. For that matter, why are you 
 ”ålŒö
 Well... it was written in his will.
 ”g
-In his will, hmm... Father must have wanted to convey something... but to use a code. It's as if he didn't want us to know about it.
+Father must have wanted to convey something in his will, but using a code makes it feel like he didn't want us to know.
 ”ålŒö
 I wonder... I was thinking it might be a hidden inheritance or something...
 ”g
@@ -65,7 +65,7 @@ I know that.
 ”ålŒö
 ...Anyway, a fireplace. They're all over the place...
 ”g
-But that doesn't mean we can just go checking every single one of them, does it? Can you really investigate the fireplaces in everyone's private rooms?
+But that doesn't mean we can just go checking every fireplace in everyone's private rooms, does it?
 ”ålŒö
 ...That would be difficult given the current situation...
 ”g
@@ -74,7 +74,7 @@ As a member of this family, all I can tell you is not to do anything unnecessary
 You're right...
 Benio-san put the dictionary back on the shelf.
 ”g
-...Well, personally, I don't care if you do whatever you like. I doubt any hidden inheritance is actually going to turn up anyway.
+...Well, personally, I don't care what you do. I doubt any hidden inheritance is actually going to turn up.
 ”ålŒö
 I see...
 ”g
