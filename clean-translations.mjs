@@ -6,14 +6,14 @@
  *
  *   1. Remove all empty lines.
  *   2. Trim leading and trailing whitespace from each line.
- *   3. Convert single-quote-wrapped speech lines ('...') to double-quote
- *      ("...") as an intermediate step. Only the outermost quotes are
- *      replaced; internal apostrophes (e.g. "Man's") are left untouched.
+ *   3. Convert single-quote-wrapped speech lines ('...') to unwrapped text
+ *      as an intermediate step. Only the outermost quotes are removed;
+ *      internal apostrophes (e.g. Man's) are left untouched.
  *   4. Convert ASCII hash (#) speech source prefixes to fullwidth hash (＃)
  *      to match the original script formatting.
- *   5. Convert double-quote-wrapped speech content ("...") to the bracket
- *      style used by the corresponding line in the original script —
- *      either 「...」 or 『...』.
+ *   5. Strip wrapping brackets/quotes from speech content lines (the line
+ *      immediately after a ＃ speech source line). Handles 「」, 『』, and
+ *      "..." wrappers. The game engine renders these automatically.
  *   6. Append a trailing empty line if the corresponding original file in
  *      `original/` also ends with one.
  *   7. Encode the output as Shift-JIS to match the original script encoding.
@@ -45,17 +45,12 @@ function encodeShiftJIS(str) {
 }
 
 /**
- * Read the original file and return its non-empty content lines and raw
- * buffer (for trailing-newline detection). Returns null if the original
- * does not exist.
+ * Read the original file and return its raw buffer for trailing-newline
+ * detection. Returns null if the original does not exist.
  */
 async function readOriginal(originalPath) {
   try {
-    const raw = await readFile(originalPath);
-    const text = sjisDecoder.decode(raw);
-    const lines = text.split("\n");
-    if (lines.at(-1) === "") lines.pop();
-    return { lines, raw };
+    return await readFile(originalPath);
   } catch {
     return null;
   }
@@ -75,14 +70,15 @@ async function readTranslated(filePath) {
 }
 
 /**
- * Determine the bracket pair used by an original line's speech content.
- * Returns the [open, close] pair, or null if the line isn't speech content.
+ * Strip wrapping brackets or quotes from a speech content line.
+ * Handles 「...」, 『...』, and "...".
  */
-function getOriginalBrackets(origLine) {
-  const trimmed = origLine.trim();
-  if (trimmed.startsWith("「") && trimmed.endsWith("」")) return ["「", "」"];
-  if (trimmed.startsWith("『") && trimmed.endsWith("』")) return ["『", "』"];
-  return null;
+function stripSpeechWrappers(line) {
+  if (line.startsWith("「") && line.endsWith("」")) return line.slice(1, -1);
+  if (line.startsWith("『") && line.endsWith("』")) return line.slice(1, -1);
+  if (line.startsWith('"') && line.endsWith('"') && line.length >= 2) return line.slice(1, -1);
+  if (line.startsWith("'") && line.endsWith("'") && line.length >= 2) return line.slice(1, -1);
+  return line;
 }
 
 /**
@@ -92,15 +88,11 @@ async function cleanFile(filePath, originalPath) {
   const content = await readTranslated(filePath);
   const lines = content.split("\n");
 
-  // Steps 1–4: trim, drop empties, fix quotes, fix speech source prefix.
+  // Steps 1–4: trim, drop empties, fix speech source prefix.
   let cleaned = lines
     .map((line) => line.trim())
     .filter((line) => line.length > 0)
     .map((line) => {
-      // Convert single-quote-wrapped speech lines to double-quote.
-      if (line.startsWith("'") && line.endsWith("'") && line.length >= 2) {
-        return `"${line.slice(1, -1)}"`;
-      }
       // Convert ASCII hash speech source prefix to fullwidth hash.
       if (line.startsWith("#") && line.length > 1) {
         return `＃${line.slice(1)}`;
@@ -108,32 +100,20 @@ async function cleanFile(filePath, originalPath) {
       return line;
     });
 
-  const original = await readOriginal(originalPath);
-
-  // Step 5: Convert "..." speech content to the bracket style used in the
-  // original. We walk both arrays in parallel; if sizes differ we still
-  // convert what we can up to the shorter length.
-  if (original) {
-    const minLen = Math.min(cleaned.length, original.lines.length);
-    for (let i = 0; i < minLen; i++) {
-      const line = cleaned[i];
-      if (line.startsWith('"') && line.endsWith('"') && line.length >= 2) {
-        const brackets = getOriginalBrackets(original.lines[i]);
-        if (brackets) {
-          cleaned[i] = `${brackets[0]}${line.slice(1, -1)}${brackets[1]}`;
-        }
-      }
+  // Step 5: Strip wrapping brackets/quotes from speech content lines.
+  // A speech content line is the line immediately after a ＃ source line.
+  for (let i = 0; i < cleaned.length; i++) {
+    if (cleaned[i].startsWith("＃") && i + 1 < cleaned.length) {
+      cleaned[i + 1] = stripSpeechWrappers(cleaned[i + 1]);
     }
   }
 
   let result = cleaned.join("\n");
 
   // Step 6: Match the original file's trailing newline.
-  if (original) {
-    const raw = original.raw;
-    if (raw.length > 0 && raw[raw.length - 1] === 0x0a) {
-      result += "\n";
-    }
+  const originalRaw = await readOriginal(originalPath);
+  if (originalRaw && originalRaw.length > 0 && originalRaw[originalRaw.length - 1] === 0x0a) {
+    result += "\n";
   }
 
   // Step 7: Encode as Shift-JIS and write.

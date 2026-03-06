@@ -11,13 +11,17 @@
  *
  * Checks performed:
  *   1. Both files have the same number of lines.
- *   2. Each line's "type" matches between the two files.
+ *   2. Each line's "type" matches between the two files:
+ *        - Speech source lines (＃) must appear at the same positions.
+ *        - Speech content lines (「」/『』 in original, plain text in
+ *          translated) must not be a speech source in the translation.
  *   3. Speech source names match the expected Japanese → English mapping.
- *   4. Speech content bracket style (「」vs『』) matches the original.
  *
- * Line types:
- *   - Speech source  — ＃*** (both original and translated use fullwidth hash)
- *   - Speech content — 「***」or 『***』(both original and translated)
+ * Line types (determined from the original):
+ *   - Speech source  — ＃*** (both original and translated)
+ *   - Speech content — 「***」or 『***』in original; plain text (no brackets)
+ *                      in translated. Identified positionally as the line
+ *                      after a ＃ source line.
  *   - Normal line    — anything else
  *
  * Both original and translated files are Shift-JIS encoded, so we read raw
@@ -37,17 +41,7 @@ const ORIGINAL_DIR = "original";
 const TRANSLATED_DIR = "translated";
 const TRANSLATED_VERTICAL_DIR = "translated-vertical";
 
-// Speech source lines use the fullwidth hash (＃) in both original and
-// translated files.
 const isSpeechSource = (line) => line.startsWith("＃");
-
-// Speech content uses Japanese brackets in both original and translated.
-const isSingleBracketContent = (line) =>
-  line.startsWith("「") && line.endsWith("」");
-const isDoubleBracketContent = (line) =>
-  line.startsWith("『") && line.endsWith("』");
-const isSpeechContent = (line) =>
-  isSingleBracketContent(line) || isDoubleBracketContent(line);
 
 // Canonical Japanese → English speech source name mapping.
 const SPEAKER_MAP = new Map([
@@ -67,19 +61,6 @@ const SPEAKER_MAP = new Map([
   ["警官", "Police Officer"],
   ["御者", "Coachman"],
 ]);
-
-const LINE_TYPE = {
-  SPEECH_SOURCE: "speech_source",
-  SPEECH_CONTENT: "speech_content",
-  NORMAL: "normal",
-};
-
-function classifyLine(line, trim) {
-  const target = trim ? line.trim() : line;
-  if (isSpeechSource(target)) return LINE_TYPE.SPEECH_SOURCE;
-  if (isSpeechContent(target)) return LINE_TYPE.SPEECH_CONTENT;
-  return LINE_TYPE.NORMAL;
-}
 
 /**
  * Validate all translated files in the given directory against originals.
@@ -129,15 +110,17 @@ async function validateDirectory(translatedDir, trim) {
         `   Line count mismatch: original has ${originalLines.length} lines, translated has ${translatedLines.length} lines`,
       );
 
-      // Walk through the overlapping lines to find the first type mismatch,
-      // which usually indicates where the translation diverged.
+      // Walk through the overlapping lines to find the first speech source
+      // position mismatch.
       const minLen = Math.min(originalLines.length, translatedLines.length);
       for (let i = 0; i < minLen; i++) {
-        const origType = classifyLine(originalLines[i], trim);
-        const transType = classifyLine(translatedLines[i], trim);
-        if (origType !== transType) {
+        const origLine = trim ? originalLines[i].trim() : originalLines[i];
+        const transLine = trim ? translatedLines[i].trim() : translatedLines[i];
+        const origIsSrc = isSpeechSource(origLine);
+        const transIsSrc = isSpeechSource(transLine);
+        if (origIsSrc !== transIsSrc) {
           console.log(
-            `   First type mismatch at line ${i + 1}: expected [${origType}] but got [${transType}]`,
+            `   First speech source mismatch at line ${i + 1}:`,
           );
           console.log(`     original:   ${originalLines[i]}`);
           console.log(`     translated: ${translatedLines[i]}`);
@@ -149,30 +132,26 @@ async function validateDirectory(translatedDir, trim) {
       continue;
     }
 
-    // Compare the line type of each line pair. For speech source lines,
-    // verify the speaker name. For speech content lines, verify the
-    // bracket style matches.
+    // Compare each line pair. Speech source lines must appear at the same
+    // positions, and speaker names must match the canonical mapping.
     const lineMismatches = [];
     for (let i = 0; i < originalLines.length; i++) {
-      const origTrimmed = trim ? originalLines[i].trim() : originalLines[i];
-      const transTrimmed = trim
-        ? translatedLines[i].trim()
-        : translatedLines[i];
-      const origType = classifyLine(originalLines[i], trim);
-      const transType = classifyLine(translatedLines[i], trim);
+      const origLine = trim ? originalLines[i].trim() : originalLines[i];
+      const transLine = trim ? translatedLines[i].trim() : translatedLines[i];
+      const origIsSrc = isSpeechSource(origLine);
+      const transIsSrc = isSpeechSource(transLine);
 
-      if (origType !== transType) {
+      if (origIsSrc !== transIsSrc) {
         lineMismatches.push({
           line: i + 1,
           kind: "type",
-          origType,
-          transType,
           origText: originalLines[i],
           transText: translatedLines[i],
         });
-      } else if (origType === LINE_TYPE.SPEECH_SOURCE) {
-        const jpName = origTrimmed.slice("＃".length);
-        const enName = transTrimmed.slice("＃".length);
+      } else if (origIsSrc) {
+        // Both are speech source — verify the speaker name mapping.
+        const jpName = origLine.slice("＃".length);
+        const enName = transLine.slice("＃".length);
         const expectedEn = SPEAKER_MAP.get(jpName);
 
         if (expectedEn === undefined) {
@@ -192,22 +171,6 @@ async function validateDirectory(translatedDir, trim) {
             transText: translatedLines[i],
           });
         }
-      } else if (origType === LINE_TYPE.SPEECH_CONTENT) {
-        // Verify the bracket style matches (「」vs 『』).
-        const origSingle = isSingleBracketContent(origTrimmed);
-        const transSingle = isSingleBracketContent(transTrimmed);
-        if (origSingle !== transSingle) {
-          const expected = origSingle ? "「」" : "『』";
-          const actual = transSingle ? "「」" : "『』";
-          lineMismatches.push({
-            line: i + 1,
-            kind: "bracket_style",
-            expected,
-            actual,
-            origText: originalLines[i],
-            transText: translatedLines[i],
-          });
-        }
       }
     }
 
@@ -217,7 +180,7 @@ async function validateDirectory(translatedDir, trim) {
       for (const m of lineMismatches) {
         if (m.kind === "type") {
           console.log(
-            `   Line ${m.line}: expected [${m.origType}] but got [${m.transType}]`,
+            `   Line ${m.line}: speech source position mismatch`,
           );
         } else if (m.kind === "speaker_name") {
           console.log(
@@ -226,10 +189,6 @@ async function validateDirectory(translatedDir, trim) {
         } else if (m.kind === "unknown_speaker") {
           console.log(
             `   Line ${m.line}: unknown original speaker (not in mapping)`,
-          );
-        } else if (m.kind === "bracket_style") {
-          console.log(
-            `   Line ${m.line}: bracket style mismatch — expected ${m.expected} but got ${m.actual}`,
           );
         }
         console.log(`     original:   ${m.origText}`);
