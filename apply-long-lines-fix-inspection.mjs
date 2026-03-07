@@ -2,9 +2,8 @@
  * Apply Long Lines Fix for Inspection Scripts
  *
  * Reads the original export (`long_lines_inspection.txt`) and the manually
- * edited version (`long_lines_inspection_updated.txt`), verifies structural
- * consistency, then patches each corresponding line in the translated
- * inspection files.
+ * edited version (`long_lines_inspection_updated.txt`), verifies consistency,
+ * then patches each corresponding line in the translated inspection files.
  *
  * Both files use the same format (one entry = two lines):
  *
@@ -12,10 +11,12 @@
  *   {lineContent}
  *
  * Verification steps:
- *   1. Both files have the same number of entries.
- *   2. Each entry's header (fileName, lineNumber, requiredLength) matches
- *      between the original and updated files.
- *   3. Every updated content line is at most requiredLength characters.
+ *   1. The set of entry headers in both files must match (order may differ).
+ *   2. Every updated content line is at most requiredLength characters.
+ *
+ * If step 1 passes but step 2 fails, the script rewrites the updated file
+ * with still-invalid entries at the top and valid entries at the bottom,
+ * then exits without patching.
  *
  * If all checks pass, each inspection file is patched in place. Files are
  * Shift-JIS encoded.
@@ -54,6 +55,13 @@ function encodeShiftJIS(str) {
 }
 
 /**
+ * Build a canonical header key for set comparison.
+ */
+function headerKey(entry) {
+  return `${entry.fileName} | ${entry.lineNum} | ${entry.required}`;
+}
+
+/**
  * Parse the inspection long_lines format into an array of entries.
  * Every two lines form one entry: header then content.
  * Header format: {fileName} | {lineNumber} | {requiredLength}
@@ -76,15 +84,25 @@ function parseEntries(content) {
     const required = parseInt(parts[2], 10);
 
     if (isNaN(lineNum) || isNaN(required)) {
-      throw new Error(
-        `Invalid numbers in header at line ${i + 1}: ${header}`
-      );
+      throw new Error(`Invalid numbers in header at line ${i + 1}: ${header}`);
     }
 
     entries.push({ fileName, lineNum, required, text });
   }
 
   return entries;
+}
+
+/**
+ * Serialize entries back to the two-line-per-entry format.
+ */
+function serializeEntries(entries) {
+  const lines = [];
+  for (const entry of entries) {
+    lines.push(headerKey(entry));
+    lines.push(entry.text);
+  }
+  return lines.join("\n");
 }
 
 async function main() {
@@ -95,58 +113,88 @@ async function main() {
   const originalEntries = parseEntries(originalContent);
   const updatedEntries = parseEntries(updatedContent);
 
-  // Step 2: Verify both files have the same number of entries.
+  // Step 2: Verify the set of entry headers match between both files.
+  const originalKeys = new Set(originalEntries.map(headerKey));
+  const updatedKeys = new Set(updatedEntries.map(headerKey));
+
+  let headerMismatch = false;
+
+  for (const key of originalKeys) {
+    if (!updatedKeys.has(key)) {
+      console.error(`Missing in updated file: ${key}`);
+      headerMismatch = true;
+    }
+  }
+  for (const key of updatedKeys) {
+    if (!originalKeys.has(key)) {
+      console.error(`Extra in updated file: ${key}`);
+      headerMismatch = true;
+    }
+  }
+
   if (originalEntries.length !== updatedEntries.length) {
     console.error(
       `Entry count mismatch: original has ${originalEntries.length}, ` +
         `updated has ${updatedEntries.length}`
     );
+    headerMismatch = true;
+  }
+
+  if (headerMismatch) {
     process.exit(1);
   }
 
-  // Step 3: Verify headers match and updated lines are within limits.
-  let hasErrors = false;
+  // Step 3: Check that every updated line is within its required length.
+  const invalid = [];
+  const valid = [];
 
-  for (let i = 0; i < originalEntries.length; i++) {
-    const orig = originalEntries[i];
-    const upd = updatedEntries[i];
-
-    if (
-      orig.fileName !== upd.fileName ||
-      orig.lineNum !== upd.lineNum ||
-      orig.required !== upd.required
-    ) {
-      console.error(
-        `Entry ${i + 1}: header mismatch —\n` +
-          `  original: "${orig.fileName} | ${orig.lineNum} | ${orig.required}"\n` +
-          `  updated:  "${upd.fileName} | ${upd.lineNum} | ${upd.required}"`
-      );
-      hasErrors = true;
-    }
-
-    if (upd.text.length > upd.required) {
-      console.error(
-        `Entry ${i + 1} (${upd.fileName} line ${upd.lineNum}): ` +
-          `still too long (${upd.text.length} chars, max ${upd.required})`
-      );
-      hasErrors = true;
-    }
-  }
-
-  if (hasErrors) {
-    process.exit(1);
-  }
-
-  // Step 4: Group updated entries by file for batch patching.
-  const patchesByFile = new Map();
   for (const entry of updatedEntries) {
-    if (!patchesByFile.has(entry.fileName)) {
-      patchesByFile.set(entry.fileName, []);
+    if (entry.text.length > entry.required) {
+      invalid.push(entry);
+    } else {
+      valid.push(entry);
     }
-    patchesByFile.get(entry.fileName).push(entry);
   }
 
-  // Step 5: Apply patches to each inspection file.
+  if (invalid.length > 0) {
+    console.error(
+      `${invalid.length} entries still too long (${valid.length} valid):\n`
+    );
+    for (const entry of invalid) {
+      console.error(
+        `  ${entry.fileName} line ${entry.lineNum}: ` +
+          `${entry.text.length} chars, max ${entry.required}`
+      );
+    }
+
+    // Rewrite the updated file: invalid entries first, valid entries last.
+    const reordered = [...invalid, ...valid];
+    await writeFile(UPDATED_FILE, serializeEntries(reordered), "utf-8");
+
+    console.error(
+      `\nRewrote ${UPDATED_FILE} with ${invalid.length} invalid entries ` +
+        `at the top. Fix those and re-run.`
+    );
+    process.exit(1);
+  }
+
+  // Step 4: Build a lookup from header key → updated text.
+  const updatedByKey = new Map();
+  for (const entry of updatedEntries) {
+    updatedByKey.set(headerKey(entry), entry);
+  }
+
+  // Step 5: Group entries by file for batch patching (using original order).
+  const patchesByFile = new Map();
+  for (const orig of originalEntries) {
+    const upd = updatedByKey.get(headerKey(orig));
+    if (!patchesByFile.has(upd.fileName)) {
+      patchesByFile.set(upd.fileName, []);
+    }
+    patchesByFile.get(upd.fileName).push(upd);
+  }
+
+  // Step 6: Apply patches to each inspection file.
   let patchedFiles = 0;
   let patchedLines = 0;
 
