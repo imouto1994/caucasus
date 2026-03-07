@@ -147,9 +147,9 @@ See? I'm awake!
 ＃想子
 What's with that? Are you really so unhappy about me pouncing onyou?
 Souko-san puffed out her cheeks in a pout.
-[I'm not unhappy]
-[I am unhappy]
-[Please calm down]
+不満じゃない
+不満です
+落ち着いてください
 ＃主人公
 No, it's not that I'm unhappy, it's just... look, we don't have much time, do we?
 ＃想子

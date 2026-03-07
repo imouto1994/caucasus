@@ -40,8 +40,8 @@ So, whether to point out the killer is up to you. If you're     confident in you
 ＃主人公
 That's a lot of responsibility...
 Now then... what should I do?
-[Point out the killer]
-[Don't point out the killer]
+犯人を指摘する
+犯人を指摘しない
 ＃主人公
 ...If it's something we can do, I think we have to do it.
 ＃想子

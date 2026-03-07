@@ -26,8 +26,8 @@ A-ah...!
 The woman stumbled as well, losing her balance.
 ＃主人公
 Look out!
-[Help the woman]
-[Catch the plates]
+女の人を助ける
+皿を押さえる
 I instinctively reached out and caught the woman before she     could fall.
 ＃？？？
 Kyah!
@@ -137,8 +137,8 @@ Fine, fine. So, is there anything you guests can't eat?
 Nothing in particular for me.
 ＃主人公
 I...
-[Nothing in particular]
-[I can't stand baran]
+特にない
+葉蘭だけは食べられない
 ＃主人公
 I don't have any specific dislikes.
 ＃なるみ

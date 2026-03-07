@@ -18,8 +18,8 @@ The room suddenly grew noisy with chatter.
 ＃想子
 Quite an uproar... if you name the killer now, there's no       telling what they'll do. Are you still going through with it?
 Souko-san checked with me.
-[Continue naming the killer]
-[Stop naming the killer]
+犯人指摘を続ける
+指摘するのをやめる
 Even if we figured out who the killer was now, the earliest we  could hand them over to the police would be in two days.
 Even if we confined them somewhere, there would be various      issues like suicide or other problems.
 The most terrifying thing was the possibility of more murders.
@@ -35,14 +35,14 @@ We decided to return to our rooms.
 ...Alright. Then first... could you show us the evidence you    think is most crucial to identifying the killer?
 ＃主人公
 Understood.
-[The key in the pocket]
-[The hand axe used as a weapon]
-[The door connecting to Tsujimura's room]
-[The torn pillow]
-[The extinguished fireplace]
-[The frozen window]
-[Rokuyou's corpse]
-[The snowdrop flower]
+ポケットに入っていた鍵
+凶器の手斧
+辻村の部屋に繋がっている扉
+穴の開いた枕
+火の消えた暖炉
+凍り付いた窓
+六曜の遺体
+スノードロップの花
 ...And at that moment, I realized I didn't have any evidence I  could actually present.
 ＃想子
 I see... then who exactly is the killer that evidence points to?
@@ -108,14 +108,14 @@ I imagine she dragged Rokuyou-san's body all the way to his     room. The dirt o
 But!! That's nothing more than a guess, isn't it!?
 ＃主人公
 Yes... which is why I need one more piece of decisive evidence.
-[The hand axe used as a weapon]
-[The snowdrop flower]
-[The key in the pocket]
-[The door connecting to Tsujimura's room]
-[The torn pillow]
-[The extinguished fireplace]
-[The frozen window]
-[Rokuyou's corpse]
+凶器の手斧
+スノードロップの花
+ポケットに入っていた鍵
+辻村の部屋に繋がっている扉
+穴の開いた枕
+火の消えた暖炉
+凍り付いた窓
+六曜の遺体
 ...And at that moment, I realized I didn't have any evidence I  could actually present.
 ＃主人公
 The snowdrop flower lying by the body... I imagine Rokuyou-san  plucked it when he went to get the key.

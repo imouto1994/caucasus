@@ -79,9 +79,9 @@ Rock-paper-scissors...?
 ＃なるみ
 Here we go! Rock, paper... scissors!
 Narumi-san threw her hand out.
-[Rock]
-[Paper]
-[Scissors]
+グー
+チョキ
+パー
 ＃なるみ
 Shoot! ...Agggh!
 Narumi-san clutched her head and slumped down.

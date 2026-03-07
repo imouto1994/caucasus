@@ -27,9 +27,9 @@ No... you've got to be kidding me...
 I tried twisting and pulling the knob, but the door wouldn't    budge.
 However, it didn't seem to be locked.
 We were out of time-what should I do?
-[Try using a tool]
-[Have her go fetch a tool]
-[Kick the door down]
+何か道具を使ってみる
+何か道具を取ってきて貰う
+蹴破る
 ＃主人公
 Akane-san, can you go find something we can use to get this     open?
 ＃あかね
@@ -87,8 +87,8 @@ It was a machine that appeared to be the clock mechanism.
 The end of the rope was caught firmly in one of the rotating    gears.
 Despite the obstruction, the gears were still grinding away.
 If this keeps up, Ai-san is going to-!
-[Use a tool]
-[Remove the rope by hand]
+道具を使う
+手でロープを外す
 I grabbed the rope and tried to pull it free.
 ＃主人公
 Gngh...!

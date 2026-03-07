@@ -39,8 +39,8 @@ The woman called Akane-san tripped on the carpet and stumbled.
 Hya, waah!?
 ＃主人公
 Look out!
-[Help the woman]
-[Protect Benio-san]
+女の人を助ける
+紅緒さんをかばう
 I instinctively reached out and caught the woman as she was     about to fall.
 ＃？？？
 Kyah!
@@ -147,8 +147,8 @@ Fine, fine. So, is there anything you guests can't eat?
 Nothing in particular for me.
 ＃主人公
 I...
-[Nothing in particular]
-[I can't stand baran]
+特にない
+葉蘭だけは食べられない
 ＃主人公
 I don't have any specific dislikes.
 ＃なるみ
