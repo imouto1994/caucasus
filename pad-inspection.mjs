@@ -6,15 +6,14 @@
  * with '-' characters so it reaches exactly 2× the original line's character
  * count.
  *
+ * If `long_lines_inspection_updated.txt` exists, lines that were flagged as
+ * too long are replaced with the shortened versions from that file before
+ * padding is applied.
+ *
  * Lines identical to the original (speech sources, options, etc.) and empty
  * lines are copied as-is.
  *
  * Output is written to `translated-inspection-padding/` as Shift-JIS.
- *
- * Prerequisites:
- *   All content lines must already be ≤ the required length (run
- *   check-long-lines-inspection.mjs + apply-long-lines-fix-inspection.mjs
- *   first if needed).
  *
  * Usage:
  *   node pad-inspection.mjs
@@ -27,6 +26,7 @@ import Encoding from "encoding-japanese";
 const INSPECTION_DIR = "translated-inspection";
 const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated-inspection-padding";
+const OVERRIDES_FILE = "long_lines_inspection_updated.txt";
 
 const sjisDecoder = new TextDecoder("shift_jis");
 
@@ -49,8 +49,56 @@ function encodeShiftJIS(str) {
   return Buffer.from(codeArray);
 }
 
+/**
+ * Load overrides from the updated long-lines file.
+ * Returns a Map keyed by "{fileName}:{lineNum}" → overrideText.
+ */
+async function loadOverrides() {
+  const overrides = new Map();
+
+  let content;
+  try {
+    content = await readFile(OVERRIDES_FILE, "utf-8");
+  } catch {
+    return overrides;
+  }
+
+  const lines = content.split("\n");
+  for (let i = 0; i + 1 < lines.length; i += 2) {
+    const parts = lines[i].split(" | ");
+    if (parts.length !== 3) continue;
+
+    const fileName = parts[0];
+    const lineNum = parseInt(parts[1], 10);
+    const required = parseInt(parts[2], 10);
+    const text = lines[i + 1];
+
+    if (isNaN(lineNum) || isNaN(required)) continue;
+
+    if (text.length > required) {
+      console.error(
+        `[SKIP] Override for ${fileName} line ${lineNum} still too long ` +
+          `(${text.length} chars, max ${required}). Run validation first.`
+      );
+      continue;
+    }
+
+    overrides.set(`${fileName}:${lineNum}`, text);
+  }
+
+  if (overrides.size > 0) {
+    console.log(
+      `Loaded ${overrides.size} overrides from ${OVERRIDES_FILE}\n`
+    );
+  }
+
+  return overrides;
+}
+
 async function main() {
   await mkdir(OUTPUT_DIR, { recursive: true });
+
+  const overrides = await loadOverrides();
 
   const fileNames = (await readdir(INSPECTION_DIR))
     .filter((f) => f.endsWith(".txt"))
@@ -58,6 +106,7 @@ async function main() {
 
   let totalFiles = 0;
   let paddedLines = 0;
+  let overriddenLines = 0;
   let overLimitLines = 0;
 
   for (const fileName of fileNames) {
@@ -90,7 +139,15 @@ async function main() {
       if (transLines[i] === origLine) continue;
 
       const required = origLine.length * 2;
-      const current = transLines[i].length;
+
+      // Apply override if one exists for this line.
+      const overrideKey = `${fileName}:${i + 1}`;
+      if (overrides.has(overrideKey)) {
+        result[i] = overrides.get(overrideKey);
+        overriddenLines++;
+      }
+
+      const current = result[i].length;
 
       if (current > required) {
         overLimitLines++;
@@ -102,7 +159,7 @@ async function main() {
       }
 
       if (current < required) {
-        result[i] = transLines[i] + "-".repeat(required - current);
+        result[i] = result[i] + "-".repeat(required - current);
         paddedLines++;
       }
     }
@@ -115,8 +172,9 @@ async function main() {
   }
 
   console.log("— Summary —");
-  console.log(`  Files processed: ${totalFiles}`);
-  console.log(`  Lines padded:    ${paddedLines}`);
+  console.log(`  Files processed:  ${totalFiles}`);
+  console.log(`  Lines overridden: ${overriddenLines}`);
+  console.log(`  Lines padded:     ${paddedLines}`);
   if (overLimitLines > 0) {
     console.error(`  Lines over limit: ${overLimitLines} (fix these first!)`);
   }

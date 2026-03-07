@@ -1,0 +1,100 @@
+White outside; I can't see.-------
+When will this blizzard stop?-
+The blizzard is getting stronger.---
+＃主人公
+The fire is still going.
+＃あかね
+It's unlikely to start a fire, but... I believe Lady Ai was in this room until just a moment ago. ...Oh?----------
+Akane peeks into the hearth.----
+＃あかね
+Paper fell in there... look.------------
+＃主人公
+Eh... you're right.-
+A scrap of paper was in the fireplace.------
+＃主人公
+Was she trying to burn something...?----
+The paper is quite badly charred.-
+＃あかね
+It might be a clue. Can you get it?-----------
+＃主人公
+...It's too hot, no way.
+I certainly can't shove my hand into a roaring fire.
+＃主人公
+If I had a tool, I could get it...----
+Use a tool
+Leave it be.--
+Let's search the room more first.-------
+＃主人公
+This should work.---------
+I decided to try using the poker.-----
+I use the rod to pull out the paper.--
+＃あかね
+Quick, before it burns up!----------
+＃主人公
+I know... there!--------
+I dragged it close enough to grab.--
+＃あかね
+...It's mostly burnt.-------------
+＃主人公
+It is just a fragment...------
+＃あかね
+I wonder what was written on it...--
+＃主人公
+...Maybe. But we'll never know now...-----------------
+＃あかね
+Wait, this pattern matches the phone room notepad.----------
+＃主人公
+Phone room?---
+＃あかね
+Yes. It's kept there for jotting down messages when the phone rings... it's a bound pad of paper.---------------
+＃主人公
+...If she wrote something there, a clue might still remain.---------------
+＃あかね
+You're right.-
+I can't seem to reach it.-------
+Let's find something else.--
+I want that paper in the fire... how do I get it?---------------------------
+I should check the telephone room.----
+It leads to the next room.------
+It seems to be firmly locked.-----
+This door won't open.---
+A painting is here.-
+I don't know the artist, but it's lovely.---
+Other things are more important now.------
+Trinkets are inside.------------
+No clues about Ai's whereabouts here.-----
+I shouldn't be rummaging through her things.----
+Trinkets are inside.------------
+No clues about Ai's whereabouts here.-----
+I shouldn't be rummaging through her things.----
+Trinkets are inside.------------
+No clues about Ai's whereabouts here.-----
+I shouldn't be rummaging through her things.----
+＃主人公
+Hm...?------
+Paper fell out of a book.---
+What is this?-
+"Man's Story - Ch. 7"-
+-The man was crying. I felt deep regret. I failed to see the person within the man's aura.--------------------------
+I felt ashamed. Despite working to give dreams to people, I had failed to notice such an obvious emotion.-------
+I should've cared about his feelings while he made all that food. ~To be continued~-------------
+＃主人公
+What the hell...?-
+A note titled "Man's Story - Ch. 7" is here.----
+I checked the book, but nothing is unusual.---
+Just a normal novel.
+No clues about Ai's whereabouts here.-----
+I checked the book, but nothing is unusual.---
+Just a normal novel.
+No clues about Ai's whereabouts here.-----
+This is the bed Ai-san uses.
+I looked under the bed and pillow, but found nothing useful.--------------
+Better to search elsewhere.---
+＃主人公
+This is... a fire poker.----
+A sturdy iron rod.----
+＃あかね
+You need it for the fireplace. To stir the logs and such.---
+＃主人公
+...It might be useful for something, let's take it.---
+I now have the poker that was here.-----
