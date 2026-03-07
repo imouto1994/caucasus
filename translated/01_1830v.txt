@@ -14,7 +14,7 @@ Benio-san explained each room as we walked along.
 We have two servants on staff, so please don't hesitate to ask if you need anything.
 ＃主人公
 O-oh, alright...
-I’ve never lived a life with servants before, so I wasn't quite sure how to handle that.
+I've never lived a life with servants before, so I wasn't quite sure how to handle that.
 Just then, a small black mass came tumbling down the hallway toward us.
 ＃主人公
 Wait, is that a cat...?
@@ -99,7 +99,7 @@ I'm terribly sorry. Our servant can be a bit clumsy. Akane-san, introduce yourse
 ＃？？？
 Um, I'm very sorry. My name is Akane Hiyama, and I serve as a maid for this house.
 ＃主人公
-Ah, I'm (NAME01) (NAME02).
+Ah, I'm (NAME01)(NAME02).
 ＃想子
 I'm Souko Kirihara. Nice to meet you.
 ＃あかね
@@ -122,7 +122,7 @@ Narumi-san, these people are our new guests.
 ＃？？？
 Oh.
 ＃主人公
-Um, my name is (NAME01) (NAME02).
+Um, my name is (NAME01)(NAME02).
 ＃想子
 I'm Souko Kirihara.
 ＃？？？

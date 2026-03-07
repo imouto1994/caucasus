@@ -31,7 +31,7 @@ What was the reason for Akane's disappearance...? Was she taken by the culprit, 
 ＃主人公
 ...We don't know yet.
 ＃辻村
-Miss Hiyama has minor injuries. She’s resting in her room for   now...
+Miss Hiyama has minor injuries. She's resting in her room for   now...
 ＃主人公
 I see.
 ＃辻村
@@ -39,7 +39,7 @@ Where could Miss Hiyama have gone...?
 ＃主人公
 We don't know yet...
 ＃高嶺
-Whether Hiyama-kun was targeted or just caught up in it by      chance... it’s hard to say.
+Whether Hiyama-kun was targeted or just caught up in it by      chance... it's hard to say.
 ＃主人公
 Right...
 ＃高嶺
@@ -51,6 +51,6 @@ Akane-san's injuries aren't serious. I'm having her rest in her room.
 ＃主人公
 I see...
 ＃御巫
-I wonder if it’s related to what happened yesterday... her goinginto hiding.
+I wonder if it's related to what happened yesterday... her goinginto hiding.
 ＃主人公
 ...Perhaps.

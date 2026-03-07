@@ -1,4 +1,4 @@
-Ifve arrived at the dining hall.
+I've arrived at the dining hall.
 ”g
 Hm, oh, it's just you.
 Benio-san was there.
@@ -19,7 +19,7 @@ Nodding, Benio-san began to sink into thought.
 Um... do you have a moment right now?
 ”g
 Hm? Oh, I don't mind.
-Ifve arrived at the dining hall again.
+I've arrived at the dining hall again.
 ”g
 Hm, is something the matter?
 ”ålŒö
@@ -70,7 +70,7 @@ Oh, do you still need something?
 ”ålŒö
 Yes, well.
 Now, which one should I talk to?
-Ifve arrived at the dining hall.
+I've arrived at the dining hall.
 ”g
 Hm, oh, it's just you.
 Benio-san was there.

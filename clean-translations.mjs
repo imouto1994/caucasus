@@ -44,11 +44,13 @@ const DIRS = ["translated", "translated-vertical"];
 
 const sjisDecoder = new TextDecoder("shift_jis");
 
-// Unicode characters that have no Shift-JIS representation → safe replacements.
+// Unicode characters that have no Shift-JIS representation or should be
+// normalised → safe replacements.
 const CHAR_REPLACEMENTS = new Map([
   ["\u2014", "-"], // — (em dash) → ― (horizontal bar)
   ["\u00B7", "."], // · (middle dot) → ・ (katakana middle dot)
   ["\u00E9", "e"], // é (e-acute) → e
+  ["\u2019", "'"], // ' (right single quotation mark) → ' (ASCII apostrophe)
 ]);
 
 /**

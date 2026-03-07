@@ -1,4 +1,4 @@
-I wonder how long I’d been scraping away at the wall.
+I wonder how long I'd been scraping away at the wall.
 Suddenly, a hole gaped open with a dull thud.
 ＃主人公
 It's open...?
@@ -22,7 +22,7 @@ Emerging into the first-floor hall, I let out a long, heavy breath.
 ＃なるみ
 That was a nightmare, honestly...
 ＃主人公
-In any case, we have to stop the culprit before they do anything else. Let’s patrol the mansion.
+In any case, we have to stop the culprit before they do anything else. Let's patrol the mansion.
 ＃なるみ
 Ah... h-hey...
 As I turned to begin my search, Narumi-san held me back.
@@ -31,7 +31,7 @@ What is it?
 ＃なるみ
 Aren't you going to suspect me? I mean... I'm a thief, you know?
 ＃主人公
-You might be a thief, Narumi-san, but not a murderer. There’d be no point in being locked in here with me.
+You might be a thief, Narumi-san, but not a murderer. There'd be no point in being locked in here with me.
 If Narumi-san were the killer... she would have finished me off while we were trapped.
 ＃なるみ
 I see...
@@ -85,7 +85,7 @@ Benio-san pressed something into my hand.
 ＃主人公
 This is-?
 ＃想子
-What happened? What’s all the noise?
+What happened? What's all the noise?
 Souko-san entered, apparently having heard the commotion.
 ＃想子
 Benio-san...!?

@@ -1,9 +1,9 @@
-Ifve made my way to the dining hall.
+I've made my way to the dining hall.
 ”ålŒö
 There is a fireplace here.
 ”‚È‚é‚İ
 Yes... though I doubt this is the place the code was referring  to... Do you want to check it just in case?
-Ifve returned to the dining hall.
+I've returned to the dining hall.
 ”‚È‚é‚İ
 Weren't we just here?
 ”ålŒö

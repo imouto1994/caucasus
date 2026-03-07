@@ -3,7 +3,7 @@
 ＃主人公
 Yeah...
 ＃摩夜
-Benio? She is a bit eccentric, but she’s a good girl.
+Benio? She is a bit eccentric, but she's a good girl.
 ＃主人公
 I see.
 ＃藍
@@ -23,11 +23,11 @@ Benio-kun, eh...? Well, she is peculiar, to say the least...
 ＃主人公
 I see...
 ＃御巫
-Benio-san? She’s an interesting girl.
+Benio-san? She's an interesting girl.
 ＃主人公
 Is that so...
 ＃あかね
-Lady Benio? ...Well, she’s that sort of person.
+Lady Benio? ...Well, she's that sort of person.
 ＃主人公
 Oh... I see.
 ＃なるみ

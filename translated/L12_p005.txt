@@ -1,5 +1,5 @@
 ＃想子
-...The only person who stepped foot into the scene when the incident occurred. She’s definitely the most suspicious...
+...The only person who stepped foot into the scene when the incident occurred. She's definitely the most suspicious...
 ＃主人公
 True...
 ＃摩夜
@@ -7,7 +7,7 @@ I wouldn't know, I was resting in my room as well.
 ＃主人公
 I see...
 ＃藍
-I’m not sure... I was in my room the entire time.
+I'm not sure... I was in my room the entire time.
 ＃主人公
 I see...
 ＃辻村
@@ -15,7 +15,7 @@ I see...
 ＃主人公
 I see...
 ＃高嶺
-I wouldn’t know what was happening outside my room.
+I wouldn't know what was happening outside my room.
 ＃主人公
 I see...
 ＃あかね
@@ -23,6 +23,6 @@ Lady Shion is back in her room resting now. It seems it was a terrible shock for
 ＃主人公
 ...I see.
 ＃なるみ
-...From what I could see, Lady Shion was the only one who entered that room. I don’t think... I missed anyone.
+...From what I could see, Lady Shion was the only one who entered that room. I don't think... I missed anyone.
 ＃主人公
 I see...

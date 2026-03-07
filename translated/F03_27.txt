@@ -1,4 +1,4 @@
-I’ve made it to Souko-san's room.
+I've made it to Souko-san's room.
 I knock lightly on the door.
 ＃想子
 Oh, it's you. What is it?
@@ -11,7 +11,7 @@ With that, Souko-san guided me into the room.
 So, what's your business?
 ＃主人公
 Well, you see...
-I’ve come to Souko-san's room.
+I've come to Souko-san's room.
 I knock lightly on the door.
 ＃想子
 Oh, it's you again. What's the matter?
@@ -24,12 +24,12 @@ With that, Souko-san guided me into the room.
 What is it this time?
 ＃主人公
 Well, you see...
-I’ve made it to Souko-san's room.
+I've made it to Souko-san's room.
 I knock lightly on the door.
 I wait for a while, but there was no response from inside.
 Is she not here?
 I gave up and decided to head elsewhere.
-I’ve made it to Souko-san's room.
+I've made it to Souko-san's room.
 I knock lightly on the door.
 ＃想子
 Oh, it's you. What is it? And Akane-san is with you too.
@@ -41,7 +41,7 @@ Souko-san shakes her head.
 ＃主人公
 It seems she hasn't been seen for a while now.
 ＃想子
-I see... I’m worried, especially after what happened...
+I see... I'm worried, especially after what happened...
 ＃あかね
 Please let us know if you see her. We'll be looking around the other areas.
 ＃想子
@@ -50,7 +50,7 @@ Yes, I understand.
 Well then, we'll be going.
 ＃あかね
 Please excuse us.
-I’ve made it to Souko-san's room.
+I've made it to Souko-san's room.
 I knock lightly on the door.
 ＃想子
 ...Oh, it's you two. Have you found her yet?
@@ -64,7 +64,7 @@ Yes, could you please?
 Of course.
 ＃あかね
 Then, we're counting on you.
-I’ve made it to Souko-san's room.
+I've made it to Souko-san's room.
 I knock lightly on the door.
 I wait for a while, but there was no response from inside.
 ＃あかね

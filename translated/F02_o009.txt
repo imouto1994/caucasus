@@ -15,7 +15,7 @@ Does the sound of the bell bother you that much? The machine room is in the atti
 ＃主人公
 Oh... I see.
 ＃辻村
-The bell is rung from the machine room above the main entrance. It’s synchronized with the clock facing the outside.
+The bell is rung from the machine room above the main entrance. It's synchronized with the clock facing the outside.
 ＃主人公
 I see.
 ＃高嶺
@@ -23,11 +23,11 @@ It certainly rang last night... but it isn't something worth being concerned abo
 ＃主人公
 I guess so...
 ＃御巫
-The bell, eh...? I don't think you’d notice it much while inside your room.
+The bell, eh...? I don't think you'd notice it much while inside your room.
 ＃主人公
 I see.
 ＃あかね
-It rings at noon, so it’s quite convenient for keeping track of the time.
+It rings at noon, so it's quite convenient for keeping track of the time.
 ＃主人公
 Is that so?
 ＃なるみ

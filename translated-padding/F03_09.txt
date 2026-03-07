@@ -1,4 +1,4 @@
-Ifve arrived at the kitchen.
+I've arrived at the kitchen.
 ”‚È‚é‚İ
 Oh, what's up?
 Narumi-san was there.
@@ -16,12 +16,12 @@ Understood.
 So, didn't you have some kind of business with me?
 ”ålŒö
 Um...
-Ifve arrived at the kitchen again.
+I've arrived at the kitchen again.
 ”‚È‚é‚İ
 Oh, do you need something else?
 ”ålŒö
 Um...
-Ifve arrived at the kitchen.
+I've arrived at the kitchen.
 ...But no one is here.
 What should I do...?
 Narumi-san was in the kitchen.
@@ -51,7 +51,7 @@ Maybe you should try looking more thoroughly?
 ”ålŒö
 ...I suppose so.
 We decided to go search elsewhere.
-Ifve arrived at the kitchen.
+I've arrived at the kitchen.
 ”‚ ‚©‚Ë
 Narumi-san isn't here.
 There's no one inside.

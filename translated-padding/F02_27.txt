@@ -1,4 +1,4 @@
-I’ve made my way to Souko-san's room.
+I've made my way to Souko-san's room.
 I give the door a light knock.
 ＃想子
 Oh, it's you. What is it?
@@ -11,7 +11,7 @@ With that, Souko-san invited me into the room.
 So, what's your business?
 ＃主人公
 Well, you see...
-I’ve come to Souko-san's room.
+I've come to Souko-san's room.
 I give the door a light knock.
 ＃想子
 Oh, you again. What is it?
@@ -24,7 +24,7 @@ With that, Souko-san invited me into the room.
 What is it this time?
 ＃主人公
 Well, you see...
-I’ve made my way to Souko-san's room.
+I've made my way to Souko-san's room.
 I give the door a light knock.
 I wait for a while, but there was no response from within.
 Is she not in?

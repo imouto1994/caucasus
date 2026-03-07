@@ -33,14 +33,14 @@ Yes, of course. It would be a problem if the bone is damaged, soperhaps I should
 ”‘zq
 No, that won't be necessary.
 ”HHH
-Now, now, Doctor. Itfs poor form to woo a lady the moment you   meet. Youfre making the young man uncomfortable.
+Now, now, Doctor. It's poor form to woo a lady the moment you   meet. You're making the young man uncomfortable.
 The man sitting next to him-Isamu Rokuyou-spoke up.
 ”Œä›Ş
 Haha, my apologies. I assure you, I had no such intentions.
 ”˜Z—j
 And your name is?
 ”ålŒö
-Oh, me? My name is (NAME01) (NAME02). Um, congratulations on    your marriage.
+Oh, me? My name is (NAME01)(NAME02). Um, congratulations on yourmarriage.
 ”˜Z—j
 Ah, thank you.
 ”Œä›Ş
@@ -65,13 +65,13 @@ It's nothing like that.
 ”‘zq
 I wonder why people always assume the worst whenever a man and awoman are seen together.
 Souko-san muttered, sounding thoroughly exasperated.
-Well, itfs true that we aren't lovers.
+Well, it's true that we aren't lovers.
 In fact, I doubt we'd ever develop into that. Souko-san and I   are just too poorly matched for it.
 ”˜Z—j
 Are you two students?
 Rokuyou-san directed his question toward me.
 ”ålŒö
-Yes. We attend a university in Tokyo. Souko-san-shefs my senior in the folklore seminar.
+Yes. We attend a university in Tokyo. Souko-san-she's my senior in the folklore seminar.
 ”˜Z—j
 Folklore, eh...? Did you perhaps come here to research this     place?
 ”ålŒö
@@ -166,5 +166,5 @@ A curse...?
 ”ålŒö
 Occultism? Is that like religious studies?
 ”‘zq
-...Well, itfs close, I suppose...
-Souko-sanfs voice trailed off vaguely.
+...Well, it's close, I suppose...
+Souko-san's voice trailed off vaguely.

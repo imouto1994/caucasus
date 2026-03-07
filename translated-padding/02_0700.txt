@@ -7,7 +7,7 @@ Narumi-san stepped into the room.
 ＃主人公
 Yeah, more or less.
 ＃なるみ
-Good. We’re picking up where we left off yesterday at eight, so make sure you're there.
+Good. We're picking up where we left off yesterday at eight, so make sure you're there.
 Narumi-san was speaking in a remarkably casual tone.
 ＃主人公
 Right, I understand.
@@ -25,13 +25,13 @@ Souko-san entered the room.
 ＃なるみ
 Ah, good morning.
 ＃想子
-It’s a hell of a blizzard out there this morning.
+It's a hell of a blizzard out there this morning.
 ＃主人公
 What-
 Startled, I looked out the window.
 Everything was a sheet of white; I couldn't make out a thing.
 ＃なるみ
-It’s really coming down. The drifts behind the kitchen are so   high we can’t even open the door to get out.
+It's really coming down. The drifts behind the kitchen are so   high we can't even open the door to get out.
 ＃主人公
 In that case, we might not be able to head back down the        mountain today...
 ＃想子
@@ -40,7 +40,7 @@ Souko-san muttered gloomily.
 ＃想子
 Anyway, quit lounging around in those blankets and get up.
 ＃主人公
-I’m getting up, I’m getting up...
+I'm getting up, I'm getting up...
 I climbed out of bed.
 Even with the fireplace going all night, the air outside the    covers was biting.
 ＃なるみ
@@ -49,7 +49,7 @@ Narumi-san spun around to leave.
 ＃想子
 Is she still not up?
 ＃なるみ
-She’s not a morning person. Plus, it was a late night for her.
+She's not a morning person. Plus, it was a late night for her.
 ＃主人公
 Ah... that explains why she was in such a foul mood when I ran  into her in the middle of the night.
 ＃なるみ
