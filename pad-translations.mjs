@@ -6,7 +6,7 @@
  * When a word straddles the 64-char boundary, part of it appears on row 1 and
  * the rest on row 2, which looks bad.
  *
- * This script scans each line in `translated/` and:
+ * This script scans each line in `translated/` and `translated-inspection/` and:
  *   1. Detects choice/option lines in the original script and replaces them
  *      with the original Japanese text (the game can't render translated
  *      options well).
@@ -28,7 +28,7 @@ import { readFile, readdir, writeFile, mkdir } from "fs/promises";
 import path from "path";
 import Encoding from "encoding-japanese";
 
-const INPUT_DIR = "translated";
+const INPUT_DIRS = ["translated", "translated-inspection"];
 const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated-padding";
 const OPTIONS_FILE = "options.txt";
@@ -201,22 +201,24 @@ async function main() {
   // Step 1: Ensure the output directory exists.
   await mkdir(OUTPUT_DIR, { recursive: true });
 
-  // Step 2: Discover all translated files.
-  const fileNames = (await readdir(INPUT_DIR))
-    .filter((f) => f.endsWith(".txt"))
-    .sort();
+  // Step 2: Discover all translated files across input directories.
+  const fileEntries = [];
+  for (const dir of INPUT_DIRS) {
+    const names = (await readdir(dir)).filter((f) => f.endsWith(".txt"));
+    for (const name of names) fileEntries.push({ dir, name });
+  }
+  fileEntries.sort((a, b) => a.name.localeCompare(b.name));
 
   let totalFiles = 0;
   let modifiedFiles = 0;
   let paddedLines = 0;
   let overLimitLines = 0;
   let optionLineCount = 0;
-  // Collect option entries for export to a text file.
   const optionEntries = [];
 
-  for (const fileName of fileNames) {
+  for (const { dir, name: fileName } of fileEntries) {
     // Step 3: Read the translated file (Shift-JIS).
-    const raw = await readFile(path.join(INPUT_DIR, fileName));
+    const raw = await readFile(path.join(dir, fileName));
     const text = sjisDecoder.decode(raw);
     const lines = text.split("\n");
 

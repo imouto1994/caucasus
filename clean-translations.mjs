@@ -1,7 +1,8 @@
 /**
  * Clean Up Translated Scripts
  *
- * Processes every .txt file in `translated/` and `translated-vertical/` to
+ * Processes every .txt file in `translated/`, `translated-inspection/`, and
+ * `translated-vertical/` to
  * normalise formatting:
  *
  *   1. Remove all empty lines.
@@ -40,7 +41,7 @@ import path from "path";
 import Encoding from "encoding-japanese";
 
 const ORIGINAL_DIR = "original";
-const DIRS = ["translated", "translated-vertical"];
+const DIRS = ["translated", "translated-inspection", "translated-vertical"];
 
 const sjisDecoder = new TextDecoder("shift_jis");
 

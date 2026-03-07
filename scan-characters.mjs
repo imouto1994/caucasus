@@ -1,7 +1,8 @@
 /**
  * Scan Unique Non-Alphanumeric Characters
  *
- * Reads every .txt file in `translated/`, decoding from Shift-JIS (or UTF-8
+ * Reads every .txt file in `translated/` and `translated-inspection/`, decoding
+ * from Shift-JIS (or UTF-8
  * if detected), and prints all unique characters that are not ASCII
  * alphanumeric (a-z, A-Z, 0-9).
  *
@@ -13,26 +14,33 @@ import { readFile, readdir } from "fs/promises";
 import path from "path";
 import Encoding from "encoding-japanese";
 
-const DIR = "translated";
+const DIRS = ["translated", "translated-inspection"];
 const sjisDecoder = new TextDecoder("shift_jis");
 
 async function main() {
-  const fileNames = (await readdir(DIR))
-    .filter((f) => f.endsWith(".txt"))
-    .sort();
-
   const charSet = new Set();
+  let totalFiles = 0;
 
-  for (const fileName of fileNames) {
-    const raw = await readFile(path.join(DIR, fileName));
-    const detected = Encoding.detect(raw);
-    const text =
-      detected === "SJIS" ? sjisDecoder.decode(raw) : raw.toString("utf-8");
+  for (const dir of DIRS) {
+    let fileNames;
+    try {
+      fileNames = (await readdir(dir)).filter((f) => f.endsWith(".txt")).sort();
+    } catch {
+      continue;
+    }
 
-    for (const ch of text) {
-      if (!/[a-zA-Z0-9]/.test(ch)) {
-        charSet.add(ch);
+    for (const fileName of fileNames) {
+      const raw = await readFile(path.join(dir, fileName));
+      const detected = Encoding.detect(raw);
+      const text =
+        detected === "SJIS" ? sjisDecoder.decode(raw) : raw.toString("utf-8");
+
+      for (const ch of text) {
+        if (!/[a-zA-Z0-9]/.test(ch)) {
+          charSet.add(ch);
+        }
       }
+      totalFiles++;
     }
   }
 
@@ -57,7 +65,7 @@ async function main() {
     console.log(`${hex}  ${display}  (codepoint: ${code})`);
   }
 
-  console.log(`\nScanned ${fileNames.length} files in ${DIR}/`);
+  console.log(`\nScanned ${totalFiles} files across ${DIRS.join(", ")}`);
 }
 
 main().catch(console.error);

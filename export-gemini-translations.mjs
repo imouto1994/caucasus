@@ -2,16 +2,17 @@
  * Export Gemini Translation Entries
  *
  * Parses all translated text files in `gemini-translation-text/` and exports
- * each entry as a separate file, named to match the corresponding original
- * script file.
+ * each entry as a separate Shift-JIS file, named to match the corresponding
+ * original script file.
  *
- * Files are routed to one of two output directories based on whether their
- * original is a vertical-style (tategumi) script:
+ * Files are routed to one of three output directories:
  *
- *   - `translated/`          — normal (horizontal) scripts
- *   - `translated-vertical/` — vertical-style scripts (every non-empty line
- *                               in the original starts with a fullwidth space
- *                               or left corner bracket in Shift-JIS)
+ *   - `translated/`            — normal (horizontal) scripts
+ *   - `translated-vertical/`   — vertical-style scripts (every non-empty line
+ *                                 in the original starts with a fullwidth space
+ *                                 or left corner bracket)
+ *   - `translated-inspection/` — inspection scripts (filenames matching
+ *                                 [A-Z][0-9][0-9]_[0-9][0-9]s.txt)
  *
  * Each translated text file contains one or more entries delimited by a
  * three-line header:
@@ -38,6 +39,9 @@ const INPUT_DIR = "gemini-translation-text";
 const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated";
 const OUTPUT_VERTICAL_DIR = "translated-vertical";
+const OUTPUT_INSPECTION_DIR = "translated-inspection";
+
+const INSPECTION_RE = /^[A-Z]\d{2}_\d{2}s\.txt$/;
 
 // Unicode characters that have no Shift-JIS representation → safe replacements.
 const CHAR_REPLACEMENTS = new Map([
@@ -66,41 +70,24 @@ const HEADER_DASHES = "-".repeat(20);
 const SEPARATOR_DASHES = "-".repeat(80);
 const HEADER_STARS = "*".repeat(20);
 
-// Both vertical-style line starters share the Shift-JIS lead byte 0x81.
-const SJIS_LEAD_BYTE = 0x81;
-// 　 (fullwidth space, U+3000) → 0x81 0x40
-const SJIS_FULLWIDTH_SPACE = 0x40;
-// 「 (left corner bracket, U+300C) → 0x81 0x75
-const SJIS_LEFT_CORNER_BRACKET = 0x75;
+const sjisDecoder = new TextDecoder("shift_jis");
 
 /**
- * Returns true when every non-empty line in the buffer starts with the
- * Shift-JIS encoding of either 　 (0x81 0x40) or 「 (0x81 0x75).
+ * Returns true when every non-empty line in the Shift-JIS buffer starts with
+ * either a fullwidth space (U+3000) or a left corner bracket (「, U+300C).
  */
 function isVertical(buf) {
-  let pos = 0;
+  const text = sjisDecoder.decode(buf);
+  const lines = text.split("\n");
   let hasContent = false;
 
-  while (pos < buf.length) {
-    let end = buf.indexOf(0x0a, pos);
-    if (end === -1) end = buf.length;
+  for (const raw of lines) {
+    const line = raw.endsWith("\r") ? raw.slice(0, -1) : raw;
+    if (line.length === 0) continue;
 
-    const lineEnd = end > pos && buf[end - 1] === 0x0d ? end - 1 : end;
-    const lineLen = lineEnd - pos;
-
-    if (lineLen > 0) {
-      hasContent = true;
-      if (
-        lineLen < 2 ||
-        buf[pos] !== SJIS_LEAD_BYTE ||
-        (buf[pos + 1] !== SJIS_FULLWIDTH_SPACE &&
-          buf[pos + 1] !== SJIS_LEFT_CORNER_BRACKET)
-      ) {
-        return false;
-      }
-    }
-
-    pos = end + 1;
+    hasContent = true;
+    const first = line[0];
+    if (first !== "\u3000" && first !== "\u300C") return false;
   }
 
   return hasContent;
@@ -122,13 +109,11 @@ async function parseTranslationEntries(filePath) {
   while (i < lines.length) {
     const line = lines[i].trimEnd();
 
-    // Skip 80-dash separators between assistant replies.
     if (line === SEPARATOR_DASHES) {
       i++;
       continue;
     }
 
-    // Detect a three-line entry header: 20 dashes, fileName, 20 asterisks.
     if (
       line === HEADER_DASHES &&
       i + 2 < lines.length &&
@@ -138,7 +123,6 @@ async function parseTranslationEntries(filePath) {
       const headerLine = i + 2;
       i += 3;
 
-      // Collect content lines until the next header, separator, or EOF.
       const contentLines = [];
       while (i < lines.length) {
         const current = lines[i].trimEnd();
@@ -162,9 +146,10 @@ async function main() {
     .filter((f) => f.endsWith(".txt"))
     .sort();
 
-  // Step 2: Ensure both output directories exist.
+  // Step 2: Ensure all output directories exist.
   await mkdir(OUTPUT_DIR, { recursive: true });
   await mkdir(OUTPUT_VERTICAL_DIR, { recursive: true });
+  await mkdir(OUTPUT_INSPECTION_DIR, { recursive: true });
 
   // Step 3: Build a set of vertical-style original filenames by reading each
   // original as raw Shift-JIS bytes and checking the line-starter pattern.
@@ -184,6 +169,7 @@ async function main() {
   let duplicateCount = 0;
   let exportedCount = 0;
   let exportedVerticalCount = 0;
+  let exportedInspectionCount = 0;
 
   for (const file of translationFileNames) {
     const filePath = path.join(INPUT_DIR, file);
@@ -206,10 +192,12 @@ async function main() {
         headerLine: entry.headerLine,
       });
 
-      // Route to the vertical output directory if the original is vertical.
-      const outDir = verticalFiles.has(entry.fileName)
-        ? OUTPUT_VERTICAL_DIR
-        : OUTPUT_DIR;
+      // Route to the appropriate output directory.
+      const outDir = INSPECTION_RE.test(entry.fileName)
+        ? OUTPUT_INSPECTION_DIR
+        : verticalFiles.has(entry.fileName)
+          ? OUTPUT_VERTICAL_DIR
+          : OUTPUT_DIR;
 
       const outputPath = path.join(outDir, entry.fileName);
       await writeFile(
@@ -217,7 +205,9 @@ async function main() {
         encodeShiftJIS(entry.contentLines.join("\n"))
       );
 
-      if (outDir === OUTPUT_VERTICAL_DIR) {
+      if (outDir === OUTPUT_INSPECTION_DIR) {
+        exportedInspectionCount++;
+      } else if (outDir === OUTPUT_VERTICAL_DIR) {
         exportedVerticalCount++;
       } else {
         exportedCount++;
@@ -231,6 +221,9 @@ async function main() {
   console.log(`  Exported: ${exportedCount} files to ${OUTPUT_DIR}/`);
   console.log(
     `  Exported: ${exportedVerticalCount} files to ${OUTPUT_VERTICAL_DIR}/`
+  );
+  console.log(
+    `  Exported: ${exportedInspectionCount} files to ${OUTPUT_INSPECTION_DIR}/`
   );
   if (duplicateCount > 0) {
     console.log(`  Duplicates skipped: ${duplicateCount}`);

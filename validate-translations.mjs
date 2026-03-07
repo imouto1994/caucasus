@@ -4,8 +4,9 @@
  * Compares each translated script against its original counterpart in
  * `original/` to ensure structural consistency. Handles two directories:
  *
- *   - `translated/`          — normal (horizontal) scripts
- *   - `translated-vertical/` — vertical-style scripts whose lines have
+ *   - `translated/`            — normal (horizontal) scripts
+ *   - `translated-inspection/` — inspection scripts
+ *   - `translated-vertical/`   — vertical-style scripts whose lines have
  *                               leading whitespace that must be trimmed
  *                               before classification
  *
@@ -29,6 +30,7 @@ const sjisDecoder = new TextDecoder("shift_jis");
 
 const ORIGINAL_DIR = "original";
 const TRANSLATED_DIR = "translated";
+const TRANSLATED_INSPECTION_DIR = "translated-inspection";
 const TRANSLATED_VERTICAL_DIR = "translated-vertical";
 
 const isSpeechSource = (line) => line.startsWith("＃");
@@ -183,7 +185,14 @@ async function main() {
   totalSkipped += normal.skipped;
   totalMismatched += normal.mismatched;
 
-  // Step 2: Validate vertical-style scripts — trim leading whitespace
+  // Step 2: Validate inspection scripts — no trimming needed.
+  console.log(`\n=== ${TRANSLATED_INSPECTION_DIR}/ ===`);
+  const inspection = await validateDirectory(TRANSLATED_INSPECTION_DIR, false);
+  totalChecked += inspection.checked;
+  totalSkipped += inspection.skipped;
+  totalMismatched += inspection.mismatched;
+
+  // Step 3: Validate vertical-style scripts — trim leading whitespace
   // before classifying lines, since vertical scripts indent every line.
   console.log(`\n=== ${TRANSLATED_VERTICAL_DIR}/ ===`);
   const vertical = await validateDirectory(TRANSLATED_VERTICAL_DIR, true);

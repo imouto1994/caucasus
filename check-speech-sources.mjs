@@ -7,7 +7,8 @@
  * Speech source lines use the fullwidth hash ＃ in both original and
  * translated files. The name is everything after the ＃ prefix.
  *
- * Both `translated/` and `translated-vertical/` are scanned. All files
+ * All of `translated/`, `translated-inspection/`, and `translated-vertical/`
+ * are scanned. All files
  * (original and translated) are Shift-JIS encoded and decoded to Unicode.
  *
  * Usage:
@@ -20,7 +21,7 @@ import path from "path";
 const sjisDecoder = new TextDecoder("shift_jis");
 
 const ORIGINAL_DIR = "original";
-const TRANSLATED_DIRS = ["translated", "translated-vertical"];
+const TRANSLATED_DIRS = ["translated", "translated-inspection", "translated-vertical"];
 
 /**
  * Extract unique speech source names from lines of text.
