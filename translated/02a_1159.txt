@@ -11,7 +11,7 @@ I swapped places with Akane-san, who had opened the door, and stepped inside.
 The sound of my footsteps echoed as I climbed the ladder.
 It was pitch black; I couldn't see a thing.
 When I reached the top, I realized there was another door right there.
-A tiny window in the door allowed a faint sliver of light?perhaps from outside?to spill through.
+A tiny window in the door allowed a faint sliver of light-perhaps from outside-to spill through.
 I peered inside.
 ＃主人公
 Ai-san!?
@@ -26,7 +26,7 @@ The doorknob and an iron pipe running along the wall had been lashed together wi
 No... you've got to be kidding me...
 I tried twisting and pulling the knob, but the door wouldn't budge.
 However, it didn't seem to be locked.
-We were out of time?what should I do?
+We were out of time-what should I do?
 [Try using a tool]
 [Have her go fetch a tool]
 [Kick the door down]
@@ -35,7 +35,7 @@ Akane-san, can you go find something we can use to get this open?
 ＃あかね
 Y-yes! Right away!
 Akane-san scrambled back down the ladder.
-Will she make it in time??
+Will she make it in time-?
 ＃主人公
 Dammit...!
 There was no time for hesitation.
@@ -55,19 +55,19 @@ They were rusted, but they should be able to cut through.
 ＃主人公
 Gngh...
 I squeezed with every ounce of strength in my body.
-?It snapped.
+-It snapped.
 At the same time, the hinge on the pliers itself gave way and broke.
 I tossed the broken tool aside and unwound the remaining wire from the knob.
 The door swung open.
 It’s thin, but maybe I can break the door with this fire poker.
 ＃主人公
-Take this?!!
+Take this-!!
 I slammed the fire poker against the doorknob.
 ＃主人公
 Dammit, come on!!
 After striking it repeatedly, the wire slowly but surely began to loosen.
 ＃主人公
-Just a little more?!
+Just a little more-!
 The wire finally snapped and went flying.
 ＃主人公
 Yes!
@@ -86,7 +86,7 @@ I swapped places with Akane-san and traced the rope to its source.
 It was a machine that appeared to be the clock mechanism.
 The end of the rope was caught firmly in one of the rotating gears.
 Despite the obstruction, the gears were still grinding away.
-If this keeps up, Ai-san is going to?!
+If this keeps up, Ai-san is going to-!
 [Use a tool]
 [Remove the rope by hand]
 I grabbed the rope and tried to pull it free.
@@ -97,9 +97,9 @@ Worse, I could feel wire braided into the rope.
 It dug into the flesh of my fingers.
 I could feel the mechanism trying to winch me in along with the rope.
 ＃主人公
-Shit?!!
+Shit-!!
 Is there... anything I have on me that I can use?
-It's no use... I can't stop this rope with anything I have?!
+It's no use... I can't stop this rope with anything I have-!
 Time was heartlessly ticking away.
 I jammed the fire poker between the gears.
 No matter how powerful the mechanism, it couldn't handle such a large foreign object being shoved into its works.
@@ -112,7 +112,7 @@ Akane-san, how is she!?
 ＃あかね
 Ojousama! Please, wake up!
 Having removed the rope from Ai-san’s neck, Akane-san began performing artificial respiration.
-Is she going to be okay?!?
+Is she going to be okay-!?
 ＃藍
 ...*Cough, cough!*
 ...She was alive.

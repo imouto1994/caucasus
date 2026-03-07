@@ -4,11 +4,11 @@ Tsujimura-san isn't here, so this will do.
 ＃主人公
 What are you going to do now?
 ＃想子
-...Let's verify the facts regarding Shion-san's case. Was it a murder... or was it Shion-san's suicide?
+...Let's verify the facts regarding Shion-san's case. Was it a murder... or was it Shion-san's suicide-
 ＃主人公
 Yeah...
 ＃想子
-Well then, first?who do you think is the culprit?
+Well then, first-who do you think is the culprit?
 ＃主人公
 Souko-san... where were you after 2:30?
 ＃想子
@@ -24,7 +24,7 @@ You're right...
 ＃想子
 That's right. But because of that, there's a possibility you could be seen as the culprit.
 ＃主人公
-I know. But?when I came out, Maya-san was here in this office. She was bringing Shion-san's medicine.
+I know. But-when I came out, Maya-san was here in this office. She was bringing Shion-san's medicine.
 ＃想子
 ...Meaning the possibility that the medicine was poison.
 ＃主人公
@@ -32,7 +32,7 @@ Yes. It wouldn't be unreasonable.
 ＃想子
 Right... I think that's the most likely scenario.
 ＃主人公
-But... why? Is it because she's an adoptee after all?
+But... why? Is it because she's an adoptee after all-
 ＃想子
 More than that, isn't there the reason you went to see Shion-san?
 ＃主人公
@@ -40,7 +40,7 @@ More than that, isn't there the reason you went to see Shion-san?
 ＃想子
 In my estimation, Dr. Mikanagi was Maya-san's lover. He seemed to visit her room often, so it's not surprising.
 ＃主人公
-And so, when Dr. Mikanagi was killed?
+And so, when Dr. Mikanagi was killed-
 ＃想子
 It's not just that. Ai-san and Benio-san were killed as well.
 ＃想子
@@ -114,7 +114,7 @@ You shouldn't suspect someone when there's no reason.
 ＃主人公
 ...You're right.
 ＃主人公
-Maybe Rokuyou-san?
+Maybe Rokuyou-san-
 ＃想子
 That's not it.
 She denied it flatly.

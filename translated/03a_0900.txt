@@ -6,7 +6,7 @@ Hmm...?
 I heard a loud noise.
 Was it coming from the clinic...?
 ＃主人公
-Is something wrong, Dr. Mikanagi??
+Is something wrong, Dr. Mikanagi-?
 I opened the door and gasped.
 ＃主人公
 Sh-Shion-san!?
@@ -40,7 +40,7 @@ Dr. Mikanagi burst into the clinic.
 ＃主人公
 It seems Shion-san swallowed poison or something!
 ＃御巫
-What?!?
+What-!?
 Dr. Mikanagi immediately pulled Shion-san up.
 ＃御巫
 Shion-san, what did you take!?
@@ -133,7 +133,7 @@ Don't tell them Shion was targeted.
 ...Let's keep the poisoning a secret, and just tell them what happened.
 ＃御巫
 Yes, that’s probably for the best.
-That way, only Dr. Mikanagi, Shion-san, myself, and?the culprit?would know about the poison.
+That way, only Dr. Mikanagi, Shion-san, myself, and-the culprit-would know about the poison.
 That could be a major key in tracking down the culprit later on.
 ＃主人公
 ...Let's not tell everyone.

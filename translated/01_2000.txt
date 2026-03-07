@@ -17,7 +17,7 @@ It looked like everyone we had met in the house so far was already there.
 ＃あかね
 Would you like something to drink?
 ＃主人公
-Ah, I'll have?
+Ah, I'll have-
 ＃想子
 A cola, please.
 Souko-san cut me off and ordered exactly what I expected.
@@ -65,7 +65,7 @@ Rokuyou-san, who was sitting across from us, joined the conversation.
 Really? Is the taste different over there?
 Souko-san was immediately intrigued.
 ＃六曜
-It's the same here as abroad?many companies make cola. But the most popular brands taste the same everywhere.
+It's the same here as abroad-many companies make cola. But the most popular brands taste the same everywhere.
 ＃想子
 Heeh... I see, I see...
 Souko-san was nodding with genuine fascination.
@@ -140,7 +140,7 @@ She looked so much like a refined Japanese doll that I'd assumed she was always 
 We can't just talk all night, let's eat.
 ＃主人公
 Y-yeah, you're right.
-The plate in front of me was filled with saut?ed chicken.
+The plate in front of me was filled with sauteed chicken.
 It gave off a subtle, mouth-watering aroma of garlic.
 ＃主人公
 Wow, this is delicious.

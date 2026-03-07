@@ -39,11 +39,23 @@ const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated";
 const OUTPUT_VERTICAL_DIR = "translated-vertical";
 
+// Unicode characters that have no Shift-JIS representation → safe replacements.
+const CHAR_REPLACEMENTS = new Map([
+  ["\u2014", "\u2015"], // — (em dash) → ― (horizontal bar)
+  ["\u00B7", "\u30FB"], // · (middle dot) → ・ (katakana middle dot)
+  ["\u00E9", "e"],      // é (e-acute) → e
+]);
+
 /**
- * Encode a Unicode string to a Shift-JIS Buffer.
+ * Encode a Unicode string to a Shift-JIS Buffer, replacing characters that
+ * cannot be represented in Shift-JIS first.
  */
 function encodeShiftJIS(str) {
-  const codeArray = Encoding.convert(Encoding.stringToCode(str), {
+  let safe = str;
+  for (const [from, to] of CHAR_REPLACEMENTS) {
+    safe = safe.replaceAll(from, to);
+  }
+  const codeArray = Encoding.convert(Encoding.stringToCode(safe), {
     to: "SJIS",
     from: "UNICODE",
   });
