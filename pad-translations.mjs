@@ -31,6 +31,7 @@ import Encoding from "encoding-japanese";
 const INPUT_DIR = "translated";
 const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated-padding";
+const OPTIONS_FILE = "options.txt";
 // The game's 1st display row fits this many characters.
 const LINE_WIDTH = 64;
 // Warn when a padded line exceeds this total length.
@@ -210,6 +211,8 @@ async function main() {
   let paddedLines = 0;
   let overLimitLines = 0;
   let optionLineCount = 0;
+  // Collect option entries for export to a text file.
+  const optionEntries = [];
 
   for (const fileName of fileNames) {
     // Step 3: Read the translated file (Shift-JIS).
@@ -230,14 +233,16 @@ async function main() {
       // No original available — skip option detection for this file.
     }
 
-    // Step 5: Log any detected option groups so the user can verify.
+    // Step 5: Collect detected option lines for export.
     if (optionIndices.size > 0) {
       const sorted = [...optionIndices].sort((a, b) => a - b);
-      console.log(fileName);
+      const group = { fileName, options: [] };
       for (const idx of sorted) {
-        console.log(`${idx + 1} | ${originalLines[idx]}`);
+        const origText = originalLines[idx] || "";
+        const transText = idx < lines.length ? lines[idx] : "";
+        group.options.push({ line: idx + 1, origText, transText });
       }
-      console.log();
+      optionEntries.push(group);
       optionLineCount += optionIndices.size;
     }
 
@@ -290,7 +295,21 @@ async function main() {
     await writeFile(outputPath, encodeShiftJIS(result.join("\n")));
   }
 
-  // Step 8: Print summary.
+  // Step 8: Export detected options to a text file.
+  if (optionEntries.length > 0) {
+    const optionLines = [];
+    for (const group of optionEntries) {
+      optionLines.push(group.fileName);
+      for (const opt of group.options) {
+        optionLines.push(`${opt.line} | ${opt.origText} | ${opt.transText}`);
+      }
+      optionLines.push("");
+    }
+    await writeFile(OPTIONS_FILE, optionLines.join("\n"), "utf-8");
+    console.log(`Options exported to ${OPTIONS_FILE}`);
+  }
+
+  // Step 9: Print summary.
   console.log("--- Summary ---");
   console.log(`  Files processed:     ${totalFiles}`);
   console.log(`  Files with changes:  ${modifiedFiles}`);

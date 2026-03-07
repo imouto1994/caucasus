@@ -1,0 +1,240 @@
+01_1800.txt
+229 | 藍に頼む | Ask Ai
+230 | 紅緒に頼む | Ask Benio
+
+01_1830a.txt
+29 | 女の人を助ける | [Help the woman]
+30 | 皿を押さえる | [Catch the plates]
+140 | 特にない | [Nothing in particular]
+141 | 葉蘭だけは食べられない | [I can't stand baran]
+
+01_1830v.txt
+42 | 女の人を助ける | [Help the woman]
+43 | 紅緒さんをかばう | [Protect Benio-san]
+150 | 特にない | [Nothing in particular]
+151 | 葉蘭だけは食べられない | [I can't stand baran]
+
+01_1910.txt
+150 | 不満じゃない | [I'm not unhappy]
+151 | 不満です | [I am unhappy]
+152 | 落ち着いてください | [Please calm down]
+
+01_2000.txt
+167 | なるみさんの言う通り | [Agree with Narumi-san]
+168 | 御巫先生の言う通り | [Agree with Mikanagi-sensei]
+
+01_2610.txt
+15 | 一階のどこか | [Somewhere on the first floor]
+16 | 二階のどこか | [Somewhere on the second floor]
+17 | 外から | [From outside]
+
+02_0930z.txt
+9 | まだ調べる | [Keep investigating]
+10 | もういいだろう | [I've seen enough]
+
+02_1045.txt
+43 | 犯人を指摘する | [Point out the killer]
+44 | 犯人を指摘しない | [Don't point out the killer]
+
+02_1055i.txt
+21 | 犯人指摘を続ける | [Continue naming the killer]
+22 | 指摘するのをやめる | [Stop naming the killer]
+38 | ポケットに入っていた鍵 | [The key in the pocket]
+39 | 凶器の手斧 | [The hand axe used as a weapon]
+40 | 辻村の部屋に繋がっている扉 | [The door connecting to Tsujimura's room]
+41 | 穴の開いた枕 | [The torn pillow]
+42 | 火の消えた暖炉 | [The extinguished fireplace]
+43 | 凍り付いた窓 | [The frozen window]
+44 | 六曜の遺体 | [Rokuyou's corpse]
+45 | スノードロップの花 | [The snowdrop flower]
+111 | 凶器の手斧 | [The hand axe used as a weapon]
+112 | スノードロップの花 | [The snowdrop flower]
+113 | ポケットに入っていた鍵 | [The key in the pocket]
+114 | 辻村の部屋に繋がっている扉 | [The door connecting to Tsujimura's room]
+115 | 穴の開いた枕 | [The torn pillow]
+116 | 火の消えた暖炉 | [The extinguished fireplace]
+117 | 凍り付いた窓 | [The frozen window]
+118 | 六曜の遺体 | [Rokuyou's corpse]
+
+02_1115.txt
+33 | 館の中を回る | [Patrol the mansion]
+34 | 部屋にいる | [Stay in the room]
+
+02a_1159.txt
+30 | 何か道具を使ってみる | [Try using a tool]
+31 | 何か道具を取ってきて貰う | [Have her go fetch a tool]
+32 | 蹴破る | [Kick the door down]
+90 | 道具を使う | [Use a tool]
+91 | 手でロープを外す | [Remove the rope by hand]
+
+02a_1210z.txt
+9 | まだ調べる | [Keep investigating]
+10 | もういいだろう | [I've seen enough]
+
+02a_1500.txt
+82 | グー | [Rock]
+83 | チョキ | [Paper]
+84 | パー | [Scissors]
+
+02a_1630.txt
+85 | 抱く | Embrace her
+86 | 抱かない | Don't embrace her
+
+02a_1640h.txt
+187 | そのまま出す | Cum inside
+188 | 顔にかける | Cum on her face
+
+02a_1725.txt
+44 | 藍さんの部屋へ連れて行く | Take her to her own room.
+45 | この部屋に残していく | Leave her in this room.
+
+02a_2000h.txt
+225 | 口の中に出す | Cum in her mouth
+226 | 顔にかける | Cum on her face
+366 | 中に出す | Cum inside
+367 | 外に出す | Cum outside
+
+02a_2200.txt
+19 | 誰かに集中して警戒に当たる | Focus on being on guard with someone.
+20 | 館内を万遍なく見張る | Watch over the manor as a whole.
+
+02b1_1245z.txt
+9 | まだ調べる | Keep investigating.
+10 | もういいだろう | That's probably enough.
+
+02b2_1245.txt
+54 | 追いかける | Follow her.
+55 | 広間に戻る | Return to the hall.
+
+02b2_1300z.txt
+9 | まだ調べる | Keep investigating.
+10 | もういいだろう | That's probably enough.
+
+02b_1210z.txt
+9 | まだ調べる | Keep investigating.
+10 | もういいだろう | That's probably enough.
+
+02c_1900z.txt
+8 | まだ調べる | Keep investigating.
+9 | もういいだろう | That's probably enough.
+
+03a1_2800.txt
+380 | 七月摩夜 | Nanatsuki Maya
+381 | 七月詩音 | Nanatsuki Shion
+
+03a_0750F05.txt
+3 | 自室で過ごす | Spend time in my room
+4 | 館内を見回る | Look around the mansion
+
+03a_0830h.txt
+174 | 口の中に出す | I'll come in your mouth.
+175 | 顔にかける | I'll come on your face.
+346 | 中に出す | I'll come inside.
+347 | 外に出す | I'll come outside.
+
+03a_0900.txt
+127 | 詩音が狙われた事を伝える | Tell them Shion was targeted.
+128 | 詩音が狙われた事は伝えない | Don't tell them Shion was targeted.
+
+03a_1000h.txt
+70 | そのまま口の中に出す | I'll come in your mouth.
+71 | 口から外に出す | I'll come outside.
+313 | 中に出す | Come inside.
+314 | 外に出す | Come outside.
+
+03a_1130h.txt
+141 | 顔にかける | On your face.
+142 | 胸にかける | On your breasts.
+
+03a_1300z.txt
+3 | まだ探す | Keep looking
+4 | もういい | That's enough
+47 | 泥棒 | Thief
+48 | 錠前師 | Locksmith
+
+03a_1630.txt
+3 | 部屋で休息を取る | Rest in my room
+4 | 館内を巡回する | Patrol the mansion
+
+03a_1740h.txt
+269 | 口の中に出す | I'll come in your mouth.
+270 | 顔にかける | I'll come on your face.
+437 | 中に出す | I'll come inside.
+438 | 外に出す | I'll come outside.
+
+03a_2110h.txt
+287 | 中に出す | I'll come inside.
+288 | 外に出す | I'll come outside.
+
+03a_2545z.txt
+2 | まだ調べる | Keep searching
+3 | もういい | That's enough
+
+03b1_1500z.txt
+7 | まだ調べる | Keep searching
+8 | もういいだろう | It should be enough
+
+03b1_2440z.txt
+2 | まだ調べる | Keep searching
+3 | もういい | That's enough
+
+03b_0720z.txt
+7 | まだ調べる | Keep searching
+8 | もういいだろう | It should be enough
+
+03b_1030h.txt
+242 | 中に出す | I'll come inside.
+243 | 外に出す | I'll come outside.
+
+03b_1745h.txt
+279 | 中に出す | I'll come inside.
+280 | 外に出す | I'll come outside.
+
+03b_2440z.txt
+2 | まだ調べる | Keep searching
+3 | もういい | That's enough
+
+03b_2600h.txt
+295 | 中に出す | I'll come inside.
+296 | 外に出す | I'll come outside.
+
+03b_2700z.txt
+2 | まだ調べる | Keep searching
+3 | もういい | That's enough
+
+03c_1130h.txt
+254 | 中に出す | I'll come inside.
+255 | 外に出す | I'll come outside.
+
+03c_2700z.txt
+2 | もう少し調べる | Search more
+3 | もういい | That's enough
+
+03c_2710z.txt
+2 | もう少し調べる | Search more
+3 | もういい | That's enough
+
+F01_08.txt
+6 | 手伝う | Help
+7 | 手伝わない | Don't help
+
+F01_09.txt
+14 | 手伝う | Help
+15 | 手伝わない | Don't help
+
+F03_20s.txt
+24 | 道具を使う | Use a tool
+25 | 今は止めておく | Leave it for now
+
+F03_map.txt
+24 | 追いかける | Follow her
+25 | 追いかけない | Don't follow her
+
+F04_15.txt
+17 | 中に入る | Go inside
+18 | 中に入らない | Don't go inside
+
+F06_16.txt
+24 | そのままにしておくべき | Leave it as it is
+25 | 問題ない | It's fine
+26 | 自分がやる | I'll do it
