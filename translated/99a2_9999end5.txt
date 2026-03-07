@@ -3,13 +3,13 @@ It was autumn, and I was walking down a moonlit path when a familiar person appe
 ＃主人公
 Eh...?
 ＃？？？
-……Whoops.
+...Whoops.
 ＃主人公
 Narumi-san... right?
 ＃なるみ
-……M-might you have the wrong person?
+...M-might you have the wrong person?
 ＃主人公
-……No, you're definitely Narumi-san. What are you doing?
+...No, you're definitely Narumi-san. What are you doing?
 ＃なるみ
 I... I'm working.
 ＃主人公
@@ -18,7 +18,7 @@ Working... you mean as a thief?
 Shhh! You're being too loud!
 Narumi-san pulled on my sleeve and led me to the edge of the path.
 ＃なるみ
-……I wouldn't be a thief dressed like this.
+...I wouldn't be a thief dressed like this.
 ＃主人公
 But still... you're likely infiltrating some inn or something, aren't you? Just like at the Nanatsuki mansion...
 ＃なるみ
@@ -47,7 +47,7 @@ I want to live a stable life.
 ＃なるみ
 Living life on a tightrope can be fun too, you know?
 ＃主人公
-……Well, I suppose a little bit of that might--
+...Well, I suppose a little bit of that might--
 As soon as I muttered that, she grabbed my arm firmly.
 ＃なるみ
 Alright, it's decided! We're heading to Tokyo Station then. It's just a short ride to Nagoya on the Shinkansen.

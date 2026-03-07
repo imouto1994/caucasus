@@ -6,10 +6,10 @@ The door opens.
 Do you need something?
 A blunt Takamine-san appears, though he doesn't seem particularly grumpy.
 ＃主人公
-I brought food. And…… can we talk for a bit?
+I brought food. And... can we talk for a bit?
 There's something I want to confirm.
 ＃高嶺
-……I don't mind.
+...I don't mind.
 Takamine-san opens the door wide.
 ＃主人公
 Excuse me.
@@ -23,23 +23,23 @@ I believe I told you I didn't need any food.
 ＃主人公
 But you won't last long if you don't eat, you know? I've performed a poison test, so it's fine.
 ＃高嶺
-……Hmph.
+...Hmph.
 Takamine-san reluctantly accepts the plate of fried rice.
 He places the plate on the shelf and knocks over the photo frame.
 ＃高嶺
 --So, what did you want to talk about?
 ＃主人公
-Ah, um…… I wanted to ask about Mr. Kousei's will……
+Ah, um... I wanted to ask about Mr. Kousei's will...
 Takamine-san's gaze sharpens.
 ＃高嶺
-……Do you think I can tell that to an outsider?
+...Do you think I can tell that to an outsider?
 ＃主人公
-Y-You're right, of course……
-I guess it's impossible after all……
+Y-You're right, of course...
+I guess it's impossible after all...
 ＃高嶺
-……However, given the situation.
+...However, given the situation.
 ＃主人公
-Eh……?
+Eh...?
 ＃高嶺
 You're looking for the culprit, aren't you? It might provide some sort of clue.
 It seems Takamine-san is willing to cooperate.
@@ -48,15 +48,15 @@ Th-Thank you very much.
 ＃高嶺
 Keep in mind, it's only what I can remember. Mainly the method of distributing the inheritance.
 ＃主人公
-That's more than enough. ……I heard that even if Rokuyou-san married Shion-san, there would be no benefit.
+That's more than enough. ...I heard that even if Rokuyou-san married Shion-san, there would be no benefit.
 ＃高嶺
-Ah…… that matter.
+Ah... that matter.
 ＃主人公
 Is that because Shion-san is adopted?
 ＃高嶺
 The inheritance was to be divided equally among Maya, Ai, and Benio?one-third each.
 ＃主人公
-If that's the case…… then Shion-san really wouldn't receive a single cent.
+If that's the case... then Shion-san really wouldn't receive a single cent.
 ＃高嶺
 If she had married Rokuyou-kun, she would have gained the Rokuyou assets. But that is no longer possible.
 ＃主人公
@@ -64,9 +64,9 @@ Was this marriage proposed by Rokuyou-san?
 ＃高嶺
 That's what I heard. I don't know what his intentions were, but Maya-san was said to be delighted.
 ＃主人公
-Was it just getting rid of a nuisance after all……?
+Was it just getting rid of a nuisance after all...?
 ＃高嶺
-……Perhaps.
+...Perhaps.
 Takamine-san lets out a long breath.
 ＃高嶺
 That's about all I can tell you.

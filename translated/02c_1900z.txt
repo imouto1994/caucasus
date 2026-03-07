@@ -4,7 +4,7 @@ I asked Souko-san.
 ＃想子
 If you say so, then I think it's fine.
 ＃主人公
-Being told that makes me feel anxious, though……
+Being told that makes me feel anxious, though...
 Keep investigating.
 That's probably enough.
 Let's try investigating a bit more.
@@ -13,64 +13,64 @@ I think I've investigated everything I can.
 ＃主人公
 That should be enough.
 ＃御巫
-Well then…… let's pull her out.
+Well then... let's pull her out.
 We drained the water from the tub, and Dr. Mikanagi and I lifted Ai-san's body out together.
 We laid Ai-san's body down.
 ＃想子
-……Could you investigate the cause of death and such?
+...Could you investigate the cause of death and such?
 ＃御巫
-Yes…… however, I might not be able to determine anything very clearly.
+Yes... however, I might not be able to determine anything very clearly.
 Dr. Mikanagi began his examination of the body.
 ＃御巫
-If the head were still here, it would be clearer, but……
+If the head were still here, it would be clearer, but...
 ＃想子
 Can you at least determine the cause of death and the time of death?
 ＃御巫
-……I don't think it's been even an hour since she died. As for the cause of death…… I wonder which it was……
+...I don't think it's been even an hour since she died. As for the cause of death... I wonder which it was...
 ＃主人公
-Which…… do you mean?
+Which... do you mean?
 ＃御巫
 I can't tell which came first: the electrocution or the decapitation.
 Dr. Mikanagi shook his head.
 ＃御巫
 Both likely occurred at the same time. If decapitation came first, I can't find any meaning in what was done after.
 ＃想子
-……True, there would be no point in electrocuting a corpse.
+...True, there would be no point in electrocuting a corpse.
 ＃主人公
-Then…… as I thought……
+Then... as I thought...
 ＃御巫
 It's safer to assume she was decapitated after being killed by electrocution, or at least after falling unconscious.
 ＃想子
 But doesn't that raise a question about the timing? The second blackout was just after six...
 ＃主人公
-……Only a little over ten minutes had passed since then.
+...Only a little over ten minutes had passed since then.
 ＃御巫
-That would be enough time to sever a neck, but…… the number of people capable of doing it would be limited.
+That would be enough time to sever a neck, but... the number of people capable of doing it would be limited.
 ＃想子
 Let's try questioning everyone about that later.
 ＃主人公
-Um…… Souko-san.
+Um... Souko-san.
 ＃想子
 What is it?
 ＃主人公
-Could it be…… that I was the one who killed Ai-san……
+Could it be... that I was the one who killed Ai-san...
 I was the one who fixed the generator.
 If Ai-san died because the power was turned on--
 ＃想子
-……That's not true.
+...That's not true.
 Souko-san placed her hand on my head.
 ＃主人公
-But…… if I hadn't turned the generator back on--
+But... if I hadn't turned the generator back on--
 ＃想子
 No. It was the culprit who set things up to turn out that way.
 Souko-san said this while looking me straight in the eyes.
 ＃御巫
-……Someone had to fix the generator. Besides…… Ai-san would likely have been killed even if the blackout continued.
+...Someone had to fix the generator. Besides... Ai-san would likely have been killed even if the blackout continued.
 ＃想子
-……I suppose so. I don't know why they would use such a roundabout method, though……
+...I suppose so. I don't know why they would use such a roundabout method, though...
 Souko-san pulled on my hand.
 ＃想子
 Let's head back. You can ask the culprit about their intentions after we catch them.
 ＃主人公
-……Yes.
+...Yes.
 Filled with an indescribable sense of gloom, I let Souko-san lead me by the hand as we left Ai-san's room.
