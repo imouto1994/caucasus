@@ -1,0 +1,251 @@
+We gathered everyone in the Great Hall.
+＃紅緒
+What on earth do you intend to do?
+Benio-san asked, sounding irritated.
+＃主人公
+I’m going to reveal the person who murdered Rokuyou-san.
+＃御巫
+Can you really do that...?
+＃主人公
+We can't just leave the killer alone when they're right here    among us, can we?
+＃辻村
+That may be true, but...
+＃高嶺
+How many more days do you think we're stuck here? I refuse to   tolerate staying next to a murderer all that time.
+＃藍
+But... needlessly inciting suspicion is...
+The room suddenly grew noisy with chatter.
+＃想子
+Quite an uproar... if you name the killer now, there's no       telling what they'll do. Are you still going through with it?
+Souko-san checked with me.
+[Continue naming the killer]
+[Stop naming the killer]
+Even if we figured out who the killer was now, the earliest we  could hand them over to the police would be in two days.
+Even if we confined them somewhere, there would be various      issues like suicide or other problems.
+The most terrifying thing was the possibility of more murders.
+Not just the killer acting in desperation, but the possibility  that someone might try to take revenge on the killer.
+＃主人公
+...Maybe it’s best to stop for now.
+＃想子
+...True.
+We decided to return to our rooms.
+＃主人公
+...I’ll do it.
+＃想子
+...Alright. Then first... could you show us the evidence you    think is most crucial to identifying the killer?
+＃主人公
+Understood.
+[The key in the pocket]
+[The hand axe used as a weapon]
+[The door connecting to Tsujimura's room]
+[The torn pillow]
+[The extinguished fireplace]
+[The frozen window]
+[Rokuyou's corpse]
+[The snowdrop flower]
+...And at that moment, I realized I didn't have any evidence I  could actually present.
+＃想子
+I see... then who exactly is the killer that evidence points to?
+＃想子
+I'm the killer? Why...?
+＃主人公
+Because... this evidence tells the whole story.
+＃想子
+Sigh... it doesn't tell a story at all.
+＃主人公
+Wait... am I wrong?
+＃想子
+You're wrong. Get it together, honestly...
+＃摩夜
+I am the killer...? And why is that...?
+＃主人公
+Because... this evidence tells the whole story.
+＃摩夜
+...This is absurd.
+＃主人公
+Wait... am I wrong?
+＃摩夜
+Of course you are. Honestly... I've been forced to endure such  needless embarrassment.
+＃藍
+I'm the killer... why?
+＃主人公
+Because... this evidence tells the whole story.
+＃藍
+...How could that possibly be evidence...?
+＃主人公
+Wait... am I wrong?
+＃藍
+You're wrong. ...How rude.
+＃紅緒
+So I'm the killer... interesting. What made you think that?
+＃主人公
+Because... this evidence tells the whole story.
+＃紅緒
+This is pointless. How does that serve as evidence?
+＃主人公
+Wait... am I wrong?
+＃紅緒
+Of course you are. Don't be ridiculous.
+＃詩音
+Me...?
+＃主人公
+Because... this evidence tells the whole story.
+＃詩音
+The key...?
+＃主人公
+Tsujimura-san said the chapel key was missing. If this key was  to the chapel, rather than Rokuyou-san’s room...
+＃紅緒
+If that were the case... why did Rokuyou have it?
+＃主人公
+Just speculation, but... I imagine Rokuyou-san took the key to  see Shion-san in the chapel.
+＃主人公
+The casket lid is heavy; Shion-san couldn't open it alone. If   Rokuyou-san opened it, it wouldn't be hard to close.
+＃詩音
+...
+＃主人公
+I imagine she dragged Rokuyou-san’s body all the way to his     room. The dirt on the back of the corpse tells that story.
+＃藍
+But!! That's nothing more than a guess, isn't it!?
+＃主人公
+Yes... which is why I need one more piece of decisive evidence.
+[The hand axe used as a weapon]
+[The snowdrop flower]
+[The key in the pocket]
+[The door connecting to Tsujimura's room]
+[The torn pillow]
+[The extinguished fireplace]
+[The frozen window]
+[Rokuyou's corpse]
+...And at that moment, I realized I didn't have any evidence I  could actually present.
+＃主人公
+The snowdrop flower lying by the body... I imagine Rokuyou-san  plucked it when he went to get the key.
+＃想子
+The possibility is high, but...
+＃主人公
+One stamen is missing. If it were found in the chapel... or if  we could at least collect its pollen...
+＃藍
+That's enough!!
+＃詩音
+Ai-oneesama...
+Shion-san quietly restrained Ai-san, who was on the verge of an outburst.
+＃詩音
+It’s... alright. It was I... who took Rokuyou-sama’s life with  these hands.
+＃主人公
+You admit it...?
+＃詩音
+Yes...
+Shion-san looked down.
+＃藍
+Why... Shion...
+Ai-san clung to Shion-san, tears streaming down her face.
+＃詩音
+Ai-oneesama... this was the only way...
+＃想子
+...For now, let’s move her somewhere else. I doubt there's any  risk of her running away.
+＃辻村
+...In that case, let’s take her to Shion-ojousama's room...
+＃主人公
+That sounds best.
+＃想子
+Also, please make sure someone is watching her. ...To prevent   her from taking her own life.
+＃辻村
+That... yes, of course. Understood.
+Tsujimura-san nodded and approached Shion-san.
+＃辻村
+Ojousama... let’s go.
+＃詩音
+Yes... my apologies to you all.
+Tsujimura-san and Shion-san left the room.
+＃藍
+Shion...
+Ai-san followed them out of the Great Hall.
+＃紅緒
+So Shion killed Rokuyou... a few questions still remain, but    since she confessed, I suppose that’s the truth.
+＃想子
+Yeah... what should we do now...?
+＃高嶺
+We must wait quietly for rescue. The person from the base of themountain is due in two days, right?
+＃紅緒
+That's the plan. ...Good grief, it seems the 'Curse of the      Seven' is about to grow.
+Benio-san muttered wearily.
+Shion-san had confessed to her crime, but one thing-one mystery still remained.
+The missing chapel key-it was in Rokuyou-san’s pocket, but if   that was the case, how did she lock the chapel door...?
+...No, never mind. Shion-san is the killer, that's enough, isn'tit-
+＃詩音
+...I don't really understand, but I think you're wrong...
+＃主人公
+Wait... am I wrong?
+＃詩音
+Yes... you're wrong.
+＃辻村
+You're saying I'm the killer...? And why is that?
+＃主人公
+Because... this evidence tells the whole story.
+＃辻村
+...I don't really understand what you mean by that...
+＃主人公
+Wait... am I wrong?
+＃辻村
+Yes, you are.
+＃想子
+Wait a second, why would Rokuyou be the killer?
+＃主人公
+Because... this evidence tells the whole story.
+＃想子
+...It’s far too much of a stretch to call it suicide.
+＃主人公
+Wait... am I wrong?
+＃想子
+Of course you are. Get it together.
+＃高嶺
+...You're saying I'm the killer. Why?
+＃主人公
+Because... this evidence tells the whole story.
+＃高嶺
+How does that serve as evidence that I'm the killer?
+＃主人公
+Wait... am I wrong?
+＃高嶺
+Of course you are. This is ridiculous... I feel like I've wastedmy time listening to this.
+＃御巫
+I'm the killer... why?
+＃主人公
+Because... this evidence tells the whole story.
+＃御巫
+...Unfortunately, that doesn't serve as evidence that I'm the   killer.
+＃主人公
+Wait... am I wrong?
+＃御巫
+Of course you are. Why on earth would I have a reason to kill   Isamu?
+＃あかね
+I'm the killer...?
+＃主人公
+Because... this evidence tells the whole story.
+＃あかね
+I don't really understand, but... I think you're completely     wrong.
+＃主人公
+Wait... am I wrong?
+＃あかね
+Of course you are, honestly...
+＃なるみ
+So I'm the killer, huh... you got any proof?
+＃主人公
+Because... this evidence tells the whole story.
+＃なるみ
+...How on earth does that count as proof?
+＃主人公
+Wait... am I wrong?
+＃なるみ
+You're wrong. Did you even think this through?
+＃主人公
+Ah... I-I'm sorry, everyone...
+I bowed my head deeply.
+Everyone stared at me with looks of exasperation before leaving the room.
+The only ones left were me and Souko-san.
+＃主人公
+Souko-san, I...
+＃想子
+That was a disaster. Let's go back to your room and think it    over some more.
+＃主人公
+Yeah...
+Souko-san and I decided to return to our rooms.

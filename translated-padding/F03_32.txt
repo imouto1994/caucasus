@@ -1,0 +1,50 @@
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+But there was no response from inside.
+Is he not here?
+I gave up and decided to head elsewhere.
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+＃御巫
+Ah... it's you. What's the matter?
+＃主人公
+Hello, Dr. Mikanagi. Do you have a moment?
+＃御巫
+Yes, I don't mind, but what is it?
+Now, what should I do?
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+But there was no response from inside.
+＃主人公
+It seems he isn't here.
+＃あかね
+So it seems...
+We gave up and decided to head elsewhere.
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+＃御巫
+Ah... it's you. What's the matter?
+＃あかね
+Dr. Mikanagi, have you seen Lady Ai?
+＃御巫
+Ai-san? ...No, I haven't.
+＃主人公
+I see...
+＃あかね
+Please let us know if you see her.
+＃御巫
+Yes, understood.
+We decided to head elsewhere.
+This is Dr. Mikanagi's room.
+I knock lightly on the door.
+＃御巫
+Oh, it's you two... Have you still not found Ai-san?
+＃あかね
+No... that's right.
+＃御巫
+I wonder what happened... I'm starting to get worried.
+＃主人公
+Well, we're going to keep looking around other areas.
+＃御巫
+Right, I'm counting on you.
+We left the room.

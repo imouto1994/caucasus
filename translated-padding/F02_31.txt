@@ -1,0 +1,25 @@
+＃主人公
+Excuse me.
+When I entered the infirmary, Mikanagi-sensei was nowhere to be seen.
+I wonder if he’s gone somewhere else.
+Now then, what should I do.
+＃主人公
+Good morning, Mikanagi-sensei.
+When I entered the infirmary, Mikanagi-sensei, who had been at  his desk, looked up.
+＃御巫
+Ah, good morning.
+＃主人公
+Do you have a moment?
+＃御巫
+Yes, I don't mind.
+Now then, what should I do.
+＃主人公
+Excuse me.
+When I entered the infirmary, Mikanagi-sensei, who had been at  his desk, looked up.
+＃御巫
+Oh, what is it this time?
+＃主人公
+Do you have a moment?
+＃御巫
+Yes, please.
+Now then, what should I do.

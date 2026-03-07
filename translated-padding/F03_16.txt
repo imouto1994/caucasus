@@ -1,0 +1,90 @@
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+＃主人公
+Huh... I guess he's not in.
+Even after waiting, there was no response.
+It can't be helped; I'll head elsewhere.
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+＃辻村
+Yes, who is it?
+＃主人公
+Hello, Tsujimura-san.
+＃辻村
+Ah, it was you.
+＃主人公
+Do you have a moment?
+＃辻村
+Yes, I don't mind. Please, come inside.
+＃主人公
+Excuse me.
+I enter Tsujimura-san's room.
+＃辻村
+Pardon the mess. So, what can I do for you?
+＃主人公
+Um...
+I’ve come to the front of Tsujimura-san's room again.
+I knock on the door.
+＃辻村
+Yes, who is it?
+＃主人公
+Hello, Tsujimura-san.
+＃辻村
+Ah, it was you. What is it this time?
+＃主人公
+Do you have a moment?
+＃辻村
+Yes, I don't mind. Please, come inside.
+＃主人公
+Excuse me.
+I enter Tsujimura-san's room.
+＃辻村
+What can I do for you?
+＃主人公
+Um...
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+＃主人公
+Huh... I guess he's not in.
+Even after waiting, there was no response.
+＃あかね
+Tsujimura-san is usually in the office, after all.
+＃主人公
+I see...
+It can't be helped; I'll head elsewhere.
+I’ve come to the front of Tsujimura-san's room.
+Akane-san knocks on the door.
+＃辻村
+Yes, who is it?
+＃あかね
+Tsujimura-san, it's Hiyama.
+＃辻村
+What's the matter?
+＃主人公
+Have you seen Ai-san?
+＃辻村
+Lady Ai...? No, I haven't seen her.
+＃あかね
+We haven't been able to find her anywhere for a while now.
+＃辻村
+Please search thoroughly. I shall search as well.
+＃主人公
+Sorry to trouble you, Tsujimura-san.
+＃辻村
+Not at all, don't apologize. This is a duty we servants should  be performing ourselves. Well then.
+With that, Tsujimura-san hurried off down the corridor.
+＃あかね
+Let's go too.
+＃主人公
+Right.
+We decided to search for her in another location.
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+＃主人公
+Huh... I guess he's not in.
+Even after waiting, there was no response.
+＃あかね
+Well, Tsujimura-san is also out searching for Lady Ai.
+＃主人公
+...That's right.
+It can't be helped; I'll head elsewhere.

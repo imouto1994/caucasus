@@ -1,0 +1,36 @@
+＃摩夜
+Oh dear... You mustn't enter rooms without permission.
+＃主人公
+Y-You're right... I'm sorry.
+＃藍
+A wig...? I don't know much about Mother's things.
+＃主人公
+I see...
+＃紅緒
+Mother's wig, huh... I don't know anything about it.
+＃主人公
+I see...
+＃詩音
+Um... I'm sorry, I don't really know...
+＃主人公
+Right, of course...
+＃辻村
+Sigh... Regarding the Mistress's belongings, it would be better to ask the Mistress herself...
+＃主人公
+You're right...
+＃高嶺
+I can't really tell.
+＃主人公
+I see...
+＃御巫
+That is... I don't really know.
+＃主人公
+I see...
+＃あかね
+I'm sorry... I don't really know.
+＃主人公
+I see...
+＃なるみ
+I don't really know about that.
+＃主人公
+I see...

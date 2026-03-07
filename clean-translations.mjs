@@ -17,14 +17,17 @@
  *   6. Strip wrapping brackets/quotes from speech content lines (the line
  *      immediately after a ＃ speech source line). Handles 「」, 『』, and
  *      "..." wrappers. The game engine renders these automatically.
- *   7. Replace Unicode characters that have no Shift-JIS representation
+ *   7. For non-speech-content lines, replace Japanese brackets (「」/『』)
+ *      with double quotes (""), since these are narration lines where the
+ *      game engine does not add brackets automatically.
+ *   8. Replace Unicode characters that have no Shift-JIS representation
  *      with safe equivalents:
  *        — (U+2014 em dash)   → ― (U+2015 horizontal bar)
  *        · (U+00B7 middle dot) → ・ (U+30FB katakana middle dot)
  *        é (U+00E9 e-acute)   → e
- *   8. Append a trailing empty line if the corresponding original file in
+ *   9. Append a trailing empty line if the corresponding original file in
  *      `original/` also ends with one.
- *   9. Encode the output as Shift-JIS to match the original script encoding.
+ *  10. Encode the output as Shift-JIS to match the original script encoding.
  *
  * Files are overwritten in place.
  *
@@ -43,9 +46,9 @@ const sjisDecoder = new TextDecoder("shift_jis");
 
 // Unicode characters that have no Shift-JIS representation → safe replacements.
 const CHAR_REPLACEMENTS = new Map([
-  ["\u2014", "\u2015"], // — (em dash) → ― (horizontal bar)
-  ["\u00B7", "\u30FB"], // · (middle dot) → ・ (katakana middle dot)
-  ["\u00E9", "e"],      // é (e-acute) → e
+  ["\u2014", "-"], // — (em dash) → ― (horizontal bar)
+  ["\u00B7", "."], // · (middle dot) → ・ (katakana middle dot)
+  ["\u00E9", "e"], // é (e-acute) → e
 ]);
 
 /**
@@ -107,8 +110,10 @@ async function readTranslated(filePath) {
 function stripSpeechWrappers(line) {
   if (line.startsWith("「") && line.endsWith("」")) return line.slice(1, -1);
   if (line.startsWith("『") && line.endsWith("』")) return line.slice(1, -1);
-  if (line.startsWith('"') && line.endsWith('"') && line.length >= 2) return line.slice(1, -1);
-  if (line.startsWith("'") && line.endsWith("'") && line.length >= 2) return line.slice(1, -1);
+  if (line.startsWith('"') && line.endsWith('"') && line.length >= 2)
+    return line.slice(1, -1);
+  if (line.startsWith("'") && line.endsWith("'") && line.length >= 2)
+    return line.slice(1, -1);
   return line;
 }
 
@@ -156,13 +161,32 @@ async function cleanFile(filePath, originalPath) {
     }
   }
 
+  // Step 7: For non-speech lines, replace Japanese brackets with double
+  // quotes. Speech content lines (right after ＃) already had brackets
+  // stripped in step 6; these are narration lines that quote dialogue.
+  for (let i = 0; i < cleaned.length; i++) {
+    const isSpeechContent = i > 0 && cleaned[i - 1].startsWith("＃");
+    if (isSpeechContent) continue;
+
+    const line = cleaned[i];
+    if (line.startsWith("「") && line.endsWith("」")) {
+      cleaned[i] = `"${line.slice(1, -1)}"`;
+    } else if (line.startsWith("『") && line.endsWith("』")) {
+      cleaned[i] = `"${line.slice(1, -1)}"`;
+    }
+  }
+
   let result = cleaned.join("\n");
 
-  // Step 7: Replace Unicode characters that can't be encoded in Shift-JIS.
+  // Step 8: Replace Unicode characters that can't be encoded in Shift-JIS.
   result = replaceUnsafeChars(result);
 
-  // Step 8: Match the original file's trailing newline.
-  if (original && original.raw.length > 0 && original.raw[original.raw.length - 1] === 0x0a) {
+  // Step 9: Match the original file's trailing newline.
+  if (
+    original &&
+    original.raw.length > 0 &&
+    original.raw[original.raw.length - 1] === 0x0a
+  ) {
     result += "\n";
   }
 
@@ -183,9 +207,7 @@ async function main() {
   for (const dir of DIRS) {
     let fileNames;
     try {
-      fileNames = (await readdir(dir))
-        .filter((f) => f.endsWith(".txt"))
-        .sort();
+      fileNames = (await readdir(dir)).filter((f) => f.endsWith(".txt")).sort();
     } catch {
       console.log(`Directory ${dir}/ not found, skipping.`);
       continue;

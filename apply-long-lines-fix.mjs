@@ -28,15 +28,15 @@ import Encoding from "encoding-japanese";
 
 const ORIGINAL_FILE = "long_lines.txt";
 const UPDATED_FILE = "long_lines_updated.txt";
-const MAX_LENGTH = 120;
+const MAX_LENGTH = 128;
 
 const sjisDecoder = new TextDecoder("shift_jis");
 
 // Unicode characters that have no Shift-JIS representation → safe replacements.
 const CHAR_REPLACEMENTS = new Map([
-  ["\u2014", "\u2015"], // — (em dash) → ― (horizontal bar)
-  ["\u00B7", "\u30FB"], // · (middle dot) → ・ (katakana middle dot)
-  ["\u00E9", "e"],      // é (e-acute) → e
+  ["\u2014", "-"], // — (em dash) → ― (horizontal bar)
+  ["\u00B7", "."], // · (middle dot) → ・ (katakana middle dot)
+  ["\u00E9", "e"], // é (e-acute) → e
 ]);
 
 /**

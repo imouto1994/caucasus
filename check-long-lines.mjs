@@ -22,7 +22,7 @@ import { readFile, readdir, writeFile } from "fs/promises";
 import path from "path";
 
 const DIRS = ["translated"];
-const MAX_LENGTH = 120;
+const MAX_LENGTH = 128;
 const OUTPUT_FILE = "long_lines.txt";
 
 const sjisDecoder = new TextDecoder("shift_jis");

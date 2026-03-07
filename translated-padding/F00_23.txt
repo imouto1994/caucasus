@@ -1,0 +1,22 @@
+This room is vacant.
+I turn the doorknob, but it appears to be locked.
+＃主人公
+Narumi-san, if you would.
+＃なるみ
+...It's just another guest room, so I don't think it'll         matter... but here, it's open.
+＃主人公
+Of course, there's a fireplace...
+＃なるみ
+Yes... though I doubt this is the place the code was referring  to... Do you want to check it just in case?
+I’ve returned to this room.
+＃なるみ
+Weren't we just here?
+＃主人公
+Well, yes...
+＃なるみ
+If you still want to investigate, then make it quick.
+＃主人公
+Right...
+This room is currently empty.
+＃なるみ
+Want to see if we can find a key? I've no idea if we'll find    anything searching blindly like this, though.

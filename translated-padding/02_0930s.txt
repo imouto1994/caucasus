@@ -1,0 +1,94 @@
+＃主人公
+It’s quite a blizzard outside...
+＃想子
+It is... even the windows are frozen shut.
+＃主人公
+I thought we might be able to see Shion-san’s tower from here...but I can't see a thing.
+The window was covered in a thick layer of snow and ice.
+＃想子
+The room is freezing, after all. The condensation must have     frozen solid.
+The window is frozen shut and won't budge.
+There are paintings decorating this room as well.
+There’s no need to pay them any special mind right now.
+It’s irrelevant for the moment.
+＃主人公
+Does this door... lead to Tsujimura-san’s room?
+＃想子
+It seems so... and it’s locked tight.
+＃御巫
+That door can only be locked from this side.
+＃主人公
+Is that right?
+＃想子
+Mansions like this often have doors between rooms. Your room hadone, didn't it? The layout is identical.
+＃主人公
+...So that means if it’s locked, no one can enter from          Tsujimura-san’s side?
+＃御巫
+That’s how it works. Conversely, if the culprit left through    this door, they couldn't lock it behind them.
+＃主人公
+I see...
+The door leading to Tsujimura-san’s room is securely locked.
+＃主人公
+Inside the wardrobe... just some spare clothes.
+＃想子
+It doesn't look like it was rummaged through.
+There are no signs that the wardrobe was disturbed.
+＃主人公
+This is Rokuyou-san’s bag.
+＃想子
+Yeah... at a glance, it doesn't look like it’s been touched,    but...
+＃主人公
+That rules out robbery, then.
+There are no signs that Rokuyou-san’s bag was tampered with.
+＃主人公
+No wonder it’s so cold, the fire is out...
+＃御巫
+I hate to say it's for the best, but... it’s slowed the rate of decomposition.
+＃想子
+...It looks like it went out a while ago. It was likely already out by the time the murder occurred.
+The fire in the fireplace seems to have gone out during the     night.
+＃主人公
+The head... where could it have gone...?
+＃想子
+...It was certainly taken out of this room.
+＃御巫
+However... there are no bloodstains on the floor. Perhaps it waswrapped in something...?
+Rokuyou-san’s head... where could it be...?
+＃主人公
+...This must be the murder weapon.
+＃想子
+It certainly looks that way... though it’s hard to say if it wasthe direct cause of death.
+＃主人公
+Is that so?
+＃想子
+Because the head is missing. For all we know, he could have beenshot in the head with a gun.
+＃御巫
+...If that were the case, the culprit might have severed the    head to hide the gunshot wound.
+＃想子
+Well, the gun thing is just a guess. If someone had been shot,  the noise would have alerted everyone.
+＃主人公
+That’s true...
+It seems this axe is indeed the murder weapon.
+＃主人公
+This pillow... the axe is buried deep inside it.
+＃想子
+Feathers are everywhere... but there’s hardly any blood spray.
+＃主人公
+You're right...
+An axe is embedded in the pillow.
+＃主人公
+Wait... Souko-san, is there something sticking out of his       trouser pocket?
+＃想子
+The pocket... looks like a key.
+＃主人公
+It seems to be the key to this room.
+The room key was inside the pocket of his trousers.
+＃主人公
+What about this flower...?
+＃想子
+A snowdrop. Only the flower head has fallen... is it a metaphor for the headless corpse?
+＃御巫
+...If so, it’s in incredibly poor taste.
+＃主人公
+Yeah...
+A snowdrop flower has fallen.

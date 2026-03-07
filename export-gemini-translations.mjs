@@ -41,9 +41,9 @@ const OUTPUT_VERTICAL_DIR = "translated-vertical";
 
 // Unicode characters that have no Shift-JIS representation → safe replacements.
 const CHAR_REPLACEMENTS = new Map([
-  ["\u2014", "\u2015"], // — (em dash) → ― (horizontal bar)
-  ["\u00B7", "\u30FB"], // · (middle dot) → ・ (katakana middle dot)
-  ["\u00E9", "e"],      // é (e-acute) → e
+  ["\u2014", "-"], // — (em dash) → ― (horizontal bar)
+  ["\u00B7", "."], // · (middle dot) → ・ (katakana middle dot)
+  ["\u00E9", "e"], // é (e-acute) → e
 ]);
 
 /**
@@ -196,7 +196,7 @@ async function main() {
         console.warn(
           `  ⚠  Duplicate "${entry.fileName}" — ` +
             `keeping ${prev.sourceFile} line ${prev.headerLine}, ` +
-            `skipping ${file} line ${entry.headerLine}`,
+            `skipping ${file} line ${entry.headerLine}`
         );
         continue;
       }
@@ -212,7 +212,10 @@ async function main() {
         : OUTPUT_DIR;
 
       const outputPath = path.join(outDir, entry.fileName);
-      await writeFile(outputPath, encodeShiftJIS(entry.contentLines.join("\n")));
+      await writeFile(
+        outputPath,
+        encodeShiftJIS(entry.contentLines.join("\n"))
+      );
 
       if (outDir === OUTPUT_VERTICAL_DIR) {
         exportedVerticalCount++;
@@ -226,7 +229,9 @@ async function main() {
   console.log();
   console.log("— Summary —");
   console.log(`  Exported: ${exportedCount} files to ${OUTPUT_DIR}/`);
-  console.log(`  Exported: ${exportedVerticalCount} files to ${OUTPUT_VERTICAL_DIR}/`);
+  console.log(
+    `  Exported: ${exportedVerticalCount} files to ${OUTPUT_VERTICAL_DIR}/`
+  );
   if (duplicateCount > 0) {
     console.log(`  Duplicates skipped: ${duplicateCount}`);
   }
