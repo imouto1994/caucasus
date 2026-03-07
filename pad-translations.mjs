@@ -31,6 +31,25 @@ const MAX_LENGTH = 128;
 
 const sjisDecoder = new TextDecoder("shift_jis");
 
+// Template variables the game engine replaces at runtime with the player's
+// chosen name. We substitute the longest expected values so padding
+// calculations reflect the actual display width.
+const TEMPLATE_REPLACEMENTS = [
+  ["(NAME01)(NAME02)", "Kobayashi Satoshi"],
+  ["(NAME01)", "Kobayashi"],
+];
+
+/**
+ * Expand template variables to their display values for width calculation.
+ */
+function expandTemplates(line) {
+  let result = line;
+  for (const [tpl, val] of TEMPLATE_REPLACEMENTS) {
+    result = result.replaceAll(tpl, val);
+  }
+  return result;
+}
+
 function encodeShiftJIS(str) {
   const codeArray = Encoding.convert(Encoding.stringToCode(str), {
     to: "SJIS",
@@ -97,20 +116,22 @@ async function main() {
     const result = lines.map((line, i) => {
       // Skip speech source lines.
       if (line.startsWith("＃")) return line;
-      // Skip lines that fit on one row.
-      if (line.length <= LINE_WIDTH) return line;
 
-      const padded = padLine(line);
-      if (padded !== line) {
+      // Expand templates then run the standard padding logic. The padded
+      // result is written to the file — template variables are replaced
+      // with their display values so the padding is accurate.
+      const expanded = expandTemplates(line);
+      if (expanded.length <= LINE_WIDTH) return expanded;
+
+      const padded = padLine(expanded);
+      if (padded !== expanded) {
         fileModified = true;
         paddedLines++;
 
         if (padded.length > MAX_LENGTH) {
           overLimitLines++;
           console.log(
-            `[OVER ${MAX_LENGTH}] ${fileName} | ${i + 1} (${
-              padded.length
-            } chars)`
+            `[OVER ${MAX_LENGTH}] ${fileName} | ${i + 1} (${padded.length} chars)`,
           );
           console.log(`  ${padded}`);
         }

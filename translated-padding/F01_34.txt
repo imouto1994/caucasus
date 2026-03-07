@@ -15,7 +15,7 @@ It was then that I lightly knocked on the door for the first    time.
 ＃？？？
 Who is it... Seiji?
 ＃主人公
-Um, excuse me. My name is (NAME01)(NAME02), and I was rescued bythis household. I wanted to offer a word of greeting.
+Um, excuse me. My name is Kobayashi Satoshi, and I was rescued  by this household. I wanted to offer a word of greeting.
 ＃？？？
 I see... I'm not in a position to say, but please, make yourselfat home.
 She must be on guard; there's no sign of her opening the door   from the inside.
@@ -43,7 +43,7 @@ I knock lightly on the door.
 ＃？？？
 Yes...?
 ＃主人公
-Hello, it's (NAME01).
+Hello, it's Kobayashi.
 ＃？？？
 Do you need something...?
 ＃主人公
