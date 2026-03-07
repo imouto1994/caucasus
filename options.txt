@@ -98,6 +98,10 @@
 19 | 誰かに集中して警戒に当たる | Focus on being on guard with someone.
 20 | 館内を万遍なく見張る | Watch over the manor as a whole.
 
+02b_1210z.txt
+9 | まだ調べる | Keep investigating.
+10 | もういいだろう | That's probably enough.
+
 02b1_1245z.txt
 9 | まだ調べる | Keep investigating.
 10 | もういいだろう | That's probably enough.
@@ -110,17 +114,9 @@
 9 | まだ調べる | Keep investigating.
 10 | もういいだろう | That's probably enough.
 
-02b_1210z.txt
-9 | まだ調べる | Keep investigating.
-10 | もういいだろう | That's probably enough.
-
 02c_1900z.txt
 8 | まだ調べる | Keep investigating.
 9 | もういいだろう | That's probably enough.
-
-03a1_2800.txt
-380 | 七月摩夜 | Nanatsuki Maya
-381 | 七月詩音 | Nanatsuki Shion
 
 03a_0750F05.txt
 3 | 自室で過ごす | Spend time in my room
@@ -170,13 +166,9 @@
 2 | まだ調べる | Keep searching
 3 | もういい | That's enough
 
-03b1_1500z.txt
-7 | まだ調べる | Keep searching
-8 | もういいだろう | It should be enough
-
-03b1_2440z.txt
-2 | まだ調べる | Keep searching
-3 | もういい | That's enough
+03a1_2800.txt
+380 | 七月摩夜 | Nanatsuki Maya
+381 | 七月詩音 | Nanatsuki Shion
 
 03b_0720z.txt
 7 | まだ調べる | Keep searching
@@ -202,6 +194,14 @@
 2 | まだ調べる | Keep searching
 3 | もういい | That's enough
 
+03b1_1500z.txt
+7 | まだ調べる | Keep searching
+8 | もういいだろう | It should be enough
+
+03b1_2440z.txt
+2 | まだ調べる | Keep searching
+3 | もういい | That's enough
+
 03c_1130h.txt
 254 | 中に出す | I'll come inside.
 255 | 外に出す | I'll come outside.
@@ -221,10 +221,6 @@ F01_08.txt
 F01_09.txt
 14 | 手伝う | Help
 15 | 手伝わない | Don't help
-
-F03_20s.txt
-24 | 道具を使う | Use a tool
-25 | 今は止めておく | Leave it for now
 
 F03_map.txt
 24 | 追いかける | Follow her

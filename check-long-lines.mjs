@@ -21,7 +21,7 @@
 import { readFile, readdir, writeFile } from "fs/promises";
 import path from "path";
 
-const DIRS = ["translated", "translated-inspection"];
+const DIRS = ["translated"];
 const MAX_LENGTH = 128;
 const OUTPUT_FILE = "long_lines.txt";
 

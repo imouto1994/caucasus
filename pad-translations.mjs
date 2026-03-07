@@ -6,7 +6,7 @@
  * When a word straddles the 64-char boundary, part of it appears on row 1 and
  * the rest on row 2, which looks bad.
  *
- * This script scans each line in `translated/` and `translated-inspection/` and:
+ * This script scans each line in `translated/` and:
  *   1. Detects choice/option lines in the original script and replaces them
  *      with the original Japanese text (the game can't render translated
  *      options well).
@@ -28,7 +28,7 @@ import { readFile, readdir, writeFile, mkdir } from "fs/promises";
 import path from "path";
 import Encoding from "encoding-japanese";
 
-const INPUT_DIRS = ["translated", "translated-inspection"];
+const INPUT_DIRS = ["translated"];
 const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated-padding";
 const OPTIONS_FILE = "options.txt";
