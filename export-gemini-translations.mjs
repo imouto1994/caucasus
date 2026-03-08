@@ -11,8 +11,8 @@
  *   - `translated-vertical/`   — vertical-style scripts (every non-empty line
  *                                 in the original starts with a fullwidth space
  *                                 or left corner bracket)
- *   - `translated-inspection/` — inspection scripts (filenames matching
- *                                 [A-Z][0-9][0-9]_[0-9][0-9]s.txt)
+ *   - `translated-inspection/` — inspection scripts (filenames ending
+ *                                 with s.txt)
  *   - `translated-question/`    — question scripts (filenames matching
  *                                 [A-Z][0-9][0-9]_[a-z][0-9][0-9][0-9].txt)
  *   - `translated-exploration/` — exploration scripts (remaining filenames
@@ -47,7 +47,7 @@ const OUTPUT_INSPECTION_DIR = "translated-inspection";
 const OUTPUT_QUESTION_DIR = "translated-question";
 const OUTPUT_EXPLORATION_DIR = "translated-exploration";
 
-const INSPECTION_RE = /^[A-Z]\d{2}_\d{2}s\.txt$/;
+const INSPECTION_RE = /s\.txt$/;
 const QUESTION_RE = /^[A-Z]\d{2}_[a-z]\d{3}\.txt$/;
 const EXPLORATION_RE = /^[A-Z]\d{2}_/;
 
