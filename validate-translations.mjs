@@ -31,6 +31,7 @@ const sjisDecoder = new TextDecoder("shift_jis");
 const ORIGINAL_DIR = "original";
 const TRANSLATED_DIR = "translated";
 const TRANSLATED_INSPECTION_DIR = "translated-inspection";
+const TRANSLATED_QUESTION_DIR = "translated-question";
 const TRANSLATED_VERTICAL_DIR = "translated-vertical";
 
 const isSpeechSource = (line) => line.startsWith("＃");
@@ -192,7 +193,14 @@ async function main() {
   totalSkipped += inspection.skipped;
   totalMismatched += inspection.mismatched;
 
-  // Step 3: Validate vertical-style scripts — trim leading whitespace
+  // Step 3: Validate question scripts — no trimming needed.
+  console.log(`\n=== ${TRANSLATED_QUESTION_DIR}/ ===`);
+  const question = await validateDirectory(TRANSLATED_QUESTION_DIR, false);
+  totalChecked += question.checked;
+  totalSkipped += question.skipped;
+  totalMismatched += question.mismatched;
+
+  // Step 4: Validate vertical-style scripts — trim leading whitespace
   // before classifying lines, since vertical scripts indent every line.
   console.log(`\n=== ${TRANSLATED_VERTICAL_DIR}/ ===`);
   const vertical = await validateDirectory(TRANSLATED_VERTICAL_DIR, true);

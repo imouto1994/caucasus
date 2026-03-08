@@ -14,7 +14,7 @@ import { readFile, readdir } from "fs/promises";
 import path from "path";
 import Encoding from "encoding-japanese";
 
-const DIRS = ["translated", "translated-inspection"];
+const DIRS = ["translated", "translated-inspection", "translated-question"];
 const sjisDecoder = new TextDecoder("shift_jis");
 
 async function main() {

@@ -21,7 +21,7 @@ import path from "path";
 const sjisDecoder = new TextDecoder("shift_jis");
 
 const ORIGINAL_DIR = "original";
-const TRANSLATED_DIRS = ["translated", "translated-inspection", "translated-vertical"];
+const TRANSLATED_DIRS = ["translated", "translated-inspection", "translated-question", "translated-vertical"];
 
 /**
  * Extract unique speech source names from lines of text.

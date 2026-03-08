@@ -5,7 +5,7 @@
  * each entry as a separate Shift-JIS file, named to match the corresponding
  * original script file.
  *
- * Files are routed to one of three output directories:
+ * Files are routed to one of four output directories:
  *
  *   - `translated/`            — normal (horizontal) scripts
  *   - `translated-vertical/`   — vertical-style scripts (every non-empty line
@@ -13,6 +13,8 @@
  *                                 or left corner bracket)
  *   - `translated-inspection/` — inspection scripts (filenames matching
  *                                 [A-Z][0-9][0-9]_[0-9][0-9]s.txt)
+ *   - `translated-question/`  — question scripts (filenames matching
+ *                                 [A-Z][0-9][0-9]_[a-z][0-9][0-9][0-9].txt)
  *
  * Each translated text file contains one or more entries delimited by a
  * three-line header:
@@ -40,8 +42,10 @@ const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated";
 const OUTPUT_VERTICAL_DIR = "translated-vertical";
 const OUTPUT_INSPECTION_DIR = "translated-inspection";
+const OUTPUT_QUESTION_DIR = "translated-question";
 
 const INSPECTION_RE = /^[A-Z]\d{2}_\d{2}s\.txt$/;
+const QUESTION_RE = /^[A-Z]\d{2}_[a-z]\d{3}\.txt$/;
 
 // Unicode characters that have no Shift-JIS representation → safe replacements.
 const CHAR_REPLACEMENTS = new Map([
@@ -150,6 +154,7 @@ async function main() {
   await mkdir(OUTPUT_DIR, { recursive: true });
   await mkdir(OUTPUT_VERTICAL_DIR, { recursive: true });
   await mkdir(OUTPUT_INSPECTION_DIR, { recursive: true });
+  await mkdir(OUTPUT_QUESTION_DIR, { recursive: true });
 
   // Step 3: Build a set of vertical-style original filenames by reading each
   // original as raw Shift-JIS bytes and checking the line-starter pattern.
@@ -170,6 +175,7 @@ async function main() {
   let exportedCount = 0;
   let exportedVerticalCount = 0;
   let exportedInspectionCount = 0;
+  let exportedQuestionCount = 0;
 
   for (const file of translationFileNames) {
     const filePath = path.join(INPUT_DIR, file);
@@ -195,9 +201,11 @@ async function main() {
       // Route to the appropriate output directory.
       const outDir = INSPECTION_RE.test(entry.fileName)
         ? OUTPUT_INSPECTION_DIR
-        : verticalFiles.has(entry.fileName)
-          ? OUTPUT_VERTICAL_DIR
-          : OUTPUT_DIR;
+        : QUESTION_RE.test(entry.fileName)
+          ? OUTPUT_QUESTION_DIR
+          : verticalFiles.has(entry.fileName)
+            ? OUTPUT_VERTICAL_DIR
+            : OUTPUT_DIR;
 
       const outputPath = path.join(outDir, entry.fileName);
       await writeFile(
@@ -207,6 +215,8 @@ async function main() {
 
       if (outDir === OUTPUT_INSPECTION_DIR) {
         exportedInspectionCount++;
+      } else if (outDir === OUTPUT_QUESTION_DIR) {
+        exportedQuestionCount++;
       } else if (outDir === OUTPUT_VERTICAL_DIR) {
         exportedVerticalCount++;
       } else {
@@ -224,6 +234,9 @@ async function main() {
   );
   console.log(
     `  Exported: ${exportedInspectionCount} files to ${OUTPUT_INSPECTION_DIR}/`
+  );
+  console.log(
+    `  Exported: ${exportedQuestionCount} files to ${OUTPUT_QUESTION_DIR}/`
   );
   if (duplicateCount > 0) {
     console.log(`  Duplicates skipped: ${duplicateCount}`);

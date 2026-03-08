@@ -30,7 +30,7 @@ import Encoding from "encoding-japanese";
 
 const TRANSLATION_TEXT_DIR = "gemini-translation-text";
 const ORIGINAL_DIR = "original";
-const TRANSLATED_DIRS = ["translated", "translated-inspection", "translated-vertical"];
+const TRANSLATED_DIRS = ["translated", "translated-inspection", "translated-question", "translated-vertical"];
 
 const sjisDecoder = new TextDecoder("shift_jis");
 
