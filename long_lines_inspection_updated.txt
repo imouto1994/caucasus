@@ -1,977 +1,977 @@
-02_0930s.txt | 4 | 34
-It is... even the windows are frozen shut.
-02_0930s.txt | 6 | 68
-I thought we might be able to see Shion-san's tower from here... but I can't see a thing.
-02_0930s.txt | 7 | 40
-The window was covered in a thick layer of snow and ice.
-02_0930s.txt | 9 | 66
-The room is freezing, after all. The condensation must have frozen solid.
-02_0930s.txt | 10 | 24
-The window is frozen shut and won't budge.
-02_0930s.txt | 11 | 32
-There are paintings decorating this room as well.
-02_0930s.txt | 12 | 34
-There's no need to pay them any special mind right now.
-02_0930s.txt | 13 | 20
-It's irrelevant for the moment.
-02_0930s.txt | 27 | 102
-That's how it works. Conversely, if the culprit left through this door, they couldn't lock it behind them.
-02_0930s.txt | 30 | 56
-The door leading to Tsujimura-san's room is securely locked.
-02_0930s.txt | 32 | 40
-Inside the wardrobe... just some spare clothes.
-02_0930s.txt | 34 | 28
-It doesn't look like it was rummaged through.
-02_0930s.txt | 35 | 32
-There are no signs that the wardrobe was disturbed.
-02_0930s.txt | 37 | 22
-This is Rokuyou-san's bag.
-02_0930s.txt | 39 | 54
-Yeah... at a glance, it doesn't look like it's been touched, but...
-02_0930s.txt | 41 | 26
-That rules out robbery, then.
-02_0930s.txt | 42 | 42
-There are no signs that Rokuyou-san's bag was tampered with.
-02_0930s.txt | 46 | 74
-I hate to say it's for the best, but... it's slowed the rate of decomposition.
-02_0930s.txt | 48 | 82
-...It looks like it went out a while ago. It was likely already out by the time the murder occurred.
-02_0930s.txt | 49 | 38
-The fire in the fireplace seems to have gone out during the night.
-02_0930s.txt | 55 | 68
-However... there are no bloodstains on the floor. Perhaps it was wrapped in something...?
-02_0930s.txt | 58 | 26
-...This must be the murder weapon.
-02_0930s.txt | 60 | 64
-It certainly looks that way... though it's hard to say if it was the direct cause of death.
-02_0930s.txt | 64 | 74
-Because the head is missing. For all we know, he could have been shot in the head with a gun.
-02_0930s.txt | 66 | 80
-...If that were the case, the culprit might have severed the head to hide the gunshot wound.
-02_0930s.txt | 68 | 82
-Well, the gun thing is just a guess. If someone had been shot, the noise would have alerted everyone.
-02_0930s.txt | 71 | 32
-It seems this axe is indeed the murder weapon.
-02_0930s.txt | 75 | 58
-Feathers are everywhere... but there's hardly any blood spray.
-02_0930s.txt | 78 | 26
-An axe is embedded in the pillow.
-02_0930s.txt | 80 | 60
-Wait... Souko-san, is there something sticking out of his trouser pocket?
-02_0930s.txt | 82 | 26
-The pocket... looks like a key.
-02_0930s.txt | 84 | 28
-It seems to be the key to this room.
-02_0930s.txt | 85 | 38
-The room key was inside the pocket of his trousers.
-02_0930s.txt | 87 | 18
-What about this flower...?
-02_0930s.txt | 91 | 36
-...If so, it's in incredibly poor taste.
-02a_1210s.txt | 1 | 30
-There is a small window designed to let in light.
-02a_1210s.txt | 2 | 54
-It doesn't appear to have a lock, but it's far too small for a person to pass through.
-02a_1210s.txt | 3 | 44
-It's highly unlikely the killer used this as an entry or exit point.
-02a_1210s.txt | 5 | 44
-This is the rope that was around Ai-san's neck...
-02a_1210s.txt | 7 | 56
-It has wire braided into it... it wouldn't have been easy to cut.
-02a_1210s.txt | 9 | 84
-One end was securely fixed to the wall... while the other end was caught in the clock gears.
-02a_1210s.txt | 10 | 46
-It's a wire-reinforced rope that had been wrapped around Ai-san's neck.
-02a_1210s.txt | 12 | 30
-I wonder what this rod is for...
-02a_1210s.txt | 13 | 34
-I picked up a piece of wood that had been lying on the floor.
-02a_1210s.txt | 15 | 42
-It doesn't look like anything particularly important...
-02a_1210s.txt | 16 | 32
-It's a piece of wood about a meter in length.
-02a_1210s.txt | 17 | 26
-These are the gears that drive the clock.
-02a_1210s.txt | 18 | 26
-They are currently stationary.
-02a_1210s.txt | 19 | 20
-The gears are not moving.
-02b1_1245s.txt | 1 | 30
-There's a small window for letting in light.
-02b1_1245s.txt | 2 | 54
-It doesn't seem to be locked, but it's so small that it'd be impossible for a person to pass through.
-02b1_1245s.txt | 3 | 44
-There's no chance the culprit came in or out through here.
-02b1_1245s.txt | 5 | 44
-This is the rope that was around Ai-san's neck...
-02b1_1245s.txt | 7 | 56
-Wire is woven into it... it doesn't look like it'd be easy to cut.
-02b1_1245s.txt | 9 | 84
-One end is firmly fixed to the wall... the other end was caught in the gears of the clock.
-02b1_1245s.txt | 13 | 34
-I picked up a piece of wood that had fallen to the floor.
-02b1_1245s.txt | 15 | 42
-It doesn't look like something that has any particular meaning, but...
-02b1_1245s.txt | 16 | 20
-A wooden stick is lying there.
-02b1_1245s.txt | 17 | 26
-The gears that move the clock.
-02b1_1245s.txt | 18 | 26
-Their movement has been stopped now.
-02b1_1245s.txt | 19 | 20
-The gears aren't moving.
-02b1_1245s.txt | 20 | 42
-A small piece of trash, like a scrap of paper, is lying on the floor.
-02b1_1245s.txt | 21 | 28
-It doesn't seem to be anything special, but...
-02b1_1245s.txt | 22 | 30
-No matter how many times I look at it, it just looks like trash.
-02b1_1245s.txt | 23 | 50
-Dr. Mikanagi placed his hands together in prayer before Ai-san's body and began the autopsy.
-02b1_1245s.txt | 28 | 32
-...It seems Ai-san's cause of death was suffocation.
-02b2_1300s.txt | 1 | 30
-There's a small window for letting in light.
-02b2_1300s.txt | 2 | 54
-It doesn't seem to be locked, but it's so small that it'd be impossible for a person to pass through.
-02b2_1300s.txt | 3 | 44
-There's no chance the culprit came in or out through here.
-02b2_1300s.txt | 5 | 40
-...The blood must have sprayed when the neck was cut.
-02b2_1300s.txt | 7 | 28
-But... the head is missing again.
-02b2_1300s.txt | 11 | 64
-I don't understand the reason. Unless this body belongs to someone other than Ai-san.
-02b2_1300s.txt | 17 | 50
-Dr. Mikanagi placed his hands together in prayer before Ai-san's body and began the autopsy.
-02b2_1300s.txt | 27 | 78
-...They likely killed her using some other method first, then moved the body and severed the neck.
-02b2_1300s.txt | 31 | 26
-The gears that move the clock.
-02b2_1300s.txt | 32 | 26
-Their movement has been stopped now.
-02b2_1300s.txt | 33 | 20
-The gears aren't moving.
-02b2_1300s.txt | 36 | 28
-A single white flower had fallen to the floor.
-02b2_1300s.txt | 43 | 28
-A single white flower had fallen to the floor.
-02b2_1300s.txt | 44 | 22
-Why would it be in a place like this...
-02b2_1300s.txt | 48 | 22
-...That's a gruesome thought.
-02b2_1300s.txt | 50 | 42
-A small piece of trash, like a scrap of paper, is lying on the floor.
-02b2_1300s.txt | 51 | 28
-It doesn't seem to be anything special, but...
-02b2_1300s.txt | 52 | 30
-No matter how many times I look at it, it just looks like trash.
-02b2_1300s.txt | 56 | 86
-...They likely used that to sever the neck. The cut surface is just like the one on Isamu.
-02b2_1300s.txt | 59 | 38
-...It seems the same thing that happened to Rokuyou-san has occurred.
-02b_1210s.txt | 1 | 30
-There's a small window for letting in light.
-02b_1210s.txt | 2 | 54
-It doesn't seem to be locked, but it's so small that it'd be impossible for a person to pass through.
-02b_1210s.txt | 3 | 44
-There's no chance the culprit came in or out through here.
-02b_1210s.txt | 5 | 44
-This is the rope that was around Ai-san's neck...
-02b_1210s.txt | 7 | 56
-Wire is woven into it... it doesn't look like it'd be easy to cut.
-02b_1210s.txt | 9 | 84
-One end is firmly fixed to the wall... the other end was caught in the gears of the clock.
-02b_1210s.txt | 10 | 48
-...This is the rope that strangled Ai-san right before my eyes.
-02b_1210s.txt | 13 | 34
-I picked up a piece of wood that had fallen to the floor.
-02b_1210s.txt | 15 | 42
-It doesn't look like something that has any particular meaning, but...
-02b_1210s.txt | 16 | 20
-A wooden stick is lying there.
-02b_1210s.txt | 17 | 26
-The gears that move the clock.
-02b_1210s.txt | 18 | 26
-Their movement has been stopped now.
-02b_1210s.txt | 19 | 20
-The gears aren't moving.
-02b_1210s.txt | 20 | 42
-A small piece of trash, like a scrap of paper, is lying on the floor.
-02b_1210s.txt | 21 | 28
-It doesn't seem to be anything special, but...
-02b_1210s.txt | 22 | 30
-No matter how many times I look at it, it just looks like trash.
-02b_1210s.txt | 23 | 50
-Dr. Mikanagi placed his hands together in prayer before Ai-san's body and began the autopsy.
-02b_1210s.txt | 28 | 32
-...It seems Ai-san's cause of death was suffocation.
-02c_1900s.txt | 1 | 16
-It's the door leading back into the room.
-02c_1900s.txt | 2 | 54
-An electric cord is coming in through the slight gap between the door and the floor.
-02c_1900s.txt | 3 | 34
-I don't think there's any particular problem with the door itself.
-02c_1900s.txt | 4 | 70
-On a towel hanging on the wall, a small piece of trash like a scrap of paper was stuck.
-02c_1900s.txt | 5 | 28
-It doesn't seem to be anything special, but...
-02c_1900s.txt | 6 | 42
-There doesn't seem to be any back-spray from the blood on the towel.
-02c_1900s.txt | 8 | 34
-Was this the cause of the short circuit...?
-02c_1900s.txt | 11 | 52
-It seems the power cord submerged in the tub was the cause of the short circuit.
-02c_1900s.txt | 14 | 52
-A single white flower was floating in the blood-red bathtub.
-02c_1900s.txt | 21 | 52
-A single white flower was floating in the blood-red bathtub.
-02c_1900s.txt | 22 | 22
-Why would it be in a place like this...
-02c_1900s.txt | 26 | 22
-...That's a gruesome thought.
-02c_1900s.txt | 27 | 38
-A snowdrop flower is floating in the tub.
-02c_1900s.txt | 29 | 40
-...Let's wait until after we've pulled her out to perform the autopsy.
-02c_1900s.txt | 32 | 28
-...I'll leave the examination of the body for later.
-02c_1900s.txt | 34 | 40
-...The blood must have sprayed when the neck was cut.
-02c_1900s.txt | 36 | 28
-But... the head is missing again.
-02c_1900s.txt | 40 | 64
-I don't understand the reason. Unless this body belongs to someone other than Ai-san.
-03a_1300s.txt | 1 | 36
-There was a short piece of wood lying in the storage area.
-03a_1300s.txt | 7 | 36
-Can even your arms not reach, Narumi-san?
-03a_1300s.txt | 10 | 46
-Narumi-san took the piece of wood and reached her arm through the grate.
-03a_1300s.txt | 12 | 72
-Nnh... nn-ugh... it's no good. I can't move it unless I can hook it onto something.
-03a_1300s.txt | 15 | 28
-No choice, then. I'll look for something else.
-03a_1300s.txt | 16 | 54
-It seems this stick alone won't be enough to move the bar.
-03a_1300s.txt | 17 | 40
-A piece of rope about a meter long came out of a box.
-03a_1300s.txt | 18 | 30
-I wonder if this could be used for something...
-03a_1300s.txt | 20 | 54
-Narumi-san, the thing blocking the door is a rod, right?
-03a_1300s.txt | 27 | 46
-Narumi-san took the rope and put her arm through the grate.
-03a_1300s.txt | 29 | 40
-Nnh... nope, it's no good. It won't hook onto it.
-03a_1300s.txt | 31 | 34
-I guess it's not going to be like fishing...
-03a_1300s.txt | 32 | 34
-No choice, I'll look for something else.
-03a_1300s.txt | 33 | 40
-I should look for other potentially useful items.
-03a_1300s.txt | 34 | 20
-The large quantity of raw vegetables we gathered.
-03a_1300s.txt | 36 | 34
-...Could we use these for something?
-03a_1300s.txt | 41 | 26
-Sigh... I'll look for something else.
-03a_1300s.txt | 42 | 30
-Vegetables aren't going to be much help, after all.
-03a_1300s.txt | 43 | 24
-This is... looks like rice.
-03a_1300s.txt | 44 | 96
-With this much, we don't have to worry about running out of food, but it's completely useless in our current situation.
 03a_1300s.txt | 45 | 16
-I'll look for something else.
-03a_1300s.txt | 46 | 62
-If I want to eat rice, I should ask Narumi-san after we get out.
-03a_1300s.txt | 47 | 42
-While rummaging through the cupboards, I found a hammer.
-03a_1300s.txt | 48 | 82
-It's too short to reach whatever is blocking the door, but it looks like it could be useful for something.
-03a_1300s.txt | 49 | 32
-I should probably keep it just in case.
-03a_1300s.txt | 50 | 44
-There's nothing else useful left in the cupboards.
-03a_1300s.txt | 51 | 54
-A box full of nails came out of the shelf where miscellaneous goods were stored.
-03a_1300s.txt | 57 | 36
-I feel like they could be used for something, though...
-03a_1300s.txt | 58 | 46
-No choice, I'll take them and keep looking for something else.
-03a_1300s.txt | 59 | 28
-Nails alone aren't going to help.
-03a_1300s.txt | 60 | 54
-A box full of nails came out of the shelf where miscellaneous goods were stored.
-03a_1300s.txt | 66 | 36
-I feel like they could be used for something, though...
-03a_1300s.txt | 67 | 46
-No choice, I'll take them and keep looking for something else.
-03a_1300s.txt | 68 | 28
-Nails alone aren't going to help.
-03a_1300s.txt | 69 | 74
-I tried opening the drawers, but they were full of junk and nothing particularly useful.
-03a_1300s.txt | 71 | 40
-There doesn't seem to be anything useful in here.
-03a_1300s.txt | 73 | 86
-It was so tarnished I couldn't tell how long it had been left there, but it appeared to be silverware.
-03a_1300s.txt | 75 | 40
-Narumi-san, can we use this for something?
-03a_1300s.txt | 80 | 30
-I'll see if there's anything else.
-03a_1300s.txt | 81 | 40
-There doesn't seem to be anything useful in here.
+Looking away
 03a_1300s.txt | 82 | 16
-A plain wooden wall.
-03a_1300s.txt | 83 | 44
-When I touched it, there seemed to be quite a gap.
-03a_1300s.txt | 92 | 50
-...Worst comes to worst, we'll have to make a hole here.
-03a_1300s.txt | 93 | 58
-It looks like we could break through... but I have no idea how long it would take...
-03a_2300s.txt | 1 | 54
-A row of books titled "The Complete Works of H.P. Lovecraft" are lined up.
-03a_2300s.txt | 3 | 32
-The Complete Works of Lovecraft is here.
-03a_2300s.txt | 4 | 40
-A row of books titled "The Encyclopedia of Occultism" are lined up.
-03a_2300s.txt | 5 | 16
-I wonder whose books these are...
-03a_2300s.txt | 9 | 38
-Books of the type called grimoires are here.
-03a_2300s.txt | 10 | 74
-Books compiling the folklore of the Tohoku region, including "Tono Monogatari," are here.
-03a_2300s.txt | 11 | 28
-Nothing seems particularly unusual.
-03a_2300s.txt | 12 | 36
-Books regarding Tohoku folklore are here.
-03a_2300s.txt | 14 | 50
-Um... is this German? I can't really understand the content.
-03a_2300s.txt | 15 | 60
-There are musical symbols written in it, so it's likely a book related to that field...
-03a_2300s.txt | 16 | 36
-It appears to be a book on music written in German.
-03a_2300s.txt | 17 | 26
-It appears to be a German-Japanese dictionary.
-03a_2300s.txt | 19 | 24
-A German-Japanese dictionary is here.
-03a_2300s.txt | 20 | 56
-This... appears to be a travel guidebook written in German.
-03a_2300s.txt | 21 | 42
-I'd like to visit, but that's impossible...
-03a_2300s.txt | 22 | 28
-It appears to be a German travel guide.
-03a_2300s.txt | 24 | 80
-The content seems to be about a detective living in a brothel who solves a series of murders in Ueno.
-03a_2300s.txt | 25 | 88
-The title is... oops, I can't exactly get lost in a book here. I'll save it for another time.
-03a_2300s.txt | 28 | 54
-It's written about the two World Wars and the subsequent division of East and West.
-03a_2300s.txt | 29 | 24
-It appears to be a German history book.
-03a_2300s.txt | 30 | 22
-I flipped through a book that caught my eye.
-03a_2300s.txt | 31 | 18
-It was a music textbook.
-03a_2300s.txt | 32 | 40
-Scales and such... I don't really understand any of it.
-03a_2300s.txt | 34 | 46
-I don't even want to remember my music grades...
-03a_2300s.txt | 38 | 38
-A scrap of paper tucked into the book caught my eye.
-03a_2300s.txt | 39 | 14
-I wonder what it is...
+Plain wood wall
 03a_2300s.txt | 40 | 22
-"A Certain Man's Story - Chapter 1"
-03a_2300s.txt | 41 | 40
-My name is Kousei Nanatsuki. I am but a simple composer.
-03a_2300s.txt | 43 | 50
-Let those who find this read with care. ~To be continued~
-03a_2300s.txt | 46 | 50
-A scrap of paper titled "A Certain Man's Story - Chapter 1" is tucked inside.
-03a_2300s.txt | 48 | 84
-It contains photos of Western fortifications, so it's probably some kind of reference book.
-03a_2300s.txt | 49 | 28
-It seems to be a book related to German architecture.
-03a_2300s.txt | 50 | 82
-This book... appears to be a story about a protagonist who is a piano player getting caught up in a strange incident.
-03a_2300s.txt | 52 | 96
-Um, the title is... oops, I can't exactly get lost in a book here. I'll save it for another time.
-03a_2300s.txt | 53 | 18
-It appears to be a mystery novel.
-03a_2300s.txt | 54 | 22
-I flipped through a book that caught my eye.
-03a_2300s.txt | 55 | 18
-It appears to be an architecture book.
-03a_2300s.txt | 56 | 56
-It seems the notation for floors differs between the UK and the US in the English-speaking world.
-03a_2300s.txt | 57 | 56
-The same second floor is "2F" in the US, but becomes "1F" in the UK.
-03a_2300s.txt | 58 | 26
-That's bound to be confusing...
-03a_2300s.txt | 59 | 78
-The word for "floor" is "Floor" in English, and is apparently "Stock" in German.
-03a_2300s.txt | 60 | 20
-It appears to be a book on architecture.
-03a_2300s.txt | 61 | 22
-I flipped through a book that caught my eye.
-03a_2300s.txt | 62 | 22
-It appears to be a guidebook for maps.
-03a_2300s.txt | 63 | 102
-It seems to say that the cardinal directions are represented as "EWSN" in English, and become "OWSN" in German.
-03a_2300s.txt | 64 | 64
-So only East changes... well, I'm sure more than just the first letter is different.
-03a_2300s.txt | 66 | 26
-It appears to be a mystery novel.
+A Man's Story - Ch. 1
 03a_2300s.txt | 67 | 36
-It's a story about a detective chasing a serial killer of schoolgirls.
-03a_2300s.txt | 68 | 76
-A girl who is the spitting image of a woman in a strange painting and a younger sister who loves insects appear in it.
-03a_2300s.txt | 69 | 96
-Um, the title is... oops, I can't exactly get lost in a book here. I'll save it for another time.
-03a_2500s.txt | 5 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 11 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 17 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 23 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 29 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 35 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 41 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 47 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 53 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 59 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 65 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 71 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 77 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 83 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 89 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 95 | 50
-Narumi-san inserted a knife into the piano key I pointed to.
-03a_2500s.txt | 97 | 24
-The white part of the piano key cracked.
-03a_2500s.txt | 101 | 28
-...This is just a regular piano key.
-03a_2500s.txt | 102 | 60
-The wood core was visible from where the surface of the key had peeled off.
-03a_2500s.txt | 106 | 28
--What do you think you're doing?
-03a_2500s.txt | 107 | 22
-Benio-san's voice came from behind us.
-03a_2500s.txt | 115 | 74
-Don't make excuses, you idiot. You even broke the piano... this was one of Father's keepsakes, you know?
-03a_2500s.txt | 119 | 44
-I really thought we were close to finding something...
-03a_2500s.txt | 121 | 32
-...We'll just have to give up on this for now.
-03a_2500s.txt | 125 | 36
-Shion-ojousama? Did you think of something?
-03a_2500s.txt | 127 | 34
-Just a little... I don't have any proof, though.
-03a_2500s.txt | 132 | 24
-The white part of the piano key cracked.
+Detective hunts schoolgirl killer
 03a_2500s.txt | 136 | 22
-Did you find something?
+Did you find it?
 03a_2500s.txt | 140 | 22
-Did we... hit the jackpot?
-03a_2500s.txt | 150 | 66
-Benio-san is going to be furious when she sees the broken piano key... I'll have to apologize properly later.
-03a_2500s.txt | 151 | 64
-After cleaning up the fragments as discreetly as possible, we left the performance room.
-03a_2545s.txt | 1 | 58
-Paintings are hanging on the walls, but the surfaces are covered in dust, making them hard to see.
-03a_2545s.txt | 5 | 36
-It was as if they had been meticulously organized.
-03a_2545s.txt | 8 | 36
-It was as if they had been meticulously organized.
-03a_2545s.txt | 11 | 36
-It was as if they had been meticulously organized.
-03a_2545s.txt | 16 | 60
-There was another lid-like piece inside the drawer, blocking it.
-03a_2545s.txt | 18 | 54
-Perhaps a piece of the marquetry had peeled off, as there was a depression in the center of the lid.
-03a_2545s.txt | 20 | 64
-I tried to hook my finger onto the edge of the depression to lift it, but it wouldn't budge.
-03a_2545s.txt | 21 | 46
-The drawer itself also didn't seem to come out of the desk.
-03a_2545s.txt | 24 | 58
-Narumi-san swapped places with me and peered into the drawer.
+Hit the jackpot?
 03a_2545s.txt | 33 | 30
-Did I have something like that?
-03a_2545s.txt | 34 | 36
-It seems like it'll fit, but there's still something missing...
-03a_2545s.txt | 35 | 36
-It seems like it'll fit, but there's still something missing...
-03a_2545s.txt | 36 | 36
-It seems like it'll fit, but there's still something missing...
-03a_2545s.txt | 37 | 38
-Just a little more and it'll be completely filled...
-03a_2545s.txt | 38 | 38
-Just a little more and it'll be completely filled...
-03a_2545s.txt | 39 | 38
-Just a little more and it'll be completely filled...
-03a_2545s.txt | 41 | 46
-At any rate, it fit perfectly into the missing section.
-03a_2545s.txt | 43 | 28
-...Alright, I'll try pushing it.
-03a_2545s.txt | 44 | 28
-Holding the fragment in place, I pushed down lightly.
-03a_2545s.txt | 45 | 20
-There was a clicking sound.
-03a_2545s.txt | 48 | 44
-Perhaps a spring was involved, as the lid popped up.
-03a_2545s.txt | 52 | 60
-...That was thanks to you, Narumi-san. You really are a master thief.
-03a_2545s.txt | 57 | 24
-This is... a music score.
-03a_2545s.txt | 58 | 28
-It was a carefully bound score.
+Had I something like that?
 03a_2545s.txt | 63 | 14
-What kind of song is it?
-03a_2545s.txt | 69 | 44
-So there's a possibility that *this* is the inheritance...
-03a_2545s.txt | 71 | 40
-I get the feeling it's something different, though...
-03a_2545s.txt | 74 | 28
-No matter how I looked at it, it didn't seem to fit.
-03a_2545s.txt | 79 | 46
-It's bothering me, but there's nothing I can do about it now.
-03a_2545s.txt | 81 | 30
-I don't think there's anything else left to see.
-03a_2545s.txt | 84 | 44
-When I opened the drawer, a scrap of paper was inside.
-03a_2545s.txt | 85 | 14
-I wonder what it is...
+Which song?
 03a_2545s.txt | 86 | 22
-"A Certain Man's Story - Chapter 10"
-03a_2545s.txt | 87 | 70
--The man rounded his already hunched back even further and tried to leave the room sheepishly.
-03a_2545s.txt | 89 | 92
-"Please let me eat them again once you've learned to make delicious takoyaki. I'll be looking forward to it."
-03a_2545s.txt | 90 | 94
-Call me 'Old Man,' dammit... Hmph... taking pity on me when you're just a brat. Well, maybe I'll come by.
-03a_2545s.txt | 91 | 28
-Leaving only those words behind, he vanished.
-03a_2545s.txt | 92 | 56
-Still-those really were some terrible takoyaki. ~The End~
-03a_2545s.txt | 95 | 48
-A scrap of paper titled "A Certain Man's Story - Chapter 10" is inside.
-03a_2545s.txt | 96 | 48
-A beautiful card was peeking out from a gap between the bricks of the wall.
-03a_2545s.txt | 99 | 32
-The card had a "K" written on it.
-03a_2545s.txt | 101 | 24
-There's another piece of paper inside.
-03a_2545s.txt | 102 | 112
-Campaign in progress! Collect cards and answer! This is what the response section on the survey postcard was for!
-03a_2545s.txt | 105 | 60
-Well, I'm at least a little curious, so I'll hold onto this card.
-03a_2545s.txt | 106 | 24
-There's another piece of paper inside.
-03a_2545s.txt | 108 | 80
-"Translate that word into Japanese in a way that suits this work, and send in your survey postcard!"
-03a_2545s.txt | 109 | 86
-"Deadline is January 11, 2010, postmarked! Ten winners will be chosen by lottery to receive a small gift!"
-03a_2545s.txt | 112 | 44
-I feel like I kind of get it, but I also kind of don't...
-03a_2545s.txt | 113 | 38
-It doesn't seem like the bricks in the wall can be removed.
-03a_2545s.txt | 114 | 22
-It appears to be an art book.
-03a_2545s.txt | 116 | 34
-Nothing in particular seems to be here.
-03a_2545s.txt | 117 | 22
-It appears to be a poetry collection.
-03a_2545s.txt | 119 | 30
-Nothing seems particularly unusual.
-03a_2545s.txt | 120 | 24
-It appears to be Mr. Kousei's diary.
-03a_2545s.txt | 121 | 32
-I'll read it after I get back upstairs.
-03a_2545s.txt | 123 | 72
-It looks like a photo, but it's completely faded, so I can't tell what was in it.
-03a_2545s.txt | 124 | 50
-Even looking at the back, I don't see anything unusual.
-03a_2545s.txt | 125 | 24
-It appears to be nothing.
-03a_2545s.txt | 127 | 68
-It was as if everything had been disposed of-no, that might be exactly right.
-03a_2545s.txt | 128 | 64
-After all, this was likely the last place Mr. Kousei spent his time before his suicide.
-03b1_1500s.txt | 2 | 38
-Blood was splattered everywhere, staining them bright red.
-03b1_1500s.txt | 4 | 30
-...There are scratches on the keys.
-03b1_1500s.txt | 5 | 64
-Right next to the neck's severed surface, there were scratches as if made by something.
-03b1_1500s.txt | 7 | 36
-I wonder if they were made when the head was cut off...
-03b1_1500s.txt | 9 | 96
-That might be it. Since the neck was likely severed with a saw, the tip of the blade probably hit the keys.
-03b1_1500s.txt | 12 | 56
-That would make it different from when Rokuyou-san was killed...
-03b1_1500s.txt | 14 | 76
-If it had been an axe, it wouldn't have left such small scratches. The keys are broken.
-03b1_1500s.txt | 16 | 60
-Judging from the amount of blood, there's no doubt the decapitation occurred here.
-03b1_1500s.txt | 19 | 32
-The head was likely severed with a saw.
-03b1_1500s.txt | 20 | 46
-Fresh blood had splattered onto the black piano as well.
-03b1_1500s.txt | 22 | 62
-Perhaps because she always kept it clean, no fingerprint-like smudges were visible.
-03b1_1500s.txt | 25 | 34
-A single white flower had fallen onto the keys.
-03b1_1500s.txt | 32 | 34
-A single white flower had fallen onto the keys.
-03b1_1500s.txt | 34 | 40
-Once again, just like with Rokuyou-san and Ai-san...
-03b1_1500s.txt | 36 | 18
-What is this flower...?
-03b1_1500s.txt | 37 | 34
-A single white flower had fallen onto the keys.
-03b1_1500s.txt | 38 | 22
-Why in a place like this...
-03b1_1500s.txt | 42 | 22
-...That's a sickening thought.
-03b1_1500s.txt | 44 | 44
-Benio-san's corpse lay face down on the piano keys.
-03b1_1500s.txt | 46 | 32
-Can you tell the cause of death...?
-03b1_1500s.txt | 50 | 28
-...What about the possibility of poison?
-03b1_1500s.txt | 52 | 78
-I can't say it's impossible. Since there's almost no livor mortis, it seems to be immediately after death...
-03b1_1500s.txt | 54 | 42
-I see... we can't perform an autopsy here, after all...
-03b1_1500s.txt | 56 | 40
-That sort of thing should be left to the police.
-03b1_1500s.txt | 57 | 52
-Benio-san's headless body lay face down on the piano.
-03b1_2440s.txt | 1 | 22
-The fire in the fireplace is still burning.
-03b1_2440s.txt | 2 | 28
-There doesn't seem to be anything unusual.
-03b1_2440s.txt | 3 | 34
-I don't see anything strange about the fireplace.
-03b1_2440s.txt | 4 | 30
-This is the door connected to my room.
-03b1_2440s.txt | 5 | 28
-It doesn't seem to have any problems.
+A Man's Story - Ch. 10
 03b1_2440s.txt | 6 | 22
-Everything seems normal here.
+Everything seems fine
 03b1_2440s.txt | 7 | 34
-It's pure white outside the window; I can't see anything.
-03b1_2440s.txt | 8 | 30
-I wonder when this blizzard will stop...
-03b1_2440s.txt | 9 | 36
-The blizzard outside seems to be getting stronger.
-03b1_2440s.txt | 10 | 38
-Fresh blood is splattered across the sheets.
-03b1_2440s.txt | 12 | 40
-Splashes of blood are clinging to the sheets.
-03b1_2440s.txt | 13 | 36
-Dr. Mikanagi's remains lying on the bed.
-03b1_2440s.txt | 14 | 20
-The head was left behind.
-03b1_2440s.txt | 15 | 44
-The blood overflowing from the severed neck hasn't dried yet.
-03b1_2440s.txt | 16 | 56
-That makes sense-he was talking to me just a short while ago.
-03b1_2440s.txt | 17 | 36
-There's no need to even investigate the estimated time of death.
-03b1_2440s.txt | 18 | 40
-...It seems I'm starting to break down, too.
-03b1_2440s.txt | 19 | 88
-Looking at the severed surface of Dr. Mikanagi's neck, I predict it was cut with something like a saw.
-03b1_2440s.txt | 20 | 36
-Was the culprit trying to decapitate him?
-03b1_2440s.txt | 21 | 34
-If so, it's the same as before, but-
-03b1_2440s.txt | 22 | 38
-How many times do they have to repeat this before they're satisfied-
-03b1_2440s.txt | 24 | 36
-Fresh blood is splattered throughout the room.
-03b1_2440s.txt | 25 | 40
-There were several handprints on Dr. Mikanagi's white coat.
-03b1_2440s.txt | 27 | 28
-They're likely Shion-san's handprints.
-03b1_2440s.txt | 28 | 42
-She saw Dr. Mikanagi, and in her shock, she rushed to him and touched him-
-03b1_2440s.txt | 29 | 36
-The clothes wouldn't be that soiled unless she touched them.
-03b1_2440s.txt | 30 | 26
-That's the interpretation if one views it favorably.
-03b1_2440s.txt | 32 | 30
-...Shion-san was also stained with blood.
+It's white. I can't see a thing
 03b1_2440s.txt | 35 | 28
-A single white flower was fallen on the floor.
-03b1_2440s.txt | 36 | 32
-Enough already... I want this to end...
-03b1_2440s.txt | 38 | 16
-This flower is...
+White flower's on the floor
 03b1_2440s.txt | 39 | 28
-A single white flower was fallen on the floor.
-03b1_2440s.txt | 40 | 22
-Why in a place like this...?
-03b1_2440s.txt | 41 | 32
-A snowdrop flower is lying there.
-03b1_2440s.txt | 42 | 70
-In this place-no, a single-edged saw, which doesn't belong in Dr. Mikanagi's room, is lying there.
-03b1_2440s.txt | 43 | 34
-Bloody handprints were clearly adhering to it.
-03b_0720s.txt | 1 | 36
-The piano keys where Benio-san lay slumped.
-03b_0720s.txt | 2 | 38
-Blood had splattered across them, staining them bright red.
-03b_0720s.txt | 4 | 30
-...There are scratches on the keys.
-03b_0720s.txt | 5 | 64
-Right next to the severed surface of the neck, there were scratches as if made by something.
-03b_0720s.txt | 7 | 36
-I wonder if they were made when the head was cut off...
-03b_0720s.txt | 9 | 96
-That might be it. Since the neck was likely severed with a saw, the tip of the blade probably hit the keys.
-03b_0720s.txt | 12 | 56
-That would make it different from when Rokuyou-san was killed...
-03b_0720s.txt | 14 | 76
-If it had been an axe, it wouldn't have left such small scratches. The keys are broken.
-03b_0720s.txt | 16 | 60
-Judging from the amount of blood, there's no doubt the decapitation occurred here.
-03b_0720s.txt | 19 | 32
-The head was likely severed with a saw.
-03b_0720s.txt | 20 | 46
-Fresh blood had splattered onto the black piano as well.
-03b_0720s.txt | 22 | 62
-Perhaps because she always kept it clean, no fingerprint-like smudges were visible.
-03b_0720s.txt | 25 | 38
-A single white flower had fallen into the pool of blood.
-03b_0720s.txt | 32 | 38
-A single white flower had fallen into the pool of blood.
-03b_0720s.txt | 34 | 40
-Once again, just like with Rokuyou-san and Ai-san...
-03b_0720s.txt | 36 | 18
-What is this flower...?
-03b_0720s.txt | 37 | 38
-A single white flower had fallen into the pool of blood.
-03b_0720s.txt | 38 | 22
-Why in a place like this...
-03b_0720s.txt | 42 | 22
-...That's a sickening thought.
-03b_0720s.txt | 44 | 44
-Benio-san's corpse lay face down on the piano keys.
-03b_0720s.txt | 46 | 32
-Can you tell the cause of death...?
-03b_0720s.txt | 50 | 28
-...What about the possibility of poison?
-03b_0720s.txt | 54 | 42
-I see... we can't perform an autopsy here, after all...
-03b_0720s.txt | 56 | 40
-That sort of thing should be left to the police.
-03b_0720s.txt | 57 | 52
-Benio-san's headless body lay face down on the piano.
-03b_2440s.txt | 1 | 22
-The fire in the fireplace is still burning.
-03b_2440s.txt | 2 | 28
-There doesn't seem to be anything unusual.
-03b_2440s.txt | 3 | 34
-I don't see anything strange about the fireplace.
-03b_2440s.txt | 4 | 30
-This is the door connected to my room.
+White flower's on the floor
 03b_2440s.txt | 7 | 34
-Souko-san returned after checking the door.
+Souko checked and returned
 03b_2440s.txt | 8 | 22
-Everything seems normal.
+Everything looks fine
 03b_2440s.txt | 9 | 34
-It's pure white outside the window; I can't see anything.
-03b_2440s.txt | 10 | 30
-I wonder when this blizzard will stop...
-03b_2440s.txt | 11 | 36
-The blizzard outside seems to be getting stronger.
-03b_2440s.txt | 12 | 38
-Fresh blood is splattered across the sheets.
-03b_2440s.txt | 14 | 40
-Splashes of blood are clinging to the sheets.
+It's white. I can't see a thing
 03b_2440s.txt | 15 | 32
-Dr. Mikanagi's remains lying on the floor.
-03b_2440s.txt | 16 | 20
-The head was left behind.
-03b_2440s.txt | 17 | 44
-The blood overflowing from the severed neck hasn't dried yet.
-03b_2440s.txt | 18 | 56
-That makes sense-he was talking to me just a short while ago.
-03b_2440s.txt | 19 | 36
-There's no need to even investigate the estimated time of death.
-03b_2440s.txt | 20 | 40
-...It seems I'm starting to break down, too.
-03b_2440s.txt | 21 | 88
-Looking at the severed surface of Dr. Mikanagi's neck, I predict it was cut with something like a saw.
-03b_2440s.txt | 22 | 36
-Was the culprit trying to decapitate him?
-03b_2440s.txt | 23 | 34
-If so, it's the same as before, but-
-03b_2440s.txt | 24 | 38
-How many times do they have to repeat this before they're satisfied-
-03b_2440s.txt | 26 | 44
-Fresh blood is violently splattered around the body.
-03b_2440s.txt | 27 | 40
-There were several handprints on Dr. Mikanagi's white coat.
-03b_2440s.txt | 29 | 28
-They're likely Shion-san's handprints.
-03b_2440s.txt | 30 | 42
-She saw Dr. Mikanagi, and in her shock, she rushed to him and touched him-
-03b_2440s.txt | 31 | 36
-The clothes wouldn't be that soiled unless she touched them.
-03b_2440s.txt | 32 | 26
-That's the interpretation if one views it favorably.
-03b_2440s.txt | 34 | 30
-...Shion-san was also stained with blood.
+Doctor's body is on the floor
 03b_2440s.txt | 37 | 28
-A single white flower was fallen on the floor.
+White flower's on the floor
 03b_2440s.txt | 44 | 28
-A single white flower was fallen on the floor.
-03b_2440s.txt | 46 | 40
-Once again, just like with Rokuyou-san and Ai-san...
-03b_2440s.txt | 48 | 18
-What is this flower...?
+White flower's on the floor
 03b_2440s.txt | 49 | 28
-A single white flower was fallen on the floor.
-03b_2440s.txt | 50 | 22
-Why in a place like this...
-03b_2440s.txt | 54 | 22
-...That's a sickening thought.
-03b_2440s.txt | 56 | 70
-In this place-no, a single-edged saw, which doesn't belong in Dr. Mikanagi's room, is lying there.
-03b_2440s.txt | 57 | 34
-Bloody handprints were clearly adhering to it.
+White flower's on the floor
 03b_2700s.txt | 3 | 24
-I approached Shion-san's remains.
-03b_2700s.txt | 4 | 32
-This was clearly different from the previous cases.
-03b_2700s.txt | 8 | 60
-It would seem so. Unlike the others, there's a possibility of suicide here.
-03b_2700s.txt | 12 | 46
-Can you tell what kind of poison killed her...?
-03b_2700s.txt | 15 | 38
-Souko-san leaned her face close to Shion-san's mouth.
-03b_2700s.txt | 17 | 26
-This smell... maybe cyanide.
-03b_2700s.txt | 23 | 76
-...Potassium cyanide has such a terrible taste that it's impossible to drink without noticing.
-03b_2700s.txt | 25 | 68
-Exactly. But that only strengthens the possibility that it was Shion-san's suicide.
-03b_2700s.txt | 27 | 40
-...She might have been forced to drink it.
-03b_2700s.txt | 31 | 38
-...It doesn't look like we can reach a conclusion right now.
-03b_2700s.txt | 35 | 94
-But... wasn't it aconite that was used when Shion-san collapsed this morning? Why use something different now...?
-03b_2700s.txt | 37 | 40
-...Maybe because a different person set it up?
-03b_2700s.txt | 51 | 80
-...Because she didn't actually intend to die. It didn't seem to be a lethal dose, after all...
+I approached Shion
 03b_2700s.txt | 53 | 42
-In that case... the one who used the cyanide was...
+Then... the one with cyanide was...
+03a_1300s.txt | 10 | 46
+Narumi reached through the grate with the wood
+03a_1300s.txt | 15 | 28
+I'll find something else
+03a_1300s.txt | 27 | 46
+Narumi reached through the grate with the rope
+03a_1300s.txt | 41 | 26
+I'll find something else
+03a_2300s.txt | 17 | 26
+A German-Japanese lexicon
+03a_2300s.txt | 30 | 22
+I scanned a book
+03a_2300s.txt | 54 | 22
+I scanned a book
+03a_2300s.txt | 55 | 18
+Architecture book
+03a_2300s.txt | 60 | 20
+An architecture book
+03a_2300s.txt | 61 | 22
+I scanned a book
+03a_2500s.txt | 119 | 44
+I thought we were close to finding it
+03a_2500s.txt | 127 | 34
+Slightly... but I have no proof
+03a_2545s.txt | 91 | 28
+With that, he vanished
+03b1_2440s.txt | 1 | 22
+The fireplace burns
+03b1_2440s.txt | 3 | 34
+Nothing's wrong with the fireplace
+03b1_2440s.txt | 13 | 36
+Mikanagi's remains are on the bed
+03b1_2440s.txt | 17 | 36
+No need to check the time of death
+03b1_2440s.txt | 20 | 36
+Did the killer want to behead him?
+03b1_2440s.txt | 29 | 36
+They wouldn't be so dirty otherwise
+03b1_2440s.txt | 30 | 26
+It's the kind view of it
+03b1_2440s.txt | 32 | 30
+Shion was also blood-stained
+03b_2440s.txt | 1 | 22
+The fireplace burns
+03b_2440s.txt | 3 | 34
+Nothing's wrong with the fireplace
+03b_2440s.txt | 19 | 36
+No need to check the time of death
+03b_2440s.txt | 22 | 36
+Did the killer want to behead him?
+03b_2440s.txt | 31 | 36
+They wouldn't be so dirty otherwise
+03b_2440s.txt | 32 | 26
+It's the kind view of it
+03b_2440s.txt | 34 | 30
+Shion was also blood-stained
+03b_2700s.txt | 17 | 26
+Smells... like cyanide
 03b_2700s.txt | 58 | 20
-Paintings are hanging on the wall.
+Wall paintings
 03b_2700s.txt | 59 | 20
-...They're Tsujimura-san's paintings.
-03b_2700s.txt | 60 | 62
-The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
-03b_2700s.txt | 62 | 48
-...It's probably best not to touch this carelessly.
-03b_2700s.txt | 63 | 32
-There are likely fingerprints on it.
-03b_2700s.txt | 69 | 74
-A fast-acting poison, surely... but if it was something highly irritant, it would be difficult.
-03b_2700s.txt | 71 | 32
-Because she would have spat it out...
-03b_2700s.txt | 73 | 82
-It's not just that. The possibility of murder also drops. No one would drink something they knew was poison.
-03b_2700s.txt | 75 | 66
-True... but the one who brought this medicine was Maya-san, wasn't it...?
-03b_2700s.txt | 77 | 84
-...Of course, there's a possibility that Maya-san killed Shion-san. That's exactly why we have to investigate carefully.
-03b_2700s.txt | 78 | 60
-Souko-san picked up the cup using a handkerchief to avoid touching it directly.
-03b_2700s.txt | 80 | 74
-A little bit of liquid remains. If the police analyze it, they'll be able to determine the ingredients.
-03b_2700s.txt | 84 | 46
-I know. There must be more we can do right here.
-03b_2700s.txt | 85 | 22
-How could this happen...
-03b_2700s.txt | 86 | 24
-The snow seems to be weakening.
+Tsujimura's art
 03b_2700s.txt | 87 | 40
-It'll likely be clear tomorrow, but this mansion...
+Clear tomorrow, but this mansion...
 03b_2700s.txt | 88 | 20
-The snow is letting up.
-03c_2700s.txt | 2 | 58
-Mikanagi-sensei, do you have any idea when Shion-san passed away?
+The snow is stopping
 03c_2700s.txt | 8 | 20
-A painting hangs on the wall.
-03c_2700s.txt | 9 | 20
-...It's Tsujimura-san's work.
-03c_2700s.txt | 10 | 62
-The painting Tsujimura-san painted looked down upon Shion-san's silent remains.
-03c_2700s.txt | 11 | 26
-A glass is rolling on the floor.
-03c_2700s.txt | 15 | 62
-Better not touch it carelessly. There might be fingerprints left on it.
-03c_2700s.txt | 18 | 44
-I take out a handkerchief, carefully wrap it, and pick it up.
-03c_2700s.txt | 20 | 38
-...There's a little bit of liquid left inside.
+A wall painting
 03c_2700s.txt | 23 | 24
-I hand the glass to Mikanagi-sensei.
-03c_2700s.txt | 25 | 88
-Don't sniff it carelessly. If it's cyanide like I suspect, even the gas alone could be fatal.
+I give the glass to him
 03c_2700s.txt | 28 | 22
-How did it come to this...
-03c_2700s.txt | 29 | 24
-The snow seems to be letting up.
+How did this happen?
 03c_2700s.txt | 30 | 38
-Tomorrow will probably be clear, but this mansion...
+Clear tomorrow, but this mansion...
 03c_2700s.txt | 31 | 20
-The snow is getting weaker.
+The snow is stopping
 03c_2710s.txt | 8 | 20
-Paintings are hanging on the wall.
+Wall paintings
 03c_2710s.txt | 9 | 20
-...They're Tsujimura-san's paintings.
-03c_2710s.txt | 10 | 62
-The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
-03c_2710s.txt | 11 | 26
-A cup was rolling on the floor.
-03c_2710s.txt | 13 | 36
-...Did she drink the poison with this?
-03c_2710s.txt | 18 | 44
-I took out a handkerchief, carefully wrapped the cup, and lifted it.
-03c_2710s.txt | 20 | 38
-...A little bit of liquid remains inside.
+Tsujimura's art
 03c_2710s.txt | 23 | 24
-I handed the cup to the doctor.
-03c_2710s.txt | 28 | 22
-How could this happen...
-03c_2710s.txt | 29 | 24
-The snow seems to be weakening.
+I give the cup to him
 03c_2710s.txt | 30 | 38
-It'll likely be clear tomorrow, but this mansion...
+Clear tomorrow, but this mansion...
 03c_2710s.txt | 31 | 20
+The snow is stopping
+02_0930s.txt | 4 | 34
+Even the windows are frozen shut.
+02_0930s.txt | 6 | 68
+I hoped to see Shion's tower... but I can't see a thing.
+02_0930s.txt | 7 | 40
+The window was caked in snow and ice.
+02_0930s.txt | 9 | 66
+The room's freezing. The condensation must've frozen solid.
+02_0930s.txt | 10 | 24
+The window won't budge.
+02_0930s.txt | 11 | 32
+Paintings decorate this room.
+02_0930s.txt | 12 | 34
+No need to focus on them now.
+02_0930s.txt | 13 | 20
+Irrelevant now.
+02_0930s.txt | 27 | 102
+If the killer left this way, they couldn't lock the door behind them. That's the logic.
+02_0930s.txt | 30 | 56
+Tsujimura's door is securely locked.
+02_0930s.txt | 32 | 40
+The wardrobe... just spare clothes.
+02_0930s.txt | 34 | 28
+It wasn't rummaged through.
+02_0930s.txt | 35 | 32
+The wardrobe is undisturbed.
+02_0930s.txt | 37 | 22
+It's Rokuyou's bag.
+02_0930s.txt | 39 | 54
+At a glance, it seems untouched... but...
+02_0930s.txt | 41 | 26
+That rules out robbery.
+02_0930s.txt | 42 | 42
+Rokuyou's bag wasn't tampered with.
+02_0930s.txt | 46 | 74
+It's grim to say, but... the cold slowed the decomposition.
+02_0930s.txt | 48 | 82
+It went out a while ago. Likely before the murder occurred.
+02_0930s.txt | 49 | 38
+The fire went out during the night.
+02_0930s.txt | 55 | 68
+No bloodstains here. Was it wrapped in something?
+02_0930s.txt | 58 | 26
+This is the murder weapon.
+02_0930s.txt | 60 | 64
+Looks like it... but was it the direct cause of death?
+02_0930s.txt | 64 | 74
+The head's gone. He could have been shot for all we know.
+02_0930s.txt | 66 | 80
+Maybe the killer severed the head to hide a gunshot wound.
+02_0930s.txt | 68 | 82
+Just a guess. A gunshot would have alerted everyone.
+02_0930s.txt | 71 | 32
+This axe is the murder weapon.
+02_0930s.txt | 75 | 58
+Feathers everywhere... but almost no blood spray.
+02_0930s.txt | 78 | 26
+An axe is in the pillow.
+02_0930s.txt | 80 | 60
+Souko, is something in his trouser pocket?
+02_0930s.txt | 82 | 26
+The pocket... it's a key.
+02_0930s.txt | 84 | 28
+It's the key to this room.
+02_0930s.txt | 85 | 38
+The room key was in his pocket.
+02_0930s.txt | 87 | 18
+And this flower?
+02_0930s.txt | 91 | 36
+If so, it's in very poor taste.
+02a_1210s.txt | 1 | 30
+A small window lets light in.
+02a_1210s.txt | 2 | 54
+It's unlocked, but too small for a person to fit.
+02a_1210s.txt | 3 | 44
+The killer couldn't have used this exit.
+02a_1210s.txt | 5 | 44
+The rope from around Ai's neck...
+02a_1210s.txt | 7 | 56
+Wire's braided inside... it's hard to cut.
+02a_1210s.txt | 9 | 84
+One end's on the wall... the other's in the clock gears.
+02a_1210s.txt | 10 | 46
+A wire-reinforced rope from Ai's neck.
+02a_1210s.txt | 12 | 30
+What's this rod for?
+02a_1210s.txt | 13 | 34
+I found a wood scrap on the floor.
+02a_1210s.txt | 15 | 42
+Doesn't look important, but...
+02a_1210s.txt | 16 | 32
+It's a meter-long piece of wood.
+02a_1210s.txt | 17 | 26
+The gears for the clock.
+02a_1210s.txt | 18 | 26
+They aren't moving now.
+02a_1210s.txt | 19 | 20
+The gears are still.
+02b1_1245s.txt | 1 | 30
+A small window for light.
+02b1_1245s.txt | 2 | 54
+It's unlocked, but too small for a person to pass.
+02b1_1245s.txt | 3 | 44
+No chance the killer used this way.
+02b1_1245s.txt | 5 | 44
+The rope from around Ai's neck...
+02b1_1245s.txt | 7 | 56
+Wire's woven in... it won't be easy to cut.
+02b1_1245s.txt | 9 | 84
+One end is on the wall... the other's in the gears.
+02b1_1245s.txt | 13 | 34
+I found a wood scrap on the floor.
+02b1_1245s.txt | 15 | 42
+Doesn't seem meaningful, but...
+02b1_1245s.txt | 16 | 20
+A wooden stick.
+02b1_1245s.txt | 17 | 26
+The gears for the clock.
+02b1_1245s.txt | 18 | 26
+They've stopped moving.
+02b1_1245s.txt | 19 | 20
+The gears are still.
+02b1_1245s.txt | 20 | 42
+A scrap of paper is on the floor.
+02b1_1245s.txt | 21 | 28
+Doesn't seem special, but...
+02b1_1245s.txt | 22 | 30
+It just looks like trash.
+02b1_1245s.txt | 23 | 50
+Dr. Mikanagi prayed, then began Ai's autopsy.
+02b1_1245s.txt | 28 | 32
+Ai died from suffocation.
+02b2_1300s.txt | 1 | 30
+A small window for light.
+02b2_1300s.txt | 2 | 54
+It's unlocked, but too small to pass through.
+02b2_1300s.txt | 3 | 44
+The killer didn't use this.
+02b2_1300s.txt | 5 | 40
+Blood sprayed when the neck was cut.
+02b2_1300s.txt | 7 | 28
+But... the head is missing.
+02b2_1300s.txt | 11 | 64
+Why? Unless this isn't actually Ai's body.
+02b2_1300s.txt | 17 | 50
+Dr. Mikanagi prayed, then began Ai's autopsy.
+02b2_1300s.txt | 27 | 78
+She was likely killed first, then moved and decapitated.
+02b2_1300s.txt | 31 | 26
+The gears for the clock.
+02b2_1300s.txt | 32 | 26
+They've stopped moving.
+02b2_1300s.txt | 33 | 20
+The gears are still.
+02b2_1300s.txt | 36 | 28
+A white flower on the floor.
+02b2_1300s.txt | 43 | 28
+A white flower on the floor.
+02b2_1300s.txt | 44 | 22
+Why is this here?
+02b2_1300s.txt | 48 | 22
+A gruesome thought.
+02b2_1300s.txt | 50 | 42
+A scrap of paper is on the floor.
+02b2_1300s.txt | 51 | 28
+Doesn't seem special, but...
+02b2_1300s.txt | 52 | 30
+It just looks like trash.
+02b2_1300s.txt | 56 | 86
+They used that to sever the neck. It's just like Isamu's.
+02b2_1300s.txt | 59 | 38
+The same thing happened to Rokuyou.
+02b_1210s.txt | 1 | 30
+A small window for light.
+02b_1210s.txt | 2 | 54
+It's unlocked, but too small to pass through.
+02b_1210s.txt | 3 | 44
+The killer didn't use this.
+02b_1210s.txt | 5 | 44
+The rope from around Ai's neck...
+02b_1210s.txt | 7 | 56
+Wire's woven in... it won't be easy to cut.
+02b_1210s.txt | 9 | 84
+One end is on the wall... the other's in the gears.
+02b_1210s.txt | 10 | 48
+This rope strangled Ai right before me.
+02b_1210s.txt | 13 | 34
+I found a wood scrap on the floor.
+02b_1210s.txt | 15 | 42
+Doesn't seem meaningful, but...
+02b_1210s.txt | 16 | 20
+A wooden stick.
+02b_1210s.txt | 17 | 26
+The gears for the clock.
+02b_1210s.txt | 18 | 26
+They've stopped moving.
+02b_1210s.txt | 19 | 20
+The gears are still.
+02b_1210s.txt | 20 | 42
+A scrap of paper is on the floor.
+02b_1210s.txt | 21 | 28
+Doesn't seem special, but...
+02b_1210s.txt | 22 | 30
+It just looks like trash.
+02b_1210s.txt | 23 | 50
+Dr. Mikanagi prayed, then began Ai's autopsy.
+02b_1210s.txt | 28 | 32
+Ai died from suffocation.
+02c_1900s.txt | 1 | 16
+The room's door.
+02c_1900s.txt | 2 | 54
+A cord comes in through the gap under the door.
+02c_1900s.txt | 3 | 34
+The door itself seems fine.
+02c_1900s.txt | 4 | 70
+A scrap of paper was stuck to a towel on the wall.
+02c_1900s.txt | 5 | 28
+Doesn't seem special, but...
+02c_1900s.txt | 6 | 42
+No blood spray on the towel.
+02c_1900s.txt | 8 | 34
+Did this cause the short?
+02c_1900s.txt | 11 | 52
+The power cord in the tub caused the short circuit.
+02c_1900s.txt | 14 | 52
+A white flower floated in the bloody bathtub.
+02c_1900s.txt | 21 | 52
+A white flower floated in the bloody bathtub.
+02c_1900s.txt | 22 | 22
+Why is it here?
+02c_1900s.txt | 26 | 22
+A gruesome thought.
+02c_1900s.txt | 27 | 38
+A snowdrop floats in the tub.
+02c_1900s.txt | 29 | 40
+We'll autopsy her after she's out.
+02c_1900s.txt | 32 | 28
+I'll examine the body later.
+02c_1900s.txt | 34 | 40
+Blood sprayed when the neck was cut.
+02c_1900s.txt | 36 | 28
+But... the head is missing.
+02c_1900s.txt | 40 | 64
+Why? Unless this isn't actually Ai's body.
+03a_1300s.txt | 1 | 36
+A wood scrap was in storage.
+03a_1300s.txt | 7 | 36
+Can't you reach it, Narumi?
+03a_1300s.txt | 12 | 72
+No good. I can't move it without hooking it on something.
+03a_1300s.txt | 16 | 54
+This stick won't move the bar.
+03a_1300s.txt | 17 | 40
+A meter-long rope came out of a box.
+03a_1300s.txt | 18 | 30
+Could this be useful?
+03a_1300s.txt | 20 | 54
+Narumi, is the door blocked by a rod?
+03a_1300s.txt | 29 | 40
+No good. It won't hook onto it.
+03a_1300s.txt | 31 | 34
+It's not going to be like fishing.
+03a_1300s.txt | 32 | 34
+I'll look for something else.
+03a_1300s.txt | 33 | 40
+I'll search for something useful.
+03a_1300s.txt | 34 | 20
+The raw vegetables.
+03a_1300s.txt | 36 | 34
+Could we use these for something?
+03a_1300s.txt | 42 | 30
+Vegetables aren't much help.
+03a_1300s.txt | 43 | 24
+This looks like rice.
+03a_1300s.txt | 44 | 96
+Plenty of food, but it's useless for our current situation.
+03a_1300s.txt | 46 | 62
+I'll ask Narumi for rice once we're out.
+03a_1300s.txt | 47 | 42
+I found a hammer in the cupboard.
+03a_1300s.txt | 48 | 82
+Too short to reach the door bar, but it might be useful for something.
+03a_1300s.txt | 49 | 32
+I'll keep it just in case.
+03a_1300s.txt | 50 | 44
+Nothing else useful in the cupboards.
+03a_1300s.txt | 51 | 54
+A box of nails was on the miscellaneous shelf.
+03a_1300s.txt | 57 | 36
+Maybe they'll be useful...
+03a_1300s.txt | 58 | 46
+I'll take them and keep looking.
+03a_1300s.txt | 59 | 28
+Nails alone won't help.
+03a_1300s.txt | 60 | 54
+A box of nails was on the miscellaneous shelf.
+03a_1300s.txt | 66 | 36
+Maybe they'll be useful...
+03a_1300s.txt | 67 | 46
+I'll take them and keep looking.
+03a_1300s.txt | 68 | 28
+Nails alone won't help.
+03a_1300s.txt | 69 | 74
+The drawers were just full of junk. Nothing useful here.
+03a_1300s.txt | 71 | 40
+Nothing useful in here.
+03a_1300s.txt | 73 | 86
+It was tarnished silverware, though it was hard to tell how old it was.
+03a_1300s.txt | 75 | 40
+Narumi, can we use this?
+03a_1300s.txt | 80 | 30
+I'll keep searching.
+03a_1300s.txt | 81 | 40
+Nothing useful in here.
+03a_1300s.txt | 83 | 44
+There's quite a gap when I touch it.
+03a_1300s.txt | 92 | 50
+Worst case, we'll make a hole here.
+03a_1300s.txt | 93 | 58
+We could break through... but how long would it take?
+03a_2300s.txt | 1 | 54
+A row of Lovecraft's complete works is here.
+03a_2300s.txt | 3 | 32
+Lovecraft's works are here.
+03a_2300s.txt | 4 | 40
+"The Encyclopedia of Occultism" is here.
+03a_2300s.txt | 5 | 16
+Whose are these?
+03a_2300s.txt | 9 | 38
+There are grimoires here.
+03a_2300s.txt | 10 | 74
+Books on Tohoku folklore, like "Tono Monogatari," are here.
+03a_2300s.txt | 11 | 28
+Nothing unusual here.
+03a_2300s.txt | 12 | 36
+Tohoku folklore books are here.
+03a_2300s.txt | 14 | 50
+Is this German? I can't read it.
+03a_2300s.txt | 15 | 60
+There are music symbols. It must be a music book.
+03a_2300s.txt | 16 | 36
+A German book on music.
+03a_2300s.txt | 19 | 24
+A dictionary is here.
+03a_2300s.txt | 20 | 56
+This looks like a German travel guide.
+03a_2300s.txt | 21 | 42
+I'd love to go, but I can't.
+03a_2300s.txt | 22 | 28
+A German travel guide.
+03a_2300s.txt | 24 | 80
+It's about a detective solving murders in a Ueno brothel.
+03a_2300s.txt | 25 | 88
+I shouldn't get lost in a book now. I'll save it for later.
+03a_2300s.txt | 28 | 54
+It covers the World Wars and Germany's division.
+03a_2300s.txt | 29 | 24
+A German history book.
+03a_2300s.txt | 31 | 18
+A music textbook.
+03a_2300s.txt | 32 | 40
+Scales... I don't understand this.
+03a_2300s.txt | 34 | 46
+I don't want to recall my music grades.
+03a_2300s.txt | 38 | 38
+A scrap of paper in the book.
+03a_2300s.txt | 39 | 14
+What is this?
+03a_2300s.txt | 41 | 40
+I'm Kousei Nanatsuki, a composer.
+03a_2300s.txt | 43 | 50
+Read this with care. ~To be continued~
+03a_2300s.txt | 46 | 50
+"A Man's Story - Ch. 1" is tucked inside.
+03a_2300s.txt | 48 | 84
+Reference book with photos of Western fortifications.
+03a_2300s.txt | 49 | 28
+A German architecture book.
+03a_2300s.txt | 50 | 82
+A story about a pianist caught in a strange incident.
+03a_2300s.txt | 52 | 96
+I shouldn't get lost in a book now. I'll save it for later.
+03a_2300s.txt | 53 | 18
+A mystery novel.
+03a_2300s.txt | 56 | 56
+Floor numbering differs in the UK and US.
+03a_2300s.txt | 57 | 56
+The second floor is "2F" in the US, but "1F" in the UK.
+03a_2300s.txt | 58 | 26
+That's confusing.
+03a_2300s.txt | 59 | 78
+"Floor" is English; "Stock" is apparently German.
+03a_2300s.txt | 62 | 22
+A map guidebook.
+03a_2300s.txt | 63 | 102
+Directions are "EWSN" in English, but "OWSN" in German.
+03a_2300s.txt | 64 | 64
+Only East changes? More than the first letter must be different.
+03a_2300s.txt | 66 | 26
+A mystery novel.
+03a_2300s.txt | 68 | 76
+It features a girl from a painting and a sister who loves bugs.
+03a_2300s.txt | 69 | 96
+I shouldn't get lost in a book now. I'll save it for later.
+03a_2500s.txt | 5 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 11 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 17 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 23 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 29 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 35 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 41 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 47 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 53 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 59 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 65 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 71 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 77 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 83 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 89 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 95 | 50
+Narumi slid a knife into the key I indicated.
+03a_2500s.txt | 97 | 24
+The piano key cracked.
+03a_2500s.txt | 101 | 28
+Just a regular piano key.
+03a_2500s.txt | 102 | 60
+The wood core was visible where the key's surface peeled.
+03a_2500s.txt | 106 | 28
+"What are you doing?"
+03a_2500s.txt | 107 | 22
+Benio spoke behind us.
+03a_2500s.txt | 115 | 74
+No excuses. You broke a keepsake of my father's, idiot.
+03a_2500s.txt | 121 | 32
+We have to give up for now.
+03a_2500s.txt | 125 | 36
+Shion? Did you think of something?
+03a_2500s.txt | 132 | 24
+The piano key cracked.
+03a_2500s.txt | 150 | 66
+Benio will be furious about the key. I must apologize.
+03a_2500s.txt | 151 | 64
+We hid the fragments and left the performance room.
+03a_2545s.txt | 1 | 58
+Dusty paintings hang on the wall, hard to see.
+03a_2545s.txt | 5 | 36
+They were meticulously organized.
+03a_2545s.txt | 8 | 36
+They were meticulously organized.
+03a_2545s.txt | 11 | 36
+They were meticulously organized.
+03a_2545s.txt | 16 | 60
+A lid-like piece inside the drawer was blocking it.
+03a_2545s.txt | 18 | 54
+A depression was in the center where marquetry peeled.
+03a_2545s.txt | 20 | 64
+I tried to lift it by the edge, but it wouldn't budge.
+03a_2545s.txt | 21 | 46
+The drawer itself wouldn't come out.
+03a_2545s.txt | 24 | 58
+Narumi took my place and peered inside.
+03a_2545s.txt | 34 | 36
+It fits, but something's missing.
+03a_2545s.txt | 35 | 36
+It fits, but something's missing.
+03a_2545s.txt | 36 | 36
+It fits, but something's missing.
+03a_2545s.txt | 37 | 38
+Almost filled. Just a little more.
+03a_2545s.txt | 38 | 38
+Almost filled. Just a little more.
+03a_2545s.txt | 39 | 38
+Almost filled. Just a little more.
+03a_2545s.txt | 41 | 46
+It fit perfectly into the missing section.
+03a_2545s.txt | 43 | 28
+Alright, I'll push it.
+03a_2545s.txt | 44 | 28
+I pushed the fragment down.
+03a_2545s.txt | 45 | 20
+A clicking sound.
+03a_2545s.txt | 48 | 44
+The lid popped up, maybe via a spring.
+03a_2545s.txt | 52 | 60
+Thanks, Narumi. You're a master thief.
+03a_2545s.txt | 57 | 24
+This is a music score.
+03a_2545s.txt | 58 | 28
+A carefully bound score.
+03a_2545s.txt | 69 | 44
+Maybe *this* is the inheritance.
+03a_2545s.txt | 71 | 40
+I feel like it's something else...
+03a_2545s.txt | 74 | 28
+It didn't seem to fit.
+03a_2545s.txt | 79 | 46
+It's bothering me, but I can't do anything.
+03a_2545s.txt | 81 | 30
+Nothing else left to see.
+03a_2545s.txt | 84 | 44
+A scrap of paper was inside the drawer.
+03a_2545s.txt | 85 | 14
+What is this?
+03a_2545s.txt | 87 | 70
+The man hunched his back and left the room sheepishly.
+03a_2545s.txt | 89 | 92
+"Make good takoyaki, then let me eat them again. I'll look forward to it."
+03a_2545s.txt | 90 | 94
+"Call me Old Man, damn it... taking pity on me when you're a brat. Maybe I'll come by."
+03a_2545s.txt | 92 | 56
+Still, those takoyaki were terrible. ~The End~
+03a_2545s.txt | 95 | 48
+"A Man's Story - Ch. 10" is inside.
+03a_2545s.txt | 96 | 48
+A card peeked from a gap in the bricks.
+03a_2545s.txt | 99 | 32
+The card had a "K" on it.
+03a_2545s.txt | 101 | 24
+Another paper is inside.
+03a_2545s.txt | 102 | 112
+Campaign! Collect cards and answer! This is what the survey postcard was for.
+03a_2545s.txt | 105 | 60
+I'm curious, so I'll hold onto this card.
+03a_2545s.txt | 106 | 24
+Another paper is inside.
+03a_2545s.txt | 108 | 80
+Translate the word into Japanese for this work and send the survey.
+03a_2545s.txt | 109 | 86
+Deadline Jan 11, 2010! Ten winners get a small gift!
+03a_2545s.txt | 112 | 44
+I kind of get it, but I kind of don't.
+03a_2545s.txt | 113 | 38
+The bricks can't be removed.
+03a_2545s.txt | 114 | 22
+An art book.
+03a_2545s.txt | 116 | 34
+Nothing particular here.
+03a_2545s.txt | 117 | 22
+A poetry collection.
+03a_2545s.txt | 119 | 30
+Nothing unusual.
+03a_2545s.txt | 120 | 24
+Kousei's diary.
+03a_2545s.txt | 121 | 32
+I'll read it upstairs.
+03a_2545s.txt | 123 | 72
+A faded photo. I can't tell what it was.
+03a_2545s.txt | 124 | 50
+Nothing unusual on the back.
+03a_2545s.txt | 125 | 24
+It's nothing.
+03a_2545s.txt | 127 | 68
+It seems everything was disposed of.
+03a_2545s.txt | 128 | 64
+Kousei likely spent his last moments here before suicide.
+03b1_1500s.txt | 2 | 38
+Blood splattered everywhere.
+03b1_1500s.txt | 4 | 30
+Scratches are on the keys.
+03b1_1500s.txt | 5 | 64
+There were scratches near the severed neck.
+03b1_1500s.txt | 7 | 36
+Maybe from when the head was cut.
+03b1_1500s.txt | 9 | 96
+Probably. A saw was likely used, so the blade hit the keys.
+03b1_1500s.txt | 12 | 56
+That's different from Rokuyou's murder.
+03b1_1500s.txt | 14 | 76
+An axe would leave bigger marks. The keys are broken.
+03b1_1500s.txt | 16 | 60
+The amount of blood proves the decapitation was here.
+03b1_1500s.txt | 19 | 32
+The head was severed with a saw.
+03b1_1500s.txt | 20 | 46
+Fresh blood splattered on the piano.
+03b1_1500s.txt | 22 | 62
+She kept it clean, so there are no smudge marks.
+03b1_1500s.txt | 25 | 34
+A white flower fell on the keys.
+03b1_1500s.txt | 32 | 34
+A white flower fell on the keys.
+03b1_1500s.txt | 34 | 40
+Just like Rokuyou and Ai...
+03b1_1500s.txt | 36 | 18
+And this flower?
+03b1_1500s.txt | 37 | 34
+A white flower fell on the keys.
+03b1_1500s.txt | 38 | 22
+Why is it here?
+03b1_1500s.txt | 42 | 22
+A sickening thought.
+03b1_1500s.txt | 44 | 44
+Benio's corpse lay face down on the keys.
+03b1_1500s.txt | 46 | 32
+Can you tell the cause of death?
+03b1_1500s.txt | 50 | 28
+Could it be poison?
+03b1_1500s.txt | 52 | 78
+Possible. No livor mortis, so death was recent.
+03b1_1500s.txt | 54 | 42
+Right... we can't do an autopsy here.
+03b1_1500s.txt | 56 | 40
+The police should handle that.
+03b1_1500s.txt | 57 | 52
+Benio's headless body lay face down on the piano.
+03b1_2440s.txt | 2 | 28
+Nothing seems unusual.
+03b1_2440s.txt | 4 | 30
+This door leads to my room.
+03b1_2440s.txt | 5 | 28
+No problems with the door.
+03b1_2440s.txt | 8 | 30
+When will this blizzard stop?
+03b1_2440s.txt | 9 | 36
+The blizzard is getting stronger.
+03b1_2440s.txt | 10 | 38
+Fresh blood is on the sheets.
+03b1_2440s.txt | 12 | 40
+Blood splashes cling to the sheets.
+03b1_2440s.txt | 14 | 20
+The head was left.
+03b1_2440s.txt | 15 | 44
+Blood from the neck hasn't dried yet.
+03b1_2440s.txt | 16 | 56
+He was just talking to me a short while ago.
+03b1_2440s.txt | 18 | 40
+I think I'm starting to break down.
+03b1_2440s.txt | 19 | 88
+The neck's cut surface looks like it was made with a saw.
+03b1_2440s.txt | 21 | 34
+If so, it's the same as before.
+03b1_2440s.txt | 22 | 38
+How many times will they repeat this?
+03b1_2440s.txt | 24 | 36
+Fresh blood splattered the room.
+03b1_2440s.txt | 25 | 40
+Handprints are on Dr. Mikanagi's coat.
+03b1_2440s.txt | 27 | 28
+Likely Shion's handprints.
+03b1_2440s.txt | 28 | 42
+She touched him in shock when she saw him.
+03b1_2440s.txt | 36 | 32
+Enough... I want this to end.
+03b1_2440s.txt | 38 | 16
+This flower...
+03b1_2440s.txt | 40 | 22
+Why is it here?
+03b1_2440s.txt | 41 | 32
+A snowdrop lies there.
+03b1_2440s.txt | 42 | 70
+A saw, which doesn't belong here, is in the doctor's room.
+03b1_2440s.txt | 43 | 34
+Bloody handprints adhere to it.
+03b_0720s.txt | 1 | 36
+The piano keys where Benio lay.
+03b_0720s.txt | 2 | 38
+Blood stained them bright red.
+03b_0720s.txt | 4 | 30
+Scratches are on the keys.
+03b_0720s.txt | 5 | 64
+There were scratches near the severed neck.
+03b_0720s.txt | 7 | 36
+Maybe from when the head was cut.
+03b_0720s.txt | 9 | 96
+Probably. A saw was likely used, so the blade hit the keys.
+03b_0720s.txt | 12 | 56
+That's different from Rokuyou's murder.
+03b_0720s.txt | 14 | 76
+An axe would leave bigger marks. The keys are broken.
+03b_0720s.txt | 16 | 60
+The amount of blood proves the decapitation was here.
+03b_0720s.txt | 19 | 32
+The head was severed with a saw.
+03b_0720s.txt | 20 | 46
+Fresh blood splattered on the piano.
+03b_0720s.txt | 22 | 62
+She kept it clean, so there are no smudge marks.
+03b_0720s.txt | 25 | 38
+A white flower fell into the blood.
+03b_0720s.txt | 32 | 38
+A white flower fell into the blood.
+03b_0720s.txt | 34 | 40
+Just like Rokuyou and Ai...
+03b_0720s.txt | 36 | 18
+And this flower?
+03b_0720s.txt | 37 | 38
+A white flower fell into the blood.
+03b_0720s.txt | 38 | 22
+Why is it here?
+03b_0720s.txt | 42 | 22
+A sickening thought.
+03b_0720s.txt | 44 | 44
+Benio's corpse lay face down on the keys.
+03b_0720s.txt | 46 | 32
+Can you tell the cause of death?
+03b_0720s.txt | 50 | 28
+Could it be poison?
+03b_0720s.txt | 54 | 42
+Right... we can't do an autopsy here.
+03b_0720s.txt | 56 | 40
+The police should handle that.
+03b_0720s.txt | 57 | 52
+Benio's headless body lay face down on the piano.
+03b_2440s.txt | 2 | 28
+Nothing seems unusual.
+03b_2440s.txt | 4 | 30
+This door leads to my room.
+03b_2440s.txt | 10 | 30
+When will this blizzard stop?
+03b_2440s.txt | 11 | 36
+The blizzard is getting stronger.
+03b_2440s.txt | 12 | 38
+Fresh blood is on the sheets.
+03b_2440s.txt | 14 | 40
+Blood splashes cling to the sheets.
+03b_2440s.txt | 16 | 20
+The head was left.
+03b_2440s.txt | 17 | 44
+Blood from the neck hasn't dried yet.
+03b_2440s.txt | 18 | 56
+He was just talking to me a short while ago.
+03b_2440s.txt | 20 | 40
+I think I'm starting to break down.
+03b_2440s.txt | 21 | 88
+The neck's cut surface looks like it was made with a saw.
+03b_2440s.txt | 23 | 34
+If so, it's the same as before.
+03b_2440s.txt | 24 | 38
+How many times will they repeat this?
+03b_2440s.txt | 26 | 44
+Fresh blood is splattered around the body.
+03b_2440s.txt | 27 | 40
+Handprints are on Dr. Mikanagi's coat.
+03b_2440s.txt | 29 | 28
+Likely Shion's handprints.
+03b_2440s.txt | 30 | 42
+She touched him in shock when she saw him.
+03b_2440s.txt | 46 | 40
+Just like Rokuyou and Ai...
+03b_2440s.txt | 48 | 18
+And this flower?
+03b_2440s.txt | 50 | 22
+Why is it here?
+03b_2440s.txt | 54 | 22
+A sickening thought.
+03b_2440s.txt | 56 | 70
+A saw, which doesn't belong here, is in the doctor's room.
+03b_2440s.txt | 57 | 34
+Bloody handprints adhere to it.
+03b_2700s.txt | 4 | 32
+This was different from before.
+03b_2700s.txt | 8 | 60
+True. Suicide is a possibility here.
+03b_2700s.txt | 12 | 46
+Can you tell which poison killed her?
+03b_2700s.txt | 15 | 38
+Souko leaned close to Shion's mouth.
+03b_2700s.txt | 23 | 76
+Cyanide tastes so bad, she couldn't drink it unknowingly.
+03b_2700s.txt | 25 | 68
+Exactly. That points towards suicide.
+03b_2700s.txt | 27 | 40
+She might have been forced to drink.
+03b_2700s.txt | 31 | 38
+We can't reach a conclusion yet.
+03b_2700s.txt | 35 | 94
+Why use cyanide now when it was aconite earlier? Why something different?
+03b_2700s.txt | 37 | 40
+Maybe a different person set it up?
+03b_2700s.txt | 51 | 80
+Because she didn't intend to die. It wasn't a lethal dose.
+03b_2700s.txt | 60 | 62
+Tsujimura's art looked down upon Shion's remains.
+03b_2700s.txt | 62 | 48
+Better not touch this carelessly.
+03b_2700s.txt | 63 | 32
+There are likely fingerprints.
+03b_2700s.txt | 69 | 74
+Fast poison, but hard to drink if it's irritant.
+03b_2700s.txt | 71 | 32
+She would've spat it out.
+03b_2700s.txt | 73 | 82
+Murder odds drop too. No one drinks known poison.
+03b_2700s.txt | 75 | 66
+True... but Maya brought this medicine, right?
+03b_2700s.txt | 77 | 84
+Maybe Maya killed her. That's why we must investigate carefully.
+03b_2700s.txt | 78 | 60
+Souko used a handkerchief to pick up the cup.
+03b_2700s.txt | 80 | 74
+Liquid remains. Police can determine the ingredients.
+03b_2700s.txt | 84 | 46
+I know. There must be more we can do here.
+03b_2700s.txt | 85 | 22
+How did this happen?
+03b_2700s.txt | 86 | 24
+The snow is weakening.
+03c_2700s.txt | 2 | 58
+Doctor, do you know when Shion passed away?
+03c_2700s.txt | 9 | 20
+Tsujimura's work.
+03c_2700s.txt | 10 | 62
+Tsujimura's painting looked down upon Shion's remains.
+03c_2700s.txt | 11 | 26
+A glass is on the floor.
+03c_2700s.txt | 15 | 62
+Don't touch it. There might be fingerprints.
+03c_2700s.txt | 18 | 44
+I carefully pick it up with a handkerchief.
+03c_2700s.txt | 20 | 38
+A little liquid remains inside.
+03c_2700s.txt | 25 | 88
+Don't sniff it. If it's cyanide, even the gas could be fatal.
+03c_2700s.txt | 29 | 24
 The snow is letting up.
+03c_2710s.txt | 10 | 62
+Tsujimura's art looked down upon Shion's remains.
+03c_2710s.txt | 11 | 26
+A cup was on the floor.
+03c_2710s.txt | 13 | 36
+Did she drink poison with this?
+03c_2710s.txt | 18 | 44
+I picked up the cup with a handkerchief.
+03c_2710s.txt | 20 | 38
+A little liquid remains inside.
+03c_2710s.txt | 28 | 22
+How could this happen?
+03c_2710s.txt | 29 | 24
+The snow is weakening.
 F05_02s.txt | 14 | 26
 Basement machine room door
 F06_13s.txt | 28 | 14
