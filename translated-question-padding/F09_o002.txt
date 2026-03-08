@@ -1,0 +1,40 @@
+＃想子
+What was in the will? Tell me.--------------------------------------
+＃主人公
+Yeah... you're right.-
+＃摩夜
+I can't speak of it yet.------------------------------------
+＃主人公
+You're right...-----
+＃藍
+I can't discuss the will.-----------------
+＃主人公
+...You're right.----
+＃紅緒
+Ask Takamine about the will.--------------------------------------
+＃主人公
+I see...----------
+＃詩音
+The will... I'm sorry, I don't really know about it...
+＃主人公
+You're right...-----
+＃辻村
+...Regarding that matter, there is nothing I can say.-----------
+＃主人公
+You're right...-----
+＃高嶺
+We spoke of the inheritance.----------------
+＃主人公
+Y-You're right...-------
+＃御巫
+I can't say anything about that.----------------
+＃主人公
+You're right...-----
+＃あかね
+I'm sorry... I don't really know.-
+＃主人公
+I see...----------
+＃なるみ
+The will? I'm not interested.-------------------------------------------
+＃主人公
+I see...----------

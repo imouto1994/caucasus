@@ -1,0 +1,36 @@
+＃想子
+The cathedral is closed while the ceremony lasts.-
+＃主人公
+Yeah...-----------
+＃摩夜
+The cathedral reopens at 8 o'clock.-
+＃主人公
+I see...----------
+＃藍
+The cathedral is always used for Nanatsuki weddings.------
+＃主人公
+Is that so...---------
+＃紅緒
+Wait to enter the chapel.-------------
+＃主人公
+Right.--------
+＃辻村
+The ceremony is underway... please wait a bit.--
+＃主人公
+I see...----------
+＃高嶺
+No entry; ceremony underway.
+＃主人公
+I see...----------
+＃御巫
+Shion-san is in the cathedral now.--------
+＃主人公
+I see.--------
+＃あかね
+Cleaning the cathedral is a chore. It's rarely used, so it stays clean, though.-------------
+＃主人公
+I see.--------
+＃なるみ
+A cathedral only for weddings... a bit decadent, no?
+＃主人公
+I guess so...-----

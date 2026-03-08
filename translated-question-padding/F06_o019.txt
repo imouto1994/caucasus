@@ -1,0 +1,36 @@
+＃摩夜
+Don't enter rooms without leave.--------------
+＃主人公
+Y-Yeah, you're right... my apologies.-
+＃藍
+A wig? I don't know Mother's things.----------
+＃主人公
+I see...----------
+＃紅緒
+Wigs? I don't know a thing.-------------
+＃主人公
+I see...----------
+＃詩音
+Um... I'm sorry, I don't really know...-----
+＃主人公
+That's true...------
+＃辻村
+Regarding the Madam's things, best ask her yourself...------------------
+＃主人公
+You're right...-----
+＃高嶺
+I'm not really sure.----
+＃主人公
+I see...----------
+＃御巫
+I really don't know.----------------
+＃主人公
+I see...----------
+＃あかね
+I'm sorry... I don't really know.-
+＃主人公
+I see...----------
+＃なるみ
+I'm not quite sure about that.
+＃主人公
+I see...----------
