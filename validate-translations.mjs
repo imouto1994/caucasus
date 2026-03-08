@@ -32,6 +32,7 @@ const ORIGINAL_DIR = "original";
 const TRANSLATED_DIR = "translated";
 const TRANSLATED_INSPECTION_DIR = "translated-inspection";
 const TRANSLATED_QUESTION_DIR = "translated-question";
+const TRANSLATED_EXPLORATION_DIR = "translated-exploration";
 const TRANSLATED_VERTICAL_DIR = "translated-vertical";
 
 const isSpeechSource = (line) => line.startsWith("＃");
@@ -200,7 +201,14 @@ async function main() {
   totalSkipped += question.skipped;
   totalMismatched += question.mismatched;
 
-  // Step 4: Validate vertical-style scripts — trim leading whitespace
+  // Step 4: Validate exploration scripts — no trimming needed.
+  console.log(`\n=== ${TRANSLATED_EXPLORATION_DIR}/ ===`);
+  const exploration = await validateDirectory(TRANSLATED_EXPLORATION_DIR, false);
+  totalChecked += exploration.checked;
+  totalSkipped += exploration.skipped;
+  totalMismatched += exploration.mismatched;
+
+  // Step 5: Validate vertical-style scripts — trim leading whitespace
   // before classifying lines, since vertical scripts indent every line.
   console.log(`\n=== ${TRANSLATED_VERTICAL_DIR}/ ===`);
   const vertical = await validateDirectory(TRANSLATED_VERTICAL_DIR, true);

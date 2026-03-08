@@ -41,7 +41,7 @@ import path from "path";
 import Encoding from "encoding-japanese";
 
 const ORIGINAL_DIR = "original";
-const DIRS = ["translated", "translated-inspection", "translated-question", "translated-vertical"];
+const DIRS = ["translated", "translated-inspection", "translated-question", "translated-exploration", "translated-vertical"];
 
 const sjisDecoder = new TextDecoder("shift_jis");
 

@@ -1,0 +1,5360 @@
+F00_01.txt | 1 | 14
+I've arrived at the entrance.
+F00_01.txt | 3 | 28
+There isn't a fireplace here.
+F00_01.txt | 5 | 38
+You're right... let's try somewhere else.
+F00_02.txt | 1 | 20
+I've reached the first-floor hall.
+F00_02.txt | 3 | 28
+There isn't a fireplace here.
+F00_02.txt | 5 | 38
+You're right... let's try somewhere else.
+F00_03.txt | 1 | 20
+I've made my way into the Great Hall.
+F00_03.txt | 3 | 20
+There is a fireplace here.
+F00_03.txt | 5 | 78
+Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
+F00_03.txt | 6 | 18
+I've returned to the Great Hall.
+F00_03.txt | 12 | 36
+If you still want to investigate, then make it quick.
+F00_04.txt | 1 | 14
+I've come to the telephone room.
+F00_04.txt | 2 | 30
+There's no fireplace, so I have no business here.
+F00_04.txt | 3 | 16
+Let's go somewhere else.
+F00_05.txt | 1 | 36
+Narumi-san stops in front of the office.
+F00_05.txt | 3 | 26
+...Tsujimura-san is in there.
+F00_05.txt | 5 | 48
+...In that case, we won't be able to check Shion-san's place either...
+F00_05.txt | 7 | 24
+Let's move on to another area.
+F00_06.txt | 1 | 20
+I've entered the drawing room.
+F00_06.txt | 3 | 20
+There is a fireplace here.
+F00_06.txt | 5 | 78
+Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
+F00_06.txt | 6 | 18
+I've returned to the drawing room.
+F00_06.txt | 12 | 36
+If you still want to investigate, then make it quick.
+F00_07.txt | 1 | 14
+This is the storage room.
+F00_07.txt | 2 | 30
+There's no fireplace, so I have no business here.
+F00_07.txt | 3 | 16
+Let's go somewhere else.
+F00_08.txt | 1 | 18
+I've made my way to the dining hall.
+F00_08.txt | 3 | 20
+There is a fireplace here.
+F00_08.txt | 5 | 78
+Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
+F00_08.txt | 6 | 16
+I've returned to the dining hall.
+F00_08.txt | 12 | 36
+If you still want to investigate, then make it quick.
+F00_09.txt | 1 | 30
+I've reached the corridor in front of the kitchen.
+F00_09.txt | 2 | 12
+Or so I thought...
+F00_09.txt | 4 | 36
+This isn't it. There's no fireplace here.
+F00_09.txt | 6 | 42
+You're right... and it's quite dilapidated besides...
+F00_09.txt | 8 | 24
+Let's try somewhere else.
+F00_10.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_10.txt | 6 | 24
+I've come to Akane-san's room.
+F00_10.txt | 7 | 28
+There's a fireplace here as well, but...
+F00_10.txt | 12 | 52
+We'll only check here if we've searched everywhere else and found nothing.
+F00_11.txt | 1 | 28
+I've arrived at the door to Narumi-san's room.
+F00_11.txt | 3 | 32
+My room wouldn't have anything to do with this.
+F00_11.txt | 5 | 50
+But there might be something here, don't you think?
+F00_11.txt | 7 | 50
+If there were, I would have found it a long time ago.
+F00_11.txt | 9 | 24
+...I suppose you're right.
+F00_11.txt | 10 | 26
+Nothing for it; let's try another spot.
+F00_12.txt | 1 | 24
+I stop in front of the restroom.
+F00_12.txt | 3 | 28
+There isn't a fireplace here.
+F00_12.txt | 5 | 38
+You're right... let's try somewhere else.
+F00_13.txt | 1 | 28
+I've reached the very end of the first floor.
+F00_13.txt | 3 | 24
+We're done with this area, aren't we?
+F00_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F00_14.txt | 2 | 28
+There's a fireplace here too, but...
+F00_14.txt | 7 | 52
+We'll only check here if we've searched everywhere else and found nothing.
+F00_14.txt | 8 | 24
+I didn't want to disturb his sleep.
+F00_15.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_16.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_17.txt | 1 | 28
+The room at the end of the first floor is vacant.
+F00_17.txt | 6 | 62
+...It's just another guest room, so I don't think it'll matter... but here, it's open.
+F00_17.txt | 8 | 30
+Of course, there's a fireplace...
+F00_17.txt | 10 | 78
+Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
+F00_17.txt | 11 | 20
+I've returned to this room.
+F00_17.txt | 17 | 36
+If you still want to investigate, then make it quick.
+F00_19.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_20.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_20.txt | 6 | 30
+I've come to the room Ai-san was using.
+F00_20.txt | 7 | 28
+There's a fireplace here too, but...
+F00_20.txt | 12 | 52
+We'll only check here if we've searched everywhere else and found nothing.
+F00_20.txt | 13 | 24
+I didn't want to disturb her sleep.
+F00_20.txt | 14 | 30
+I've come to the room Ai-san was using.
+F00_20.txt | 19 | 52
+We'll only check here if we've searched everywhere else and found nothing.
+F00_20.txt | 20 | 24
+I didn't want to disturb her sleep.
+F00_21.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_22.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_22.txt | 6 | 18
+This room is vacant.
+F00_22.txt | 11 | 62
+...It's just another guest room, so I don't think it'll matter... but here, it's open.
+F00_22.txt | 13 | 30
+Of course, there's a fireplace...
+F00_22.txt | 15 | 78
+Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
+F00_22.txt | 16 | 20
+I've returned to this room.
+F00_22.txt | 22 | 36
+If you still want to investigate, then make it quick.
+F00_22.txt | 25 | 28
+This room is currently empty.
+F00_22.txt | 27 | 76
+Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.
+F00_23.txt | 1 | 18
+This room is vacant.
+F00_23.txt | 6 | 62
+...It's just another guest room, so I don't think it'll matter... but here, it's open.
+F00_23.txt | 8 | 30
+Of course, there's a fireplace...
+F00_23.txt | 10 | 78
+Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
+F00_23.txt | 11 | 20
+I've returned to this room.
+F00_23.txt | 17 | 36
+If you still want to investigate, then make it quick.
+F00_23.txt | 20 | 28
+This room is currently empty.
+F00_23.txt | 22 | 76
+Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.
+F00_24.txt | 1 | 36
+I've come to the room at the far end of the second floor's east side.
+F00_24.txt | 2 | 42
+It doesn't look like there's a fireplace here, so I'll try somewhere else.
+F00_24.txt | 3 | 36
+I've come to the room at the far end of the second floor's east side.
+F00_24.txt | 5 | 76
+Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.
+F00_25.txt | 1 | 32
+I've come to the room where the instruments are kept.
+F00_25.txt | 2 | 42
+It doesn't look like there's a fireplace here, so I'll try somewhere else.
+F00_25.txt | 3 | 32
+I've come to the room where the instruments are kept.
+F00_25.txt | 5 | 76
+Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.
+F00_26.txt | 1 | 22
+I've arrived at the composition room.
+F00_26.txt | 2 | 50
+There doesn't seem to be a fireplace here, so I'll try somewhere else.
+F00_26.txt | 3 | 22
+I've arrived at the composition room.
+F00_26.txt | 5 | 76
+Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.
+F00_27.txt | 1 | 40
+I've made my way to the room Souko-san was using.
+F00_27.txt | 3 | 52
+Since this is a guest room, I don't think she'd have hidden anything here, but...
+F00_27.txt | 7 | 26
+I've returned to the front of this room.
+F00_27.txt | 12 | 20
+Let's try somewhere else.
+F00_27.txt | 13 | 44
+I've arrived at the front of the room Souko-san was using.
+F00_27.txt | 15 | 52
+Since this is a guest room, I don't think she'd have hidden anything here, but...
+F00_28.txt | 1 | 24
+I stop in front of the restroom.
+F00_28.txt | 3 | 28
+There isn't a fireplace here.
+F00_28.txt | 5 | 38
+You're right... let's try somewhere else.
+F00_29.txt | 1 | 18
+The far end of the second floor's north side.
+F00_29.txt | 2 | 36
+This is the room that belonged to the previous head of the house, Kousei-shi.
+F00_29.txt | 3 | 62
+I give the doorknob a light turn, but naturally, it appears to be locked.
+F00_29.txt | 4 | 72
+Even if I asked Tsujimura-san, he probably wouldn't lend me the key... there's nothing for it right now.
+F00_29.txt | 9 | 10
+I step inside.
+F00_29.txt | 10 | 34
+This is the first time I've ever set foot in here.
+F00_29.txt | 11 | 46
+So this is... the room the late Kousei-san used...
+F00_29.txt | 13 | 22
+There's... a fireplace.
+F00_29.txt | 15 | 24
+Yes... what do you want to do?
+F00_29.txt | 16 | 22
+I enter Kousei-san's room.
+F00_29.txt | 18 | 48
+I don't think the key is in here, but... do you want to search just in case?
+F00_30.txt | 1 | 24
+I've returned to my own room.
+F00_30.txt | 2 | 26
+There's a fireplace here too, of course...
+F00_30.txt | 3 | 16
+I've returned again.
+F00_30.txt | 9 | 36
+If you still want to investigate, then make it quick.
+F00_30.txt | 12 | 24
+I've returned to my own room.
+F00_30.txt | 14 | 76
+Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.
+F00_31.txt | 1 | 36
+Narumi-san stops in front of the infirmary.
+F00_31.txt | 3 | 26
+...Mikanagi-sensei is in there.
+F00_31.txt | 5 | 56
+...In that case, it doesn't look like we'll be able to investigate...
+F00_31.txt | 7 | 24
+Let's move on to another area.
+F00_32.txt | 2 | 42
+Let's avoid any rooms that are currently occupied.
+F00_33.txt | 1 | 16
+I step inside the study.
+F00_33.txt | 3 | 18
+There's no fireplace.
+F00_33.txt | 7 | 20
+Want to check it just in case?
+F00_33.txt | 8 | 16
+I step inside the study.
+F00_33.txt | 10 | 76
+Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.
+F00_33.txt | 14 | 20
+Want to check it just in case?
+F00_35.txt | 2 | 28
+Hey, where do you think you're going?
+F00_35.txt | 3 | 50
+Narumi-san stopped me just as I was about to head down the stairs.
+F00_35.txt | 7 | 48
+Didn't I tell you the place indicated by the code is on the second floor?
+F00_35.txt | 10 | 48
+We don't have much time, so for now, let's focus our investigation on the second floor.
+F00_map.txt | 3 | 50
+Benio-san suddenly called out to us, and we came to a stop.
+F00_map.txt | 7 | 48
+Everyone's on edge. Don't wander around the mansion too much.
+F00_map.txt | 11 | 76
+I know that, but stop for now. I can't relax with someone walking up and down the halls in the middle of the night.
+F00_map.txt | 15 | 32
+...I guess we have to give up for now.
+F00_map.txt | 19 | 36
+Lady Shion? Did you think of something?
+F00_map.txt | 21 | 34
+Just a little... I don't have any proof, though.
+F00_search.txt | 1 | 22
+About an hour has passed.
+F00_search.txt | 2 | 68
+I might have spent a bit too much time... I should get out of here for now.
+F01_01.txt | 1 | 14
+I've arrived at the entrance.
+F01_01.txt | 2 | 34
+I really didn't feel like going outside.
+F01_01.txt | 3 | 36
+No one seems to be around, so what should I do...
+F01_02.txt | 1 | 30
+I've come to the central hall on the first floor.
+F01_02.txt | 2 | 12
+There's no one here.
+F01_02.txt | 3 | 68
+As I was about to go somewhere else, a vase sitting in the corner caught my eye.
+F01_02.txt | 4 | 24
+White flowers are arranged in it.
+F01_02.txt | 5 | 60
+They face downward as if bowing their heads, and the inner petals have green patterns.
+F01_02.txt | 6 | 32
+I wonder if these flowers are snowdrops.
+F01_02.txt | 7 | 42
+Even if I wanted to ask someone, there's no one here.
+F01_02.txt | 8 | 16
+What should I do...
+F01_02.txt | 9 | 20
+I've come to the hall on the first floor.
+F01_02.txt | 10 | 18
+It seems no one is here.
+F01_02.txt | 11 | 16
+What should I do...
+F01_03.txt | 1 | 40
+I've come to the Great Hall, but it seems no one is here.
+F01_03.txt | 2 | 20
+Now then, what should I do?
+F01_04.txt | 1 | 14
+I've come to the telephone room.
+F01_04.txt | 2 | 18
+It seems no one is here.
+F01_04.txt | 3 | 42
+I don't have any business making a call, but what should I do?
+F01_05.txt | 3 | 26
+Tsujimura-san was in the office.
+F01_05.txt | 5 | 30
+Hello. Were you in the middle of work?
+F01_05.txt | 7 | 52
+Just organizing some documents. Did you need something?
+F01_05.txt | 12 | 30
+Tsujimura-san was still in the office.
+F01_05.txt | 15 | 20
+I've come to the office.
+F01_05.txt | 16 | 24
+Tsujimura-san doesn't seem to be here.
+F01_05.txt | 17 | 34
+He's probably preparing for the wedding.
+F01_05.txt | 18 | 50
+There's no point in staying here if no one's around, but...
+F01_06.txt | 1 | 40
+I've come to the reception room, but it seems no one is here.
+F01_06.txt | 2 | 24
+Now then, what should I do...
+F01_07.txt | 1 | 20
+This looks like a storage room.
+F01_07.txt | 2 | 42
+I wonder why I've come to a place like this.
+F01_07.txt | 3 | 34
+I shouldn't have any business here at all...
+F01_08.txt | 1 | 18
+I've returned to the dining hall.
+F01_08.txt | 5 | 54
+Maybe because there were so many people, it doesn't look like much progress has been made yet.
+F01_08.txt | 12 | 58
+E-Eh, no, that's quite alright! I couldn't possibly let a guest do such a thing!
+F01_08.txt | 15 | 42
+But wouldn't it be faster with two people tidying up?
+F01_08.txt | 23 | 16
+Anything else, huh...
+F01_08.txt | 25 | 36
+I'm sorry, you seem to be in the middle of work.
+F01_08.txt | 26 | 40
+I shouldn't get in the way of her tidying up.
+F01_08.txt | 27 | 26
+I gave a bow and left the dining hall.
+F01_08.txt | 28 | 22
+I've come to the dining hall again.
+F01_08.txt | 32 | 28
+The tidying up seems to be mostly finished.
+F01_08.txt | 35 | 18
+I've come to the dining hall.
+F01_08.txt | 39 | 38
+All the food from earlier has been cleared away.
+F01_08.txt | 40 | 38
+No one's here, so what should I do now...
+F01_09.txt | 1 | 18
+I've come to the kitchen.
+F01_09.txt | 4 | 40
+Narumi-san was washing dishes with a listless air.
+F01_09.txt | 6 | 26
+Ah, were you in the middle of work?
+F01_09.txt | 8 | 58
+I'm technically working, but... oh, I know, why don't you help me with the dishes?
+F01_09.txt | 12 | 58
+There's no one else, is there? It's such a pain doing it by myself, don't you think?
+F01_09.txt | 13 | 14
+What should I do...
+F01_09.txt | 18 | 48
+Well, I'm bored anyway, so a little bit should be fine.
+F01_09.txt | 20 | 26
+Then I'll leave the rest to you.
+F01_09.txt | 27 | 16
+What about washing the dishes?
+F01_09.txt | 29 | 28
+That's why I said I'm leaving it to you, so do your best.
+F01_09.txt | 32 | 50
+Well, I'm the one who said I'd help, so I guess I have no choice.
+F01_09.txt | 33 | 28
+I turn on the water at the tap and wash the dishes.
+F01_09.txt | 35 | 46
+The water's cold, right? It's tough this time of year.
+F01_09.txt | 36 | 38
+Narumi-san is snacking on leftovers from dinner.
+F01_09.txt | 39 | 32
+I give a vague reply while silently washing the dishes.
+F01_09.txt | 40 | 46
+If I focus on how cold the water is, my hands feel like they'll stop.
+F01_09.txt | 42 | 34
+By the way, what did you come here for?
+F01_09.txt | 46 | 46
+I'm sorry, I just remembered I have something to do.
+F01_09.txt | 47 | 36
+I bowed while taking a few steps back.
+F01_09.txt | 51 | 22
+I've come to the kitchen again.
+F01_09.txt | 53 | 20
+Oh, you need something again?
+F01_09.txt | 56 | 18
+I've come to the kitchen.
+F01_09.txt | 59 | 48
+The place was empty, and Narumi-san was nowhere to be seen.
+F01_09.txt | 60 | 22
+If she's not here, there's nothing I can do.
+F01_09.txt | 61 | 18
+What should I do...
+F01_10.txt | 1 | 28
+I've arrived in front of Akane-san's room.
+F01_10.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F01_10.txt | 3 | 22
+It seems she isn't here.
+F01_10.txt | 4 | 26
+Oh well, I'll go somewhere else.
+F01_11.txt | 1 | 28
+I've arrived in front of Narumi-san's room.
+F01_11.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F01_11.txt | 3 | 22
+It seems she isn't here.
+F01_11.txt | 4 | 26
+Oh well, I'll go somewhere else.
+F01_12.txt | 1 | 20
+I've come to the toilet on the first floor.
+F01_12.txt | 2 | 12
+There's no one here.
+F01_12.txt | 3 | 16
+What should I do...
+F01_13.txt | 1 | 28
+I've come to the very end of the first floor.
+F01_13.txt | 2 | 52
+Beyond this large door, a wedding ceremony is to take place tonight.
+F01_13.txt | 3 | 28
+They're probably making preparations now.
+F01_13.txt | 4 | 52
+I felt like taking a peek, but that would be quite rude.
+F01_13.txt | 5 | 32
+I decided to head somewhere else.
+F01_14.txt | 1 | 28
+This is definitely Rokuyou-san's room.
+F01_14.txt | 2 | 20
+I knock lightly on the door.
+F01_14.txt | 6 | 34
+Yes, I wanted to ask you a few things.
+F01_14.txt | 8 | 46
+I see. It's not the best place to talk out here, so please, come in.
+F01_14.txt | 11 | 54
+I have preparations for the ceremony, so is it all right if we finish by then?
+F01_14.txt | 14 | 22
+Now then, what should I do...
+F01_14.txt | 15 | 24
+This is Rokuyou-san's room.
+F01_14.txt | 16 | 20
+I knock lightly on the door.
+F01_14.txt | 18 | 40
+Oh, it's you again. Do you need something?
+F01_14.txt | 20 | 38
+Yes, I wanted to ask you a few things again.
+F01_14.txt | 28 | 22
+Now then, what should I do...
+F01_14.txt | 29 | 28
+I've come to Rokuyou-san's room.
+F01_14.txt | 30 | 20
+I knock lightly on the door.
+F01_14.txt | 31 | 40
+I wait for a while, but there was no response from inside.
+F01_14.txt | 34 | 34
+I gave up and decided to go somewhere else.
+F01_15.txt | 1 | 28
+I've arrived in front of Takamine-san's room.
+F01_15.txt | 2 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F01_15.txt | 4 | 22
+You... what do you want?
+F01_15.txt | 8 | 34
+I don't mind, but... keep it brief.
+F01_15.txt | 11 | 16
+He's scary after all...
+F01_15.txt | 16 | 28
+I've arrived in front of Takamine-san's room.
+F01_15.txt | 17 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F01_15.txt | 26 | 16
+He's scary after all...
+F01_15.txt | 28 | 20
+What is it this time?
+F01_16.txt | 1 | 26
+I've arrived in front of Tsujimura-san's room.
+F01_16.txt | 2 | 16
+I knock on the door.
+F01_16.txt | 4 | 24
+Huh... I guess he's not in.
+F01_16.txt | 5 | 32
+There was no response, no matter how long I waited.
+F01_16.txt | 6 | 26
+Oh well, I'll go somewhere else.
+F01_17.txt | 1 | 40
+I'm pretty sure the room at the far end of the first floor was vacant.
+F01_17.txt | 3 | 22
+Naturally, no one is here.
+F01_17.txt | 4 | 22
+Now then, what should I do?
+F01_19.txt | 1 | 34
+I've come to the very end of the west side of the second floor.
+F01_19.txt | 3 | 24
+I knock on the door and wait for a while.
+F01_19.txt | 9 | 64
+I have preparations for the ceremony, so I can't spare much time, but please, come in.
+F01_19.txt | 11 | 44
+Maya-san's room was even more spacious than the others.
+F01_19.txt | 16 | 48
+I've come to Maya-san's room at the far end of the west side of the second floor.
+F01_19.txt | 17 | 24
+I knock on the door and wait for a while.
+F01_19.txt | 29 | 48
+I've come to Maya-san's room at the far end of the west side of the second floor.
+F01_19.txt | 30 | 24
+I knock on the door and wait for a while.
+F01_19.txt | 32 | 24
+Huh... I guess she's not in.
+F01_19.txt | 33 | 34
+Maybe she's preparing for the wedding.
+F01_19.txt | 34 | 26
+Oh well, I'll go somewhere else.
+F01_20.txt | 1 | 32
+I've arrived in front of Ai-san's room.
+F01_20.txt | 2 | 20
+I tap lightly on the door and wait.
+F01_20.txt | 14 | 32
+I've arrived in front of Ai-san's room.
+F01_20.txt | 15 | 20
+I tap lightly on the door and wait.
+F01_20.txt | 24 | 24
+What's your business, I wonder?
+F01_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F01_21.txt | 3 | 10
+I knock on the door.
+F01_21.txt | 7 | 44
+Hello, Benio-san. Do you have time right now?
+F01_21.txt | 15 | 38
+I've come to Benio-san's room on the second floor.
+F01_21.txt | 16 | 24
+I knock on the door and wait for a while.
+F01_21.txt | 20 | 44
+Hello, Benio-san. Do you have time right now?
+F01_21.txt | 26 | 30
+Benio-san asks with a formal air.
+F01_22.txt | 1 | 30
+I'm pretty sure this room was vacant.
+F01_22.txt | 3 | 22
+Naturally, no one is here.
+F01_22.txt | 4 | 22
+Now then, what should I do?
+F01_23.txt | 1 | 30
+I'm pretty sure this room was vacant.
+F01_23.txt | 3 | 22
+Naturally, no one is here.
+F01_23.txt | 4 | 22
+Now then, what should I do?
+F01_24.txt | 1 | 36
+I've come to the room at the far end of the east side of the second floor.
+F01_24.txt | 3 | 26
+Now then, what should I do next?
+F01_25.txt | 1 | 40
+It seems instruments are kept in this room.
+F01_25.txt | 2 | 30
+Now then, what should I do next...
+F01_26.txt | 1 | 56
+The room I entered seems to be a place for composing music.
+F01_26.txt | 2 | 38
+Music stands and a small organ are placed here.
+F01_26.txt | 3 | 22
+Now then, what should I do?
+F01_27.txt | 1 | 30
+I've arrived at Souko-san's room.
+F01_27.txt | 2 | 14
+I knock lightly on the door.
+F01_27.txt | 11 | 28
+So, did you find anything out?
+F01_27.txt | 13 | 26
+I'm still in the middle of investigating.
+F01_27.txt | 15 | 56
+I see. Well, it's not like the mystery of the curse will be solved all at once.
+F01_27.txt | 18 | 22
+I've come to Souko-san's room.
+F01_27.txt | 19 | 14
+I knock lightly on the door.
+F01_27.txt | 28 | 16
+What is it this time?
+F01_28.txt | 1 | 20
+I've come to the toilet on the second floor.
+F01_28.txt | 2 | 12
+There's no one here.
+F01_28.txt | 3 | 16
+What should I do...
+F01_29.txt | 1 | 18
+The far end of the north side of the second floor.
+F01_29.txt | 2 | 42
+I'm told this is the room of the previous head of the family, Mr. Kousei.
+F01_29.txt | 3 | 62
+I try turning the doorknob lightly, but naturally, it seems to be locked.
+F01_29.txt | 4 | 26
+Oh well, I'll go somewhere else.
+F01_30.txt | 1 | 24
+I've returned to my own room.
+F01_30.txt | 2 | 32
+I don't really have anything to do, though...
+F01_31.txt | 3 | 54
+When I entered the infirmary, Dr. Mikanagi, who was at his desk, looked up.
+F01_31.txt | 10 | 20
+Now then, what should I do?
+F01_31.txt | 13 | 54
+When I entered the infirmary, Dr. Mikanagi, who was at his desk, looked up.
+F01_31.txt | 20 | 20
+Now then, what should I do?
+F01_31.txt | 23 | 40
+When I entered the infirmary, Dr. Mikanagi was nowhere to be seen.
+F01_31.txt | 24 | 30
+Maybe he's gone somewhere else.
+F01_31.txt | 25 | 22
+Now then, what should I do?
+F01_32.txt | 1 | 24
+This is Dr. Mikanagi's room.
+F01_32.txt | 2 | 20
+I knock lightly on the door.
+F01_32.txt | 4 | 24
+Huh... I guess he's not in.
+F01_32.txt | 5 | 32
+There was no response, no matter how long I waited.
+F01_32.txt | 6 | 26
+Oh well, I'll go somewhere else.
+F01_33.txt | 1 | 26
+I'm pretty sure this was the archive.
+F01_33.txt | 2 | 28
+I lightly turned the doorknob.
+F01_33.txt | 6 | 66
+Well, if it's a room used regularly, I guess there's no need to lock it inside one's own home.
+F01_33.txt | 7 | 42
+The room was almost entirely occupied by large bookshelves.
+F01_33.txt | 8 | 36
+This place looks like it's worth investigating, but...
+F01_34.txt | 1 | 56
+Before going to the tower, I should first try asking Tsujimura-san in the office.
+F01_34.txt | 2 | 50
+I should probably get permission from Tsujimura-san before going to the tower.
+F01_34.txt | 3 | 72
+I go through the door in the back of the office and walk through the snowy garden toward the tower.
+F01_34.txt | 4 | 36
+Likely due to the heavy blizzard, I can't hear the singing.
+F01_34.txt | 6 | 30
+The door at the base of the tower was open.
+F01_34.txt | 7 | 40
+When I stepped inside, I heard a singing voice from above.
+F01_34.txt | 8 | 62
+The interior was empty, with stairs winding upwards along the wall.
+F01_34.txt | 9 | 32
+I decided to try going up the stairs.
+F01_34.txt | 10 | 32
+At the top of the stairs was a door.
+F01_34.txt | 12 | 44
+I stood there for a while, listening to her song.
+F01_34.txt | 13 | 16
+Eventually, the voice ceased.
+F01_34.txt | 14 | 40
+It was then that I lightly knocked on the door for the first time.
+F01_34.txt | 16 | 16
+Who is it... Seiji?
+F01_34.txt | 21 | 70
+She must be on guard; there's no sign of her opening the door from the inside.
+F01_34.txt | 25 | 34
+Y-Yes... is something wrong with that...?
+F01_34.txt | 27 | 20
+You have a beautiful singing voice.
+F01_34.txt | 31 | 38
+Oh, and congratulations on your wedding.
+F01_34.txt | 35 | 40
+Well then, I'll be going now. ...Excuse me.
+F01_34.txt | 36 | 78
+I was concerned that she seemed somewhat listless, but I decided to leave the area.
+F01_34.txt | 37 | 28
+Once outside, I looked up at the tower.
+F01_34.txt | 40 | 28
+I want to hear her voice once more.
+F01_34.txt | 41 | 28
+I enter the tower and head up the stairs.
+F01_34.txt | 42 | 14
+I knock lightly on the door.
+F01_34.txt | 48 | 24
+Do you need something...?
+F01_34.txt | 52 | 54
+...I'm sorry, but I have preparations for the ceremony...
+F01_map.txt | 2 | 20
+I should head back to my room.
+F01_room.txt | 1 | 20
+It seems to be ten o'clock.
+F01_room.txt | 2 | 38
+Maybe I'll go to the toilet for a bit...
+F01_search.txt | 2 | 46
+I think I'll just stay put and behave, like I was told.
+F01_talk.txt | 6 | 34
+Then keep up the good work with the investigation.
+F01_talk.txt | 9 | 30
+I decided to head somewhere else.
+F01_talk.txt | 13 | 90
+Yes, thank you very much. You seem busy with the wedding preparations, so I'll take my leave now.
+F01_talk.txt | 14 | 40
+I bowed and decided to head somewhere else.
+F01_talk.txt | 19 | 40
+I bowed and decided to head somewhere else.
+F01_talk.txt | 25 | 48
+If anything else comes up, please don't hesitate to ask.
+F01_talk.txt | 28 | 30
+I decided to head somewhere else.
+F01_talk.txt | 33 | 40
+I expressed my thanks and decided to head somewhere else.
+F01_talk.txt | 39 | 34
+If you need anything else, feel free to ask.
+F01_talk.txt | 42 | 30
+I decided to head somewhere else.
+F01_talk.txt | 47 | 40
+I bowed and decided to head somewhere else.
+F01_talk.txt | 52 | 30
+I decided to head somewhere else.
+F01_talk.txt | 57 | 40
+I bowed and decided to head somewhere else.
+F01_talk.txt | 59 | 56
+Alright then, I guess I'll get back to work too. What a pain.
+F01_talk.txt | 60 | 26
+Narumi-san heads toward the kitchen.
+F01_talk.txt | 62 | 38
+Well then, I'll be going now. Excuse me.
+F01_talk.txt | 64 | 24
+See ya. Come back anytime.
+F01_talk.txt | 65 | 30
+I decided to head somewhere else.
+F01_talk.txt | 66 | 32
+Now then, what should I do next...
+F02_01.txt | 1 | 14
+I've arrived at the entrance.
+F02_01.txt | 2 | 34
+I certainly didn't feel like stepping outside.
+F02_01.txt | 3 | 36
+There doesn't seem to be anyone around, so what should I do...
+F02_02.txt | 1 | 30
+I've arrived at the central hall on the first floor.
+F02_02.txt | 2 | 12
+Nobody is here.
+F02_02.txt | 3 | 68
+Just as I was about to head elsewhere, a vase tucked in the corner caught my eye.
+F02_02.txt | 4 | 24
+Some white flowers have been arranged in it.
+F02_02.txt | 5 | 60
+They hang their heads as if bowing, and the inner petals have green markings.
+F02_02.txt | 7 | 42
+Even if I wanted to ask someone, there's nobody here.
+F02_02.txt | 8 | 16
+What should I do...
+F02_02.txt | 9 | 20
+I've come to the first-floor hall.
+F02_02.txt | 10 | 18
+Nobody seems to be around.
+F02_02.txt | 11 | 16
+What should I do...
+F02_03.txt | 1 | 20
+I've entered the Great Hall.
+F02_03.txt | 4 | 28
+It seems Ai-san had already arrived.
+F02_03.txt | 8 | 22
+Would you like some tea?
+F02_03.txt | 13 | 36
+I settle onto the sofa as she suggested.
+F02_03.txt | 15 | 42
+Would you like yours straight or with milk?
+F02_03.txt | 20 | 38
+With a soft smile, Ai-san brews the tea.
+F02_03.txt | 21 | 22
+A wonderful aroma begins to waft through the air.
+F02_03.txt | 26 | 34
+I wrap my hands around the warm cup.
+F02_03.txt | 31 | 20
+I've entered the Great Hall.
+F02_03.txt | 34 | 34
+Ai-san was enjoying some tea by herself.
+F02_03.txt | 36 | 36
+Hello, Ai-san. Do you have a moment right now?
+F02_03.txt | 38 | 20
+Yes, what's on your mind?
+F02_03.txt | 39 | 36
+When I entered the Great Hall, Takamine-san was there.
+F02_03.txt | 44 | 24
+He seems as grumpy as ever.
+F02_03.txt | 49 | 36
+When I entered the Great Hall, Takamine-san was there.
+F02_03.txt | 52 | 24
+He seems as grumpy as ever.
+F02_03.txt | 57 | 30
+Souko-san had arrived in the Great Hall.
+F02_03.txt | 58 | 36
+She seems to be relaxing with Ai-san and Takamine-san.
+F02_03.txt | 59 | 24
+Now then, who should I talk to...?
+F02_04.txt | 1 | 14
+I've come to the telephone room.
+F02_04.txt | 2 | 18
+Nobody seems to be around.
+F02_04.txt | 3 | 54
+They mentioned the phones aren't working anyway, so there's no point in staying here.
+F02_04.txt | 4 | 20
+Now then, what's next?
+F02_05.txt | 2 | 26
+Oh, is something the matter?
+F02_05.txt | 3 | 26
+Tsujimura-san was in the office.
+F02_05.txt | 5 | 30
+Hello. Were you in the middle of working?
+F02_05.txt | 12 | 30
+Tsujimura-san was still in the office.
+F02_06.txt | 1 | 40
+I've come to the drawing room, but it seems empty.
+F02_06.txt | 2 | 24
+Now then, what should I do...
+F02_07.txt | 1 | 14
+This is the storage room.
+F02_07.txt | 2 | 26
+I don't really have any business here, but...
+F02_08.txt | 1 | 18
+I've arrived at the dining hall.
+F02_08.txt | 4 | 18
+Akane-san was there.
+F02_08.txt | 8 | 16
+Are you here for breakfast?
+F02_08.txt | 10 | 22
+Yes. Is there anything ready?
+F02_08.txt | 12 | 36
+Of course. Please wait just a moment.
+F02_08.txt | 13 | 48
+With that, Akane-san headed off toward the kitchen.
+F02_08.txt | 16 | 46
+It's just toast and fried eggs, if that's alright?
+F02_08.txt | 19 | 40
+I take a large bite of the golden-brown toast.
+F02_08.txt | 23 | 46
+Please finish what's in your mouth before you try to speak.
+F02_08.txt | 24 | 30
+Akane-san scolds me with a laugh.
+F02_08.txt | 29 | 22
+I've returned to the dining hall.
+F02_08.txt | 34 | 18
+I've arrived at the dining hall.
+F02_08.txt | 37 | 36
+Benio-san was eating breakfast alone.
+F02_08.txt | 40 | 18
+Are you here for breakfast too?
+F02_08.txt | 43 | 40
+Right now, there's something I'd rather do than eat.
+F02_09.txt | 1 | 18
+I've come to the kitchen.
+F02_09.txt | 4 | 32
+Narumi-san was looking rather listless.
+F02_09.txt | 8 | 24
+You're looking energetic for this early...
+F02_09.txt | 10 | 18
+Are you still sleepy?
+F02_09.txt | 12 | 34
+Nah, I'm just feeling lazy and bored.
+F02_09.txt | 16 | 90
+I have to make food for over ten people starting first thing in the morning; it's a total pain in the ass.
+F02_09.txt | 19 | 18
+So, did you need something?
+F02_09.txt | 22 | 22
+I've returned to the kitchen.
+F02_09.txt | 24 | 20
+Oh, do you need something else?
+F02_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F02_10.txt | 2 | 50
+I give the door a light knock and wait, but there's no response from inside.
+F02_10.txt | 3 | 22
+It seems she isn't here.
+F02_10.txt | 4 | 26
+Nothing for it; let's try somewhere else.
+F02_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F02_11.txt | 2 | 50
+I give the door a light knock and wait, but there's no response from inside.
+F02_11.txt | 3 | 22
+It seems she isn't here.
+F02_11.txt | 4 | 26
+Nothing for it; let's try somewhere else.
+F02_12.txt | 1 | 20
+I've arrived at the first-floor restroom.
+F02_12.txt | 2 | 12
+Nobody is here.
+F02_12.txt | 3 | 16
+What should I do...
+F02_13.txt | 1 | 28
+I've reached the very end of the first floor.
+F02_13.txt | 3 | 52
+I felt a bit tempted to peek inside, but that would be incredibly rude.
+F02_14.txt | 1 | 22
+I've come to Rokuyou-san's room.
+F02_14.txt | 3 | 40
+I wait for a while, but there was no response from within.
+F02_14.txt | 5 | 34
+I gave up and decided to go somewhere else.
+F02_15.txt | 1 | 28
+I've reached the front of Takamine-san's room.
+F02_15.txt | 2 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F02_15.txt | 4 | 20
+Oh, it's you... morning.
+F02_15.txt | 11 | 16
+He really is intimidating...
+F02_15.txt | 16 | 28
+I've reached the front of Takamine-san's room.
+F02_15.txt | 17 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F02_15.txt | 21 | 38
+A-ah, um, do you have a moment to talk?
+F02_15.txt | 26 | 16
+He really is intimidating...
+F02_15.txt | 28 | 20
+What is it this time?
+F02_15.txt | 31 | 28
+I've reached the front of Takamine-san's room.
+F02_15.txt | 32 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F02_15.txt | 34 | 24
+Huh... I guess he's not here.
+F02_15.txt | 35 | 32
+There was no response no matter how long I waited.
+F02_15.txt | 36 | 26
+Nothing for it; let's try somewhere else.
+F02_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F02_16.txt | 2 | 16
+I knock on the door.
+F02_16.txt | 4 | 24
+Huh... I guess he's not here.
+F02_16.txt | 5 | 32
+There was no response no matter how long I waited.
+F02_16.txt | 6 | 26
+Nothing for it; let's try somewhere else.
+F02_17.txt | 1 | 28
+The room at the end of the first floor is vacant.
+F02_17.txt | 3 | 22
+Naturally, nobody is inside.
+F02_17.txt | 4 | 22
+Now then, what should I do.
+F02_19.txt | 1 | 46
+I've come to Maya-san's room at the far end of the second floor's west side.
+F02_19.txt | 2 | 24
+I knock on the door and wait for a bit.
+F02_19.txt | 8 | 30
+Yes, I don't mind at all. Please.
+F02_19.txt | 14 | 48
+I've arrived at Maya-san's room at the far end of the second floor's west side.
+F02_19.txt | 15 | 24
+I knock on the door and wait for a bit.
+F02_20.txt | 1 | 32
+I've arrived at the front of Ai-san's room.
+F02_20.txt | 2 | 20
+I give the door a light tap and wait.
+F02_20.txt | 4 | 24
+Huh... I guess she's not here.
+F02_20.txt | 5 | 32
+There was no response no matter how long I waited.
+F02_20.txt | 6 | 26
+Nothing for it; let's try somewhere else.
+F02_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F02_21.txt | 2 | 26
+I wonder if she's in her room.
+F02_21.txt | 3 | 10
+I knock on the door.
+F02_21.txt | 15 | 38
+I've come to Benio-san's room on the second floor.
+F02_21.txt | 16 | 24
+I knock on the door and wait for a while.
+F02_21.txt | 26 | 30
+Benio-san asks, turning more serious.
+F02_21.txt | 29 | 38
+I've come to Benio-san's room on the second floor.
+F02_21.txt | 30 | 26
+I wonder if she's in her room.
+F02_21.txt | 31 | 10
+I knock on the door.
+F02_21.txt | 33 | 24
+Huh... I guess she's not here.
+F02_21.txt | 34 | 32
+There was no response no matter how long I waited.
+F02_21.txt | 35 | 26
+Nothing for it; let's try somewhere else.
+F02_22.txt | 1 | 26
+This was supposed to be a vacant room.
+F02_22.txt | 3 | 22
+Naturally, nobody is inside.
+F02_22.txt | 4 | 22
+Now then, what should I do.
+F02_23.txt | 1 | 26
+This was supposed to be a vacant room.
+F02_23.txt | 3 | 22
+Naturally, nobody is inside.
+F02_23.txt | 4 | 22
+Now then, what should I do.
+F02_24.txt | 1 | 36
+I've come to the room at the far end of the second floor's east side.
+F02_24.txt | 3 | 26
+Now then, what should I do?
+F02_25.txt | 1 | 32
+I've come to the room where the instruments are stored.
+F02_25.txt | 2 | 30
+Now then, what should I do next...?
+F02_26.txt | 1 | 22
+I've arrived at the composition room.
+F02_26.txt | 2 | 22
+Now then, what's the plan?
+F02_27.txt | 1 | 30
+I've made my way to Souko-san's room.
+F02_27.txt | 2 | 14
+I give the door a light knock.
+F02_27.txt | 11 | 20
+So, what's your business?
+F02_27.txt | 14 | 22
+I've come to Souko-san's room.
+F02_27.txt | 15 | 14
+I give the door a light knock.
+F02_27.txt | 19 | 28
+Do you have a moment to talk?
+F02_27.txt | 24 | 16
+What is it this time?
+F02_27.txt | 27 | 30
+I've made my way to Souko-san's room.
+F02_27.txt | 28 | 14
+I give the door a light knock.
+F02_27.txt | 29 | 40
+I wait for a while, but there was no response from within.
+F02_27.txt | 31 | 34
+I gave up and decided to go somewhere else.
+F02_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F02_28.txt | 2 | 12
+Nobody is here.
+F02_28.txt | 3 | 16
+What should I do...
+F02_29.txt | 1 | 18
+The far end of the second floor's north side.
+F02_29.txt | 2 | 36
+This is the room that belonged to the previous head of the house, Kousei-shi.
+F02_29.txt | 3 | 62
+I give the doorknob a light turn, but naturally, it appears to be locked.
+F02_29.txt | 4 | 26
+Nothing for it; let's try somewhere else.
+F02_30.txt | 1 | 24
+I've returned to my own room.
+F02_30.txt | 2 | 32
+I don't really have anything to do, though...
+F02_31.txt | 3 | 40
+When I entered the infirmary, Mikanagi-sensei was nowhere to be seen.
+F02_31.txt | 4 | 30
+I wonder if he's gone somewhere else.
+F02_31.txt | 5 | 22
+Now then, what should I do.
+F02_31.txt | 8 | 54
+When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
+F02_31.txt | 15 | 20
+Now then, what should I do.
+F02_31.txt | 18 | 54
+When I entered the infirmary, Mikanagi-sensei, who had been at his desk, looked up.
+F02_31.txt | 25 | 20
+Now then, what should I do.
+F02_32.txt | 1 | 24
+This is Mikanagi-sensei's room.
+F02_32.txt | 2 | 20
+I give the door a light knock.
+F02_32.txt | 8 | 80
+I'm sorry... but if you have business, could we do it later in the infirmary? I'm still sleepy.
+F02_32.txt | 10 | 36
+Oh... sorry about that. I'll see you later then.
+F02_32.txt | 13 | 30
+Mikanagi-sensei looked incredibly sleepy.
+F02_32.txt | 14 | 24
+Maybe he's just not a morning person.
+F02_32.txt | 15 | 54
+I can't just stand around here forever, so let's try somewhere else.
+F02_32.txt | 16 | 28
+I've come to the front of Mikanagi-sensei's room.
+F02_32.txt | 17 | 26
+Just as I was about to knock, I remembered.
+F02_32.txt | 18 | 34
+He said if I had business, to see him in the infirmary.
+F02_32.txt | 19 | 42
+I should wait a while and then head to the infirmary.
+F02_32.txt | 20 | 24
+I decided to leave the area.
+F02_32.txt | 21 | 28
+I've come to the front of Mikanagi-sensei's room.
+F02_32.txt | 22 | 20
+I give the door a light knock.
+F02_32.txt | 24 | 24
+Huh... I guess he's not here.
+F02_32.txt | 25 | 32
+There was no response no matter how long I waited.
+F02_32.txt | 26 | 26
+Nothing for it; let's try somewhere else.
+F02_33.txt | 1 | 22
+This is Kousei-shi's study.
+F02_33.txt | 2 | 42
+When I twisted the doorknob, the door opened with surprising ease.
+F02_33.txt | 3 | 42
+The room was almost entirely taken up by massive bookshelves.
+F02_33.txt | 4 | 36
+This place looks like it's worth investigating, but...
+F02_34.txt | 1 | 72
+I exit through the back office door and walk through the snowy garden toward the tower.
+F02_34.txt | 2 | 14
+It's incredibly cold.
+F02_34.txt | 3 | 44
+I guess coming out here so lightly dressed was a mistake after all.
+F02_34.txt | 4 | 40
+The area around the tower door had been properly cleared of snow.
+F02_34.txt | 5 | 8
+However...
+F02_34.txt | 8 | 36
+I guess that's only natural, since Shion-san is in the cathedral.
+F02_34.txt | 9 | 24
+Nothing for it; let's head back.
+F02_34.txt | 10 | 44
+I stepped out from behind the office and began to shiver.
+F02_34.txt | 11 | 72
+No, no, Shion-san is still in the cathedral, so there's no point in going any further.
+F02_34.txt | 12 | 40
+So, I decided to head back inside the mansion.
+F02_map.txt | 2 | 30
+I'm supposed to head to the Great Hall.
+F02_room.txt | 2 | 30
+I should head to the Great Hall.
+F02_search.txt | 2 | 30
+I should head to the Great Hall.
+F02_talk.txt | 2 | 22
+Is this enough for you?
+F02_talk.txt | 6 | 34
+Then keep up the good work with the investigation.
+F02_talk.txt | 9 | 30
+I decided to go somewhere else.
+F02_talk.txt | 14 | 40
+I bowed and decided to go somewhere else.
+F02_talk.txt | 19 | 40
+I bowed and decided to go somewhere else.
+F02_talk.txt | 24 | 50
+I thanked Benio-san and decided to go somewhere else.
+F02_talk.txt | 29 | 40
+I expressed my thanks and decided to go somewhere else.
+F02_talk.txt | 34 | 40
+I bowed and decided to go somewhere else.
+F02_talk.txt | 39 | 30
+I decided to go somewhere else.
+F02_talk.txt | 44 | 40
+I bowed and decided to go somewhere else.
+F02_talk.txt | 46 | 56
+Well, I guess I'll get back to work too. Even if it's a pain.
+F02_talk.txt | 50 | 24
+Sure thing. Come back again soon.
+F02_talk.txt | 51 | 30
+I decided to go somewhere else.
+F02_talk.txt | 52 | 32
+Now then, what should I do next...?
+F03_01.txt | 1 | 14
+I've reached the entrance.
+F03_01.txt | 2 | 34
+I didn't really feel like going outside, given the circumstances.
+F03_01.txt | 3 | 36
+It looks like no one's around, so what should I do...?
+F03_01.txt | 4 | 14
+I've reached the entrance.
+F03_01.txt | 6 | 28
+There doesn't seem to be anyone here.
+F03_01.txt | 7 | 30
+I couldn't find any sign of Ai-san.
+F03_01.txt | 9 | 20
+Shall we head somewhere else?
+F03_02.txt | 1 | 20
+I've arrived at the first-floor hall.
+F03_02.txt | 2 | 18
+It seems like no one is here.
+F03_02.txt | 3 | 16
+What should I do...?
+F03_02.txt | 4 | 20
+I've arrived at the first-floor hall.
+F03_02.txt | 7 | 18
+Ai-san is nowhere to be found.
+F03_02.txt | 9 | 18
+Let's look somewhere else.
+F03_03.txt | 1 | 20
+I've made my way to the grand hall.
+F03_03.txt | 2 | 26
+...But it seems no one is here.
+F03_03.txt | 3 | 16
+What should I do...?
+F03_03.txt | 4 | 20
+I've made my way to the grand hall.
+F03_03.txt | 7 | 16
+Shion-san was there.
+F03_03.txt | 9 | 48
+Shion-san... It's dangerous to be here all by yourself...
+F03_03.txt | 12 | 16
+Shion-san looks down.
+F03_03.txt | 19 | 18
+...Please excuse me.
+F03_03.txt | 20 | 52
+Shion-san bowed her head and hurried out of the room.
+F03_03.txt | 23 | 18
+...I guess it can't be helped.
+F03_03.txt | 24 | 36
+With slumped shoulders, I left the grand hall behind.
+F03_03.txt | 27 | 20
+I've made my way to the grand hall.
+F03_03.txt | 29 | 26
+Ah... is something the matter?
+F03_03.txt | 31 | 38
+Hello, Shion-san. Do you have a moment?
+F03_03.txt | 36 | 18
+...Please excuse me.
+F03_03.txt | 37 | 52
+Shion-san bowed her head and hurried out of the room.
+F03_03.txt | 40 | 18
+...I guess it can't be helped.
+F03_03.txt | 41 | 36
+With slumped shoulders, I left the grand hall behind.
+F03_03.txt | 43 | 26
+Yes, what can I do for you?
+F03_03.txt | 44 | 20
+I've made my way to the grand hall.
+F03_03.txt | 49 | 40
+I wonder where on earth she could have gone.
+F03_03.txt | 51 | 28
+...Let's look somewhere else.
+F03_03.txt | 54 | 20
+I've made my way to the grand hall.
+F03_03.txt | 57 | 16
+Shion-san was there.
+F03_03.txt | 59 | 44
+Shion-san... It's dangerous for you to be here alone.
+F03_03.txt | 61 | 52
+He's right, milady. There's no telling what might happen.
+F03_03.txt | 64 | 16
+Shion-san looks down.
+F03_03.txt | 73 | 20
+Shion-san shakes her head.
+F03_03.txt | 77 | 24
+Let's try looking somewhere else.
+F03_03.txt | 78 | 50
+We parted ways with Shion-san and decided to search another location.
+F03_03.txt | 79 | 26
+Shion-san was in the grand hall.
+F03_03.txt | 83 | 56
+Shion-san, it seems you haven't... seen Ai-san around, have you?
+F03_03.txt | 87 | 44
+No, it's not something you need to apologize for, Shion-san.
+F03_03.txt | 92 | 50
+We parted ways with Shion-san and decided to search another location.
+F03_04.txt | 1 | 14
+I've come to the telephone room.
+F03_04.txt | 2 | 18
+It seems no one is here.
+F03_04.txt | 3 | 46
+The phones aren't working anyway, so there's no point in staying here.
+F03_04.txt | 4 | 20
+Now then, what should I do?
+F03_04.txt | 5 | 14
+I've come to the telephone room.
+F03_04.txt | 9 | 34
+Where could she have gone... Ai-san?
+F03_04.txt | 11 | 24
+Let's head somewhere else.
+F03_04.txt | 12 | 32
+We decided to search another location.
+F03_04.txt | 13 | 14
+I've come to the telephone room.
+F03_04.txt | 15 | 64
+The pattern on that scrap of paper... it should be the same as the paper left next to the telephone.
+F03_04.txt | 18 | 14
+I've come to the telephone room.
+F03_04.txt | 20 | 28
+Let's investigate a bit more.
+F03_04.txt | 21 | 52
+I told Akane-san that and decided to search the room.
+F03_05.txt | 2 | 26
+Oh, is something the matter?
+F03_05.txt | 3 | 26
+Tsujimura-san was in the office.
+F03_05.txt | 5 | 30
+Hello. Were you in the middle of work?
+F03_05.txt | 12 | 30
+Tsujimura-san was still in the office.
+F03_05.txt | 15 | 36
+Tsujimura-san and Shion-san were in the office.
+F03_05.txt | 19 | 62
+I thought I'd do a quick patrol of the manor. It would be terrible if something happened again.
+F03_05.txt | 21 | 74
+I see. ...No, truly, that is likely a task I ought to be performing myself...
+F03_05.txt | 26 | 56
+Now then, I'd like to ask some questions, but I wonder which one I should ask.
+F03_05.txt | 27 | 36
+Tsujimura-san and Shion-san were in the office.
+F03_05.txt | 29 | 20
+Oh, is there something else?
+F03_05.txt | 32 | 36
+I'd like to ask one of them some questions.
+F03_05.txt | 33 | 50
+I came to the office, but Tsujimura-san didn't seem to be there.
+F03_05.txt | 34 | 50
+There's no point in staying here if no one's around, but...
+F03_05.txt | 36 | 26
+Oh, is something the matter?
+F03_05.txt | 37 | 26
+Tsujimura-san was in the office.
+F03_05.txt | 43 | 26
+The thing is... she isn't there.
+F03_05.txt | 45 | 56
+If she isn't in her room... then I'm afraid I wouldn't know...
+F03_05.txt | 49 | 24
+Let's look somewhere else.
+F03_05.txt | 50 | 50
+We parted ways with Tsujimura-san and decided to search another location.
+F03_05.txt | 51 | 30
+Tsujimura-san was still in the office.
+F03_05.txt | 60 | 42
+We decided to search for Ai-san in a different location.
+F03_05.txt | 61 | 36
+Tsujimura-san and Shion-san were in the office.
+F03_05.txt | 67 | 48
+Lady Ai, you say...? Lady Shion, do you know anything?
+F03_05.txt | 75 | 28
+Let's try looking somewhere else.
+F03_05.txt | 79 | 40
+Tsujimura-san and Shion-san were still in the office.
+F03_05.txt | 85 | 28
+Let's try looking somewhere else.
+F03_05.txt | 89 | 20
+I came to the office.
+F03_05.txt | 94 | 64
+I took a quick look around the office, but of course, there was no sign of Ai-san.
+F03_05.txt | 96 | 24
+Let's look somewhere else.
+F03_05.txt | 97 | 54
+Following Akane-san's lead, we decided to head elsewhere.
+F03_06.txt | 1 | 14
+I've arrived at the reception room.
+F03_06.txt | 2 | 18
+It seems no one is here.
+F03_06.txt | 3 | 22
+Now then, what should I do...?
+F03_06.txt | 4 | 14
+I've arrived at the reception room.
+F03_06.txt | 8 | 34
+Indeed, there was no sign of Ai-san.
+F03_06.txt | 11 | 38
+I prompted Akane-san, and we left the reception room.
+F03_07.txt | 1 | 14
+This is the storage room.
+F03_07.txt | 2 | 26
+I don't really have any business here, but...
+F03_07.txt | 3 | 14
+This is the storage room.
+F03_07.txt | 6 | 36
+Akane-san calls out, but there's no response.
+F03_08.txt | 1 | 18
+I've arrived at the dining hall.
+F03_08.txt | 3 | 20
+Hm, oh, it's just you.
+F03_08.txt | 4 | 16
+Benio-san was there.
+F03_08.txt | 8 | 22
+Can't you tell just by looking?
+F03_08.txt | 12 | 34
+Dangerous? You think someone is targeting me?
+F03_08.txt | 17 | 38
+Nodding, Benio-san began to sink into thought.
+F03_08.txt | 19 | 34
+Um... do you have a moment right now?
+F03_08.txt | 22 | 22
+I've arrived at the dining hall again.
+F03_08.txt | 24 | 24
+Hm, is something the matter?
+F03_08.txt | 27 | 40
+When I entered the dining hall, Souko-san and Benio-san were there.
+F03_08.txt | 31 | 34
+No, I don't really have any particular business, but...
+F03_08.txt | 33 | 12
+Is it lunchtime?
+F03_08.txt | 37 | 36
+If you're looking for Narumi-san, she's in the kitchen.
+F03_08.txt | 38 | 34
+I should probably ask some questions rather than worry about lunch right now.
+F03_08.txt | 39 | 24
+Souko-san was in the dining hall.
+F03_08.txt | 45 | 64
+Well, there's that, but I actually have a bit of business with you, Souko-san.
+F03_08.txt | 47 | 10
+What is it?
+F03_08.txt | 48 | 28
+Souko-san was still in the dining hall.
+F03_08.txt | 50 | 22
+Oh, do you still need something?
+F03_08.txt | 53 | 36
+Souko-san and Narumi-san were in the dining hall.
+F03_08.txt | 57 | 38
+No, well, I don't really have any particular business.
+F03_08.txt | 59 | 16
+Do you want something to eat?
+F03_08.txt | 63 | 42
+I see. I'm planning to have lunch ready a bit after one.
+F03_08.txt | 66 | 28
+Now then, what should I do next?
+F03_08.txt | 67 | 36
+Souko-san and Narumi-san were in the dining hall.
+F03_08.txt | 69 | 22
+Oh, do you still need something?
+F03_08.txt | 72 | 28
+Now, which one should I talk to?
+F03_08.txt | 73 | 18
+I've arrived at the dining hall.
+F03_08.txt | 75 | 20
+Hm, oh, it's just you.
+F03_08.txt | 76 | 16
+Benio-san was there.
+F03_08.txt | 81 | 22
+Benio-san tilts her head curiously.
+F03_08.txt | 83 | 36
+It seems she hasn't been seen for a while now.
+F03_08.txt | 87 | 32
+Please let us know if you see her.
+F03_08.txt | 91 | 28
+Benio-san was still in the dining hall.
+F03_08.txt | 99 | 70
+Me? ...I wouldn't know. I'm not really interested in what my sister does in her spare time...
+F03_08.txt | 102 | 32
+It can't be helped; let's go search somewhere else.
+F03_08.txt | 103 | 42
+When I entered the large dining hall, Souko-san and Benio-san were there.
+F03_08.txt | 109 | 30
+She hasn't been seen for a while.
+F03_08.txt | 111 | 28
+I see... Benio-san, have you seen her?
+F03_08.txt | 113 | 28
+No, I haven't seen her either.
+F03_08.txt | 117 | 26
+...I have a bad feeling about this.
+F03_08.txt | 123 | 46
+Akane-san and I decided to go search elsewhere.
+F03_08.txt | 124 | 42
+When I entered the large dining hall, Souko-san and Benio-san were there.
+F03_08.txt | 132 | 34
+We should try looking for her as well.
+F03_08.txt | 137 | 24
+Souko-san was in the dining hall.
+F03_08.txt | 146 | 24
+Akane-san's shoulders slump.
+F03_08.txt | 152 | 28
+Souko-san was still in the dining hall.
+F03_08.txt | 158 | 50
+I see... It's strange that she can't be found within this building...
+F03_08.txt | 162 | 24
+We'll try looking elsewhere.
+F03_08.txt | 164 | 36
+Souko-san and Narumi-san were in the dining hall.
+F03_08.txt | 172 | 24
+She hasn't come here either.
+F03_08.txt | 176 | 24
+We'll try looking elsewhere.
+F03_08.txt | 178 | 36
+Souko-san and Narumi-san were in the dining hall.
+F03_08.txt | 187 | 34
+We decided to search another location.
+F03_09.txt | 1 | 18
+I've arrived at the kitchen.
+F03_09.txt | 4 | 18
+Narumi-san was there.
+F03_09.txt | 6 | 22
+Are you preparing lunch?
+F03_09.txt | 12 | 40
+I'll have it ready so we can eat a bit after one.
+F03_09.txt | 16 | 38
+So, didn't you have some kind of business with me?
+F03_09.txt | 19 | 22
+I've arrived at the kitchen again.
+F03_09.txt | 21 | 20
+Oh, do you need something else?
+F03_09.txt | 24 | 18
+I've arrived at the kitchen.
+F03_09.txt | 26 | 16
+What should I do...?
+F03_09.txt | 27 | 26
+Narumi-san was in the kitchen.
+F03_09.txt | 36 | 26
+It seems she hasn't come here either.
+F03_09.txt | 42 | 24
+Narumi-san was in the kitchen.
+F03_09.txt | 48 | 56
+There should only be so many places she could go inside the manor...
+F03_09.txt | 50 | 44
+Maybe you should try looking more thoroughly?
+F03_09.txt | 54 | 18
+I've arrived at the kitchen.
+F03_09.txt | 57 | 18
+There's no one inside.
+F03_09.txt | 58 | 18
+Of course, that includes Ai-san.
+F03_09.txt | 63 | 46
+Akane-san opens the service entrance leading to the back to check.
+F03_09.txt | 64 | 26
+Snow immediately blows inside.
+F03_09.txt | 69 | 34
+We decided to go to another location.
+F03_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F03_10.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F03_10.txt | 3 | 22
+It seems she isn't here.
+F03_10.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F03_10.txt | 5 | 28
+I've come to the front of Akane-san's room.
+F03_10.txt | 7 | 38
+Um... do you have some kind of business?
+F03_10.txt | 11 | 30
+I don't think that's likely, but...
+F03_10.txt | 17 | 54
+I suppose that's only natural since Akane-san had the key.
+F03_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F03_11.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F03_11.txt | 3 | 22
+It seems she isn't here.
+F03_11.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F03_11.txt | 5 | 28
+I've come to the front of Narumi-san's room.
+F03_11.txt | 6 | 28
+I knock lightly on the door and wait for a while.
+F03_11.txt | 8 | 42
+I believe she'd be in the kitchen at this time.
+F03_11.txt | 10 | 20
+It is around lunchtime, after all.
+F03_11.txt | 11 | 30
+At the very least, I can't go in here right now.
+F03_11.txt | 12 | 16
+Let's head somewhere else.
+F03_12.txt | 1 | 20
+I've come to the first-floor restroom.
+F03_12.txt | 2 | 12
+No one is here.
+F03_12.txt | 3 | 16
+What should I do...?
+F03_12.txt | 12 | 46
+I went into the restroom, but of course, no one was there.
+F03_12.txt | 13 | 24
+Naturally, Ai-san wasn't there either.
+F03_12.txt | 14 | 40
+I finished my business, washed my hands, and left the restroom.
+F03_12.txt | 16 | 20
+Sorry to keep you waiting.
+F03_12.txt | 19 | 52
+I followed Akane-san and headed for another location.
+F03_13.txt | 1 | 36
+I've come to the chapel at the far end of the first floor.
+F03_13.txt | 2 | 76
+The wedding ceremony that was held here since last night... in the end, it never reached a proper conclusion...
+F03_13.txt | 3 | 28
+There's no point in drowning in sentimentality.
+F03_13.txt | 4 | 24
+I'll head somewhere else.
+F03_13.txt | 5 | 36
+I've come to the chapel at the far end of the first floor.
+F03_13.txt | 6 | 20
+I place my hand on the door.
+F03_13.txt | 11 | 46
+In the deathly silent chapel, there seems to be no one.
+F03_13.txt | 16 | 66
+Just in case, I also checked the coffin where Shion-san had been sleeping until this morning, but it was empty.
+F03_13.txt | 19 | 62
+Prompted by Akane-san, who seemed somewhat dejected, I left the chapel.
+F03_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F03_14.txt | 2 | 44
+Rokuyou-san's remains are laid to rest here...
+F03_14.txt | 3 | 58
+I pulled my hand back from the doorknob and decided to head elsewhere.
+F03_14.txt | 4 | 32
+I've come to the room Rokuyou-san was using.
+F03_14.txt | 5 | 44
+Rokuyou-san's remains are laid to rest here...
+F03_14.txt | 10 | 58
+I pulled my hand back from the doorknob and decided to head elsewhere.
+F03_15.txt | 1 | 28
+I've reached the front of Takamine-san's room.
+F03_15.txt | 2 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F03_15.txt | 4 | 28
+Who is it? Oh, you. What's the matter?
+F03_15.txt | 6 | 34
+Um, could I talk to you for a moment?
+F03_15.txt | 15 | 28
+I've reached the front of Takamine-san's room.
+F03_15.txt | 16 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F03_15.txt | 20 | 38
+U-Um, could I talk to you for a moment?
+F03_15.txt | 22 | 24
+Fine, I suppose. Come in.
+F03_15.txt | 25 | 16
+He's still scary...
+F03_15.txt | 27 | 20
+What is it this time?
+F03_15.txt | 30 | 28
+I've reached the front of Takamine-san's room.
+F03_15.txt | 36 | 44
+Don't you find Takamine-san a bit... frightening?
+F03_15.txt | 41 | 46
+He isn't very friendly, but he's a good person, you know?
+F03_15.txt | 44 | 28
+Even so, he's still a bit scary.
+F03_15.txt | 47 | 32
+With that, Akane-san knocks on the door.
+F03_15.txt | 60 | 40
+The thing is... she hasn't been seen for a while.
+F03_15.txt | 63 | 38
+Takamine-san seems to be lost in thought for a moment.
+F03_15.txt | 67 | 32
+...Understood. I'll look for her as well.
+F03_15.txt | 73 | 32
+I've reached the front of Takamine-san's room again.
+F03_15.txt | 78 | 30
+Akane-san steps forward and knocks on the door.
+F03_15.txt | 81 | 48
+We waited for a while, but there was no sign of Takamine-san coming out.
+F03_15.txt | 83 | 32
+I wonder if he's out searching for her.
+F03_15.txt | 86 | 50
+Prompted by Akane-san, I headed for another location.
+F03_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F03_16.txt | 2 | 16
+I knock on the door.
+F03_16.txt | 4 | 24
+Huh... I guess he's not in.
+F03_16.txt | 5 | 32
+Even after waiting, there was no response.
+F03_16.txt | 6 | 26
+It can't be helped; I'll head elsewhere.
+F03_16.txt | 7 | 26
+I've come to the front of Tsujimura-san's room.
+F03_16.txt | 8 | 16
+I knock on the door.
+F03_16.txt | 12 | 20
+Hello, Tsujimura-san.
+F03_16.txt | 18 | 32
+Yes, I don't mind. Please, come inside.
+F03_16.txt | 21 | 22
+I enter Tsujimura-san's room.
+F03_16.txt | 26 | 30
+I've come to the front of Tsujimura-san's room again.
+F03_16.txt | 27 | 16
+I knock on the door.
+F03_16.txt | 31 | 20
+Hello, Tsujimura-san.
+F03_16.txt | 37 | 32
+Yes, I don't mind. Please, come inside.
+F03_16.txt | 40 | 22
+I enter Tsujimura-san's room.
+F03_16.txt | 45 | 26
+I've come to the front of Tsujimura-san's room.
+F03_16.txt | 46 | 16
+I knock on the door.
+F03_16.txt | 48 | 24
+Huh... I guess he's not in.
+F03_16.txt | 49 | 32
+Even after waiting, there was no response.
+F03_16.txt | 54 | 26
+It can't be helped; I'll head elsewhere.
+F03_16.txt | 55 | 26
+I've come to the front of Tsujimura-san's room.
+F03_16.txt | 56 | 28
+Akane-san knocks on the door.
+F03_16.txt | 60 | 22
+Tsujimura-san, it's Hiyama.
+F03_16.txt | 68 | 48
+We haven't been able to find her anywhere for a while now.
+F03_16.txt | 70 | 44
+Please search thoroughly. I shall search as well.
+F03_16.txt | 72 | 24
+Sorry to trouble you, Tsujimura-san.
+F03_16.txt | 75 | 46
+With that, Tsujimura-san hurried off down the corridor.
+F03_16.txt | 80 | 34
+We decided to search for her in another location.
+F03_16.txt | 81 | 26
+I've come to the front of Tsujimura-san's room.
+F03_16.txt | 82 | 16
+I knock on the door.
+F03_16.txt | 84 | 24
+Huh... I guess he's not in.
+F03_16.txt | 85 | 32
+Even after waiting, there was no response.
+F03_16.txt | 87 | 52
+Well, Tsujimura-san is also out searching for Lady Ai.
+F03_16.txt | 90 | 26
+It can't be helped; I'll head elsewhere.
+F03_17.txt | 1 | 28
+The room at the far end of the first floor is vacant.
+F03_17.txt | 3 | 22
+Naturally, no one is inside.
+F03_17.txt | 5 | 28
+The room at the far end of the first floor is vacant.
+F03_17.txt | 6 | 24
+I softly opened the door.
+F03_17.txt | 11 | 62
+I can't afford to lounge around here; let's go search elsewhere.
+F03_19.txt | 1 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F03_19.txt | 2 | 22
+Akane-san knocks on the door.
+F03_19.txt | 11 | 46
+I see... Do you have any idea where she might be?
+F03_19.txt | 13 | 38
+I've been in my room this whole time, so...
+F03_19.txt | 17 | 64
+Well... the soundproofing is quite good, so I haven't heard anything.
+F03_19.txt | 21 | 30
+I'm sorry I couldn't be of more help.
+F03_19.txt | 24 | 24
+Maya-san returned to her room.
+F03_19.txt | 26 | 24
+Let's head somewhere else.
+F03_19.txt | 27 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F03_19.txt | 28 | 22
+Akane-san knocks on the door.
+F03_19.txt | 35 | 52
+Sorry to bother you. If you notice anything, could you let us know immediately?
+F03_19.txt | 40 | 24
+Maya-san returned to her room.
+F03_19.txt | 42 | 24
+Let's head somewhere else.
+F03_19.txt | 43 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F03_19.txt | 44 | 22
+Akane-san knocks on the door.
+F03_19.txt | 45 | 36
+I wait for a while, but there was no response from inside.
+F03_20.txt | 1 | 24
+I've come to the front of Ai-san's room.
+F03_20.txt | 4 | 28
+Akane-san turns the doorknob.
+F03_20.txt | 5 | 16
+We enter the room.
+F03_20.txt | 6 | 36
+Naturally, Ai-san is nowhere to be seen.
+F03_20.txt | 11 | 24
+I've come to Ai-san's room once more.
+F03_20.txt | 13 | 24
+Are you going to search it again?
+F03_20.txt | 15 | 40
+Yes, there might still be something here.
+F03_20.txt | 16 | 28
+Akane-san turns the doorknob.
+F03_20.txt | 17 | 16
+We enter the room.
+F03_21.txt | 1 | 28
+I've come to Benio-san's room.
+F03_21.txt | 5 | 44
+Akane-san knocks on the door, but there's no response from inside.
+F03_21.txt | 14 | 36
+We decided to head for another location.
+F03_21.txt | 15 | 28
+I've come to Benio-san's room.
+F03_21.txt | 19 | 22
+Akane-san knocks on the door.
+F03_21.txt | 27 | 30
+She hasn't been seen for a while now.
+F03_21.txt | 31 | 28
+Please let us know if you see her.
+F03_21.txt | 42 | 32
+We'll try searching a few more places.
+F03_22.txt | 1 | 26
+This should be a vacant room.
+F03_22.txt | 2 | 16
+I turn the doorknob.
+F03_22.txt | 10 | 26
+It can't be helped; I'll head elsewhere.
+F03_22.txt | 11 | 18
+This is a vacant room.
+F03_22.txt | 12 | 56
+I try turning the doorknob just in case, but as expected, it remains locked.
+F03_22.txt | 17 | 34
+We decided to head for another location.
+F03_23.txt | 1 | 26
+This should be a vacant room.
+F03_23.txt | 2 | 16
+I turn the doorknob.
+F03_23.txt | 10 | 26
+It can't be helped; I'll head elsewhere.
+F03_23.txt | 11 | 18
+This is a vacant room.
+F03_23.txt | 12 | 56
+I try turning the doorknob just in case, but as expected, it remains locked.
+F03_23.txt | 17 | 34
+We decided to head for another location.
+F03_24.txt | 1 | 36
+I've come to the room at the far eastern end of the second floor.
+F03_24.txt | 4 | 36
+I've come to the room at the far eastern end of the second floor.
+F03_24.txt | 10 | 46
+Since there's no sign of Ai-san, I have no business here.
+F03_24.txt | 11 | 24
+Let's go search somewhere else.
+F03_25.txt | 1 | 32
+I've come to the room where instruments are stored.
+F03_25.txt | 3 | 32
+I've come to the room where instruments are stored.
+F03_26.txt | 1 | 22
+I've made my way to the composition room.
+F03_26.txt | 3 | 22
+I've made my way to the composition room.
+F03_27.txt | 1 | 30
+I've made it to Souko-san's room.
+F03_27.txt | 2 | 14
+I knock lightly on the door.
+F03_27.txt | 11 | 20
+So, what's your business?
+F03_27.txt | 14 | 22
+I've come to Souko-san's room.
+F03_27.txt | 15 | 14
+I knock lightly on the door.
+F03_27.txt | 17 | 36
+Oh, it's you again. What's the matter?
+F03_27.txt | 19 | 28
+Could I talk to you for a moment?
+F03_27.txt | 24 | 16
+What is it this time?
+F03_27.txt | 27 | 30
+I've made it to Souko-san's room.
+F03_27.txt | 28 | 14
+I knock lightly on the door.
+F03_27.txt | 29 | 40
+I wait for a while, but there was no response from inside.
+F03_27.txt | 31 | 34
+I gave up and decided to head elsewhere.
+F03_27.txt | 32 | 30
+I've made it to Souko-san's room.
+F03_27.txt | 33 | 14
+I knock lightly on the door.
+F03_27.txt | 40 | 20
+Souko-san shakes her head.
+F03_27.txt | 42 | 36
+It seems she hasn't been seen for a while now.
+F03_27.txt | 44 | 46
+I see... I'm worried, especially after what happened...
+F03_27.txt | 46 | 70
+Please let us know if you see her. We'll be looking around the other areas.
+F03_27.txt | 53 | 30
+I've made it to Souko-san's room.
+F03_27.txt | 54 | 14
+I knock lightly on the door.
+F03_27.txt | 56 | 38
+...Oh, it's you two. Have you found her yet?
+F03_27.txt | 60 | 34
+I think I'll try looking around a few other places myself.
+F03_27.txt | 67 | 30
+I've made it to Souko-san's room.
+F03_27.txt | 68 | 14
+I knock lightly on the door.
+F03_27.txt | 69 | 40
+I wait for a while, but there was no response from inside.
+F03_27.txt | 74 | 38
+I gave up and decided to head elsewhere.
+F03_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F03_28.txt | 2 | 12
+No one is here.
+F03_28.txt | 3 | 16
+What should I do...?
+F03_28.txt | 12 | 46
+I went into the restroom, but of course, no one was there.
+F03_28.txt | 13 | 24
+Naturally, Ai-san wasn't there either.
+F03_28.txt | 14 | 40
+I finished my business, washed my hands, and left the restroom.
+F03_28.txt | 16 | 20
+Sorry to keep you waiting.
+F03_28.txt | 19 | 52
+I followed Akane-san and headed for another location.
+F03_29.txt | 1 | 18
+The far end of the north side of the second floor.
+F03_29.txt | 2 | 36
+This is the room of the former head of the house, Mr. Kousei.
+F03_29.txt | 3 | 62
+I try turning the doorknob lightly, but as expected, it seems to be locked.
+F03_29.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F03_29.txt | 5 | 36
+Mr. Kousei's room at the far end of the north side of the second floor.
+F03_29.txt | 13 | 36
+Then the possibility of Ai-san being here is...
+F03_29.txt | 18 | 26
+It can't be helped; I'll head elsewhere.
+F03_30.txt | 1 | 24
+I've returned to my own room.
+F03_30.txt | 2 | 32
+I don't really have anything to do here, but...
+F03_30.txt | 3 | 24
+I've returned to my own room.
+F03_30.txt | 4 | 32
+I don't really have anything to do here, but...
+F03_30.txt | 9 | 44
+Hurried by Akane-san, I decided to leave the room.
+F03_31.txt | 3 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F03_31.txt | 10 | 20
+Now, what should I do?
+F03_31.txt | 13 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F03_31.txt | 20 | 20
+Now, what should I do?
+F03_31.txt | 23 | 40
+When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
+F03_31.txt | 24 | 30
+I wonder if he's gone somewhere else.
+F03_31.txt | 28 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F03_31.txt | 38 | 28
+Please let us know if you see her.
+F03_31.txt | 44 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F03_31.txt | 50 | 42
+I wonder what happened... I'm starting to get worried.
+F03_31.txt | 52 | 50
+Well, we're going to keep looking around other areas.
+F03_31.txt | 54 | 24
+Right, I'm counting on you.
+F03_31.txt | 58 | 40
+When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
+F03_31.txt | 59 | 30
+I wonder if he's gone somewhere else.
+F03_31.txt | 64 | 24
+Let's head somewhere else.
+F03_32.txt | 1 | 24
+This is Dr. Mikanagi's room.
+F03_32.txt | 2 | 20
+I knock lightly on the door.
+F03_32.txt | 3 | 28
+But there was no response from inside.
+F03_32.txt | 5 | 34
+I gave up and decided to head elsewhere.
+F03_32.txt | 6 | 24
+This is Dr. Mikanagi's room.
+F03_32.txt | 7 | 20
+I knock lightly on the door.
+F03_32.txt | 14 | 20
+Now, what should I do?
+F03_32.txt | 15 | 24
+This is Dr. Mikanagi's room.
+F03_32.txt | 16 | 20
+I knock lightly on the door.
+F03_32.txt | 17 | 28
+But there was no response from inside.
+F03_32.txt | 19 | 20
+It seems he isn't here.
+F03_32.txt | 22 | 38
+We gave up and decided to head elsewhere.
+F03_32.txt | 23 | 24
+This is Dr. Mikanagi's room.
+F03_32.txt | 24 | 20
+I knock lightly on the door.
+F03_32.txt | 34 | 28
+Please let us know if you see her.
+F03_32.txt | 38 | 24
+This is Dr. Mikanagi's room.
+F03_32.txt | 39 | 20
+I knock lightly on the door.
+F03_32.txt | 41 | 48
+Oh, it's you two... Have you still not found Ai-san?
+F03_32.txt | 45 | 42
+I wonder what happened... I'm starting to get worried.
+F03_32.txt | 47 | 50
+Well, we're going to keep looking around other areas.
+F03_32.txt | 49 | 24
+Right, I'm counting on you.
+F03_33.txt | 1 | 22
+This is Mr. Kousei's study.
+F03_33.txt | 2 | 42
+When I turned the doorknob, the door opened quite easily.
+F03_33.txt | 3 | 42
+The room was almost entirely occupied by large bookshelves.
+F03_33.txt | 4 | 36
+This place looks like it's worth investigating, but...
+F03_33.txt | 5 | 22
+This is Mr. Kousei's study.
+F03_33.txt | 6 | 42
+When I turned the doorknob, the door opened quite easily.
+F03_33.txt | 7 | 42
+The room was almost entirely occupied by large bookshelves.
+F03_33.txt | 12 | 66
+At a glance, there doesn't seem to be any place where a person could hide.
+F03_33.txt | 13 | 42
+It's not like she'd be playing hide-and-seek.
+F03_33.txt | 15 | 20
+Let's look elsewhere.
+F03_34.txt | 1 | 72
+I exited through the back office door, walked through the snowy garden, and approached the tower.
+F03_34.txt | 2 | 14
+It's incredibly cold.
+F03_34.txt | 3 | 44
+Maybe coming out in light clothing was a mistake after all.
+F03_34.txt | 4 | 40
+The area around the tower door had been thoroughly cleared of snow.
+F03_34.txt | 8 | 40
+I can't tell if anyone is inside from out here.
+F03_34.txt | 9 | 24
+It can't be helped; I'll head back.
+F03_34.txt | 10 | 44
+Exiting from the back of the office, I shivered.
+F03_34.txt | 13 | 72
+I exited through the back office door, walked through the snowy garden, and approached the tower.
+F03_34.txt | 15 | 18
+It's cold, isn't it...
+F03_34.txt | 18 | 44
+Maybe coming out in light clothing was a mistake after all.
+F03_34.txt | 19 | 40
+The area around the tower door had been thoroughly cleared of snow.
+F03_34.txt | 23 | 40
+I can't tell if anyone is inside from out here.
+F03_34.txt | 24 | 24
+It can't be helped; I'll head back.
+F03_34.txt | 25 | 44
+Exiting from the back of the office, I shivered.
+F03_34.txt | 27 | 44
+So, I immediately decided to turn back inside.
+F03_35.txt | 1 | 24
+I came to the western corridor on the second floor.
+F03_35.txt | 4 | 36
+Akane-san was in front of Ai-san's room.
+F03_35.txt | 13 | 52
+Akane-san stared at the door to Ai-san's room with a helpless look.
+F03_35.txt | 17 | 58
+She was there when everyone gathered, but I don't know after that.
+F03_35.txt | 19 | 100
+When I... took Shion-san to the infirmary, I was with Ai-san for a bit... but I don't know after that.
+F03_35.txt | 22 | 32
+Somehow, I had a very bad premonition.
+F03_35.txt | 23 | 44
+Souko-san had said that there was a possibility it would still continue.
+F03_35.txt | 26 | 20
+...Let's look for her.
+F03_35.txt | 29 | 48
+Now that it had come to this, I couldn't just stand still.
+F03_35.txt | 30 | 84
+If... if Ai-san had been taken away by the culprit, I have to save her no matter what.
+F03_map.txt | 1 | 34
+An hour has passed since I started the patrol.
+F03_map.txt | 2 | 32
+There didn't seem to be any particular problems, but...
+F03_map.txt | 3 | 36
+I'm thirsty, so I'll go to the grand hall.
+F03_map.txt | 4 | 42
+It's been quite a while since I started looking for Ai-san.
+F03_map.txt | 6 | 26
+She's nowhere to be found...
+F03_map.txt | 11 | 66
+Then, how about the grand hall at one o'clock? I will go and tell everyone.
+F03_map.txt | 12 | 34
+Saying that, Akane-san turned on her heel.
+F03_map.txt | 22 | 56
+...The culprit might be among the people she's going to talk to.
+F03_map.txt | 25 | 12
+Don't follow her
+F03_map.txt | 28 | 46
+I followed Akane-san toward the eastern corridor.
+F03_map.txt | 29 | 32
+Akane-san was in the corridor by the dining hall.
+F03_map.txt | 30 | 20
+Narumi-san is with her too.
+F03_map.txt | 34 | 66
+Y-Yeah... it's dangerous after all, so it's better not to act alone.
+F03_map.txt | 43 | 56
+...Sorry to break it to you, but I think I'm tougher than you are.
+F03_map.txt | 56 | 34
+It should be fine if I leave it to those two.
+F03_map.txt | 57 | 36
+I decided to head to the grand hall ahead of them.
+F03_map.txt | 58 | 24
+...It'll probably be fine.
+F03_map.txt | 59 | 56
+Even the culprit wouldn't just attack anyone they see alone indiscriminately.
+F03_map.txt | 60 | 60
+...If that weren't the case, many more people would have been victims by now.
+F03_map.txt | 61 | 58
+Despite a lingering unease in my chest, I decided to head to the grand hall.
+F03_room.txt | 1 | 16
+It's almost one o'clock.
+F03_room.txt | 2 | 34
+I think I'll head to the grand hall for a bit.
+F03_search.txt | 1 | 34
+An hour has passed since I started the patrol.
+F03_search.txt | 2 | 32
+There didn't seem to be any particular problems, but...
+F03_search.txt | 3 | 36
+I'm thirsty, so I'll go to the grand hall.
+F03_search.txt | 4 | 42
+It's been quite a while since I started looking for Ai-san.
+F03_search.txt | 6 | 26
+She's nowhere to be found...
+F03_search.txt | 11 | 66
+Then, how about the grand hall at one o'clock? I will go and tell everyone.
+F03_search.txt | 12 | 50
+Saying that, Akane-san turned on her heel and left the room.
+F03_search.txt | 13 | 34
+I'll head to the grand hall as well.
+F03_talk.txt | 6 | 34
+Well then, keep up the good work with the investigation.
+F03_talk.txt | 29 | 40
+I said my thanks and decided to go elsewhere.
+F03_talk.txt | 41 | 56
+Well, I guess I'll get back to work then. It's a pain, though.
+F03_talk.txt | 47 | 32
+Now then, what should I do next...?
+F03_talk.txt | 48 | 34
+An hour has passed since I started the patrol.
+F03_talk.txt | 49 | 32
+There didn't seem to be any particular problems, but...
+F03_talk.txt | 50 | 36
+I'm thirsty, so I'll go to the grand hall.
+F04_01.txt | 1 | 14
+I've reached the entrance.
+F04_01.txt | 2 | 34
+I didn't really feel like going outside, given the circumstances.
+F04_01.txt | 3 | 36
+It looks like no one's around, so I'll head somewhere else.
+F04_02.txt | 1 | 20
+I've arrived at the first-floor hall.
+F04_02.txt | 2 | 18
+It seems like no one is here.
+F04_02.txt | 3 | 16
+I'll head somewhere else.
+F04_02.txt | 4 | 36
+Benio-san and Shion-san were in the hall.
+F04_02.txt | 6 | 18
+Is it still not fixed?
+F04_02.txt | 7 | 38
+That was the first thing she said the moment she saw my face.
+F04_02.txt | 9 | 30
+Telling me that doesn't exactly help matters.
+F04_02.txt | 14 | 20
+Benio-san crossed her arms.
+F04_02.txt | 15 | 50
+It didn't feel like the kind of atmosphere where I could strike up a conversation.
+F04_02.txt | 19 | 36
+Benio-san and Shion-san were in the hall.
+F04_02.txt | 21 | 18
+Is it still not fixed?
+F04_02.txt | 24 | 58
+I hurried away, trying to distance myself from the clearly irritated Benio-san.
+F04_02.txt | 26 | 62
+Please wait just a little longer. I'm going to go look for a fuse now.
+F04_02.txt | 27 | 70
+Recalling that Tsujimura-san had asked me to do it, I hurried toward the storage room.
+F04_02.txt | 29 | 52
+I found the fuse, so please bear with it for a while longer.
+F04_02.txt | 30 | 78
+After soothing the dissatisfied-looking Benio-san, I decided to patrol the manor just a bit more.
+F04_03.txt | 1 | 20
+I've arrived at the grand hall.
+F04_03.txt | 2 | 34
+Naturally, it remains pitch black in here too.
+F04_03.txt | 5 | 52
+Akane-san, who had been gazing anxiously out the window, turned around.
+F04_03.txt | 9 | 52
+I'm not entirely sure myself... is it a power outage...?
+F04_03.txt | 11 | 66
+It could be dangerous if something happens, so please try not to leave your room.
+F04_03.txt | 16 | 38
+I'm going to look around the interior a bit more.
+F04_03.txt | 18 | 24
+Alright... please be careful.
+F04_03.txt | 20 | 20
+I've returned to the grand hall.
+F04_03.txt | 31 | 46
+Perhaps everyone is staying cooped up in their rooms.
+F04_03.txt | 32 | 26
+Well, that's probably for the best safety-wise.
+F04_03.txt | 34 | 38
+I'm going to look around the interior a bit more.
+F04_03.txt | 36 | 24
+Yes... please be careful.
+F04_04.txt | 1 | 14
+I've come to the telephone room.
+F04_04.txt | 2 | 18
+It seems no one is here.
+F04_04.txt | 3 | 62
+I picked up the receiver to check, but naturally, there was no sound.
+F04_04.txt | 4 | 30
+I decided to head somewhere else.
+F04_05.txt | 1 | 30
+The office was dark as well, as expected.
+F04_05.txt | 2 | 16
+Benio-san was there.
+F04_05.txt | 6 | 48
+Tsujimura should be down in the basement checking the generator right now.
+F04_05.txt | 10 | 76
+Yeah. There should be fuel for it, so it's likely some kind of trouble... I don't like this.
+F04_05.txt | 11 | 34
+Benio-san spat the words out irritably.
+F04_05.txt | 13 | 42
+...It's certainly unsettling, given the current situation.
+F04_05.txt | 15 | 64
+It could be that someone did this with malicious intent. Don't let your guard down.
+F04_05.txt | 18 | 44
+Leaving her with those words, I decided to exit the office.
+F04_05.txt | 19 | 20
+I've returned to the office.
+F04_05.txt | 22 | 40
+I spoke to Benio-san, who was alone in the office.
+F04_05.txt | 25 | 30
+Benio-san sighed in exasperation.
+F04_05.txt | 29 | 28
+Panicking won't help anything.
+F04_05.txt | 33 | 56
+When I entered the office, Benio-san and Shion-san were there along with Tsujimura-san.
+F04_05.txt | 34 | 52
+However... Tsujimura-san was pressing a wet hand towel to his head.
+F04_05.txt | 42 | 72
+About twenty minutes ago, I suppose... I was in the hall when I was suddenly hit from behind... ow...
+F04_05.txt | 45 | 48
+Shion-san, who was gently holding the towel in place, spoke up.
+F04_05.txt | 47 | 26
+Dear me, how pathetic of me...
+F04_05.txt | 51 | 60
+I haven't the slightest clue... after all, it came from behind...
+F04_05.txt | 60 | 40
+Tsujimura-san seemed concerned about that as well.
+F04_05.txt | 62 | 52
+So, just how much longer must we spend our time in the dark?
+F04_05.txt | 67 | 30
+Benio-san looked at the clock and fell silent.
+F04_05.txt | 69 | 78
+Um, Seiji-san. You've injured your head, so it would be better if you didn't move around...
+F04_05.txt | 75 | 56
+B-But... I couldn't possibly let a guest do such a thing...
+F04_05.txt | 77 | 84
+Tsujimura, just take him up on his offer. I know absolutely nothing about machinery, and it's best if you don't move.
+F04_05.txt | 82 | 50
+Tsujimura-san tried to bow his head but was stopped by Shion-san.
+F04_05.txt | 90 | 92
+There should be fuses and tools in the storage room. If you could fix the generator in the basement...
+F04_05.txt | 93 | 14
+First, the storage room.
+F04_05.txt | 94 | 54
+I bowed to Tsujimura-san and the others and decided to leave the office.
+F04_05.txt | 97 | 32
+Benio-san and the others were still in the office.
+F04_05.txt | 99 | 38
+Ah, no, I didn't really have any business, but...
+F04_05.txt | 101 | 54
+Hurry up and fix that generator. I can't stand it being this dark.
+F04_05.txt | 104 | 44
+I turned on my heel and decided to leave the office.
+F04_05.txt | 105 | 32
+When I entered the office, Takamine-san was there.
+F04_05.txt | 111 | 20
+It seems there's a blackout.
+F04_05.txt | 115 | 78
+...The power went out a little before five-thirty, but did you not notice until now?
+F04_05.txt | 117 | 102
+...I was asleep in my room. I woke up to find the lights wouldn't turn on, so I came here to ask Tsujimura-san about it.
+F04_05.txt | 121 | 24
+...Something seems to be up.
+F04_05.txt | 122 | 26
+Takamine-san muttered under his breath.
+F04_05.txt | 126 | 52
+A blackout in the middle of such a bizarre situation is just too convenient.
+F04_05.txt | 128 | 34
+It would be wise not to let your guard down.
+F04_05.txt | 130 | 48
+Yeah. I'm going to look around the building a bit more.
+F04_05.txt | 132 | 34
+I see. I'll stay here for a while longer.
+F04_05.txt | 134 | 30
+Takamine-san was still in the office.
+F04_05.txt | 138 | 38
+No... I didn't really have any business, but...
+F04_05.txt | 140 | 70
+You shouldn't wander around too much. There's no telling where the culprit might be lurking.
+F04_05.txt | 144 | 88
+Locking yourself in your room is the best course... come to think of it, did I lock my door...?
+F04_05.txt | 148 | 90
+If I know there's danger, there are ways to handle it. As long as I'm not caught off guard, I'll be fine.
+F04_05.txt | 150 | 48
+Well, you do have the most solid build among us, Takamine-san...
+F04_05.txt | 151 | 40
+I don't think I could win even if I challenged this man head-on.
+F04_05.txt | 152 | 54
+Actually, I don't think someone like me could take him even if I caught him off guard.
+F04_06.txt | 1 | 40
+I've arrived at the reception room, but no one seems to be here.
+F04_06.txt | 2 | 26
+It can't be helped; I'll head elsewhere.
+F04_07.txt | 1 | 14
+This is the storage room.
+F04_07.txt | 2 | 38
+There's no point in staying here if I don't have any business.
+F04_07.txt | 3 | 36
+I turned on my heel and decided to leave the storage room.
+F04_07.txt | 4 | 14
+This is the storage room.
+F04_07.txt | 5 | 64
+Now then... I'll look for the tools to repair the generator that Tsujimura-san asked me for.
+F04_08.txt | 1 | 18
+I've arrived at the dining hall.
+F04_08.txt | 4 | 12
+No one is here.
+F04_08.txt | 5 | 48
+I thought for sure someone would be in the dining hall.
+F04_08.txt | 6 | 26
+It can't be helped; I'll head elsewhere.
+F04_09.txt | 1 | 18
+I've arrived at the kitchen.
+F04_09.txt | 4 | 12
+No one is here.
+F04_09.txt | 6 | 26
+It can't be helped; I'll head elsewhere.
+F04_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F04_10.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F04_10.txt | 3 | 22
+It seems she isn't here.
+F04_10.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F04_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F04_11.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F04_11.txt | 3 | 22
+It seems she isn't here.
+F04_11.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F04_12.txt | 1 | 20
+I've come to the first-floor restroom.
+F04_12.txt | 2 | 16
+It's pitch black here too.
+F04_12.txt | 3 | 12
+No one is here.
+F04_12.txt | 4 | 56
+I relieved myself in the dark and decided to head elsewhere.
+F04_13.txt | 1 | 28
+I've reached the far end of the first floor.
+F04_13.txt | 2 | 22
+I place my hand on the chapel door.
+F04_13.txt | 5 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F04_13.txt | 6 | 38
+There's no point in staying here; I'll head elsewhere.
+F04_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F04_14.txt | 2 | 44
+Rokuyou-san's remains are laid to rest here...
+F04_14.txt | 3 | 58
+I pulled my hand back from the doorknob and decided to head elsewhere.
+F04_15.txt | 1 | 28
+I've reached the front of Takamine-san's room.
+F04_15.txt | 2 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F04_15.txt | 4 | 24
+Huh... I guess he's not in.
+F04_15.txt | 5 | 32
+Even after waiting, there was no response.
+F04_15.txt | 6 | 26
+It can't be helped; I'll head elsewhere.
+F04_15.txt | 7 | 28
+I've reached the front of Takamine-san's room.
+F04_15.txt | 8 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F04_15.txt | 10 | 24
+Huh... I guess he's not in.
+F04_15.txt | 11 | 32
+Even after waiting, there was no response.
+F04_15.txt | 12 | 34
+Without thinking, I placed my hand on the doorknob.
+F04_15.txt | 16 | 14
+What should I do...?
+F04_15.txt | 17 | 8
+Go inside
+F04_15.txt | 18 | 12
+Don't go inside
+F04_15.txt | 19 | 24
+I softly closed the door.
+F04_15.txt | 20 | 36
+There's no way I could pull a stunt like some thief.
+F04_15.txt | 21 | 66
+Besides, if Takamine-san came back while I was inside... just thinking about it is terrifying.
+F04_15.txt | 22 | 90
+After making sure no one saw me open the door, I quietly moved away from the front of Takamine-san's room.
+F04_15.txt | 23 | 82
+I looked both ways down the corridor, and after confirming no one was watching, I slipped inside the room.
+F04_15.txt | 24 | 24
+The room was pitch black as well.
+F04_15.txt | 25 | 50
+I waited a bit for my eyes to adjust, then looked around the room.
+F04_15.txt | 26 | 24
+Now then, what should I do...?
+F04_15.txt | 27 | 28
+I've reached the front of Takamine-san's room.
+F04_15.txt | 28 | 26
+I knock lightly on the door, but there's no response.
+F04_15.txt | 30 | 66
+The door probably isn't locked, but I don't want to do anything like sneaking in.
+F04_15.txt | 31 | 44
+I softly moved away from the front of Takamine-san's room.
+F04_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F04_16.txt | 2 | 16
+I knock on the door.
+F04_16.txt | 4 | 24
+Huh... I guess he's not in.
+F04_16.txt | 5 | 32
+Even after waiting, there was no response.
+F04_16.txt | 6 | 26
+It can't be helped; I'll head elsewhere.
+F04_16.txt | 7 | 26
+I've come to the front of Tsujimura-san's room.
+F04_16.txt | 8 | 16
+I knock on the door.
+F04_16.txt | 10 | 22
+Tsujimura-san, it's me.
+F04_16.txt | 11 | 44
+The door opened, and a weary-looking Tsujimura-san appeared.
+F04_16.txt | 21 | 80
+About thirty minutes ago... I was in the hall when I was suddenly hit from behind... dear me, how pathetic...
+F04_16.txt | 25 | 60
+I haven't the slightest clue... after all, it came from behind...
+F04_16.txt | 34 | 40
+Tsujimura-san seemed concerned about that as well.
+F04_16.txt | 36 | 20
+Does it look like it can be fixed?
+F04_16.txt | 38 | 60
+...If I recall, there should be spare fuses left in the storage room...
+F04_16.txt | 42 | 56
+B-But... I couldn't possibly let a guest do such a thing...
+F04_16.txt | 44 | 80
+I'll be fine. Besides, I can't leave it to you when you're injured, Tsujimura-san.
+F04_16.txt | 50 | 92
+There should be fuses and tools in the storage room. If you could fix the generator in the basement...
+F04_16.txt | 53 | 14
+First, the storage room.
+F04_16.txt | 54 | 50
+I bowed to Tsujimura-san and decided to head for the storage room.
+F04_16.txt | 55 | 26
+I've come to the front of Tsujimura-san's room.
+F04_16.txt | 56 | 16
+I knock on the door.
+F04_16.txt | 58 | 22
+Tsujimura-san, it's me.
+F04_16.txt | 59 | 44
+The door opened, and a weary-looking Tsujimura-san appeared.
+F04_16.txt | 63 | 48
+Um... Tsujimura-san, is your head alright where you were hit?
+F04_16.txt | 65 | 58
+Yes, it still hurts, but I'm icing it, so there's no need to worry.
+F04_16.txt | 67 | 26
+I see... take care of yourself.
+F04_17.txt | 1 | 28
+The room at the far end of the first floor is vacant.
+F04_17.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F04_17.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F04_19.txt | 1 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F04_19.txt | 2 | 24
+I knock on the door and wait for a while.
+F04_19.txt | 7 | 36
+It was Dr. Mikanagi who came out of the room.
+F04_19.txt | 9 | 44
+She seems to be feeling unwell, so I was checking on her.
+F04_19.txt | 13 | 54
+For now, yes. However, it will be a problem if this blackout continues for much longer...
+F04_19.txt | 14 | 38
+Dr. Mikanagi muttered while gazing down the dark corridor.
+F04_19.txt | 16 | 30
+I'm investigating the cause right now.
+F04_19.txt | 20 | 46
+Yeah. I just hope I can fix it as soon as possible.
+F04_19.txt | 23 | 48
+I parted ways with Dr. Mikanagi and headed for another location.
+F04_19.txt | 24 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F04_19.txt | 25 | 24
+I knock on the door and wait for a while.
+F04_19.txt | 27 | 30
+Oh... did you need something else?
+F04_19.txt | 28 | 20
+Dr. Mikanagi appeared.
+F04_19.txt | 32 | 64
+There's no need for such concern. I expect she's just feeling anxious.
+F04_19.txt | 35 | 40
+With everything that's been happening, the mental strain must be relentless.
+F04_19.txt | 40 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F04_19.txt | 41 | 24
+I knock on the door and wait for a while.
+F04_19.txt | 45 | 28
+Her complexion didn't look very good.
+F04_19.txt | 49 | 88
+Yes... I had Dr. Mikanagi examine me just a moment ago. More importantly... this blackout...
+F04_19.txt | 51 | 58
+I'm in the middle of investigating it, but I think the power should be restored soon.
+F04_19.txt | 55 | 54
+No, I don't mind at all. We should help each other when in trouble.
+F04_19.txt | 58 | 26
+Maya-san bowed her head to me.
+F04_19.txt | 64 | 24
+Yes... I suppose I should.
+F04_19.txt | 66 | 34
+Well then, I'll be going. Excuse me.
+F04_19.txt | 68 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F04_19.txt | 69 | 40
+I was about to knock on the door but suddenly stopped.
+F04_19.txt | 71 | 42
+It's probably best not to disturb her so many times.
+F04_19.txt | 72 | 44
+I left the area and decided to head for another location.
+F04_20.txt | 1 | 32
+I've reached the front of Ai-san's room.
+F04_20.txt | 2 | 50
+Since Ai-san is in my room right now, I have no business here.
+F04_20.txt | 3 | 28
+I decided to head somewhere else.
+F04_20.txt | 4 | 32
+I've reached the front of Ai-san's room.
+F04_20.txt | 5 | 40
+Ai-san's remains are laid to rest here now.
+F04_20.txt | 6 | 56
+After confirming the door was locked, I decided to head elsewhere.
+F04_20.txt | 7 | 32
+I've returned to the front of Ai-san's room.
+F04_20.txt | 8 | 34
+She's staying quiet inside the room right now.
+F04_20.txt | 9 | 62
+It's probably best to leave her alone for now so as not to give her any unnecessary anxiety.
+F04_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F04_21.txt | 3 | 10
+I knock on the door.
+F04_21.txt | 5 | 24
+Huh... I guess she's not in.
+F04_21.txt | 6 | 32
+Even after waiting, there was no response.
+F04_21.txt | 7 | 26
+It can't be helped; I'll head elsewhere.
+F04_22.txt | 1 | 26
+This should be a vacant room.
+F04_22.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F04_22.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F04_23.txt | 1 | 26
+This should be a vacant room.
+F04_23.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F04_23.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F04_24.txt | 1 | 36
+I've come to the room at the far eastern end of the second floor.
+F04_24.txt | 2 | 42
+The lights wouldn't turn on in this room either, so it was dark.
+F04_24.txt | 3 | 76
+I took a quick look around the room, and after confirming there were no abnormalities, I decided to leave.
+F04_25.txt | 1 | 32
+I've come to the room where instruments are stored.
+F04_25.txt | 2 | 16
+It's pitch black here too.
+F04_25.txt | 3 | 44
+I took a quick look around, but nothing seemed out of the ordinary.
+F04_25.txt | 5 | 66
+Still, since there were no visible abnormalities, I decided to head elsewhere.
+F04_26.txt | 1 | 22
+I've made my way to the composition room.
+F04_26.txt | 2 | 54
+I looked around the dark room, but nothing seemed particularly strange.
+F04_26.txt | 3 | 30
+I decided to head for another location.
+F04_27.txt | 1 | 30
+I've made it to Souko-san's room.
+F04_27.txt | 2 | 14
+I knock lightly on the door.
+F04_27.txt | 3 | 40
+I wait for a while, but there was no response from inside.
+F04_27.txt | 5 | 34
+I gave up and decided to head elsewhere.
+F04_27.txt | 6 | 30
+I've made it to Souko-san's room.
+F04_27.txt | 7 | 14
+I knock lightly on the door.
+F04_27.txt | 10 | 34
+A sleepy-looking Souko-san appeared.
+F04_27.txt | 16 | 38
+I think the power will be restored soon...
+F04_27.txt | 18 | 16
+Are you investigating it?
+F04_27.txt | 26 | 56
+I'm planning to stay in my room, so you don't need to worry too much about me.
+F04_27.txt | 30 | 60
+Actually, I think now would be a better time to investigate various parts of this house.
+F04_27.txt | 32 | 26
+Please, just bear with it for now.
+F04_27.txt | 37 | 22
+Souko-san returned to her room.
+F04_27.txt | 38 | 40
+Now then-I'll head somewhere else as well.
+F04_27.txt | 39 | 30
+I've made it to Souko-san's room.
+F04_27.txt | 40 | 14
+I knock lightly on the door.
+F04_27.txt | 44 | 54
+No, I didn't really have any business, but I'm doing a quick patrol just in case.
+F04_27.txt | 46 | 54
+I see... just be careful you don't get attacked from the shadows, okay?
+F04_27.txt | 48 | 36
+Please don't say scary things like that...
+F04_27.txt | 53 | 50
+I bowed to Souko-san and decided to look around other areas.
+F04_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F04_28.txt | 2 | 16
+It's pitch black here too.
+F04_28.txt | 3 | 12
+No one is here.
+F04_28.txt | 4 | 56
+I relieved myself in the dark and decided to head elsewhere.
+F04_29.txt | 1 | 18
+The far end of the north side of the second floor.
+F04_29.txt | 2 | 36
+This is the room of the former head of the house, Mr. Kousei.
+F04_29.txt | 3 | 62
+I try turning the doorknob lightly, but as expected, it seems to be locked.
+F04_29.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F04_30.txt | 1 | 24
+I've returned to my own room.
+F04_30.txt | 2 | 32
+I don't really have anything to do here, but...
+F04_30.txt | 3 | 28
+I've returned to my own room.
+F04_30.txt | 4 | 38
+I was about to open the door but suddenly stopped.
+F04_30.txt | 5 | 30
+Ai-san is in my room right now.
+F04_30.txt | 6 | 96
+I could just knock and have her open the door, but knocking suddenly might give her an unnecessary fright.
+F04_30.txt | 7 | 50
+Besides... I still have things to do before returning to the room.
+F04_30.txt | 8 | 64
+It's probably best to look around the interior a bit more until the power is restored.
+F04_30.txt | 9 | 52
+I softly moved away from the door and headed for another location.
+F04_31.txt | 3 | 40
+When I entered the infirmary, Dr. Mikanagi was nowhere to be found.
+F04_31.txt | 4 | 30
+I wonder if he's gone somewhere else.
+F04_31.txt | 5 | 44
+I don't have anything in particular to do, so I'll head elsewhere.
+F04_31.txt | 8 | 54
+As I entered the infirmary, Dr. Mikanagi, who was sitting in a chair, looked up.
+F04_31.txt | 14 | 52
+Let's see... only that it's pitch black and I can't even read a book.
+F04_31.txt | 26 | 36
+I see. Then I suppose I'll just have to bear with it a bit longer.
+F04_31.txt | 30 | 20
+Alright, I understand.
+F04_31.txt | 36 | 46
+No, it's not really a matter of having any business, but...
+F04_31.txt | 38 | 48
+Did you notice anything particularly strange while looking around?
+F04_31.txt | 42 | 62
+I just hope everything passes without anything else happening...
+F04_32.txt | 1 | 24
+This is Dr. Mikanagi's room.
+F04_32.txt | 2 | 20
+I knock lightly on the door.
+F04_32.txt | 3 | 28
+But there was no response from inside.
+F04_32.txt | 5 | 34
+I gave up and decided to head elsewhere.
+F04_33.txt | 1 | 22
+This is Mr. Kousei's study.
+F04_33.txt | 2 | 42
+When I turned the doorknob, the door opened quite easily.
+F04_33.txt | 3 | 24
+The room was pitch black inside.
+F04_33.txt | 4 | 28
+No one in particular was there.
+F04_33.txt | 5 | 74
+I took a quick look around the room to confirm there were no abnormalities and then decided to head elsewhere.
+F04_room.txt | 1 | 66
+It's almost six o'clock, but it seems the power hasn't been restored yet.
+F04_room.txt | 2 | 26
+I think I'll go check on things.
+F04_search.txt | 1 | 14
+Six o'clock already...
+F04_search.txt | 2 | 42
+I'll stop here for now and go check on the others.
+F05_01.txt | 1 | 14
+I've reached the entrance.
+F05_01.txt | 2 | 34
+I didn't really feel like going outside, given the circumstances.
+F05_01.txt | 3 | 36
+It looks like no one's around, so what should I do...?
+F05_02.txt | 1 | 20
+I've arrived at the first-floor hall.
+F05_02.txt | 2 | 18
+It seems like no one is here.
+F05_02.txt | 3 | 16
+What should I do...?
+F05_03.txt | 1 | 72
+When I arrived at the grand hall, I found Akane-san alone, wiping down the tables.
+F05_03.txt | 4 | 42
+Noticing me, Akane-san stopped what she was doing.
+F05_03.txt | 9 | 58
+When I entered the grand hall, Akane-san appeared to still be cleaning.
+F05_03.txt | 12 | 26
+There was no one in the grand hall.
+F05_03.txt | 13 | 22
+Now... what should I do?
+F05_04.txt | 1 | 14
+I've come to the telephone room.
+F05_04.txt | 2 | 18
+It seems no one is here.
+F05_04.txt | 3 | 22
+Now then, what should I do...?
+F05_05.txt | 2 | 26
+Oh, is something the matter?
+F05_05.txt | 3 | 26
+Tsujimura-san was in the office.
+F05_05.txt | 5 | 30
+Hello. Were you in the middle of work?
+F05_05.txt | 10 | 30
+Tsujimura-san was still in the office.
+F05_06.txt | 1 | 20
+I've arrived at the reception room.
+F05_06.txt | 4 | 16
+Shion-san was there.
+F05_06.txt | 8 | 22
+Still... not very well...
+F05_06.txt | 10 | 48
+Don't you think it's better if you rest in your room?
+F05_06.txt | 13 | 26
+Shion-san gave a weak smile.
+F05_06.txt | 18 | 30
+Shion-san was still in the reception room.
+F05_06.txt | 22 | 56
+I'm just doing my rounds. I don't know what might happen yet, after all.
+F05_06.txt | 26 | 72
+I can't say for sure... but I intend to do my best to ensure nothing does.
+F05_06.txt | 29 | 28
+Shion-san looks exhausted as well.
+F05_07.txt | 1 | 14
+This is the storage room.
+F05_07.txt | 2 | 26
+I don't really have any business here, but...
+F05_08.txt | 1 | 18
+I've arrived at the dining hall.
+F05_08.txt | 4 | 32
+Narumi-san was standing there alone.
+F05_08.txt | 6 | 46
+It's rare to see you in the dining hall, Narumi-san.
+F05_08.txt | 10 | 50
+I always have the impression that you're cooped up in the kitchen.
+F05_08.txt | 16 | 24
+No way, that's too much trouble.
+F05_08.txt | 21 | 52
+More importantly, didn't you come here because you needed something?
+F05_08.txt | 22 | 22
+I've arrived at the dining hall again.
+F05_08.txt | 26 | 26
+Is there a problem with that?
+F05_08.txt | 28 | 58
+If you're hungry, I've got some leftover sandwiches from earlier?
+F05_08.txt | 30 | 40
+It's not that I'm hungry, specifically...
+F05_08.txt | 32 | 18
+Then what do you want?
+F05_09.txt | 1 | 18
+I've arrived at the kitchen.
+F05_09.txt | 2 | 20
+...But no one is here.
+F05_09.txt | 3 | 34
+It's unusual for Narumi-san not to be here...
+F05_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F05_10.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F05_10.txt | 3 | 22
+It seems she isn't here.
+F05_10.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F05_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F05_11.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F05_11.txt | 3 | 22
+It seems she isn't here.
+F05_11.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F05_12.txt | 1 | 20
+I've come to the first-floor restroom.
+F05_12.txt | 2 | 12
+No one is here.
+F05_12.txt | 3 | 16
+What should I do...?
+F05_13.txt | 1 | 28
+I've reached the far end of the first floor.
+F05_13.txt | 2 | 22
+I place my hand on the chapel door.
+F05_13.txt | 5 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F05_13.txt | 6 | 38
+There's no point in staying here; I'll head elsewhere.
+F05_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F05_14.txt | 2 | 44
+Rokuyou-san's remains are laid to rest here...
+F05_14.txt | 3 | 58
+I pulled my hand back from the doorknob and decided to head elsewhere.
+F05_15.txt | 1 | 28
+I've reached the front of Takamine-san's room.
+F05_15.txt | 2 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F05_15.txt | 4 | 22
+It's you... what do you want?
+F05_15.txt | 6 | 34
+Um, could I talk to you for a moment?
+F05_15.txt | 13 | 28
+I've reached the front of Takamine-san's room.
+F05_15.txt | 14 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F05_15.txt | 18 | 38
+U-Um, could I talk to you for a moment?
+F05_15.txt | 24 | 20
+What is it this time?
+F05_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F05_16.txt | 2 | 16
+I knock on the door.
+F05_16.txt | 4 | 24
+Huh... I guess he's not in.
+F05_16.txt | 5 | 32
+Even after waiting, there was no response.
+F05_16.txt | 6 | 26
+It can't be helped; I'll head elsewhere.
+F05_17.txt | 1 | 28
+The room at the far end of the first floor is vacant.
+F05_17.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F05_17.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F05_19.txt | 1 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F05_19.txt | 2 | 24
+I knock on the door and wait for a while.
+F05_19.txt | 9 | 26
+I softly peek into the room.
+F05_19.txt | 10 | 30
+It seems Maya-san is out after all.
+F05_19.txt | 11 | 16
+What should I do...?
+F05_19.txt | 12 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F05_19.txt | 13 | 24
+I knock on the door and wait for a while.
+F05_19.txt | 21 | 46
+As expected, the mental strain of this situation is taking its toll.
+F05_19.txt | 25 | 92
+Um, do you have a moment? Of course, if you're not feeling well, I'll take my leave immediately...
+F05_19.txt | 30 | 30
+So, what did you want to discuss?
+F05_19.txt | 31 | 48
+I've come to Maya-san's room at the far western end of the second floor.
+F05_19.txt | 32 | 24
+I knock on the door and wait for a while.
+F05_20.txt | 1 | 32
+I've reached the front of Ai-san's room.
+F05_20.txt | 2 | 20
+I knock lightly and wait.
+F05_20.txt | 14 | 32
+I've reached the front of Ai-san's room.
+F05_20.txt | 15 | 20
+I knock lightly and wait.
+F05_20.txt | 27 | 26
+I've come to Ai-san's room.
+F05_20.txt | 29 | 58
+I pulled my hand back from the doorknob and decided to head elsewhere.
+F05_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F05_21.txt | 3 | 10
+I knock on the door.
+F05_21.txt | 15 | 38
+I've come to Benio-san's room on the second floor.
+F05_21.txt | 16 | 24
+I knock on the door and wait for a while.
+F05_21.txt | 26 | 30
+Benio-san asks with a formal tone.
+F05_22.txt | 1 | 26
+This should be a vacant room.
+F05_22.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F05_22.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F05_23.txt | 1 | 26
+This should be a vacant room.
+F05_23.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F05_23.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F05_24.txt | 1 | 36
+I've come to the room at the far eastern end of the second floor.
+F05_25.txt | 1 | 32
+I've come to the room where instruments are stored.
+F05_26.txt | 1 | 22
+I've made my way to the composition room.
+F05_27.txt | 1 | 30
+I've made it to Souko-san's room.
+F05_27.txt | 2 | 14
+I knock lightly on the door.
+F05_27.txt | 11 | 20
+So, what's your business?
+F05_27.txt | 14 | 22
+I've come to Souko-san's room.
+F05_27.txt | 15 | 14
+I knock lightly on the door.
+F05_27.txt | 17 | 36
+Oh, it's you again. What's the matter?
+F05_27.txt | 19 | 28
+Could I talk to you for a moment?
+F05_27.txt | 24 | 16
+What is it this time?
+F05_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F05_28.txt | 2 | 12
+No one is here.
+F05_28.txt | 3 | 16
+What should I do...?
+F05_29.txt | 1 | 18
+The far end of the north side of the second floor.
+F05_29.txt | 2 | 36
+This is the room of the former head of the house, Mr. Kousei.
+F05_29.txt | 3 | 62
+I try turning the doorknob lightly, but as expected, it seems to be locked.
+F05_29.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F05_30.txt | 1 | 24
+I've returned to my own room.
+F05_30.txt | 2 | 32
+I don't really have anything to do here, but...
+F05_31.txt | 3 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F05_31.txt | 9 | 74
+I seem to have left my medical bag in my room. Would you mind going to fetch it for me?
+F05_31.txt | 14 | 54
+With that, Dr. Mikanagi turned his gaze back to the documents on his desk.
+F05_31.txt | 15 | 74
+It doesn't look like I'll be able to talk to him now. I'll take care of what he asked and then come back.
+F05_31.txt | 16 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F05_31.txt | 21 | 18
+I completely forgot.
+F05_31.txt | 23 | 36
+Could it be you didn't know which room was mine?
+F05_31.txt | 26 | 20
+It's right next to mine, after all.
+F05_31.txt | 29 | 36
+I hurried out of the infirmary as if I were making an escape.
+F05_31.txt | 32 | 50
+I held out the bag I'd brought from Dr. Mikanagi's room.
+F05_31.txt | 34 | 26
+Thank you, you've been a great help.
+F05_31.txt | 35 | 46
+Dr. Mikanagi took several documents out of the bag.
+F05_31.txt | 40 | 20
+Now, what should I do?
+F05_31.txt | 43 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F05_31.txt | 50 | 20
+Now, what should I do?
+F05_32.txt | 1 | 24
+This is Dr. Mikanagi's room.
+F05_32.txt | 2 | 20
+I knock lightly on the door.
+F05_32.txt | 3 | 28
+But there was no response from inside.
+F05_32.txt | 5 | 34
+I gave up and decided to head elsewhere.
+F05_32.txt | 6 | 24
+This is Dr. Mikanagi's room.
+F05_32.txt | 7 | 48
+Come to think of it, I was asked to bring him his bag earlier.
+F05_32.txt | 8 | 38
+I took the key he'd given me and slid it into the lock.
+F05_32.txt | 9 | 8
+It opened.
+F05_32.txt | 11 | 26
+Now then-it was the bag he wanted, right?
+F05_32.txt | 12 | 24
+This is Dr. Mikanagi's room.
+F05_32.txt | 13 | 48
+I'll probably get scolded if I come in here without a reason.
+F05_32.txt | 14 | 28
+I decided to head somewhere else.
+F05_33.txt | 1 | 22
+This is Mr. Kousei's study.
+F05_33.txt | 2 | 42
+When I turned the doorknob, the door opened quite easily.
+F05_33.txt | 3 | 42
+The room was almost entirely occupied by large bookshelves.
+F05_33.txt | 4 | 36
+This place looks like it's worth investigating, but...
+F05_34.txt | 1 | 72
+I exited through the back office door, walked through the snowy garden, and approached the tower.
+F05_34.txt | 2 | 14
+It's incredibly cold.
+F05_34.txt | 3 | 44
+Maybe coming out in light clothing was a mistake after all.
+F05_34.txt | 4 | 40
+The area around the tower door had been thoroughly cleared of snow.
+F05_34.txt | 8 | 40
+I can't tell if anyone is inside from out here.
+F05_34.txt | 9 | 24
+It can't be helped; I'll head back.
+F05_34.txt | 10 | 44
+Exiting from the back of the office, I shivered.
+F05_map.txt | 1 | 42
+It's been about thirty minutes since I started the patrol.
+F05_map.txt | 2 | 32
+I think I'll head back to my room for now.
+F05_search.txt | 1 | 42
+It's been about thirty minutes since I started the patrol.
+F05_talk.txt | 6 | 34
+Well then, keep up the good work with the investigation.
+F05_talk.txt | 34 | 40
+I said my thanks and decided to go elsewhere.
+F05_talk.txt | 51 | 56
+Well, I guess I'll get back to work then. It's a pain, though.
+F05_talk.txt | 57 | 32
+Now then, what should I do next...?
+F05_talk.txt | 58 | 42
+It's been about thirty minutes since I started the patrol.
+F05_talk.txt | 59 | 32
+I think I'll head back to my room for now.
+F06_01.txt | 1 | 14
+I've reached the entrance.
+F06_01.txt | 2 | 34
+I didn't really feel like going outside, given the circumstances.
+F06_01.txt | 3 | 36
+It looks like no one's around, so what should I do...?
+F06_02.txt | 1 | 20
+I've arrived at the first-floor hall.
+F06_02.txt | 2 | 18
+It seems like no one is here.
+F06_02.txt | 3 | 16
+What should I do...?
+F06_03.txt | 1 | 26
+There was no one in the grand hall.
+F06_03.txt | 2 | 22
+Now... what should I do?
+F06_03.txt | 3 | 50
+Takamine-san was in the grand hall, drinking coffee alone.
+F06_03.txt | 5 | 16
+Oh, Takamine-san.
+F06_03.txt | 8 | 24
+He glared up at me with a sharp gaze.
+F06_03.txt | 11 | 38
+As I entered the grand hall, I locked eyes with Takamine-san.
+F06_03.txt | 13 | 16
+...What do you want?
+F06_03.txt | 14 | 36
+Takamine-san and Dr. Mikanagi were in the grand hall.
+F06_03.txt | 17 | 32
+He asked me while holding a coffee cup in one hand.
+F06_04.txt | 1 | 14
+I've come to the telephone room.
+F06_04.txt | 2 | 18
+It seems no one is here.
+F06_04.txt | 3 | 18
+What should I do...?
+F06_05.txt | 1 | 50
+I came to the office, but Tsujimura-san didn't seem to be there.
+F06_05.txt | 2 | 16
+What should I do...?
+F06_05.txt | 4 | 26
+Oh, is something the matter?
+F06_05.txt | 5 | 26
+Tsujimura-san was in the office.
+F06_05.txt | 7 | 30
+Hello. Were you in the middle of work?
+F06_05.txt | 12 | 30
+Tsujimura-san was still in the office.
+F06_06.txt | 1 | 40
+I've arrived at the reception room, but no one seems to be here.
+F06_06.txt | 2 | 22
+Now then, what should I do...?
+F06_07.txt | 1 | 14
+This is the storage room.
+F06_07.txt | 2 | 38
+There's no point in staying here if I don't have any business.
+F06_07.txt | 3 | 28
+Now then, what should I do next?
+F06_08.txt | 1 | 18
+I've arrived at the dining hall.
+F06_08.txt | 4 | 12
+No one is here.
+F06_08.txt | 5 | 48
+I thought for sure someone would be in the dining hall.
+F06_08.txt | 6 | 16
+What should I do...?
+F06_09.txt | 1 | 44
+Souko-san and Tsujimura-san were in the devastated kitchen.
+F06_09.txt | 3 | 26
+Souko-san, how does it look?
+F06_09.txt | 5 | 46
+...It seems the explosion was indeed caused intentionally.
+F06_09.txt | 6 | 42
+Souko-san was holding something that looked like a thin string.
+F06_09.txt | 17 | 48
+No one else would do something like this in a situation like this.
+F06_09.txt | 20 | 32
+That was the question I just couldn't get out of my head.
+F06_09.txt | 22 | 34
+Well, clearly to kill someone else-
+F06_09.txt | 25 | 68
+It's strange. Setting a trap when you can't be sure who will get caught in it.
+F06_09.txt | 27 | 68
+You're right... indeed, the target was unspecified... meaning anyone would have done...?
+F06_09.txt | 34 | 52
+Well... at the very least, it doesn't look like we'll be preparing meals here.
+F06_09.txt | 35 | 48
+Souko-san tried to open the lid of the kiln but quickly gave up.
+F06_09.txt | 39 | 46
+It might be best to seal this area off for the time being.
+F06_09.txt | 42 | 26
+I decided to leave the kitchen.
+F06_09.txt | 43 | 38
+Souko-san and Tsujimura-san were still in the kitchen.
+F06_09.txt | 49 | 68
+I'm still in the middle of investigating. If you want to know more, come back after a little more time has passed.
+F06_09.txt | 52 | 28
+It can't be helped; I'll head elsewhere.
+F06_09.txt | 53 | 24
+Souko-san was in the kitchen.
+F06_09.txt | 55 | 18
+Have you come to investigate too?
+F06_09.txt | 59 | 96
+Hmm... mostly that since the amount of accumulated gas was low, the explosion wasn't all that massive.
+F06_09.txt | 62 | 34
+Souko-san shook her head at my question.
+F06_09.txt | 64 | 104
+I can't say for sure because I don't know the exact volume of gas at the time. But little time had passed.
+F06_09.txt | 67 | 30
+Determining the exact time seems impossible.
+F06_09.txt | 69 | 32
+...Regardless, this leaves a nasty taste in my mouth.
+F06_09.txt | 70 | 34
+Souko-san muttered under her breath.
+F06_09.txt | 74 | 62
+...Fire consumes everything. Even a gas explosion is no different.
+F06_09.txt | 79 | 28
+Souko-san was still in the kitchen.
+F06_09.txt | 83 | 36
+...I don't think I'm going to find much else.
+F06_09.txt | 84 | 28
+Souko-san let out a long breath.
+F06_09.txt | 86 | 42
+I don't want to stay too long in a place that reeks of soot like this.
+F06_09.txt | 89 | 22
+I'll head somewhere else.
+F06_09.txt | 91 | 60
+I took a look around, but the place had been left a mess by the explosion.
+F06_09.txt | 92 | 74
+Souko-san has likely finished her investigation, and I shouldn't go around disturbing the scene...
+F06_09.txt | 93 | 44
+When I entered the kitchen, Benio-san was looking around the room.
+F06_09.txt | 103 | 44
+I think Souko-san already checked this place earlier...
+F06_09.txt | 105 | 42
+There might be something she overlooked, don't you think?
+F06_09.txt | 109 | 36
+...You certainly take her side an awful lot.
+F06_09.txt | 113 | 52
+You're not even aware of it... well, fine. How do you see this incident?
+F06_09.txt | 116 | 30
+I stated exactly what I was thinking.
+F06_09.txt | 118 | 74
+Hmm... and if you believe it wasn't a simple accident, you must have a reason for that, naturally?
+F06_09.txt | 120 | 112
+I don't have a perfectly plausible reason, but... it's unthinkable that an accident like this would happen by chance.
+F06_09.txt | 122 | 92
+Most accidents happen by chance, don't they? Though in many cases, there is a human element behind the cause...
+F06_09.txt | 126 | 48
+In other words, someone did this intentionally. But why?
+F06_09.txt | 129 | 22
+The reason for choosing this location.
+F06_09.txt | 130 | 34
+Who they were trying to kill in this place.
+F06_09.txt | 131 | 32
+That was the one thing I simply couldn't understand.
+F06_09.txt | 138 | 32
+Benio-san let out a self-deprecating laugh.
+F06_09.txt | 140 | 42
+...Or perhaps, they didn't intend to kill anyone at all.
+F06_09.txt | 142 | 66
+Eh... it's true that there were only injuries... but then for what purpose?
+F06_09.txt | 145 | 38
+Benio-san kicked the floor with her heel in irritation.
+F06_09.txt | 148 | 20
+Then why this place-?
+F06_09.txt | 149 | 28
+My thoughts were going in circles.
+F06_09.txt | 152 | 24
+Benio-san kicked the lid of the kiln.
+F06_09.txt | 153 | 44
+The warped metal rang out with a dull, heavy thud.
+F06_09.txt | 154 | 28
+Benio-san was still in the kitchen.
+F06_09.txt | 156 | 20
+Did you find anything?
+F06_09.txt | 158 | 32
+No, nothing in particular. How about you?
+F06_09.txt | 160 | 52
+Same as before. The motive for blowing this place up remains a mystery.
+F06_09.txt | 163 | 26
+It can't be helped; I'll head elsewhere.
+F06_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F06_10.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F06_10.txt | 3 | 20
+As expected, she isn't here.
+F06_10.txt | 4 | 44
+I wonder where on earth Akane-san could be...
+F06_10.txt | 5 | 26
+It can't be helped; I'll head elsewhere.
+F06_10.txt | 6 | 28
+I've come to the front of Akane-san's room.
+F06_10.txt | 7 | 28
+I knock lightly on the door and wait for a while.
+F06_10.txt | 13 | 56
+No need to worry. She should be able to move around again soon.
+F06_10.txt | 17 | 38
+Really, I'm just glad it wasn't more serious.
+F06_10.txt | 23 | 28
+I've come to the front of Akane-san's room.
+F06_10.txt | 24 | 28
+I knock lightly on the door and wait for a while.
+F06_10.txt | 26 | 44
+Yes... oh, it's you again. What is it this time?
+F06_10.txt | 28 | 36
+No, I don't really have any business, but...
+F06_10.txt | 30 | 24
+Do you want to talk to Akane?
+F06_10.txt | 31 | 30
+Narumi-san opened the door wide.
+F06_10.txt | 34 | 76
+Akane-san looked well enough from the glimpse I caught, so I decided to leave.
+F06_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F06_11.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F06_11.txt | 3 | 22
+It seems she isn't here.
+F06_11.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F06_11.txt | 5 | 28
+I've come to the front of Narumi-san's room.
+F06_11.txt | 6 | 28
+I knock lightly on the door and wait for a while.
+F06_11.txt | 10 | 52
+I just came to see how you were doing... are you alright?
+F06_11.txt | 14 | 46
+I don't think this is the kind of thing that happens 'all the time'...
+F06_11.txt | 15 | 42
+At the very least, I don't think normal cooking involves explosions.
+F06_11.txt | 19 | 30
+What do you plan to do for lunch?
+F06_11.txt | 21 | 46
+There are vegetables in the basement, so I'll manage somehow with those.
+F06_11.txt | 23 | 62
+...Truthfully, this is a situation where we shouldn't even be worrying about meals.
+F06_11.txt | 25 | 50
+It can't be helped; you can't exactly suppress an appetite.
+F06_11.txt | 27 | 36
+...I hope we can get out of here tomorrow.
+F06_11.txt | 34 | 32
+I decided to head for another location.
+F06_11.txt | 35 | 28
+I've come to the front of Narumi-san's room.
+F06_11.txt | 36 | 28
+I knock lightly on the door and wait for a while.
+F06_11.txt | 40 | 38
+No, I don't really have any business, but...
+F06_11.txt | 42 | 68
+Are you hungry? I'm going to make something in a bit, so just bear with it until then.
+F06_12.txt | 1 | 20
+I've come to the first-floor restroom.
+F06_12.txt | 2 | 12
+No one is here.
+F06_12.txt | 3 | 18
+Now, what should I do?
+F06_13.txt | 1 | 28
+I've reached the far end of the first floor.
+F06_13.txt | 2 | 54
+I place my hand on the chapel door, but as expected, it was still locked.
+F06_13.txt | 3 | 38
+There's no point in staying here; I'll head elsewhere.
+F06_13.txt | 4 | 28
+I've reached the far end of the first floor.
+F06_13.txt | 5 | 56
+I took the key I'd borrowed from Tsujimura-san and slid it into the lock of the chapel door.
+F06_13.txt | 6 | 10
+The lock clicks open.
+F06_13.txt | 7 | 26
+The chapel, which had been sealed off for an entire day.
+F06_13.txt | 8 | 46
+It's in the exact same state as when we brought Shion-san out of the coffin yesterday morning.
+F06_13.txt | 10 | 26
+Now... let's take a look around.
+F06_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F06_14.txt | 2 | 44
+Rokuyou-san's remains are laid to rest here...
+F06_14.txt | 3 | 58
+I pulled my hand back from the doorknob and decided to head elsewhere.
+F06_15.txt | 1 | 28
+I've reached the front of Takamine-san's room.
+F06_15.txt | 2 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F06_15.txt | 4 | 22
+It's you... what do you want?
+F06_15.txt | 6 | 34
+Um, could I talk to you for a moment?
+F06_15.txt | 15 | 28
+I've reached the front of Takamine-san's room.
+F06_15.txt | 16 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F06_15.txt | 20 | 38
+U-Um, could I talk to you for a moment?
+F06_15.txt | 26 | 20
+What is it this time?
+F06_15.txt | 27 | 28
+I've reached the front of Takamine-san's room.
+F06_15.txt | 28 | 52
+I wonder if he's in... feeling a bit nervous, I knock on the door.
+F06_15.txt | 31 | 44
+However, no matter how long I waited, there was no response from inside.
+F06_15.txt | 33 | 26
+It can't be helped; I'll head elsewhere.
+F06_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F06_16.txt | 2 | 16
+I knock on the door.
+F06_16.txt | 4 | 24
+Huh... I guess he's not in.
+F06_16.txt | 5 | 32
+Even after waiting, there was no response.
+F06_16.txt | 6 | 26
+It can't be helped; I'll head elsewhere.
+F06_16.txt | 7 | 26
+I've come to the front of Tsujimura-san's room.
+F06_16.txt | 8 | 16
+I knock on the door.
+F06_16.txt | 10 | 22
+Tsujimura-san, it's me.
+F06_16.txt | 11 | 34
+The door opened, and Tsujimura-san peeked out.
+F06_16.txt | 17 | 48
+I was thinking of doing a bit of cleaning in the chapel, actually...
+F06_16.txt | 25 | 8
+It's fine
+F06_16.txt | 28 | 46
+...I think it would be better if you left it as it is.
+F06_16.txt | 31 | 26
+Tsujimura-san's shoulders slumped slightly.
+F06_16.txt | 33 | 50
+It would be a serious matter if you cleaned up some crucial evidence, after all.
+F06_16.txt | 37 | 24
+Well then, I'll be going.
+F06_16.txt | 38 | 34
+I decided to head for another location.
+F06_16.txt | 40 | 62
+I think it'll be fine. The chapel has nothing to do with the incident, after all.
+F06_16.txt | 42 | 78
+I see. Then I shall go tidy up... I just can't seem to settle my mind unless I'm working.
+F06_16.txt | 43 | 38
+Tsujimura-san gave a faint, weary smile.
+F06_16.txt | 45 | 24
+Well then, I'll be going.
+F06_16.txt | 46 | 34
+I decided to head for another location.
+F06_16.txt | 50 | 106
+I couldn't let a guest... I suppose if anything were to happen and I had tidied it, the suspicion would fall on me.
+F06_16.txt | 55 | 40
+Tsujimura-san took out a key and handed it to me.
+F06_16.txt | 57 | 66
+...Given the current situation, I don't think I'll be able to get much cleaning done, though...
+F06_16.txt | 59 | 54
+I don't mind. There's something... you wish to investigate, isn't there?
+F06_16.txt | 64 | 32
+Tsujimura-san bowed his head deeply once more.
+F06_16.txt | 67 | 26
+Now then... let's go take a look.
+F06_16.txt | 68 | 30
+I've come to the front of Tsujimura-san's room again.
+F06_16.txt | 69 | 16
+I knock on the door.
+F06_16.txt | 73 | 20
+Hello, Tsujimura-san.
+F06_16.txt | 79 | 32
+Yes, I don't mind. Please, come inside.
+F06_16.txt | 82 | 22
+I enter Tsujimura-san's room.
+F06_17.txt | 1 | 28
+The room at the far end of the first floor is vacant.
+F06_17.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F06_17.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F06_19.txt | 1 | 46
+I've come to Maya-san's room at the far western end of the second floor.
+F06_19.txt | 2 | 24
+I knock on the door and wait for a while.
+F06_19.txt | 6 | 64
+Hello, Maya-san. There was a bit of an accident in the kitchen just now...
+F06_19.txt | 8 | 20
+An accident... you say?
+F06_19.txt | 10 | 80
+Yes. It wasn't anything too serious, but it might be impossible to prepare meals for a while.
+F06_19.txt | 12 | 34
+My... that is quite a predicament, isn't it...?
+F06_19.txt | 13 | 70
+I explained the situation while leaving out the finer details, but Maya-san simply wore a look of concern.
+F06_19.txt | 15 | 18
+Is there anything else?
+F06_19.txt | 19 | 34
+It's no problem at all. What is it?
+F06_19.txt | 22 | 30
+So, what was it you wanted to discuss?
+F06_19.txt | 23 | 48
+I've come to Maya-san's room at the far western end of the second floor.
+F06_19.txt | 24 | 24
+I knock on the door and wait for a while.
+F06_20.txt | 1 | 32
+I've reached the front of Ai-san's room.
+F06_20.txt | 2 | 20
+I knock lightly and wait.
+F06_20.txt | 14 | 32
+I've reached the front of Ai-san's room.
+F06_20.txt | 15 | 20
+I knock lightly and wait.
+F06_20.txt | 27 | 26
+I've come to Ai-san's room.
+F06_20.txt | 29 | 58
+I pulled my hand back from the doorknob and decided to head elsewhere.
+F06_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F06_21.txt | 3 | 10
+I knock on the door.
+F06_21.txt | 14 | 36
+Did you notice the explosion earlier?
+F06_21.txt | 18 | 54
+Yes, well... it seems something was rigged in the kitchen.
+F06_21.txt | 22 | 34
+Narumi-san suffered a light injury.
+F06_21.txt | 26 | 36
+I see... no threat to her life, then?
+F06_21.txt | 30 | 50
+That's good to hear. ...I think I'll go take a look myself later.
+F06_21.txt | 37 | 38
+I've come to Benio-san's room on the second floor.
+F06_21.txt | 38 | 24
+I knock on the door and wait for a while.
+F06_21.txt | 48 | 30
+Benio-san asks with a formal tone.
+F06_21.txt | 51 | 38
+I've come to Benio-san's room on the second floor.
+F06_21.txt | 53 | 10
+I knock on the door.
+F06_21.txt | 55 | 24
+Huh... I guess she's not in.
+F06_21.txt | 56 | 28
+No matter how long I wait, there is no response.
+F06_21.txt | 58 | 34
+I decided to head for another location as well.
+F06_21.txt | 59 | 38
+I've come to Benio-san's room on the second floor.
+F06_21.txt | 60 | 32
+I have no more business here, but...
+F06_21.txt | 62 | 22
+...Let's head elsewhere.
+F06_21.txt | 63 | 56
+I offered a brief, silent prayer toward the door and decided to move on.
+F06_22.txt | 1 | 26
+This should be a vacant room.
+F06_22.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F06_22.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F06_23.txt | 1 | 26
+This should be a vacant room.
+F06_23.txt | 3 | 54
+Since it's a room that isn't used, Tsujimura-san must have locked it.
+F06_23.txt | 4 | 38
+There's no point in staying here; I'll head elsewhere.
+F06_24.txt | 1 | 36
+I've come to the room at the far eastern end of the second floor.
+F06_24.txt | 3 | 26
+This morning, in this very spot, Benio-san was...
+F06_24.txt | 5 | 82
+...I will find the culprit, no matter what. So please, just bear with it a little longer, Benio-san...
+F06_24.txt | 6 | 36
+I've come to the room at the far eastern end of the second floor.
+F06_25.txt | 1 | 32
+I've come to the room where instruments are stored.
+F06_26.txt | 1 | 22
+I've made my way to the composition room.
+F06_27.txt | 1 | 30
+I've made it to Souko-san's room.
+F06_27.txt | 2 | 14
+I knock lightly on the door.
+F06_27.txt | 5 | 24
+She must still be in the kitchen.
+F06_27.txt | 7 | 30
+I've made it to Souko-san's room.
+F06_27.txt | 8 | 14
+I knock lightly on the door.
+F06_27.txt | 10 | 18
+Oh, it's you. What is it?
+F06_27.txt | 14 | 16
+Well, I don't mind.
+F06_27.txt | 17 | 20
+So, what's your business?
+F06_27.txt | 20 | 22
+I've come to Souko-san's room.
+F06_27.txt | 21 | 14
+I knock lightly on the door.
+F06_27.txt | 23 | 36
+Oh, it's you again. What's the matter?
+F06_27.txt | 25 | 28
+Could I talk to you for a moment?
+F06_27.txt | 30 | 16
+What is it this time?
+F06_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F06_28.txt | 2 | 12
+No one is here.
+F06_28.txt | 3 | 18
+Now, what should I do?
+F06_29.txt | 1 | 18
+The far end of the north side of the second floor.
+F06_29.txt | 2 | 36
+This is the room of the former head of the house, Mr. Kousei.
+F06_29.txt | 3 | 62
+I try turning the doorknob lightly, but as expected, it seems to be locked.
+F06_29.txt | 4 | 26
+It can't be helped; I'll head elsewhere.
+F06_30.txt | 1 | 24
+I've returned to my own room.
+F06_30.txt | 2 | 32
+I don't really have anything to do here, but...
+F06_31.txt | 3 | 54
+I called out before entering the infirmary, but Dr. Mikanagi wasn't there.
+F06_31.txt | 4 | 26
+Is he still on the first floor?
+F06_31.txt | 5 | 44
+If that's the case, there's no point in staying here, but...
+F06_31.txt | 6 | 14
+What should I do?
+F06_31.txt | 9 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F06_31.txt | 16 | 20
+Now, what should I do?
+F06_31.txt | 19 | 54
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+F06_31.txt | 26 | 20
+Now, what should I do?
+F06_31.txt | 29 | 54
+I called out before entering the infirmary, but Dr. Mikanagi wasn't there.
+F06_31.txt | 30 | 28
+I wonder if he's out somewhere.
+F06_31.txt | 31 | 42
+If that's the case, there's no point in staying here, but...
+F06_31.txt | 32 | 14
+What should I do?
+F06_32.txt | 1 | 24
+This is Dr. Mikanagi's room.
+F06_32.txt | 2 | 20
+I knock lightly on the door.
+F06_32.txt | 5 | 34
+The door opened, and Dr. Mikanagi peeked out.
+F06_32.txt | 12 | 20
+Now, what should I do?
+F06_32.txt | 13 | 24
+This is Dr. Mikanagi's room.
+F06_32.txt | 14 | 20
+I knock lightly on the door.
+F06_32.txt | 15 | 34
+The door opened, and Dr. Mikanagi peeked out.
+F06_32.txt | 22 | 20
+Now, what should I do?
+F06_32.txt | 23 | 24
+This is Dr. Mikanagi's room.
+F06_32.txt | 24 | 20
+I knock lightly on the door.
+F06_32.txt | 25 | 28
+But there was no response from inside.
+F06_32.txt | 27 | 34
+I gave up and decided to head elsewhere.
+F06_33.txt | 1 | 22
+This is Mr. Kousei's study.
+F06_33.txt | 2 | 42
+When I turned the doorknob, the door opened quite easily.
+F06_33.txt | 3 | 42
+The room was almost entirely occupied by large bookshelves.
+F06_33.txt | 4 | 36
+This place looks like it's worth investigating, but...
+F06_34.txt | 1 | 72
+I exited through the back office door, walked through the snowy garden, and approached the tower.
+F06_34.txt | 2 | 14
+It's incredibly cold.
+F06_34.txt | 3 | 44
+Maybe coming out in light clothing was a mistake after all.
+F06_34.txt | 4 | 40
+The area around the tower door had been thoroughly cleared of snow.
+F06_34.txt | 5 | 30
+When I reached for the door, it opened easily.
+F06_34.txt | 6 | 34
+That means she must be in her room.
+F06_34.txt | 7 | 42
+I stepped inside, brushed the snow off my clothes, and headed up the stairs.
+F06_34.txt | 8 | 14
+I knock lightly on the door.
+F06_34.txt | 11 | 52
+The door opened, and Shion-san peeked out with an anxious expression.
+F06_34.txt | 13 | 18
+...Please, come in.
+F06_34.txt | 14 | 30
+I entered the room as she requested.
+F06_34.txt | 18 | 32
+...The kitchen is no longer usable.
+F06_34.txt | 22 | 50
+It seems someone filled the kitchen with gas and caused an explosion.
+F06_34.txt | 26 | 60
+Narumi-san suffered light burns, but there's no threat to her life.
+F06_34.txt | 28 | 60
+Akane-san suffered light burns, but there's no threat to her life.
+F06_34.txt | 31 | 68
+A look of relief washed over Shion-san's face, but it was quickly replaced by anxiety once more.
+F06_34.txt | 38 | 34
+Shion-san shook her head and looked down.
+F06_34.txt | 43 | 58
+I... I don't know why, but I've always been afraid of fire...
+F06_34.txt | 46 | 30
+I glanced toward the fireplace in the room.
+F06_34.txt | 47 | 34
+There were candles in the room as well.
+F06_34.txt | 49 | 54
+...No, that's not it. I'm just... terrified of large fires...
+F06_34.txt | 53 | 46
+However... there was something strange about the way Shion-san was afraid.
+F06_34.txt | 55 | 26
+Did something happen in the past?
+F06_34.txt | 58 | 22
+She answered faintly, shaking her head.
+F06_34.txt | 59 | 38
+I couldn't bring myself to ask any further.
+F06_34.txt | 60 | 72
+I exited through the back office door, walked through the snowy garden, and approached the tower.
+F06_34.txt | 61 | 14
+It's incredibly cold.
+F06_34.txt | 62 | 44
+Maybe coming out in light clothing was a mistake after all.
+F06_34.txt | 63 | 40
+The area around the tower door had been thoroughly cleared of snow.
+F06_34.txt | 64 | 30
+When I reached for the door, it opened easily.
+F06_34.txt | 65 | 42
+I stepped inside, brushed the snow off my clothes, and headed up the stairs.
+F06_34.txt | 66 | 20
+In front of Shion-san's room.
+F06_34.txt | 67 | 14
+I knock lightly on the door.
+F06_34.txt | 70 | 36
+No matter how long I wait, there is no response from inside.
+F06_34.txt | 71 | 36
+Is she out, or does she just not want to come out?
+F06_34.txt | 72 | 54
+I wanted to ask her about what happened earlier, but it might be impossible.
+F06_34.txt | 73 | 38
+I gave up and decided to head for another location.
+F06_map.txt | 1 | 22
+About an hour has passed.
+F06_map.txt | 2 | 66
+I'm starting to get hungry, so I'll ask Narumi-san to whip something up.
+F06_room.txt | 1 | 22
+About an hour has passed.
+F06_room.txt | 2 | 66
+I'm starting to get hungry, so I think I'll ask Narumi-san to whip something up for me.
+F06_search.txt | 1 | 22
+About an hour has passed.
+F06_search.txt | 2 | 66
+I'm starting to get hungry, so I think I'll ask Narumi-san to whip something up for me.
+F06_talk.txt | 2 | 22
+Is this enough for now?
+F06_talk.txt | 6 | 34
+Well then, good luck with the rest of your investigation.
+F06_talk.txt | 9 | 30
+I decided to head somewhere else.
+F06_talk.txt | 14 | 40
+I bowed and decided to head somewhere else.
+F06_talk.txt | 19 | 40
+I bowed and decided to head somewhere else.
+F06_talk.txt | 24 | 50
+I thanked Benio-san and decided to head somewhere else.
+F06_talk.txt | 29 | 50
+I thanked Shion-san and decided to head somewhere else.
+F06_talk.txt | 34 | 40
+I offered my thanks and decided to head somewhere else.
+F06_talk.txt | 39 | 40
+I bowed and decided to head somewhere else.
+F06_talk.txt | 44 | 30
+I decided to head somewhere else.
+F06_talk.txt | 49 | 40
+I bowed and decided to head somewhere else.
+F06_talk.txt | 51 | 56
+Well, I guess I'll get back to work too. Even if it is a pain.
+F06_talk.txt | 55 | 24
+Sure thing. Come by again.
+F06_talk.txt | 56 | 30
+I decided to head somewhere else.
+F06_talk.txt | 57 | 32
+Now then, what should I do next...
+F06_talk.txt | 58 | 22
+About an hour has passed.
+F06_talk.txt | 59 | 66
+I'm starting to get hungry, so I think I'll ask Narumi-san to whip something up for me.
+F07_01.txt | 1 | 14
+I've arrived at the entrance.
+F07_01.txt | 2 | 34
+As expected, I'm not really in the mood to go outside.
+F07_01.txt | 3 | 22
+Now then, what should I do...
+F07_02.txt | 1 | 20
+I've come to the first-floor hall.
+F07_02.txt | 2 | 18
+It looks like nobody's around.
+F07_03.txt | 1 | 44
+When I entered the grand hall, Mikanagi-sensei was drinking tea.
+F07_03.txt | 3 | 22
+Oh, that's rare for you.
+F07_03.txt | 5 | 44
+I don't spend *all* my time cooped up in the infirmary, you know.
+F07_03.txt | 9 | 34
+Hahaha... By the way, do you need something?
+F07_03.txt | 10 | 30
+Mikanagi-sensei was still in the grand hall.
+F07_03.txt | 12 | 30
+Oh, do you still need something from me?
+F07_03.txt | 13 | 38
+Akane-san and Mikanagi-sensei were in the grand hall.
+F07_03.txt | 14 | 28
+I wonder which one I should talk to...
+F07_03.txt | 15 | 26
+There was no one in the grand hall.
+F07_03.txt | 16 | 22
+Well... what should I do?
+F07_03.txt | 17 | 32
+When I entered the grand hall, Akane-san was there.
+F07_03.txt | 21 | 42
+I'm just doing a quick patrol of the mansion...
+F07_03.txt | 23 | 30
+I see. Thank you for your hard work.
+F07_03.txt | 27 | 20
+No, nothing in particular...
+F07_03.txt | 32 | 38
+When I entered the grand hall, Akane-san was still there.
+F07_03.txt | 37 | 50
+In the grand hall, Takamine-san was drinking coffee alone.
+F07_03.txt | 39 | 16
+Ah, Takamine-san.
+F07_03.txt | 42 | 24
+He gives me a sharp, sideways glare.
+F07_03.txt | 45 | 38
+Entering the grand hall, I locked eyes with Takamine-san.
+F07_04.txt | 1 | 14
+I've come to the telephone room.
+F07_04.txt | 2 | 18
+It looks like nobody's here.
+F07_04.txt | 3 | 32
+There's no point in staying here, but...
+F07_05.txt | 2 | 26
+Oh, is something the matter?
+F07_05.txt | 3 | 26
+Tsujimura-san was in the office.
+F07_05.txt | 5 | 30
+Hello. Are you in the middle of work?
+F07_05.txt | 10 | 30
+Tsujimura-san was still in the office.
+F07_05.txt | 13 | 42
+When I entered the office, Tsujimura-san and Shion-san were there.
+F07_05.txt | 17 | 50
+I was just in the middle of doing a quick patrol...
+F07_05.txt | 19 | 30
+Oh my... Thank you for your hard work.
+F07_05.txt | 21 | 36
+No, I'm just doing it on my own accord.
+F07_05.txt | 22 | 22
+Now then... what should I do?
+F07_05.txt | 23 | 42
+When I entered the office, Tsujimura-san and Shion-san were there.
+F07_06.txt | 1 | 40
+I've come to the drawing room, but it looks like nobody's here.
+F07_06.txt | 2 | 18
+What should I do...
+F07_07.txt | 1 | 14
+This is the storage room.
+F07_07.txt | 2 | 44
+There's no point in staying here if I don't have business, but...
+F07_07.txt | 3 | 18
+Well, what should I do?
+F07_08.txt | 1 | 18
+I've come to the dining hall.
+F07_08.txt | 4 | 12
+Nobody's here.
+F07_08.txt | 5 | 48
+I thought someone would usually be in the dining hall.
+F07_08.txt | 6 | 18
+What should I do...
+F07_08.txt | 7 | 18
+I've come to the dining hall.
+F07_08.txt | 12 | 26
+I'm just doing some rounds for now.
+F07_08.txt | 14 | 28
+I see. Thanks for all the trouble.
+F07_08.txt | 16 | 36
+No, I'm just doing it on my own accord.
+F07_08.txt | 18 | 20
+You're quite dedicated...
+F07_08.txt | 19 | 54
+Narumi-san let out a voice that sounded halfway between impressed and exasperated.
+F07_08.txt | 20 | 18
+I've come to the dining hall.
+F07_08.txt | 26 | 18
+I've come to the dining hall.
+F07_08.txt | 29 | 54
+Narumi-san, who was sitting listlessly in a chair, spoke to me.
+F07_08.txt | 35 | 38
+No... I'm just doing it on my own accord.
+F07_08.txt | 39 | 38
+Narumi-san suddenly let out a startled cry.
+F07_08.txt | 42 | 64
+I look in the direction Narumi-san is staring, but I can only see the corridor through the dining hall door.
+F07_08.txt | 44 | 22
+Just now... Akane was...
+F07_08.txt | 47 | 30
+I step out into the corridor with Narumi-san.
+F07_08.txt | 48 | 30
+There's no sign of Akane-san anywhere.
+F07_08.txt | 52 | 62
+She came out of Akane's room... and seemed to head for the hall...
+F07_08.txt | 53 | 60
+While saying that, Narumi-san puts her hand on the door to Akane-san's room.
+F07_08.txt | 56 | 60
+I try twisting the doorknob too, but it seems to be locked after all.
+F07_08.txt | 58 | 30
+Are you sure you didn't misidentify her?
+F07_08.txt | 63 | 46
+It's better to take action than to stand here worrying.
+F07_08.txt | 65 | 52
+Ah, yeah. ...Be careful, you never know what might happen.
+F07_08.txt | 68 | 26
+I parted ways with Narumi-san.
+F07_08.txt | 70 | 64
+When I entered the dining hall, Narumi-san approached me with a worried expression.
+F07_08.txt | 79 | 30
+Um, I'll try looking a little more.
+F07_08.txt | 80 | 36
+I turn on my heel and head back out into the corridor.
+F07_09.txt | 1 | 22
+I've made it all the way to the kitchen.
+F07_09.txt | 4 | 26
+It doesn't look like I can get in...
+F07_09.txt | 5 | 56
+The burned-out kitchen is in ruins, and it doesn't look like I can enter at all.
+F07_09.txt | 6 | 46
+I've already investigated this area, so it's no use. I'll head somewhere else.
+F07_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F07_10.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F07_10.txt | 3 | 20
+It seems she's not here after all.
+F07_10.txt | 4 | 44
+I wonder where on earth Akane-san could be...
+F07_10.txt | 10 | 30
+I gently open the door and peek inside.
+F07_10.txt | 12 | 26
+It seems Akane-san isn't here.
+F07_10.txt | 13 | 16
+What should I do...
+F07_10.txt | 14 | 28
+I've come to the front of Akane-san's room.
+F07_10.txt | 15 | 36
+When I twist the doorknob, the door opens easily.
+F07_10.txt | 17 | 28
+I've come to the front of Akane-san's room.
+F07_10.txt | 18 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F07_10.txt | 19 | 14
+She doesn't seem to be here.
+F07_10.txt | 20 | 26
+It can't be helped, I'll go somewhere else.
+F07_10.txt | 21 | 28
+I've come to the front of Akane-san's room.
+F07_10.txt | 22 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F07_10.txt | 23 | 20
+She's not here after all.
+F07_10.txt | 25 | 26
+It can't be helped, I'll go somewhere else.
+F07_10.txt | 26 | 28
+I've come to the front of Akane-san's room.
+F07_10.txt | 27 | 20
+I knock lightly on the door.
+F07_10.txt | 30 | 34
+The door opens, and Akane-san pokes her head out.
+F07_10.txt | 36 | 32
+No, nothing in particular... Is there anything else?
+F07_10.txt | 37 | 28
+I've come to the front of Akane-san's room.
+F07_10.txt | 38 | 20
+I knock lightly on the door.
+F07_10.txt | 41 | 34
+The door opens, and Akane-san pokes her head out.
+F07_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F07_11.txt | 2 | 28
+I knock lightly on the door and wait.
+F07_11.txt | 6 | 38
+I just came to check on how things are going...
+F07_11.txt | 8 | 18
+Did something happen?
+F07_11.txt | 12 | 44
+I see. Doing rounds must be tough, but hang in there.
+F07_11.txt | 15 | 28
+I've come to the front of Narumi-san's room.
+F07_11.txt | 16 | 28
+I knock lightly on the door and wait.
+F07_11.txt | 19 | 28
+I've come to the front of Narumi-san's room.
+F07_11.txt | 20 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F07_11.txt | 21 | 22
+It seems she's not here.
+F07_11.txt | 22 | 26
+It can't be helped, I'll go somewhere else.
+F07_12.txt | 1 | 20
+I've come to the first-floor restroom.
+F07_12.txt | 2 | 12
+Nobody's here.
+F07_12.txt | 3 | 16
+What should I do...
+F07_13.txt | 1 | 28
+I've come to the furthest end of the first floor.
+F07_13.txt | 2 | 54
+I try the door to the chapel, but it was still locked after all.
+F07_13.txt | 3 | 38
+There's no point in staying here, I'll go somewhere else.
+F07_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F07_14.txt | 3 | 58
+I pull back my hand from the doorknob and decide to go somewhere else.
+F07_15.txt | 1 | 28
+I've come to the front of Takamine-san's room.
+F07_15.txt | 2 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F07_15.txt | 4 | 22
+Is it you... What do you want?
+F07_15.txt | 15 | 28
+I've come to the front of Takamine-san's room.
+F07_15.txt | 16 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F07_15.txt | 18 | 16
+...It's you again.
+F07_15.txt | 22 | 18
+I suppose that's fine.
+F07_15.txt | 26 | 20
+What is it this time?
+F07_15.txt | 27 | 28
+I've come to the front of Takamine-san's room.
+F07_15.txt | 28 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F07_15.txt | 31 | 44
+However, no matter how long I wait, there's no response from inside.
+F07_15.txt | 32 | 18
+Maybe he's not there.
+F07_15.txt | 33 | 26
+It can't be helped, I'll go somewhere else.
+F07_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F07_16.txt | 2 | 16
+I knock on the door.
+F07_16.txt | 4 | 24
+Oh... maybe he's not here.
+F07_16.txt | 5 | 32
+No matter how long I waited, there was no response.
+F07_16.txt | 6 | 26
+It can't be helped, I'll go somewhere else.
+F07_17.txt | 1 | 28
+The back room on the first floor is a vacant room.
+F07_17.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F07_17.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F07_19.txt | 1 | 46
+I've come to Maya-san's room, located at the far end of the west side on the second floor.
+F07_19.txt | 2 | 24
+I knock on the door and wait for a while.
+F07_19.txt | 8 | 46
+No... nothing in particular... Is there anything else?
+F07_19.txt | 10 | 92
+Um, could I have a little bit of your time? Of course, if it's inconvenient, I'll leave immediately...
+F07_19.txt | 12 | 34
+It is no problem at all. What might it be?
+F07_19.txt | 15 | 30
+So, what is it you wanted to discuss?
+F07_19.txt | 16 | 48
+I've come to Maya-san's room, at the far end of the west side on the second floor.
+F07_19.txt | 17 | 24
+I knock on the door and wait for a while.
+F07_19.txt | 19 | 30
+Oh... what might it be this time?
+F07_19.txt | 21 | 38
+Um, could I have a little bit of your time?
+F07_20.txt | 1 | 32
+I've come to the front of Ai-san's room.
+F07_20.txt | 2 | 20
+I knock lightly and wait.
+F07_20.txt | 6 | 42
+Hello. Could I have a little bit of your time?
+F07_20.txt | 14 | 32
+I've come to the front of Ai-san's room.
+F07_20.txt | 15 | 20
+I knock lightly and wait.
+F07_20.txt | 19 | 42
+Hello. Could I have a little bit of your time?
+F07_20.txt | 24 | 24
+What might your business be?
+F07_20.txt | 27 | 26
+I've come to the front of Ai-san's room.
+F07_20.txt | 29 | 58
+I pull back my hand from the doorknob and decide to go somewhere else.
+F07_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F07_21.txt | 2 | 26
+I wonder if she's in her room.
+F07_21.txt | 3 | 10
+I knock on the door.
+F07_21.txt | 6 | 28
+No matter how long I wait, there's no response.
+F07_21.txt | 7 | 26
+She's probably still in the infirmary.
+F07_21.txt | 8 | 34
+I decided to move to another location too.
+F07_21.txt | 9 | 38
+I've come to Benio-san's room on the second floor.
+F07_21.txt | 10 | 32
+I don't have any business here anymore, but...
+F07_21.txt | 12 | 22
+...I'll go somewhere else.
+F07_21.txt | 13 | 56
+I offered a silent prayer toward the door for a moment before moving on.
+F07_22.txt | 1 | 26
+This was supposed to be a vacant room.
+F07_22.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F07_22.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F07_23.txt | 1 | 26
+This was supposed to be a vacant room.
+F07_23.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F07_23.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F07_24.txt | 1 | 18
+At the far end of the east side on the second floor.
+F07_24.txt | 8 | 34
+And what about you, Souko-san... are you doing rounds?
+F07_24.txt | 10 | 42
+I thought I'd see if I could find any clues.
+F07_24.txt | 12 | 42
+I wonder... we've already searched everything.
+F07_24.txt | 14 | 88
+True. Since time has passed, even if something had been left behind, there's a chance the killer took it away.
+F07_24.txt | 18 | 30
+By the way, did you need something?
+F07_24.txt | 19 | 36
+Souko-san was still in the music room when I entered.
+F07_24.txt | 22 | 36
+I've come to the room at the far end of the east side on the second floor.
+F07_24.txt | 24 | 26
+Now then, what should I do.
+F07_25.txt | 1 | 32
+I've come to the room where the instruments are kept.
+F07_26.txt | 1 | 22
+I've arrived at the composition room.
+F07_27.txt | 1 | 30
+I've made it to Souko-san's room.
+F07_27.txt | 2 | 14
+I knock lightly on the door.
+F07_27.txt | 5 | 42
+I wonder if she went somewhere or if she's sleeping...
+F07_27.txt | 6 | 30
+I decided to go somewhere else.
+F07_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F07_28.txt | 2 | 12
+Nobody's here.
+F07_29.txt | 1 | 18
+The far end of the north wing on the second floor.
+F07_29.txt | 2 | 36
+This is the room of the previous head of the family, Kousei-san.
+F07_29.txt | 3 | 62
+I try turning the doorknob slightly, but predictably, it seems to be locked.
+F07_29.txt | 4 | 26
+It can't be helped, I'll go somewhere else.
+F07_30.txt | 1 | 24
+I've returned to my room.
+F07_30.txt | 2 | 32
+I don't have anything in particular to do, but...
+F07_31.txt | 3 | 54
+I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
+F07_31.txt | 4 | 24
+I wonder if he's somewhere else.
+F07_31.txt | 5 | 44
+In that case, there's no point in staying here...
+F07_31.txt | 6 | 14
+What should I do?
+F07_31.txt | 9 | 54
+I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
+F07_31.txt | 11 | 26
+I quietly approach her to see how she's doing.
+F07_31.txt | 14 | 18
+She seems to be asleep.
+F07_31.txt | 15 | 40
+I was worried, but it looks like she's okay.
+F07_31.txt | 16 | 44
+I decided to leave the infirmary so as not to disturb her.
+F07_31.txt | 18 | 20
+Hello, Mikanagi-sensei.
+F07_31.txt | 19 | 54
+When I entered the infirmary, Mikanagi-sensei looked up from his desk.
+F07_31.txt | 23 | 34
+Um... could I have a moment of your time?
+F07_31.txt | 26 | 20
+Now then, what should I do?
+F07_31.txt | 29 | 54
+When I entered the infirmary, Mikanagi-sensei looked up from his desk.
+F07_31.txt | 33 | 26
+Could I have a moment of your time?
+F07_31.txt | 36 | 20
+Now then, what should I do?
+F07_31.txt | 39 | 54
+When I entered the infirmary, Mikanagi-sensei looked up from his desk.
+F07_31.txt | 43 | 20
+Where is Benio-san...?
+F07_31.txt | 46 | 30
+Mikanagi-sensei pointed toward the bed.
+F07_31.txt | 47 | 28
+Benio-san seems to be asleep.
+F07_31.txt | 49 | 30
+Is she going to be all right...?
+F07_31.txt | 51 | 62
+There's no need to worry. It doesn't seem like she was hit with that much force.
+F07_31.txt | 55 | 36
+Didn't you have some business with me?
+F07_31.txt | 57 | 78
+Ah, no! I shouldn't bother Benio-san while she's resting, so I'll be going now.
+F07_31.txt | 59 | 24
+I see. Well, talk to you later.
+F07_31.txt | 60 | 40
+I bowed to Mikanagi-sensei and left the infirmary.
+F07_31.txt | 61 | 38
+When I peeked into the infirmary, Mikanagi-sensei was still there.
+F07_31.txt | 64 | 36
+Mikanagi-sensei noticed me and looked up.
+F07_31.txt | 66 | 52
+Um... around when do you think Benio-san will wake up?
+F07_31.txt | 68 | 64
+She's just sleeping normally right now, so I think she'll wake up soon.
+F07_31.txt | 70 | 28
+I see. Well, talk to you later.
+F07_31.txt | 71 | 30
+I bowed and left the infirmary.
+F07_32.txt | 1 | 24
+This is Mikanagi-sensei's room.
+F07_32.txt | 2 | 20
+I knock lightly on the door.
+F07_32.txt | 3 | 28
+However, there was no response from inside.
+F07_32.txt | 4 | 18
+Maybe he's not there.
+F07_32.txt | 5 | 34
+I gave up and decided to go somewhere else.
+F07_32.txt | 6 | 24
+This is Mikanagi-sensei's room.
+F07_32.txt | 7 | 20
+I knock lightly on the door.
+F07_32.txt | 10 | 34
+The door opens, and Mikanagi-sensei peeks his head out.
+F07_32.txt | 14 | 44
+Hello, Mikanagi-sensei. Could I have a moment of your time?
+F07_32.txt | 17 | 20
+Now then, what should I do.
+F07_32.txt | 18 | 24
+This is Mikanagi-sensei's room.
+F07_32.txt | 19 | 20
+I knock lightly on the door.
+F07_32.txt | 20 | 34
+The door opens, and Mikanagi-sensei peeks his head out.
+F07_32.txt | 24 | 44
+Hello, Mikanagi-sensei. Could I have a moment of your time?
+F07_32.txt | 27 | 20
+Now then, what should I do.
+F07_33.txt | 1 | 22
+This is Kousei-san's study.
+F07_33.txt | 2 | 42
+When I twist the doorknob, the door opens quite easily.
+F07_33.txt | 3 | 42
+The room was almost entirely occupied by large bookshelves.
+F07_33.txt | 4 | 36
+This place looks worth investigating, but...
+F07_34.txt | 1 | 72
+I step outside through the back office door and walk through the snowy garden, approaching the tower.
+F07_34.txt | 2 | 14
+It's incredibly cold.
+F07_34.txt | 3 | 44
+Was heading out in such light clothing a mistake after all?
+F07_34.txt | 4 | 40
+The area around the tower door was thoroughly cleared of snow.
+F07_34.txt | 5 | 30
+When I put my hand to the door, it opened easily.
+F07_34.txt | 6 | 34
+In other words, she must be in her room.
+F07_34.txt | 7 | 42
+I go inside, brush the snow off my body, and head up the stairs.
+F07_34.txt | 8 | 14
+I knock lightly on the door.
+F07_34.txt | 11 | 58
+The door opens, and Shion-san peeks her head out with an anxious look.
+F07_34.txt | 20 | 34
+I've come to the front of Shion-san's room.
+F07_34.txt | 24 | 24
+Um, was there something else...?
+F07_map.txt | 1 | 22
+About an hour has passed.
+F07_map.txt | 2 | 30
+I'll head back to my room for now.
+F07_search.txt | 1 | 22
+About an hour has passed.
+F07_search.txt | 2 | 30
+I'll head back to my room for now.
+F07_talk.txt | 6 | 34
+Then good luck with the rest of your investigation.
+F07_talk.txt | 9 | 30
+I decided to go somewhere else.
+F07_talk.txt | 14 | 40
+I bowed and decided to go somewhere else.
+F07_talk.txt | 19 | 40
+I bowed and decided to go somewhere else.
+F07_talk.txt | 24 | 50
+I thanked Benio-san and decided to go somewhere else.
+F07_talk.txt | 29 | 50
+I thanked Shion-san and decided to go somewhere else.
+F07_talk.txt | 34 | 40
+I expressed my thanks and decided to go somewhere else.
+F07_talk.txt | 39 | 40
+I bowed and decided to go somewhere else.
+F07_talk.txt | 44 | 30
+I decided to go somewhere else.
+F07_talk.txt | 48 | 72
+Yes, thank you very much. You still seem busy, so I'll take my leave now.
+F07_talk.txt | 49 | 40
+I bowed and decided to go somewhere else.
+F07_talk.txt | 51 | 56
+Well then, I'd better get back to work. Such a pain, though.
+F07_talk.txt | 55 | 24
+Sure thing. Come back again.
+F07_talk.txt | 56 | 30
+I decided to go somewhere else.
+F07_talk.txt | 58 | 22
+About an hour has passed.
+F07_talk.txt | 59 | 30
+I'll head back to my room for now.
+F08_01.txt | 1 | 14
+I've come to the entrance.
+F08_01.txt | 2 | 34
+As expected, I'm not really in the mood to go outside.
+F08_01.txt | 3 | 36
+It looks like nobody's here, so I'll head somewhere else.
+F08_02.txt | 1 | 20
+I've come to the first-floor hall.
+F08_02.txt | 2 | 18
+It looks like nobody's here.
+F08_02.txt | 3 | 22
+I'll head somewhere else.
+F08_03.txt | 1 | 14
+I've come to the grand hall.
+F08_03.txt | 5 | 50
+I don't have time to idle around, so I'll head somewhere else.
+F08_04.txt | 1 | 14
+I've come to the telephone room.
+F08_04.txt | 2 | 18
+It looks like nobody's here.
+F08_04.txt | 3 | 52
+There's no point in staying here, so I'll head somewhere else.
+F08_05.txt | 2 | 26
+Oh, is something the matter?
+F08_05.txt | 3 | 26
+Tsujimura-san was in the office.
+F08_05.txt | 7 | 80
+Mistress Kirihara? I remember her being in the grand hall about an hour ago, but...
+F08_05.txt | 11 | 18
+Was there anything else?
+F08_05.txt | 13 | 44
+No, I don't have any other business. I'll see you later.
+F08_05.txt | 16 | 34
+Tsujimura-san saw me off as I left the office.
+F08_05.txt | 18 | 42
+Oh... have you still not found Mistress Kirihara?
+F08_05.txt | 19 | 30
+Tsujimura-san was still in the office.
+F08_05.txt | 25 | 32
+Yeah... I'll try looking a bit more.
+F08_05.txt | 26 | 42
+I decided to look elsewhere and left the office.
+F08_06.txt | 1 | 40
+I've come to the drawing room, but it looks like nobody's here.
+F08_06.txt | 2 | 26
+It can't be helped, I'll go somewhere else.
+F08_07.txt | 1 | 14
+This is the storage room.
+F08_07.txt | 2 | 38
+There's no point in staying here if I don't have any business.
+F08_07.txt | 3 | 36
+I turned on my heel and decided to leave the storage room.
+F08_08.txt | 1 | 18
+I've come to the dining hall.
+F08_08.txt | 10 | 40
+And Akane-san hasn't been found either...
+F08_08.txt | 13 | 38
+Narumi-san suddenly let out a startled cry.
+F08_08.txt | 16 | 64
+I look in the direction Narumi-san is staring, but I can only see the corridor through the dining hall door.
+F08_08.txt | 21 | 30
+I step out into the corridor with Narumi-san.
+F08_08.txt | 22 | 30
+There's no sign of Akane-san anywhere.
+F08_08.txt | 25 | 38
+Narumi-san approaches Akane-san's room.
+F08_08.txt | 30 | 22
+...The door's unlocked.
+F08_08.txt | 33 | 52
+I switch places with Narumi-san and put my hand on the doorknob.
+F08_08.txt | 34 | 54
+Akane-san's room was no different from when I saw it before.
+F08_08.txt | 37 | 26
+She isn't anywhere in sight.
+F08_08.txt | 39 | 24
+...I'll check the bathroom.
+F08_08.txt | 40 | 42
+Narumi-san opens the bathroom door and peeks inside.
+F08_08.txt | 42 | 20
+She doesn't seem to be here...
+F08_08.txt | 45 | 20
+I approached the window.
+F08_08.txt | 46 | 30
+The latch is undone in one spot.
+F08_08.txt | 47 | 46
+When I open the window, the snow-covered ground outside had been disturbed.
+F08_08.txt | 52 | 26
+Narumi-san clicks her tongue.
+F08_08.txt | 54 | 72
+What could she be doing... I wonder if this has anything to do with Souko-san disappearing...
+F08_08.txt | 56 | 72
+You'd have to be crazy to think it doesn't. I don't know what the cause is, though...
+F08_08.txt | 57 | 20
+We stepped out of the room.
+F08_08.txt | 59 | 24
+What are you going to do now?
+F08_08.txt | 62 | 78
+I'll try searching the mansion a bit more. I should probably search outside too, but...
+F08_08.txt | 67 | 64
+When I entered the dining hall, Narumi-san approached me with a worried expression.
+F08_08.txt | 71 | 26
+...I still haven't found her.
+F08_08.txt | 76 | 30
+Um, I'll try looking a bit more.
+F08_08.txt | 77 | 36
+I turn on my heel and head back out into the corridor.
+F08_09.txt | 1 | 22
+I've made it all the way to the kitchen.
+F08_09.txt | 5 | 40
+Tsujimura-san probably locked it because it's dangerous.
+F08_09.txt | 6 | 44
+I feel like the smell of smoke is still hanging in the air.
+F08_09.txt | 7 | 26
+It can't be helped, I'll go somewhere else.
+F08_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F08_10.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F08_10.txt | 3 | 20
+It seems she's not here after all.
+F08_10.txt | 4 | 44
+I wonder where on earth Akane-san could be...
+F08_10.txt | 5 | 26
+It can't be helped, I'll go somewhere else.
+F08_10.txt | 6 | 28
+I've come to the front of Akane-san's room.
+F08_10.txt | 9 | 28
+There are too many mysteries surrounding her actions.
+F08_10.txt | 10 | 88
+This mansion is large, but there are only so many places to hide in this Nanatsukikan. Where could she be hiding...
+F08_10.txt | 11 | 20
+Or, perhaps, already-
+F08_10.txt | 14 | 34
+I don't want to be that suspicious, but...
+F08_10.txt | 15 | 30
+I'll stop, there'll be no end to it.
+F08_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F08_11.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F08_11.txt | 3 | 22
+It seems she's not here.
+F08_11.txt | 4 | 26
+It can't be helped, I'll go somewhere else.
+F08_12.txt | 1 | 20
+I've come to the first-floor restroom.
+F08_12.txt | 2 | 12
+Nobody's here.
+F08_12.txt | 3 | 48
+I decided to relieve myself and then head somewhere else.
+F08_13.txt | 1 | 28
+I've come to the furthest end of the first floor.
+F08_13.txt | 2 | 54
+I try the door to the chapel, but it was still locked after all.
+F08_13.txt | 3 | 38
+There's no point in staying here, I'll go somewhere else.
+F08_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F08_14.txt | 3 | 58
+I pull back my hand from the doorknob and decide to go somewhere else.
+F08_15.txt | 1 | 28
+I've come to the front of Takamine-san's room.
+F08_15.txt | 2 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F08_15.txt | 4 | 22
+Is it you... What do you want?
+F08_15.txt | 8 | 44
+Kirihara... Ah, her. She was in the grand hall, but...
+F08_15.txt | 12 | 66
+...It was after six. She came into the grand hall while I was drinking coffee.
+F08_15.txt | 16 | 44
+...I couldn't really tell. We didn't really talk.
+F08_15.txt | 24 | 50
+Ransacked...? Nothing like that has happened until now...
+F08_15.txt | 26 | 102
+Yeah... this feels different from before. Otherwise... there'd be no reason for Souko-san to be targeted.
+F08_15.txt | 28 | 46
+Hmm... Hiyama-kun hasn't been found yet, either.
+F08_15.txt | 30 | 36
+Please let me know immediately if anything happens.
+F08_15.txt | 33 | 28
+I've come to the front of Takamine-san's room.
+F08_15.txt | 34 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F08_15.txt | 36 | 26
+Is it you? Did you find her?
+F08_15.txt | 42 | 52
+Um, I'll be looking a bit more, so if anything happens...
+F08_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F08_16.txt | 2 | 16
+I knock on the door.
+F08_16.txt | 4 | 24
+Oh... maybe he's not here.
+F08_16.txt | 5 | 32
+No matter how long I waited, there was no response.
+F08_16.txt | 6 | 26
+It can't be helped, I'll go somewhere else.
+F08_17.txt | 1 | 28
+The back room on the first floor is a vacant room.
+F08_17.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F08_17.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F08_19.txt | 1 | 46
+I've come to Maya-san's room, located at the far end of the west side on the second floor.
+F08_19.txt | 2 | 24
+I knock on the door and wait for a while.
+F08_19.txt | 8 | 76
+Mistress Kirihara? ...No, I haven't seen her. I've been in my room this whole time...
+F08_19.txt | 13 | 50
+Maya-san saw me off, and I decided to head somewhere else.
+F08_19.txt | 14 | 48
+I've come to Maya-san's room, at the far end of the west side on the second floor.
+F08_19.txt | 15 | 24
+I knock on the door and wait for a while.
+F08_19.txt | 17 | 44
+Oh... have you still not found Mistress Kirihara?
+F08_19.txt | 21 | 20
+That's worrying, isn't it...
+F08_19.txt | 23 | 40
+Please let me know immediately if anything happens.
+F08_19.txt | 26 | 16
+I'll go somewhere else.
+F08_20.txt | 1 | 32
+I've come to the front of Ai-san's room.
+F08_20.txt | 2 | 20
+I knock lightly and wait.
+F08_20.txt | 8 | 64
+Mistress Kirihara...? No, I've been in my room the whole time, so I wouldn't know...
+F08_20.txt | 12 | 32
+I've come to the front of Ai-san's room.
+F08_20.txt | 13 | 20
+I knock lightly and wait.
+F08_20.txt | 15 | 48
+Oh... have you still not found Mistress Kirihara?
+F08_20.txt | 20 | 24
+Ai-san's expression clouds over.
+F08_20.txt | 22 | 46
+Um, if anything happens, please let me know immediately.
+F08_20.txt | 25 | 28
+I decided to go somewhere else.
+F08_20.txt | 26 | 26
+I've come to the front of Ai-san's room.
+F08_20.txt | 28 | 58
+I pull back my hand from the doorknob and decide to go somewhere else.
+F08_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F08_21.txt | 2 | 26
+I wonder if she's in her room.
+F08_21.txt | 3 | 10
+I knock on the door.
+F08_21.txt | 6 | 32
+The door opens, and Benio-san appears.
+F08_21.txt | 8 | 30
+What is it? Did something happen?
+F08_21.txt | 12 | 26
+What...? You mean she's nowhere to be found?
+F08_21.txt | 14 | 56
+Yeah... her room was ransacked, and she's nowhere in sight...
+F08_21.txt | 16 | 50
+...There aren't that many places in this mansion where one could hide.
+F08_21.txt | 17 | 26
+Benio-san murmurs with her arms crossed.
+F08_21.txt | 23 | 74
+I know. It's only natural to think the two disappearances share the same cause, but...
+F08_21.txt | 25 | 28
+...I'll try looking a bit more.
+F08_21.txt | 29 | 38
+No. You're still recovering, aren't you?
+F08_21.txt | 42 | 38
+I've come to Benio-san's room on the second floor.
+F08_21.txt | 43 | 26
+I wonder if she's in her room.
+F08_21.txt | 44 | 10
+I knock on the door.
+F08_21.txt | 47 | 32
+The door opens, and Benio-san appears.
+F08_21.txt | 51 | 42
+No... neither Souko-san nor Akane-san yet...
+F08_21.txt | 55 | 24
+I'll try looking a bit more.
+F08_21.txt | 58 | 38
+I've come to Benio-san's room on the second floor.
+F08_21.txt | 59 | 32
+I don't have any business here anymore, but...
+F08_21.txt | 61 | 22
+...I'll go somewhere else.
+F08_21.txt | 62 | 56
+I offered a silent prayer toward the door for a moment before moving on.
+F08_22.txt | 1 | 26
+This was supposed to be a vacant room.
+F08_22.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F08_22.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F08_23.txt | 1 | 26
+This was supposed to be a vacant room.
+F08_23.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F08_23.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F08_24.txt | 1 | 36
+I've come to the room at the far end of the east side on the second floor.
+F08_24.txt | 3 | 24
+Souko-san is nowhere to be seen.
+F08_24.txt | 4 | 50
+I don't have time to idle around, so I'll head somewhere else.
+F08_25.txt | 1 | 32
+I've come to the room where the instruments are kept.
+F08_25.txt | 2 | 36
+From a quick glance, Souko-san isn't here.
+F08_25.txt | 3 | 44
+I don't have time to idle around, so I'll look elsewhere.
+F08_26.txt | 1 | 22
+I've arrived at the composition room.
+F08_26.txt | 2 | 26
+It doesn't look like Souko-san is here.
+F08_26.txt | 3 | 16
+I'll look elsewhere.
+F08_27.txt | 1 | 30
+I've made it to Souko-san's room.
+F08_27.txt | 3 | 10
+I go inside.
+F08_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F08_28.txt | 2 | 12
+Nobody's here.
+F08_28.txt | 3 | 48
+I decided to relieve myself and then head somewhere else.
+F08_29.txt | 1 | 18
+The far end of the north wing on the second floor.
+F08_29.txt | 2 | 36
+This is the room of the previous head of the family, Kousei-san.
+F08_29.txt | 3 | 62
+I try turning the doorknob slightly, but predictably, it seems to be locked.
+F08_29.txt | 4 | 26
+It can't be helped, I'll go somewhere else.
+F08_30.txt | 1 | 24
+I've returned to my room.
+F08_30.txt | 2 | 26
+I don't have time to idle around.
+F08_31.txt | 3 | 54
+I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
+F08_31.txt | 4 | 24
+I wonder if he's somewhere else.
+F08_31.txt | 5 | 34
+In that case, there's no point in staying here.
+F08_31.txt | 6 | 16
+I'll go somewhere else.
+F08_31.txt | 8 | 20
+Hello, Mikanagi-sensei.
+F08_31.txt | 9 | 54
+When I entered the infirmary, Mikanagi-sensei looked up from his desk.
+F08_31.txt | 15 | 96
+I've been back in my room since I parted ways with you earlier. Before that... I saw her on the first floor after six.
+F08_31.txt | 17 | 14
+And after that?
+F08_31.txt | 19 | 48
+I predictably wouldn't know. There was nothing strange about her, though...
+F08_31.txt | 27 | 46
+And Akane-san hasn't been found either... That's worrying...
+F08_31.txt | 29 | 36
+Please let me know immediately if anything happens.
+F08_31.txt | 32 | 28
+I decided to go somewhere else.
+F08_31.txt | 34 | 12
+Mikanagi-sensei.
+F08_31.txt | 36 | 32
+It seems you still haven't found Kirihara-san.
+F08_31.txt | 38 | 38
+No... I'll try looking in other places.
+F08_31.txt | 39 | 28
+I decided to go somewhere else.
+F08_32.txt | 1 | 24
+This is Mikanagi-sensei's room.
+F08_32.txt | 2 | 20
+I knock lightly on the door.
+F08_32.txt | 5 | 34
+The door opens, and Mikanagi-sensei peeks his head out.
+F08_32.txt | 9 | 52
+Hello, Mikanagi-sensei. Um... have you seen Kirihara?
+F08_32.txt | 11 | 96
+I've been back in my room since I parted ways with you earlier. Before that... I saw her on the first floor after six.
+F08_32.txt | 13 | 14
+And after that?
+F08_32.txt | 15 | 48
+I predictably wouldn't know. There was nothing strange about her, though...
+F08_32.txt | 18 | 40
+I thanked him and decided to go somewhere else.
+F08_32.txt | 19 | 24
+This is Mikanagi-sensei's room.
+F08_32.txt | 20 | 20
+I knock lightly on the door.
+F08_32.txt | 21 | 34
+The door opens, and Mikanagi-sensei peeks his head out.
+F08_32.txt | 31 | 50
+Yeah, be careful, you never know what might happen.
+F08_32.txt | 32 | 24
+This is Mikanagi-sensei's room.
+F08_32.txt | 33 | 20
+I knock lightly on the door.
+F08_32.txt | 34 | 28
+However, there was no response from inside.
+F08_32.txt | 35 | 18
+Maybe he's not there.
+F08_32.txt | 36 | 34
+I gave up and decided to go somewhere else.
+F08_33.txt | 1 | 22
+This is Kousei-san's study.
+F08_33.txt | 2 | 42
+When I twist the doorknob, the door opens quite easily.
+F08_33.txt | 3 | 42
+The room was almost entirely occupied by large bookshelves.
+F08_33.txt | 4 | 28
+There's nowhere for someone to hide.
+F08_33.txt | 5 | 32
+Predictably, Souko-san doesn't seem to be here either.
+F08_33.txt | 6 | 30
+It looks like I'd better look somewhere else.
+F08_34.txt | 1 | 72
+I step outside through the back office door and walk through the snowy garden, approaching the tower.
+F08_34.txt | 2 | 14
+It's incredibly cold.
+F08_34.txt | 3 | 44
+Was heading out in such light clothing a mistake after all?
+F08_34.txt | 4 | 40
+The area around the tower door was thoroughly cleared of snow.
+F08_34.txt | 5 | 30
+When I put my hand to the door, it opened easily.
+F08_34.txt | 6 | 34
+In other words, she must be in her room.
+F08_34.txt | 7 | 42
+I go inside, brush the snow off my body, and head up the stairs.
+F08_34.txt | 8 | 14
+I knock lightly on the door.
+F08_34.txt | 11 | 58
+The door opens, and Shion-san peeks her head out with an anxious look.
+F08_34.txt | 15 | 30
+Um, do you know anything about Kirihara?
+F08_34.txt | 17 | 36
+Mistress Kirihara... did something happen?
+F08_34.txt | 19 | 38
+Yeah... she's been missing for a little while now.
+F08_34.txt | 24 | 30
+Have you been here the whole time, Shion-san?
+F08_34.txt | 28 | 50
+...Then there's no way you would have seen Souko-san.
+F08_34.txt | 32 | 40
+Please let me know immediately if anything happens.
+F08_34.txt | 35 | 34
+I've come to the front of Shion-san's room.
+F08_34.txt | 39 | 24
+Um, was there something else...?
+F08_34.txt | 48 | 20
+Shion-san shakes her head.
+F08_34.txt | 50 | 78
+I'll try looking a bit more. You never know what might happen, so please be careful too, Shion-san.
+F08_map.txt | 1 | 18
+It's been almost thirty minutes.
+F08_map.txt | 2 | 36
+Souko-san... where could she have gone...
+F09_01.txt | 1 | 14
+I've arrived at the entrance.
+F09_01.txt | 2 | 34
+As expected, I'm not really in the mood to go outside.
+F09_01.txt | 3 | 22
+Now then, what should I do...
+F09_02.txt | 1 | 20
+I've come to the first-floor hall.
+F09_02.txt | 2 | 18
+It looks like nobody's around.
+F09_03.txt | 1 | 26
+There was no one in the grand hall.
+F09_03.txt | 2 | 22
+Well... what should I do?
+F09_03.txt | 3 | 46
+When I entered the grand hall, Takamine-san was sitting on the sofa.
+F09_03.txt | 5 | 16
+Ah, Takamine-san.
+F09_03.txt | 8 | 48
+He gives me a sharp, sideways glare as he stands up.
+F09_03.txt | 10 | 82
+Souko-san-I mean, Kirihara's room was ransacked, and there was writing on the wall in what looks like blood.
+F09_03.txt | 12 | 22
+...That sounds ominous.
+F09_03.txt | 16 | 48
+I don't pay much attention to what others are doing.
+F09_03.txt | 21 | 22
+Was there something else?
+F09_03.txt | 22 | 30
+Takamine-san was still in the grand hall.
+F09_03.txt | 24 | 18
+Do you still need something?
+F09_04.txt | 1 | 14
+I've come to the telephone room.
+F09_04.txt | 2 | 18
+It looks like nobody's here.
+F09_04.txt | 3 | 32
+There's no point in staying here, but...
+F09_05.txt | 1 | 50
+I've arrived at the office, but it looks like Tsujimura-san isn't here.
+F09_05.txt | 2 | 16
+What should I do...
+F09_05.txt | 5 | 26
+Tsujimura-san was in the office.
+F09_05.txt | 13 | 52
+Regarding the matter with Mistress Kirihara's room, I can't really say...
+F09_05.txt | 17 | 20
+...Was there anything else?
+F09_05.txt | 22 | 30
+Tsujimura-san was still in the office.
+F09_06.txt | 1 | 40
+I've come to the drawing room, but it looks like nobody's here.
+F09_06.txt | 2 | 18
+What should I do...
+F09_07.txt | 1 | 14
+This is the storage room.
+F09_07.txt | 2 | 44
+There's no point in staying here if I don't have business, but...
+F09_07.txt | 3 | 18
+Well, what should I do?
+F09_08.txt | 1 | 18
+I've come to the dining hall.
+F09_08.txt | 4 | 12
+Nobody's here.
+F09_08.txt | 5 | 48
+I thought someone would usually be in the dining hall.
+F09_08.txt | 6 | 18
+What should I do...
+F09_08.txt | 7 | 18
+I've come to the dining hall.
+F09_08.txt | 12 | 28
+I'm just doing some rounds...
+F09_08.txt | 16 | 36
+No, I'm just doing it on my own accord.
+F09_08.txt | 21 | 18
+I've come to the dining hall.
+F09_09.txt | 1 | 22
+I've made it all the way to the kitchen.
+F09_09.txt | 4 | 26
+It doesn't look like I can get in...
+F09_09.txt | 5 | 56
+The burned-out kitchen is in ruins, and it doesn't look like I can enter at all.
+F09_09.txt | 6 | 46
+I've already investigated this area, so it's no use. I'll head somewhere else.
+F09_10.txt | 1 | 28
+I've come to the front of Akane-san's room.
+F09_10.txt | 2 | 20
+I knock lightly on the door.
+F09_10.txt | 5 | 34
+The door opens, and Akane-san pokes her head out.
+F09_10.txt | 11 | 32
+No, nothing in particular... Is there anything else?
+F09_10.txt | 12 | 28
+I've come to the front of Akane-san's room.
+F09_10.txt | 13 | 20
+I knock lightly on the door.
+F09_10.txt | 16 | 34
+The door opens, and Akane-san pokes her head out.
+F09_10.txt | 21 | 28
+I've come to the front of Akane-san's room.
+F09_10.txt | 22 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F09_10.txt | 23 | 14
+She doesn't seem to be here.
+F09_10.txt | 24 | 26
+It can't be helped, I'll go somewhere else.
+F09_11.txt | 1 | 28
+I've come to the front of Narumi-san's room.
+F09_11.txt | 2 | 50
+I knock lightly on the door and wait for a while, but there's no response from inside.
+F09_11.txt | 3 | 22
+It seems she's not here.
+F09_11.txt | 4 | 26
+It can't be helped, I'll go somewhere else.
+F09_11.txt | 5 | 28
+I've come to the front of Narumi-san's room.
+F09_11.txt | 6 | 28
+I knock lightly on the door and wait.
+F09_11.txt | 10 | 38
+I just came to check on how things are going...
+F09_11.txt | 12 | 44
+I see. Doing rounds must be tough, but hang in there.
+F09_11.txt | 15 | 28
+I've come to the front of Narumi-san's room.
+F09_11.txt | 16 | 28
+I knock lightly on the door and wait.
+F09_12.txt | 1 | 20
+I've come to the first-floor restroom.
+F09_12.txt | 2 | 12
+Nobody's here.
+F09_12.txt | 3 | 16
+What should I do...
+F09_13.txt | 1 | 28
+I've come to the furthest end of the first floor.
+F09_13.txt | 2 | 54
+I try the door to the chapel, but it was still locked after all.
+F09_13.txt | 3 | 38
+There's no point in staying here, I'll go somewhere else.
+F09_14.txt | 1 | 32
+I've come to the room Rokuyou-san was using.
+F09_14.txt | 3 | 58
+I pull back my hand from the doorknob and decide to go somewhere else.
+F09_15.txt | 1 | 28
+I've come to the front of Takamine-san's room.
+F09_15.txt | 2 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F09_15.txt | 4 | 22
+Is it you... What do you want?
+F09_15.txt | 15 | 28
+I've come to the front of Takamine-san's room.
+F09_15.txt | 16 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F09_15.txt | 18 | 16
+...It's you again.
+F09_15.txt | 22 | 18
+I suppose that's fine.
+F09_15.txt | 26 | 20
+What is it this time?
+F09_15.txt | 27 | 28
+I've come to the front of Takamine-san's room.
+F09_15.txt | 28 | 52
+I wonder if he's in... I knock on the door, feeling a bit nervous.
+F09_15.txt | 31 | 44
+However, no matter how long I wait, there's no response from inside.
+F09_15.txt | 32 | 18
+Maybe he's not there.
+F09_15.txt | 33 | 26
+It can't be helped, I'll go somewhere else.
+F09_16.txt | 1 | 26
+I've come to the front of Tsujimura-san's room.
+F09_16.txt | 2 | 16
+I knock on the door.
+F09_16.txt | 4 | 22
+Tsujimura-san, it's me.
+F09_16.txt | 5 | 34
+The door opens, and Tsujimura-san peeks his head out.
+F09_16.txt | 11 | 32
+Sure, I don't mind. Please, come in.
+F09_16.txt | 14 | 22
+I enter Tsujimura-san's room.
+F09_16.txt | 17 | 30
+I've come to the front of Tsujimura-san's room again.
+F09_16.txt | 18 | 16
+I knock on the door.
+F09_16.txt | 22 | 20
+Hello, Tsujimura-san.
+F09_16.txt | 28 | 32
+Sure, I don't mind. Please, come in.
+F09_16.txt | 31 | 22
+I enter Tsujimura-san's room.
+F09_16.txt | 34 | 26
+I've come to the front of Tsujimura-san's room.
+F09_16.txt | 35 | 16
+I knock on the door.
+F09_16.txt | 37 | 24
+Oh... maybe he's not here.
+F09_16.txt | 38 | 32
+No matter how long I waited, there was no response.
+F09_16.txt | 39 | 26
+It can't be helped, I'll go somewhere else.
+F09_17.txt | 1 | 28
+The back room on the first floor is a vacant room.
+F09_17.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F09_17.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F09_19.txt | 1 | 46
+I've come to Maya-san's room, located at the far end of the west side on the second floor.
+F09_19.txt | 2 | 24
+I knock on the door and wait for a while.
+F09_19.txt | 8 | 46
+No... nothing in particular... Is there anything else?
+F09_19.txt | 10 | 92
+Um, could I have a little bit of your time? Of course, if it's inconvenient, I'll leave immediately...
+F09_19.txt | 12 | 34
+It is no problem at all. What might it be?
+F09_19.txt | 15 | 30
+So, what is it you wanted to discuss?
+F09_19.txt | 16 | 48
+I've come to Maya-san's room, at the far end of the west side on the second floor.
+F09_19.txt | 17 | 24
+I knock on the door and wait for a while.
+F09_19.txt | 19 | 30
+Oh... what might it be this time?
+F09_19.txt | 21 | 38
+Um, could I have a little bit of your time?
+F09_20.txt | 1 | 32
+I've come to the front of Ai-san's room.
+F09_20.txt | 2 | 20
+I knock lightly and wait.
+F09_20.txt | 6 | 42
+Hello. Could I have a little bit of your time?
+F09_20.txt | 14 | 32
+I've come to the front of Ai-san's room.
+F09_20.txt | 15 | 20
+I knock lightly and wait.
+F09_20.txt | 19 | 42
+Hello. Could I have a little bit of your time?
+F09_20.txt | 24 | 24
+What might your business be?
+F09_20.txt | 27 | 26
+I've come to the front of Ai-san's room.
+F09_20.txt | 29 | 58
+I pull back my hand from the doorknob and decide to go somewhere else.
+F09_21.txt | 1 | 38
+I've come to Benio-san's room on the second floor.
+F09_21.txt | 2 | 26
+I wonder if she's in her room.
+F09_21.txt | 3 | 10
+I knock on the door.
+F09_21.txt | 15 | 38
+I've come to Benio-san's room on the second floor.
+F09_21.txt | 16 | 24
+I knock and wait for a while.
+F09_21.txt | 26 | 30
+Benio-san asks, her posture straightening.
+F09_21.txt | 29 | 38
+I've come to Benio-san's room on the second floor.
+F09_21.txt | 30 | 26
+I wonder if she's in her room.
+F09_21.txt | 31 | 10
+I knock on the door.
+F09_21.txt | 34 | 28
+No matter how long I wait, there's no response.
+F09_21.txt | 35 | 36
+I wonder if she's gone somewhere else.
+F09_21.txt | 36 | 34
+I decided to move to another location too.
+F09_21.txt | 37 | 38
+I've come to Benio-san's room on the second floor.
+F09_21.txt | 38 | 32
+I don't have any business here anymore, but...
+F09_21.txt | 40 | 22
+...I'll go somewhere else.
+F09_21.txt | 41 | 56
+I offered a silent prayer toward the door for a moment before moving on.
+F09_22.txt | 1 | 24
+Opposite Benio-san's room.
+F09_22.txt | 2 | 46
+This room, which used to be vacant, is now Souko-san's room.
+F09_22.txt | 4 | 34
+The door opened before I could even knock.
+F09_22.txt | 7 | 30
+It was Narumi-san who came out.
+F09_22.txt | 9 | 38
+And what are *you* doing here, Narumi-san?
+F09_22.txt | 11 | 50
+Kirihara-san is changing rooms, so I was tidying up.
+F09_22.txt | 13 | 46
+...You weren't rummaging through her things, were you?
+F09_22.txt | 15 | 60
+I'd never do something as vulgar as sifting through a guest's luggage.
+F09_22.txt | 16 | 46
+I feel like I'm being told something that doesn't quite sit right...
+F09_22.txt | 18 | 50
+If it's Kirihara-san you're looking for, she's probably in the room she was using before.
+F09_22.txt | 21 | 32
+I'll go check things out for a bit.
+F09_22.txt | 22 | 24
+Opposite Benio-san's room.
+F09_22.txt | 23 | 46
+This room, which used to be vacant, is now Souko-san's room.
+F09_22.txt | 27 | 46
+The person who appeared from behind the door was Narumi-san.
+F09_22.txt | 32 | 32
+It can't be helped, I'll come back later.
+F09_22.txt | 33 | 24
+Opposite Benio-san's room.
+F09_22.txt | 34 | 46
+This room, which used to be vacant, is now Souko-san's room.
+F09_22.txt | 36 | 50
+I knock and wait for a while, but there's no response from inside.
+F09_22.txt | 37 | 30
+I wonder if she's somewhere else.
+F09_22.txt | 38 | 28
+It can't be helped, I'll go somewhere else.
+F09_22.txt | 39 | 24
+Opposite Benio-san's room.
+F09_22.txt | 40 | 46
+This room, which used to be vacant, is now Souko-san's room.
+F09_22.txt | 46 | 22
+Souko-san showed her face.
+F09_22.txt | 53 | 20
+So, what do you need?
+F09_22.txt | 56 | 46
+Souko-san's room, which moved to opposite Benio-san's room.
+F09_22.txt | 68 | 16
+What is it this time?
+F09_23.txt | 1 | 26
+This was supposed to be a vacant room.
+F09_23.txt | 3 | 54
+Since it's likely a room that isn't used, Tsujimura-san probably locked it.
+F09_23.txt | 4 | 38
+There's no point in staying here, I'll go somewhere else.
+F09_24.txt | 1 | 36
+I've come to the room at the far end of the east side on the second floor.
+F09_24.txt | 3 | 26
+Now then, what should I do.
+F09_25.txt | 1 | 32
+I've come to the room where the instruments are kept.
+F09_26.txt | 1 | 22
+I've arrived at the composition room.
+F09_27.txt | 1 | 40
+I've arrived at the room Souko-san had been using.
+F09_27.txt | 3 | 52
+Peeking inside, I see Souko-san staring at the blood-written message on the wall.
+F09_27.txt | 8 | 28
+A slight smile flickers across Souko-san's face.
+F09_27.txt | 12 | 32
+In a way. It's hard not to be curious about this.
+F09_27.txt | 19 | 40
+I've arrived at the room Souko-san had been using.
+F09_27.txt | 21 | 52
+Peeking inside, I see Souko-san staring at the blood-written message on the wall.
+F09_27.txt | 25 | 38
+...Oh, it's you. Do you need something again?
+F09_27.txt | 26 | 40
+I've arrived at the room Souko-san had been using.
+F09_27.txt | 28 | 68
+Peeking inside, I see Benio-san staring at the blood-written message on the wall with a grim expression.
+F09_27.txt | 36 | 26
+Yes. It was bothering me a bit.
+F09_27.txt | 37 | 36
+Benio-san touched the writing on the wall.
+F09_27.txt | 45 | 44
+...Maybe because she was investigating the case?
+F09_27.txt | 47 | 36
+You've been investigating as well, haven't you?
+F09_27.txt | 49 | 40
+Maybe she was closer to the truth than I am...
+F09_27.txt | 52 | 20
+Benio-san falls silent.
+F09_27.txt | 54 | 48
+...Perhaps they're getting impatient because things aren't going as planned.
+F09_27.txt | 56 | 30
+Impatient? You mean the killer?
+F09_27.txt | 67 | 38
+I decided to leave the room in a hurry.
+F09_27.txt | 68 | 40
+I've arrived at the room Souko-san had been using.
+F09_27.txt | 70 | 24
+Benio-san was in the room.
+F09_27.txt | 72 | 24
+Oh, what is it this time?
+F09_27.txt | 73 | 40
+I've arrived at the room Souko-san had been using.
+F09_27.txt | 74 | 14
+I knock lightly on the door.
+F09_27.txt | 77 | 28
+She probably has no more business here.
+F09_27.txt | 78 | 30
+I decided to go somewhere else.
+F09_27.txt | 79 | 40
+I've arrived at the room Souko-san had been using.
+F09_27.txt | 81 | 32
+Peeking inside, I see Takamine-san.
+F09_27.txt | 90 | 60
+Answering with few words, Takamine-san stared at the blood-written message on the wall.
+F09_27.txt | 92 | 22
+Can you tell anything from it?
+F09_27.txt | 94 | 32
+...It's all Greek to a layman like me.
+F09_27.txt | 98 | 48
+I can't imagine anyone else having such twisted taste.
+F09_27.txt | 105 | 40
+I've arrived at the room Souko-san had been using.
+F09_27.txt | 107 | 32
+Peeking inside, I see Takamine-san.
+F09_27.txt | 111 | 26
+You again. Do you need something?
+F09_28.txt | 1 | 20
+I've come to the second-floor restroom.
+F09_28.txt | 2 | 12
+Nobody's here.
+F09_29.txt | 1 | 18
+The far end of the north wing on the second floor.
+F09_29.txt | 2 | 36
+This is the room of the previous head of the family, Kousei-san.
+F09_29.txt | 3 | 62
+I try turning the doorknob slightly, but predictably, it seems to be locked.
+F09_29.txt | 4 | 26
+It can't be helped, I'll go somewhere else.
+F09_30.txt | 1 | 24
+I've returned to my room.
+F09_30.txt | 2 | 32
+I don't have anything in particular to do, but...
+F09_31.txt | 2 | 20
+Hello, Mikanagi-sensei.
+F09_31.txt | 3 | 54
+When I entered the infirmary, Mikanagi-sensei looked up from his desk.
+F09_31.txt | 7 | 34
+Um... could I have a moment of your time?
+F09_31.txt | 10 | 20
+Now then, what should I do?
+F09_31.txt | 13 | 54
+When I entered the infirmary, Mikanagi-sensei looked up from his desk.
+F09_31.txt | 17 | 26
+Could I have a moment of your time?
+F09_31.txt | 20 | 20
+Now then, what should I do?
+F09_31.txt | 23 | 54
+I spoke up before entering the infirmary, but Mikanagi-sensei wasn't there.
+F09_31.txt | 24 | 28
+I wonder if he's back in his room.
+F09_31.txt | 25 | 44
+In that case, there's no point in staying here...
+F09_31.txt | 26 | 14
+What should I do?
+F09_32.txt | 1 | 24
+This is Mikanagi-sensei's room.
+F09_32.txt | 2 | 20
+I knock lightly on the door.
+F09_32.txt | 3 | 28
+However, there was no response from inside.
+F09_32.txt | 4 | 18
+Maybe he's not there.
+F09_32.txt | 5 | 34
+I gave up and decided to go somewhere else.
+F09_32.txt | 6 | 24
+This is Mikanagi-sensei's room.
+F09_32.txt | 7 | 20
+I knock lightly on the door.
+F09_32.txt | 10 | 34
+The door opens, and Mikanagi-sensei peeks his head out.
+F09_32.txt | 14 | 44
+Hello, Mikanagi-sensei. Could I have a moment of your time?
+F09_32.txt | 17 | 20
+Now then, what should I do.
+F09_32.txt | 18 | 24
+This is Mikanagi-sensei's room.
+F09_32.txt | 19 | 20
+I knock lightly on the door.
+F09_32.txt | 20 | 34
+The door opens, and Mikanagi-sensei peeks his head out.
+F09_32.txt | 24 | 44
+Hello, Mikanagi-sensei. Could I have a moment of your time?
+F09_32.txt | 27 | 20
+Now then, what should I do.
+F09_33.txt | 1 | 22
+This is Kousei-san's study.
+F09_33.txt | 2 | 42
+When I twist the doorknob, the door opens quite easily.
+F09_33.txt | 3 | 42
+The room was almost entirely occupied by large bookshelves.
+F09_33.txt | 4 | 36
+This place looks worth investigating, but...
+F09_34.txt | 1 | 72
+I step outside through the back office door and walk through the snowy garden, approaching the tower.
+F09_34.txt | 2 | 14
+It's incredibly cold.
+F09_34.txt | 3 | 44
+Was heading out in such light clothing a mistake after all?
+F09_34.txt | 4 | 40
+The area around the tower door was thoroughly cleared of snow.
+F09_34.txt | 5 | 30
+When I put my hand to the door, it opened easily.
+F09_34.txt | 6 | 34
+In other words, she must be in her room.
+F09_34.txt | 7 | 42
+I go inside, brush the snow off my body, and head up the stairs.
+F09_34.txt | 8 | 14
+I knock lightly on the door.
+F09_34.txt | 11 | 58
+The door opens, and Shion-san peeks her head out with an anxious look.
+F09_34.txt | 20 | 34
+I've come to the front of Shion-san's room.
+F09_34.txt | 24 | 24
+Um, was there something else...?
+F09_map.txt | 1 | 22
+About an hour has passed.
+F09_map.txt | 2 | 30
+I'll head back to my room for now.
+F09_search.txt | 1 | 22
+About an hour has passed.
+F09_search.txt | 2 | 30
+I'll head back to my room for now.
+F09_talk.txt | 6 | 34
+Then good luck with the rest of your investigation.
+F09_talk.txt | 9 | 30
+I decided to go somewhere else.
+F09_talk.txt | 14 | 40
+I bowed and decided to go somewhere else.
+F09_talk.txt | 19 | 40
+I bowed and decided to go somewhere else.
+F09_talk.txt | 24 | 50
+I thanked Benio-san and decided to go somewhere else.
+F09_talk.txt | 29 | 50
+I thanked Shion-san and decided to go somewhere else.
+F09_talk.txt | 34 | 40
+I expressed my thanks and decided to go somewhere else.
+F09_talk.txt | 39 | 40
+I bowed and decided to go somewhere else.
+F09_talk.txt | 44 | 30
+I decided to go somewhere else.
+F09_talk.txt | 48 | 72
+Yes, thank you very much. You still seem busy, so I'll take my leave now.
+F09_talk.txt | 49 | 40
+I bowed and decided to head somewhere else.
+F09_talk.txt | 51 | 56
+Well then, I'd better get back to work. Such a pain, though.
+F09_talk.txt | 55 | 24
+Sure thing. Come back again.
+F09_talk.txt | 56 | 30
+I decided to go somewhere else.
+F09_talk.txt | 58 | 22
+About an hour has passed.
+F09_talk.txt | 59 | 30
+I'll head back to my room for now.
