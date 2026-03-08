@@ -10,8 +10,9 @@
  * too long are replaced with the shortened versions from that file before
  * padding is applied.
  *
- * Lines identical to the original (speech sources, options, etc.) and empty
- * lines are copied as-is.
+ * Lines identical to the original (speech sources, etc.) and empty lines are
+ * copied as-is. Option/choice lines are detected and replaced with the
+ * original Japanese text, since the game can't render translated options.
  *
  * Output is written to `translated-question-padding/` as Shift-JIS.
  *
@@ -27,6 +28,7 @@ const QUESTION_DIR = "translated-question";
 const ORIGINAL_DIR = "original";
 const OUTPUT_DIR = "translated-question-padding";
 const OVERRIDES_FILE = "long_lines_question_updated.txt";
+const OPTIONS_FILE = "options_question.txt";
 
 const sjisDecoder = new TextDecoder("shift_jis");
 
@@ -47,6 +49,81 @@ function encodeShiftJIS(str) {
     from: "UNICODE",
   });
   return Buffer.from(codeArray);
+}
+
+/**
+ * Check if a character is a Japanese kanji, hiragana, or katakana.
+ * These are the typical ending characters for choice lines in the original.
+ */
+function isOptionEndingChar(ch) {
+  if (!ch) return false;
+  const code = ch.codePointAt(0);
+  return (
+    (code >= 0x4e00 && code <= 0x9fff) || // CJK Unified Ideographs (kanji)
+    (code >= 0x3040 && code <= 0x309f) || // Hiragana
+    (code >= 0x30a0 && code <= 0x30ff) // Katakana
+  );
+}
+
+/**
+ * Detect option/choice line groups in the original script.
+ *
+ * An option group is 2+ consecutive lines that are:
+ *   - NOT a speech source line (does not start with fullwidth #)
+ *   - NOT a speech content line (not immediately after a speech source line)
+ *   - Each line ends with kanji, hiragana, or katakana
+ *
+ * Returns a Set of 0-based line indices that belong to option groups.
+ */
+function detectOptionLines(originalLines) {
+  const speechContent = new Set();
+  for (let i = 0; i < originalLines.length; i++) {
+    if (originalLines[i].startsWith("\uFF03") && i + 1 < originalLines.length) {
+      speechContent.add(i + 1);
+    }
+  }
+
+  const optionIndices = new Set();
+  let i = 0;
+  while (i < originalLines.length) {
+    if (
+      speechContent.has(i) ||
+      originalLines[i].startsWith("\uFF03") ||
+      originalLines[i].length === 0
+    ) {
+      i++;
+      continue;
+    }
+
+    const lastChar = originalLines[i].trimEnd().slice(-1);
+    if (isOptionEndingChar(lastChar)) {
+      const group = [i];
+      let j = i + 1;
+      while (
+        j < originalLines.length &&
+        !speechContent.has(j) &&
+        !originalLines[j].startsWith("\uFF03") &&
+        originalLines[j].length > 0
+      ) {
+        const jLast = originalLines[j].trimEnd().slice(-1);
+        if (isOptionEndingChar(jLast)) {
+          group.push(j);
+          j++;
+        } else {
+          break;
+        }
+      }
+
+      if (group.length >= 2) {
+        for (const idx of group) optionIndices.add(idx);
+      }
+      i = j;
+    } else {
+      i++;
+    }
+  }
+
+  return optionIndices;
 }
 
 /**
@@ -108,6 +185,8 @@ async function main() {
   let paddedLines = 0;
   let overriddenLines = 0;
   let overLimitLines = 0;
+  let optionLineCount = 0;
+  const optionEntries = [];
 
   for (const fileName of fileNames) {
     const transRaw = await readFile(path.join(QUESTION_DIR, fileName));
@@ -129,6 +208,21 @@ async function main() {
 
     const origText = sjisDecoder.decode(origRaw);
     const origLines = origText.split("\n");
+    if (origLines.at(-1) === "") origLines.pop();
+
+    const optionIndices = detectOptionLines(origLines);
+    optionLineCount += optionIndices.size;
+
+    if (optionIndices.size > 0) {
+      const sorted = [...optionIndices].sort((a, b) => a - b);
+      const group = { fileName, options: [] };
+      for (const idx of sorted) {
+        const origText = origLines[idx] || "";
+        const transText = idx < transLines.length ? transLines[idx] : "";
+        group.options.push({ line: idx + 1, origText, transText });
+      }
+      optionEntries.push(group);
+    }
 
     const lineCount = Math.min(transLines.length, origLines.length);
     const result = [...transLines];
@@ -136,6 +230,12 @@ async function main() {
     for (let i = 0; i < lineCount; i++) {
       const origLine = origLines[i];
       if (origLine.length === 0) continue;
+
+      if (optionIndices.has(i) && i < origLines.length) {
+        result[i] = origLines[i];
+        continue;
+      }
+
       if (transLines[i] === origLine) continue;
 
       const required = origLine.length * 2;
@@ -171,9 +271,23 @@ async function main() {
     totalFiles++;
   }
 
+  if (optionEntries.length > 0) {
+    const optionLines = [];
+    for (const group of optionEntries) {
+      optionLines.push(group.fileName);
+      for (const opt of group.options) {
+        optionLines.push(`${opt.line} | ${opt.origText} | ${opt.transText}`);
+      }
+      optionLines.push("");
+    }
+    await writeFile(OPTIONS_FILE, optionLines.join("\n"), "utf-8");
+    console.log(`Options exported to ${OPTIONS_FILE}`);
+  }
+
   console.log("— Summary —");
   console.log(`  Files processed:  ${totalFiles}`);
   console.log(`  Lines overridden: ${overriddenLines}`);
+  console.log(`  Option lines kept: ${optionLineCount}`);
   console.log(`  Lines padded:     ${paddedLines}`);
   if (overLimitLines > 0) {
     console.error(`  Lines over limit: ${overLimitLines} (fix these first!)`);

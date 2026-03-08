@@ -1,0 +1,3 @@
+F03_20s.txt
+24 | 道具を使う | Use a tool
+25 | 今は止めておく | Leave it for now
