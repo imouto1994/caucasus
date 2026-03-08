@@ -1,0 +1,20 @@
+F01_08.txt
+6 | 手伝う | Help
+7 | 手伝わない | Don't help
+
+F01_09.txt
+14 | 手伝う | Help
+15 | 手伝わない | Don't help
+
+F03_map.txt
+24 | 追いかける | Follow her
+25 | 追いかけない | Don't follow her
+
+F04_15.txt
+17 | 中に入る | Go inside
+18 | 中に入らない | Don't go inside
+
+F06_16.txt
+24 | そのままにしておくべき | Leave it as it is
+25 | 問題ない | It's fine
+26 | 自分がやる | I'll do it

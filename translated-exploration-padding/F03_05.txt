@@ -1,0 +1,97 @@
+＃辻村
+Oh, is something wrong?---
+Tsujimura was at work.----
+＃主人公
+Hello. Are you busy working?--
+＃辻村
+Not at all. Did you need something?-----------
+＃主人公
+Well...-------
+＃辻村
+Oh, what's the matter this time?--
+Tsujimura was still working.--
+＃主人公
+Well...-------
+Tsujimura and Shion were inside.----
+＃辻村
+Oh, what is it?-------------
+＃主人公
+Doing a patrol. It'd be awful if something happened again.----
+＃辻村
+I see. Honestly, that is a task I probably should be doing myself...------
+＃主人公
+No, stay here, Tsujimura-san. It's probably better for Shion-san to have someone nearby.------------
+＃詩音
+Yes... that's true.---
+I want to ask something, but which question is better?--
+Tsujimura and Shion were inside.----
+＃辻村
+Oh, is there more?--
+＃主人公
+Yes...------
+I'd like to ask them some questions.
+I came to the office, but Tsujimura wasn't there.-
+No point staying here if it's empty, but...-------
+＃辻村
+Oh, is something wrong?---
+Tsujimura was at work.----
+＃あかね
+Tsujimura-san, have you seen Lady Ai?---------
+＃辻村
+Lady Ai...? Wouldn't she be in her room?--------
+＃主人公
+Fact is, she's gone.------
+＃辻村
+If she isn't in her room... I'm afraid I don't know...--
+＃主人公
+I see... thank you.-------------------
+＃あかね
+Let's look elsewhere.---
+We left Tsujimura-san and searched elsewhere.-----
+Tsujimura was still working.--
+＃辻村
+Did you find Lady Ai?-----------
+＃主人公
+No... not yet.------------
+＃辻村
+I'll let her know you were looking for her if I happen to see her.----
+＃あかね
+Thank you very much.----
+We decided to look for Ai-san elsewhere.--
+Tsujimura and Shion were inside.----
+＃辻村
+Oh, what is it?-------------
+＃主人公
+Have you seen Ai-san?-------------
+＃辻村
+Lady Ai...? Lady Shion, do you know anything?---
+＃詩音
+Sister Ai... No, I haven't seen her.--
+＃主人公
+...I see. Please let me know if you see her.
+＃詩音
+Yes... I understand.----
+＃あかね
+Let's try looking elsewhere.
+＃主人公
+Right. ...Please excuse us.---
+We decided to search elsewhere.-
+Tsujimura and Shion stayed inside.------
+＃辻村
+Did you find Lady Ai?-----------
+＃主人公
+No... not yet.------------
+＃あかね
+Let's try looking elsewhere.
+＃主人公
+Right. ...Please excuse us.---
+We decided to search elsewhere.-
+I entered the room.-
+＃あかね
+Tsujimura-san doesn't seem to be here.--
+＃主人公
+It seems so.------
+I looked around, but there was no sign of Ai-san, of course.----
+＃あかね
+Let's look elsewhere.---
+Following Akane-san, we decided to head elsewhere.----

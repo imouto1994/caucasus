@@ -1,0 +1,59 @@
+＃想子
+Is this enough?-------
+＃主人公
+Yes, thank you.---------------
+＃想子
+Good luck with the checking.------
+＃主人公
+Understood.-----
+I decided to go elsewhere.----
+＃摩夜
+Is that all?------------
+＃主人公
+Yes, thank you very much. You seem busy, so I'll take my leave now.---------
+I bowed and decided to go elsewhere.----
+＃藍
+Is that all?------------
+＃主人公
+Yes, thank you. You look busy, so I'll head out.----------------
+I bowed and decided to go elsewhere.----
+＃紅緒
+Is this enough?---
+＃主人公
+Yes, thank you very much.-------
+I thanked Benio-san and decided to go elsewhere.--
+＃詩音
+Is this enough?---------------
+＃主人公
+Yes, thank you very much.-------
+I thanked Shion-san and decided to go elsewhere.--
+＃辻村
+Will this suffice?--------------
+＃主人公
+Yes, thank you for being so thorough. You seem busy, so I'll take my leave now.-------
+I said thanks and moved on.-------------
+＃高嶺
+Is this enough?---
+＃主人公
+Y-Yeah. Thank you. You seem busy, so I'll take my leave now.------------
+I bowed and decided to go elsewhere.----
+＃御巫
+Is this enough?-------------
+＃主人公
+Yes, thank you very much. Please excuse me.-----------
+I decided to go elsewhere.----
+＃あかね
+Will that be all?---------
+＃主人公
+Yes, thank you. You still look busy, so I'll be going now.--------------
+I bowed and decided to go elsewhere.----
+＃なるみ
+Back to work. What a pain.------------------------------
+＃主人公
+Well then, I'll be going. Excuse me.--
+＃なるみ
+See ya. Come by again.--
+I decided to go elsewhere.----
+What should I do next?----------
+The patrol has taken about thirty minutes.
+I'll head back to my room now.--

@@ -1,0 +1,90 @@
+By Tsujimura's room.------
+I knock.--------
+＃主人公
+Huh... Not inside?------
+No response after waiting.------
+No luck; moving along.----
+By Tsujimura's room.------
+I knock.--------
+＃辻村
+Yes, who is it?-------
+＃主人公
+Hello, Tsujimura.---
+＃辻村
+Ah, it was you.---------
+＃主人公
+Do you have a moment?-------
+＃辻村
+Yes, please come inside.--------
+＃主人公
+Excuse me.----
+I enter his room.-----
+＃辻村
+Pardon the mess. So, what can I do for you?-----------------
+＃主人公
+Um...---------
+Back at Tsujimura's room.-----
+I knock.--------
+＃辻村
+Yes, who is it?-------
+＃主人公
+Hello, Tsujimura.---
+＃辻村
+Ah, it was you. What is it this time?---------
+＃主人公
+Do you have a moment?-------
+＃辻村
+Yes, please come inside.--------
+＃主人公
+Excuse me.----
+I enter his room.-----
+＃辻村
+What can I do for you?----
+＃主人公
+Um...---------
+By Tsujimura's room.------
+I knock.--------
+＃主人公
+Huh... Not inside?------
+No response after waiting.------
+＃あかね
+Tsujimura-san is usually in the office, after all.
+＃主人公
+I see...----------
+No luck; moving along.----
+By Tsujimura's room.------
+Akane knocks on the door.---
+＃辻村
+Yes, who is it?-------
+＃あかね
+Tsujimura, it's me.---
+＃辻村
+What's the matter?--
+＃主人公
+Have you seen Ai-san?-------------
+＃辻村
+Lady Ai...? No, I haven't seen her.-------
+＃あかね
+We haven't found her anywhere.------------------
+＃辻村
+Search well. I will search too.-------------
+＃主人公
+Thanks, Tsujimura.------
+＃辻村
+Not at all, don't apologize. This is a duty we servants should be performing ourselves. Well then.----
+Tsujimura hurried down the hall.--------------
+＃あかね
+Let's go too.---------------
+＃主人公
+Right.--------
+We'll search elsewhere.-----------
+By Tsujimura's room.------
+I knock.--------
+＃主人公
+Huh... Not inside?------
+No response after waiting.------
+＃あかね
+He's also out searching for Lady Ai.----------------
+＃主人公
+...That's right.----
+No luck; moving along.----

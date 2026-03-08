@@ -1,0 +1,69 @@
+Reached kitchen.--
+＃なるみ
+Oh, what's up?--------
+Narumi was there.-
+＃主人公
+Fixing lunch?---------
+＃なるみ
+Yeah, are you hungry?---------
+＃主人公
+Not quite yet.----------------------
+＃なるみ
+It'll be ready a bit after one.---------
+＃主人公
+Understood.-----
+＃なるみ
+So, did you have business with me?----
+＃主人公
+Um...-----------
+Back in the kitchen.--
+＃なるみ
+Need something else?
+＃主人公
+Um...-----------
+Reached kitchen.--
+...But no one is here.--
+What to do now?-
+Narumi was in the kitchen.
+＃なるみ
+Oh, Akane, what's wrong?----
+＃あかね
+Narumi-san, have you seen Lady Ai?--------
+＃なるみ
+Lady Ai...? No, I haven't.------------
+＃主人公
+I see...----------
+She's not here either.----
+＃あかね
+Let's look somewhere else.--
+＃主人公
+...Alright.-------
+We decided to go somewhere else.
+Narumi was cooking.-----
+＃なるみ
+Oh, still haven't found Lady Ai?--------
+＃主人公
+No... that's right.-----
+＃あかね
+There are only so many places she could go...-----------
+＃なるみ
+Maybe you should look more thoroughly?------
+＃主人公
+...I suppose so.--
+We decided to go search elsewhere.------
+Reached kitchen.--
+＃あかね
+Narumi-san isn't here.----
+No one is inside.-
+That means Ai too.
+＃主人公
+She wouldn't be... hiding somewhere, right?-----
+＃あかね
+I don't think so.---
+Akane checks the service entrance out back.---
+Snow blows right inside.--
+＃あかね
+It's drifting quite a bit, but I don't see any footprints...----
+＃主人公
+Let's look elsewhere.---
+We'll head elsewhere.-------------

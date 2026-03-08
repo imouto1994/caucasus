@@ -1,0 +1,19 @@
+The 1F end room is vacant.--
+I turn the doorknob, but it appears to be locked.-
+＃主人公
+Narumi-san, if you would.---
+＃なるみ
+...It's just a guest room, so no matter... but it's open.-----
+＃主人公
+Of course, there's a fire...--
+＃なるみ
+Yes... likely not the spot in the code... Want to check it just in case?------
+Back in this room.--
+＃なるみ
+Weren't we just here?-
+＃主人公
+Well, yes...------
+＃なるみ
+If you want to look, be quick.------
+＃主人公
+Right...----

@@ -1,0 +1,66 @@
+＃想子
+Will this do?---------
+＃主人公
+Yes, thank you.---------------
+＃想子
+Good luck with the search.--------
+＃主人公
+I will.---------
+Try somewhere else.-----------
+＃摩夜
+Is that everything?-----
+＃主人公
+Thanks. You seem busy with wedding prep, so I'll leave now.-------------------------------
+I bowed and left the area.--------------
+＃藍
+Is that everything?-----
+＃主人公
+Yes, thank you very much. You seem busy, so I'll be going now.--
+I bowed and left the area.--------------
+＃紅緒
+Will this suffice?--------
+＃主人公
+Yes, thank you very much.-------
+＃紅緒
+If anything else comes up, let me know.---------
+＃主人公
+Yes, I'll do that.--------------
+Try somewhere else.-----------
+＃辻村
+Will this be enough for you?----
+＃主人公
+Yes, thank you for your detailed help. You seem busy, so I'll take my leave now.------
+Gave my thanks and left.----------------
+＃六曜
+Is that everything?-----
+＃主人公
+Yes, thank you very much.-------------
+＃六曜
+Ask if you need anything else.----
+＃主人公
+Thank you. Well then, excuse me.----
+Try somewhere else.-----------
+＃高嶺
+Will this do?-----
+＃主人公
+Y-Yes. Thank you. You seem busy, so I'll excuse myself now.-------------
+I bowed and left the area.--------------
+＃御巫
+Will this be enough for you?
+＃主人公
+Yes, thank you very much. Excuse me.------------------
+Try somewhere else.-----------
+＃あかね
+Is that everything?-------
+＃主人公
+Yes, thank you. You still seem busy, so I'll take my leave now.---------
+I bowed and left the area.--------------
+＃なるみ
+Guess I'll get back to work too. What a pain.-----------
+Narumi heads to kitchen.--
+＃主人公
+I'll go now. Excuse me.---------------
+＃なるみ
+See ya. Come back later.
+Try somewhere else.-----------
+Now then, what next?------------

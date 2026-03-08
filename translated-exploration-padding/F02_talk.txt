@@ -1,0 +1,52 @@
+＃想子
+Is this enough?-------
+＃主人公
+Yes, thank you.---------------
+＃想子
+Good luck with the search.--------
+＃主人公
+Will do.--------
+Try elsewhere.----------------
+＃摩夜
+Is that all, then?------
+＃主人公
+Yes, thank you. You seem busy before the wedding, so I'll take my leave now.--------------
+Bowed and left the area.----------------
+＃藍
+Is that all, then?------
+＃主人公
+Yes, thank you. You seem busy, so I'll be going.----------------
+Bowed and left the area.----------------
+＃紅緒
+Will this do?-----
+＃主人公
+Yes, thank you very much.-------
+Thanked Benio and left area.----------------------
+＃辻村
+I suppose this will be enough.--
+＃主人公
+Yes, thank you for being so thorough. You seem busy, so I'll take my leave.-----------
+Expressed thanks and left.--------------
+＃高嶺
+Will this do?-----
+＃主人公
+Y-yes. Thank you very much. You seem busy, so please excuse me.---------
+Bowed and left the area.----------------
+＃御巫
+Is this enough for you?-----
+＃主人公
+Yes, thank you very much. Please excuse me.-----------
+Try elsewhere.----------------
+＃あかね
+Will that be all?---------
+＃主人公
+Yes, thank you. You still seem busy, so I'll be going.------------------
+Bowed and left the area.----------------
+＃なるみ
+Guess I'll get back to work too. Even if it's a pain.---
+＃主人公
+Then I'll be on my way. Thanks again.-
+＃なるみ
+Sure. Come back soon.---
+I'll go somewhere else.-------
+Now then, what's the next move?-

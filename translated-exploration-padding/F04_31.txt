@@ -1,0 +1,44 @@
+＃主人公
+Excuse me.----
+The doctor wasn't in the infirmary.-----
+Maybe he went elsewhere.------
+Nothing to do here; moving along.-----------
+＃主人公
+Excuse me.----
+The doctor looked up from his desk when I entered.----
+＃御巫
+Ah, it's you.---
+＃主人公
+Has anything unusual happened?--------
+＃御巫
+It's just dark and I can't read anything.-----------
+＃主人公
+That's... well.---
+＃御巫
+I'm joking. For now, only that Maya-san said she was unwell. Shion-san's health seems fine for now.-------------------------------
+＃主人公
+I see...----------
+＃御巫
+I just hope the power is restored soon...---------
+＃主人公
+Yeah... I think it should be fixed soon.
+＃御巫
+I see. I'll just wait a bit longer.-
+＃主人公
+I'm going to look around a bit more.
+＃御巫
+Alright, I get it.--
+＃主人公
+Excuse me.----
+＃御巫
+Oh, what is it this time?-------
+＃主人公
+Not that I have business, but...--------------
+＃御巫
+See anything weird while looking around?--------
+＃主人公
+No, not so far.-------------
+＃御巫
+I hope nothing else happens tonight...------------------------
+＃主人公
+Yeah... I hope so too.

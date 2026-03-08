@@ -1,0 +1,59 @@
+＃想子
+Is this enough?-------
+＃主人公
+Yes, thank you very much.-----
+＃想子
+Good luck with your search.-------
+＃主人公
+I will.---------
+I decided to go elsewhere.----
+＃摩夜
+Is that all for now?----
+＃主人公
+Yes, thank you very much. You seem busy, so I'll take my leave now.---------
+I bowed and decided to go elsewhere.----
+＃藍
+Is that all for now?----
+＃主人公
+Yes, thank you very much. You seem busy, so I'll be going now.--
+I bowed and decided to go elsewhere.----
+＃紅緒
+Will this do?-----
+＃主人公
+Yes, thank you very much.-------
+I thanked Benio and decided to go elsewhere.------
+＃詩音
+Would this be sufficient?-----
+＃主人公
+Yes, thank you very much.-------
+I thanked Shion and decided to go elsewhere.------
+＃辻村
+Will this be enough for you?----
+＃主人公
+Yes, thank you for being so thorough. You seem busy, so I'll take my leave now.-------
+I gave thanks and decided to move on.---
+＃高嶺
+Is this enough?---
+＃主人公
+Y-Yes. Thank you very much. You seem busy, so I'll be going now.--------
+I bowed and decided to go elsewhere.----
+＃御巫
+Will this do for now?-------
+＃主人公
+Yes, thank you very much. Well then, excuse me.-------
+I decided to go elsewhere.----
+＃あかね
+Is that all you need?-----
+＃主人公
+Yes, thank you very much. You still seem busy, so I'll take my leave.---
+I bowed and decided to go elsewhere.----
+＃なるみ
+I'll get back to work too. It's such a pain.------------
+＃主人公
+Well then, I'll be going. Excuse me.--
+＃なるみ
+Sure. Stop by again.----
+I decided to go elsewhere.----
+Now, what should I do?----------
+An hour has passed.---
+I'm hungry, so I'll ask Narumi to cook something.-----------------
