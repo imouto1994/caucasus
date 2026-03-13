@@ -1,216 +1,216 @@
-02a_1159.txt | 3 | 48
-Akane-san ran down the walkway surrounding the atrium.
-02a_1159.txt | 4 | 36
-At the end was an inconspicuous-looking door.
-02a_1159.txt | 6 | 48
-There's a ladder inside that leads to a room above.
 02a_1159.txt | 9 | 22
-I had no idea what was waiting for us up there.
-02a_1159.txt | 10 | 64
-I swapped places with Akane-san, who had opened the door, and stepped inside.
-02a_1159.txt | 11 | 48
-The sound of my footsteps echoed as I climbed the ladder.
-02a_1159.txt | 12 | 22
-It was pitch black; I couldn't see a thing.
-02a_1159.txt | 13 | 44
-When I reached the top, I realized there was another door right there.
-02a_1159.txt | 14 | 54
-A tiny window in the door allowed a faint sliver of light-perhaps from outside-to spill through.
-02a_1159.txt | 18 | 24
-Ai-san was lying on the floor.
-02a_1159.txt | 19 | 42
-...No, her upper body was slightly suspended.
-02a_1159.txt | 20 | 64
-There was a rope-like object wrapped around her neck, and it was hoisting her up.
-02a_1159.txt | 23 | 62
-I grabbed the doorknob, only to jerk my hand back in shock at a sharp prick of pain.
-02a_1159.txt | 24 | 60
-The doorknob and an iron pipe running along the wall had been lashed together with wire.
-02a_1159.txt | 26 | 20
-No... you've got to be kidding me...
-02a_1159.txt | 27 | 48
-I tried twisting and pulling the knob, but the door wouldn't budge.
-02a_1159.txt | 28 | 30
-However, it didn't seem to be locked.
-02a_1159.txt | 29 | 28
-We were out of time-what should I do?
-02a_1159.txt | 31 | 24
-[Have her go fetch a tool]
-02a_1159.txt | 32 | 6
-[Kick the door down]
-02a_1159.txt | 34 | 60
-Akane-san, can you go find something we can use to get this open?
-02a_1159.txt | 36 | 16
-Y-yes! Right away!
-02a_1159.txt | 37 | 30
-Akane-san scrambled back down the ladder.
-02a_1159.txt | 38 | 20
-Will she make it in time-?
-02a_1159.txt | 41 | 20
-There was no time for hesitation.
-02a_1159.txt | 42 | 58
-I used every inch of the narrow walkway to back up and then slammed my foot against the door.
-02a_1159.txt | 45 | 16
-It didn't even flinch.
-02a_1159.txt | 46 | 18
-Even so, I tried again and again.
+What awaited us?
 02a_1159.txt | 47 | 22
-I continued to kick the door with everything I had.
-02a_1159.txt | 49 | 12
-...It's no use.
-02a_1159.txt | 50 | 30
-I can't get this door open like this.
-02a_1159.txt | 51 | 26
-I pulled out a pair of pliers.
+I kicked with my all
 02a_1159.txt | 53 | 16
-If I use these...
-02a_1159.txt | 54 | 36
-They were rusted, but they should be able to cut through.
+Using these...
 02a_1159.txt | 57 | 28
-I squeezed with every ounce of strength in my body.
-02a_1159.txt | 59 | 46
-At the same time, the hinge on the pliers itself gave way and broke.
-02a_1159.txt | 60 | 64
-I tossed the broken tool aside and unwound the remaining wire from the knob.
+I squeezed with all I had
 02a_1159.txt | 61 | 12
-The door swung open.
-02a_1159.txt | 62 | 46
-It's thin, but maybe I can break the door with this fire poker.
-02a_1159.txt | 65 | 26
-I slammed the fire poker against the doorknob.
-02a_1159.txt | 71 | 20
-The wire finally snapped and went flying.
-02a_1159.txt | 74 | 50
-The fire poker was ruined, but at least the door was open.
-02a_1159.txt | 75 | 48
-I cleared away the remaining wire and shoved the door open.
-02a_1159.txt | 78 | 36
-I burst into the mechanical room and rushed to Ai-san's side.
-02a_1159.txt | 79 | 18
-She seemed to be unconscious.
-02a_1159.txt | 80 | 74
-The rope around her neck was pulled taut, and it wouldn't loosen even when I tried to lift and support her body.
-02a_1159.txt | 85 | 52
-I swapped places with Akane-san and traced the rope to its source.
-02a_1159.txt | 86 | 32
-It was a machine that appeared to be the clock mechanism.
-02a_1159.txt | 87 | 52
-The end of the rope was caught firmly in one of the rotating gears.
-02a_1159.txt | 88 | 44
-Despite the obstruction, the gears were still grinding away.
-02a_1159.txt | 89 | 26
-If this keeps up, Ai-san is going to-!
-02a_1159.txt | 90 | 10
-[Use a tool]
-02a_1159.txt | 91 | 16
-[Remove the rope by hand]
-02a_1159.txt | 92 | 36
-I grabbed the rope and tried to pull it free.
-02a_1159.txt | 95 | 16
-It wouldn't budge.
-02a_1159.txt | 97 | 18
-It dug into the flesh of my fingers.
-02a_1159.txt | 98 | 34
-I could feel the mechanism trying to winch me in along with the rope.
-02a_1159.txt | 102 | 52
-It's no use... I can't stop this rope with anything I have-!
-02a_1159.txt | 103 | 24
-Time was heartlessly ticking away.
-02a_1159.txt | 104 | 38
-I jammed the fire poker between the gears.
-02a_1159.txt | 105 | 82
-No matter how powerful the mechanism, it couldn't handle such a large foreign object being shoved into its works.
-02a_1159.txt | 106 | 42
-With a violent screech of grinding metal, the gears ground to a halt.
-02a_1159.txt | 107 | 68
-A gear somewhere must have snapped, because the tension on the rope suddenly vanished.
-02a_1159.txt | 108 | 36
-I grabbed the rope and gave it a hard yank.
-02a_1159.txt | 109 | 44
-The wire-reinforced rope finally came free from the machine.
-02a_1159.txt | 114 | 56
-Having removed the rope from Ai-san's neck, Akane-san began performing artificial respiration.
-02a_1159.txt | 115 | 22
-Is she going to be okay-!?
+Door opened
 02a_1159.txt | 118 | 16
-...She was alive.
-02a_1159.txt | 121 | 28
-I slumped to the floor where I stood.
+...She's alive
 02a_1159.txt | 122 | 22
-I had managed to save her... somehow.
-02a_1159.txt | 124 | 26
-Ojousama... thank heaven...
-02a_1159.txt | 125 | 20
-Akane-san's eyes welled up with tears.
-02a_1159.txt | 127 | 62
-...I'll go fetch Dr. Mikanagi. Please, look after her until I get back.
-02a_1159.txt | 130 | 60
-Leaving the coughing Ai-san lying on the floor, Akane-san rushed out of the mechanical room.
-02a_1159.txt | 131 | 12
-...It's no use.
-02a_1159.txt | 133 | 24
-Time was heartlessly ticking away.
-02a_1159.txt | 135 | 48
-I lunged for the rope and pressed the blade against it.
-02a_1159.txt | 138 | 36
-There was wire braided into the rope.
-02a_1159.txt | 139 | 40
-A small knife like this couldn't even leave a scratch on it.
-02a_1159.txt | 140 | 36
-Even so, I sawed the blade against it again and again.
-02a_1159.txt | 141 | 48
-If there was even the slightest chance, I had to take it.
-02a_1159.txt | 142 | 22
-...The clock's bell began to toll.
-02a_1159.txt | 143 | 28
-But it stopped halfway through.
+I saved her somehow
 02a_1159.txt | 144 | 20
-The mechanism had reached its limit.
-02a_1159.txt | 145 | 66
-Ai-san's body swayed slightly from the center of the rope, which was now pulled death-tight.
-02a_1159.txt | 148 | 38
-Akane-san saw my face and the words died in her throat.
-02a_1159.txt | 150 | 20
-...Let's get it open.
-02a_1159.txt | 151 | 34
-Maybe there's still a sliver of hope.
-02a_1159.txt | 152 | 66
-I took the pliers from Akane-san and cut through the wire that was holding the door shut.
-02a_1159.txt | 153 | 12
-No one said a word.
-02a_1159.txt | 156 | 40
-The door swung open, and Akane-san rushed to Ai-san's side.
+The limit hit.
 02a_1159.txt | 157 | 12
-But almost instantly.
-02a_1159.txt | 160 | 44
-Akane-san peered into Ai-san's face and burst into uncontrollable sobbing.
-02a_1159.txt | 161 | 58
-I... I could only stand there, frozen, unable to do a single thing.
-02a_1159.txt | 162 | 22
-...The clock's bell began to toll.
-02a_1159.txt | 163 | 28
-But it stopped halfway through.
+Suddenly...
 02a_1159.txt | 164 | 20
-The mechanism had reached its limit.
-02a_1159.txt | 165 | 66
-Ai-san's body swayed slightly from the center of the rope, which was now pulled death-tight.
-02a_1159.txt | 168 | 22
-Akane-san covered her face with her hands.
-02a_1159.txt | 170 | 52
-We don't know... we don't know for sure yet. We have to get this open...
-02a_1159.txt | 171 | 16
-Even as I said the words.
-02a_1159.txt | 172 | 86
-I remembered that if a person is deprived of oxygen for more than a minute, their chances of survival are almost zero.
-02a_1159.txt | 173 | 22
-...The clock's bell began to toll.
-02a_1159.txt | 174 | 28
-But it stopped halfway through.
+The limit hit.
 02a_1159.txt | 175 | 20
-The mechanism had reached its limit.
+The limit hit.
+02a_1159.txt | 3 | 48
+Akane ran down the path around the atrium.
+02a_1159.txt | 4 | 36
+At the end was a plain door.
+02a_1159.txt | 6 | 48
+There is a ladder inside to a room above.
+02a_1159.txt | 10 | 64
+Akane opened the door; I swapped with her and went in.
+02a_1159.txt | 11 | 48
+My footsteps echoed as I climbed the ladder.
+02a_1159.txt | 12 | 22
+Total dark; no vision.
+02a_1159.txt | 13 | 44
+At the top, I saw another door.
+02a_1159.txt | 14 | 54
+A tiny window let a faint sliver of light spill in.
+02a_1159.txt | 18 | 24
+Ai-san lay on the floor.
+02a_1159.txt | 19 | 42
+No... her body was slightly raised.
+02a_1159.txt | 20 | 64
+A rope around her neck was hoisting her up.
+02a_1159.txt | 23 | 62
+Pain stung my hand as I grabbed the knob and jerked back.
+02a_1159.txt | 24 | 60
+The knob and a wall pipe were lashed together with wire.
+02a_1159.txt | 26 | 20
+No... kidding me...
+02a_1159.txt | 27 | 48
+I pulled the knob, but the door stayed shut.
+02a_1159.txt | 28 | 30
+Still, it wasn't locked.
+02a_1159.txt | 29 | 28
+Out of time?what now?
+02a_1159.txt | 31 | 24
+[Fetch a tool]
+02a_1159.txt | 32 | 6
+[Kick]
+02a_1159.txt | 34 | 60
+Akane, go find something to get this open!
+02a_1159.txt | 36 | 16
+Y-yes! Going!
+02a_1159.txt | 37 | 30
+Akane ran down the ladder.
+02a_1159.txt | 38 | 20
+Will she be in time?
+02a_1159.txt | 41 | 20
+I couldn't hesitate.
+02a_1159.txt | 42 | 58
+I backed up and slammed my foot against the door.
+02a_1159.txt | 45 | 16
+It didn't move.
+02a_1159.txt | 46 | 18
+I tried again.
+02a_1159.txt | 49 | 12
+It's no use.
+02a_1159.txt | 50 | 30
+I can't get it open.
+02a_1159.txt | 51 | 26
+I pulled out pliers.
+02a_1159.txt | 54 | 36
+Rusted, but they should cut it.
+02a_1159.txt | 59 | 46
+Then, the pliers' hinge broke.
+02a_1159.txt | 60 | 64
+I tossed the broken tool and unwound the wire.
+02a_1159.txt | 62 | 46
+Maybe this poker can break the door.
+02a_1159.txt | 65 | 26
+I slammed it on the knob.
+02a_1159.txt | 71 | 20
+The wire snapped.
+02a_1159.txt | 74 | 50
+The poker was ruined, but the door opened.
+02a_1159.txt | 75 | 48
+I cleared the wire and shoved the door.
+02a_1159.txt | 78 | 36
+I burst in and rushed to Ai.
+02a_1159.txt | 79 | 18
+She was out cold.
+02a_1159.txt | 80 | 74
+The rope was taut and stayed tight even as I tried to lift her.
+02a_1159.txt | 85 | 52
+Akane took my place; I traced the rope.
+02a_1159.txt | 86 | 32
+It was the clock mechanism.
+02a_1159.txt | 87 | 52
+The rope was caught in rotating gears.
+02a_1159.txt | 88 | 44
+The gears were still grinding.
+02a_1159.txt | 89 | 26
+Ai-san is going to?!
+02a_1159.txt | 90 | 10
+[Use tool]
+02a_1159.txt | 91 | 16
+[Remove by hand]
+02a_1159.txt | 92 | 36
+I tried to pull the rope free.
+02a_1159.txt | 95 | 16
+It stayed stuck.
+02a_1159.txt | 97 | 18
+It cut my fingers.
+02a_1159.txt | 98 | 34
+The gears tried to winch me in.
+02a_1159.txt | 102 | 52
+No use... I can't stop this with what I have!
+02a_1159.txt | 103 | 24
+Time ticked away.
+02a_1159.txt | 104 | 38
+I jammed the poker into the gears.
+02a_1159.txt | 105 | 82
+The mechanism couldn't handle such a large object in its works.
+02a_1159.txt | 106 | 42
+With a screech, the gears halted.
+02a_1159.txt | 107 | 68
+A gear snapped; the rope's tension vanished.
+02a_1159.txt | 108 | 36
+I gave the rope a hard yank.
+02a_1159.txt | 109 | 44
+The rope finally came free.
+02a_1159.txt | 114 | 56
+Akane removed the rope and began CPR on Ai.
+02a_1159.txt | 115 | 22
+Will she be okay?
+02a_1159.txt | 121 | 28
+I slumped to the floor.
+02a_1159.txt | 124 | 26
+Miss Ai... thank god...
+02a_1159.txt | 125 | 20
+Akane's eyes teared.
+02a_1159.txt | 127 | 62
+...I'll fetch Dr. Mikanagi. Watch her till I'm back.
+02a_1159.txt | 130 | 60
+Akane left the coughing Ai and rushed out.
+02a_1159.txt | 131 | 12
+...No use.
+02a_1159.txt | 133 | 24
+Time ticked away.
+02a_1159.txt | 135 | 48
+I lunged for the rope and used the blade.
+02a_1159.txt | 138 | 36
+The rope was wire-reinforced.
+02a_1159.txt | 139 | 40
+A knife couldn't leave a scratch.
+02a_1159.txt | 140 | 36
+Still, I sawed at it again.
+02a_1159.txt | 141 | 48
+I had to take any chance I had.
+02a_1159.txt | 142 | 22
+...The bell tolled.
+02a_1159.txt | 143 | 28
+It stopped halfway.
+02a_1159.txt | 145 | 66
+Ai's body swayed from the tight rope.
+02a_1159.txt | 148 | 38
+Akane saw my face and went silent.
+02a_1159.txt | 150 | 20
+...Let's open it.
+02a_1159.txt | 151 | 34
+Maybe there is still hope.
+02a_1159.txt | 152 | 66
+I took the pliers and cut the wire shut.
+02a_1159.txt | 153 | 12
+Silence.
+02a_1159.txt | 156 | 40
+The door opened; Akane rushed to Ai.
+02a_1159.txt | 160 | 44
+Akane saw Ai's face and sobbed.
+02a_1159.txt | 161 | 58
+I could only stand there, frozen.
+02a_1159.txt | 162 | 22
+...The bell tolled.
+02a_1159.txt | 163 | 28
+It stopped halfway.
+02a_1159.txt | 165 | 66
+Ai's body swayed from the tight rope.
+02a_1159.txt | 168 | 22
+Akane hid her face.
+02a_1159.txt | 170 | 52
+We don't know yet. We have to open it...
+02a_1159.txt | 171 | 16
+As I said it.
+02a_1159.txt | 172 | 86
+Without air for a minute, survival odds are nearly zero.
+02a_1159.txt | 173 | 22
+...The bell tolled.
+02a_1159.txt | 174 | 28
+It stopped halfway.
 02a_1159.txt | 176 | 66
-Ai-san's body swayed slightly from the center of the rope, which was now pulled death-tight.
+Ai's body swayed from the tight rope.
 02a_1159.txt | 179 | 44
-Akane-san peered into Ai-san's face and burst into uncontrollable sobbing.
+Akane saw Ai's face and sobbed.
 02a_1159.txt | 180 | 58
-I... I could only stand there, frozen, unable to do a single thing.
+I could only stand there, frozen.

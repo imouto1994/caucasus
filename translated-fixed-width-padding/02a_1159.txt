@@ -1,0 +1,180 @@
+＃あかね
+This way!-------
+Akane ran down the path around the atrium.------
+At the end was a plain door.--------
+＃あかね
+There is a ladder inside to a room above.-------
+＃主人公
+Understood. I'll go first.----------
+What awaited us?------
+Akane opened the door; I swapped with her and went in.----------
+My footsteps echoed as I climbed the ladder.----
+Total dark; no vision.
+At the top, I saw another door.-------------
+A tiny window let a faint sliver of light spill in.---
+I peered inside.------
+＃主人公
+Ai-san!?--------
+Ai-san lay on the floor.
+No... her body was slightly raised.-------
+A rope around her neck was hoisting her up.---------------------
+＃主人公
+Ai-san! Are you alright!?---------
+Pain stung my hand as I grabbed the knob and jerked back.-----
+The knob and a wall pipe were lashed together with wire.----
+＃主人公
+No... kidding me...-
+I pulled the knob, but the door stayed shut.----
+Still, it wasn't locked.------
+Out of time?what now?-------
+何か道具を使ってみる
+何か道具を取ってきて貰う
+蹴破る
+＃主人公
+Akane, go find something to get this open!------------------
+＃あかね
+Y-yes! Going!---
+Akane ran down the ladder.----
+Will she be in time?
+＃主人公
+Dammit...!------
+I couldn't hesitate.
+I backed up and slammed my foot against the door.---------
+＃主人公
+Gngh...!------
+It didn't move.-
+I tried again.----
+I kicked with my all--
+Is there... anything I have on me that I can use?---
+It's no use.
+I can't get it open.----------
+I pulled out pliers.------
+＃主人公
+Using these...--
+Rusted, but they should cut it.-----
+＃主人公
+Gngh...-----
+I squeezed with all I had---
+-It snapped.
+Then, the pliers' hinge broke.----------------
+I tossed the broken tool and unwound the wire.------------------
+Door opened-
+Maybe this poker can break the door.----------
+＃主人公
+Take this-!!------
+I slammed it on the knob.-
+＃主人公
+Dammit, come on!!-----
+After striking it repeatedly, the wire slowly but surely began to loosen.-
+＃主人公
+Just a little more-!
+The wire snapped.---
+＃主人公
+Yes!--------
+The poker was ruined, but the door opened.--------
+I cleared the wire and shoved the door.---------
+＃主人公
+Ai-san!-------
+I burst in and rushed to Ai.--------
+She was out cold.-
+The rope was taut and stayed tight even as I tried to lift her.-----------
+＃主人公
+Akane-san, please support Ai-san's weight!------
+＃あかね
+Y-yes...!-----------
+Akane took my place; I traced the rope.-------------
+It was the clock mechanism.-----
+The rope was caught in rotating gears.--------------
+The gears were still grinding.--------------
+Ai-san is going to?!------
+道具を使う
+手でロープを外す
+I tried to pull the rope free.------
+＃主人公
+Gngh...!------
+It stayed stuck.
+Worse, I could feel wire braided into the rope.---
+It cut my fingers.
+The gears tried to winch me in.---
+＃主人公
+Shit-!!---------
+Is there... anything I have on me that I can use?---
+No use... I can't stop this with what I have!-------
+Time ticked away.-------
+I jammed the poker into the gears.----
+The mechanism couldn't handle such a large object in its works.-------------------
+With a screech, the gears halted.---------
+A gear snapped; the rope's tension vanished.------------------------
+I gave the rope a hard yank.--------
+The rope finally came free.-----------------
+＃主人公
+Akane-san, how is she!?-----
+＃あかね
+Ojousama! Please, wake up!------------
+Akane removed the rope and began CPR on Ai.-------------
+Will she be okay?-----
+＃藍
+...*Cough, cough!*------
+...She's alive--
+＃主人公
+Thank... thank God...-
+I slumped to the floor.-----
+I saved her somehow---
+＃あかね
+Miss Ai... thank god...---
+Akane's eyes teared.
+＃あかね
+...I'll fetch Dr. Mikanagi. Watch her till I'm back.----------
+＃主人公
+Understood.-----
+Akane left the coughing Ai and rushed out.------------------
+...No use.--
+A flimsy, bent piece of wood like this is never going to stop that mechanism...-
+Time ticked away.-------
+I had a knife.--
+I lunged for the rope and used the blade.-------
+＃主人公
+Ah...-------
+The rope was wire-reinforced.-------
+A knife couldn't leave a scratch.-------
+Still, I sawed at it again.---------
+I had to take any chance I had.-----------------
+...The bell tolled.---
+It stopped halfway.---------
+The limit hit.------
+Ai's body swayed from the tight rope.-----------------------------
+＃あかね
+I brought the pliers... oh...-----
+Akane saw my face and went silent.----
+＃主人公
+...Let's open it.---
+Maybe there is still hope.--------
+I took the pliers and cut the wire shut.--------------------------
+Silence.----
+＃あかね
+Ojousama...!------
+The door opened; Akane rushed to Ai.----
+Suddenly...-
+＃あかね
+Ojousama... Ai-ojousama...!!----
+Akane saw Ai's face and sobbed.-------------
+I could only stand there, frozen.-------------------------
+...The bell tolled.---
+It stopped halfway.---------
+The limit hit.------
+Ai's body swayed from the tight rope.-----------------------------
+＃あかね
+No...-------
+Akane hid her face.---
+＃主人公
+We don't know yet. We have to open it...------------
+As I said it.---
+Without air for a minute, survival odds are nearly zero.------------------------------
+...The bell tolled.---
+It stopped halfway.---------
+The limit hit.------
+Ai's body swayed from the tight rope.-----------------------------
+＃あかね
+Ojousama... Ai-ojousama...!!----
+Akane saw Ai's face and sobbed.-------------
+I could only stand there, frozen.-------------------------

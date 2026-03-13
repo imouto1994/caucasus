@@ -1,0 +1,6 @@
+02a_1159.txt
+30 | 何か道具を使ってみる | [Try using a tool]
+31 | 何か道具を取ってきて貰う | [Have her go fetch a tool]
+32 | 蹴破る | [Kick the door down]
+90 | 道具を使う | [Use a tool]
+91 | 手でロープを外す | [Remove the rope by hand]
