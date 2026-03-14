@@ -558,7 +558,8 @@ A woman came rushing out from the kitchen entrance.
 "Benio-ojousama, please catch Aiko! She swiped the dried sardines I was going to use for the broth again!"
 #Benio
 "I keep telling you her name is Love... honestly."
-Just as Benio-san muttered that and started to crouch down, the woman called Akane-san tripped on the carpet and stumbled.
+Just as Benio-san muttered that and started to crouch down...
+The woman called Akane-san tripped on the carpet and stumbled.
 #???
 "Hya, waah!?"
 #Protagonist
@@ -3362,7 +3363,8 @@ Tsujimura-san left the hall.
 "Let's go too."
 #Protagonist
 "...Right."
-I was uneasy. It wasn't so much about Rokuyou-san, but—about Shion-san, sleeping in that casket.
+I was uneasy.
+It wasn't so much about Rokuyou-san, but—about Shion-san, sleeping in that casket.
 
 --------------------
 02_0810.txt
@@ -4382,7 +4384,8 @@ Now then... what should I do?
 "Yeah... let’s go."
 #Protagonist
 "...Let’s not."
-I lacked the confidence. Not confidence in finding the killer—but confidence in being able to settle things properly afterward.
+I lacked the confidence.
+Not confidence in finding the killer—but confidence in being able to settle things properly afterward.
 #Souko
 "...True, that might be for the best."
 Souko-san seemed to agree.
@@ -5237,7 +5240,8 @@ The clock struck two, and Souko-san brought the meeting to a close.
 #Protagonist
 "...Did you find anything out?"
 #Souko
-"That’s my line," Souko-san said with a wry smile.
+"That’s my line,"
+Souko-san said with a wry smile.
 #Souko
 "But well... if I had to give my own impression, there wasn't anything that counts as decisive evidence."
 #Protagonist

@@ -1489,7 +1489,8 @@ She looked at me with hazy, longing eyes.
 "What is it...?"
 #Akane
 "Could you... touch me... directly...?"
-She looked at me with a gaze that was part bashful and part expectant.
+She looked at me with a gaze...
+It was part bashful and part expectant.
 #Main Character
 "Alright, then..."
 I gently slid my hand inside her underwear.
@@ -3301,7 +3302,8 @@ With every thrust, the overflowing fluids wetted my pubic hair.
 #Akane
 "Ha, ah, nnh... faa, ah, m-more... harder..."
 Akane-san's hip movements grew faster.
-#Annh, nnh, hah, faa, ah, nnh, nku...!"
+#Akane
+"Annh, nnh, hah, faa, ah, nnh, nku...!"
 Akane-san’s sweat scattered.
 #Akane
 "Faa, ah, nnh, nfh... nku, nnh...!"
@@ -3726,7 +3728,8 @@ I supported Narumi-san as she looked ready to collapse onto the floor.
 #Narumi
 "...That sounds a bit like blackmail."
 #Main Character
-"It's not. It's just a fact that we might need your help."
+"It's not"
+It's just a fact that we might need your help.
 #Narumi
 "Fine, let’s go."
 We went up the stairs and out of the basement.
@@ -13658,44 +13661,37 @@ Benio-san shook her head.
 --------------------
 03c_2700s.txt
 ********************
-#Main Character
-"Dr. Mikanagi, can you tell when Shion-san died?"
-#Mikanagi
-"I'm not sure... probably within the last hour, but I can't say for certain."
-#Main Character
-"I see..."
+＃主人公
+Mikanagi-sensei, do you have any idea when Shion-san passed away?
+＃御巫
+Hard to say... I'd guess within the last hour, but I can't say for certain.
+＃主人公
+I see...
 Shion-san... why...
-Paintings are hanging on the wall.
-...They're Tsujimura-san's paintings.
-The artwork Tsujimura-san painted looked down upon Shion-san's silent remains.
-#Main Character
-"...We shouldn't touch this carelessly."
-There are likely fingerprints on it.
-#Souko
-"I don't think it matters much... the contents of the cup are more important. We have to identify exactly what kind of poison it was."
-#Main Character
-"What did she drink...?"
-#Souko
-"A fast-acting poison, surely... but if it was something highly irritant, it would be difficult."
-#Main Character
-"Because she would have spat it out..."
-#Souko
-"It's not just that. The possibility of murder also drops significantly. No one would drink something they knew was poison."
-#Main Character
-"True... but the one who brought this medicine was Maya-san, wasn't it...?"
-#Souko
-"...Of course, there's a possibility that Maya-san killed Shion-san. That's exactly why we have to investigate carefully."
-Souko-san picked up the cup using a handkerchief to avoid touching it directly.
-#Souko
-"A little bit of liquid remains. If the police analyze it, they'll be able to determine the ingredients."
-#Main Character
-"But then—"
-#Souko
-"I know. There must be more we can do right here."
-How could this happen...
-The snow seems to be weakening.
-It'll likely be clear tomorrow, but this mansion...
-The snow is letting up.
+A painting hangs on the wall.
+...It's Tsujimura-san's work.
+The painting Tsujimura-san painted looked down upon Shion-san's silent remains.
+A glass is rolling on the floor.
+＃主人公
+...Is this how she drank the poison?
+＃紅緒
+Better not touch it carelessly. There might be fingerprints left on it.
+＃主人公
+Yeah, I understand.
+I take out a handkerchief, carefully wrap it, and pick it up.
+＃主人公
+...There's a little bit of liquid left inside.
+＃御巫
+Let me see it.
+I hand the glass to Mikanagi-sensei.
+＃御巫
+Don't sniff it carelessly. If it's cyanide like I suspect, even the gas alone could be fatal.
+＃主人公
+...Understood.
+How did it come to this...
+The snow seems to be letting up.
+Tomorrow will probably be clear, but this mansion...
+The snow is getting weaker.
 
 --------------------
 03c_2700z.txt
