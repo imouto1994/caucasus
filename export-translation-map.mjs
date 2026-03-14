@@ -52,21 +52,6 @@ const SPEAKER_MAP = new Map([
   ["御者", "Coachman"],
 ]);
 
-// The game replaces 主人公 with the protagonist's actual name in speech lines.
-const SPEAKER_KEY_MAP = new Map([
-  ["主人公", "智士"],
-]);
-
-/**
- * Strip vertical-style prefixes from a line.
- * Vertical scripts may prefix lines with "　" (fullwidth space) or "　＄　".
- */
-function stripVerticalPrefix(line) {
-  if (line.startsWith("\u3000\uFF04\u3000")) return line.slice(3);
-  if (line.startsWith("\u3000")) return line.slice(1);
-  return line;
-}
-
 function readTranslatedFull(raw) {
   const detected = Encoding.detect(raw);
   if (detected === "SJIS") {
@@ -103,9 +88,8 @@ async function main() {
 
     let i = 0;
     while (i < origLines.length && i < transLines.length) {
-      const origRaw = origLines[i];
+      const origLine = origLines[i];
       const transLine = transLines[i];
-      const origLine = stripVerticalPrefix(origRaw);
 
       if (origLine.length === 0) {
         i++;
@@ -121,11 +105,10 @@ async function main() {
         }
 
         if (i + 1 < origLines.length && i + 1 < transLines.length) {
-          const contentOrig = stripVerticalPrefix(origLines[i + 1]);
+          const contentOrig = origLines[i + 1];
           const contentTrans = transLines[i + 1];
 
-          const speakerKey = SPEAKER_KEY_MAP.get(speakerJP) || speakerJP;
-          const key = `${speakerKey}${contentOrig}`;
+          const key = `${origLine}${contentOrig}`;
           const value = `${speakerEN || speakerJP}: "${contentTrans}"`;
 
           if (!map.has(key)) {
