@@ -1,97 +1,97 @@
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Oh, is something the matter?
 Tsujimura-san was in the office.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Hello. Were you in the middle of work?
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Not at all. Did you need something?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Well...
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Oh, what's the matter this time?
 Tsujimura-san was still in the office.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Well...
 Tsujimura-san and Shion-san were in the office.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Oh, what is it?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 I thought I'd do a quick patrol of the manor. It would be terrible if something happened again.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 I see. ...No, truly, that is likely a task I ought to be performing myself...
-”ålŒö
+ï¼ƒä¸»äººå…¬
 No, it's more helpful if you stay here, Tsujimura-san. It's probably better for Shion-san to have someone nearby as well.
-”‰¹
+ï¼ƒè©©éŸ³
 Yes... that's true.
 Now then, I'd like to ask some questions, but I wonder which one I should ask.
 Tsujimura-san and Shion-san were in the office.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Oh, is there something else?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Yes...
 I'd like to ask one of them some questions.
 I came to the office, but Tsujimura-san didn't seem to be there.
 There's no point in staying here if no one's around, but...
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Oh, is something the matter?
 Tsujimura-san was in the office.
-”‚ ‚©‚Ë
+ï¼ƒã‚ã‹ã­
 Tsujimura-san, have you seen Lady Ai?
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Lady Ai...? Wouldn't she be in her room?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 The thing is... she isn't there.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 If she isn't in her room... then I'm afraid I wouldn't know...
-”ålŒö
+ï¼ƒä¸»äººå…¬
 I see... thank you.
-”‚ ‚©‚Ë
+ï¼ƒã‚ã‹ã­
 Let's look somewhere else.
 We parted ways with Tsujimura-san and decided to search another location.
 Tsujimura-san was still in the office.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Did you find Lady Ai?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 No... not yet.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 I'll let her know you were looking for her if I happen to see her.
-”‚ ‚©‚Ë
+ï¼ƒã‚ã‹ã­
 Thank you very much.
 We decided to search for Ai-san in a different location.
 Tsujimura-san and Shion-san were in the office.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Oh, what is it?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Have you seen Ai-san?
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Lady Ai, you say...? Lady Shion, do you know anything?
-”‰¹
+ï¼ƒè©©éŸ³
 Sister Ai... No, I haven't seen her.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 ...I see. Please let me know if you see her.
-”‰¹
+ï¼ƒè©©éŸ³
 Yes... I understand.
-”‚ ‚©‚Ë
+ï¼ƒã‚ã‹ã­
 Let's try looking somewhere else.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Right. ...Please excuse us.
 We decided to search elsewhere.
 Tsujimura-san and Shion-san were still in the office.
-”’Ò‘º
+ï¼ƒè¾»æ‘
 Did you find Lady Ai?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 No... not yet.
-”‚ ‚©‚Ë
+ï¼ƒã‚ã‹ã­
 Let's try looking somewhere else.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Right. ...Please excuse us.
 We decided to search elsewhere.
 I came to the office.
-”‚ ‚©‚Ë
+ï¼ƒã‚ã‹ã­
 Tsujimura-san doesn't seem to be here.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 It seems so.
 I took a quick look around the office, but of course, there was no sign of Ai-san.
-”‚ ‚©‚Ë
+ï¼ƒã‚ã‹ã­
 Let's look somewhere else.
 Following Akane-san's lead, we decided to head elsewhere.

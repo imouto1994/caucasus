@@ -1,22 +1,22 @@
 This room is vacant.
 I turn the doorknob, but it appears to be locked.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Narumi-san, if you would.
-”‚È‚é‚İ
+ï¼ƒãªã‚‹ã¿
 ...It's just another guest room, so I don't think it'll matter... but here, it's open.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Of course, there's a fireplace...
-”‚È‚é‚İ
+ï¼ƒãªã‚‹ã¿
 Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
-Ifve returned to this room.
-”‚È‚é‚İ
+I've returned to this room.
+ï¼ƒãªã‚‹ã¿
 Weren't we just here?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Well, yes...
-”‚È‚é‚İ
+ï¼ƒãªã‚‹ã¿
 If you still want to investigate, then make it quick.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Right...
 This room is currently empty.
-”‚È‚é‚İ
+ï¼ƒãªã‚‹ã¿
 Want to see if we can find a key? I've no idea if we'll find anything searching blindly like this, though.

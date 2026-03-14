@@ -1,14 +1,14 @@
-Ifve made my way to the dining hall.
-”ålŒö
+I've made my way to the dining hall.
+ï¼ƒä¸»äººå…¬
 There is a fireplace here.
-”‚È‚é‚İ
+ï¼ƒãªã‚‹ã¿
 Yes... though I doubt this is the place the code was referring to... Do you want to check it just in case?
-Ifve returned to the dining hall.
-”‚È‚é‚İ
+I've returned to the dining hall.
+ï¼ƒãªã‚‹ã¿
 Weren't we just here?
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Well, yes...
-”‚È‚é‚İ
+ï¼ƒãªã‚‹ã¿
 If you still want to investigate, then make it quick.
-”ålŒö
+ï¼ƒä¸»äººå…¬
 Right...
