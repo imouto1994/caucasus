@@ -21,7 +21,7 @@ No, I have things I need to confirm right now.
 ＃主人公
 ...Yeah.
 ＃紅緒
-...Did you find something out from the code Father left behind? But that was written a long time ago, wasn't it? It has nothing to do with the case?
+...Did you find something out from the code Father left behind? But that was written a long time ago, wasn't it? It has nothing to do with the case—
 ＃主人公
 It was related.
 ＃紅緒
@@ -41,7 +41,7 @@ It's Akari Misono-san. I asked you about her earlier, remember?
 ＃主人公
 ...A short while ago, I confirmed a skeletal corpse in the basement that appears to be Akari-san.
 ＃紅緒
-What?!? What do you mean!?
+What—!? What do you mean!?
 ＃主人公
 ...She didn't disappear; she was murdered.
 ＃紅緒
@@ -72,7 +72,7 @@ Father likely wanted to protect Shion. So he made sure she wouldn't be caught up
 ＃主人公
 But... Rokuyou-san tried to marry Shion-san. Why was that?
 ＃御巫
-?I'll speak to that.
+—I'll speak to that.
 ＃紅緒
 Doctor...?
 Dr. Mikanagi was standing in the doorway of the office.
