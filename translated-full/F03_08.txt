@@ -1,0 +1,187 @@
+I’ve arrived at the dining hall.
+＃紅緒
+Hm, oh, it's just you.
+Benio-san was there.
+＃主人公
+Benio-san, are you alone?
+＃紅緒
+Can't you tell just by looking?
+＃主人公
+Well, yes, but... it's dangerous to be by yourself.
+＃紅緒
+Dangerous? You think someone is targeting me?
+＃主人公
+It's a possibility.
+＃紅緒
+Humph... I see.
+Nodding, Benio-san began to sink into thought.
+＃主人公
+Um... do you have a moment right now?
+＃紅緒
+Hm? Oh, I don't mind.
+I’ve arrived at the dining hall again.
+＃紅緒
+Hm, is something the matter?
+＃主人公
+Um...
+When I entered the dining hall, Souko-san and Benio-san were there.
+＃想子
+Oh, what's wrong?
+＃主人公
+No, I don't really have any particular business, but...
+＃紅緒
+Is it lunchtime?
+＃主人公
+Well, I am getting hungry.
+＃想子
+If you're looking for Narumi-san, she's in the kitchen.
+I should probably ask some questions rather than worry about lunch right now.
+Souko-san was in the dining hall.
+＃主人公
+Oh, Souko-san, are you alone?
+＃想子
+Yes, why? Are you hungry?
+＃主人公
+Well, there's that, but I actually have a bit of business with you, Souko-san.
+＃想子
+What is it?
+Souko-san was still in the dining hall.
+＃想子
+Oh, do you still need something?
+＃主人公
+Yes, is that alright?
+Souko-san and Narumi-san were in the dining hall.
+＃想子
+Oh, what's wrong?
+＃主人公
+No, well, I don't really have any particular business.
+＃なるみ
+Do you want something to eat?
+＃主人公
+I can wait a little longer.
+＃なるみ
+I see. I'm planning to have lunch ready a bit after one.
+＃主人公
+Understood.
+Now then, what should I do next?
+Souko-san and Narumi-san were in the dining hall.
+＃想子
+Oh, do you still need something?
+＃主人公
+Yes, well.
+Now, which one should I talk to?
+I’ve arrived at the dining hall.
+＃紅緒
+Hm, oh, it's just you.
+Benio-san was there.
+＃あかね
+Lady Benio, have you seen Lady Ai?
+＃紅緒
+Sister? ...No, I haven't.
+Benio-san tilts her head curiously.
+＃主人公
+It seems she hasn't been seen for a while now.
+＃紅緒
+Hmm... I wonder what she's up to.
+＃あかね
+Please let us know if you see her.
+＃紅緒
+Yeah, I got it.
+We decided to search elsewhere.
+Benio-san was still in the dining hall.
+＃紅緒
+Did you find my sister?
+＃主人公
+No... not yet.
+＃あかね
+Lady Benio, do you know anything at all?
+＃紅緒
+Me? ...I wouldn't know. I'm not really interested in what my sister does in her spare time...
+＃主人公
+I see...
+It can't be helped; let's go search somewhere else.
+When I entered the large dining hall, Souko-san and Benio-san were there.
+＃主人公
+Souko-san, have you seen Ai-san?
+＃想子
+Ai-san? No, I haven't, but did something happen?
+＃あかね
+She hasn't been seen for a while.
+＃想子
+I see... Benio-san, have you seen her?
+＃紅緒
+No, I haven't seen her either.
+＃主人公
+Is that so...
+＃想子
+...I have a bad feeling about this.
+Souko-san mutters quietly.
+＃紅緒
+You're right. Go find her quickly.
+＃主人公
+Yes, I know.
+Akane-san and I decided to go search elsewhere.
+When I entered the large dining hall, Souko-san and Benio-san were there.
+＃想子
+Did you find Ai-san?
+＃主人公
+The thing is... not yet.
+＃想子
+I see...
+＃紅緒
+We should try looking for her as well.
+＃あかね
+Yes. Thank you very much.
+Akane-san bows deeply.
+Let's go search somewhere else too.
+Souko-san was in the dining hall.
+＃想子
+Oh, what are you two up to?
+＃主人公
+Souko-san, have you seen Ai-san?
+＃想子
+Ai-san...? I haven't.
+＃あかね
+I see...
+Akane-san's shoulders slump.
+＃主人公
+Please let us know if you see her. We'll be looking elsewhere.
+＃想子
+Yes, I understand.
+We decided to go somewhere else.
+Souko-san was still in the dining hall.
+＃想子
+Did you find Ai-san?
+＃あかね
+The thing is... not yet.
+＃想子
+I see... It's strange that she can't be found within this building...
+＃主人公
+You're right...
+＃あかね
+We'll try looking elsewhere.
+We decided to go somewhere else.
+Souko-san and Narumi-san were in the dining hall.
+＃想子
+Oh, what's the matter?
+＃主人公
+Souko-san, have you seen Ai-san?
+＃想子
+Ai-san...? No, I haven't.
+＃なるみ
+She hasn't come here either.
+＃あかね
+I see...
+＃主人公
+We'll try looking elsewhere.
+We decided to go somewhere else.
+Souko-san and Narumi-san were in the dining hall.
+＃想子
+Oh, are you still looking?
+＃あかね
+Yes...
+＃なるみ
+Lady Ai, huh...
+＃主人公
+...We'll try somewhere else.
+We decided to search another location.

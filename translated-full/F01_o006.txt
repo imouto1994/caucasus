@@ -1,0 +1,40 @@
+＃想子
+To think there's even a chapel inside the building... the wealthy really are something else.
+＃主人公
+You're right...
+＃摩夜
+I believe the chapel has been here since this building was first constructed.
+＃主人公
+Is that so...
+＃藍
+I've heard that chapel has always been used for the Nanatsuki family's weddings.
+＃主人公
+Is that so...
+＃紅緒
+You will be able to see the inside of the chapel later.
+＃主人公
+True.
+＃辻村
+Preparations for the ceremony are underway now, so you cannot see the inside.
+＃主人公
+I see...
+＃六曜
+No need to rush; you'll be able to go inside later.
+＃主人公
+You're right.
+＃高嶺
+They're preparing for the ceremony, so you can't go in.
+＃主人公
+I see...
+＃御巫
+Aren't they preparing for the wedding in the chapel right now?
+＃主人公
+I see.
+＃あかね
+The chapel is quite a chore to clean. We don't use it normally, so it doesn't get very dirty, though.
+＃主人公
+I see.
+＃なるみ
+A chapel that's only used for weddings... it's a bit of a luxury, isn't it?
+＃主人公
+I suppose so...

@@ -1,0 +1,39 @@
+I've come to the front of Tsujimura-san's room.
+I knock on the door.
+＃主人公
+Tsujimura-san, it's me.
+The door opens, and Tsujimura-san peeks his head out.
+＃辻村
+Is something the matter?
+＃主人公
+Do you have a moment?
+＃辻村
+Sure, I don't mind. Please, come in.
+＃主人公
+Excuse me.
+I enter Tsujimura-san's room.
+＃辻村
+So, how can I help you?
+I've come to the front of Tsujimura-san's room again.
+I knock on the door.
+＃辻村
+Yes, who is it?
+＃主人公
+Hello, Tsujimura-san.
+＃辻村
+Ah, it's you. What is it this time?
+＃主人公
+Do you have a moment?
+＃辻村
+Sure, I don't mind. Please, come in.
+＃主人公
+Excuse me.
+I enter Tsujimura-san's room.
+＃辻村
+How can I help you?
+I've come to the front of Tsujimura-san's room.
+I knock on the door.
+＃主人公
+Oh... maybe he's not here.
+No matter how long I waited, there was no response.
+It can't be helped, I'll go somewhere else.

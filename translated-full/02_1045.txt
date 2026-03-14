@@ -1,0 +1,62 @@
+Right across from the infirmary was my own room.
+＃想子
+You're late.
+Souko-san was already in my room.
+＃主人公
+Why are you here already...?
+＃想子
+You didn't lock the door.
+Ignoring my question, Souko-san pointed that out.
+＃想子
+You never know what might happen, so make sure you keep the door locked tight.
+＃主人公
+...Do you really think something else is going to happen, Souko-san?
+＃想子
+It would be best if nothing did, but...
+＃主人公
+So you're saying there's a chance?
+＃想子
+It’s better to consider it a possibility.
+＃主人公
+I suppose so...
+＃想子
+Now then?let’s think about the incident from earlier.
+Souko-san straightened her posture and turned to face me.
+＃想子
+I hope there’s a clue among the things you found...
+＃主人公
+I think it’s better to think it over than to just worry. However...
+＃想子
+However?
+＃主人公
+...Is it really okay for us outsiders to just start exposing the killer on our own?
+＃想子
+...I think we're the only ones who can do it, but... it’s a difficult position. If we handle it poorly, it could interfere with our actions from here on.
+＃主人公
+It’ll be quite a while before we can leave this place...
+We might end up spending several days in a thick, stifling atmosphere.
+＃想子
+So, whether or not to point out the killer is up to you. If you're confident in your reasoning, I don't think it'll be a problem.
+＃主人公
+That's a lot of responsibility...
+Now then... what should I do?
+[Point out the killer]
+[Don't point out the killer]
+＃主人公
+...If it’s something we can do, I think we have to do it.
+＃想子
+I see... In that case, I’ll gather everyone and have you explain it to them, alright?
+＃主人公
+Yeah... let’s go.
+＃主人公
+...Let’s not.
+I lacked the confidence.
+Not confidence in finding the killer?but confidence in being able to settle things properly afterward.
+＃想子
+...True, that might be for the best.
+Souko-san seemed to agree.
+＃主人公
+Let’s just watch how things play out for a while.
+＃想子
+Understood.
+We decided to take a little time to organize our thoughts separately.

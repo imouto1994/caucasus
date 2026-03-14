@@ -1,0 +1,84 @@
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+＃主人公
+Huh... I guess he's not in.
+Even after waiting, there was no response.
+It can't be helped; I'll head elsewhere.
+I’ve come to the front of Tsujimura-san's room.
+I knock on the door.
+＃主人公
+Tsujimura-san, it's me.
+The door opened, and Tsujimura-san peeked out.
+＃辻村
+Is something the matter?
+＃主人公
+Do you have a moment?
+＃辻村
+I was thinking of doing a bit of cleaning in the chapel, actually...
+＃主人公
+Cleaning...?
+＃辻村
+Yes... after using it for the wedding, I simply locked it up immediately... do you think it would be better if I didn't touch it just yet...?
+＃主人公
+Well...
+Leave it as it is
+It's fine
+I'll do it
+＃主人公
+...I think it would be better if you left it as it is.
+＃辻村
+...I suppose you're right.
+Tsujimura-san's shoulders slumped slightly.
+＃主人公
+It would be a serious matter if you cleaned up some crucial evidence, after all.
+＃辻村
+Yes... I understand.
+＃主人公
+Well then, I'll be going.
+I decided to head for another location.
+＃主人公
+I think it'll be fine. The chapel has nothing to do with the incident, after all.
+＃辻村
+I see. Then I shall go tidy up... I just can't seem to settle my mind unless I'm working.
+Tsujimura-san gave a faint, weary smile.
+＃主人公
+Well then, I'll be going.
+I decided to head for another location.
+＃主人公
+I'll handle the cleaning for you.
+＃辻村
+No, I couldn't let a guest... ah, no... I suppose if anything were to happen and I had tidied it up, the suspicion would fall on me...?
+＃主人公
+...Yes, that’s exactly it. I don't think I have everyone's complete trust, but even so, I believe I'm more suited for it.
+＃辻村
+...You're right. Then... I leave it to you.
+Tsujimura-san took out a key and handed it to me.
+＃主人公
+...Given the current situation, I don't think I'll be able to get much cleaning done, though...
+＃辻村
+I don't mind. There's something... you wish to investigate, isn't there?
+＃主人公
+Well...
+＃辻村
+...I'm counting on you.
+Tsujimura-san bowed his head deeply once more.
+＃主人公
+...Well then, excuse me.
+Now then... let's go take a look.
+I’ve come to the front of Tsujimura-san's room again.
+I knock on the door.
+＃辻村
+Yes, who is it?
+＃主人公
+Hello, Tsujimura-san.
+＃辻村
+Ah, it was you. What is it this time?
+＃主人公
+Do you have a moment?
+＃辻村
+Yes, I don't mind. Please, come inside.
+＃主人公
+Excuse me.
+I enter Tsujimura-san's room.
+＃辻村
+What can I do for you?

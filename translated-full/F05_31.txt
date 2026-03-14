@@ -1,0 +1,50 @@
+＃主人公
+Hello, Dr. Mikanagi.
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+＃御巫
+Ah, just in time.
+＃主人公
+Eh, what is it?
+＃御巫
+I seem to have left my medical bag in my room. Would you mind going to fetch it for me?
+＃主人公
+Sure, I don't mind, but...
+＃御巫
+Here, this is the key to my room. I’m counting on you.
+With that, Dr. Mikanagi turned his gaze back to the documents on his desk.
+It doesn't look like I'll be able to talk to him now. I'll take care of what he asked and then come back.
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+＃御巫
+Did you bring the bag for me?
+＃主人公
+Ah...
+I completely forgot.
+＃御巫
+Could it be you didn't know which room was mine?
+＃主人公
+No, it's not that...
+It’s right next to mine, after all.
+＃主人公
+I-I'll go get it right away.
+I hurried out of the infirmary as if I were making an escape.
+＃主人公
+Here, this is it, right?
+I held out the bag I’d brought from Dr. Mikanagi's room.
+＃御巫
+Thank you, you've been a great help.
+Dr. Mikanagi took several documents out of the bag.
+＃主人公
+Um... do you have a moment?
+＃御巫
+Yes, I don't mind.
+Now, what should I do?
+＃主人公
+Excuse me.
+As I entered the infirmary, Dr. Mikanagi looked up from his desk.
+＃御巫
+Oh, what is it this time?
+＃主人公
+Do you have a moment?
+＃御巫
+Yes, go ahead.
+Now, what should I do?
