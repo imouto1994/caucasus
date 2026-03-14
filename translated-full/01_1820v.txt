@@ -40,7 +40,7 @@ Haha, my apologies. I assure you, I had no such intentions.
 ＃六曜
 And your name is?
 ＃主人公
-Oh, me? My name is (NAME01) (NAME02). Um, congratulations on your marriage.
+Oh, me? My name is Kobayashi Satoshi. Um, congratulations on your marriage.
 ＃六曜
 Ah, thank you.
 ＃御巫

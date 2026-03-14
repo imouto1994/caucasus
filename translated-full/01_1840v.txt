@@ -32,7 +32,7 @@ I see.
 I'm Souko Kirihara. I apologize for the intrusion, but we'll be staying here for the night.
 As expected of Souko-san, she didn't seem even slightly rattled by the man's intimidating presence.
 ＃主人公
-Ah, I'm (NAME01) (NAME02).
+Ah, I'm Kobayashi Satoshi.
 ＃？？？
 I'm Jin Takamine, the legal counsel for this family. Pleasure.
 ＃主人公
@@ -97,7 +97,7 @@ The man called Tsujimura closed the heavy door and walked toward us.
 ＃？？？
 I'm Seiji Tsujimura, the manager of this estate.
 ＃主人公
-I'm (NAME01) (NAME02).
+I'm Kobayashi Satoshi.
 ＃想子
 I'm Souko Kirihara. Um, Tsujimura-san, are you the Madam's brother?
 ＃辻村
